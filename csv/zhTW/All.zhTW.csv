@@ -2,8 +2,7 @@ SET,NAME,HEALTH,TYPE,ID,PLAYERCLASS,DURABILITY,RARITY,ATTACK,COST,TEXT,FACTION,M
 Missions,伊利丹·怒風,30,Hero,TU4e_001,Hunter,,,,,,,,,,,,,,,
 Missions,博學行者阿洲,25,Hero,TU4f_001,,,,,,,,,,,,,,,,
 Missions,埃辛諾斯戰刃,,Weapon,TU4e_004,,2,Common,2,2,,,,,,,,,,,
-Missions,埃辛諾斯火焰,,Hero Power,TU4e_002,,,,,2,<b>英雄能力</b>
-召喚兩個2/1手下,,,,,,,,,,
+Missions,埃辛諾斯火焰,,Hero Power,TU4e_002,,,,,2,<b>英雄能力</b>召喚兩個2/1手下,,,,,,,,,,
 Missions,埃辛諾斯火焰,1,Minion,TU4e_002t,,,Common,2,1,,,,,,,,,,,
 Missions,巨大的豺狼人,2,Minion,TU4a_005,,,Common,5,4,,,,,,,,,,,
 Missions,影潘武僧,2,Minion,TU4f_003,,,Common,2,2,,,,,,,,,,,
@@ -15,8 +14,7 @@ Missions,河爪豺狼人,1,Minion,TU4a_002,,,Common,2,1,,,,,,,,,,,
 Missions,烈焰爆擊,,Spell,TU4e_005,,,Common,,3,發射5顆飛彈攻擊隨機敵人，每一顆造成$1點傷害,,,,,,,,,,
 Missions,熊貓人斥候,1,Minion,TU4f_002,,,Common,1,1,,,,,,,,,,,
 Missions,狂獵人,1,Minion,TU4d_002,,,Common,1,1,,,,,,,,,,,
-Missions,獵槍衝擊,,Hero Power,TU4d_003,Hunter,,Common,,2,<b>英雄能力</b>
-造成1點傷害,,,,,,,,,,
+Missions,獵槍衝擊,,Hero Power,TU4d_003,Hunter,,Common,,2,<b>英雄能力</b>造成1點傷害,,,,,,,,,,
 Missions,珍娜·普勞德摩爾,27,Hero,TU4a_006,Mage,,Common,,,,,,,,,,,,,
 Missions,瘋狂的猴子,2,Minion,TU4f_007,,,Common,1,1,<b>戰吼:</b>丟香蕉,,Battlecry,,,,,,,,
 Missions,穆克拉,26,Hero,TU4c_001,,,Common,,,,,,,,,,,,,
@@ -153,10 +151,8 @@ Classic,心靈之怒,,Enchantment,EX1_607e,Warrior,,,,,+2攻擊力,,,,,,,,,,
 Classic,心靈之火,,Enchantment,CS1_129e,Priest,,,,,這個手下的攻擊力等於生命值,,,,,,,,,,
 Classic,心靈之火,,Spell,CS1_129,Priest,,Common,,1,使一個手下的攻擊力等同於生命值,Neutral,,,True,Steve Prescott,好主意:強化你的手下。壞主意:在貧瘠之地進行聊天。,,,,
 Classic,心靈控制,,Enchantment,EX1_tk31,Priest,,Common,,,,Neutral,Summoned,,,,,,,,
-Classic,心靈碎裂,,Hero Power,EX1_625t2,Priest,,,,2,<b>英雄能力</b>
-造成3點傷害,,,,,,,,,,
-Classic,心靈鑽刺,,Hero Power,EX1_625t,Priest,,,,2,<b>英雄能力</b>
-造成2點傷害,,,,,,,,,,
+Classic,心靈碎裂,,Hero Power,EX1_625t2,Priest,,,,2,<b>英雄能力</b>造成3點傷害,,,,,,,,,,
+Classic,心靈鑽刺,,Hero Power,EX1_625t,Priest,,,,2,<b>英雄能力</b>造成2點傷害,,,,,,,,,,
 Classic,思想竊取,,Spell,EX1_339,Priest,,Common,,3,從你對手的牌堆中複製2張牌，並放到你的手牌裡,Neutral,,,True,Alex Garner,「你對獸人施放思想竊取會偷到什麼?什麼都偷不到!」-牛頭人笑話,,,,
 Classic,惡毒的鐵匠,6,Minion,CS2_221,,,Common,4,5,<b>狂怒:</b>使你的武器+2攻擊力,Horde,Enrage,,True,Justin Sweet,她願意幫你打造一把好劍，但是你必須先收集好5塊魔鋼錠、3顆大地微粒，以及她上一位顧客的頭皮。,,,,
 Classic,惡魔守衛,5,Minion,EX1_301,Warlock,,Rare,3,3,<b>嘲諷</b>。<b>戰吼:</b>摧毀一顆你的法力水晶,Neutral,Battlecry|Taunt,,True,John Polidora,是的，他會為你而戰。但是他會不太爽。,,Demon,,
@@ -171,8 +167,7 @@ Classic,憤怒雞,1,Minion,EX1_009,,,Rare,1,1,<b>狂怒:</b>+5攻擊力,,Enrage,
 Classic,懺悔,,Enchantment,EX1_379e,Paladin,,,,,生命值下降為1點,,,,,,,,,,
 Classic,懺悔,,Spell,EX1_379,Paladin,,Common,,1,<b>秘密:</b>當你的對手打出手下時，將其生命值降為1點,Neutral,Secret,,True,Gonzalo Ordonez,人們通常在生命結束的前一刻才會懺悔。真有意思。,,,,
 Classic,戈魯爾,7,Minion,NEW1_038,,,Legendary,7,8,在每個回合結束時獲得+1/+1,,,,True,Kev Walker,他是『弒龍者』戈魯爾。其實他只是想要抱抱那些龍，並沒有真的想...,True,,,
-Classic,戰爭古樹,5,Minion,EX1_178,Druid,,Epic,5,7,<b>二選一:</b>
-+5攻擊力，或+5生命值及<b>嘲諷</b>,Neutral,,,True,Sean O’Daniels,年輕的夜精靈喜歡玩「誰能讓戰爭古樹拔根?」被踩扁就算輸。,,,,
+Classic,戰爭古樹,5,Minion,EX1_178,Druid,,Epic,5,7,<b>二選一:</b>+5攻擊力，或+5生命值及<b>嘲諷</b>,Neutral,,,True,Sean O’Daniels,年輕的夜精靈喜歡玩「誰能讓戰爭古樹拔根?」被踩扁就算輸。,,,,
 Classic,戰鬥斧,,Weapon,EX1_398t,Warrior,2,,2,1,,,,,,,,,,,
 Classic,戰鬥狂怒,,Spell,EX1_392,Warrior,,Common,,2,抽牌，數量等於友方受傷角色的總數,Neutral,,,True,Alex Horley Orlandelli,「你不會喜歡生氣時的我。」,,,,
 Classic,扭曲虛空,,Spell,EX1_312,Warlock,,Epic,,8,摧毀全部手下,Neutral,,,True,Dave Allsop,扭曲虛空是個沒有形體的地方，有著魔法、幻影及被摧毀的手下。,,,,
@@ -256,8 +251,7 @@ Classic,炸雞勇者,2,Minion,EX1_116,,,Legendary,6,5,<b>衝鋒</b>。<b>戰吼:
 Classic,烈焰小鬼,2,Minion,EX1_319,Warlock,,Common,3,1,<b>戰吼:</b>對你的英雄造成3點傷害,Neutral,Battlecry,,True,Alex Horley Orlandelli,小鬼喜歡身上冒火。他們就是喜歡。,,Demon,,
 Classic,無縛的元素,4,Minion,EX1_258,Shaman,,Common,2,3,每當你打出有<b>超載</b>的牌，便獲得+1/+1,Neutral,,,True,Matt Gaser,不像受到束縛的元素，無縛的元素可以在晚上到鎮上逛街。,,,,
 Classic,無面操縱者,3,Minion,EX1_564,,,Epic,3,5,<b>戰吼:</b>選擇一個手下並成為它的複製品,Neutral,Battlecry,,True,Raymond Swanland,無面者是尤格薩倫的僕人，它們以恐懼為食。現在它們正在吞食你害怕不小心把好牌全分解掉的恐懼。,,,,
-Classic,煉獄!,,Hero Power,EX1_tk33,Warlock,,,,2,<b>英雄能力</b>
-召喚一個6/6煉獄火,Neutral,,,,,,,,,
+Classic,煉獄!,,Hero Power,EX1_tk33,Warlock,,,,2,<b>英雄能力</b>召喚一個6/6煉獄火,Neutral,,,,,,,,,
 Classic,煉獄火,6,Minion,EX1_tk34,Warlock,,Common,6,6,,Neutral,,,,,,,Demon,,
 Classic,照明彈,,Spell,EX1_544,Hunter,,Rare,,2,全部手下失去<b>潛行</b>。摧毀全部敵方的<b>秘密</b>。抽一張牌,Neutral,,,True,Tyler Walpole,這不只是能照出你敵人的行蹤，在派對上也很好用!,,,,
 Classic,熊形態,,Spell,EX1_165b,Druid,,Common,,,+2生命值及<b>嘲諷</b>,Neutral,,,,,,,,,
@@ -341,8 +335,7 @@ Classic,范克里夫的復仇,,Enchantment,EX1_613e,Rogue,,,,,這個手下的攻
 Classic,荊棘谷猛虎,5,Minion,EX1_028,,,Common,5,5,<b>潛行</b>,Alliance,Stealth,,True,Alex Horley Orlandelli,老虎最棒的地方就是牠們棒透了!,,Beast,,
 Classic,莫魯之影,,Enchantment,EX1_590e,,,Common,,,這個手下吞噬了聖盾術，攻擊力及生命值提高,,,,,,,,,,
 Classic,著裝,,Enchantment,NEW1_037e,,,,,,攻擊力提高,,,,False,,,,,,
-Classic,葛羅瑪許·地獄吼,9,Minion,EX1_414,Warrior,,Legendary,4,8,<b>衝鋒</b>。
-<b>狂怒:</b>+6攻擊力,Neutral,Charge|Enrage,,True,Glenn Rane,葛羅瑪許帶頭喝了瑪諾洛斯的腐化之血，害獸人皮膚變綠，眼睛變紅!顯然不是個明智的決定。,True,,,
+Classic,葛羅瑪許·地獄吼,9,Minion,EX1_414,Warrior,,Legendary,4,8,<b>衝鋒</b>。<b>狂怒:</b>+6攻擊力,Neutral,Charge|Enrage,,True,Glenn Rane,葛羅瑪許帶頭喝了瑪諾洛斯的腐化之血，害獸人皮膚變綠，眼睛變紅!顯然不是個明智的決定。,True,,,
 Classic,蒼藍龍,4,Minion,EX1_284,,,Rare,4,5,<b>法術傷害+1</b>。<b>戰吼:</b>抽一張牌,Neutral,Battlecry|Spellpower,,True,Ben Zhang,牠們本來是想要叫碧晶龍或天藍龍，後來覺得那樣聽起來不夠神秘。蒼藍好像也沒好多少就是了。,,Dragon,,
 Classic,虛無之影,1,Minion,EX1_345t,Priest,,Epic,0,0,心理遊戲失效!你的對手沒有手下!,,,,,,,,,,
 Classic,虛無恐獸,3,Minion,EX1_304,Warlock,,Rare,3,3,<b>戰吼:</b>摧毀其兩側的手下，獲得其攻擊力及生命值,,Battlecry,,True,Alexander Alexandrov,如果你把這張放進套牌裡，你絕對會失去其他手下的信任。,,Demon,,
@@ -437,23 +430,17 @@ Curse of Naxxramas,『瘟疫使者』諾斯,30,Hero,NAX4_01,Mage,,,,,,,,,,,,,,,
 Curse of Naxxramas,『瘟疫使者』諾斯,45,Hero,NAX4_01H,Mage,,,,,,,,,,,,,,,
 Curse of Naxxramas,不穩定的食屍鬼,3,Minion,FP1_024,,,Common,1,2,<b>嘲諷</b>。<b>死亡之聲:</b>對全部手下造成1點傷害,,Deathrattle|Taunt,,True,Mike Nicholson,死靈法師的學校喜歡教新手用火箭燃料餵食他們的食屍鬼。,,,在瘟疫區擊敗『不潔者』海根後解鎖。,在瘟疫區中擊敗『不潔者』海根即可合成。
 Curse of Naxxramas,亡域光環,,Enchantment,FP1_030e,,,,,,你的法術本回合額外消耗(5)點法力。,,,,,,,,,,
-Curse of Naxxramas,亡域光環,,Hero Power,NAX6_02,,,,,2,<b>英雄能力</b>
-對敵方英雄造成3點傷害,,,,,,,,,,
-Curse of Naxxramas,亡域光環,,Hero Power,NAX6_02H,,,,,0,<b>英雄能力</b>
-對敵方英雄造成3點傷害,,,,,,,,,,
+Curse of Naxxramas,亡域光環,,Hero Power,NAX6_02,,,,,2,<b>英雄能力</b>對敵方英雄造成3點傷害,,,,,,,,,,
+Curse of Naxxramas,亡域光環,,Hero Power,NAX6_02H,,,,,0,<b>英雄能力</b>對敵方英雄造成3點傷害,,,,,,,,,,
 Curse of Naxxramas,亡域毒,,Spell,NAX3_03,,,,,2,摧毀一個手下,,,,,,,,,,
 Curse of Naxxramas,伏晨,7,Minion,NAX13_04H,,,Legendary,4,5,,,,,,,,True,,,
 Curse of Naxxramas,伏晨,7,Minion,FP1_015,,,Legendary,4,5,<b>死亡之聲:</b>如果斯塔拉格在這場賽局中也已經死亡，召喚泰迪斯,,Deathrattle,,True,Dany Orizio,伏晨心情一直不太好，因為大家都比較喜歡斯塔拉格。,True,,完成傀儡區後解鎖。,完成傀儡區即可合成。
 Curse of Naxxramas,信奉者,4,Minion,NAX2_05,,,,1,3,你的英雄在你的回合時擁有+1攻擊力,,Aura,,,,,,,,
 Curse of Naxxramas,信奉者,4,Minion,NAX2_05H,,,,2,3,你的英雄在你的回合時擁有+3攻擊力。,,Aura,,,,,,,,
-Curse of Naxxramas,兩極移形,,Hero Power,NAX13_02,,,,,0,<b>英雄能力</b>
-對調全部手下的攻擊力及生命值,,,,,,,,,,
-Curse of Naxxramas,冰息術,,Hero Power,NAX14_02,,,,,0,<b>英雄能力</b>
-摧毀全部沒有被<b>凍結</b>的敵方手下,,,,,,,,,,
-Curse of Naxxramas,冰霜衝擊,,Hero Power,NAX15_02,,,,,0,<b>英雄能力</b>
-對敵方英雄造成2點傷害並使其<b>凍結</b>,,Freeze,,,,,,,,
-Curse of Naxxramas,冰霜衝擊,,Hero Power,NAX15_02H,,,,,0,<b>英雄能力</b>
-對敵方英雄造成3點傷害並使其<b>凍結</b>,,Freeze,,,,,,,,
+Curse of Naxxramas,兩極移形,,Hero Power,NAX13_02,,,,,0,<b>英雄能力</b>對調全部手下的攻擊力及生命值,,,,,,,,,,
+Curse of Naxxramas,冰息術,,Hero Power,NAX14_02,,,,,0,<b>英雄能力</b>摧毀全部沒有被<b>凍結</b>的敵方手下,,,,,,,,,,
+Curse of Naxxramas,冰霜衝擊,,Hero Power,NAX15_02,,,,,0,<b>英雄能力</b>對敵方英雄造成2點傷害並使其<b>凍結</b>,,Freeze,,,,,,,,
+Curse of Naxxramas,冰霜衝擊,,Hero Power,NAX15_02H,,,,,0,<b>英雄能力</b>對敵方英雄造成3點傷害並使其<b>凍結</b>,,Freeze,,,,,,,,
 Curse of Naxxramas,劇毒種子,,Spell,FP1_019,Druid,,Common,,4,摧毀全部手下並召喚2/2的樹人來取代它們,,,,True,Brian Despain,劇毒種子風味的麵包通常乏人問津。,,,在納克薩瑪斯中完成德魯伊職業挑戰後解鎖。,在納克薩瑪斯中完成德魯伊職業挑戰即可合成。
 Curse of Naxxramas,古魯斯,45,Hero,NAX12_01H,,,,,,,,,,,,,,,,
 Curse of Naxxramas,古魯斯,30,Hero,NAX12_01,,,,,,,,,,,,,,,,
@@ -465,10 +452,8 @@ Curse of Naxxramas,噬咬,,Weapon,NAX12_03,,5,,1,1,每當有<b>死亡之聲</b>�
 Curse of Naxxramas,報復,,Spell,FP1_020,Paladin,,Common,,1,<b>秘密:</b>當你的其中一個手下死亡時，賦予一個隨機的友方手下+3/+2,,Secret,,True,Zoltan & Gabor,有一群聖騎士組成了一團「正義之師」。他們的律師說服了他們不要取「正義聯盟」這個名稱。,,,在納克薩瑪斯中完成聖騎士職業挑戰後解鎖。,在納克薩瑪斯中完成聖騎士職業挑戰即可合成。
 Curse of Naxxramas,大寡婦費琳娜,30,Hero,NAX2_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,大寡婦費琳娜,45,Hero,NAX2_01H,,,,,,,,,,,,,,,,
-Curse of Naxxramas,失衡打擊,,Hero Power,NAX7_03H,,,,,1,<b>英雄能力</b>
-造成4點傷害,,,,,,,,,,
-Curse of Naxxramas,失衡打擊,,Hero Power,NAX7_03,,,,,2,<b>英雄能力</b>
-造成3點傷害,,,,,,,,,,
+Curse of Naxxramas,失衡打擊,,Hero Power,NAX7_03H,,,,,1,<b>英雄能力</b>造成4點傷害,,,,,,,,,,
+Curse of Naxxramas,失衡打擊,,Hero Power,NAX7_03,,,,,2,<b>英雄能力</b>造成3點傷害,,,,,,,,,,
 Curse of Naxxramas,奈幽之卵,2,Minion,FP1_007,,,Rare,0,2,<b>死亡之聲:</b>召喚一個4/4的奈幽蟲族,,Deathrattle,,True,Justin Thavirat,裡頭除了蛋白質，還有奈幽蟲族。,,,在蜘蛛區擊敗梅克絲娜後解鎖。,在蜘蛛區中擊敗梅克絲娜即可合成。
 Curse of Naxxramas,奈幽巴蛛網領主,4,Minion,FP1_017,,,Common,1,2,有著<b>戰吼</b>的手下消耗增加(2)點,,Aura,,True,Alex Horley Orlandelli,蛛網領主整天都在做彈簧墊。,,,在蜘蛛區擊敗大寡婦費琳娜後解鎖。,在蜘蛛區中擊敗大寡婦費琳娜即可合成。
 Curse of Naxxramas,奈幽蟲族,1,Minion,NAX1_03,,,,3,2,,,,,,,,,,,
@@ -486,17 +471,13 @@ Curse of Naxxramas,布洛莫斯女士,7,Minion,NAX9_02,,,,1,3,你的英雄<b>免
 Curse of Naxxramas,布洛莫斯女士,7,Minion,NAX9_02H,,,,2,3,你的英雄<b>免疫</b>,,,,,,,True,,,
 Curse of Naxxramas,復仇,,Enchantment,FP1_020e,Paladin,,,,,+3/+2,,,,,,,,,,
 Curse of Naxxramas,心靈末日風暴,,Spell,NAX5_03,,,,,2,雙方玩家各抽2張牌並獲得一顆法力水晶,,,,,,,,,,
-Curse of Naxxramas,憎恨打擊,,Hero Power,NAX10_03H,,,,,4,<b>英雄能力</b>
-摧毀一個手下,,,,,,,,,,
-Curse of Naxxramas,憎恨打擊,,Hero Power,NAX10_03,,,,,4,<b>英雄能力</b>
-摧毀一個手下,,,,,,,,,,
+Curse of Naxxramas,憎恨打擊,,Hero Power,NAX10_03H,,,,,4,<b>英雄能力</b>摧毀一個手下,,,,,,,,,,
+Curse of Naxxramas,憎恨打擊,,Hero Power,NAX10_03,,,,,4,<b>英雄能力</b>摧毀一個手下,,,,,,,,,,
 Curse of Naxxramas,憎恨者,75,Hero,NAX6_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,憎恨者,5,Minion,FP1_030,,,Legendary,5,5,<b>戰吼:</b>下回合敵方的法術額外消耗(5)點法力。,,Battlecry,,True,Samwise,憎恨者原本只是一隻平凡的沼澤獸。為什麼我們需要更嚴格的礦業跟農業法案?牠就是活生生的例子。,True,,完成瘟疫區後解鎖。,完成瘟疫區即可合成。
 Curse of Naxxramas,憎恨者,99,Hero,NAX6_01H,,,,,,,,,,,,,,,,
-Curse of Naxxramas,收割,,Hero Power,NAX8_02,,,,,2,<b>英雄能力</b>
-抽一張牌,,,,,,,,,,
-Curse of Naxxramas,收割,,Hero Power,NAX8_02H,,,,,1,<b>英雄能力</b>
-抽一張牌。獲得一顆法力水晶,,,,,,,,,,
+Curse of Naxxramas,收割,,Hero Power,NAX8_02,,,,,2,<b>英雄能力</b>抽一張牌,,,,,,,,,,
+Curse of Naxxramas,收割,,Hero Power,NAX8_02H,,,,,1,<b>英雄能力</b>抽一張牌。獲得一顆法力水晶,,,,,,,,,,
 Curse of Naxxramas,斯塔拉格,4,Minion,NAX13_05H,,,Legendary,7,5,,,,,,,,True,,,
 Curse of Naxxramas,斯塔拉格,4,Minion,FP1_014,,,Legendary,7,5,<b>死亡之聲:</b>如果伏晨在這場賽局中也已經死亡，召喚泰迪斯,,Deathrattle,,True,Dany Orizio,斯塔拉格想要自己寫這一段。「斯塔拉格最厲害!」,True,,完成傀儡區後解鎖。,完成傀儡區即可合成。
 Curse of Naxxramas,札里克爵士,7,Minion,NAX9_04,,,,1,3,你的英雄<b>免疫</b>,,,,,,,True,,,
@@ -511,38 +492,27 @@ Curse of Naxxramas,死亡之噬,,Weapon,FP1_021,Warrior,2,Common,4,4,<b>死亡�
 Curse of Naxxramas,死亡之花,,Spell,NAX6_03,,,,,4,對一個手下造成$5點傷害。召喚一個孢子,,,,,,,,,,
 Curse of Naxxramas,死亡戰騎,3,Minion,FP1_006,,,,2,1,<b>衝鋒</b>。<b>死亡之聲:</b>對你的英雄造成3點傷害,,Charge|Deathrattle,,,,,,,,
 Curse of Naxxramas,死亡領主,8,Minion,FP1_009,,,Rare,2,3,<b>嘲諷。死亡之聲:</b>你的對手將牌堆中的一個手下放進戰場,,Deathrattle|Taunt,,True,Ben Olson,「從墳墓中起身吧!」-科爾蘇加德,,,在軍事區擊敗四騎士後解鎖。,在軍事區中擊敗四騎士即可合成。
-Curse of Naxxramas,死者復生,,Hero Power,NAX4_04H,,,,,0,<b>被動英雄能力</b>
-每當有敵人死亡，召喚一個5/5骷髏,,,,,,,,,,
-Curse of Naxxramas,死者復生,,Hero Power,NAX4_04,,,,,0,<b>被動英雄能力</b>
-每當有敵人死亡，召喚一個1/1骷髏,,,,,,,,,,
+Curse of Naxxramas,死者復生,,Hero Power,NAX4_04H,,,,,0,<b>被動英雄能力</b>每當有敵人死亡，召喚一個5/5骷髏,,,,,,,,,,
+Curse of Naxxramas,死者復生,,Hero Power,NAX4_04,,,,,0,<b>被動英雄能力</b>每當有敵人死亡，召喚一個1/1骷髏,,,,,,,,,,
 Curse of Naxxramas,死靈騎士,6,Minion,NAXM_001,,,,5,4,<b>死亡之聲:</b>同時摧毀兩側的手下,,Deathrattle,,,,,,,,
 Curse of Naxxramas,殯葬管理員,2,Minion,FP1_028,,,Common,1,1,每當你召喚有<b>死亡之聲</b>的手下，獲得+1攻擊力,,,,True,Jonboy Meyers,在一個可以跑去找靈魂醫者自己復活的世界裡，殯葬管理員的工作非常輕鬆愉快。,,,在傀儡區擊敗縫補者後解鎖。,在傀儡區中擊敗縫補者即可合成。
-Curse of Naxxramas,毒雲,,Hero Power,NAX11_02,,,,,2,<b>英雄能力</b>
-對全部手下造成1點傷害。若有手下死亡，召喚一個泥漿怪,,,,,,,,,,
-Curse of Naxxramas,毒雲,,Hero Power,NAX11_02H,,,,,0,<b>英雄能力</b>
-對全部敵人造成2點傷害。若有手下死亡，召喚一個泥漿怪,,,,,,,,,,
+Curse of Naxxramas,毒雲,,Hero Power,NAX11_02,,,,,2,<b>英雄能力</b>對全部手下造成1點傷害。若有手下死亡，召喚一個泥漿怪,,,,,,,,,,
+Curse of Naxxramas,毒雲,,Hero Power,NAX11_02H,,,,,0,<b>英雄能力</b>對全部敵人造成2點傷害。若有手下死亡，召喚一個泥漿怪,,,,,,,,,,
 Curse of Naxxramas,泥漿怪,2,Minion,FP1_012t,,,,1,1,<b>嘲諷</b>,,Taunt,,,,,,,,
 Curse of Naxxramas,泰迪斯,11,Minion,FP1_014t,,,Legendary,11,10,,,,,,,,True,,,
 Curse of Naxxramas,泰迪斯,30,Hero,NAX13_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,泰迪斯,45,Hero,NAX13_01H,,,,,,,,,,,,,,,,
-Curse of Naxxramas,淤泥噴射者,5,Minion,FP1_012,,,Rare,3,5,<b>嘲諷。
-死亡之聲:</b>召喚一個有<b>嘲諷</b>的1/2軟泥怪,,Deathrattle|Taunt,,True,Nate Bowden,千萬不要讓他喝啤酒。,,,在瘟疫區擊敗憎恨者後解鎖。,在瘟疫區中擊敗憎恨者即可合成。
-Curse of Naxxramas,滅殺,,Hero Power,NAX12_02,,,,,2,<b>英雄能力</b>
-將全部手下的生命值改為1點,,,,,,,,,,
+Curse of Naxxramas,淤泥噴射者,5,Minion,FP1_012,,,Rare,3,5,<b>嘲諷。死亡之聲:</b>召喚一個有<b>嘲諷</b>的1/2軟泥怪,,Deathrattle|Taunt,,True,Nate Bowden,千萬不要讓他喝啤酒。,,,在瘟疫區擊敗憎恨者後解鎖。,在瘟疫區中擊敗憎恨者即可合成。
+Curse of Naxxramas,滅殺,,Hero Power,NAX12_02,,,,,2,<b>英雄能力</b>將全部手下的生命值改為1點,,,,,,,,,,
 Curse of Naxxramas,滅殺,,Enchantment,NAX12_02e,,,,,,生命值改為1點,,,,,,,,,,
-Curse of Naxxramas,滅殺,,Hero Power,NAX12_02H,,,,,0,<b>英雄能力</b>
-將全部敵方手下的生命值改為1點,,,,,,,,,,
-Curse of Naxxramas,火焰之雨,,Hero Power,NAX2_03,,,,,2,<b>英雄能力</b>
-發射飛彈，數量相當於敵方的手牌數量,,ImmuneToSpellpower,,,,,,,,
-Curse of Naxxramas,火焰之雨,,Hero Power,NAX2_03H,,,,,1,<b>英雄能力</b>
-發射飛彈，數量相當於敵方的手牌數量,,ImmuneToSpellpower,,,,,,,,
+Curse of Naxxramas,滅殺,,Hero Power,NAX12_02H,,,,,0,<b>英雄能力</b>將全部敵方手下的生命值改為1點,,,,,,,,,,
+Curse of Naxxramas,火焰之雨,,Hero Power,NAX2_03,,,,,2,<b>英雄能力</b>發射飛彈，數量相當於敵方的手牌數量,,ImmuneToSpellpower,,,,,,,,
+Curse of Naxxramas,火焰之雨,,Hero Power,NAX2_03H,,,,,1,<b>英雄能力</b>發射飛彈，數量相當於敵方的手牌數量,,ImmuneToSpellpower,,,,,,,,
 Curse of Naxxramas,無情的受訓員,2,Minion,NAX8_03,,,,2,1,<b>死亡之聲:</b>為你的對手召喚一個鬼靈受訓員,,Deathrattle,,,,,,,,
 Curse of Naxxramas,無情的戰士,4,Minion,NAX8_04,,,,3,3,<b>死亡之聲:</b>為你的對手召喚一個鬼靈戰士,,Deathrattle,,,,,,,,
 Curse of Naxxramas,無情的騎兵,6,Minion,NAX8_05,,,,5,6,<b>死亡之聲:</b>為你的對手召喚一個鬼靈騎兵,,Deathrattle,,,,,,,,
-Curse of Naxxramas,爆發,,Hero Power,NAX5_02,,,,,1,<b>英雄能力</b>
-對敵方最左邊的手下造成2點傷害,,,,,,,,,,
-Curse of Naxxramas,爆發,,Hero Power,NAX5_02H,,,,,0,<b>英雄能力</b>
-對敵方最左邊的手下造成3點傷害,,,,,,,,,,
+Curse of Naxxramas,爆發,,Hero Power,NAX5_02,,,,,1,<b>英雄能力</b>對敵方最左邊的手下造成2點傷害,,,,,,,,,,
+Curse of Naxxramas,爆發,,Hero Power,NAX5_02H,,,,,0,<b>英雄能力</b>對敵方最左邊的手下造成3點傷害,,,,,,,,,,
 Curse of Naxxramas,狂怒,,Enchantment,NAX12_04e,,,,,,本回合+6攻擊力,,OneTurnEffect,,,,,,,,
 Curse of Naxxramas,狂怒,,Spell,NAX12_04,,,,,3,本回合賦予你的英雄+6攻擊力,,,,,,,,,,
 Curse of Naxxramas,瑞文戴爾男爵,14,Hero,NAX9_01H,,,,,,,,,,,,,,,,
@@ -568,25 +538,20 @@ Curse of Naxxramas,縫補者,30,Hero,NAX10_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,織網者,1,Minion,FP1_011,Hunter,,Common,1,1,<b>死亡之聲:</b>放一張隨機野獸牌到你的手牌中,,Deathrattle,,True,Dan Brereton,只有我在把繭打開時會感覺像是在開獎嗎?,,Beast,在納克薩瑪斯中完成獵人職業挑戰後解鎖。,在納克薩瑪斯中完成獵人職業挑戰即可合成。
 Curse of Naxxramas,肉身殭屍,3,Minion,FP1_001,,,Common,2,1,<b>死亡之聲:</b>敵方英雄恢復5點生命值,,Deathrattle,,True,E. M. Gist,殭屍。晚餐就吃這個。,,,在傀儡區擊敗古魯斯後解鎖。,在傀儡區中擊敗古魯斯即可合成。
 Curse of Naxxramas,肉鉤,,Weapon,NAX10_02,,8,,5,3,<b>死亡之聲:</b>使這把武器回到手牌中,,Deathrattle,,,,,,,,
-Curse of Naxxramas,肉鉤,,Weapon,NAX10_02H,,8,,4,3,<b>風怒</b>
-<b>死亡之聲:</b>使這把武器回到手牌中,,Deathrattle|Windfury,,,,,,,,
+Curse of Naxxramas,肉鉤,,Weapon,NAX10_02H,,8,,4,3,<b>風怒</b><b>死亡之聲:</b>使這把武器回到手牌中,,Deathrattle|Windfury,,,,,,,,
 Curse of Naxxramas,舞動的劍,4,Minion,FP1_029,,,Common,4,3,<b>死亡之聲:</b>你的對手抽一張牌,,Deathrattle,,True,Jon McConnell,它們喜歡跳雷鬼的音樂。,,,在軍事區擊敗講師拉祖維斯後解鎖。,在軍事區中擊敗講師拉祖維斯即可合成。
 Curse of Naxxramas,葛羅巴斯,30,Hero,NAX11_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,葛羅巴斯,45,Hero,NAX11_01H,,,,,,,,,,,,,,,,
 Curse of Naxxramas,薩菲隆,30,Hero,NAX14_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,薩菲隆,45,Hero,NAX14_01H,,,,,,,,,,,,,,,,
 Curse of Naxxramas,虛無呼喚者,4,Minion,FP1_022,Warlock,,Common,3,4,<b>死亡之聲:</b>將你手上的一個隨機惡魔放到戰場,,Deathrattle,,True,Robb Shoberg,虛無!虛無!虛無!,,Demon,在納克薩瑪斯中完成術士職業挑戰後解鎖。,在納克薩瑪斯中完成術士職業挑戰即可合成。
-Curse of Naxxramas,蛛網纏繞,,Hero Power,NAX3_02H,,,,,0,<b>英雄能力</b>
-使2個隨機的敵方手下返回對手的手上,,,,,,,,,,
-Curse of Naxxramas,蛛網纏繞,,Hero Power,NAX3_02,,,,,3,<b>英雄能力</b>
-使一個隨機的敵方手下返回對手的手上,,,,,,,,,,
+Curse of Naxxramas,蛛網纏繞,,Hero Power,NAX3_02H,,,,,0,<b>英雄能力</b>使2個隨機的敵方手下返回對手的手上,,,,,,,,,,
+Curse of Naxxramas,蛛網纏繞,,Hero Power,NAX3_02,,,,,3,<b>英雄能力</b>使一個隨機的敵方手下返回對手的手上,,,,,,,,,,
 Curse of Naxxramas,被凍結的勇士,10,Minion,NAX14_03,,,,2,5,永遠被凍結。兩側的手下對冰息術免疫,,Aura,,,,,,,,
 Curse of Naxxramas,複製,,Spell,FP1_018,Mage,,Common,,3,<b>秘密:</b>當一個友方手下死亡時，放兩張該手下的卡片到你的手牌裡,,Secret,,True,Alex Garner,這是唯一一次複製卡片不會讓你的帳號被封鎖喔!,,,在納克薩瑪斯中完成法師職業挑戰後解鎖。,在納克薩瑪斯中完成法師職業挑戰即可合成。
 Curse of Naxxramas,見習騎士,7,Minion,NAX7_02,,,,0,2,<b>嘲諷</b>,,Taunt,,,,,,,,
-Curse of Naxxramas,誘捕者,,Hero Power,NAX1h_04,,,,,2,<b>英雄能力</b>
-召喚一個4/4奈幽蟲族,,,,,,,,,,
-Curse of Naxxramas,誘捕者,,Hero Power,NAX1_04,,,,,2,<b>英雄能力</b>
-召喚一個3/1奈幽蟲族,,,,,,,,,,
+Curse of Naxxramas,誘捕者,,Hero Power,NAX1h_04,,,,,2,<b>英雄能力</b>召喚一個4/4奈幽蟲族,,,,,,,,,,
+Curse of Naxxramas,誘捕者,,Hero Power,NAX1_04,,,,,2,<b>英雄能力</b>召喚一個3/1奈幽蟲族,,,,,,,,,,
 Curse of Naxxramas,講師拉祖維斯,40,Hero,NAX7_01,,,,,,,,,,,,,,,,
 Curse of Naxxramas,講師拉祖維斯,55,Hero,NAX7_01H,,,,,,,,,,,,,,,,
 Curse of Naxxramas,超級充能,,Enchantment,NAX13_03e,,,,,,+2生命值,,,,,,,,,,
@@ -594,13 +559,10 @@ Curse of Naxxramas,超級充能,,Spell,NAX13_03,,,,,2,賦予你全部的手下+2
 Curse of Naxxramas,輻射泥漿怪,2,Minion,NAX11_03,,,,2,1,,,,,,,,,,,
 Curse of Naxxramas,迴音軟泥怪,2,Minion,FP1_003,,,Epic,1,2,<b>戰吼:</b>在回合結束時召喚一個與此手下一模一樣的複製品,,Battlecry,,True,Eric Browning,軟泥...軟泥...軟泥...怪...(迴音),,,在冰霜巨龍巢穴擊敗薩菲隆後解鎖。,在冰霜巨龍巢穴中擊敗薩菲隆即可合成。
 Curse of Naxxramas,通靈塔之力,,Enchantment,FP1_023e,Priest,,,,,+3生命值,,,,,,,,,,
-Curse of Naxxramas,邪惡暗影,,Hero Power,NAX9_06,,,,,5,<b>英雄能力</b>
-抽2張牌,,,,,,,,,,
+Curse of Naxxramas,邪惡暗影,,Hero Power,NAX9_06,,,,,5,<b>英雄能力</b>抽2張牌,,,,,,,,,,
 Curse of Naxxramas,重生,,Spell,FP1_025,Shaman,,Common,,2,摧毀一個手下，然後將它復活並使其生命值恢復到全滿,,,,True,Dan Scott,這就像出生一樣，只不過一出生就是成年，而且原本不久前才剛剛死掉。,,,在納克薩瑪斯中完成薩滿職業挑戰後解鎖。,在納克薩瑪斯中完成薩滿職業挑戰即可合成。
-Curse of Naxxramas,鍊腕,,Hero Power,NAX15_04H,,,,,8,<b>英雄能力</b>
-控制一個隨機敵方手下,,,,,,,,,,
-Curse of Naxxramas,鍊腕,,Hero Power,NAX15_04,,,,,8,<b>英雄能力</b>
-控制一個隨機敵方手下直到回合結束,,,,,,,,,,
+Curse of Naxxramas,鍊腕,,Hero Power,NAX15_04H,,,,,8,<b>英雄能力</b>控制一個隨機敵方手下,,,,,,,,,,
+Curse of Naxxramas,鍊腕,,Hero Power,NAX15_04,,,,,8,<b>英雄能力</b>控制一個隨機敵方手下直到回合結束,,,,,,,,,,
 Curse of Naxxramas,長新牙,,Enchantment,NAX12_03e,,,,,,攻擊力提高,,,,,,,,,,
 Curse of Naxxramas,闖入者!,,Enchantment,NAX15_01e,,,,,,,,,,,,,,,,
 Curse of Naxxramas,闖入者!,,Enchantment,NAX15_01He,,,,,,,,,,,,,,,,
@@ -657,15 +619,13 @@ Basic,剃刀沼澤獵人,3,Minion,CS2_196,,,Common,2,3,<b>戰吼:</b>召喚一�
 Basic,力量祝福,,Spell,CS2_087,Paladin,,Free,,1,賦予一個手下+3攻擊力,Neutral,,,True,Zoltan Boros,「我現在有讓你閃一邊的<b>力量</b>了。」-剛被祝福加持的蛤蟆邁克如是說。,,,於1級時解鎖。,於45級時解鎖。
 Basic,力量祝福,,Enchantment,CS2_087e,Paladin,,,,,+3攻擊力,Neutral,,,,,,,,,
 Basic,動物夥伴,,Spell,NEW1_031,Hunter,,Common,,3,召喚一隻隨機的野獸夥伴,,,,True,Wei Wang,你能召喚出米莎、里奧克或胡佛。胡佛造成的麻煩比他的用處還大。,,,於2級時解鎖。,於45級時解鎖。
-Basic,匕首專精,,Hero Power,CS2_083b,Rogue,,Free,,2,<b>英雄能力</b>
-裝備一把1/2匕首,Neutral,,,,,,,,,
+Basic,匕首專精,,Hero Power,CS2_083b,Rogue,,Free,,2,<b>英雄能力</b>裝備一把1/2匕首,Neutral,,,,,,,,,
 Basic,北郡教士,3,Minion,CS2_235,Priest,,Free,1,1,每當有手下受到治療，抽一張牌,,HealTarget,,True,Terese Nielsen,他們會幫助受到欺壓及陷入麻煩的人。他們也會賣餅乾。,,,於1級時解鎖。,於40級時解鎖。
 Basic,卡爾洛斯·地獄吼,30,Hero,HERO_01,Warrior,,Free,,,,Neutral,,,True,,,,,,
 Basic,厲鱗神諭者,1,Minion,EX1_508,,,Common,1,1,全部其他魚人獲得+1攻擊力,Neutral,Aura,,True,Phil Saunders,神諭者算是比較聰明的魚人。但其實，差別好像也不大。,,Murloc,,於術士53級時解鎖。
 Basic,古拉巴什狂戰士,7,Minion,EX1_399,,,Common,2,5,每當這個手下受到傷害，獲得+3攻擊力,Neutral,,,True,Alex Horley Orlandelli,痛過，才會有所成長。,,,,於術士57級時解鎖。
 Basic,古爾丹,30,Hero,HERO_07,Warlock,,Free,,,,Neutral,,,True,,,,,,
-Basic,召喚圖騰,,Hero Power,CS2_049,Shaman,,Free,,2,<b>英雄能力</b>
-召喚一個隨機的圖騰,Neutral,,,,,,,,,
+Basic,召喚圖騰,,Hero Power,CS2_049,Shaman,,Free,,2,<b>英雄能力</b>召喚一個隨機的圖騰,Neutral,,,,,,,,,
 Basic,吸取生命,,Spell,CS2_061,Warlock,,Free,,3,造成$2點傷害。使你的英雄恢復#2點生命值,Neutral,,,True,Alex Horley Orlandelli,「我剛吸走了你一年的壽命。」,,,於1級時解鎖。,於45級時解鎖。
 Basic,啦嘎咕啦布啦!,,Enchantment,EX1_508o,,,,,,這個魚人+1攻擊力,,,,,,,,,,
 Basic,嗜血術,,Enchantment,CS2_046e,Shaman,,,,,本回合+3攻擊力,,OneTurnEffect,,,,,,,,
@@ -694,13 +654,11 @@ Basic,心靈震爆,,Spell,DS1_233,Priest,,Free,,2,對敵方英雄造成$5點傷�
 Basic,恐怖的煉獄火,6,Minion,CS2_064,Warlock,,Common,6,6,<b>戰吼:</b>對全部其他角色造成1點傷害,Neutral,Battlecry,,True,Zoltan & Gabor,「煉獄火!!」-賈拉克瑟斯，燃燒軍團的埃雷達爾領主,,Demon,於10級時解鎖。,於23級時解鎖。
 Basic,悶棍,,Spell,EX1_581,Rogue,,Free,,2,使一個敵方手下返回對手的手上,Neutral,,,True,Scott Altmann,警衛!有這樣敲了又敲，敲了又敲的嗎?,,,於1級時解鎖。,於40級時解鎖。
 Basic,惡毒之匕,,Weapon,CS2_082,Rogue,2,Free,1,1,,Neutral,,,,,,,,,
-Basic,憤怒之錘,,Spell,CS2_094,Paladin,,Free,,4,造成$3點傷害。
-抽一張牌,Neutral,,,True,Efrem Palacios,好的聖騎士會準備很多工具，像是憤怒之錘、復仇之鉗、正義之鋸等等。,,,於1級時解鎖。,於32級時解鎖。
+Basic,憤怒之錘,,Spell,CS2_094,Paladin,,Free,,4,造成$3點傷害。抽一張牌,Neutral,,,True,Efrem Palacios,好的聖騎士會準備很多工具，像是憤怒之錘、復仇之鉗、正義之鋸等等。,,,於1級時解鎖。,於32級時解鎖。
 Basic,戰歌指揮官,3,Minion,EX1_084,Warrior,,Free,2,3,每當你打出攻擊力在3點以下的手下，賦予該手下<b>衝鋒</b>,Neutral,,,True,Wei Wang,戰歌這個部族非常<b>戲劇化</b>。當上他們的指揮官未必是一件好事。,,,於1級時解鎖。,於36級時解鎖。
 Basic,戰爭魔像,7,Minion,CS2_186,,,Common,7,7,,Neutral,,,True,Dave Kendall,魔像並不會感到恐懼，但是因為某種因素，如果對它們施放恐懼術，它們還是會逃走。是本能嗎?還是想要融入人群?,,,,於盜賊51級時解鎖。
 Basic,揮擊,,Spell,CS2_012,Druid,,Common,,4,對一個敵人造成$4點傷害，並對其他敵人造成$1點傷害,Neutral,,,True,Sean O’Daniels,當熊站起來張開雙臂的時候，小心，他即將要伸爪揮擊了!...不過當然，也有可能只是想要抱抱你而已。,,,於8級時解鎖。,於47級時解鎖。
-Basic,援軍,,Hero Power,CS2_101,Paladin,,Free,,2,<b>英雄能力</b>
-召喚一個1/1白銀之手新兵,Neutral,,,,,,,,,
+Basic,援軍,,Hero Power,CS2_101,Paladin,,Free,,2,<b>英雄能力</b>召喚一個1/1白銀之手新兵,Neutral,,,,,,,,,
 Basic,擊殺命令,,Spell,EX1_539,Hunter,,Common,,3,造成$3點傷害。若你有野獸，則造成$5點傷害,Neutral,,,True,Gabe from Penny Arcade,「殺!」他命令道。,,,於10級時解鎖。,於49級時解鎖。
 Basic,擲幣之化身,1,Minion,GAME_002,,,Free,1,0,<i>你在擲幣時輸了，不過獲得了一個朋友</i>,,,,,,,,,,
 Basic,擲幣之幸運,,Enchantment,GAME_001,,,,,,後手讓你獲得額外的生命值,,,,,,,,,,
@@ -710,8 +668,7 @@ Basic,啟動,,Spell,EX1_169,Druid,,Free,,0,獲得2顆法力水晶，只在本回
 Basic,教士的祝福,,Enchantment,EX1_019e,Priest,,,,,+1/+1,,,,,,,,,,
 Basic,斬殺,,Spell,CS2_108,Warrior,,Free,,1,摧毀一個已經受傷的敵方手下,Neutral,,,True,Dany Orizio,不用心軟，他罪有應得。,,,於1級時解鎖。,於47級時解鎖。
 Basic,旋風斬,,Spell,EX1_400,Warrior,,Common,,1,對全部手下造成$1點傷害,Neutral,,,True,Jonboy Meyers,要分辨老戰士和新手戰士的方法:菜鳥會在用旋風斬時大喊「耶!!」,,,於6級時解鎖。,於32級時解鎖。
-Basic,星火術,,Spell,EX1_173,Druid,,Common,,6,造成$5點傷害。
-抽一張牌,Neutral,,,True,Alex Horley Orlandelli,平衡對德魯伊來說非常重要。這是一張完美平衡的卡片。,,,於2級時解鎖。,於45級時解鎖。
+Basic,星火術,,Spell,EX1_173,Druid,,Common,,6,造成$5點傷害。抽一張牌,Neutral,,,True,Alex Horley Orlandelli,平衡對德魯伊來說非常重要。這是一張完美平衡的卡片。,,,於2級時解鎖。,於45級時解鎖。
 Basic,暗影箭,,Spell,CS2_057,Warlock,,Free,,3,對一個手下造成$4點傷害,Neutral,,,True,Dave Allsop,這是箭。這是暗影組成的。你還想知道什麼啊?,,,於1級時解鎖。,於47級時解鎖。
 Basic,暗殺,,Spell,CS2_076,Rogue,,Free,,5,摧毀一個敵方手下,Neutral,,,True,Glenn Rane,如果你不想被暗殺，搬去貧瘠之地然後改名換姓。祝你好運!,,,於1級時解鎖。,於47級時解鎖。
 Basic,暗言術:死,,Spell,EX1_622,Priest,,Common,,3,摧毀一個攻擊力在5點以上的手下,,,,True,Raymond Swanland,如果你施放失敗，只會在目標身上留下一個閃電形狀的疤痕。,,,於8級時解鎖。,於43級時解鎖。
@@ -726,8 +683,7 @@ Basic,森林狼,1,Minion,DS1_175,Hunter,,Free,1,1,你的其他野獸獲得+1攻�
 Basic,森金禦盾大師,5,Minion,CS2_179,,,Free,3,4,<b>嘲諷</b>,Horde,Taunt,,True,Brian Despain,如果你不介意食人妖跟灰塵的話，森金村其實是個還不錯的地方。,,,,於盜賊59級時解鎖。
 Basic,機械幼龍,1,Minion,EX1_025t,,,Common,2,1,,Neutral,,,,,,,Mech,,
 Basic,機械幼龍技師,4,Minion,EX1_025,,,Common,2,4,<b>戰吼:</b>召喚一隻2/1的機械幼龍,Alliance,Battlecry,,True,Warren Mahy,她還在想辦法要替小機械幼龍「咬咬」加裝一套火箭發射器。,,,,於法師53級時解鎖。
-Basic,次級治療術,,Hero Power,CS1h_001,Priest,,Free,,2,<b>英雄能力</b>
-恢復2點生命值,Neutral,,,,,,,,,
+Basic,次級治療術,,Hero Power,CS1h_001,Priest,,Free,,2,<b>英雄能力</b>恢復2點生命值,Neutral,,,,,,,,,
 Basic,死影纏繞,,Spell,EX1_302,Warlock,,Common,,1,對一個手下造成$1點傷害。若其因此死亡，抽一張牌,Neutral,,,True,Matt Gaser,如果你的法術看起來像是可怕的骷髏，說句實話，你應該要能多抽幾張牌才對。,,,於4級時解鎖。,於43級時解鎖。
 Basic,毒襲,,Spell,EX1_278,Rogue,,Common,,2,造成$1點傷害。抽一張牌,Neutral,,,True,Alex Garner,忘記塗抹毒藥的毒襲該叫什麼?,,,於6級時解鎖。,於45級時解鎖。
 Basic,水元素,6,Minion,CS2_033,Mage,,Common,3,4,<b>凍結</b>任何被此手下造成傷害的角色,Neutral,Freeze,,True,John Avon,不要在派對上召喚水元素。氣氛會降到冰點。,,,於8級時解鎖。,於49級時解鎖。
@@ -737,8 +693,7 @@ Basic,法力溢出,,Spell,CS2_013t,Druid,,,,0,抽一張牌。<i>(你最多只能
 Basic,消失,,Spell,NEW1_004,Rogue,,Common,,6,使全部手下返回擁有者的手上,,,,True,Sean O’Daniels,,,,於8級時解鎖。,於23級時解鎖。
 Basic,淡水鱷,3,Minion,CS2_120,,,Free,2,2,,,,,True,Daren Bader,『左撇子』愛德華·史密斯有次曾嘗試把淡水鱷做成行李箱。,,Beast,,於德魯伊55級時解鎖。
 Basic,火元素,5,Minion,CS2_042,Shaman,,Common,6,6,<b>戰吼:</b>造成3點傷害,Neutral,Battlecry,,True,Ralph Horsley,這傢伙永遠不能洗澡。噁...,,,於10級時解鎖。,於49級時解鎖。
-Basic,火焰衝擊,,Hero Power,CS2_034,Mage,,Free,,2,<b>英雄能力</b>
-造成1點傷害,Neutral,,,,,,,,,
+Basic,火焰衝擊,,Hero Power,CS2_034,Mage,,Free,,2,<b>英雄能力</b>造成1點傷害,Neutral,,,,,,,,,
 Basic,火球術,,Spell,CS2_029,Mage,,Free,,4,造成$6點傷害,Neutral,,,True,Ralph Horsley,這個法術用來燒東西很有用。如果你在找可以烘東西的法術，或者用來稍微取暖，你就找錯地方了。,,,於1級時解鎖。,於44級時解鎖。
 Basic,火舌,,Enchantment,EX1_565o,Shaman,,,,,由火舌圖騰獲得+2攻擊力,,,,,,,,,,
 Basic,火舌圖騰,3,Minion,EX1_565,Shaman,,Common,0,2,兩側的手下+2攻擊力,Neutral,AdjacentBuff|Aura,,True,Jonathan Ryder,圖騰雕刻師喜歡用最罕見的木頭來雕刻圖騰。謠傳中甚至有用鐵桉保衛者製作的圖騰。,,Totem,於4級時解鎖。,於43級時解鎖。
@@ -762,15 +717,12 @@ Basic,王者祝福,,Enchantment,CS2_092e,Paladin,,,,,+4/+4,,,,,,,,,,
 Basic,珍娜·普勞德摩爾,30,Hero,HERO_08,Mage,,Free,,,,Neutral,,,True,,,,,,
 Basic,瑪法里恩·怒風,30,Hero,HERO_06,Druid,,Free,,,,Neutral,,,True,,,,,,
 Basic,瓦麗拉·桑古納爾,30,Hero,HERO_03,Rogue,,Free,,,,Neutral,,,True,,,,,,
-Basic,生命分流,,Hero Power,CS2_056,Warlock,,Free,,2,<b>英雄能力</b>
-抽一張牌並受到2點傷害,Neutral,,,,,,,,,
+Basic,生命分流,,Hero Power,CS2_056,Warlock,,Free,,2,<b>英雄能力</b>抽一張牌並受到2點傷害,Neutral,,,,,,,,,
 Basic,疾跑,,Spell,CS2_077,Rogue,,Common,,7,抽4張牌,Neutral,,,True,James Zhang,盜賊不擅長慢跑。,,,於10級時解鎖。,於49級時解鎖。
 Basic,白銀之手新兵,1,Minion,CS2_101t,Paladin,,Free,1,1,,,,,,,,,,,
-Basic,盾牌格擋,,Spell,EX1_606,Warrior,,Common,,3,獲得5點護甲值。
-抽一張牌,Neutral,,,True,Michael Komarck,盾牌發明的原因就是「臉部格擋」完全沒有作用。,,,於8級時解鎖。,於28級時解鎖。
+Basic,盾牌格擋,,Spell,EX1_606,Warrior,,Common,,3,獲得5點護甲值。抽一張牌,Neutral,,,True,Michael Komarck,盾牌發明的原因就是「臉部格擋」完全沒有作用。,,,於8級時解鎖。,於28級時解鎖。
 Basic,真言術:盾,,Enchantment,CS2_004e,Priest,,,,,+2生命值,,,,,,,,,,
-Basic,真言術:盾,,Spell,CS2_004,Priest,,Free,,1,賦予一個手下+2生命值。
-抽一張牌,Neutral,,,True,Jessica Jung,有額外的防護是好事啦，不過這個盾真的會干擾視線耶。,,,於1級時解鎖。,於47級時解鎖。
+Basic,真言術:盾,,Spell,CS2_004,Priest,,Free,,1,賦予一個手下+2生命值。抽一張牌,Neutral,,,True,Jessica Jung,有額外的防護是好事啦，不過這個盾真的會干擾視線耶。,,,於1級時解鎖。,於47級時解鎖。
 Basic,真銀勇士劍,,Weapon,CS2_097,Paladin,2,Common,4,4,每當你的英雄進行攻擊，使其恢復2點生命值,Neutral,,,True,Ryan Sook,劈砍切割樣樣都行。也可以拿來開罐頭(不過你最好別這麼做)。,,,於2級時解鎖。,於40級時解鎖。
 Basic,石化武器,,Spell,CS2_045,Shaman,,Free,,1,本回合賦予一個友方角色+3攻擊力,Neutral,,,True,Alex Horley Orlandelli,要是可以把敵人石化就更好了。,,,於1級時解鎖。,於36級時解鎖。
 Basic,石化武器,,Enchantment,CS2_045e,Shaman,,,,,這個角色本回合+3攻擊力,,OneTurnEffect,,,,,,,,
@@ -785,8 +737,7 @@ Basic,神聖精神,,Enchantment,CS2_236e,Priest,,,,,這個手下擁有雙倍的�
 Basic,秘法射擊,,Spell,DS1_185,Hunter,,Free,,1,造成$2點傷害,Neutral,,,True,Luca Zontini,法師召喚秘法箭矢來賣給獵人，直到獵人們學會足夠的魔法來自己進行製造。接下來的失業率導致暴風城陷入短暫的不景氣。,,,於1級時解鎖。,於32級時解鎖。
 Basic,秘法智力,,Spell,CS2_023,Mage,,Free,,3,抽2張牌,Neutral,,,True,Dave Berggren,出這張牌會讓你更聰明。而且面對現實吧，我們都不介意再更聰明一點。,,,於1級時解鎖。,於15級時解鎖。
 Basic,秘法飛彈,,Spell,EX1_277,Mage,,Free,,1,造成$3點傷害，隨機分給敵方角色,Neutral,ImmuneToSpellpower,,True,Warren Mahy,你本來以為你能更熟練地控制這些飛彈，畢竟你是個強大的法師，對吧。,,,於1級時解鎖。,於32級時解鎖。
-Basic,穩固射擊,,Hero Power,DS1h_292,Hunter,,Free,,2,<b>英雄能力</b>
-對敵方英雄造成2點傷害,Neutral,,,,,,,,,
+Basic,穩固射擊,,Hero Power,DS1h_292,Hunter,,Free,,2,<b>英雄能力</b>對敵方英雄造成2點傷害,Neutral,,,,,,,,,
 Basic,空中之眼,,Enchantment,NEW1_033o,Hunter,,,,,里奧克賦予了這個手下+1攻擊力,,,,,,,,,,
 Basic,競技場之王,5,Minion,CS2_162,,,Common,6,6,<b>嘲諷</b>,Alliance,Taunt,,True,E.M. Gist,他曾經是競技場積分打到2100+的玩家，但那已經是很久以前的事了，而且沒有人能讓他閉嘴不提當年勇。,,,,於牧師59級時解鎖。
 Basic,米莎,4,Minion,NEW1_032,Hunter,,Common,4,3,<b>嘲諷</b>,,Taunt,,,,,,Beast,,
@@ -820,13 +771,10 @@ Basic,語風者,3,Minion,EX1_587,Shaman,,Common,3,4,<b>戰吼:</b>使一個友�
 Basic,諸王守護者,6,Minion,CS2_088,Paladin,,Common,5,7,<b>戰吼:</b>使你的英雄恢復6點生命值,Neutral,Battlecry,,True,E.M. Gist,來自異界的神聖生物還真是老套啊!,,,於8級時解鎖。,於47級時解鎖。
 Basic,謙恭,,Spell,EX1_360,Paladin,,Common,,1,將一個手下的攻擊力改為1點,Neutral,,,True,Daren Bader,這張卡會讓人想便便。喔不對，那是「出恭」。,,,於6級時解鎖。,於28級時解鎖。
 Basic,謙恭,,Enchantment,EX1_360e,Paladin,,,,,攻擊力被改為1點,Neutral,,,,,,,,,
-Basic,護甲提升!,,Hero Power,CS2_102,Warrior,,Free,,2,<b>英雄能力</b>
-獲得2點護甲值,Neutral,,,,,,,,,
+Basic,護甲提升!,,Hero Power,CS2_102,Warrior,,Free,,2,<b>英雄能力</b>獲得2點護甲值,Neutral,,,,,,,,,
 Basic,變形術,,Spell,CS2_022,Mage,,Free,,4,將一個手下變形為一隻1/1的羊,Neutral,,,True,Vance Kovacs,本來這一段是要講雙關話，不過說出口的時候變成了咩...,,,於1級時解鎖。,於47級時解鎖。
 Basic,變形術,,Enchantment,CS2_022e,Mage,,Common,,,這個手下被變形為一隻1/1的羊,Neutral,Morph,,,,,,,,
-Basic,變身,,Hero Power,CS2_017,Druid,,Free,,2,<b>英雄能力</b>
-本回合+1攻擊力。
-+1護甲值,Neutral,,,,,,,,,
+Basic,變身,,Hero Power,CS2_017,Druid,,Free,,2,<b>英雄能力</b>本回合+1攻擊力。+1護甲值,Neutral,,,,,,,,,
 Basic,追蹤,,Spell,DS1_184,Hunter,,Free,,1,瀏覽你牌堆中最上面三張牌。選一張後捨棄其他兩張,Neutral,,,True,Mauro Cascioli,這張是給無法決定要放哪張卡進套牌的人用的!,,,於1級時解鎖。,於15級時解鎖。
 Basic,達拉然法師,4,Minion,EX1_582,,,Common,1,3,<b>法術傷害+1</b>,Neutral,Spellpower,,True,Jim Nelson,你應該沒見過達拉然戰士才對。,,,,於法師59級時解鎖。
 Basic,邪惡攻擊,,Spell,CS2_075,Rogue,,Free,,1,對敵方英雄造成$3點傷害,Neutral,,,True,Frank Cho,這個攻擊感覺就是怪怪的。甚至可以說邪惡。,,,於1級時解鎖。,於15級時解鎖。
@@ -936,8 +884,7 @@ Promotion,雞,1,Minion,Mekka4t,,,,1,0,<i>嗨，弱雞!</i>,,,,,,,,Beast,,
 Promotion,魚人,1,Minion,PRO_001at,,,,1,1,,,,,,,,,Murloc,,
 Reward,老瞎眼,4,Minion,EX1_062,,,Legendary,2,4,<b>衝鋒</b>。戰場上每多一個魚人便+1攻擊力,Neutral,Charge,,True,Dan Scott,他在魚人當中是個傳說。「姆嘎啦嘎啦嘎嘎啦!」他們這麼說。,True,Murloc,當你獲得全部專家系列的魚人卡後解鎖。,當你獲得全部基本及專家系列的魚人金卡後解鎖。
 Reward,船長的鸚鵡,1,Minion,NEW1_016,,,Epic,1,2,<b>戰吼:</b>從你的牌堆中取出一張隨機海盜並放到你的手牌中,,Battlecry,,True,Daren Bader,海盜和鸚鵡，就像兔妖跟蘿蔔一樣，總是形影不離。,,Beast,當你獲得全部專家系列的海盜卡後解鎖。,當你獲得全部專家系列的海盜金卡後解鎖。
-Goblins vs Gnomes,V-07-TR-0N,8,Minion,GVG_111t,,,Legendary,4,8,<b>衝鋒</b>
-<b>超級風怒</b> (每回合可攻擊4次),,Charge,,,Chris Seaman,,True,Mech,,
+Goblins vs Gnomes,V-07-TR-0N,8,Minion,GVG_111t,,,Legendary,4,8,<b>衝鋒</b><b>超級風怒</b> (每回合可攻擊4次),,Charge,,,Chris Seaman,,True,Mech,,
 Goblins vs Gnomes,不穩定的傳送門,,Spell,GVG_003,Mage,,Rare,,2,放一張隨機手下到你的手牌中。它的消耗減少(3)點,,,,True,Sean O&sbquo;Daniels,艾澤拉斯的居民完全不知道要穩定傳送門得花上多少功夫。傳送門的維護費用佔了我們百分之三十的GDP。,,,,
 Goblins vs Gnomes,伯瓦爾·弗塔根,7,Minion,GVG_063,Paladin,,Legendary,1,5,若這張牌在你手牌中，每當友方手下死掉時，便獲得+1攻擊力,,,,True,Tooth,劇透:伯瓦爾後來被火烤了一頓，然後坐在一個寒冰的王座上，接著就被所有人遺忘了。,True,,,
 Goblins vs Gnomes,來，給你加一個。,,Enchantment,GVG_104a,,,,,,+2/+2,,,,,,,,,,
@@ -951,18 +898,14 @@ Goblins vs Gnomes,凱贊秘術使,3,Minion,GVG_074,,,Rare,4,4,<b>戰吼:</b>控�
 Goblins vs Gnomes,剷雪機器人,3,Minion,GVG_002,Mage,,Common,2,2,<b>凍結</b>任何被此手下傷害的角色,,Freeze,,True,Gabor Szikszai,在他經過時跟著喊:剷剷剷!,,Mech,,
 Goblins vs Gnomes,加茲瑞拉,9,Minion,GVG_049,Hunter,,Legendary,6,7,每當此手下受到傷害，使其攻擊力加倍,,,,True,Raymond Swanland,森金高中的足球隊就是叫「加茲瑞拉隊」。,True,Beast,,
 Goblins vs Gnomes,加茲魯維,6,Minion,GVG_117,,,Legendary,3,6,每當你施放1點消耗的法術，就放一個隨機的機械到你的手牌中,,,,True,Luke Mancini,上高中時，加茲魯維以最高票當選「最有可能爆炸死亡的人」。,True,,,
-Goblins vs Gnomes,加里維克斯的硬幣,,Spell,GVG_028t,,,,,0,在本回合內獲得額外一顆法力水晶。
-(不會觸發加里維克斯的能力),,,,,,,,,,
+Goblins vs Gnomes,加里維克斯的硬幣,,Spell,GVG_028t,,,,,0,在本回合內獲得額外一顆法力水晶。(不會觸發加里維克斯的能力),,,,,,,,,,
 Goblins vs Gnomes,動力強化,,Enchantment,GVG_036e,Shaman,,,,,+2/+2,,,,,,,,,,
 Goblins vs Gnomes,動力戰錘,,Weapon,GVG_036,Shaman,2,Rare,3,3,<b>死亡之聲:</b>賦予一個隨機友方機械+2/+2,,Deathrattle,,True,Zoltan and Gabor,人們以為薩滿能控制元素，但其實他們只是問元素說可不可以這樣那樣，然後元素回答說，噢好啊。,,,,
 Goblins vs Gnomes,升級版修理機器人,5,Minion,GVG_083,Priest,,Rare,5,5,<b>戰吼:</b>賦予一個友方機械+4生命值,,Battlecry,,True,Nutchapol Thitinunthakorn,其實這一代跟上一代一模一樣，他們只是在上面多刻了「升級版」三個字，然後把標價加倍。,,Mech,,
 Goblins vs Gnomes,卡片之賜,,Spell,GVG_032b,Druid,,,,,每個玩家抽一張牌,,,,,,,,,,
 Goblins vs Gnomes,古董治療機器人,3,Minion,GVG_069,,,Common,3,5,<b>戰吼:</b>使你的英雄恢復8點生命值,,Battlecry,,True,Jesper Esjing,這個型號已經停產了!(因為發生了幾起爆炸事故),,Mech,,
-Goblins vs Gnomes,召喚寵物,,Spell,GVG_017,Hunter,,Rare,,2,抽一張牌。
-若是野獸卡片，其消耗減少(4)點,,,,True,E.M. Gist,真正的獵人都抓飢餓的螃蟹。,,,,
-Goblins vs Gnomes,吉爾布林潛獵者,3,Minion,GVG_081,,,Common,2,2,<b>潛行</b>,,Stealth,,True,Seamus Gallagher,「等等!我聽到怪聲。」
-
-「啊，大概是我聽錯了。」-很多守衛死前的最後一句話。,,,,
+Goblins vs Gnomes,召喚寵物,,Spell,GVG_017,Hunter,,Rare,,2,抽一張牌。若是野獸卡片，其消耗減少(4)點,,,,True,E.M. Gist,真正的獵人都抓飢餓的螃蟹。,,,,
+Goblins vs Gnomes,吉爾布林潛獵者,3,Minion,GVG_081,,,Common,2,2,<b>潛行</b>,,Stealth,,True,Seamus Gallagher,「等等!我聽到怪聲。」「啊，大概是我聽錯了。」-很多守衛死前的最後一句話。,,,,
 Goblins vs Gnomes,吉福斯,4,Minion,GVG_094,,,Rare,1,4,在每一個玩家回合結束時，替該玩家抽牌直到手上至少有3張牌,,,,True,Matt Dixon,這個管家機器人最大的問題就是 - 管太多。,,Mech,,
 Goblins vs Gnomes,哥布林工兵,4,Minion,GVG_095,,,Rare,2,3,若你的對手有6張以上的手牌，便獲得+4攻擊力,,Aura,,True,Jesper Esjing,拆雷、爆破他都會。比較需要擔心的是他一邊拆，一邊爆。,,,,
 Goblins vs Gnomes,哥布林自動理髮師,2,Minion,GVG_023,Rogue,,Common,3,2,<b>戰吼:</b>賦予你的武器+1攻擊力,,Battlecry,,True,Zolton Boros,自動修整你的髮型，或者身高。,,Mech,,
@@ -980,14 +923,12 @@ Goblins vs Gnomes,奈普圖隆,7,Minion,GVG_042,Shaman,,Legendary,7,7,<b>戰吼:
 Goblins vs Gnomes,女盾侍,5,Minion,GVG_053,Warrior,,Rare,5,6,<b>戰吼:</b>獲得5點護甲值,,Battlecry,,True,Alex Horley Orlandelli,她通常會帶著三個負盾兵跟班，這樣盾牌只要快壞了就能馬上換新的。,,,,
 Goblins vs Gnomes,嬌小的法術干擾師,5,Minion,GVG_122,Mage,,Epic,2,4,兩側的手下無法被法術或英雄能力指定,,Aura,,True,Jonboy Meyers,聽說法師都恨她恨得牙癢癢的。,,,,
 Goblins vs Gnomes,對調,,Enchantment,PART_006a,,,,,,攻擊力和生命值被逆向開關所對調,,,,,,,,,,
-Goblins vs Gnomes,小小驅魔者,3,Minion,GVG_097,,,Rare,2,3,<b>嘲諷</b>
-<b>戰吼:</b>戰場上每一個有<b>死亡之聲</b>的敵方手下都使其+1/+1,,Battlecry|Taunt,,True,Jim Nelson,很多術士都把她的電話號碼背了起來，以免叫錯惡魔時求救無門。,,,,
+Goblins vs Gnomes,小小驅魔者,3,Minion,GVG_097,,,Rare,2,3,<b>嘲諷</b><b>戰吼:</b>戰場上每一個有<b>死亡之聲</b>的敵方手下都使其+1/+1,,Battlecry|Taunt,,True,Jim Nelson,很多術士都把她的電話號碼背了起來，以免叫錯惡魔時求救無門。,,,,
 Goblins vs Gnomes,小鬼,1,Minion,GVG_045t,Warlock,,,1,1,,,,,,,,,Demon,,
 Goblins vs Gnomes,小鬼爆破,,Spell,GVG_045,Warlock,,Rare,,4,對一個手下造成$2點到$4點傷害。每造成一點傷害，便召喚一個1/1的小鬼,,,,True,Jaemin Kim,爆炸後的裂片，比爆炸本身還要糟多了。,,,,
 Goblins vs Gnomes,尖牙德魯伊,4,Minion,GVG_080,Druid,,Common,4,5,<b>戰吼:</b>若你有野獸，將此手下變形為7/7,,Battlecry,,True,Brandon Kitkouski,為什麼尖牙德魯伊都住在哀嚎洞穴?因為他們出門以後就不叫尖牙德魯伊了。,,,,
 Goblins vs Gnomes,尖牙德魯伊,7,Minion,GVG_080t,Druid,,,7,5,,,,,,Massive Black,,,Beast,,
-Goblins vs Gnomes,巨魔忍者,6,Minion,GVG_088,Rogue,,Rare,6,5,<b>潛行</b>
-有50%機率攻擊錯誤的敵人,,Stealth,,True,Samwise,他原本不符合進入忍者學校的條件。是他爸爸通過關係把他送進去的。,,,,
+Goblins vs Gnomes,巨魔忍者,6,Minion,GVG_088,Rogue,,Rare,6,5,<b>潛行</b>有50%機率攻擊錯誤的敵人,,Stealth,,True,Samwise,他原本不符合進入忍者學校的條件。是他爸爸通過關係把他送進去的。,,,,
 Goblins vs Gnomes,巨魔戰槌,,Weapon,GVG_054,Warrior,2,Common,4,3,有50%機率攻擊錯誤的敵人,,,,True,Richard Wright,簡單，粗暴，異常危險。你懂的，就跟大部分的巨魔武器一樣。,,,,
 Goblins vs Gnomes,巨魔莫古,6,Minion,GVG_112,,,Legendary,7,6,全部的手下都有50%機率攻擊錯誤的敵人,,,,True,Michal Ivan,莫古曾經幫忙重新開啟黑暗之門。你也知道需要依賴巨魔幫忙的後果。,True,,,
 Goblins vs Gnomes,巨魔蠻卒,4,Minion,GVG_065,,,Common,4,3,有50%機率攻擊錯誤的敵人,,,,True,Vinod Rams,有一個學說主張，要不是巨魔有這種嚴重的問題，他們早就統治全世界了。,,,,
@@ -1043,8 +984,7 @@ Goblins vs Gnomes,漩渦打擊裝置,2,Minion,GVG_037,Shaman,,Common,3,2,<b>風�
 Goblins vs Gnomes,烈焰戰輪,7,Minion,GVG_007,Mage,,Legendary,7,7,當你抽到這張牌，對全部角色造成2點傷害,,,,True,Aleksi Briclot,彌米倫喜歡開著烈焰戰輪出去兜風。,True,Mech,,
 Goblins vs Gnomes,烈焰火砲,,Spell,GVG_001,Mage,,Common,,2,對一個隨機敵方手下造成$4點傷害,,,,True,Mauricio Herrera,稱它為烈焰火砲，說實在的，並不能把它跟其他的哥布林裝置做出什麼區隔。反正都會冒火!!!,,,,
 Goblins vs Gnomes,煤煙噴吐機器人,3,Minion,GVG_123,Mage,,Rare,3,3,<b>法術傷害+1</b>,,Spellpower,,True,Phil Saunders,據說哥布林伐木機的發明者跟煤煙噴吐機器人的發明者有好幾件官司正在打。,,Mech,,
-Goblins vs Gnomes,煩人機器人,2,Minion,GVG_085,,,Common,1,2,<b>嘲諷</b>
-<b>聖盾術</b>,,Divine Shield|Taunt,,True,Matt Dixon,煩人機器人的發明者被技工學校立即退學，然後被趕出地精區，最後整個被踢出東部王國。,,Mech,,
+Goblins vs Gnomes,煩人機器人,2,Minion,GVG_085,,,Common,1,2,<b>嘲諷</b><b>聖盾術</b>,,Divine Shield|Taunt,,True,Matt Dixon,煩人機器人的發明者被技工學校立即退學，然後被趕出地精區，最後整個被踢出東部王國。,,Mech,,
 Goblins vs Gnomes,熱砂狙擊手,3,Minion,GVG_087,Hunter,,Epic,2,2,你的英雄能力能夠以手下為目標,,,,True,Jun Kang,難得有哥布林有耐心當狙擊手。他們大部分都喜歡衝上去丟手榴彈。,,,,
 Goblins vs Gnomes,爆爆博士,7,Minion,GVG_110,,,Legendary,7,7,<b>戰吼:</b>召喚兩個1/1的爆爆機器人。警告:它們有爆炸之虞,,Battlecry,,True,Alex Garner,讚嘆他的力量!,True,,,
 Goblins vs Gnomes,爆爆機器人,1,Minion,GVG_110t,,,,1,1,<b>死亡之聲:</b>對一個隨機敵人造成1點到4點傷害,,Deathrattle,,,,,,Mech,,
@@ -1052,8 +992,7 @@ Goblins vs Gnomes,特別銳利,,Enchantment,GVG_023a,,,,,,+1攻擊力,,,,,,,,,,
 Goblins vs Gnomes,特洛格佐爾,6,Minion,GVG_118,,,Legendary,6,7,每當你的對手施放法術，召喚一個魁梧的石顎穴居怪,,,,True,Mike Sass,不要小看穴居怪。不信，你讓特洛格佐爾砸一下試試。,True,,,
 Goblins vs Gnomes,獨眼騙子,1,Minion,GVG_025,Rogue,,Rare,4,2,每當你召喚海盜，獲得<b>潛行</b>,,,,True,Danny Beck,海盜都會騙人，但他連海盜都能騙得死死的。,,Pirate,,
 Goblins vs Gnomes,瑪洛尼,7,Minion,GVG_035,Druid,,Legendary,9,7,<b>死亡之聲:</b>將此手下洗入牌堆中,,Deathrattle,,True,Oliver Chipping,我不是馴鹿!我不認識什麼聖誕老人!,True,Beast,,
-Goblins vs Gnomes,瑪爾加尼斯,7,Minion,GVG_021,Warlock,,Legendary,9,9,你的其他惡魔擁有+2/+2。
-你的英雄<b>免疫</b>,,Aura,,True,Wayne Reynolds,瑪爾加尼斯不喜歡被背叛，所以如果你把他捨棄，最好把皮繃緊一點。,True,Demon,,
+Goblins vs Gnomes,瑪爾加尼斯,7,Minion,GVG_021,Warlock,,Legendary,9,9,你的其他惡魔擁有+2/+2。你的英雄<b>免疫</b>,,Aura,,True,Wayne Reynolds,瑪爾加尼斯不喜歡被背叛，所以如果你把他捨棄，最好把皮繃緊一點。,True,Demon,,
 Goblins vs Gnomes,瑪爾加尼斯之握,,Enchantment,GVG_021e,Warlock,,,,,瑪爾加尼斯賦予了+2/+2,,,,,,,,,,
 Goblins vs Gnomes,生命之樹,,Spell,GVG_033,Druid,,Epic,,9,將全部角色恢復到最大生命值,,,,True,Steve Prescott,治療，是會長在樹上的!,,,,
 Goblins vs Gnomes,生鏽的號角,,Spell,PART_003,,,,,1,賦予一個手下<b>嘲諷</b>,,,,,Peerasak Senalai,,,,,
@@ -1062,15 +1001,13 @@ Goblins vs Gnomes,發條巨人,8,Minion,GVG_121,,,Epic,8,12,你對手的每一�
 Goblins vs Gnomes,皺眉,,Enchantment,GVG_100e,Warlock,,,,,屬性提高,,,,,,,,,,
 Goblins vs Gnomes,眼鏡蛇射擊,,Spell,GVG_073,Hunter,,Common,,5,對一個手下及敵方英雄造成$3點傷害,,,,True,Howard Lyon,比較蹩腳的獵人通常會用青竹絲或龜殼花的蛇毒來蒙混過去。,,,,
 Goblins vs Gnomes,石裂穴居怪,3,Minion,GVG_067,,,Common,2,2,每當你的對手施放法術，獲得+1攻擊力,,,,True,Peet Cooper,傳說跟穴居怪關在一起的臭味足以讓最強硬的嫌犯在三天內把一切都招了。,,,,
-Goblins vs Gnomes,砂槌薩滿,4,Minion,GVG_066,Shaman,,Rare,5,4,<b>風怒，超載:</b>(1)
-有50%機率攻擊錯誤的敵人,,Windfury,,True,José Ladrönn,他通常都閉上眼睛亂敲一通。吼吼!,,,,
+Goblins vs Gnomes,砂槌薩滿,4,Minion,GVG_066,Shaman,,Rare,5,4,<b>風怒，超載:</b>(1)有50%機率攻擊錯誤的敵人,,Windfury,,True,José Ladrönn,他通常都閉上眼睛亂敲一通。吼吼!,,,,
 Goblins vs Gnomes,破壞工作,,Spell,GVG_047,Rogue,,Epic,,4,摧毀一個隨機敵方手下。<b>連擊:</b>也摧毀對手的武器,,Combo,,True,Dave Allsop,殺人放火金腰帶。所以殺完人，當然要順便放火，才叫完美的破壞工作。,,,,
 Goblins vs Gnomes,破舊的維修機甲,5,Minion,GVG_055,Warrior,,Rare,2,4,<b>戰吼:</b>賦予一個友方機械+2/+2,,Battlecry,,True,Jesper Esjing,如果出現故障，從屁股下面45度角踢它幾下通常可以修好。,,Mech,,
 Goblins vs Gnomes,祖爾法拉克之力,,Enchantment,GVG_049e,Hunter,,,,,攻擊力加倍,,,,,,,,,,
 Goblins vs Gnomes,萬獸之王,6,Minion,GVG_046,Hunter,,Rare,2,5,<b>嘲諷</b>。<b>戰吼:</b>每擁有一隻其他野獸，便獲得+1攻擊力,,Battlecry|Taunt,,True,Seamus Gallagher,獅子是萬獸之王。所以獅子王是萬獸之王之王。這樣說對吧?好，把剛才那句話很快的唸十次看看。,,Beast,,
 Goblins vs Gnomes,萬獸之王,,Enchantment,GVG_046e,Hunter,,,,,攻擊力提高,,,,,,,,,,
-Goblins vs Gnomes,秘法剋星X-21,5,Minion,GVG_091,,,Rare,2,4,<b>嘲諷</b>
-無法被法術或英雄能力指定,,Taunt,,True,Zero Yue,為了這個新發明，地精法師跟地精工程師差點翻臉打起來。,,Mech,,
+Goblins vs Gnomes,秘法剋星X-21,5,Minion,GVG_091,,,Rare,2,4,<b>嘲諷</b>無法被法術或英雄能力指定,,Taunt,,True,Zero Yue,為了這個新發明，地精法師跟地精工程師差點翻臉打起來。,,Mech,,
 Goblins vs Gnomes,粉碎,,Spell,GVG_052,Warrior,,Epic,,7,摧毀一個手下。若你有受傷的手下在場上，消耗減少(4)點,,,,True,Michael Sutfin,很多野蠻人都說，使用這張牌的感覺令他們畢生難忘。,,,,
 Goblins vs Gnomes,純淨,,Enchantment,GVG_101e,Paladin,,,,,屬性提高,,,,,,,,,,
 Goblins vs Gnomes,緊急冷卻劑,,Spell,PART_005,,,,,1,<b>凍結</b>一個手下,,Freeze,,,Peerasak Senalai,,,,,
@@ -1085,8 +1022,7 @@ Goblins vs Gnomes,蜘蛛坦克,4,Minion,GVG_044,,,Common,3,3,,,,,True,Dany Orizi
 Goblins vs Gnomes,血色淨化者,3,Minion,GVG_101,Paladin,,Rare,4,3,<b>戰吼:</b>對全部有<b>死亡之聲</b>的手下造成2點傷害,,Battlecry,,True,Anton Zemskov,最近血色十字軍在做市場調查，看看換個顏色能不能更容易招人。,,,,
 Goblins vs Gnomes,裝備精良,,Enchantment,GVG_060e,Paladin,,,,,+2/+2,,,,,,,,,,
 Goblins vs Gnomes,訓練假人,2,Minion,GVG_093,,,Rare,0,0,<b>嘲諷</b>,,Taunt,,True,Matt Dixon,這個假人的頭上貼著一張紙條，上面寫著:「打我啊!」,,Mech,,
-Goblins vs Gnomes,諾姆瑞根步兵,4,Minion,GVG_098,,,Common,1,3,<b>衝鋒</b>
-<b>嘲諷</b>,,Charge|Taunt,,True,Zoltan & Gabor,這些英勇的地精士兵們已經準備好要回到他們被輻射汙染、排水系統差勁的家園了!,,,,
+Goblins vs Gnomes,諾姆瑞根步兵,4,Minion,GVG_098,,,Common,1,3,<b>衝鋒</b><b>嘲諷</b>,,Charge|Taunt,,True,Zoltan & Gabor,這些英勇的地精士兵們已經準備好要回到他們被輻射汙染、排水系統差勁的家園了!,,,,
 Goblins vs Gnomes,護甲強化,,Enchantment,PART_001e,,,,,,+1生命值,,,,,,,,,,
 Goblins vs Gnomes,護甲片,,Spell,PART_001,,,,,1,賦予一個手下+1生命值,,,,,Nutchapol Thitinunthakorn,,,,,
 Goblins vs Gnomes,護盾小機器人,2,Minion,GVG_058,Paladin,,Common,2,2,<b>聖盾術</b>,,Divine Shield,,True,Raymond Swanland,它只相信它的程式碼中要它相信的事情!,,Mech,,
@@ -1100,8 +1036,7 @@ Goblins vs Gnomes,軍需官,5,Minion,GVG_060,Paladin,,Epic,2,5,<b>戰吼:</b>賦
 Goblins vs Gnomes,轟雷,,Spell,GVG_038,Shaman,,Common,,2,造成$3點到$6點傷害。<b>超載:</b>(1),,,,True,Warren Mahy,要發天打雷劈的毒誓之前，想想這張牌。,,,,
 Goblins vs Gnomes,迴旋刀刃,,Enchantment,PART_007e,,,,,,+1攻擊力,,,,,,,,,,
 Goblins vs Gnomes,迴旋刀刃,,Spell,PART_007,,,,,1,賦予一個手下+1攻擊力,,,,,Nutchapol Thitinunthakorn,,,,,
-Goblins vs Gnomes,迷你法師,1,Minion,GVG_109,,,Epic,4,4,<b>潛行</b>
-<b>法術傷害+1</b>,,Spellpower|Stealth,,True,Ben Olson,有時候在古拉巴什競技場的寶箱裡可以找到他。,,,,
+Goblins vs Gnomes,迷你法師,1,Minion,GVG_109,,,Epic,4,4,<b>潛行</b><b>法術傷害+1</b>,,Spellpower|Stealth,,True,Ben Olson,有時候在古拉巴什競技場的寶箱裡可以找到他。,,,,
 Goblins vs Gnomes,迷路的陸行鳥,4,Minion,GVG_071,,,Common,5,4,,,,,True,Benjamin Zhang,牠的屁股上有著刺青，寫著:若看到牠，請送回莫高雷。,,Beast,,
 Goblins vs Gnomes,逆向開關,,Spell,PART_006,,,,,1,把一個手下的攻擊力及生命值互相對調,,,,,Nutthapon Petthai,,,,,
 Goblins vs Gnomes,那魯之光,,Spell,GVG_012,Priest,,Rare,,1,恢復#3點生命值。若目標仍然受傷，召喚一個護光者,,,,True,Jesper Ejsing,「妳跟過來做什麼?」,,,,
@@ -1110,14 +1045,11 @@ Goblins vs Gnomes,重裝上陣,,Enchantment,GVG_086e,Warrior,,,,,攻擊力提高
 Goblins vs Gnomes,鈷藍守護者,3,Minion,GVG_062,Paladin,,Rare,6,5,每當你召喚機械，獲得<b>聖盾術</b>,,,,True,Jim Nelson,原本它們的材料是昂貴的源質礦，後來工廠遷到加基森，不知怎地就換成了便宜的鈷藍礦。,,Mech,,
 Goblins vs Gnomes,鋼牙,,Enchantment,GVG_048e,Hunter,,,,,+2攻擊力,,,,,,,,,,
 Goblins vs Gnomes,鋼牙獸,3,Minion,GVG_048,Hunter,,Rare,3,3,<b>戰吼:</b>賦予你其他的機械+2攻擊力,,Battlecry,,True,Hideaki Takamura,不要讓牠們淋雨。在安戈洛環形山那邊，鏽牙獸已經多到無法控制了。,,Mech,,
-Goblins vs Gnomes,鋼鐵師尊,2,Minion,GVG_027,Rogue,,Rare,2,3,在你的回合結束時，賦予另一個友方機械+2/+2,,,,True,Brian Despain,機械很喜歡向他學習，因為他真的會說機械語言。
-
-01000111101001001,,Mech,,
+Goblins vs Gnomes,鋼鐵師尊,2,Minion,GVG_027,Rogue,,Rare,2,3,在你的回合結束時，賦予另一個友方機械+2/+2,,,,True,Brian Despain,機械很喜歡向他學習，因為他真的會說機械語言。01000111101001001,,Mech,,
 Goblins vs Gnomes,鋼鐵破滅邪神,5,Minion,GVG_056,Warrior,,Legendary,6,6,<b>戰吼:</b>放一張地雷到你對手的牌堆中。當他抽到地雷，會爆炸並對他造成10點傷害,,Battlecry,,True,Raymond Swanland,鋼鐵破滅邪神守護著奧格瑪，而且才剛剛獲得「本月最佳員工」獎項!,True,Mech,,
 Goblins vs Gnomes,隱形力場,,Spell,PART_004,,,,,1,賦予一個友方手下<b>潛行</b>直到你的下一個回合,,,,,Nutchapol Thitinunthakorn,,,,,
 Goblins vs Gnomes,雞,1,Minion,GVG_092t,,,,1,1,,,,,,,,,Beast,,
-Goblins vs Gnomes,電鍍機械小熊,2,Minion,GVG_030,Druid,,Common,2,2,<b>嘲諷</b>。<b>二選一:</b>
-+1攻擊力或+1生命值,,Taunt,,True,Eva Widermann,噢，好可愛呀!呃，天啊，牠為什麼要啃我的臉?!,False,Mech,,
+Goblins vs Gnomes,電鍍機械小熊,2,Minion,GVG_030,Druid,,Common,2,2,<b>嘲諷</b>。<b>二選一:</b>+1攻擊力或+1生命值,,Taunt,,True,Eva Widermann,噢，好可愛呀!呃，天啊，牠為什麼要啃我的臉?!,False,Mech,,
 Goblins vs Gnomes,飛行器,4,Minion,GVG_084,,,Common,1,3,<b>風怒</b>,,Windfury,,True,Matt Dixon,不會飛的飛行器叫什麼?下一個資料片再告訴你。,,Mech,,
 Goblins vs Gnomes,魁梧的石顎穴居怪,5,Minion,GVG_068,,,Common,3,4,每當你的對手施放法術，獲得+2攻擊力,,,,True,Chris Rahn,魁梧是相對穴居怪來說。你的話，當然可以叫他矮冬瓜。,,,,
 Goblins vs Gnomes,魔法代謝,,Enchantment,GVG_068a,,,,,,攻擊力提高,,Aura,,,,,,,,

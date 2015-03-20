@@ -14,8 +14,7 @@ Enrage,Classic,Amani Berserker,<b>Enrage:</b> +3 Attack,Minion,EX1_393,True,Neut
 Battlecry,Classic,Ancient Brewmaster,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.,Minion,EX1_057,True,Alliance,Bernie Kang,Common,5,4,4,Most pandaren say his brew tastes like yak.  But apparently that&sbquo;s a compliment.,,,,,
 Battlecry,Classic,Ancient Mage,<b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.,Minion,EX1_584,True,Neutral,Howard Lyon,Rare,2,4,5,Sometimes he forgets and just wanders into someone else&sbquo;s game.,,,,,
 ,Classic,Ancient of Lore,<b>Choose One -</b> Draw 2 cards; or Restore 5 Health.,Minion,NEW1_008,True,,Patrik Hjelm,Epic,5,7,5,Go ahead carve your initials in him.,,Druid,,,
-,Classic,Ancient of War,<b>Choose One</b> -
-+5 Attack; or +5 Health and <b>Taunt</b>.,Minion,EX1_178,True,Neutral,Sean O’Daniels,Epic,5,7,5,Young Night Elves love to play &bdquo;Who can get the Ancient of War to Uproot?&bdquo;  You lose if you get crushed to death.,,Druid,,,
+,Classic,Ancient of War,<b>Choose One</b> -+5 Attack; or +5 Health and <b>Taunt</b>.,Minion,EX1_178,True,Neutral,Sean O’Daniels,Epic,5,7,5,Young Night Elves love to play &bdquo;Who can get the Ancient of War to Uproot?&bdquo;  You lose if you get crushed to death.,,Druid,,,
 ,Classic,Ancient Secrets,Restore 5 Health.,Spell,NEW1_008b,,,,,,,,,,Druid,,,
 ,Classic,Ancient Teachings,Draw 2 cards.,Spell,NEW1_008a,,,,,,,,,,Druid,,,
 ,Classic,Ancient Watcher,Can&sbquo;t Attack.,Minion,EX1_045,True,Alliance,Richard Wright,Rare,4,2,5,Why do its eyes seem to follow you as you walk by?,,,,,
@@ -157,8 +156,7 @@ Battlecry|Freeze,Classic,Frost Elemental,<b>Battlecry:</b> <b>Freeze</b> a chara
 Taunt,Classic,Gnoll,<b>Taunt</b>,Minion,NEW1_040t,,,,,2,2,2,,,,,,
 ,Classic,Gorehowl,Attacking a minion costs 1 Attack instead of 1 Durability.,Weapon,EX1_411,True,Neutral,Zoltan & Gabor,Epic,7,7,,Grommash Hellscream&sbquo;s famous axe.  Somehow this ended up in Prince Malchezaar&sbquo;s possession.  Quite the mystery!,,Warrior,,,1
 ,Classic,Greenskin&sbquo;s Command,+1/+1.,Enchantment,NEW1_024o,,,,,,,,,,,,,
-Charge|Enrage,Classic,Grommash Hellscream,<b>Charge</b>
-<b>Enrage:</b> +6 Attack,Minion,EX1_414,True,Neutral,Glenn Rane,Legendary,4,8,9,Grommash drank the tainted blood of Mannoroth dooming the orcs to green skin and red eyes!  Maybe not his best decision.,True,Warrior,,,
+Charge|Enrage,Classic,Grommash Hellscream,<b>Charge</b><b>Enrage:</b> +6 Attack,Minion,EX1_414,True,Neutral,Glenn Rane,Legendary,4,8,9,Grommash drank the tainted blood of Mannoroth dooming the orcs to green skin and red eyes!  Maybe not his best decision.,True,Warrior,,,
 ,Classic,Growth,Gruul is growing...,Enchantment,NEW1_038o,,,,,,,,,,,,,
 ,Classic,Gruul,At the end of each turn gain +1/+1 .,Minion,NEW1_038,True,,Kev Walker,Legendary,7,8,7,He&sbquo;s Gruul &bdquo;the Dragonkiller&bdquo;.  He just wanted to cuddle them… he never meant to…,True,,,Growth,
 ,Classic,Hand of Argus,+1/+1 and <b>Taunt</b>.,Enchantment,EX1_093e,,,,,,,,,,,,,
@@ -181,8 +179,7 @@ Freeze,Classic,Ice Lance,<b>Freeze</b> a character. If it was already <b>Frozen<
 ,Classic,Imp,,Minion,EX1_598,,Neutral,,Rare,1,1,1,,,,Demon,,
 ,Classic,Imp Master,At the end of your turn deal 1 damage to this minion and summon a 1/1 Imp.,Minion,EX1_597,True,Neutral,Mark Gibbons,Rare,1,3,5,She would enjoy the job a lot more if she just could get the imps to QUIT BITING HER.,,,,Imp Master,
 ,Classic,Infernal,,Minion,EX1_tk34,,Neutral,,Common,6,6,6,,,Warlock,Demon,,
-,Classic,INFERNO!,<b>Hero Power</b>
-Summon a 6/6 Infernal.,Hero Power,EX1_tk33,,Neutral,,,,2,,,,Warlock,,,
+,Classic,INFERNO!,<b>Hero Power</b>Summon a 6/6 Infernal.,Hero Power,EX1_tk33,,Neutral,,,,2,,,,Warlock,,,
 ,Classic,Infusion,+3 Health.,Enchantment,EX1_623e,,,,,,,,,,Priest,,,
 Battlecry,Classic,Injured Blademaster,<b>Battlecry:</b> Deal 4 damage to HIMSELF.,Minion,CS2_181,True,Horde,Samwise,Rare,4,3,7,He claims it is an old war wound but we think he just cut himself shaving.,,,,Weakened,
 ,Classic,Inner Fire,This minion&sbquo;s Attack is equal to its Health.,Enchantment,CS1_129e,,,,,,,,,,Priest,,,
@@ -235,10 +232,8 @@ Battlecry,Classic,Master of Disguise,<b>Battlecry:</b> Give a friendly minion <b
 Battlecry,Classic,Millhouse Manastorm,<b>Battlecry:</b> Enemy spells cost (0) next turn.,Minion,NEW1_029,True,,Jim Nelson,Legendary,4,2,4,&bdquo;I&sbquo;m gonna light you up sweetcheeks!&bdquo;,True,,,,
 Battlecry,Classic,Mind Control Tech,<b>Battlecry:</b> If your opponent has 4 or more minions take control of one at random.,Minion,EX1_085,True,Alliance,Leo Che,Rare,3,3,3,Mind Control technology is getting better but that&sbquo;s not saying much.,,,,,
 Summoned,Classic,Mind Controlling,,Enchantment,EX1_tk31,,Neutral,,Common,,,,,,Priest,,,
-,Classic,Mind Shatter,<b>Hero Power</b>
-Deal 3 damage.,Hero Power,EX1_625t2,,,,,,2,,,,Priest,,,
-,Classic,Mind Spike,<b>Hero Power</b>
-Deal 2 damage.,Hero Power,EX1_625t,,,,,,2,,,,Priest,,,
+,Classic,Mind Shatter,<b>Hero Power</b>Deal 3 damage.,Hero Power,EX1_625t2,,,,,,2,,,,Priest,,,
+,Classic,Mind Spike,<b>Hero Power</b>Deal 2 damage.,Hero Power,EX1_625t,,,,,,2,,,,Priest,,,
 ,Classic,Mindgames,Put a copy of a random minion from your opponent&sbquo;s deck into the battlefield.,Spell,EX1_345,True,Neutral,Zoltan & Gabor,Epic,,4,,Sometimes it feels like this is all a game.,,Priest,,,
 Secret,Classic,Mirror Entity,<b>Secret:</b> When your opponent plays a minion summon a copy of it.,Spell,EX1_294,True,Neutral,Raven Mimura,Common,,3,,&bdquo;You go first.&bdquo; - Krush&sbquo;gor the Behemoth to his pet boar.,,Mage,,,
 Secret,Classic,Misdirection,<b>Secret:</b> When a character attacks your hero instead he attacks another random character.,Spell,EX1_533,True,Neutral,Daren Bader,Rare,,2,,Sometimes it&sbquo;s as simple as putting on a fake mustache and pointing at someone else.,,Hunter,,,

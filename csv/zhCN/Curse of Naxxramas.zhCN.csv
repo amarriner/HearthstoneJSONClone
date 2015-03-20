@@ -1,12 +1,8 @@
 SET,NAME,TEXT,COST,TYPE,ID,HEALTH,COLLECTIBLE,ARTIST,ELITE,RARITY,ATTACK,HOWTOGETGOLD,FLAVOR,HOWTOGET,MECHANICS,PLAYERCLASS,DURABILITY,RACE
-Curse of Naxxramas,亡者复生,<b>被动英雄技能</b>
-每当一个敌人死亡，召唤一个1/1的骷髅。,0,Hero Power,NAX4_04,,,,,,,,,,,,,
-Curse of Naxxramas,亡者复生,<b>被动英雄技能</b>
-每当一个敌人死亡，召唤一个5/5的骷髅。,0,Hero Power,NAX4_04H,,,,,,,,,,,,,
-Curse of Naxxramas,仇恨打击,<b>英雄技能</b>
-消灭一个随从。,4,Hero Power,NAX10_03H,,,,,,,,,,,,,
-Curse of Naxxramas,仇恨打击,<b>英雄技能</b>
-消灭一个随从。,4,Hero Power,NAX10_03,,,,,,,,,,,,,
+Curse of Naxxramas,亡者复生,<b>被动英雄技能</b>每当一个敌人死亡，召唤一个1/1的骷髅。,0,Hero Power,NAX4_04,,,,,,,,,,,,,
+Curse of Naxxramas,亡者复生,<b>被动英雄技能</b>每当一个敌人死亡，召唤一个5/5的骷髅。,0,Hero Power,NAX4_04H,,,,,,,,,,,,,
+Curse of Naxxramas,仇恨打击,<b>英雄技能</b>消灭一个随从。,4,Hero Power,NAX10_03H,,,,,,,,,,,,,
+Curse of Naxxramas,仇恨打击,<b>英雄技能</b>消灭一个随从。,4,Hero Power,NAX10_03,,,,,,,,,,,,,
 Curse of Naxxramas,克尔苏加德,,,Hero,NAX15_01,30,,,,,,,,,,,,
 Curse of Naxxramas,克尔苏加德,在每个回合结束时，召唤所有在本回合中死亡的友方随从。,8,Minion,FP1_013,8,True,Chris Robinson,True,Legendary,6,在纳克萨玛斯击败所有首领后能够制作！,克尔苏加德迷恋于巫妖王的声音。即使是巫妖王在电话自动语音中的留言也让他甘之若饴。,在击败纳克萨玛斯的所有首领后解锁！,,,,
 Curse of Naxxramas,克尔苏加德,,,Hero,NAX15_01H,45,,,,,,,,,,,,
@@ -15,12 +11,9 @@ Curse of Naxxramas,入侵者！,,,Enchantment,NAX15_01e,,,,,,,,,,,,,
 Curse of Naxxramas,入侵者！,,,Enchantment,NAX15_01He,,,,,,,,,,,,,
 Curse of Naxxramas,冰冠守护者,<b>嘲讽</b>,4,Minion,NAX15_03t,5,,,,,5,,,,Taunt,,,
 Curse of Naxxramas,冰冠守护者,<b>嘲讽</b>,4,Minion,NAX15_03n,3,,,,,3,,,,Taunt,,,
-Curse of Naxxramas,冰霜冲击,<b>英雄技能</b>
-对敌方英雄造成3点伤害，并使其<b>冻结</b>。,0,Hero Power,NAX15_02H,,,,,,,,,,Freeze,,,
-Curse of Naxxramas,冰霜冲击,<b>英雄技能</b>
-对敌方英雄造成2点伤害，并使其<b>冻结</b>。,0,Hero Power,NAX15_02,,,,,,,,,,Freeze,,,
-Curse of Naxxramas,冰霜吐息,<b>英雄技能</b>
-消灭所有没有被<b>冻结</b>的敌方随从。,0,Hero Power,NAX14_02,,,,,,,,,,,,,
+Curse of Naxxramas,冰霜冲击,<b>英雄技能</b>对敌方英雄造成3点伤害，并使其<b>冻结</b>。,0,Hero Power,NAX15_02H,,,,,,,,,,Freeze,,,
+Curse of Naxxramas,冰霜冲击,<b>英雄技能</b>对敌方英雄造成2点伤害，并使其<b>冻结</b>。,0,Hero Power,NAX15_02,,,,,,,,,,Freeze,,,
+Curse of Naxxramas,冰霜吐息,<b>英雄技能</b>消灭所有没有被<b>冻结</b>的敌方随从。,0,Hero Power,NAX14_02,,,,,,,,,,,,,
 Curse of Naxxramas,冷酷学徒,<b>亡语：</b>为你的对手召唤一个鬼灵学徒。,1,Minion,NAX8_03,2,,,,,2,,,,Deathrattle,,,
 Curse of Naxxramas,冷酷战士,<b>亡语：</b>为你的对手召唤一个鬼灵战士。,3,Minion,NAX8_04,4,,,,,3,,,,Deathrattle,,,
 Curse of Naxxramas,冷酷骑兵,<b>亡语：</b>为你的对手召唤一个鬼灵骑兵。,6,Minion,NAX8_05,6,,,,,5,,,,Deathrattle,,,
@@ -52,10 +45,8 @@ Curse of Naxxramas,帕奇维克,,,Hero,NAX10_01H,45,,,,,,,,,,,,
 Curse of Naxxramas,库尔塔兹领主,使你的英雄获得<b>免疫</b>。,3,Minion,NAX9_03H,7,,,True,,2,,,,,,,
 Curse of Naxxramas,库尔塔兹领主,使你的英雄获得<b>免疫</b>。,3,Minion,NAX9_03,7,,,True,,1,,,,,,,
 Curse of Naxxramas,心智末日,每个玩家各抽两张牌，获得一个法力水晶。,2,Spell,NAX5_03,,,,,,,,,,,,,
-Curse of Naxxramas,收割,<b>英雄技能</b>
-抽一张牌。获得一个法力水晶。,1,Hero Power,NAX8_02H,,,,,,,,,,,,,
-Curse of Naxxramas,收割,<b>英雄技能</b>
-抽一张牌。,2,Hero Power,NAX8_02,,,,,,,,,,,,,
+Curse of Naxxramas,收割,<b>英雄技能</b>抽一张牌。获得一个法力水晶。,1,Hero Power,NAX8_02H,,,,,,,,,,,,,
+Curse of Naxxramas,收割,<b>英雄技能</b>抽一张牌。,2,Hero Power,NAX8_02,,,,,,,,,,,,,
 Curse of Naxxramas,收割者戈提克,,,Hero,NAX8_01H,45,,,,,,,,,,,,
 Curse of Naxxramas,收割者戈提克,,,Hero,NAX8_01,30,,,,,,,,,,,,
 Curse of Naxxramas,教官拉苏维奥斯,,,Hero,NAX7_01H,55,,,,,,,,,,,,
@@ -64,8 +55,7 @@ Curse of Naxxramas,斯塔拉格,<b>亡语：</b>如果费尔根也在本局对�
 Curse of Naxxramas,斯塔拉格,,5,Minion,NAX13_05H,4,,,True,Legendary,7,,,,,,,
 Curse of Naxxramas,极寒之击,对敌方英雄造成$8点伤害，并使其<b>冻结</b>。,5,Spell,NAX14_04,,,,,,,,,,Freeze,,,
 Curse of Naxxramas,极性,攻击力和生命值互换。,,Enchantment,NAX13_02e,,,,,,,,,,,,,
-Curse of Naxxramas,极性转换,<b>英雄技能</b>
-使所有随从的攻击力和生命值互换。,0,Hero Power,NAX13_02,,,,,,,,,,,,,
+Curse of Naxxramas,极性转换,<b>英雄技能</b>使所有随从的攻击力和生命值互换。,0,Hero Power,NAX13_02,,,,,,,,,,,,,
 Curse of Naxxramas,树人,,1,Minion,FP1_019t,2,,,,,2,,,,,Druid,,
 Curse of Naxxramas,格拉斯,,,Hero,NAX12_01H,45,,,,,,,,,,,,
 Curse of Naxxramas,格拉斯,,,Hero,NAX12_01,30,,,,,,,,,,,,
@@ -76,22 +66,16 @@ Curse of Naxxramas,死亡之花,对一个随从造成$5点伤害。召唤一个�
 Curse of Naxxramas,死亡学员,<b>嘲讽</b>,2,Minion,NAX7_02,7,,,,,0,,,,Taunt,,,
 Curse of Naxxramas,死亡战马,<b>冲锋，亡语：</b>对你的英雄造成3点伤害。,1,Minion,FP1_006,3,,,,,2,,,,Charge|Deathrattle,,,
 Curse of Naxxramas,死亡领主,<b>嘲讽，亡语：</b>你的对手将一个随从从其牌库置入战场。,3,Minion,FP1_009,8,True,Ben Olson,,Rare,2,在军事区击败天启四骑士后能够制作。,“从你的坟墓中醒来吧！”——克尔苏加德,在击败军事区的天启四骑士后解锁。,Deathrattle|Taunt,,,
-Curse of Naxxramas,死灵光环,<b>英雄技能</b>
-对敌方英雄造成3点伤害。,0,Hero Power,NAX6_02H,,,,,,,,,,,,,
-Curse of Naxxramas,死灵光环,<b>英雄技能</b>
-对敌方英雄造成3点伤害。,2,Hero Power,NAX6_02,,,,,,,,,,,,,
+Curse of Naxxramas,死灵光环,<b>英雄技能</b>对敌方英雄造成3点伤害。,0,Hero Power,NAX6_02H,,,,,,,,,,,,,
+Curse of Naxxramas,死灵光环,<b>英雄技能</b>对敌方英雄造成3点伤害。,2,Hero Power,NAX6_02,,,,,,,,,,,,,
 Curse of Naxxramas,死灵光环,在本回合中，你的法术法力值消耗增加(5)点。,,Enchantment,FP1_030e,,,,,,,,,,,,,
 Curse of Naxxramas,死灵毒药,消灭一个随从。,2,Spell,NAX3_03,,,,,,,,,,,,,
 Curse of Naxxramas,死灵骑士,<b>亡语：</b>消灭与该随从相邻的随从。,4,Minion,NAXM_001,6,,,,,5,,,,Deathrattle,,,
 Curse of Naxxramas,残杀,生命值变为1。,,Enchantment,NAX12_02e,,,,,,,,,,,,,
-Curse of Naxxramas,残杀,<b>英雄技能</b>
-将所有随从的生命值变为1。,2,Hero Power,NAX12_02,,,,,,,,,,,,,
-Curse of Naxxramas,残杀,<b>英雄技能</b>
-将所有敌方随从的生命值降为1。,0,Hero Power,NAX12_02H,,,,,,,,,,,,,
-Curse of Naxxramas,毒云,<b>英雄技能</b>
-对所有随从造成1点伤害。每造成一个随从死亡，便召唤一个泥浆怪。,2,Hero Power,NAX11_02,,,,,,,,,,,,,
-Curse of Naxxramas,毒云,<b>英雄技能</b>
-对所有敌方角色造成2点伤害。每造成一个随从死亡，便召唤一个泥浆怪。,0,Hero Power,NAX11_02H,,,,,,,,,,,,,
+Curse of Naxxramas,残杀,<b>英雄技能</b>将所有随从的生命值变为1。,2,Hero Power,NAX12_02,,,,,,,,,,,,,
+Curse of Naxxramas,残杀,<b>英雄技能</b>将所有敌方随从的生命值降为1。,0,Hero Power,NAX12_02H,,,,,,,,,,,,,
+Curse of Naxxramas,毒云,<b>英雄技能</b>对所有随从造成1点伤害。每造成一个随从死亡，便召唤一个泥浆怪。,2,Hero Power,NAX11_02,,,,,,,,,,,,,
+Curse of Naxxramas,毒云,<b>英雄技能</b>对所有敌方角色造成2点伤害。每造成一个随从死亡，便召唤一个泥浆怪。,0,Hero Power,NAX11_02H,,,,,,,,,,,,,
 Curse of Naxxramas,比格沃斯先生,<i>克尔苏加德的爱喵。</i>,0,Minion,NAX15_05,1,,,True,Legendary,1,,,,,,,Beast
 Curse of Naxxramas,泥浆怪,<b>嘲讽</b>,1,Minion,FP1_012t,2,,,,,1,,,,Taunt,,,
 Curse of Naxxramas,洛欧塞布,<b>战吼：</b>下个回合敌方法术的法力值消耗增加(5)点。,5,Minion,FP1_030,5,True,Samwise,True,Legendary,5,在击败瘟疫区的所有首领后能够制作。,洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。,在击败瘟疫区的所有首领后解锁。,Battlecry,,,
@@ -100,14 +84,10 @@ Curse of Naxxramas,洛欧塞布,,,Hero,NAX6_01,75,,,,,,,,,,,,
 Curse of Naxxramas,淤泥喷射者,<b>嘲讽，亡语：</b>召唤一个1/2并具有<b>嘲讽</b>的泥浆怪。,5,Minion,FP1_012,5,True,Nate Bowden,,Rare,3,在瘟疫区击败洛欧塞布后能够制作。,千万别让他喝碳酸饮料！,在击败瘟疫区的洛欧塞布后解锁。,Deathrattle|Taunt,,,
 Curse of Naxxramas,激怒,在本回合中，获得+6攻击力。,,Enchantment,NAX12_04e,,,,,,,,,,OneTurnEffect,,,
 Curse of Naxxramas,激怒,在本回合中，使你的英雄获得+6攻击力。,3,Spell,NAX12_04,,,,,,,,,,,,,
-Curse of Naxxramas,火焰之雨,<b>英雄技能</b>
-你的对手每有一张手牌，便发射一枚飞弹。,2,Hero Power,NAX2_03,,,,,,,,,,ImmuneToSpellpower,,,
-Curse of Naxxramas,火焰之雨,<b>英雄技能</b>
-你的对手每有一张手牌，便发射一枚飞弹。,1,Hero Power,NAX2_03H,,,,,,,,,,ImmuneToSpellpower,,,
-Curse of Naxxramas,爆发,<b>英雄技能</b>
-对位于最左边的敌方随从造成2点伤害。,1,Hero Power,NAX5_02,,,,,,,,,,,,,
-Curse of Naxxramas,爆发,<b>英雄技能</b>
-对位于最左边的敌方随从造成3点伤害。,0,Hero Power,NAX5_02H,,,,,,,,,,,,,
+Curse of Naxxramas,火焰之雨,<b>英雄技能</b>你的对手每有一张手牌，便发射一枚飞弹。,2,Hero Power,NAX2_03,,,,,,,,,,ImmuneToSpellpower,,,
+Curse of Naxxramas,火焰之雨,<b>英雄技能</b>你的对手每有一张手牌，便发射一枚飞弹。,1,Hero Power,NAX2_03H,,,,,,,,,,ImmuneToSpellpower,,,
+Curse of Naxxramas,爆发,<b>英雄技能</b>对位于最左边的敌方随从造成2点伤害。,1,Hero Power,NAX5_02,,,,,,,,,,,,,
+Curse of Naxxramas,爆发,<b>英雄技能</b>对位于最左边的敌方随从造成3点伤害。,0,Hero Power,NAX5_02H,,,,,,,,,,,,,
 Curse of Naxxramas,瑞文戴尔男爵,,,Hero,NAX9_01H,14,,,,,,,,,,,,
 Curse of Naxxramas,瑞文戴尔男爵,,,Hero,NAX9_01,7,,,,,,,,,,,,
 Curse of Naxxramas,瑞文戴尔男爵,你的随从的<b>亡语</b>效果将触发两次。,4,Minion,FP1_031,7,True,Ralph Horsley,True,Legendary,1,在击败军事区的所有首领后能够制作。,整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。,在击败军事区的所有首领后解锁。,Aura,,,
@@ -139,10 +119,8 @@ Curse of Naxxramas,蛛魔,,2,Minion,NAX1h_03,4,,,,,4,,,,,,,
 Curse of Naxxramas,蛛魔,,2,Minion,NAX1_03,1,,,,,3,,,,,,,
 Curse of Naxxramas,蛛魔之卵,<b>亡语：</b>召唤一个4/4的蛛魔。,2,Minion,FP1_007,2,True,Justin Thavirat,,Rare,0,在蜘蛛区击败迈克斯纳后能够制作。,蛛魔产的卵和鸡生的蛋都含有丰富的蛋白质。,在击败蜘蛛区的迈克斯纳后解锁。,Deathrattle,,,
 Curse of Naxxramas,被冰封的勇士,被永久冻结。相邻的随从免疫冰霜吐息。,5,Minion,NAX14_03,10,,,,,2,,,,Aura,,,
-Curse of Naxxramas,裹体之网,<b>英雄技能</b>
-将两个随机敌方随从移回对手的手牌。,0,Hero Power,NAX3_02H,,,,,,,,,,,,,
-Curse of Naxxramas,裹体之网,<b>英雄技能</b>
-将一个随机敌方随从移回对手的手牌。,3,Hero Power,NAX3_02,,,,,,,,,,,,,
+Curse of Naxxramas,裹体之网,<b>英雄技能</b>将两个随机敌方随从移回对手的手牌。,0,Hero Power,NAX3_02H,,,,,,,,,,,,,
+Curse of Naxxramas,裹体之网,<b>英雄技能</b>将一个随机敌方随从移回对手的手牌。,3,Hero Power,NAX3_02,,,,,,,,,,,,,
 Curse of Naxxramas,费尔根,<b>亡语：</b>如果斯塔拉格也在本局对战中死亡，召唤塔迪乌斯。,5,Minion,FP1_015,7,True,Dany Orizio,True,Legendary,4,在构造区击败所有首领后能够制作。,费尔根很悲伤，因为所有人都喜欢斯塔拉格。,在击败构造区的所有首领后解锁。,Deathrattle,,,
 Curse of Naxxramas,费尔根,,5,Minion,NAX13_04H,7,,,True,Legendary,4,,,,,,,
 Curse of Naxxramas,蹒跚的食尸鬼,<b>嘲讽，亡语：</b>对所有随从造成1点伤害。,2,Minion,FP1_024,3,True,Mike Nicholson,,Common,1,在瘟疫区击败肮脏的希尔盖后能够制作。,最近，给食尸鬼喂食火箭燃料是各大死灵学院最为流行的玩法。,在击败瘟疫区的肮脏的希尔盖后解锁。,Deathrattle|Taunt,,,
@@ -153,27 +131,19 @@ Curse of Naxxramas,迈克斯纳,,,Hero,NAX3_01,30,,,,,,,,,,,,
 Curse of Naxxramas,迈克斯纳,消灭任何受到该随从伤害的随从。,6,Minion,FP1_010,8,True,Howard Lyon,True,Legendary,2,在蜘蛛区击败所有首领后能够制作。,每当人们用“蜘蛛三”称呼迈克斯纳的时候，它就会很生气。,在击败蜘蛛区的所有首领后解锁。,Poisonous,,,Beast
 Curse of Naxxramas,送葬者,每当你召唤一个具有<b>亡语</b>的随从，便获得+1攻击力。,1,Minion,FP1_028,2,True,Jonboy Meyers,,Common,1,在构造区击败帕奇维克后能够制作。,在这样一个几乎每个人都能把同伴复活的世界，送葬者的工作其实很轻松。,在击败构造区的帕奇维克后解锁。,,,,
 Curse of Naxxramas,通灵教诲,+3生命值。,,Enchantment,FP1_023e,,,,,,,,,,,Priest,,
-Curse of Naxxramas,邪恶之影,<b>英雄技能</b>
-抽两张牌。,5,Hero Power,NAX9_06,,,,,,,,,,,,,
-Curse of Naxxramas,重压打击,<b>英雄技能</b>
-造成3点伤害。,2,Hero Power,NAX7_03,,,,,,,,,,,,,
-Curse of Naxxramas,重压打击,<b>英雄技能</b>
-造成4点伤害。,1,Hero Power,NAX7_03H,,,,,,,,,,,,,
-Curse of Naxxramas,铁钩,<b>风怒</b>
-<b>亡语：</b>将这把武器移回你的手牌。,3,Weapon,NAX10_02H,,,,,,4,,,,Deathrattle|Windfury,,8,
+Curse of Naxxramas,邪恶之影,<b>英雄技能</b>抽两张牌。,5,Hero Power,NAX9_06,,,,,,,,,,,,,
+Curse of Naxxramas,重压打击,<b>英雄技能</b>造成3点伤害。,2,Hero Power,NAX7_03,,,,,,,,,,,,,
+Curse of Naxxramas,重压打击,<b>英雄技能</b>造成4点伤害。,1,Hero Power,NAX7_03H,,,,,,,,,,,,,
+Curse of Naxxramas,铁钩,<b>风怒</b><b>亡语：</b>将这把武器移回你的手牌。,3,Weapon,NAX10_02H,,,,,,4,,,,Deathrattle|Windfury,,8,
 Curse of Naxxramas,铁钩,<b>亡语：</b>将这把武器移回你的手牌。,3,Weapon,NAX10_02,,,,,,5,,,,Deathrattle,,8,
-Curse of Naxxramas,锁链,<b>英雄技能</b>
-随机获得一个敌方随从的控制权，直到回合结束。,8,Hero Power,NAX15_04,,,,,,,,,,,,,
-Curse of Naxxramas,锁链,<b>英雄技能</b>
-随机获得一个敌方随从的控制权。,8,Hero Power,NAX15_04H,,,,,,,,,,,,,
+Curse of Naxxramas,锁链,<b>英雄技能</b>随机获得一个敌方随从的控制权，直到回合结束。,8,Hero Power,NAX15_04,,,,,,,,,,,,,
+Curse of Naxxramas,锁链,<b>英雄技能</b>随机获得一个敌方随从的控制权。,8,Hero Power,NAX15_04H,,,,,,,,,,,,,
 Curse of Naxxramas,阿努巴尔伏击者,<b>亡语：</b>将一个随机友方随从移回你的手牌。,4,Minion,FP1_026,5,True,Nate Bowden,,Common,5,在纳克萨玛斯完成潜行者职业挑战后能够制作。,他原来的名字叫作“阿努巴尔弹回者”，因为他喜欢把队友弹回玩家手上。虽然他改掉了这个坏习惯并因此改了名，但他有时还是会情不自禁。,在完成纳克萨玛斯的潜行者职业挑战后解锁。,Deathrattle,Rogue,,
 Curse of Naxxramas,阿努布雷坎,,,Hero,NAX1h_01,45,,,,,,,,,,,,
 Curse of Naxxramas,阿努布雷坎,,,Hero,NAX1_01,30,,,,,,,,,,,,
 Curse of Naxxramas,霉菌滋生,攻击力增加。,,Enchantment,NAX6_03te,,,,,,,,,,,,,
-Curse of Naxxramas,飞掠召唤,<b>英雄技能</b>
-召唤一个4/4的蛛魔。,2,Hero Power,NAX1h_04,,,,,,,,,,,,,
-Curse of Naxxramas,飞掠召唤,<b>英雄技能</b>
-召唤一只3/1的蛛魔。,2,Hero Power,NAX1_04,,,,,,,,,,,,,
+Curse of Naxxramas,飞掠召唤,<b>英雄技能</b>召唤一个4/4的蛛魔。,2,Hero Power,NAX1h_04,,,,,,,,,,,,,
+Curse of Naxxramas,飞掠召唤,<b>英雄技能</b>召唤一只3/1的蛛魔。,2,Hero Power,NAX1_04,,,,,,,,,,,,,
 Curse of Naxxramas,骑士印记,+1/+1。,,Enchantment,NAX9_07e,,,,,,,,,,,,,
 Curse of Naxxramas,骑士印记,使你的随从和武器获得+1/+1。,5,Spell,NAX9_07,,,,,,,,,,,,,
 Curse of Naxxramas,骷髅,,1,Minion,NAX4_03,1,,,,,1,,,,,,,

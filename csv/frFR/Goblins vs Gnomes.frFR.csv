@@ -1,6 +1,5 @@
 MECHANICS,COLLECTIBLE,SET,NAME,ARTIST,TEXT,RARITY,ATTACK,COST,HEALTH,RACE,FLAVOR,TYPE,ID,PLAYERCLASS,ELITE,DURABILITY
-Taunt,True,Goblins vs Gnomes,Annulateur d’Arcane X-21,Zero Yue,<b>Provocation</b>
-Ne peut pas être la cible de sorts ou de pouvoirs héroïques.,Rare,2,4,5,Mech,Les magi et les ingénieurs gnomes se disputent âprement l’invention de ce Méca.,Minion,GVG_091,,,
+Taunt,True,Goblins vs Gnomes,Annulateur d’Arcane X-21,Zero Yue,<b>Provocation</b>Ne peut pas être la cible de sorts ou de pouvoirs héroïques.,Rare,2,4,5,Mech,Les magi et les ingénieurs gnomes se disputent âprement l’invention de ce Méca.,Minion,GVG_091,,,
 ,True,Goblins vs Gnomes,Appel des ancêtres,Dan Scott,Prend un serviteur aléatoire dans la main de chaque joueur et les pose sur le champ de bataille.,Epic,,4,,,« Hé les ancêtres ! » - Appel des ancêtres,Spell,GVG_029,Shaman,,
 ,True,Goblins vs Gnomes,Appel du familier,E.M. Gist,Vous piochez une carte. Si c&sbquo;est une Bête elle coûte (4) cristaux de moins.,Rare,,2,,,Les vrais chasseurs chassent la galinette cendrée.,Spell,GVG_017,Hunter,,
 ,True,Goblins vs Gnomes,Arbre de vie,Steve Prescott,Rend à tous les personnages tous leurs points de vie.,Epic,,9,,,La Vie pousse sur les arbres !?,Spell,GVG_033,Druid,,
@@ -22,12 +21,9 @@ Battlecry,True,Goblins vs Gnomes,Bondisseur dent-de-métal,Hideaki Takamura,<b>C
 ,,Goblins vs Gnomes,Camouflé,,Camouflé jusqu’à votre prochain tour.,,,,,,,Enchantment,PART_004e,,,
 ,True,Goblins vs Gnomes,Canon du navire,Warren Mahy,Chaque fois que vous invoquez un pirate inflige 2 points de dégâts à un adversaire aléatoire.,Common,2,2,3,,Fais-lui bobo avec tes boulettes !,Minion,GVG_075,,,
 ,True,Goblins vs Gnomes,Canon lance-flammes,Mauricio Herrera,Inflige $4 |4(pointpoints) de dégâts à un serviteur adverse aléatoire.,Common,,2,,,Le classique de la maison notre fidèle canon lance-flammes mon préféré !,Spell,GVG_001,Mage,,
-Windfury,True,Goblins vs Gnomes,Chaman cognedune,José Ladrönn,<b>Furie des vents.</b>
-50% de chance d’attaquer le mauvais adversaire. 
-<b>Surcharge :</b> (1),Rare,5,4,4,,Il ferme les yeux et il fonce. Rahhhhhhhhhhhhhh !,Minion,GVG_066,Shaman,,
+Windfury,True,Goblins vs Gnomes,Chaman cognedune,José Ladrönn,<b>Furie des vents.</b>50% de chance d’attaquer le mauvais adversaire. <b>Surcharge :</b> (1),Rare,5,4,4,,Il ferme les yeux et il fonce. Rahhhhhhhhhhhhhh !,Minion,GVG_066,Shaman,,
 ,,Goblins vs Gnomes,Champ de camouflage,Nutchapol Thitinunthakorn,Confère <b>Camouflage</b> à un serviteur allié jusqu’à votre prochain tour.,,,1,,,,Spell,PART_004,,,
-,True,Goblins vs Gnomes,Char araignée,Dany Orizio,,Common,3,3,4,Mech,« Et si on lui ajoutait des canons ? »
-- Fuséclair à propos de l’araignée de transport,Minion,GVG_044,,,
+,True,Goblins vs Gnomes,Char araignée,Dany Orizio,,Common,3,3,4,Mech,« Et si on lui ajoutait des canons ? »- Fuséclair à propos de l’araignée de transport,Minion,GVG_044,,,
 Divine Shield,True,Goblins vs Gnomes,Char de force MAX,Nutchapol Thitinunthakorn,<b>Bouclier divin</b>,Common,7,8,7,Mech,À Tanaris il y a une usine de chars de force mais seuls deux chars sont sortis des ateliers à cause des dépassements de budget.,Minion,GVG_079,,,
 ,True,Goblins vs Gnomes,Choix de Velen,Alex Horley Orlandelli,Confère à un serviteur +2/+4 et <b>+1 aux dégâts des sorts</b>.,Common,,3,,,Parce qu’en plus c’est moi qui dois décider ?,Spell,GVG_010,Priest,,
 ,,Goblins vs Gnomes,Choix de Velen,,+2/+4 et <b>dégâts des sorts :+1</b>.,,,,,,,Enchantment,GVG_010b,,,
@@ -51,8 +47,7 @@ Battlecry,True,Goblins vs Gnomes,Druide du Croc,Brandon Kitkouski,<b>Cri de guer
 ,True,Goblins vs Gnomes,Écho de Medivh,Alex Garner,Place une copie de chaque serviteur allié dans votre main.,Epic,,4,,,Tout est une copie d&sbquo;une copie d&sbquo;une copie...,Spell,GVG_005,Mage,,
 ,True,Goblins vs Gnomes,Écraser,Michael Sutfin,Détruit un serviteur. Si vous avez un serviteur blessé cette carte coûte (4) cristaux de moins.,Epic,,7,,,Écraser ses adversaires avec cette carte les voir mourir devant soi et entendre les lamentations de leurs femmes. Qu’y a-t-il de mieux dans la vie ?,Spell,GVG_052,Warrior,,
 ,True,Goblins vs Gnomes,Engin de siège,Zero Yue,Chaque fois que vous gagnez de l’Armure donne +1 ATQ à ce serviteur.,Rare,5,5,5,Mech,Le seul point faible de la forteresse de Joug-d’hiver !,Minion,GVG_086,Warrior,,
-Divine Shield|Taunt,True,Goblins vs Gnomes,Ennuy-o-tron,Matt Dixon,<b>Provocation</b>
-<b>Bouclier divin</b>,Common,1,2,2,Mech,Son inventeur a immédiatement été renvoyé de l’école des bricoleurs et banni de Brikabrok avant de finalement être expulsé de l’ensemble des royaumes de l’Est.,Minion,GVG_085,,,
+Divine Shield|Taunt,True,Goblins vs Gnomes,Ennuy-o-tron,Matt Dixon,<b>Provocation</b><b>Bouclier divin</b>,Common,1,2,2,Mech,Son inventeur a immédiatement été renvoyé de l’école des bricoleurs et banni de Brikabrok avant de finalement être expulsé de l’ensemble des royaumes de l’Est.,Minion,GVG_085,,,
 ,True,Goblins vs Gnomes,Éruption de diablotins,Jaemin Kim,Inflige $2 à $4 points de dégâts à un serviteur. Invoque un diablotin 1/1 pour chaque point de dégâts infligé.,Rare,,4,,,Bien pires qu’une éruption de boutons.,Spell,GVG_045,Warlock,,
 ,,Goblins vs Gnomes,Étreinte de Mal’Ganis,,Mal’Ganis confère +2/+2.,,,,,,,Enchantment,GVG_021e,Warlock,,
 Battlecry,True,Goblins vs Gnomes,Expérimentateur gnome,Jesper Esjing,<b>Cri de guerre :</b> vous piochez une carte. Si c’est un serviteur le transforme en poulet.,Rare,3,3,2,,Il est toujours surpris quand il se transforme lui-même en poulet.,Minion,GVG_092,,,
@@ -70,8 +65,7 @@ Battlecry,True,Goblins vs Gnomes,Glaivezooka,Gino Whitehall,<b>Cri de guerre :</
 Deathrattle,True,Goblins vs Gnomes,Gnome mécanique,Matt Dixon,<b>Râle d’agonie :</b> ajoute une carte <b>Pièce détachée</b> dans votre main.,Common,2,1,1,Mech,« Tu veux un petit clou ? »,Minion,GVG_082,,,
 Deathrattle,True,Goblins vs Gnomes,Golem céleste piloté,Michael Phillippi,<b>Râle d’agonie :</b> invoque un serviteur aléatoire coûtant 4 cristaux.,Epic,6,6,4,Mech,Le summum de l’ingénierie gobeline. Masse les pieds et fait le café.,Minion,GVG_105,,,
 ,True,Goblins vs Gnomes,Golem d’anima,Josh Harris,À la fin de chaque tour détruit ce serviteur si c’est le seul que vous avez.,Epic,9,6,9,Mech,Le sombre animus est maléfique et mystérieux. Il est également très gros et incapable d’écrire des phrases grammaticalement correctes.,Minion,GVG_077,Warlock,,
-,True,Goblins vs Gnomes,Guetteur flottant,Todd Lockwood,Chaque fois que votre héros subit des dégâts pendant votre tour
-gagne +2/+2.,Common,4,5,4,Demon,Les guetteurs nous surveillent mais qui surveille les guetteurs ?,Minion,GVG_100,Warlock,,
+,True,Goblins vs Gnomes,Guetteur flottant,Todd Lockwood,Chaque fois que votre héros subit des dégâts pendant votre tourgagne +2/+2.,Common,4,5,4,Demon,Les guetteurs nous surveillent mais qui surveille les guetteurs ?,Minion,GVG_100,Warlock,,
 ,True,Goblins vs Gnomes,Haut-trotteur égaré,Benjamin Zhang,,Common,5,4,4,Beast,Sur son collier on peut lire : « Si vous le trouvez merci de le renvoyer à Mulgore ».,Minion,GVG_071,,,
 Battlecry,True,Goblins vs Gnomes,Hemet Nesingwary,Ralph Horsley,<b>Cri de guerre :</b> détruit une Bête.,Legendary,6,5,3,,Dans un monde où les bêtes réapparaissent quelques minutes après avoir été tuées un chasseur a du mal à gagner sa vie.,Minion,GVG_120,,True,
 ,True,Goblins vs Gnomes,Hobgobelin,Laurel D. Austin,Chaque fois que vous jouez un serviteur avec 1 ATQ lui donne +2/+2.,Epic,2,3,3,,Voilà ce qui arrive quand on ne se brosse pas les dents trois fois par jour !,Minion,GVG_104,,,
@@ -79,8 +73,7 @@ Combo,True,Goblins vs Gnomes,Huile d’affûtage de Bricoleur,Den,Confère à vo
 ,,Goblins vs Gnomes,Huile d’affûtage de Bricoleur,,+3 ATQ.,,,,,,,Enchantment,GVG_022a,,,
 ,,Goblins vs Gnomes,Huile d’affûtage de Bricoleur,,+3 ATQ.,,,,,,,Enchantment,GVG_022b,,,
 ,True,Goblins vs Gnomes,Illuminatrice,Jim Nelson,Si vous contrôlez un <b>Secret</b> à la fin de votre tour rend 4 PV à votre héros.,Rare,2,3,4,,On ne l’a jamais entendue crier « LUMOS ! » vous vous croyez où moldu ?,Minion,GVG_089,,,
-Charge|Taunt,True,Goblins vs Gnomes,Infanterie de Gnomeregan,Zoltan & Gabor,<b>Charge</b>
-<b>Provocation</b>,Common,1,3,4,,Le seul gnome qui est mort d’avoir fait un trou à son pantalon était retourné à Gnomeregan !,Minion,GVG_098,,,
+Charge|Taunt,True,Goblins vs Gnomes,Infanterie de Gnomeregan,Zoltan & Gabor,<b>Charge</b><b>Provocation</b>,Common,1,3,4,,Le seul gnome qui est mort d’avoir fait un trou à son pantalon était retourné à Gnomeregan !,Minion,GVG_098,,,
 Battlecry,True,Goblins vs Gnomes,Intendant,Phroilan Gardner,<b>Cri de guerre :</b> donne +2/+2 à vos recrues de la Main d’argent.,Epic,2,5,5,,On va l’retrouver éparpillé par petits bouts façon puzzle. Moi quand on m’en fait trop je correctionne plus : j’dynamite… j’disperse… j’ventile !,Minion,GVG_060,Paladin,,
 ,,Goblins vs Gnomes,Inverseur,Nutthapon Petthai,Inverse l’Attaque et la Vie d’un serviteur.,,,1,,,,Spell,PART_006,,,
 ,,Goblins vs Gnomes,Inversion,,L’Attaque et la Vie ont été échangées par l’inverseur.,,,,,,,Enchantment,PART_006a,,,
@@ -102,8 +95,7 @@ Aura,True,Goblins vs Gnomes,Maître des rouages,Trent Kaniuga,A +2 ATQ tant que 
 ,True,Goblins vs Gnomes,Maîtresse de Douleur,Carl Critchlow,Chaque fois que ce serviteur inflige des dégâts rend l&sbquo;équivalent sous forme de PV à votre héros.,Rare,1,2,4,Demon,Sa sœur la maîtresse de Douceur vend des cupcakes et autres sucreries.,Minion,GVG_018,Warlock,,
 Aura,True,Goblins vs Gnomes,Mal’Ganis,Wayne Reynolds,Vos autres démons ont +2/+2. Votre héros est <b>insensible</b>.,Legendary,9,9,7,Demon,Mal’Ganis n’aime pas être trahi donc attention à vous si vous vous en défaussez.,Minion,GVG_021,Warlock,True,
 Deathrattle,True,Goblins vs Gnomes,Malorne,Oliver Chipping,<b>Râle d’agonie :</b> replace ce serviteur dans votre deck.,Legendary,9,7,7,Beast,« Ils vont voir de quels bois je me chauffe ! »,Minion,GVG_035,Druid,True,
-,True,Goblins vs Gnomes,Marche-esprit aileron vaseux,Clint Langley,Chaque fois qu’un autre murloc allié meurt vous piochez une carte.
-<b>Surcharge :</b> (1),Epic,2,4,5,Murloc,Il paraît que les esprits comprennent tout ce qu’on leur dit même « MRGHRGLGLGL ! » mais cette théorie est un peu vaseuse…,Minion,GVG_040,Shaman,,
+,True,Goblins vs Gnomes,Marche-esprit aileron vaseux,Clint Langley,Chaque fois qu’un autre murloc allié meurt vous piochez une carte.<b>Surcharge :</b> (1),Epic,2,4,5,Murloc,Il paraît que les esprits comprennent tout ce qu’on leur dit même « MRGHRGLGLGL ! » mais cette théorie est un peu vaseuse…,Minion,GVG_040,Shaman,,
 Deathrattle,True,Goblins vs Gnomes,Masse de puissance,Zoltan and Gabor,<b>Râle d’agonie :</b> donne à un Méca allié aléatoire +2/+2.,Rare,3,3,,,On pense que les chamans contrôlent les éléments alors qu’ils leur demandent juste un coup de main et les éléments répondent genre « Ouais OK pourquoi pas ».,Weapon,GVG_036,Shaman,,2
 Battlecry,True,Goblins vs Gnomes,Mastodonte de fer,Raymond Swanland,<b>Cri de guerre :</b> place une mine dans le deck de votre adversaire. Quand elle est piochée elle explose et inflige 10 points de dégâts.,Legendary,6,6,5,Mech,Il a été élu récemment « Employé du mois » pour son boulot à Orgrimmar !,Minion,GVG_056,Warrior,True,
 ,True,Goblins vs Gnomes,Mataf,Alex Horley Orlandelli,,Common,7,5,4,Pirate,Mais pourquoi est-il aussi méchant ???,Minion,GVG_070,,,
@@ -115,8 +107,7 @@ Battlecry,True,Goblins vs Gnomes,Mécano-amplificateur,Zoltan Boros,<b>Cri de gu
 ImmuneToSpellpower,,Goblins vs Gnomes,Mine enfouie,Chris Seaman,Quand vous la piochez elle explose vous infligeant 10 points de dégâts. Vous piochez une carte.,,,0,,,,Spell,GVG_056t,Warrior,,
 Battlecry|Taunt,True,Goblins vs Gnomes,Mini exorciste,Jim Nelson,<b>Provocation</b>. <b>Cri de guerre :</b> gagne +1/+1 pour chaque serviteur adverse avec <b>Râle d’agonie</b>.,Rare,2,3,3,,Quelle excellente journée pour un exorcisme !,Minion,GVG_097,,,
 Aura,True,Goblins vs Gnomes,Mini stoppe-sort,Jonboy Meyers,Les serviteurs adjacents ne peuvent pas être la cible de sorts ou de pouvoirs héroïques.,Epic,2,4,5,,La plaie des lanceurs de sorts.,Minion,GVG_122,Mage,,
-Spellpower|Stealth,True,Goblins vs Gnomes,Mini-mage,Ben Olson,<b>Camouflage</b>
-<b>Dégâts des sorts : +1</b>,Epic,4,4,1,,Il se cache parfois dans le coffre au trésor de l’arène des Gurubashi.,Minion,GVG_109,,,
+Spellpower|Stealth,True,Goblins vs Gnomes,Mini-mage,Ben Olson,<b>Camouflage</b><b>Dégâts des sorts : +1</b>,Epic,4,4,1,,Il se cache parfois dans le coffre au trésor de l’arène des Gurubashi.,Minion,GVG_109,,,
 Divine Shield,True,Goblins vs Gnomes,Mini-robot blindé,Raymond Swanland,<b>Bouclier divin</b>,Common,2,2,2,Mech,Il préfère croire ce pour quoi il a été programmé !,Minion,GVG_058,Paladin,,
 ,,Goblins vs Gnomes,Mode Attaque,,+1 ATQ.,,,,,,,Spell,GVG_030a,Druid,,
 ,,Goblins vs Gnomes,Mode Attaque,,+1 ATQ.,,,,,,,Enchantment,GVG_030ae,Druid,,
@@ -125,13 +116,9 @@ Divine Shield,True,Goblins vs Gnomes,Mini-robot blindé,Raymond Swanland,<b>Bouc
 ,True,Goblins vs Gnomes,Mogor l’ogre,Michal Ivan,Tous les serviteurs ont 50% de chance d’attaquer le mauvais adversaire.,Legendary,7,6,6,,Mogor a autrefois participé à la réouverture de la Porte des ténèbres. Quand vous devez compter sur un ogre vous savez d’avance que vous êtes dans le pétrin.,Minion,GVG_112,,True,
 Deathrattle,True,Goblins vs Gnomes,Mouton explosif,Ralph Horsley,<b>Râle d’agonie :</b> inflige 2 points de dégâts à tous les serviteurs.,Common,1,2,1,Mech,Un mouton ! Parce qu’on est tous un peu mouton tu sais…,Minion,GVG_076,,,
 Battlecry,True,Goblins vs Gnomes,Mystique de Kezan,Jakub Kasper,<b>Cri de guerre :</b> prend le contrôle d’un <b>Secret</b> adverse aléatoire.,Rare,4,4,3,,Les mystiques prétendent être des sages éclairés mais en fait ils adorent surtout dénicher des secrets.,Minion,GVG_074,,,
-Battlecry,True,Goblins vs Gnomes,Neptulon,Ruan Jia,<b>Cri de guerre :</b> ajoute 4 murlocs aléatoires dans votre main.
-<b>Surcharge :</b> (3),Legendary,7,7,7,,Neptulon est le « Chasse-Marées ». C’est un des quatre seigneurs élementaires. Quand Ragnaros et lui se retrouvent ils créent une ambiance sauna des plus agréables.,Minion,GVG_042,Shaman,True,
-Stealth,True,Goblins vs Gnomes,Ninja ogre,Samwise,<b>Camouflage</b>
-50% de chance d’attaquer le mauvais adversaire.,Rare,6,5,6,,Il n’avait pas le niveau pour la formation de ninja mais son père a tiré quelques ficelles.,Minion,GVG_088,Rogue,,
-Taunt,True,Goblins vs Gnomes,Ourson robot anodisé,Eva Widermann,<b>Provocation</b>.
-<b>Choix des armes :</b>
-+1 ATQ ou +1 PV.,Common,2,2,2,Mech,Il est adorable ! AH MAIS POURQUOI IL A ÉTERNUÉ ???,Minion,GVG_030,Druid,False,
+Battlecry,True,Goblins vs Gnomes,Neptulon,Ruan Jia,<b>Cri de guerre :</b> ajoute 4 murlocs aléatoires dans votre main.<b>Surcharge :</b> (3),Legendary,7,7,7,,Neptulon est le « Chasse-Marées ». C’est un des quatre seigneurs élementaires. Quand Ragnaros et lui se retrouvent ils créent une ambiance sauna des plus agréables.,Minion,GVG_042,Shaman,True,
+Stealth,True,Goblins vs Gnomes,Ninja ogre,Samwise,<b>Camouflage</b>50% de chance d’attaquer le mauvais adversaire.,Rare,6,5,6,,Il n’avait pas le niveau pour la formation de ninja mais son père a tiré quelques ficelles.,Minion,GVG_088,Rogue,,
+Taunt,True,Goblins vs Gnomes,Ourson robot anodisé,Eva Widermann,<b>Provocation</b>.<b>Choix des armes :</b>+1 ATQ ou +1 PV.,Common,2,2,2,Mech,Il est adorable ! AH MAIS POURQUOI IL A ÉTERNUÉ ???,Minion,GVG_030,Druid,False,
 ,,Goblins vs Gnomes,Pièce de Gallywix,,Gagne 1 cristal de mana pendant ce tour seulement. <i>(Ne déclenche pas le pouvoir de Gallywix.)</i>,,,0,,,,Spell,GVG_028t,,,
 ,,Goblins vs Gnomes,Pistons,,Attaque augmentée.,,,,,,,Enchantment,GVG_076a,,,
 ,,Goblins vs Gnomes,Plaque d’armure,Nutchapol Thitinunthakorn,Donne +1 PV à un serviteur.,,,1,,,,Spell,PART_001,,,
@@ -179,16 +166,12 @@ Battlecry,True,Goblins vs Gnomes,Technicien de Brikabrok,Gabor Szikszai,<b>Cri d
 ,True,Goblins vs Gnomes,Tir du cobra,Howard Lyon,Inflige $3 |4(pointpoints) de dégâts à un serviteur et au héros adverse.,Common,,5,,,Venu de nulle part c’est le tir du cobra. Plus vif que le serpent c’est le tir du cobra. Personne ne l’aperçoit c’est le tir du cobra. Mais il est toujours là c&sbquo;est le tir du cobra.,Spell,GVG_073,Hunter,,
 Battlecry|Deathrattle,True,Goblins vs Gnomes,Toshley,Zoltan & Gabor,<b>Cri de guerre et Râle d’agonie :</b> ajoute une carte <b>Pièce détachée</b> dans votre main.,Legendary,5,6,7,,C’est la pièce manquante du puzzle ?,Minion,GVG_115,,True,
 ,True,Goblins vs Gnomes,Totem de vitalité,Guangjian Huang,À la fin de votre tour rend 4 PV à votre héros.,Rare,0,2,3,Totem,Vous pouvez en acheter sur le marché aux totems tous les samedis.,Minion,GVG_039,Shaman,,
-Stealth,True,Goblins vs Gnomes,Traqueur gloubelin,Seamus Gallagher,<b>Camouflage</b>,Common,2,2,3,,« Chut je crois que j’ai entendu quelque chose. »
-« Bah c’est probablement rien. »
-- Des malfrats,Minion,GVG_081,,,
+Stealth,True,Goblins vs Gnomes,Traqueur gloubelin,Seamus Gallagher,<b>Camouflage</b>,Common,2,2,3,,« Chut je crois que j’ai entendu quelque chose. »« Bah c’est probablement rien. »- Des malfrats,Minion,GVG_081,,,
 ,True,Goblins vs Gnomes,Tricheur borgne,Danny Beck,Chaque fois que vous jouez un pirate gagne <b>Camouflage</b>.,Rare,4,2,1,Pirate,Si on ne peut plus tricher avec ses amis c’est plus la peine de jouer aux cartes.,Minion,GVG_025,Rogue,,
 ,True,Goblins vs Gnomes,Trogg brisepierre,Peet Cooper,Chaque fois que votre adversaire lance un sort gagne +1 ATQ.,Common,2,2,3,,Il n’y a rien de pire que l’odeur des troggs… sauf peut-être leurs poèmes.,Minion,GVG_067,,,
 ,True,Goblins vs Gnomes,Trogg mâcheroc mastoc,Chris Rahn,Chaque fois que votre adversaire lance un sort gagne +2 ATQ.,Common,3,4,5,,C’est dur à prononcer mais moins que « Le mastoc moustique mastique Max le mystique masqué ».,Minion,GVG_068,,,
 ,True,Goblins vs Gnomes,Troggzor le Terreminator,Mike Sass,Chaque fois que votre adversaire lance un sort invoque un trogg mâcheroc mastoc.,Legendary,6,7,6,,Il ne peut pas s’empêcher de terreminer le terrain malgré toutes les tentatives pour l’arrêter.,Minion,GVG_118,,True,
-Charge,,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,<b>Charge</b>
-<b>Méga furie des vents</b>
-<i>(Peut attaquer quatre fois par tour.)</i>,Legendary,4,8,8,Mech,,Minion,GVG_111t,,True,
+Charge,,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,<b>Charge</b><b>Méga furie des vents</b><i>(Peut attaquer quatre fois par tour.)</i>,Legendary,4,8,8,Mech,,Minion,GVG_111t,,True,
 Battlecry,True,Goblins vs Gnomes,Vierge guerrière,Alex Horley Orlandelli,<b>Cri de guerre :</b> gagne 5 points d’armure.,Rare,5,6,5,,Elle a 3 porte-boucliers pour la soutenir c’est plus que certains chefs de village.,Minion,GVG_053,Warrior,,
 Deathrattle,True,Goblins vs Gnomes,Vieux déchiqueteur de Sneed,Christopher Moeller,<b>Râle d’agonie :</b> invoque un serviteur légendaire aléatoire.,Legendary,5,8,7,Mech,Quand Sneed a été vaincu dans les Mortemines son déchiqueteur a été vendu aux enchères à un acheteur anonyme. (Probablement Lardeur.),Minion,GVG_114,,True,
 ,,Goblins vs Gnomes,Vindicte,,Attaque augmentée.,,,,,,,Enchantment,GVG_063a,,,

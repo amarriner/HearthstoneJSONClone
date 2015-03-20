@@ -18,15 +18,13 @@ True,Basic,剃刀沼澤獵人,Horde,Common,3,Minion,CS2_196,,<b>戰吼:</b>召�
 True,Basic,力量祝福,Neutral,Free,,Spell,CS2_087,Paladin,賦予一個手下+3攻擊力,1,「我現在有讓你閃一邊的<b>力量</b>了。」-剛被祝福加持的蛤蟆邁克如是說。,Zoltan Boros,於45級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,力量祝福,Neutral,,,Enchantment,CS2_087e,Paladin,+3攻擊力,,,,,,,,,,
 True,Basic,動物夥伴,,Common,,Spell,NEW1_031,Hunter,召喚一隻隨機的野獸夥伴,3,你能召喚出米莎、里奧克或胡佛。胡佛造成的麻煩比他的用處還大。,Wei Wang,於45級時解鎖。,於2級時解鎖。,,,,,
-,Basic,匕首專精,Neutral,Free,,Hero Power,CS2_083b,Rogue,<b>英雄能力</b>
-裝備一把1/2匕首,2,,,,,,,,,
+,Basic,匕首專精,Neutral,Free,,Hero Power,CS2_083b,Rogue,<b>英雄能力</b>裝備一把1/2匕首,2,,,,,,,,,
 True,Basic,北郡教士,,Free,3,Minion,CS2_235,Priest,每當有手下受到治療，抽一張牌,1,他們會幫助受到欺壓及陷入麻煩的人。他們也會賣餅乾。,Terese Nielsen,於40級時解鎖。,於1級時解鎖。,HealTarget,1,,,
 True,Basic,卡爾洛斯·地獄吼,Neutral,Free,30,Hero,HERO_01,Warrior,,,,,,,,,,,
 True,Basic,厲鱗神諭者,Neutral,Common,1,Minion,EX1_508,,全部其他魚人獲得+1攻擊力,1,神諭者算是比較聰明的魚人。但其實，差別好像也不大。,Phil Saunders,於術士53級時解鎖。,,Aura,1,Murloc,,
 True,Basic,古拉巴什狂戰士,Neutral,Common,7,Minion,EX1_399,,每當這個手下受到傷害，獲得+3攻擊力,5,痛過，才會有所成長。,Alex Horley Orlandelli,於術士57級時解鎖。,,,2,,,
 True,Basic,古爾丹,Neutral,Free,30,Hero,HERO_07,Warlock,,,,,,,,,,,
-,Basic,召喚圖騰,Neutral,Free,,Hero Power,CS2_049,Shaman,<b>英雄能力</b>
-召喚一個隨機的圖騰,2,,,,,,,,,
+,Basic,召喚圖騰,Neutral,Free,,Hero Power,CS2_049,Shaman,<b>英雄能力</b>召喚一個隨機的圖騰,2,,,,,,,,,
 True,Basic,吸取生命,Neutral,Free,,Spell,CS2_061,Warlock,造成$2點傷害。使你的英雄恢復#2點生命值,3,「我剛吸走了你一年的壽命。」,Alex Horley Orlandelli,於45級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,啦嘎咕啦布啦!,,,,Enchantment,EX1_508o,,這個魚人+1攻擊力,,,,,,,,,,
 ,Basic,嗜血術,,,,Enchantment,CS2_046e,Shaman,本回合+3攻擊力,,,,,,OneTurnEffect,,,,
@@ -55,13 +53,11 @@ True,Basic,心靈震爆,Neutral,Free,,Spell,DS1_233,Priest,對敵方英雄造成
 True,Basic,恐怖的煉獄火,Neutral,Common,6,Minion,CS2_064,Warlock,<b>戰吼:</b>對全部其他角色造成1點傷害,6,「煉獄火!!」-賈拉克瑟斯，燃燒軍團的埃雷達爾領主,Zoltan & Gabor,於23級時解鎖。,於10級時解鎖。,Battlecry,6,Demon,,
 True,Basic,悶棍,Neutral,Free,,Spell,EX1_581,Rogue,使一個敵方手下返回對手的手上,2,警衛!有這樣敲了又敲，敲了又敲的嗎?,Scott Altmann,於40級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,惡毒之匕,Neutral,Free,,Weapon,CS2_082,Rogue,,1,,,,,,1,,2,
-True,Basic,憤怒之錘,Neutral,Free,,Spell,CS2_094,Paladin,造成$3點傷害。
-抽一張牌,4,好的聖騎士會準備很多工具，像是憤怒之錘、復仇之鉗、正義之鋸等等。,Efrem Palacios,於32級時解鎖。,於1級時解鎖。,,,,,
+True,Basic,憤怒之錘,Neutral,Free,,Spell,CS2_094,Paladin,造成$3點傷害。抽一張牌,4,好的聖騎士會準備很多工具，像是憤怒之錘、復仇之鉗、正義之鋸等等。,Efrem Palacios,於32級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,戰歌指揮官,Neutral,Free,3,Minion,EX1_084,Warrior,每當你打出攻擊力在3點以下的手下，賦予該手下<b>衝鋒</b>,3,戰歌這個部族非常<b>戲劇化</b>。當上他們的指揮官未必是一件好事。,Wei Wang,於36級時解鎖。,於1級時解鎖。,,2,,,
 True,Basic,戰爭魔像,Neutral,Common,7,Minion,CS2_186,,,7,魔像並不會感到恐懼，但是因為某種因素，如果對它們施放恐懼術，它們還是會逃走。是本能嗎?還是想要融入人群?,Dave Kendall,於盜賊51級時解鎖。,,,7,,,
 True,Basic,揮擊,Neutral,Common,,Spell,CS2_012,Druid,對一個敵人造成$4點傷害，並對其他敵人造成$1點傷害,4,當熊站起來張開雙臂的時候，小心，他即將要伸爪揮擊了!...不過當然，也有可能只是想要抱抱你而已。,Sean O’Daniels,於47級時解鎖。,於8級時解鎖。,,,,,
-,Basic,援軍,Neutral,Free,,Hero Power,CS2_101,Paladin,<b>英雄能力</b>
-召喚一個1/1白銀之手新兵,2,,,,,,,,,
+,Basic,援軍,Neutral,Free,,Hero Power,CS2_101,Paladin,<b>英雄能力</b>召喚一個1/1白銀之手新兵,2,,,,,,,,,
 True,Basic,擊殺命令,Neutral,Common,,Spell,EX1_539,Hunter,造成$3點傷害。若你有野獸，則造成$5點傷害,3,「殺!」他命令道。,Gabe from Penny Arcade,於49級時解鎖。,於10級時解鎖。,,,,,
 ,Basic,擲幣之化身,,Free,1,Minion,GAME_002,,<i>你在擲幣時輸了，不過獲得了一個朋友</i>,0,,,,,,1,,,
 ,Basic,擲幣之幸運,,,,Enchantment,GAME_001,,後手讓你獲得額外的生命值,,,,,,,,,,
@@ -71,8 +67,7 @@ True,Basic,啟動,Neutral,Free,,Spell,EX1_169,Druid,獲得2顆法力水晶，只
 ,Basic,教士的祝福,,,,Enchantment,EX1_019e,Priest,+1/+1,,,,,,,,,,
 True,Basic,斬殺,Neutral,Free,,Spell,CS2_108,Warrior,摧毀一個已經受傷的敵方手下,1,不用心軟，他罪有應得。,Dany Orizio,於47級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,旋風斬,Neutral,Common,,Spell,EX1_400,Warrior,對全部手下造成$1點傷害,1,要分辨老戰士和新手戰士的方法:菜鳥會在用旋風斬時大喊「耶!!」,Jonboy Meyers,於32級時解鎖。,於6級時解鎖。,,,,,
-True,Basic,星火術,Neutral,Common,,Spell,EX1_173,Druid,造成$5點傷害。
-抽一張牌,6,平衡對德魯伊來說非常重要。這是一張完美平衡的卡片。,Alex Horley Orlandelli,於45級時解鎖。,於2級時解鎖。,,,,,
+True,Basic,星火術,Neutral,Common,,Spell,EX1_173,Druid,造成$5點傷害。抽一張牌,6,平衡對德魯伊來說非常重要。這是一張完美平衡的卡片。,Alex Horley Orlandelli,於45級時解鎖。,於2級時解鎖。,,,,,
 True,Basic,暗影箭,Neutral,Free,,Spell,CS2_057,Warlock,對一個手下造成$4點傷害,3,這是箭。這是暗影組成的。你還想知道什麼啊?,Dave Allsop,於47級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,暗殺,Neutral,Free,,Spell,CS2_076,Rogue,摧毀一個敵方手下,5,如果你不想被暗殺，搬去貧瘠之地然後改名換姓。祝你好運!,Glenn Rane,於47級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,暗言術:死,,Common,,Spell,EX1_622,Priest,摧毀一個攻擊力在5點以上的手下,3,如果你施放失敗，只會在目標身上留下一個閃電形狀的疤痕。,Raymond Swanland,於43級時解鎖。,於8級時解鎖。,,,,,
@@ -87,8 +82,7 @@ True,Basic,森林狼,Neutral,Free,1,Minion,DS1_175,Hunter,你的其他野獸獲�
 True,Basic,森金禦盾大師,Horde,Free,5,Minion,CS2_179,,<b>嘲諷</b>,4,如果你不介意食人妖跟灰塵的話，森金村其實是個還不錯的地方。,Brian Despain,於盜賊59級時解鎖。,,Taunt,3,,,
 ,Basic,機械幼龍,Neutral,Common,1,Minion,EX1_025t,,,1,,,,,,2,Mech,,
 True,Basic,機械幼龍技師,Alliance,Common,4,Minion,EX1_025,,<b>戰吼:</b>召喚一隻2/1的機械幼龍,4,她還在想辦法要替小機械幼龍「咬咬」加裝一套火箭發射器。,Warren Mahy,於法師53級時解鎖。,,Battlecry,2,,,
-,Basic,次級治療術,Neutral,Free,,Hero Power,CS1h_001,Priest,<b>英雄能力</b>
-恢復2點生命值,2,,,,,,,,,
+,Basic,次級治療術,Neutral,Free,,Hero Power,CS1h_001,Priest,<b>英雄能力</b>恢復2點生命值,2,,,,,,,,,
 True,Basic,死影纏繞,Neutral,Common,,Spell,EX1_302,Warlock,對一個手下造成$1點傷害。若其因此死亡，抽一張牌,1,如果你的法術看起來像是可怕的骷髏，說句實話，你應該要能多抽幾張牌才對。,Matt Gaser,於43級時解鎖。,於4級時解鎖。,,,,,
 True,Basic,毒襲,Neutral,Common,,Spell,EX1_278,Rogue,造成$1點傷害。抽一張牌,2,忘記塗抹毒藥的毒襲該叫什麼?,Alex Garner,於45級時解鎖。,於6級時解鎖。,,,,,
 True,Basic,水元素,Neutral,Common,6,Minion,CS2_033,Mage,<b>凍結</b>任何被此手下造成傷害的角色,4,不要在派對上召喚水元素。氣氛會降到冰點。,John Avon,於49級時解鎖。,於8級時解鎖。,Freeze,3,,,
@@ -98,8 +92,7 @@ True,Basic,治療之觸,Neutral,Free,,Spell,CS2_007,Druid,恢復#8點生命值,3
 True,Basic,消失,,Common,,Spell,NEW1_004,Rogue,使全部手下返回擁有者的手上,6,,Sean O’Daniels,於23級時解鎖。,於8級時解鎖。,,,,,
 True,Basic,淡水鱷,,Free,3,Minion,CS2_120,,,2,『左撇子』愛德華·史密斯有次曾嘗試把淡水鱷做成行李箱。,Daren Bader,於德魯伊55級時解鎖。,,,2,Beast,,
 True,Basic,火元素,Neutral,Common,5,Minion,CS2_042,Shaman,<b>戰吼:</b>造成3點傷害,6,這傢伙永遠不能洗澡。噁...,Ralph Horsley,於49級時解鎖。,於10級時解鎖。,Battlecry,6,,,
-,Basic,火焰衝擊,Neutral,Free,,Hero Power,CS2_034,Mage,<b>英雄能力</b>
-造成1點傷害,2,,,,,,,,,
+,Basic,火焰衝擊,Neutral,Free,,Hero Power,CS2_034,Mage,<b>英雄能力</b>造成1點傷害,2,,,,,,,,,
 True,Basic,火球術,Neutral,Free,,Spell,CS2_029,Mage,造成$6點傷害,4,這個法術用來燒東西很有用。如果你在找可以烘東西的法術，或者用來稍微取暖，你就找錯地方了。,Ralph Horsley,於44級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,火舌,,,,Enchantment,EX1_565o,Shaman,由火舌圖騰獲得+2攻擊力,,,,,,,,,,
 True,Basic,火舌圖騰,Neutral,Common,3,Minion,EX1_565,Shaman,兩側的手下+2攻擊力,2,圖騰雕刻師喜歡用最罕見的木頭來雕刻圖騰。謠傳中甚至有用鐵桉保衛者製作的圖騰。,Jonathan Ryder,於43級時解鎖。,於4級時解鎖。,AdjacentBuff|Aura,0,Totem,,
@@ -123,15 +116,12 @@ True,Basic,王者祝福,Neutral,Common,,Spell,CS2_092,Paladin,賦予一個手下
 True,Basic,珍娜·普勞德摩爾,Neutral,Free,30,Hero,HERO_08,Mage,,,,,,,,,,,
 True,Basic,瑪法里恩·怒風,Neutral,Free,30,Hero,HERO_06,Druid,,,,,,,,,,,
 True,Basic,瓦麗拉·桑古納爾,Neutral,Free,30,Hero,HERO_03,Rogue,,,,,,,,,,,
-,Basic,生命分流,Neutral,Free,,Hero Power,CS2_056,Warlock,<b>英雄能力</b>
-抽一張牌並受到2點傷害,2,,,,,,,,,
+,Basic,生命分流,Neutral,Free,,Hero Power,CS2_056,Warlock,<b>英雄能力</b>抽一張牌並受到2點傷害,2,,,,,,,,,
 True,Basic,疾跑,Neutral,Common,,Spell,CS2_077,Rogue,抽4張牌,7,盜賊不擅長慢跑。,James Zhang,於49級時解鎖。,於10級時解鎖。,,,,,
 ,Basic,白銀之手新兵,,Free,1,Minion,CS2_101t,Paladin,,1,,,,,,1,,,
-True,Basic,盾牌格擋,Neutral,Common,,Spell,EX1_606,Warrior,獲得5點護甲值。
-抽一張牌,3,盾牌發明的原因就是「臉部格擋」完全沒有作用。,Michael Komarck,於28級時解鎖。,於8級時解鎖。,,,,,
+True,Basic,盾牌格擋,Neutral,Common,,Spell,EX1_606,Warrior,獲得5點護甲值。抽一張牌,3,盾牌發明的原因就是「臉部格擋」完全沒有作用。,Michael Komarck,於28級時解鎖。,於8級時解鎖。,,,,,
 ,Basic,真言術:盾,,,,Enchantment,CS2_004e,Priest,+2生命值,,,,,,,,,,
-True,Basic,真言術:盾,Neutral,Free,,Spell,CS2_004,Priest,賦予一個手下+2生命值。
-抽一張牌,1,有額外的防護是好事啦，不過這個盾真的會干擾視線耶。,Jessica Jung,於47級時解鎖。,於1級時解鎖。,,,,,
+True,Basic,真言術:盾,Neutral,Free,,Spell,CS2_004,Priest,賦予一個手下+2生命值。抽一張牌,1,有額外的防護是好事啦，不過這個盾真的會干擾視線耶。,Jessica Jung,於47級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,真銀勇士劍,Neutral,Common,,Weapon,CS2_097,Paladin,每當你的英雄進行攻擊，使其恢復2點生命值,4,劈砍切割樣樣都行。也可以拿來開罐頭(不過你最好別這麼做)。,Ryan Sook,於40級時解鎖。,於2級時解鎖。,,4,,2,
 True,Basic,石化武器,Neutral,Free,,Spell,CS2_045,Shaman,本回合賦予一個友方角色+3攻擊力,1,要是可以把敵人石化就更好了。,Alex Horley Orlandelli,於36級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,石化武器,,,,Enchantment,CS2_045e,Shaman,這個角色本回合+3攻擊力,,,,,,OneTurnEffect,,,,
@@ -146,8 +136,7 @@ True,Basic,神聖精神,,Common,,Spell,CS2_236,Priest,使一個手下的生命�
 True,Basic,秘法射擊,Neutral,Free,,Spell,DS1_185,Hunter,造成$2點傷害,1,法師召喚秘法箭矢來賣給獵人，直到獵人們學會足夠的魔法來自己進行製造。接下來的失業率導致暴風城陷入短暫的不景氣。,Luca Zontini,於32級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,秘法智力,Neutral,Free,,Spell,CS2_023,Mage,抽2張牌,3,出這張牌會讓你更聰明。而且面對現實吧，我們都不介意再更聰明一點。,Dave Berggren,於15級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,秘法飛彈,Neutral,Free,,Spell,EX1_277,Mage,造成$3點傷害，隨機分給敵方角色,1,你本來以為你能更熟練地控制這些飛彈，畢竟你是個強大的法師，對吧。,Warren Mahy,於32級時解鎖。,於1級時解鎖。,ImmuneToSpellpower,,,,
-,Basic,穩固射擊,Neutral,Free,,Hero Power,DS1h_292,Hunter,<b>英雄能力</b>
-對敵方英雄造成2點傷害,2,,,,,,,,,
+,Basic,穩固射擊,Neutral,Free,,Hero Power,DS1h_292,Hunter,<b>英雄能力</b>對敵方英雄造成2點傷害,2,,,,,,,,,
 ,Basic,空中之眼,,,,Enchantment,NEW1_033o,Hunter,里奧克賦予了這個手下+1攻擊力,,,,,,,,,,
 True,Basic,競技場之王,Alliance,Common,5,Minion,CS2_162,,<b>嘲諷</b>,6,他曾經是競技場積分打到2100+的玩家，但那已經是很久以前的事了，而且沒有人能讓他閉嘴不提當年勇。,E.M. Gist,於牧師59級時解鎖。,,Taunt,6,,,
 ,Basic,米莎,,Common,4,Minion,NEW1_032,Hunter,<b>嘲諷</b>,3,,,,,Taunt,4,Beast,,
@@ -181,13 +170,10 @@ True,Basic,語風者,Neutral,Common,3,Minion,EX1_587,Shaman,<b>戰吼:</b>使一
 True,Basic,諸王守護者,Neutral,Common,6,Minion,CS2_088,Paladin,<b>戰吼:</b>使你的英雄恢復6點生命值,7,來自異界的神聖生物還真是老套啊!,E.M. Gist,於47級時解鎖。,於8級時解鎖。,Battlecry,5,,,
 True,Basic,謙恭,Neutral,Common,,Spell,EX1_360,Paladin,將一個手下的攻擊力改為1點,1,這張卡會讓人想便便。喔不對，那是「出恭」。,Daren Bader,於28級時解鎖。,於6級時解鎖。,,,,,
 ,Basic,謙恭,Neutral,,,Enchantment,EX1_360e,Paladin,攻擊力被改為1點,,,,,,,,,,
-,Basic,護甲提升!,Neutral,Free,,Hero Power,CS2_102,Warrior,<b>英雄能力</b>
-獲得2點護甲值,2,,,,,,,,,
+,Basic,護甲提升!,Neutral,Free,,Hero Power,CS2_102,Warrior,<b>英雄能力</b>獲得2點護甲值,2,,,,,,,,,
 True,Basic,變形術,Neutral,Free,,Spell,CS2_022,Mage,將一個手下變形為一隻1/1的羊,4,本來這一段是要講雙關話，不過說出口的時候變成了咩...,Vance Kovacs,於47級時解鎖。,於1級時解鎖。,,,,,
 ,Basic,變形術,Neutral,Common,,Enchantment,CS2_022e,Mage,這個手下被變形為一隻1/1的羊,,,,,,Morph,,,,
-,Basic,變身,Neutral,Free,,Hero Power,CS2_017,Druid,<b>英雄能力</b>
-本回合+1攻擊力。
-+1護甲值,2,,,,,,,,,
+,Basic,變身,Neutral,Free,,Hero Power,CS2_017,Druid,<b>英雄能力</b>本回合+1攻擊力。+1護甲值,2,,,,,,,,,
 True,Basic,追蹤,Neutral,Free,,Spell,DS1_184,Hunter,瀏覽你牌堆中最上面三張牌。選一張後捨棄其他兩張,1,這張是給無法決定要放哪張卡進套牌的人用的!,Mauro Cascioli,於15級時解鎖。,於1級時解鎖。,,,,,
 True,Basic,達拉然法師,Neutral,Common,4,Minion,EX1_582,,<b>法術傷害+1</b>,3,你應該沒見過達拉然戰士才對。,Jim Nelson,於法師59級時解鎖。,,Spellpower,1,,,
 True,Basic,邪惡攻擊,Neutral,Free,,Spell,CS2_075,Rogue,對敵方英雄造成$3點傷害,1,這個攻擊感覺就是怪怪的。甚至可以說邪惡。,Frank Cho,於15級時解鎖。,於1級時解鎖。,,,,,

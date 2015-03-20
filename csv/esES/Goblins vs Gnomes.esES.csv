@@ -1,8 +1,6 @@
 SET,NAME,TEXT,TYPE,ID,PLAYERCLASS,MECHANICS,COLLECTIBLE,ARTIST,RARITY,ATTACK,COST,HEALTH,FLAVOR,RACE,ELITE,DURABILITY
 Goblins vs Gnomes,¡Reparaciones!,+4 p. de salud.,Enchantment,GVG_069a,Priest,,,,,,,,,,,
-Goblins vs Gnomes,Acechador Gilblin,<b>Sigilo</b>,Minion,GVG_081,,Stealth,True,Seamus Gallagher,Common,2,2,3,&bdquo;Calla ¿has oído eso?&bdquo;.
-
-&bdquo;Bah seguro que no es nada&bdquo;. - Todos los secuaces de la historia,,,
+Goblins vs Gnomes,Acechador Gilblin,<b>Sigilo</b>,Minion,GVG_081,,Stealth,True,Seamus Gallagher,Common,2,2,3,&bdquo;Calla ¿has oído eso?&bdquo;.&bdquo;Bah seguro que no es nada&bdquo;. - Todos los secuaces de la historia,,,
 Goblins vs Gnomes,Aceite afilaespadas,Otorga +3 p. de ataque a tu arma. <b>Combo:</b> Otorga +3 p. de ataque a un esbirro amistoso aleatorio.,Spell,GVG_022,Rogue,Combo,True,Den,Common,,4,,Con o sin aceite tus enemigos acabarán fritos.,,,
 Goblins vs Gnomes,Aceite afilaespadas,+3 p. de ataque.,Enchantment,GVG_022a,,,,,,,,,,,,
 Goblins vs Gnomes,Aceite afilaespadas,+3 p. de ataque.,Enchantment,GVG_022b,,,,,,,,,,,,
@@ -21,15 +19,13 @@ Goblins vs Gnomes,Bombardera de Sombras,<b>Grito de batalla:</b> Inflige 3 p. de
 Goblins vs Gnomes,Bombardero aún más loco,<b>Grito de batalla:</b> Inflige 6 p. de daño que se dividen aleatoriamente entre todos los demás personajes.,Minion,GVG_090,,Battlecry,True,Alex Horley Orlandelli,Rare,5,5,4,Este no es que se apunte a un bombardeo: es que bombardea su propia casa se enfada y luego se venga de sí mismo.,,,
 Goblins vs Gnomes,Boxeador de las Sombras,Cada vez que se sana a un personaje inflige 1 p. de daño a un enemigo aleatorio.,Minion,GVG_072,Priest,,True,Dan Scott,Rare,2,2,3,Dar puñetazos es su función primaria... y secundaria.,Mech,,
 Goblins vs Gnomes,Cabeza de Mimiron,Al comienzo de tu turno si tienes al menos 3 robots los destruye todos y crea a V-07-TR-0N.,Minion,GVG_111,,,True,Trent Kaniuga,Legendary,4,5,5,¡No pulses el gran botón rojo!,Mech,True,
-Goblins vs Gnomes,Cachorro robot anodizado,<b>Provocar</b>.<b>Elige una:</b>
-+1 p. de ataque o bien +1 p. de salud.,Minion,GVG_030,Druid,Taunt,True,Eva Widermann,Common,2,2,2,¡Es adorable! CIELOS ¡NO! ¡¿POR QUÉ ME ESTÁ DEVORANDO LA CARA?!,Mech,False,
+Goblins vs Gnomes,Cachorro robot anodizado,<b>Provocar</b>.<b>Elige una:</b>+1 p. de ataque o bien +1 p. de salud.,Minion,GVG_030,Druid,Taunt,True,Eva Widermann,Common,2,2,2,¡Es adorable! CIELOS ¡NO! ¡¿POR QUÉ ME ESTÁ DEVORANDO LA CARA?!,Mech,False,
 Goblins vs Gnomes,Caminaespíritus Cienaleta,Cada vez que muere otro múrloc amistoso roba una carta.<b>Sobrecarga</b>: (1),Minion,GVG_040,Shaman,,True,Clint Langley,Epic,2,4,5,Los elementos responden a la llamada de cualquier causa justa incluso si la llamada en cuestión es &bdquo;MRGHRGLGLGL&bdquo;.,Murloc,,
 Goblins vs Gnomes,Cañón de barco,Cada vez que invocas a un pirata inflige 2 p. de daño a un enemigo aleatorio.,Minion,GVG_075,,,True,Warren Mahy,Common,2,2,3,Si no te mata la bola de cañón morirás ahogado.,,,
 Goblins vs Gnomes,Cañón de llamas,Inflige $4 p. de daño a un esbirro enemigo aleatorio.,Spell,GVG_001,Mage,,True,Mauricio Herrera,Common,,2,,¿&bdquo;Cañón de llamas&bdquo;? Tratándose de artilugios goblin eso no es muy específico que digamos.,,,
 Goblins vs Gnomes,Cañón vil,Al final de tu turno inflige 2 p. de daño a un esbirro que no sea un robot.,Minion,GVG_020,Warlock,,True,Matt Gaser,Rare,3,4,5,En la caja pone: &bdquo;¡Nuevo y mejorado con un 200% más de vileza!&bdquo;.,Mech,,
 Goblins vs Gnomes,Ceño fruncido,Estadísticas aumentadas.,Enchantment,GVG_100e,Warlock,,,,,,,,,,,
-Goblins vs Gnomes,Chamán Machacaduna,<b>Viento Furioso Sobrecarga: (1)</b>
-Tiene un 50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_066,Shaman,Windfury,True,José Ladrönn,Rare,5,4,4,¡Cierra los ojos se lanza y no promete nada!,,,
+Goblins vs Gnomes,Chamán Machacaduna,<b>Viento Furioso Sobrecarga: (1)</b>Tiene un 50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_066,Shaman,Windfury,True,José Ladrönn,Rare,5,4,4,¡Cierra los ojos se lanza y no promete nada!,,,
 Goblins vs Gnomes,Chatarra aprovechada,Estadísticas aumentadas.,Enchantment,GVG_106e,,,,,,,,,,,,
 Goblins vs Gnomes,Chatarrobot,Cada vez que un robot amistoso muere obtiene +2/+2.,Minion,GVG_106,,,True,Zoltan Boros,Epic,1,5,5,¡La chatarra de unos es la mejora de otros!,Mech,,
 Goblins vs Gnomes,Chisporroteo,Inflige $3 - $6 p. de daño. <b>Sobrecarga: (1)</b>,Spell,GVG_038,Shaman,,True,Warren Mahy,Common,,2,,Cuando haces &bdquo;pop&bdquo; ya no hay stop.,,,
@@ -72,8 +68,7 @@ Goblins vs Gnomes,Hoja rebotadora,Inflige $1 p. de daño a un esbirro aleatorio.
 Goblins vs Gnomes,Hojas giratorias,Otorga +1 p. de ataque a un esbirro.,Spell,PART_007,,,,Nutchapol Thitinunthakorn,,,1,,,,,
 Goblins vs Gnomes,Hojas giratorias,+1 p. de ataque.,Enchantment,PART_007e,,,,,,,,,,,,
 Goblins vs Gnomes,Iluminadora,Si controlas un <b>secreto</b> al final de tu turno restaura 4 p. de salud a tu héroe.,Minion,GVG_089,,,True,Jim Nelson,Rare,2,3,4,La iluminación indirecta es la clave del diseño de interiores.,,,
-Goblins vs Gnomes,Infantería de Gnomeregan,<b>Cargar</b>
-<b>Provocar</b>,Minion,GVG_098,,Charge|Taunt,True,Zoltan & Gabor,Common,1,3,4,Por donde pasa la infantería gnoma... la hierba ni se inmuta.,,,
+Goblins vs Gnomes,Infantería de Gnomeregan,<b>Cargar</b><b>Provocar</b>,Minion,GVG_098,,Charge|Taunt,True,Zoltan & Gabor,Common,1,3,4,Por donde pasa la infantería gnoma... la hierba ni se inmuta.,,,
 Goblins vs Gnomes,Intendente,<b>Grito de batalla:</b> Otorga +2/+2 a tus Reclutas Mano de Plata.,Minion,GVG_060,Paladin,Battlecry,True,Phroilan Gardner,Epic,2,5,5,No sabe quién eres tú ni sabe lo que quieres... Pero si no le cuadran las cuentas te buscará te encontrará y te matará.,,,
 Goblins vs Gnomes,Intercambio,Interruptor de inversión a intercambiado el ataque y la salud.,Enchantment,PART_006a,,,,,,,,,,,,
 Goblins vs Gnomes,Interruptor de inversión,Intercambia el ataque y la salud de un esbirro.,Spell,PART_006,,,,Nutthapon Petthai,,,1,,,,,
@@ -86,8 +81,7 @@ Goblins vs Gnomes,Lanzagujas,+1 p. de ataque.,Enchantment,GVG_043e,Hunter,,,,,,,
 Goblins vs Gnomes,Lanzagujas,<b>Grito de batalla:</b> Otorga +1 p. de ataque a un esbirro amistoso aleatorio.,Weapon,GVG_043,Hunter,Battlecry,True,Gino Whitehall,Common,2,2,,Ya si esto no funciona pasamos al lanzallamas.,,,2
 Goblins vs Gnomes,Leviatán de llamas,Cuando robas esta carta inflige 2 p. de daño a todos los personajes.,Minion,GVG_007,Mage,,True,Aleksi Briclot,Legendary,7,7,7,A Mimiron le gusta salir de paseo en el leviatán de llamas de vez en cuando.,Mech,True,
 Goblins vs Gnomes,Llamada ancestral,Coloca un esbirro aleatorio de la mano de cada jugador en el campo de batalla.,Spell,GVG_029,Shaman,,True,Dan Scott,Epic,,4,,&bdquo;¡Eh! ¡Ancestros!&bdquo; - Llamada ancestral,,,
-Goblins vs Gnomes,Llamar a mascota,Roba una carta.
-Si es una bestia cuesta (4) cristales menos.,Spell,GVG_017,Hunter,,True,E.M. Gist,Rare,,2,,Los verdaderos cazadores doman cangrejos hambrientos.,,,
+Goblins vs Gnomes,Llamar a mascota,Roba una carta.Si es una bestia cuesta (4) cristales menos.,Spell,GVG_017,Hunter,,True,E.M. Gist,Rare,,2,,Los verdaderos cazadores doman cangrejos hambrientos.,,,
 Goblins vs Gnomes,Llave del maestro de tuercas,Tiene +2 p. de ataque mientras tengas un robot.,Weapon,GVG_024,Rogue,Aura,True,Richard Wright,Epic,1,3,,¡Lo mismo aprieta tuercas que atonta troggs!,,,3
 Goblins vs Gnomes,Llave martillo,<b>Grito de batalla:</b> Otorga <b>Escudo divino</b> y <b>Provocar</b> a un esbirro amistoso aleatorio.,Weapon,GVG_059,Paladin,Battlecry,True,Danny Orizio,Epic,2,3,,A ver: la arrancaste de una máquina le grabaste unas runas le pusiste un mango ¿y ahora es una potente arma de poder divino?... Tiene sentido.,,,3
 Goblins vs Gnomes,Luz de los naaru,Restaura #3 p. de salud. Si el objetivo sigue dañado invoca a una celadora de la Luz.,Spell,GVG_012,Priest,,True,Jesper Ejsing,Rare,,1,,&bdquo;¡Enciende la luz!&bdquo;: orden válida tanto para celadoras de la Luz como para goblins con cañones de llamas.,,,
@@ -98,8 +92,7 @@ Goblins vs Gnomes,Maestro encogedor,<b>Grito de batalla:</b> Aplica a un esbirro
 Goblins vs Gnomes,Magia metabolizada,Ataque aumentado.,Enchantment,GVG_068a,,Aura,,,,,,,,,,
 Goblins vs Gnomes,Magia metabolizada,Ataque aumentado.,Enchantment,GVG_067a,,Aura,,,,,,,,,,
 Goblins vs Gnomes,Mago bomba goblin,<b>Grito de batalla:</b> Si tienes un robot inflige 4 p. de daño que se dividen aleatoriamente entre todos los enemigos.,Minion,GVG_004,Mage,Battlecry,True,Glenn Rane,Rare,5,4,4,Si no tienes una bomba a mano tira el primer invento goblin que pilles.,,,
-Goblins vs Gnomes,Mal&sbquo;Ganis,Tus demás demonios tienen +2/+2.
-Tu héroe es <b>Inmune</b>.,Minion,GVG_021,Warlock,Aura,True,Wayne Reynolds,Legendary,9,9,7,A Mal&sbquo;Ganis no le gusta que lo traicionen así que ándate con cuidado si lo descartas.,Demon,True,
+Goblins vs Gnomes,Mal&sbquo;Ganis,Tus demás demonios tienen +2/+2.Tu héroe es <b>Inmune</b>.,Minion,GVG_021,Warlock,Aura,True,Wayne Reynolds,Legendary,9,9,7,A Mal&sbquo;Ganis no le gusta que lo traicionen así que ándate con cuidado si lo descartas.,Demon,True,
 Goblins vs Gnomes,Malorne,<b>Último aliento:</b> Mete a este esbirro en tu mazo.,Minion,GVG_035,Druid,Deathrattle,True,Oliver Chipping,Legendary,9,7,7,Cuando Malorne no está acometiendo contra hordas de demonios se gana un sobresueldo como perchero.,Beast,True,
 Goblins vs Gnomes,Máquina de asedio,Cada vez que obtienes armadura este esbirro recibe +1 p. de ataque.,Minion,GVG_086,Warrior,,True,Zero Yue,Rare,5,5,5,¡El arma definitiva contra la Fortaleza de Conquista del Invierno!,Mech,,
 Goblins vs Gnomes,Máquina voladora,<b>Viento Furioso</b>,Minion,GVG_084,,Windfury,True,Matt Dixon,Common,1,3,4,Por algún extraño motivo este trasto no funciona sin una muñeca de niña Hula.,Mech,,
@@ -111,34 +104,28 @@ Goblins vs Gnomes,Mekigeniero Termochufe,Cada vez que un esbirro enemigo muere i
 Goblins vs Gnomes,Micromáquina,Obtiene +1 p. de ataque al comienzo de cada turno.,Minion,GVG_103,,,True,Skan Srisuwan,Common,1,2,2,Las microherramientas y el microaceite se venden por separado.,Mech,,
 Goblins vs Gnomes,Mina enterrada,Cuando robas esta carta explota. Te inflige 10 p. de daño y robas una carta.,Spell,GVG_056t,Warrior,ImmuneToSpellpower,,Chris Seaman,,,0,,,,,
 Goblins vs Gnomes,Minibot escudado,<b>Escudo divino</b>,Minion,GVG_058,Paladin,Divine Shield,True,Raymond Swanland,Common,2,2,2,Prefiere creer en lo que fue programado para creer.,Mech,,
-Goblins vs Gnomes,Minimago,<b>Sigilo</b>
-<b>+1 p. de daño con hechizos.</b>,Minion,GVG_109,,Spellpower|Stealth,True,Ben Olson,Epic,4,4,1,Un mago muy pequeño puede proyectar una sombra muy grande.,,,
+Goblins vs Gnomes,Minimago,<b>Sigilo</b><b>+1 p. de daño con hechizos.</b>,Minion,GVG_109,,Spellpower|Stealth,True,Ben Olson,Epic,4,4,1,Un mago muy pequeño puede proyectar una sombra muy grande.,,,
 Goblins vs Gnomes,Mística de Kezan,<b>Grito de batalla:</b> Te haces con el control de un <b>secreto</b> enemigo aleatorio.,Minion,GVG_074,,Battlecry,True,Jakub Kasper,Rare,4,4,3,Se las dan de sabias e iluminadas pero pocos las han visto hacer más que poner los ojos en blanco.,,,
 Goblins vs Gnomes,Modo ataque,+1 p. de ataque.,Spell,GVG_030a,Druid,,,,,,,,,,,
 Goblins vs Gnomes,Modo ataque,+1 p. de ataque.,Enchantment,GVG_030ae,Druid,,,,,,,,,,,
 Goblins vs Gnomes,Modo tanque,+1 p. de salud.,Spell,GVG_030b,Druid,,,,,,,,,,,
 Goblins vs Gnomes,Modo tanque,+1 p. de salud.,Enchantment,GVG_030be,Druid,,,,,,,,,,,
 Goblins vs Gnomes,Mogor el Ogro,Todos los esbirros tienen un 50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_112,,,True,Michal Ivan,Legendary,7,6,6,En una ocasión Mogor ayudó a abrir el Portal Oscuro... Imagina cómo estaba la situación que hubo que pedir ayuda a un ogro.,,True,
-Goblins vs Gnomes,Moneda de Gallywix,Obtienes un cristal de maná solo para este turno.
-<i>(No activará a Gallywix).</i>,Spell,GVG_028t,,,,,,,0,,,,,
+Goblins vs Gnomes,Moneda de Gallywix,Obtienes un cristal de maná solo para este turno.<i>(No activará a Gallywix).</i>,Spell,GVG_028t,,,,,,,0,,,,,
 Goblins vs Gnomes,Morralla,+2/+2.,Enchantment,GVG_055e,Warrior,,,,,,,,,,,
 Goblins vs Gnomes,Muñeco-diana,<b>Provocar</b>,Minion,GVG_093,,Taunt,True,Matt Dixon,Rare,0,0,2,Pintarse una diana es su forma de hacer amigos.,Mech,,
 Goblins vs Gnomes,Neptulon,<b>Grito de batalla:</b> Añade 4 múrlocs aleatorios a tu mano. <b>Sobrecarga: (3)</b>,Minion,GVG_042,Shaman,Battlecry,True,Ruan Jia,Legendary,7,7,7,Neptulon es &bdquo;el Cazamareas&bdquo;. Es uno de los cuatro señores elementales. Y cuando se junta con Ragnaros se montan unas saunas de aúpa.,,True,
-Goblins vs Gnomes,Nulificador Arcano X-21,<b>Provocar</b>
-No puede ser objetivo de hechizos ni de poderes de héroe.,Minion,GVG_091,,Taunt,True,Zero Yue,Rare,2,4,5,Los magos y los ingenieros gnomos nunca se pondrán de acuerdo sobre quién inventó esto.,Mech,,
+Goblins vs Gnomes,Nulificador Arcano X-21,<b>Provocar</b>No puede ser objetivo de hechizos ni de poderes de héroe.,Minion,GVG_091,,Taunt,True,Zero Yue,Rare,2,4,5,Los magos y los ingenieros gnomos nunca se pondrán de acuerdo sobre quién inventó esto.,Mech,,
 Goblins vs Gnomes,Ofrenda de cartas,Cada jugador roba una carta.,Spell,GVG_032b,Druid,,,,,,,,,,,
 Goblins vs Gnomes,Ofrenda de maná,Otorga un cristal de maná a cada jugador.,Spell,GVG_032a,Druid,,,,,,,,,,,
-Goblins vs Gnomes,Ogro ninja,<b>Sigilo</b>
-50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_088,Rogue,Stealth,True,Samwise,Rare,6,5,6,He aquí la prueba de que ser ninja es un estado de ánimo.,,,
+Goblins vs Gnomes,Ogro ninja,<b>Sigilo</b>50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_088,Rogue,Stealth,True,Samwise,Rare,6,5,6,He aquí la prueba de que ser ninja es un estado de ánimo.,,,
 Goblins vs Gnomes,Ogro tosco,50% de probabilidad de atacar al enemigo que no es.,Minion,GVG_065,,,True,Vinod Rams,Common,4,3,4,Los ogros tienen una memoria a corto plazo muy... chocolate...,,,
 Goblins vs Gnomes,Oveja explosiva,<b>Último aliento:</b> Inflige 2 p. de daño a todos los esbirros.,Minion,GVG_076,,Deathrattle,True,Ralph Horsley,Common,1,2,1,¡La muerte esponjosa!,Mech,,
 Goblins vs Gnomes,Parahechizos talla S,Los esbirros adyacentes no pueden ser objetivo de hechizos ni de poderes de héroe.,Minion,GVG_122,Mage,Aura,True,Jonboy Meyers,Epic,2,4,5,No tenía ningún futuro hasta que su tío Parahechizos talla XL la enchufó en la oficina de aduanas mágica.,,,
-Goblins vs Gnomes,Pequeña exorcista,<b>Provocar</b>
-<b>Grito de batalla:</b> Obtiene +1/+1 por cada esbirro enemigo con <b>Último aliento</b>.,Minion,GVG_097,,Battlecry|Taunt,True,Jim Nelson,Rare,2,3,3,Los brujos tienen al exorcista de la ciudad en marcación rápida por si liberan al demonio que no es.,,,
+Goblins vs Gnomes,Pequeña exorcista,<b>Provocar</b><b>Grito de batalla:</b> Obtiene +1/+1 por cada esbirro enemigo con <b>Último aliento</b>.,Minion,GVG_097,,Battlecry|Taunt,True,Jim Nelson,Rare,2,3,3,Los brujos tienen al exorcista de la ciudad en marcación rápida por si liberan al demonio que no es.,,,
 Goblins vs Gnomes,Pisacharcos,,Minion,GVG_064,,,True,Jaemin Kim,Common,3,2,2,Pisacharcos hijo de Pisaciénagas hijo de Pisapantanos hijo de Pisa... Bueno ya os hacéis una idea.,Murloc,,
 Goblins vs Gnomes,Pistones,Ataque aumentado.,Enchantment,GVG_076a,,,,,,,,,,,,
-Goblins vs Gnomes,Plastatrón,<b>Provocar</b>
-<b>Escudo divino</b>,Minion,GVG_085,,Divine Shield|Taunt,True,Matt Dixon,Common,1,2,2,El inventor del Plastatrón fue expulsado de la escuela Manitas luego de Ciudad Manitas y finalmente de los Reinos del Este.,Mech,,
+Goblins vs Gnomes,Plastatrón,<b>Provocar</b><b>Escudo divino</b>,Minion,GVG_085,,Divine Shield|Taunt,True,Matt Dixon,Common,1,2,2,El inventor del Plastatrón fue expulsado de la escuela Manitas luego de Ciudad Manitas y finalmente de los Reinos del Este.,Mech,,
 Goblins vs Gnomes,Poderío de Ciudad Manitas,+1/+1.,Enchantment,GVG_102e,,,,,,,,,,,,
 Goblins vs Gnomes,Poderío de Zul&sbquo;Farrak,Ataque multiplicado.,Enchantment,GVG_049e,Hunter,,,,,,,,,,,
 Goblins vs Gnomes,Pollo,,Minion,GVG_092t,,,,,,1,1,1,,Beast,,
@@ -155,8 +142,7 @@ Goblins vs Gnomes,Refrigerante de emergencia,<b>Congela</b> a un esbirro.,Spell,
 Goblins vs Gnomes,Reprensión,Ataque aumentado.,Enchantment,GVG_063a,,,,,,,,,,,,
 Goblins vs Gnomes,Revolucionado,+2 p. de daño con hechizos.,Enchantment,GVG_123e,Mage,Spellpower,,,,,,,,,,
 Goblins vs Gnomes,Rey de las bestias,<b>Provocar</b>. <b>Grito de batalla:</b> Obtiene +1 p. de ataque por cada otra bestia que tengas.,Minion,GVG_046,Hunter,Battlecry|Taunt,True,Seamus Gallagher,Rare,2,5,6,Nunca duerme. Ni siquiera en la jungla la negra jungla.,Beast,,
-Goblins vs Gnomes,Robomejorador,<b>Grito de batalla:</b> Otorga a tus demás esbirros <b>Viento Furioso</b> <b>Provocar</b> o <b>Escudo divino</b>.
-<i>(Al azar)</i>,Minion,GVG_107,,Battlecry,True,Zoltan Boros,Epic,3,4,2,¡Pídelo ahora y te regalamos el &bdquo;Robo-hace-lo-que-puede&bdquo;!,Mech,,
+Goblins vs Gnomes,Robomejorador,<b>Grito de batalla:</b> Otorga a tus demás esbirros <b>Viento Furioso</b> <b>Provocar</b> o <b>Escudo divino</b>.<i>(Al azar)</i>,Minion,GVG_107,,Battlecry,True,Zoltan Boros,Epic,3,4,2,¡Pídelo ahora y te regalamos el &bdquo;Robo-hace-lo-que-puede&bdquo;!,Mech,,
 Goblins vs Gnomes,Robot bum,<b>Último aliento:</b> Inflige 1 - 4 p. de daño a un enemigo aleatorio.,Minion,GVG_110t,,Deathrattle,,,,1,1,1,,Mech,,
 Goblins vs Gnomes,Robot de reparación,<b>Grito de batalla:</b> Otorga +4 p. de salud a un robot amistoso.,Minion,GVG_083,Priest,Battlecry,True,Nutchapol Thitinunthakorn,Rare,5,5,5,Esta es la nueva generación: funciona igual que la última pero las tuercas se venden aparte.,Mech,,
 Goblins vs Gnomes,Rociador de hollín,<b>+1 p. de daño con hechizos</b>,Minion,GVG_123,Mage,Spellpower,True,Phil Saunders,Rare,3,3,3,Sospecha que su enemigo jurado el deshollinador planea un gran golpe. Lo ha visto reunirse con una niñera y un par de críos en el tejado.,Mech,,
@@ -185,8 +171,7 @@ Goblins vs Gnomes,Trituradora pilotada,<b>Último aliento:</b> Invoca un esbirro
 Goblins vs Gnomes,Trogg Comepiedras,Cada vez que tu oponente lanza un hechizo obtiene +2 p. de ataque.,Minion,GVG_068,,,True,Chris Rahn,Common,3,4,5,Lleva una dieta muy equilibrada: come al menos cinco tipos diferentes de piedra al día.,,,
 Goblins vs Gnomes,Trogg Rompecantos,Cada vez que tu oponente lanza un hechizo obtiene +1 p. de ataque.,Minion,GVG_067,,,True,Peet Cooper,Common,2,2,3,¿No es verdad trogg de amor que en esta apartada cueva no brilla la luna nueva y se respira peor?,,,
 Goblins vs Gnomes,Troggzor el Terrinator,Cada vez que tu oponente lanza un hechizo invoca a un trogg Comepiedras.,Minion,GVG_118,,,True,Mike Sass,Legendary,6,7,6,Donde pone el ojo pone el trogg.,,True,
-Goblins vs Gnomes,V-07-TR-0N,<b>Cargar</b>
-<b>Megaviento Furioso</b> <i>(puede atacar cuatro veces por turno)</i>,Minion,GVG_111t,,Charge,,Chris Seaman,Legendary,4,8,8,,Mech,True,
+Goblins vs Gnomes,V-07-TR-0N,<b>Cargar</b><b>Megaviento Furioso</b> <i>(puede atacar cuatro veces por turno)</i>,Minion,GVG_111t,,Charge,,Chris Seaman,Legendary,4,8,8,,Mech,True,
 Goblins vs Gnomes,Viejo lobo de mar,,Minion,GVG_070,,,True,Alex Horley Orlandelli,Common,7,5,4,Ya se ha recuperado por completo del escorbuto.,Pirate,,
 Goblins vs Gnomes,Vigía flotante,Obtiene +2/+2 cada vez que tu héroe recibe daño durante tu turno.,Minion,GVG_100,Warlock,,True,Todd Lockwood,Common,4,5,4,Iba a ser el vigía maligno del fin de los tiempos pero a marketing le pareció un pelín agresivo el nombre.,Demon,,
 Goblins vs Gnomes,Vol&sbquo;jin,<b>Grito de batalla:</b> Intercambia su salud con la de otro esbirro.,Minion,GVG_014,Priest,Battlecry,True,Raymond Swanland,Legendary,6,5,2,Vol&sbquo;jin es un cazador de las Sombras. Es como un sacerdote de las Sombras pero con más vudú.,,True,

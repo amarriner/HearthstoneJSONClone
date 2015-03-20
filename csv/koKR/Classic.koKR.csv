@@ -43,8 +43,7 @@ Battlecry,Classic,군주 자락서스,<b>전투의 함성:</b> 내 영웅을 군
 ,Classic,군주 자락서스,,Hero,EX1_323h,,Neutral,,Legendary,0,0,15,,Warlock,Demon,,,
 Battlecry,Classic,굶주린 게,<b>전투의 함성:</b> 멀록 1마리를 처치하고 +2/+2를 얻습니다.,Minion,NEW1_017,True,,Jaemin Kim,Epic,1,1,2,멀록은 저녁 거리입니다.,,Beast,,,
 ,Classic,굶주린 식인 구울,하수인이 죽을 때마다 공격력을 +1 얻습니다.,Minion,tt_004,True,Neutral,Alex Horley Orlandelli,Common,2,3,3,먹을 게 없어서 시체를 먹습니다.,,,,,
-Charge|Enrage,Classic,그롬마쉬 헬스크림,<b>돌진</b>
-<b>격노:</b> 공격력 +6,Minion,EX1_414,True,Neutral,Glenn Rane,Legendary,4,8,9,그롬마쉬는 만노로스의 오염된 피를 마시고 오크들에게 영원히 사라지지 않는 초록색 피부와 붉은 눈을 남겼습니다! 썩 좋은 생각은 아니었던 것 같네요.,Warrior,,,,True
+Charge|Enrage,Classic,그롬마쉬 헬스크림,<b>돌진</b><b>격노:</b> 공격력 +6,Minion,EX1_414,True,Neutral,Glenn Rane,Legendary,4,8,9,그롬마쉬는 만노로스의 오염된 피를 마시고 오크들에게 영원히 사라지지 않는 초록색 피부와 붉은 눈을 남겼습니다! 썩 좋은 생각은 아니었던 것 같네요.,Warrior,,,,True
 ,Classic,그룰,각 플레이어의 턴이 끝날 때마다 +1/+1을 얻습니다.,Minion,NEW1_038,True,,Kev Walker,Legendary,7,8,7,그룰은 &bdquo;용학살자&bdquo;입니다만 사실 용들을 꼭 안아주고 싶었을 뿐입니다.,,,,,True
 ,Classic,그린스킨의 지휘,+1/+1,Enchantment,NEW1_024o,,,,,,,,,,,,,
 ,Classic,그림자 밟기,아군 하수인 하나를 다시 내 손으로 가져옵니다. 그 하수인은 비용이 (2) 감소합니다.,Spell,EX1_144,True,Neutral,Graven Tung,Common,,0,,도적 무용단은 가끔 공연의 마지막을 그림자 밟기로 장식하곤 합니다. 관객들의 호응이 엄청나거든요.,Rogue,,,,
@@ -73,8 +72,7 @@ Combo,Classic,냉혈,하수인 하나에게 공격력을 +2 부여합니다. <b>
 ,Classic,노움 자동경보기,내 턴이 시작될 때 이 하수인이 내 손에 있는 다른 무작위 하수인 하나와 교체됩니다.,Minion,EX1_006,True,,Sean O’Daniels,Rare,0,3,3,삐뽀. 삐뽀. 삐뽀.,,Mech,,,
 ,Classic,노즈도르무,플레이어들의 턴 제한 시간이 15초로 감소합니다.,Minion,EX1_560,True,Neutral,James Ryman,Legendary,8,9,8,여기 뭔가 써야 하는데 시간이 모자라네요.,,Dragon,,,True
 Taunt,Classic,놀,<b>도발</b>,Minion,NEW1_040t,,,,,2,2,2,,,,,,
-Deathrattle|Taunt,Classic,누더기골렘,<b>도발</b>. <b>죽음의 메아리:</b>
-<b>모든</b> 캐릭터에게 피해를 2 줍니다.,Minion,EX1_097,True,Neutral,Alex Horley Orlandelli,Rare,4,5,4,누더기들은 신선한 고기와 해변 산책을 즐깁니다.,,,,,
+Deathrattle|Taunt,Classic,누더기골렘,<b>도발</b>. <b>죽음의 메아리:</b><b>모든</b> 캐릭터에게 피해를 2 줍니다.,Minion,EX1_097,True,Neutral,Alex Horley Orlandelli,Rare,4,5,4,누더기들은 신선한 고기와 해변 산책을 즐깁니다.,,,,,
 Freeze,Classic,눈보라,모든 적 하수인에게 피해를 $2 주고 <b>빙결</b> 상태로 만듭니다.,Spell,CS2_028,True,Neutral,Chris Seaman,Rare,,6,,왠지 모르게 정이 가는 이름의 주문입니다.,Mage,,,,
 Secret,Classic,눈속임,<b>비밀:</b> 내 영웅을 공격하는 캐릭터가 다른 무작위 캐릭터 하나를 공격하게 됩니다.,Spell,EX1_533,True,Neutral,Daren Bader,Rare,,2,,가짜 수염을 달고 옆 사람을 가리키는 것 만으로도 잘 속아줄 때가 있죠.,Hunter,,,,
 Secret,Classic,눈에는 눈,<b>비밀:</b> 내 영웅이 피해를 입으면 적 영웅에게도 같은 피해를 줍니다.,Spell,EX1_132,True,Neutral,James Ryman,Common,,1,,주먹이 정의를 대변할 때도 종종 있답니다.,Paladin,,,,
@@ -111,8 +109,7 @@ Aura,Classic,마술사의 수습생,내가 쓰는 주문의 비용이 (1) 감소
 ,Classic,마음가짐,이번 턴에 내가 시전하는 다음 주문의 비용이 (3) 감소합니다.,Spell,EX1_145,True,Neutral,Clint Langley,Epic,,0,,&bdquo;항상 대비하라.&bdquo; - 도적 격언,Rogue,,,,
 OneTurnEffect,Classic,마음가짐,이번 턴에 내가 시전하는 다음 주문의 비용이 (3) 감소합니다.,Enchantment,EX1_145o,,,,,,,,,Rogue,,,,
 Spellpower,Classic,말리고스,<b>주문 공격력 +5</b>,Minion,EX1_563,True,Neutral,Michael Komarck,Legendary,4,9,12,말리고스는 필멸자들이 마법 쓰는 걸 싫어합니다. 그럼 제이나는?,,Dragon,,,True
-Combo,Classic,머리 후려치기,적 영웅에게 피해를 $2 줍니다.
-<b>연계:</b> 다음 턴에 이 카드를 다시 내 손으로 가져옵니다.,Spell,EX1_137,True,Neutral,James Zhang,Rare,,3,,모든 공격이 실패해도 머리 후려치기만큼은 당신을 배신하지 않을 겁니다.,Rogue,,,,
+Combo,Classic,머리 후려치기,적 영웅에게 피해를 $2 줍니다.<b>연계:</b> 다음 턴에 이 카드를 다시 내 손으로 가져옵니다.,Spell,EX1_137,True,Neutral,James Zhang,Rare,,3,,모든 공격이 실패해도 머리 후려치기만큼은 당신을 배신하지 않을 겁니다.,Rogue,,,,
 ,Classic,먹어치우기,능력치 증가,Enchantment,EX1_304e,,,,,,,,,Warlock,,,,
 Windfury,Classic,먼지 악령,<b>질풍</b>. <b>과부하:</b> (2),Minion,EX1_243,True,Neutral,Raymond Swanland,Common,3,1,1,서부 몰락지대는 먼지 악령 대머리수리 미친 골렘 해적으로 가득합니다. 대체 왜 여기 사람이 살까요?,Shaman,,,,
 Aura,Classic,멀록 전투대장,다른 <b>모든</b> 멀록이 +2/+1을 얻습니다.,Minion,EX1_507,True,Neutral,Tim McBurnie,Epic,3,3,3,멀록들은 매일 똑같은 소리만 내는 게 지겹지 않을까요? 아니요! 므라아옳옳옳옳옳옳!,,Murloc,,,
@@ -144,8 +141,7 @@ Charge|Divine Shield|Taunt|Windfury,Classic,바람의 군주 알아키르,<b>질
 ,Classic,바인 블러드후프,,Minion,EX1_110t,,,,Legendary,4,4,5,,,,,,True
 ,Classic,반신의 총애,내 다른 아군 하수인들에게 +2/+2를 부여합니다.,Spell,EX1_573a,,Neutral,,,,,,,Druid,,,,
 ,Classic,반신의 총애,+2/+2,Enchantment,EX1_573ae,,Neutral,,,,,,,Druid,,,,
-,Classic,발톱의 드루이드,<b>선택 - </b>
-<b>돌진</b> 또는 생명력 +2와 <b>도발</b>을 얻습니다.,Minion,EX1_165,True,Neutral,Luca Zontini,Common,4,5,4,표범이냐 곰이냐 그것이 문제로다.,Druid,,,,
+,Classic,발톱의 드루이드,<b>선택 - </b><b>돌진</b> 또는 생명력 +2와 <b>도발</b>을 얻습니다.,Minion,EX1_165,True,Neutral,Luca Zontini,Common,4,5,4,표범이냐 곰이냐 그것이 문제로다.,Druid,,,,
 Charge,Classic,발톱의 드루이드,<b>돌진</b>,Minion,EX1_165t1,,,,Common,4,5,4,,Druid,Beast,,,
 Taunt,Classic,발톱의 드루이드,<b>도발</b>,Minion,EX1_165t2,,,,Common,4,5,6,,Druid,Beast,,,
 ,Classic,방어구 제작자,아군 하수인 하나가 피해를 입을 때마다 방어도를 +1 얻습니다.,Minion,EX1_402,True,Neutral,Greg Hildebrandt,Rare,1,2,4,길드 자금 환영!,Warrior,,,,
@@ -184,8 +180,7 @@ Secret,Classic,빙결의 덫,<b>비밀:</b> 적 하수인이 공격하면 그 �
 ,Classic,뿌리 박기,생명력 +5 <b>도발</b>,Enchantment,EX1_178ae,,,,,,,,,Druid,,,,
 Charge,Classic,사냥개,<b>돌진</b>,Minion,EX1_538t,,,,,1,1,1,,Hunter,Beast,,,
 Deathrattle,Classic,사바나 사자,<b>죽음의 메아리:</b> 2/2 하이에나를 2마리 소환합니다.,Minion,EX1_534,True,,Milivoj Ceran,Rare,6,6,5,밀림에 사자가 없으면 하이에나가 왕이지요.,Hunter,Beast,,,
-Battlecry,Classic,사원 집행자,<b>전투의 함성:</b>
-아군 하수인 하나에게 생명력을 +3 부여합니다.,Minion,EX1_623,True,,Daren Bader,Common,6,6,6,&bdquo;집행&bdquo;이라는 이름의 검을 강탈당하고 속세를 떠나 사원으로 들어왔기에 사원 집행자라는 이름을 갖게 되었답니다.,Priest,,,,
+Battlecry,Classic,사원 집행자,<b>전투의 함성:</b>아군 하수인 하나에게 생명력을 +3 부여합니다.,Minion,EX1_623,True,,Daren Bader,Common,6,6,6,&bdquo;집행&bdquo;이라는 이름의 검을 강탈당하고 속세를 떠나 사원으로 들어왔기에 사원 집행자라는 이름을 갖게 되었답니다.,Priest,,,,
 ,Classic,산악거인,내 손에 있는 다른 카드 1장당 비용이 (1)씩 감소합니다.,Minion,EX1_105,True,Neutral,Samwise,Epic,8,12,8,이 친구의 어머니 말로는 좀 통뼈라 커보이는 거랍니다.,,,,,
 ,Classic,새끼용,,Minion,EX1_116t,,,,,1,1,1,,,Dragon,,,
 ,Classic,새끼용,,Minion,ds1_whelptoken,,Neutral,,,1,1,1,,,Dragon,,,
@@ -283,8 +278,7 @@ Divine Shield,Classic,은빛십자군 종자,<b>천상의 보호막</b>,Minion,E
 ,Classic,은폐됨,다음 턴까지 은신함,Enchantment,EX1_128e,,,,,,,,,Rogue,,,,
 ImmuneToSpellpower,Classic,응징의 격노,적 캐릭터들에게 $8의 피해를 무작위로 나누어 입힙니다.,Spell,EX1_384,True,Neutral,Alex Garner,Epic,,6,,쿠쾅쾅쾅쾅쾅쾅쾅!,Paladin,,,,
 ,Classic,이교도 지도자,나의 다른 하수인 하나가 죽을 때마다 카드를 1장 뽑습니다.,Minion,EX1_595,True,Neutral,Raymond Swanland,Common,4,4,2,사악한 이교도 지도자지만 일주일에 한 번은 꼭 부모님께 전화하는 &sbquo;효녀&sbquo;랍니다.,,,,,
-,Classic,이세라,내 턴이 끝날 때
-<b>꿈 카드</b>를 1장 뽑습니다.,Minion,EX1_572,True,Neutral,Gabor Szikszai,Legendary,4,9,12,이세라는 에메랄드의 꿈을 지배합니다. 에메랄드의 꿈이 어떻냐고요? 실제 세상의 녹색 버전이랄까요?,,Dragon,,,True
+,Classic,이세라,내 턴이 끝날 때<b>꿈 카드</b>를 1장 뽑습니다.,Minion,EX1_572,True,Neutral,Gabor Szikszai,Legendary,4,9,12,이세라는 에메랄드의 꿈을 지배합니다. 에메랄드의 꿈이 어떻냐고요? 실제 세상의 녹색 버전이랄까요?,,Dragon,,,True
 ,Classic,일리단 스톰레이지,내가 카드를 낼 때마다 2/1 아지노스의 불꽃을 하나 소환합니다.,Minion,EX1_614,True,Neutral,Alex Horley Orlandelli,Legendary,7,6,5,일리단의 형 말퓨리온은 일리단을 하이잘 지하에 10000년 동안이나 가둬두었습니다. 스톰레이지 형제들 참 뒤끝 작렬이네요.,,Demon,,,True
 ,Classic,임프,,Minion,EX1_598,,Neutral,,Rare,1,1,1,,,Demon,,,
 ,Classic,임프 소환사,내 턴이 끝날 때 피해를 1 입고 1/1 임프를 하나 소환합니다.,Minion,EX1_597,True,Neutral,Mark Gibbons,Rare,1,3,5,&bdquo;임프들이 자꾸 깨물지만 않는다면 아마 이 일이 훨씬 더 즐거울 거야.&bdquo;,,,,,
@@ -302,20 +296,17 @@ Secret,Classic,저격,<b>비밀:</b> 상대편이 하수인을 내면 그 하수
 Deathrattle,Classic,전리품 수집가,<b>죽음의 메아리:</b> 카드를 1장 뽑습니다.,Minion,EX1_096,True,Neutral,Jim Nelson,Common,2,2,1,뭐든 다 입찰하더군요. 얼마나 얄미운지.,,,,,
 Battlecry|Combo,Classic,전멸의 비수,<b>전투의 함성:</b> 피해를 1 줍니다. <b>연계:</b> 피해를 2 줍니다.,Weapon,EX1_133,True,Neutral,Daren Bader,Rare,2,3,,설퍼라스가 수리 중이면 라그나로스가 이걸 꺼내든다고 합니다.,Rogue,,,2,
 ,Classic,전승지기 초,각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 넣습니다.,Minion,EX1_100,True,Neutral,Mark Zug,Legendary,0,2,4,전승지기 초는 판다리아의 이야기들을 수집하고 기록합니다. 최근에는 판다리아의 야한 연애 소설을 모으는 중이라는군요.,,,,,True
-,Classic,전쟁의 고대정령,<b>선택</b> -
-공격력 +5 또는 생명력 +5와 <b>도발</b> 능력을 얻습니다.,Minion,EX1_178,True,Neutral,Sean O’Daniels,Epic,5,7,5,젊은 나이트 엘프들은 &bdquo;전쟁의 고대정령 뿌리 들게 만들기&bdquo; 놀이를 즐깁니다. 정령에 깔려 죽는 엘프가 지는 겁니다.,Druid,,,,
+,Classic,전쟁의 고대정령,<b>선택</b> -공격력 +5 또는 생명력 +5와 <b>도발</b> 능력을 얻습니다.,Minion,EX1_178,True,Neutral,Sean O’Daniels,Epic,5,7,5,젊은 나이트 엘프들은 &bdquo;전쟁의 고대정령 뿌리 들게 만들기&bdquo; 놀이를 즐깁니다. 정령에 깔려 죽는 엘프가 지는 겁니다.,Druid,,,,
 ,Classic,전투 격노,피해를 입은 아군 캐릭터의 수만큼 카드를 뽑습니다.,Spell,EX1_392,True,Neutral,Alex Horley Orlandelli,Common,,2,,&bdquo;날 화나게 하지마. 분명 후회할걸?&bdquo;,Warrior,,,,
 ,Classic,전투 도끼,,Weapon,EX1_398t,,,,,2,1,,,Warrior,,,2,
 Combo,Classic,절개,피해를 $2 줍니다. <b>연계:</b> 피해를 $4 줍니다.,Spell,EX1_124,True,Neutral,Ariel Olivetti,Common,,2,,단점이 없는 건 아닙니다. 피가 너무 많이 튀어서 깨끗이 닦아내기가 힘들다는군요.,Rogue,,,,
 Battlecry,Classic,젊은 양조사,<b>전투의 함성:</b> 전장의 아군 하수인 하나를 내 손으로 다시 가져옵니다.,Minion,EX1_049,True,Alliance,Wei Wang,Common,3,2,2,젊음의 패기가 꼭 맥주의 맛으로 이어지는 건 아닙니다.,,,,,
 ,Classic,젊은 여사제,내 턴이 끝날 때 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.,Minion,EX1_004,True,,Vance Kovacs,Rare,2,1,1,2단계 신의 권능: 인내를 배우려고 노력중입니다.,,,,,
 Battlecry,Classic,정신 나간 폭격수,<b>전투의 함성:</b> 다른 모든 캐릭터에게 3의 피해를 무작위로 나누어 입힙니다.,Minion,EX1_082,True,Alliance,Mike Sass,Common,3,2,2,완전 정신이 나간 건 아닙니다. 그저 남들보다 폭발물을 더 험하게 다룰 뿐이죠.,,,,,
-,Classic,정신 붕괴,<b>영웅 능력</b>
-피해를 3 줍니다.,Hero Power,EX1_625t2,,,,,,2,,,Priest,,,,
+,Classic,정신 붕괴,<b>영웅 능력</b>피해를 3 줍니다.,Hero Power,EX1_625t2,,,,,,2,,,Priest,,,,
 Battlecry,Classic,정신 지배 기술자,<b>전투의 함성:</b> 전장에 상대편 하수인이 넷 이상 있으면 무작위 적 하수인 하나를 우리편으로 만듭니다.,Minion,EX1_085,True,Alliance,Leo Che,Rare,3,3,3,정신 지배 기술은 점점 더 발전하고 있지만 사실 별로 대단할 건 없습니다.,,,,,
 Summoned,Classic,정신 지배 중,,Enchantment,EX1_tk31,,Neutral,,Common,,,,,Priest,,,,
-,Classic,정신의 쐐기,<b>영웅 능력</b>
-피해를 2 줍니다.,Hero Power,EX1_625t,,,,,,2,,,Priest,,,,
+,Classic,정신의 쐐기,<b>영웅 능력</b>피해를 2 줍니다.,Hero Power,EX1_625t,,,,,,2,,,Priest,,,,
 ,Classic,정의 구현,+1/+1,Enchantment,EX1_366e,,,,,,,,,Paladin,,,,
 ,Classic,정의의 칼날,전장에 내 하수인이 소환될 때마다 그 하수인에게 +1/+1을 부여하고 내구도를 1 잃습니다.,Weapon,EX1_366,True,Neutral,Efrem Palacios,Epic,1,3,,소 엉치살 잘라내기에 딱 좋습니다!,Paladin,,,5,
 ,Classic,종자,,Minion,CS2_152,,Alliance,,Common,2,1,2,,,,,,
@@ -325,11 +316,9 @@ Battlecry,Classic,주문파괴자,<b>전투의 함성:</b> 하수인 하나를 <
 ,Classic,주입,생명력 +3,Enchantment,EX1_623e,,,,,,,,,Priest,,,,
 Secret,Classic,증발시키기,<b>비밀:</b> 하수인이 내 영웅을 공격하면 그 하수인을 처치합니다.,Spell,EX1_594,True,Neutral,Raymond Swanland,Rare,,3,,데스윙이 이 카드 때문에 열 받아 대격변을 일으켰다는 말이 있습니다. 믿거나 말거나.,Mage,,,,
 ,Classic,지식의 고대정령,<b>선택 -</b> 카드를 2장 뽑습니다. 또는 생명력을 5 회복시킵니다.,Minion,NEW1_008,True,,Patrik Hjelm,Epic,5,7,5,기념으로 이름 새기셔야죠?,Druid,,,,
-,Classic,지옥불!,<b>영웅 능력</b>
-6/6 지옥불정령을 하나 소환합니다.,Hero Power,EX1_tk33,,Neutral,,,,2,,,Warlock,,,,
+,Classic,지옥불!,<b>영웅 능력</b>6/6 지옥불정령을 하나 소환합니다.,Hero Power,EX1_tk33,,Neutral,,,,2,,,Warlock,,,,
 ,Classic,지옥불정령,,Minion,EX1_tk34,,Neutral,,Common,6,6,6,,Warlock,Demon,,,
-Battlecry|Taunt,Classic,지옥수호병,<b>도발</b>. <b>전투의 함성:</b>
-내 마나 수정 1개를 파괴합니다.,Minion,EX1_301,True,Neutral,John Polidora,Rare,3,3,5,<i>&bdquo;묻겠다. 그대가 나의 마스터인가?&bdquo;</i>,Warlock,Demon,,,
+Battlecry|Taunt,Classic,지옥수호병,<b>도발</b>. <b>전투의 함성:</b>내 마나 수정 1개를 파괴합니다.,Minion,EX1_301,True,Neutral,John Polidora,Rare,3,3,5,<i>&bdquo;묻겠다. 그대가 나의 마스터인가?&bdquo;</i>,Warlock,Demon,,,
 Battlecry,Classic,지옥의 군주,<b>전투의 함성:</b> 내 영웅에게 피해를 5 줍니다.,Minion,EX1_313,True,Neutral,Glenn Rane,Epic,5,4,6,만노로스 마그테리돈 브루탈루스 모두 죽었지만 이것으로 지옥의 군주가 엄청 많다는 사실이 밝혀졌습니다.,Warlock,Demon,,,
 ,Classic,지혜의 축복,하수인 하나를 선택합니다. 그 하수인이 공격할 때마다 카드를 1장 뽑습니다.,Spell,EX1_363,True,,Chippy,Common,,1,,이게 어떤 지혜인지는 모르겠지만 일단 매 턴마다 한 번씩 공격해야 할 것 같군요.,Paladin,,,,
 ,Classic,지혜의 축복,이 하수인이 공격하면 적 플레이어가 카드를 1장 뽑습니다.,Enchantment,EX1_363e2,,,,,,,,,Paladin,,,,

@@ -1,6 +1,5 @@
 MECHANICS,SET,NAME,ARTIST,ELITE,TEXT,RARITY,ATTACK,COST,HEALTH,RACE,TYPE,ID,PLAYERCLASS,COLLECTIBLE,FLAVOR,DURABILITY
-Charge,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,True,<b>冲锋</b>
-<b>超级风怒</b> <i>（每个回合攻击四次）</i>,Legendary,4,8,8,Mech,Minion,GVG_111t,,,,
+Charge,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,True,<b>冲锋</b><b>超级风怒</b> <i>（每个回合攻击四次）</i>,Legendary,4,8,8,Mech,Minion,GVG_111t,,,,
 Spellpower,Goblins vs Gnomes,上紧发条,,,法术伤害+2。,,,,,,Enchantment,GVG_123e,Mage,,,
 ,Goblins vs Gnomes,不稳定的传送门,Sean O&sbquo;Daniels,,将一张随机随从牌加入你的手牌。该随从的法力值消耗减少（3）点。,Rare,,2,,,Spell,GVG_003,Mage,True,艾泽拉斯的普通住民根本不知道让一座传送门稳定下来需要花费多少人力物力。我们每年要花费30%的GDP用于传送门维护。,
 ,Goblins vs Gnomes,伯瓦尔·弗塔根,Tooth,True,如果该牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。,Legendary,1,5,7,,Minion,GVG_063,Paladin,True,在伯瓦尔身上的冰融化之后，他受邀接受了采访。在采访中他对艾泽拉斯全球气候变暖现象表达了深深的忧虑。,
@@ -86,8 +85,7 @@ Battlecry,Goblins vs Gnomes,榴弹投手,Luca Zontini,,<b>战吼：</b>对一个
 ,Goblins vs Gnomes,死神4000型,James Ryman,True,同时对其攻击目标相邻的随从造成伤害。,Legendary,6,8,9,Mech,Minion,GVG_113,,True,对于田里的庄稼来说，所有的收割机都是死神。,
 ,Goblins vs Gnomes,水晶赠礼,,,使每个玩家获得一个法力水晶。,,,,,,Spell,GVG_032a,Druid,,,
 Battlecry,Goblins vs Gnomes,沃金,Raymond Swanland,True,<b>战吼：</b>与另一个随从交换生命值。,Legendary,6,5,2,,Minion,GVG_014,Priest,True,所谓暗影猎手，无非就是精通巫毒妖术的暗影牧师。,
-,Goblins vs Gnomes,沙鳞灵魂行者,Clint Langley,,每当另一个友方鱼人死亡，便抽一张牌。
-<b>过载：</b>（1）,Epic,2,4,5,Murloc,Minion,GVG_040,Shaman,True,任何人只要对元素提出合理的诉求，元素都会回应你。哪怕你只是想喊一句：“哦哇啦咯哇咯咯哦！”,
+,Goblins vs Gnomes,沙鳞灵魂行者,Clint Langley,,每当另一个友方鱼人死亡，便抽一张牌。<b>过载：</b>（1）,Epic,2,4,5,Murloc,Minion,GVG_040,Shaman,True,任何人只要对元素提出合理的诉求，元素都会回应你。哪怕你只是想喊一句：“哦哇啦咯哇咯咯哦！”,
 ,Goblins vs Gnomes,活力图腾,Guangjian Huang,,在你的回合结束时，为你的英雄恢复4点生命值。,Rare,0,2,3,Totem,Minion,GVG_039,Shaman,True,在艾泽拉斯很多地区的古玩市场，你都能淘到一些很有收藏价值的老式图腾。,
 Taunt,Goblins vs Gnomes,活动假人,Matt Dixon,,<b>嘲讽</b>,Rare,0,0,2,Mech,Minion,GVG_093,,True,它被许多工程师认为是工程学造福艾泽拉斯冒险者的起点。,
 ,Goblins vs Gnomes,活塞强化,,,攻击力增加。,,,,,,Enchantment,GVG_076a,,,,
@@ -100,15 +98,13 @@ Stealth,Goblins vs Gnomes,海地精猎手,Seamus Gallagher,,<b>潜行</b>,Common
 Spellpower,Goblins vs Gnomes,煤烟喷吐装置,Phil Saunders,,<b>法术伤害+1</b>,Rare,3,3,3,Mech,Minion,GVG_123,Mage,True,地精发明家们从来不会考虑环保和安全这两个因素；而他们认为正是这一点使他们的发明更加出类拔萃。,
 ,Goblins vs Gnomes,熟练的水手,Alex Horley Orlandelli,,,Common,7,5,4,Pirate,Minion,GVG_070,,True,他喜欢在船上颠簸的感觉，比在陆地上走路更有安全感。,
 ,Goblins vs Gnomes,独眼欺诈者,Danny Beck,,每当你召唤一个海盗，便获得<b>潜行</b>。,Rare,4,2,1,Pirate,Minion,GVG_025,Rogue,True,你不知道他是真的失去了一个眼睛，还是这只是他喜欢的装扮。,
-Aura,Goblins vs Gnomes,玛尔加尼斯,Wayne Reynolds,True,你的其他恶魔获得+2/+2。
-你的英雄获得<b>免疫</b>。,Legendary,9,9,7,Demon,Minion,GVG_021,Warlock,True,背叛这种事情，如果是主角做了，他就会翻开历史新的一页；如果是配角做了，他的牺牲会帮助主角翻开历史新的一页。,
+Aura,Goblins vs Gnomes,玛尔加尼斯,Wayne Reynolds,True,你的其他恶魔获得+2/+2。你的英雄获得<b>免疫</b>。,Legendary,9,9,7,Demon,Minion,GVG_021,Warlock,True,背叛这种事情，如果是主角做了，他就会翻开历史新的一页；如果是配角做了，他的牺牲会帮助主角翻开历史新的一页。,
 ,Goblins vs Gnomes,玛尔加尼斯之握,,,玛尔加尼斯使其获得+2/+2。,,,,,,Enchantment,GVG_021e,Warlock,,,
 Deathrattle,Goblins vs Gnomes,玛洛恩,Oliver Chipping,True,<b>亡语：</b>将该随从洗入你的牌库。,Legendary,9,7,7,Beast,Minion,GVG_035,Druid,True,玛洛恩之所以讨厌恶魔，是因为他不理解为什么这些又脏又臭的生物会长着和他一样的蹄子。,
 ,Goblins vs Gnomes,瑟玛普拉格,Trent Kaniuga,True,每当一个敌方随从死亡，召唤一个麻疯侏儒。,Legendary,9,9,7,Mech,Minion,GVG_116,,True,过去他非常执迷于炸药。而现在他更加关怀麻疯侏儒们的生计，因为他们能够造成更稳定的伤害。,
 ,Goblins vs Gnomes,生命之树,Steve Prescott,,为所有角色恢复所有生命值。,Epic,,9,,,Spell,GVG_033,Druid,True,这棵虽然不是摇钱树，但是却能救好多人的命。,
 ,Goblins vs Gnomes,生锈的号角,Peerasak Senalai,,使一个随从获得<b>嘲讽</b>。,,,1,,,Spell,PART_003,,,,
-Taunt,Goblins vs Gnomes,电镀机械熊仔,Eva Widermann,False,<b>嘲讽，抉择：</b>
-+1攻击力；或者+1生命值。,Common,2,2,2,Mech,Minion,GVG_030,Druid,True,它真是太可爱了！哦我的天呐，它为什么要咬我的脸？,
+Taunt,Goblins vs Gnomes,电镀机械熊仔,Eva Widermann,False,<b>嘲讽，抉择：</b>+1攻击力；或者+1生命值。,Common,2,2,2,Mech,Minion,GVG_030,Druid,True,它真是太可爱了！哦我的天呐，它为什么要咬我的脸？,
 Battlecry,Goblins vs Gnomes,疯狂爆破者,Alex Horley Orlandelli,,<b>战吼：</b>造成6点伤害，随机分配于其他角色身上。,Rare,5,5,4,,Minion,GVG_090,,True,如果你还在抱怨疯狂投弹者乱扔炸弹，你应该看看这位。,
 ,Goblins vs Gnomes,痛苦女王,Carl Critchlow,,每当该随从造成伤害，为你的英雄恢复等量的生命值。,Rare,1,2,4,Demon,Minion,GVG_018,Warlock,True,她总是觉得她的姐姐欢乐女王有点神经质：世间哪有这么多可以令她发笑的事情？,
 Battlecry|Taunt,Goblins vs Gnomes,百兽之王,Seamus Gallagher,,<b>嘲讽</b>，<b>战吼：</b>你每控制一只其他野兽，便获得+1攻击力。,Rare,2,5,6,Beast,Minion,GVG_046,Hunter,True,一声长啸百兽惊，贫瘠之地留威名。,
@@ -117,8 +113,7 @@ Battlecry,Goblins vs Gnomes,盾甲侍女,Alex Horley Orlandelli,,<b>战吼：</b
 ,Goblins vs Gnomes,眼纹纵横,,,属性值提高。,,,,,,Enchantment,GVG_100e,Warlock,,,
 ,Goblins vs Gnomes,眼镜蛇射击,Howard Lyon,,对一个随从和敌方英雄造成$3点伤害。,Common,,5,,,Spell,GVG_073,Hunter,True,戴眼镜的蛇当然会瞄的更准一点。,
 ,Goblins vs Gnomes,石腭穴居人壮汉,Chris Rahn,,每当你的对手施放一个法术，获得+2攻击力。,Common,3,4,5,,Minion,GVG_068,,True,他这么壮是因为他每天坚持健康的饮食，并且每个星期都去穴居人健身房进行锻炼。,
-Windfury,Goblins vs Gnomes,砂槌萨满祭司,José Ladrönn,,<b>风怒，过载：</b>（1）
-50%几率攻击错误的敌人。,Rare,5,4,4,,Minion,GVG_066,Shaman,True,他们的战斗信条是：闭上眼，然后享受打击的快感。,
+Windfury,Goblins vs Gnomes,砂槌萨满祭司,José Ladrönn,,<b>风怒，过载：</b>（1）50%几率攻击错误的敌人。,Rare,5,4,4,,Minion,GVG_066,Shaman,True,他们的战斗信条是：闭上眼，然后享受打击的快感。,
 Battlecry,Goblins vs Gnomes,砰砰博士,Alex Garner,True,<b>战吼：</b>召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>,Legendary,7,7,7,,Minion,GVG_110,,True,让你见识一下他的厉害！,
 Deathrattle,Goblins vs Gnomes,砰砰机器人,,,<b>亡语：</b>对一个随机敌人造成1到4点伤害。,,1,1,1,Mech,Minion,GVG_110t,,,,
 ,Goblins vs Gnomes,碎石穴居人,Peet Cooper,,每当你的对手施放一个法术，便获得+1攻击力。,Common,2,2,3,,Minion,GVG_067,,True,比穴居人的气味更让人受不了的是他们的诗歌。,

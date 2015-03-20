@@ -1,8 +1,6 @@
 MECHANICS,COLLECTIBLE,SET,NAME,ARTIST,TEXT,RARITY,ATTACK,COST,HEALTH,FLAVOR,TYPE,ID,ELITE,RACE,PLAYERCLASS,DURABILITY
 Stealth,True,Goblins vs Gnomes,Akwoblin tropiciel,Seamus Gallagher,<b>Ukrycie</b>,Common,2,2,3,„Patrzcie! Płynie do nas jakaś duża rybka!” – ostatnie słowa jednego z uczestników (nieudanej) wyprawy wędkarskiej u wschodnich wybrzeży Azeroth.,Minion,GVG_081,,,,
-Taunt,True,Goblins vs Gnomes,Anodowany robocik,Eva Widermann,<b>Prowokacja</b>.
-<b>Wybierz jedno:</b> 
-+1 do ataku; lub +1 do zdrowia.,Common,2,2,2,Jaki uroczy malec! RATUNKU ZARAZ ZEŻRE MI TWARZ!,Minion,GVG_030,False,Mech,Druid,
+Taunt,True,Goblins vs Gnomes,Anodowany robocik,Eva Widermann,<b>Prowokacja</b>.<b>Wybierz jedno:</b> +1 do ataku; lub +1 do zdrowia.,Common,2,2,2,Jaki uroczy malec! RATUNKU ZARAZ ZEŻRE MI TWARZ!,Minion,GVG_030,False,Mech,Druid,
 Battlecry,True,Goblins vs Gnomes,Antyczny medibot,Jesper Esjing,<b>Okrzyk bojowy:</b> Przywróć 8 pkt. zdrowia twojemu bohaterowi.,Common,3,5,3,Teraz panie to już takich nie robią! (Zapewne dlatego że większość wybuchła).,Minion,GVG_069,,Mech,,
 Taunt,True,Goblins vs Gnomes,Atrapa,Matt Dixon,<b>Prowokacja</b>,Rare,0,0,2,Cały czas coś ją trapi.,Minion,GVG_093,,Mech,,
 Freeze,,Goblins vs Gnomes,Awaryjne chłodziwo,Peerasak Senalai,<b>Zamroź</b> stronnika.,,,1,,,Spell,PART_005,,,,
@@ -63,23 +61,18 @@ Battlecry,True,Goblins vs Gnomes,Kwatermistrz,Phroilan Gardner,<b>Okrzyk bojowy:
 ,True,Goblins vs Gnomes,Lewitujący obserwator,Todd Lockwood,Otrzymuje +2/+2 za każdym razem  gdy twój bohater otrzymuje obrażenia w twojej turze.,Common,4,5,4,Na początku nazywał się Złe Oko Pewnej Zguby ale nazwa odstraszała potencjalnych stronników.,Minion,GVG_100,,Demon,Warlock,
 Enrage,True,Goblins vs Gnomes,Łomotobot,Tyler Walpole,<b>Szał:</b> +1 do ataku.,Common,1,1,3,Miał być „robotobotem” ale jego projektant seplenił.,Minion,GVG_051,,Mech,Warrior,
 ,True,Goblins vs Gnomes,Machina oblężnicza,Zero Yue,Za każdym razem gdy otrzymujesz pancerz daj temu stronnikowi +1 do ataku.,Rare,5,5,5,Nieźle się prezentuje na polu bitwy ale czy ma jakieś zastosowanie praktyczne?,Minion,GVG_086,,Mech,Warrior,
-Aura,True,Goblins vs Gnomes,Mal&sbquo;Ganis,Wayne Reynolds,Twoje pozostałe Demony otrzymują +2/+2.
-Twój bohater posiada <b>Niewrażliwość</b>.,Legendary,9,9,7,Gdy się Mal&sbquo;Ganisa gani ten okrutnie wszystkich rani!,Minion,GVG_021,True,Demon,Warlock,
-Battlecry|Taunt,True,Goblins vs Gnomes,Mała egzorcystka,Jim Nelson,<b>Prowokacja</b>
- <b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za każdego wrogiego stronnika z <b>Agonią</b>.,Rare,2,3,3,Potrafi zamienić agonię w pelargonię!,Minion,GVG_097,,,,
+Aura,True,Goblins vs Gnomes,Mal&sbquo;Ganis,Wayne Reynolds,Twoje pozostałe Demony otrzymują +2/+2.Twój bohater posiada <b>Niewrażliwość</b>.,Legendary,9,9,7,Gdy się Mal&sbquo;Ganisa gani ten okrutnie wszystkich rani!,Minion,GVG_021,True,Demon,Warlock,
+Battlecry|Taunt,True,Goblins vs Gnomes,Mała egzorcystka,Jim Nelson,<b>Prowokacja</b> <b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za każdego wrogiego stronnika z <b>Agonią</b>.,Rare,2,3,3,Potrafi zamienić agonię w pelargonię!,Minion,GVG_097,,,,
 Deathrattle,True,Goblins vs Gnomes,Malorn,Oliver Chipping,<b>Agonia:</b> Wtasuj tego stronnika do twojej talii.,Legendary,9,7,7,Od czasu pamiętnego pojedynku z Archimondem Malorn nie pozwala się już wyjelenić.,Minion,GVG_035,True,Beast,Druid,
 Deathrattle,True,Goblins vs Gnomes,Mechaniczny yeti,Chris Seaman,<b>Agonia:</b> Daj każdemu z graczy po karcie <b>Części zamiennej</b>.,Common,4,4,5,Yeti z Zimnych Wichrów są źródłem inspiracji dla wielu wynalazców – kiedy akurat nie ścigają ich w celach konsumpcji.,Minion,GVG_078,,Mech,,
-Battlecry,True,Goblins vs Gnomes,Mechano Wzmacniano,Zoltan Boros,<b>Okrzyk bojowy:</b> Twoi pozostali stronnicy otrzymują <b>Furię wichru</b> <b>Prowokację</b> lub <b>Boską tarczę</b>.
-<i>(losowo)</i>,Epic,3,4,2,Jego dopalacze są zakazane w niektórych krajach.,Minion,GVG_107,,Mech,,
+Battlecry,True,Goblins vs Gnomes,Mechano Wzmacniano,Zoltan Boros,<b>Okrzyk bojowy:</b> Twoi pozostali stronnicy otrzymują <b>Furię wichru</b> <b>Prowokację</b> lub <b>Boską tarczę</b>.<i>(losowo)</i>,Epic,3,4,2,Jego dopalacze są zakazane w niektórych krajach.,Minion,GVG_107,,Mech,,
 ,True,Goblins vs Gnomes,Mechinżynier Termowtyk,Trent Kaniuga,Za każdym razem gdy ginie wrogi stronnik przyzywasz Trędowatego gnoma.,Legendary,9,9,7,Chciał przejąć kontrolę nad Gnomoreganem ale wszyscy wiemy jak na tym wyszedł.,Minion,GVG_116,True,Mech,,
 ,True,Goblins vs Gnomes,Mecho-koto-dźwiedź,Trent Kaniuga,Za każdym razem gdy ten stronnik otrzyma obrażenia dodaj kartę <b>Części zamiennej</b> do twojej ręki.,Rare,7,6,6,Jego najlepszym kumplem jest Zwierzo-człeko-upiór.,Minion,GVG_034,,Mech,Druid,
 ,,Goblins vs Gnomes,Metalowe zęby,,+2 do ataku.,,,,,,Enchantment,GVG_048e,,,Hunter,
 ,True,Goblins vs Gnomes,Mikromaszyna,Skan Srisuwan,Na początku każdej tury otrzymuje +1 do ataku.,Common,1,2,2,Jest w związku z mikrokomputerem.,Minion,GVG_103,,Mech,,
-Spellpower|Stealth,True,Goblins vs Gnomes,Minimag,Ben Olson,<b>Ukrycie</b>
-<b>Obrażenia zaklęć +1</b>,Epic,4,4,1,Czasem ukrywa się w kufrze ze skarbami na Arenie Gurubaszi.,Minion,GVG_109,,,,
+Spellpower|Stealth,True,Goblins vs Gnomes,Minimag,Ben Olson,<b>Ukrycie</b><b>Obrażenia zaklęć +1</b>,Epic,4,4,1,Czasem ukrywa się w kufrze ze skarbami na Arenie Gurubaszi.,Minion,GVG_109,,,,
 Battlecry,True,Goblins vs Gnomes,Mistyczka z Kezanu,Jakub Kasper,<b>Okrzyk bojowy:</b> Przejmij kontrolę nad losowym <b>Sekretem</b> przeciwnika.,Rare,4,4,3,Doznała oświecenia kontemplując kwiat lotosu unoszący się na przezroczystej tafli jeziora.,Minion,GVG_074,,,,
-,,Goblins vs Gnomes,Moneta Galiwiasza,,Otrzymujesz 1 kryształ many w tej turze.
-<i>(Nie uaktywnia to Galiwiasza.)</i>,,,0,,,Spell,GVG_028t,,,,
+,,Goblins vs Gnomes,Moneta Galiwiasza,,Otrzymujesz 1 kryształ many w tej turze.<i>(Nie uaktywnia to Galiwiasza.)</i>,,,0,,,Spell,GVG_028t,,,,
 Aura,True,Goblins vs Gnomes,Naganiacz mechów,Phil Saunders,Twoje Mechy kosztują (1) mniej.,Common,2,2,3,Mechy które przywołują mechy? A potem co? Pączkujące pączki? Hmm w sumie...,Minion,GVG_006,,Mech,,
 Deathrattle,True,Goblins vs Gnomes,Nakręcany gnom,Matt Dixon,<b>Agonia:</b> Dodaj kartę <b>Części zamiennej</b> do twojej ręki.,Common,2,1,1,Może i jest powolny ale jak się rozkręci…,Minion,GVG_082,,Mech,,
 ,True,Goblins vs Gnomes,Nakręcany olbrzym,Dan Scott,Kosztuje (1) mniej za każdą kartę w ręce przeciwnika.,Epic,8,12,8,Nie może znaleźć wspólnego języka z resztą olbrzymów.,Minion,GVG_121,,Mech,,
@@ -88,20 +81,16 @@ Battlecry,True,Goblins vs Gnomes,Neptulon,Ruan Jia,<b>Okrzyk bojowy:</b> Dodaj 4
 ,,Goblins vs Gnomes,Niestabilny kamuflaż,Nutchapol Thitinunthakorn,Daj przyjaznemu stronnikowi <b>Ukrycie</b> do twojej następnej tury.,,,1,,,Spell,PART_004,,,,
 ,True,Goblins vs Gnomes,Niestabilny portal,Sean O&sbquo;Daniels,Dodaj losowego stronnika do twojej ręki. Kosztuje (3) mniej.,Rare,,2,,Mieszkańcy Azeroth nie zdają sobie sprawy ile kosztuje stabilizacja portali. Na ich utrzymanie leci jakieś 30% PKB!,Spell,GVG_003,,,Mage,
 Battlecry,True,Goblins vs Gnomes,Obłąkany bombiarz,Alex Horley Orlandelli,<b>Okrzyk bojowy:</b> Zadaj 6 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi innymi postaciami.,Rare,5,5,4,Bombiarz ma bardzo wybuchowy charakter.,Minion,GVG_090,,,,
-Taunt,True,Goblins vs Gnomes,Odmagiczniacz X-21,Zero Yue,<b>Prowokacja</b>
-Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.,Rare,2,4,5,Gnomi magowie odbyli na temat tego mecha kilka bardzo poważnych rozmów z gnomimi inżynierami.,Minion,GVG_091,,Mech,,
+Taunt,True,Goblins vs Gnomes,Odmagiczniacz X-21,Zero Yue,<b>Prowokacja</b>Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.,Rare,2,4,5,Gnomi magowie odbyli na temat tego mecha kilka bardzo poważnych rozmów z gnomimi inżynierami.,Minion,GVG_091,,Mech,,
 ,True,Goblins vs Gnomes,Ogniki błędniki,Trent Kaniuga,<b>Wybierz jedno:</b> Przyzwij 5 Ogników; lub daj stronnikowi +5/+5 oraz <b>Prowokację</b>.,Epic,,6,,Nad nazwą tej karty pracowały najtęższe umysły!,Spell,GVG_041,,,Druid,
 ,,Goblins vs Gnomes,Ogniki błędniki,,+5/+5 oraz <b>Prowokacja</b>.,,,,,,Enchantment,GVG_041c,,,Druid,
 ,,Goblins vs Gnomes,Ogniki błędniki,,Przyzwij 5 Ogników.,,,,,,Spell,GVG_041b,,,Druid,
 ,,Goblins vs Gnomes,Ogniki błędniki,,+5/+5 oraz <b>Prowokacja</b>.,,,,,,Spell,GVG_041a,,,Druid,
 ,True,Goblins vs Gnomes,Ogniste działo,Mauricio Herrera,Zadaj $4 pkt. obrażeń losowemu wrogiemu stronnikowi.,Common,,2,,Ogniste działo doskonale wpisuje się w długą tradycję zabójczych goblińskich wynalazków.,Spell,GVG_001,,,Mage,
-,True,Goblins vs Gnomes,Ogr mięśniak,Vinod Rams,50% szans na zaatakowanie niewłaściwego
-wroga.,Common,4,3,4,„JA MIEĆ LEPSZE STATY ZA NIŻSZOM CENE!”,Minion,GVG_065,,,,
+,True,Goblins vs Gnomes,Ogr mięśniak,Vinod Rams,50% szans na zaatakowanie niewłaściwegowroga.,Common,4,3,4,„JA MIEĆ LEPSZE STATY ZA NIŻSZOM CENE!”,Minion,GVG_065,,,,
 ,True,Goblins vs Gnomes,Ogr Mogor,Michal Ivan,Wszyscy stronnicy mają 50% szans na zaatakowanie niewłaściwego wroga.,Legendary,7,6,6,Mogor uczestniczył w ponownym otwarciu Mrocznego Portalu. Jeśli o pomoc w tak odpowiedzialnym zadaniu musisz prosić ogra to wiedz że jesteś w poważnych tarapatach.,Minion,GVG_112,True,,,
-Stealth,True,Goblins vs Gnomes,Ogr ninja,Samwise,<b>Ukrycie</b>
-50% szans na zaatakowanie niewłaściwego wroga.,Rare,6,5,6,Co prawda nie zdał egzaminu wstępnego do akademii ninja ale załapał się na dodatkowy nabór.,Minion,GVG_088,,,Rogue,
-,True,Goblins vs Gnomes,Ogrzy Haratacz,Richard Wright,50% szans na zaatakowanie niewłaściwego
-wroga.,Common,4,3,,Brutalnie prosty – jak większość przejawów kultury ogrów.,Weapon,GVG_054,,,Warrior,2
+Stealth,True,Goblins vs Gnomes,Ogr ninja,Samwise,<b>Ukrycie</b>50% szans na zaatakowanie niewłaściwego wroga.,Rare,6,5,6,Co prawda nie zdał egzaminu wstępnego do akademii ninja ale załapał się na dodatkowy nabór.,Minion,GVG_088,,,Rogue,
+,True,Goblins vs Gnomes,Ogrzy Haratacz,Richard Wright,50% szans na zaatakowanie niewłaściwegowroga.,Common,4,3,,Brutalnie prosty – jak większość przejawów kultury ogrów.,Weapon,GVG_054,,,Warrior,2
 ,,Goblins vs Gnomes,Olejek osełkowy,,+3 do ataku.,,,,,,Enchantment,GVG_022a,,,,
 Combo,True,Goblins vs Gnomes,Olejek osełkowy,Den,Daj twojej broni +3 do ataku. <b>Kombinacja:</b> Daj losowemu przyjaznemu stronnikowi +3 do ataku.,Common,,4,,„Gotowi do smarowania!” - okrzyk bojowy łapówkarzy.,Spell,GVG_022,,,Rogue,
 ,,Goblins vs Gnomes,Olejek osełkowy,,+3 do ataku.,,,,,,Enchantment,GVG_022b,,,,
@@ -110,8 +99,7 @@ Combo,True,Goblins vs Gnomes,Olejek osełkowy,Den,Daj twojej broni +3 do ataku. 
 ,True,Goblins vs Gnomes,Pani Bólu,Carl Critchlow,Za każdym razem gdy ten stronnik zadaje obrażenia przywraca tyle samo zdrowia twojemu bohaterowi.,Rare,1,2,4,Jej siostra Pani Bulu zsyła cierpienie na władców królestwa Beznadzieji.,Minion,GVG_018,,Demon,Warlock,
 ,,Goblins vs Gnomes,Pełne wyposażenie,,+2/+2.,,,,,,Enchantment,GVG_060e,,,Paladin,
 ,True,Goblins vs Gnomes,Piastunka Gaju,Chris Rahn,<b>Wybierz jedno:</b> Daj każdemu z graczy kryształ many; lub każdy z graczy dobiera kartę.,Rare,2,3,4,Lubi piesze wycieczki w leśnej głuszy. Nie lubi goblińskich szatkowników i sandałów (żadne na nią nie pasują).,Minion,GVG_032,,,Druid,
-Charge|Taunt,True,Goblins vs Gnomes,Piechota Gnomoreganu,Zoltan & Gabor,<b>Szarża</b>
-<b>Prowokacja</b>,Common,1,3,4,Szarżuje prowokuje wrogów rozgnomuje!,Minion,GVG_098,,,,
+Charge|Taunt,True,Goblins vs Gnomes,Piechota Gnomoreganu,Zoltan & Gabor,<b>Szarża</b><b>Prowokacja</b>,Common,1,3,4,Szarżuje prowokuje wrogów rozgnomuje!,Minion,GVG_098,,,,
 ImmuneToSpellpower,True,Goblins vs Gnomes,Pieczęć Światłości,Jason Chan,Przywróć #4 pkt. zdrowia twojemu bohaterowi i zyskaj +2 do ataku w tej turze.,Common,,2,,A Pieczeń Światłości ponoć przywraca aż OSIEM punktów zdrowia!,Spell,GVG_057,,,Paladin,
 OneTurnEffect,,Goblins vs Gnomes,Pieczęć Światłości,,+2 do ataku w tej turze.,,,,,,Enchantment,GVG_057a,,,,
 ,True,Goblins vs Gnomes,Płomienny Lewiatan,Aleksi Briclot,Gdy dobierzesz tę kartę zadaj $2 pkt. obrażeń wszystkim postaciom.,Legendary,7,7,7,Mimiron często zabiera Płomiennego Lewiatana na szalone przejażdżki po Ulduarze.,Minion,GVG_007,True,Mech,Mage,
@@ -126,8 +114,7 @@ OneTurnEffect,,Goblins vs Gnomes,Promień skurczający,,-2 do ataku w tej turze.
 ,,Goblins vs Gnomes,Przerdzewiały klakson,Peerasak Senalai,Daj stronnikowi <b>Prowokację</b>.,,,1,,,Spell,PART_003,,,,
 Aura,,Goblins vs Gnomes,Przetrawiona magia,,Zwiększony atak.,,,,,,Enchantment,GVG_068a,,,,
 Aura,,Goblins vs Gnomes,Przetrawiona magia,,Zwiększony atak.,,,,,,Enchantment,GVG_067a,,,,
-,True,Goblins vs Gnomes,Przyzwanie zwierza,E.M. Gist,Dobierz kartę.
-Jeśli jest to Bestia kosztuje (4) mniej.,Rare,,2,,Prawdziwi łowcy potrafią nawet wpaść na trop owcy!,Spell,GVG_017,,,Hunter,
+,True,Goblins vs Gnomes,Przyzwanie zwierza,E.M. Gist,Dobierz kartę.Jeśli jest to Bestia kosztuje (4) mniej.,Rare,,2,,Prawdziwi łowcy potrafią nawet wpaść na trop owcy!,Spell,GVG_017,,,Hunter,
 Battlecry,True,Goblins vs Gnomes,Rekombobulator,Ben Olson,<b>Okrzyk bojowy:</b> Przemień przyjaznego stronnika w losowego stronnika o takim samym koszcie.,Epic,3,2,2,Ponieważ czasami kombobulacja udaje się dopiero za drugim razem.,Minion,GVG_108,,,,
 Spellpower,True,Goblins vs Gnomes,Rozpylacz sadzy,Phil Saunders,<b>Obrażenia zaklęć +1</b>,Rare,3,3,3,Wynalazcy rozpylacza sadzy i goblińskiego szatkownika od lat ciągają się po sądach z powodu drobnego sporu o prawa patentowe.,Minion,GVG_123,,Mech,Mage,
 Combo,True,Goblins vs Gnomes,Sabotaż,Dave Allsop,Zniszcz losowego wrogiego stronnika. <b>Kombinacja</b>: Oraz broń przeciwnika.,Epic,,4,,„Kto pod kim dołki kopie ten ma dobrą łopatę” – z Vademecum młodego sabotażysty.,Spell,GVG_047,,,Rogue,
@@ -140,9 +127,7 @@ Freeze,True,Goblins vs Gnomes,Śniegoczłap,Gabor Szikszai,<b>Zamroź</b> każd�
 ,True,Goblins vs Gnomes,Strzał kobry,Howard Lyon,Zadaj $3 pkt. obrażeń stronnikowi oraz wrogiemu bohaterowi.,Common,,5,,Strzał kobry jest dużo łatwiej opanować niż szał kobry.,Spell,GVG_073,,,Hunter,
 ,,Goblins vs Gnomes,Super ostre!,,+1 do ataku.,,,,,,Enchantment,GVG_023a,,,,
 ,True,Goblins vs Gnomes,Światło Naaru,Jesper Ejsing,Przywróć #3 pkt. zdrowia. Jeśli cel wciąż jest ranny przyzwij Strażniczkę Światłości.,Rare,,1,,Światła takiej jakości to ze świecą szukać.,Spell,GVG_012,,,Priest,
-Windfury,True,Goblins vs Gnomes,Szaman Kafardunów,José Ladrönn,<b>Furia wichru
-Przeciążenie:</b> (1)
-50% szans na zaatakowanie niewłaściwego wroga.,Rare,5,4,4,Zamyka oczy i daje się ponieść pierwotnym instynktom.,Minion,GVG_066,,,Shaman,
+Windfury,True,Goblins vs Gnomes,Szaman Kafardunów,José Ladrönn,<b>Furia wichruPrzeciążenie:</b> (1)50% szans na zaatakowanie niewłaściwego wroga.,Rare,5,4,4,Zamyka oczy i daje się ponieść pierwotnym instynktom.,Minion,GVG_066,,,Shaman,
 Deathrattle,True,Goblins vs Gnomes,Szatkownik Szmondaka,Christopher Moeller,<b>Agonia:</b> Przyzwij losowego legendarnego stronnika.,Legendary,5,8,7,Kiedy Szmondak został pokonany jego szatkownik odkupił anonimowy nabywca. (Najprawdopodobniej był to Wyżer).,Minion,GVG_114,True,Mech,,
 Battlecry,True,Goblins vs Gnomes,Szkarłatny czyściciel,Anton Zemskov,<b>Okrzyk bojowy:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom z <b>Agonią</b>.,Rare,4,3,3,Kierownictwo Szkarłatnej Krucjaty rozważa zmianę nazwy na „Fuksjowa Krucjata” celem złagodzenia wizerunku tej organizacji.,Minion,GVG_101,,,Paladin,
 ,True,Goblins vs Gnomes,Szlamior Duchobieżca,Clint Langley,Dobierz kartę za każdym razem gdy zginie przyjazny Murlok. <b>Przeciążenie:</b> (1),Epic,2,4,5,Żywioły przybywają z pomocą każdemu kto wzywa je w słusznej sprawie – nawet jeśli ów ktoś czyni to gulgocząc niezrozumiale.,Minion,GVG_040,,Murloc,Shaman,
@@ -158,14 +143,12 @@ Battlecry|Deathrattle,True,Goblins vs Gnomes,Toshley,Zoltan & Gabor,<b>Okrzyk bo
 ,,Goblins vs Gnomes,Tryb obronny,,+1 do zdrowia.,,,,,,Enchantment,GVG_030be,,,Druid,
 ,,Goblins vs Gnomes,Tryb obronny,,+1 do zdrowia.,,,,,,Spell,GVG_030b,,,Druid,
 Battlecry,True,Goblins vs Gnomes,Trybomłot,Danny Orizio,<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi <b>Boską tarczę</b> oraz <b>Prowokację</b>.,Epic,2,3,,Kawał złomu wyrwany z jakiegoś ustrojstwa wetknięty na patyk i pomazany starożytnymi runami – broń tak niezawodna jak wskazuje na to jej opis.,Weapon,GVG_059,,,Paladin,3
-,True,Goblins vs Gnomes,Trzask,Warren Mahy,Zadaj $3-$6 pkt. obrażeń.
-<b>Przeciążenie:</b> (1),Common,,2,,Słyszysz trzask i wydajesz wrzask!,Spell,GVG_038,,,Shaman,
+,True,Goblins vs Gnomes,Trzask,Warren Mahy,Zadaj $3-$6 pkt. obrażeń.<b>Przeciążenie:</b> (1),Common,,2,,Słyszysz trzask i wydajesz wrzask!,Spell,GVG_038,,,Shaman,
 Aura,True,Goblins vs Gnomes,Tycia wyklinaczka,Jonboy Meyers,Sąsiedni stronnicy nie mogą zostać wybrani jako cel zaklęć lub mocy specjalnych.,Epic,2,4,5,Zacięcie wyklina każde zaklęcie.,Minion,GVG_122,,,Mage,
 Battlecry,True,Goblins vs Gnomes,Tygrys metalozębny,Hideaki Takamura,<b>Okrzyk bojowy:</b> Daj twoim innym Mechom +2 do ataku.,Rare,3,3,3,Nie zostawiaj ich na deszczu. W kraterze Un&sbquo;goro jest cała kolonia tygrysów rdzawozębnych.,Minion,GVG_048,,Mech,Hunter,
 Battlecry,True,Goblins vs Gnomes,Ulepszony reperobot,Nutchapol Thitinunthakorn,<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +4 do zdrowia.,Rare,5,5,5,Ten model nie różni się niczym od poprzedniego – po prostu ma w nazwie słowo „ulepszony” i jest z tego powodu dwukrotnie droższy.,Minion,GVG_083,,Mech,Priest,
 ,,Goblins vs Gnomes,Uścisk Mal&sbquo;Ganisa,,Mal&sbquo;Ganis zapewnia +2/+2.,,,,,,Enchantment,GVG_021e,,,Warlock,
-Charge,,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,<b>Szarża</b>
-<b>Mega furia wichru</b> <i>(Może atakować cztery razy w ciągu tury).</i>,Legendary,4,8,8,,Minion,GVG_111t,True,Mech,,
+Charge,,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,<b>Szarża</b><b>Mega furia wichru</b> <i>(Może atakować cztery razy w ciągu tury).</i>,Legendary,4,8,8,,Minion,GVG_111t,True,Mech,,
 Battlecry,True,Goblins vs Gnomes,Vol&sbquo;jin,Raymond Swanland,<b>Okrzyk bojowy:</b> Zamień punkty zdrowia z innym stronnikiem.,Legendary,6,5,2,Vol&sbquo;jin jest łowcą cienia czyli takim jakby kapłanem cienia ale z większym nastawieniem na wudowanie.,Minion,GVG_014,True,,Priest,
 Aura,True,Goblins vs Gnomes,Wajcha Wihajmistrza,Richard Wright,Ma +2 do ataku gdy kontrolujesz Mecha.,Epic,1,3,,Do tentegowania i łbów rozwalania!,Weapon,GVG_024,,,Rogue,3
 ,True,Goblins vs Gnomes,Werbunek,Mike Hayes,Przyzwij trzech Rekrutów Srebrnej Dłoni 1/1. Wyposaż bohatera w broń 1/4.,Rare,,3,,„Dwóch synów matka miała - mądry został na roli a drugi poszedł do Srebrnej Dłoni”. – tekst przyśpiewki rekrutów.,Spell,GVG_061,,,Paladin,
@@ -174,8 +157,7 @@ Aura,True,Goblins vs Gnomes,Wihajmistrz,Trent Kaniuga,Ma +2 do ataku gdy kontrol
 ,,Goblins vs Gnomes,Wirujące ostrza,,+1 do ataku.,,,,,,Enchantment,PART_007e,,,,
 ,,Goblins vs Gnomes,Wirujące ostrza,Nutchapol Thitinunthakorn,Daj stronnikowi +1 do ataku.,,,1,,,Spell,PART_007,,,,
 Windfury,True,Goblins vs Gnomes,Wirujący iskrobot,Jim Nelson,<b>Furia wichru</b>,Common,3,2,2,Należy go trzymać z dala od beczek z prochem.,Minion,GVG_037,,Mech,Shaman,
-Divine Shield|Taunt,True,Goblins vs Gnomes,Wkurzotron,Matt Dixon,<b>Prowokacja</b>
-<b>Boska tarcza</b>,Common,1,2,2,Wynalazcę Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstrów później z Majsterkowa aż w końcu wygnano go ze Wschodnich Królestw i zakazano powrotu.,Minion,GVG_085,,Mech,,
+Divine Shield|Taunt,True,Goblins vs Gnomes,Wkurzotron,Matt Dixon,<b>Prowokacja</b><b>Boska tarcza</b>,Common,1,2,2,Wynalazcę Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstrów później z Majsterkowa aż w końcu wygnano go ze Wschodnich Królestw i zakazano powrotu.,Minion,GVG_085,,Mech,,
 ,,Goblins vs Gnomes,Wybraniec Velena,,+2/+4 oraz <b>Obrażenia zaklęć +1</b>.,,,,,,Enchantment,GVG_010b,,,,
 ,True,Goblins vs Gnomes,Wybraniec Velena,Alex Horley Orlandelli,Daj stronnikowi +2/+4 oraz <b>Obrażenia zaklęć +1</b>.,Common,,3,,Jak Velen kogoś wybierze to nie ma zmiłuj!,Spell,GVG_010,,,Priest,
 Deathrattle,True,Goblins vs Gnomes,Wybuchowa owca,Ralph Horsley,<b>Agonia:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom.,Common,1,2,1,Modę na wybuchowe owce zapoczątkował niejaki szewczyk Skuba z czworaków pod Wichrogrodem.,Minion,GVG_076,,Mech,,
@@ -188,9 +170,7 @@ Deathrattle,True,Goblins vs Gnomes,Załogowy szatkownik,Dan Scott,<b>Agonia:</b>
 ,,Goblins vs Gnomes,Zamiana,,Atak i zdrowie zostały zamienione przez Zmiano-odwracacz.,,,,,,Enchantment,PART_006a,,,,
 ,,Goblins vs Gnomes,Żelazna postać,,Zwiększone statystyki.,,,,,,Enchantment,GVG_027e,,,Rogue,
 Battlecry,True,Goblins vs Gnomes,Żelazny moloch,Raymond Swanland,<b>Okrzyk bojowy:</b> Wtasuj Minę do talii przeciwnika. Jeśli zostanie dobrana eksploduje zadając 10 pkt. obrażeń.,Legendary,6,6,5,Żelazny moloch niestrudzenie strzeże Orgrimmaru. Jest tak skuteczny że właśnie udało mu się zostać pracownikiem miesiąca!,Minion,GVG_056,True,Mech,Warrior,
-,True,Goblins vs Gnomes,Żelazny sensei,Brian Despain,Na koniec twojej tury daj innemu przyjaznemu Mechowi +2/+2.,Rare,2,3,2,Jest jednym z nielicznych pedagogów który znajduje wspólny język z mechami.
-
-01000111101001001,Minion,GVG_027,,Mech,Rogue,
+,True,Goblins vs Gnomes,Żelazny sensei,Brian Despain,Na koniec twojej tury daj innemu przyjaznemu Mechowi +2/+2.,Rare,2,3,2,Jest jednym z nielicznych pedagogów który znajduje wspólny język z mechami.01000111101001001,Minion,GVG_027,,Mech,Rogue,
 ,True,Goblins vs Gnomes,Zew przodków,Dan Scott,Umieść po jednym losowym stronniku z ręki każdego z graczy na polu bitwy.,Epic,,4,,Poprzednia wersja tej karty nazywała się „Zlew przodków” ale przodkowie się obrazili.,Spell,GVG_029,,,Shaman,
 ,,Goblins vs Gnomes,Zezłomowanie,,Zwiększone statystyki.,,,,,,Enchantment,GVG_106e,,,,
 ,True,Goblins vs Gnomes,Złomobot,Zoltan Boros,Otrzymuje +2/+2 za każdym razem gdy zginie przyjazny Mech.,Epic,1,5,5,To złomobot wszystko skrawa bez różnicy stal czy trawa. I w ogóle jest zabawa!,Minion,GVG_106,,Mech,,

@@ -115,10 +115,8 @@ True,Classic,心靈之怒,Neutral,,對一個手下造成$1點傷害。它獲得+
 ,Classic,心靈之火,,,這個手下的攻擊力等於生命值,,,,,,,Enchantment,CS1_129e,,Priest,,,
 True,Classic,心靈之火,Neutral,,使一個手下的攻擊力等同於生命值,Steve Prescott,Common,,1,,好主意:強化你的手下。壞主意:在貧瘠之地進行聊天。,Spell,CS1_129,,Priest,,,
 ,Classic,心靈控制,Neutral,,,,Common,,,,,Enchantment,EX1_tk31,Summoned,Priest,,,
-,Classic,心靈碎裂,,,<b>英雄能力</b>
-造成3點傷害,,,,2,,,Hero Power,EX1_625t2,,Priest,,,
-,Classic,心靈鑽刺,,,<b>英雄能力</b>
-造成2點傷害,,,,2,,,Hero Power,EX1_625t,,Priest,,,
+,Classic,心靈碎裂,,,<b>英雄能力</b>造成3點傷害,,,,2,,,Hero Power,EX1_625t2,,Priest,,,
+,Classic,心靈鑽刺,,,<b>英雄能力</b>造成2點傷害,,,,2,,,Hero Power,EX1_625t,,Priest,,,
 True,Classic,思想竊取,Neutral,,從你對手的牌堆中複製2張牌，並放到你的手牌裡,Alex Garner,Common,,3,,「你對獸人施放思想竊取會偷到什麼?什麼都偷不到!」-牛頭人笑話,Spell,EX1_339,,Priest,,,
 True,Classic,惡毒的鐵匠,Horde,,<b>狂怒:</b>使你的武器+2攻擊力,Justin Sweet,Common,4,5,6,她願意幫你打造一把好劍，但是你必須先收集好5塊魔鋼錠、3顆大地微粒，以及她上一位顧客的頭皮。,Minion,CS2_221,Enrage,,,,
 True,Classic,惡魔守衛,Neutral,,<b>嘲諷</b>。<b>戰吼:</b>摧毀一顆你的法力水晶,John Polidora,Rare,3,3,5,是的，他會為你而戰。但是他會不太爽。,Minion,EX1_301,Battlecry|Taunt,Warlock,Demon,,
@@ -133,8 +131,7 @@ True,Classic,憤怒雞,,,<b>狂怒:</b>+5攻擊力,Mike Sass,Rare,1,1,1,憤怒�
 ,Classic,懺悔,,,生命值下降為1點,,,,,,,Enchantment,EX1_379e,,Paladin,,,
 True,Classic,懺悔,Neutral,,<b>秘密:</b>當你的對手打出手下時，將其生命值降為1點,Gonzalo Ordonez,Common,,1,,人們通常在生命結束的前一刻才會懺悔。真有意思。,Spell,EX1_379,Secret,Paladin,,,
 True,Classic,戈魯爾,,True,在每個回合結束時獲得+1/+1,Kev Walker,Legendary,7,8,7,他是『弒龍者』戈魯爾。其實他只是想要抱抱那些龍，並沒有真的想...,Minion,NEW1_038,,,,,
-True,Classic,戰爭古樹,Neutral,,<b>二選一:</b>
-+5攻擊力，或+5生命值及<b>嘲諷</b>,Sean O’Daniels,Epic,5,7,5,年輕的夜精靈喜歡玩「誰能讓戰爭古樹拔根?」被踩扁就算輸。,Minion,EX1_178,,Druid,,,
+True,Classic,戰爭古樹,Neutral,,<b>二選一:</b>+5攻擊力，或+5生命值及<b>嘲諷</b>,Sean O’Daniels,Epic,5,7,5,年輕的夜精靈喜歡玩「誰能讓戰爭古樹拔根?」被踩扁就算輸。,Minion,EX1_178,,Druid,,,
 ,Classic,戰鬥斧,,,,,,2,1,,,Weapon,EX1_398t,,Warrior,,,2
 True,Classic,戰鬥狂怒,Neutral,,抽牌，數量等於友方受傷角色的總數,Alex Horley Orlandelli,Common,,2,,「你不會喜歡生氣時的我。」,Spell,EX1_392,,Warrior,,,
 True,Classic,扭曲虛空,Neutral,,摧毀全部手下,Dave Allsop,Epic,,8,,扭曲虛空是個沒有形體的地方，有著魔法、幻影及被摧毀的手下。,Spell,EX1_312,,Warlock,,,
@@ -218,8 +215,7 @@ True,Classic,炸雞勇者,Alliance,True,<b>衝鋒</b>。<b>戰吼:</b>替你的�
 True,Classic,烈焰小鬼,Neutral,,<b>戰吼:</b>對你的英雄造成3點傷害,Alex Horley Orlandelli,Common,3,1,2,小鬼喜歡身上冒火。他們就是喜歡。,Minion,EX1_319,Battlecry,Warlock,Demon,,
 True,Classic,無縛的元素,Neutral,,每當你打出有<b>超載</b>的牌，便獲得+1/+1,Matt Gaser,Common,2,3,4,不像受到束縛的元素，無縛的元素可以在晚上到鎮上逛街。,Minion,EX1_258,,Shaman,,,
 True,Classic,無面操縱者,Neutral,,<b>戰吼:</b>選擇一個手下並成為它的複製品,Raymond Swanland,Epic,3,5,3,無面者是尤格薩倫的僕人，它們以恐懼為食。現在它們正在吞食你害怕不小心把好牌全分解掉的恐懼。,Minion,EX1_564,Battlecry,,,,
-,Classic,煉獄!,Neutral,,<b>英雄能力</b>
-召喚一個6/6煉獄火,,,,2,,,Hero Power,EX1_tk33,,Warlock,,,
+,Classic,煉獄!,Neutral,,<b>英雄能力</b>召喚一個6/6煉獄火,,,,2,,,Hero Power,EX1_tk33,,Warlock,,,
 ,Classic,煉獄火,Neutral,,,,Common,6,6,6,,Minion,EX1_tk34,,Warlock,Demon,,
 True,Classic,照明彈,Neutral,,全部手下失去<b>潛行</b>。摧毀全部敵方的<b>秘密</b>。抽一張牌,Tyler Walpole,Rare,,2,,這不只是能照出你敵人的行蹤，在派對上也很好用!,Spell,EX1_544,,Hunter,,,
 ,Classic,熊形態,Neutral,,+2生命值及<b>嘲諷</b>,,Common,,,,,Spell,EX1_165b,,Druid,,,
@@ -303,8 +299,7 @@ True,Classic,苦痛侍僧,,,每當此手下受到傷害，抽一張牌,Dave Kend
 True,Classic,荊棘谷猛虎,Alliance,,<b>潛行</b>,Alex Horley Orlandelli,Common,5,5,5,老虎最棒的地方就是牠們棒透了!,Minion,EX1_028,Stealth,,Beast,,
 ,Classic,莫魯之影,,,這個手下吞噬了聖盾術，攻擊力及生命值提高,,Common,,,,,Enchantment,EX1_590e,,,,,
 False,Classic,著裝,,,攻擊力提高,,,,,,,Enchantment,NEW1_037e,,,,,
-True,Classic,葛羅瑪許·地獄吼,Neutral,True,<b>衝鋒</b>。
-<b>狂怒:</b>+6攻擊力,Glenn Rane,Legendary,4,8,9,葛羅瑪許帶頭喝了瑪諾洛斯的腐化之血，害獸人皮膚變綠，眼睛變紅!顯然不是個明智的決定。,Minion,EX1_414,Charge|Enrage,Warrior,,,
+True,Classic,葛羅瑪許·地獄吼,Neutral,True,<b>衝鋒</b>。<b>狂怒:</b>+6攻擊力,Glenn Rane,Legendary,4,8,9,葛羅瑪許帶頭喝了瑪諾洛斯的腐化之血，害獸人皮膚變綠，眼睛變紅!顯然不是個明智的決定。,Minion,EX1_414,Charge|Enrage,Warrior,,,
 True,Classic,蒼藍龍,Neutral,,<b>法術傷害+1</b>。<b>戰吼:</b>抽一張牌,Ben Zhang,Rare,4,5,4,牠們本來是想要叫碧晶龍或天藍龍，後來覺得那樣聽起來不夠神秘。蒼藍好像也沒好多少就是了。,Minion,EX1_284,Battlecry|Spellpower,,Dragon,,
 ,Classic,虛無之影,,,心理遊戲失效!你的對手沒有手下!,,Epic,0,0,1,,Minion,EX1_345t,,Priest,,,
 True,Classic,虛無恐獸,,,<b>戰吼:</b>摧毀其兩側的手下，獲得其攻擊力及生命值,Alexander Alexandrov,Rare,3,3,3,如果你把這張放進套牌裡，你絕對會失去其他手下的信任。,Minion,EX1_304,Battlecry,Warlock,Demon,,

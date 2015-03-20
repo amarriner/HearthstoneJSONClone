@@ -6,8 +6,7 @@ Basic,侏儒发明家,<b>战吼：</b>抽一张牌。,4,她从来不知道她想
 Basic,保护之手,使一个随从获得<b>圣盾</b>。,1,这个法术的名字已经被修改了太多次，导致连圣骑士们都不知道它应该叫什么了。,Spell,EX1_371,True,Neutral,Free,,Paladin,Clint Langley,,达到23级后解锁。,,达到1级后解锁。,,,
 Basic,先祖治疗,为一个随从恢复所有生命值并使其获得<b>嘲讽</b>。,0,你能在战斗中能够召唤祖先的灵魂！所以，出生在一个强大的家族是很重要的！,Spell,CS2_041,True,Neutral,Free,,Shaman,Dan Scott,,达到15级后解锁。,,达到1级后解锁。,,,
 Basic,先祖眷顾,嘲讽,,,Enchantment,CS2_041e,,,,,Shaman,,,,Taunt,,,,
-Basic,全副武装！,<b>英雄技能</b>
-获得2点护甲值。,2,,Hero Power,CS2_102,,Neutral,Free,,Warrior,,,,,,,,
+Basic,全副武装！,<b>英雄技能</b>获得2点护甲值。,2,,Hero Power,CS2_102,,Neutral,Free,,Warrior,,,,,,,,
 Basic,冰霜新星,<b>冻结</b>所有敌方随从。,3,嘿，伙计，这会冻死你的。我是说真的。,Spell,CS2_026,True,Neutral,Common,,Mage,Josh Tallman,,达到23级后解锁。,Freeze,达到6级后解锁。,,,
 Basic,冰霜震击,对一个敌方角色造成$1点伤害，并使其<b>冻结</b>。,1,年轻的萨满们可能没听说过《你与冰霜震击》这本书。,Spell,CS2_037,True,Neutral,Free,,Shaman,Alex Horley Orlandelli,,达到32级后解锁。,Freeze,达到1级后解锁。,,,
 Basic,冰风雪人,,4,他梦想着有一天能够下山开一间拉面店。但他没有那个勇气。,Minion,CS2_182,True,Neutral,Common,5,,Mauro Cascioli,4,战士达到55级后解锁。,,,,,
@@ -25,12 +24,9 @@ Basic,力量祝福,使一个随从获得+3攻击力。,1,没有善，没有恶�
 Basic,力量祝福,+3攻击力。,,,Enchantment,CS2_087e,,Neutral,,,Paladin,,,,,,,,
 Basic,加尔鲁什·地狱咆哮,,,,Hero,HERO_01,True,Neutral,Free,30,Warrior,,,,,,,,
 Basic,动物伙伴,随机召唤一个野兽伙伴。,3,你可以召唤米莎，雷欧克或是霍弗！霍弗又没用，又爱惹麻烦！,Spell,NEW1_031,True,,Common,,Hunter,Wei Wang,,达到45级后解锁。,,达到2级后解锁。,,,
-Basic,匕首精通,<b>英雄技能</b>
-装备一把1/2的匕首。,2,,Hero Power,CS2_083b,,Neutral,Free,,Rogue,,,,,,,,
+Basic,匕首精通,<b>英雄技能</b>装备一把1/2的匕首。,2,,Hero Power,CS2_083b,,Neutral,Free,,Rogue,,,,,,,,
 Basic,北郡牧师,每当一个随从获得治疗时，抽一张牌。,1,她们帮助被压迫和沮丧的人们。她们也卖饼干。,Minion,CS2_235,True,,Free,3,Priest,Terese Nielsen,1,达到40级后解锁。,HealTarget,达到1级后解锁。,,,
-Basic,变形,<b>英雄技能</b>
-本回合+1攻击力。
-+1护甲值。,2,,Hero Power,CS2_017,,Neutral,Free,,Druid,,,,,,,,
+Basic,变形,<b>英雄技能</b>本回合+1攻击力。+1护甲值。,2,,Hero Power,CS2_017,,Neutral,Free,,Druid,,,,,,,,
 Basic,变形术,该随从被变形成为1/1的绵羊。,,,Enchantment,CS2_022e,,Neutral,Common,,Mage,,,,Morph,,,,
 Basic,变形术,使一个随从变形成为1/1的绵羊。,4,你能想象一个嗜血的兽人发出咩咩的叫声吗？,Spell,CS2_022,True,Neutral,Free,,Mage,Vance Kovacs,,达到47级后解锁。,,达到1级后解锁。,,,
 Basic,古尔丹,,,,Hero,HERO_07,True,Neutral,Free,30,Warlock,,,,,,,,
@@ -42,8 +38,7 @@ Basic,嗜血,在本回合中，获得+3攻击力。,,,Enchantment,CS2_046e,,,,,S
 Basic,团队领袖,你的其他随从获得+1攻击力。,3,“谁再敢OT的，扣掉50DKP！”,Minion,CS2_122,True,,Free,2,,Phill Gonzales,2,战士达到57级后解锁。,Aura,,,,
 Basic,图腾之力,+2生命值。,,,Enchantment,EX1_244e,,,,,Shaman,,,,,,,,
 Basic,图腾之力,使你的图腾获得+2生命值。,0,禁止踩踏图腾。,Spell,EX1_244,True,Neutral,Common,,Shaman,Trent Kaniuga,,达到28级后解锁。,,达到6级后解锁。,,,
-Basic,图腾召唤,<b>英雄技能</b>
-随机召唤一个图腾。,2,,Hero Power,CS2_049,,Neutral,Free,,Shaman,,,,,,,,
+Basic,图腾召唤,<b>英雄技能</b>随机召唤一个图腾。,2,,Hero Power,CS2_049,,Neutral,Free,,Shaman,,,,,,,,
 Basic,圣光术,恢复#6点生命值。,2,如果你经常暴露于圣光之下，你应该考虑随身带着防晒霜。,Spell,CS2_089,True,Neutral,Free,,Paladin,Zoltan & Gabor,,达到15级后解锁。,,达到1级后解锁。,,,
 Basic,圣光的正义,,1,玛克扎尔王子收集了不少稀有的武器，他赋予它们生命，并让它们为他起舞。,Weapon,CS2_091,True,Neutral,Free,,Paladin,Glenn Rane,1,达到36级后解锁。,,达到1级后解锁。,4,,
 Basic,地狱烈焰,对所有角色造成$3点伤害。,4,鸟尽弓藏，兔死狗烹，术士才不需要什么忠心耿耿的随从。,Spell,CS2_062,True,Neutral,Free,,Warlock,Chippy,,达到49级后解锁。,,达到1级后解锁。,,,
@@ -77,16 +72,13 @@ Basic,影袭,对敌方英雄造成$3点伤害。,1,尽管这个技能的名字�
 Basic,心灵视界,随机复制你的对手手牌中的一张牌，将其置入你的手牌。,1,你刚才做的事情我都看见了。,Spell,CS2_003,True,Neutral,Common,,Priest,Michael Komarck,,达到32级后解锁。,,达到4级后解锁。,,,
 Basic,心灵震爆,对敌方英雄造成$5点伤害。,2,这个法术直接震爆你的心灵。,Spell,DS1_233,True,Neutral,Free,,Priest,Dave Allsop,,达到15级后解锁。,,达到1级后解锁。,,,
 Basic,恐惧地狱火,<b>战吼：</b>对所有其他角色造成1点伤害。,6,“地狱火！”——加拉克苏斯，燃烧军团的艾瑞达之王,Minion,CS2_064,True,Neutral,Common,6,Warlock,Zoltan & Gabor,6,达到23级后解锁。,Battlecry,达到10级后解锁。,,,Demon
-Basic,愤怒之锤,造成$3点伤害。
-抽一张牌。,4,一个称职的圣骑士身上会携带很多工具。愤怒之锤、复仇之钳、正义之锯，等等。,Spell,CS2_094,True,Neutral,Free,,Paladin,Efrem Palacios,,达到32级后解锁。,,达到1级后解锁。,,,
+Basic,愤怒之锤,造成$3点伤害。抽一张牌。,4,一个称职的圣骑士身上会携带很多工具。愤怒之锤、复仇之钳、正义之锯，等等。,Spell,CS2_094,True,Neutral,Free,,Paladin,Efrem Palacios,,达到32级后解锁。,,达到1级后解锁。,,,
 Basic,战歌指挥官,每当你召唤一个攻击力小于或等于3的随从，使该随从获得<b>冲锋</b>。,3,战歌氏族中闹剧不断，什么三教九流的人都能当上他们的指挥官。,Minion,EX1_084,True,Neutral,Free,3,Warrior,Wei Wang,2,达到36级后解锁。,,达到1级后解锁。,,,
 Basic,打磨,这把武器本回合获得+1攻击力。,,,Enchantment,CS2_083e,,,,,Rogue,,,,OneTurnEffect,,,,
-Basic,援军,<b>英雄技能</b>
-召唤一个1/1的白银之手新兵。,2,,Hero Power,CS2_101,,Neutral,Free,,Paladin,,,,,,,,
+Basic,援军,<b>英雄技能</b>召唤一个1/1的白银之手新兵。,2,,Hero Power,CS2_101,,Neutral,Free,,Paladin,,,,,,,,
 Basic,斩杀,消灭一个受伤的敌方随从。,1,这没什么，他罪有应得。,Spell,CS2_108,True,Neutral,Free,,Warrior,Dany Orizio,,达到47级后解锁。,,达到1级后解锁。,,,
 Basic,旋风斩,对所有随从造成$1点伤害。,1,分辨资深战士和新手战士的最好办法：新手在用旋风斩时会喊“哇哇哇”。,Spell,EX1_400,True,Neutral,Common,,Warrior,Jonboy Meyers,,达到32级后解锁。,,达到6级后解锁。,,,
-Basic,星火术,造成$5点伤害。
-抽一张牌。,6,平衡对德鲁伊来说很重要。这张卡牌现在就很平衡了。,Spell,EX1_173,True,Neutral,Common,,Druid,Alex Horley Orlandelli,,达到45级后解锁。,,达到2级后解锁。,,,
+Basic,星火术,造成$5点伤害。抽一张牌。,6,平衡对德鲁伊来说很重要。这张卡牌现在就很平衡了。,Spell,EX1_173,True,Neutral,Common,,Druid,Alex Horley Orlandelli,,达到45级后解锁。,,达到2级后解锁。,,,
 Basic,暂离,你的回合时间减少。,,,Enchantment,GAME_004,,,,,,,,,,,,,
 Basic,暗影箭,对一个随从造成$4点伤害。,3,黑暗中的威胁 —— 明枪易躲，暗箭难防。,Spell,CS2_057,True,Neutral,Free,,Warlock,Dave Allsop,,达到47级后解锁。,,达到1级后解锁。,,,
 Basic,暗言术：灭,消灭一个攻击力大于或等于5的随从。,3,如果你的法术没有命中，那么你的目标身上会留下一道闪电形状的伤疤。,Spell,EX1_622,True,,Common,,Priest,Raymond Swanland,,达到43级后解锁。,,达到8级后解锁。,,,
@@ -103,8 +95,7 @@ Basic,杀戮命令,造成$3点伤害。如果你控制任何野兽，则改为�
 Basic,森林狼,你的其他野兽获得+1攻击力。,1,其他野兽最喜欢和森林狼一起外出打猎了。,Minion,DS1_175,True,Neutral,Free,1,Hunter,Malcolm Davis,1,达到23级后解锁。,Aura,达到1级后解锁。,,,Beast
 Basic,森金持盾卫士,<b>嘲讽</b>,4,如果你喜欢巨魔和沙尘的话，森金村还是个不错的地方。,Minion,CS2_179,True,Horde,Free,5,,Brian Despain,3,潜行者达到59级后解锁。,Taunt,,,,
 Basic,横扫,对一个敌人造成$4点伤害，并对所有其他敌人造成$1点伤害。,4,当一只熊向后仰身张开它的前臂时，他就要横扫！...或者拥抱你了。,Spell,CS2_012,True,Neutral,Common,,Druid,Sean O’Daniels,,达到47级后解锁。,,达到8级后解锁。,,,
-Basic,次级治疗术,<b>英雄技能</b>
-恢复2点生命值。,2,,Hero Power,CS1h_001,,Neutral,Free,,Priest,,,,,,,,
+Basic,次级治疗术,<b>英雄技能</b>恢复2点生命值。,2,,Hero Power,CS1h_001,,Neutral,Free,,Priest,,,,,,,,
 Basic,死亡缠绕,对一个随从造成$1点伤害，如果死亡缠绕将其杀死，抽一张牌。,1,很久以前，术士们发现只要在普通的法术中加入一点令人作呕的颜色，就能在伤害敌人的同时使其恐惧。真是一举两得。,Spell,EX1_302,True,Neutral,Common,,Warlock,Matt Gaser,,达到43级后解锁。,,达到4级后解锁。,,,
 Basic,毒刃,造成$1点伤害，抽一张牌。,2,毒如鹤顶，刃若清刚；图穷匕现，君命难长。,Spell,EX1_278,True,Neutral,Common,,Rogue,Alex Garner,,达到45级后解锁。,,达到6级后解锁。,,,
 Basic,水元素,<b>冻结</b>任何受到该随从伤害的角色。,4,千万别在晚会上召唤水元素。它会把一切都搞砸的。,Minion,CS2_033,True,Neutral,Common,6,Mage,John Avon,3,达到49级后解锁。,Freeze,达到8级后解锁。,,,
@@ -115,8 +106,7 @@ Basic,消失,将所有随从移回其拥有者的手牌。,6,,Spell,NEW1_004,Tru
 Basic,淡水鳄,,2,“左撇子”爱德华·史密斯曾经试着从一条淡水鳄的嘴里把行李夺回来。,Minion,CS2_120,True,,Free,3,,Daren Bader,2,德鲁伊达到55级后解锁。,,,,,Beast
 Basic,激活,仅在本回合中，获得两个法力水晶。,0,有些德鲁伊做梦时都回响着陌生人的喊叫声：“给我个激活！”,Spell,EX1_169,True,Neutral,Free,,Druid,Doug Alexander,,达到36级后解锁。,,达到1级后解锁。,,,
 Basic,火元素,<b>战吼：</b>造成3点伤害。,6,他从来不洗澡。嗯...,Minion,CS2_042,True,Neutral,Common,5,Shaman,Ralph Horsley,6,达到49级后解锁。,Battlecry,达到10级后解锁。,,,
-Basic,火焰冲击,<b>英雄技能</b>
-造成1点伤害。,2,,Hero Power,CS2_034,,Neutral,Free,,Mage,,,,,,,,
+Basic,火焰冲击,<b>英雄技能</b>造成1点伤害。,2,,Hero Power,CS2_034,,Neutral,Free,,Mage,,,,,,,,
 Basic,火球术,造成$6点伤害。,4,这个法术会让东西烧起来。如果你是在寻找能把东西烤熟，或者只是加热的法术，你就找错对象了。,Spell,CS2_029,True,Neutral,Free,,Mage,Ralph Horsley,,达到44级后解锁。,,达到1级后解锁。,,,
 Basic,火舌,火舌图腾使其获得+2攻击力。,,,Enchantment,EX1_565o,,,,,Shaman,,,,,,,,
 Basic,火舌图腾,相邻的随从获得+2攻击力。,2,图腾制造师喜欢用最稀有的木材来打造图腾。甚至有传言说，这些图腾是由埃隆巴克保护者身上的树皮做的。,Minion,EX1_565,True,Neutral,Common,3,Shaman,Jonathan Ryder,0,达到43级后解锁。,AdjacentBuff|Aura,达到4级后解锁。,,,Totem
@@ -138,14 +128,11 @@ Basic,王者祝福,使一个随从获得+4/+4。<i>（+4攻击力/+4生命值）
 Basic,王者祝福,+4/+4。,,,Enchantment,CS2_092e,,,,,Paladin,,,,,,,,
 Basic,玛法里奥·怒风,,,,Hero,HERO_06,True,Neutral,Free,30,Druid,,,,,,,,
 Basic,瓦莉拉·萨古纳尔,,,,Hero,HERO_03,True,Neutral,Free,30,Rogue,,,,,,,,
-Basic,生命分流,<b>英雄技能</b>
-抽一张牌并受到2点伤害。,2,,Hero Power,CS2_056,,Neutral,Free,,Warlock,,,,,,,,
+Basic,生命分流,<b>英雄技能</b>抽一张牌并受到2点伤害。,2,,Hero Power,CS2_056,,Neutral,Free,,Warlock,,,,,,,,
 Basic,疾跑,抽四张牌。,7,潜行者们通常都不擅长慢跑。,Spell,CS2_077,True,Neutral,Common,,Rogue,James Zhang,,达到49级后解锁。,,达到10级后解锁。,,,
 Basic,白银之手新兵,,1,,Minion,CS2_101t,,,Free,1,Paladin,,1,,,,,,
-Basic,盾牌格挡,获得5点护甲值。
-抽一张牌。,3,光有面罩是不够的，所以人们发明了盾牌。,Spell,EX1_606,True,Neutral,Common,,Warrior,Michael Komarck,,达到28级后解锁。,,达到8级后解锁。,,,
-Basic,真言术：盾,使一个随从获得+2生命值。
-抽一张牌。,1,额外的保护自然不错，但是这护盾阻碍了视野。,Spell,CS2_004,True,Neutral,Free,,Priest,Jessica Jung,,达到47级后解锁。,,达到1级后解锁。,,,
+Basic,盾牌格挡,获得5点护甲值。抽一张牌。,3,光有面罩是不够的，所以人们发明了盾牌。,Spell,EX1_606,True,Neutral,Common,,Warrior,Michael Komarck,,达到28级后解锁。,,达到8级后解锁。,,,
+Basic,真言术：盾,使一个随从获得+2生命值。抽一张牌。,1,额外的保护自然不错，但是这护盾阻碍了视野。,Spell,CS2_004,True,Neutral,Free,,Priest,Jessica Jung,,达到47级后解锁。,,达到1级后解锁。,,,
 Basic,真言术：盾,+2生命值。,,,Enchantment,CS2_004e,,,,,Priest,,,,,,,,
 Basic,真银圣剑,每当你的英雄进攻，便为其恢复2点生命值。,4,它能用来切片，也能切块。你还可以用它来开罐头。（但你不会这么做的。）,Weapon,CS2_097,True,Neutral,Common,,Paladin,Ryan Sook,4,达到40级后解锁。,,达到2级后解锁。,2,,
 Basic,石化武器,在本回合中，使一个友方角色获得+3攻击力。,1,如果你的敌人是石头做的，那就再好不过了。,Spell,CS2_045,True,Neutral,Free,,Shaman,Alex Horley Orlandelli,,达到36级后解锁。,,达到1级后解锁。,,,
@@ -159,8 +146,7 @@ Basic,神圣之灵,使一个随从的生命值翻倍。,2,加倍的付出会得�
 Basic,神圣惩击,造成$2点伤害。,1,这和多么虔诚没有关系，每个人都需要时不时有人鞭策一下。,Spell,CS1_130,True,Neutral,Free,,Priest,Steve Ellis,,达到23级后解锁。,,达到1级后解锁。,,,
 Basic,神圣新星,对所有敌方角色造成$2点伤害，为所有友方角色恢复#2点生命值。,5,没有得到圣光眷顾的人切忌使用这个法术，它滋润善者，惩罚恶徒。,Spell,CS1_112,True,Neutral,Common,,Priest,Luca Zontini,,达到45级后解锁。,,达到6级后解锁。,,,
 Basic,祭司的祝福,+1/+1。,,,Enchantment,EX1_019e,,,,,Priest,,,,,,,,
-Basic,稳固射击,<b>英雄技能</b>
-对敌方英雄造成2点伤害。,2,,Hero Power,DS1h_292,,Neutral,Free,,Hunter,,,,,,,,
+Basic,稳固射击,<b>英雄技能</b>对敌方英雄造成2点伤害。,2,,Hero Power,DS1h_292,,Neutral,Free,,Hunter,,,,,,,,
 Basic,空气之怒图腾,<b>法术伤害+1</b>,1,,Minion,CS2_052,,Neutral,Free,2,Shaman,,0,,Spellpower,,,,Totem
 Basic,竞技场主宰,<b>嘲讽</b>,6,他曾经是一个2100分段的竞技场高端玩家。但那已经是几年前的事情了，而且没人能阻止他继续吹嘘这件事。,Minion,CS2_162,True,Alliance,Common,5,,E.M. Gist,6,牧师达到59级后解锁。,Taunt,,,,
 Basic,米莎,<b>嘲讽</b>,3,,Minion,NEW1_032,,,Common,4,Hunter,,4,,Taunt,,,,Beast

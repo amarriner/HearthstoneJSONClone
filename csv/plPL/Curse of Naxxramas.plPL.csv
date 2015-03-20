@@ -11,16 +11,12 @@ HEALTH,SET,TYPE,ID,NAME,MECHANICS,COLLECTIBLE,ARTIST,ELITE,TEXT,RARITY,ATTACK,CO
 ,Curse of Naxxramas,Enchantment,NAX12_03e,Dodatkowe zęby,,,,,Zwiększony atak.,,,,,,,,,
 2,Curse of Naxxramas,Minion,FP1_019t,Drzewiec,,,,,,,2,1,,,,Druid,,
 ,Curse of Naxxramas,Spell,FP1_018,Duplikacja,Secret,True,Alex Garner,,<b>Sekret:</b> Gdy zginie przyjazny stronnik umieść 2 kopie jego karty w twojej ręce.,Common,,3,Można wykonać po ukończeniu wyzwania klasowego dla maga w Naxxramas.,Zaklęcie zapewnia magom stałą liczbę uczniów gotowych do asystowania przy niebezpiecznych eksperymentach.,Aby odblokować ukończ wyzwanie klasowe dla maga w Naxxramas.,Mage,,
-,Curse of Naxxramas,Hero Power,NAX12_02H,Dziesiątkowanie,,,,,<b>Moc specjalna</b>
-Zmień zdrowie wrogich stronników na 1.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX12_02H,Dziesiątkowanie,,,,,<b>Moc specjalna</b>Zmień zdrowie wrogich stronników na 1.,,,0,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX12_02e,Dziesiątkowanie,,,,,Zdrowie zmienione na 1.,,,,,,,,,
-,Curse of Naxxramas,Hero Power,NAX12_02,Dziesiątkowanie,,,,,<b>Moc specjalna</b>
-Zmień zdrowie wszystkich stronników na 1.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX12_02,Dziesiątkowanie,,,,,<b>Moc specjalna</b>Zmień zdrowie wszystkich stronników na 1.,,,2,,,,,,
 ,Curse of Naxxramas,Spell,NAX6_04,Eksplozja zarodników,,,,,Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom. Przyzwij Zarodnik.,,,1,,,,,,
-,Curse of Naxxramas,Hero Power,NAX5_02,Erupcja,,,,,<b>Moc specjalna</b>
-Zadaj 2 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,1,,,,,,
-,Curse of Naxxramas,Hero Power,NAX5_02H,Erupcja,,,,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX5_02,Erupcja,,,,,<b>Moc specjalna</b>Zadaj 2 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,1,,,,,,
+,Curse of Naxxramas,Hero Power,NAX5_02H,Erupcja,,,,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,0,,,,,,
 7,Curse of Naxxramas,Minion,NAX13_04H,Feugen,,,,True,,Legendary,4,5,,,,,,
 7,Curse of Naxxramas,Minion,FP1_015,Feugen,Deathrattle,True,Dany Orizio,True,<b>Agonia:</b> Jeśli podczas tej partii zginął także Stalag przyzwij Thadiusa.,Legendary,4,5,Można wykonać po przejściu Rewiru Konstruktów.,„Stalag - brzyyydal!” - Feugen,Aby odblokować ukończ Rewir Konstruktów.,,,
 45,Curse of Naxxramas,Hero,NAX12_01H,Glut,,,,,,,,,,,,,,
@@ -30,8 +26,7 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,0,,,,,,
 2,Curse of Naxxramas,Minion,FP1_028,Grabarz,,True,Jonboy Meyers,,Otrzymuje +1 do ataku za każdym razem gdy przyzywasz stronnika z <b>Agonią</b>.,Common,1,1,Można wykonać po pokonaniu Łaciora w Rewirze Konstruktów.,Służba u Kel&sbquo;Thuzada wymaga wielu wyrzeczeń. Grabarz przykładowo musiał rozstać się ze swoją ulubioną pidżamą.,Aby odblokować pokonaj Łaciora w Rewirze Konstruktów.,,,
 45,Curse of Naxxramas,Hero,NAX11_01H,Grobulus,,,,,,,,,,,,,,
 30,Curse of Naxxramas,Hero,NAX11_01,Grobulus,,,,,,,,,,,,,,
-,Curse of Naxxramas,Weapon,NAX10_02H,Hak,Deathrattle|Windfury,,,,<b>Furia wichru</b>
-<b>Agonia:</b> Weź tę broń do ręki.,,4,3,,,,,8,
+,Curse of Naxxramas,Weapon,NAX10_02H,Hak,Deathrattle|Windfury,,,,<b>Furia wichru</b><b>Agonia:</b> Weź tę broń do ręki.,,4,3,,,,,8,
 ,Curse of Naxxramas,Weapon,NAX10_02,Hak,Deathrattle,,,,<b>Agonia:</b> Weź tę broń do ręki.,,5,3,,,,,8,
 45,Curse of Naxxramas,Hero,NAX5_01H,Heigan Nieczysty,,,,,,,,,,,,Warlock,,
 30,Curse of Naxxramas,Hero,NAX5_01,Heigan Nieczysty,,,,,,,,,,,,Warlock,,
@@ -49,31 +44,24 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.,,,0,,,,,,
 30,Curse of Naxxramas,Hero,NAX10_01,Łacior,,,,,,,,,,,,,,
 7,Curse of Naxxramas,Minion,NAX9_02H,Lady Blaumeux,,,,True,Twój bohater posiada <b>Niewrażliwość</b>.,,2,3,,,,,,
 7,Curse of Naxxramas,Minion,NAX9_02,Lady Blaumeux,,,,True,Twój bohater posiada <b>Niewrażliwość</b>.,,1,3,,,,,,
-,Curse of Naxxramas,Hero Power,NAX15_04H,Łańcuchy,,,,,<b>Moc specjalna</b>
-Przejmij kontrolę nad losowym wrogim stronnikiem.,,,8,,,,,,
-,Curse of Naxxramas,Hero Power,NAX15_04,Łańcuchy,,,,,<b>Moc specjalna</b>
-Do końca tury przejmij kontrolę nad losowym wrogim stronnikiem.,,,8,,,,,,
-,Curse of Naxxramas,Hero Power,NAX15_02H,Lodowy pocisk,Freeze,,,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.,,,0,,,,,,
-,Curse of Naxxramas,Hero Power,NAX15_02,Lodowy pocisk,Freeze,,,,<b>Moc specjalna</b>
-Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX15_04H,Łańcuchy,,,,,<b>Moc specjalna</b>Przejmij kontrolę nad losowym wrogim stronnikiem.,,,8,,,,,,
+,Curse of Naxxramas,Hero Power,NAX15_04,Łańcuchy,,,,,<b>Moc specjalna</b>Do końca tury przejmij kontrolę nad losowym wrogim stronnikiem.,,,8,,,,,,
+,Curse of Naxxramas,Hero Power,NAX15_02H,Lodowy pocisk,Freeze,,,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX15_02,Lodowy pocisk,Freeze,,,,<b>Moc specjalna</b>Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.,,,0,,,,,,
 8,Curse of Naxxramas,Minion,FP1_010,Maexxna,Poisonous,True,Howard Lyon,True,Zniszcz każdego stronnika zranionego przez tego stronnika.,Legendary,2,6,Można wykonać po przejściu Rewiru Arachnidów.,W wolnych chwilach uwielbia grać na skrzypcach doprowadzając Kel&sbquo;Thuzada do szału.,Aby odblokować ukończ Rewir Arachnidów.,,,Beast
 30,Curse of Naxxramas,Hero,NAX3_01,Maexxna,,,,,,,,,,,,,,
 45,Curse of Naxxramas,Hero,NAX3_01H,Maexxna,,,,,,,,,,,,,,
 ,Curse of Naxxramas,Enchantment,FP1_005e,Moc cieni,,,,,Zwiększone statystyki.,,,,,,,,,
 ,Curse of Naxxramas,Spell,NAX5_03,Mózgotrzep,,,,,Każdy gracz dobiera po 2 karty i otrzymuje kryształ many.,,,2,,,,,,
 4,Curse of Naxxramas,Minion,FP1_023,Mroczny kultysta,Deathrattle,True,Phroilan Gardner,,<b>Agonia:</b> Daj losowemu przyjaznemu stronnikowi +3 do zdrowia.,Common,3,3,Można wykonać po ukończeniu wyzwania klasowego dla kapłana w Naxxramas.,Kult Potępionych posiada własną kapelę której koncerty są niezwykle popularne - szczególnie wśród młodzieży akademickiej.,Aby odblokować ukończ wyzwanie klasowe dla kapłana w Naxxramas.,Priest,,
-,Curse of Naxxramas,Hero Power,NAX14_02,Mrożące zionięcie,,,,,<b>Moc specjalna</b>
-Zniszcz wszystkich wrogich stronników którzy nie są <b>Zamrożeni</b>.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX14_02,Mrożące zionięcie,,,,,<b>Moc specjalna</b>Zniszcz wszystkich wrogich stronników którzy nie są <b>Zamrożeni</b>.,,,0,,,,,,
 ,Curse of Naxxramas,Spell,NAX11_04,Mutujący zastrzyk,,,,,Daj stronnikowi +4/+4 oraz <b>Prowokację</b>.,,,3,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX11_04e,Mutujący zastrzyk,,,,,+4/+4 oraz <b>Prowokacja</b>.,,,,,,,,,
 5,Curse of Naxxramas,Minion,FP1_026,Napastnik anub&sbquo;arów,Deathrattle,True,Nate Bowden,,<b>Agonia:</b> Cofnij losowego przyjaznego stronnika na twoją rękę.,Common,5,4,Można wykonać po ukończeniu wyzwania klasowego dla łotra w Naxxramas.,Zaczynał jako bramkarz ale trener poznał się na jego prawdziwym talencie.,Aby odblokować ukończ wyzwanie klasowe dla łotra w Naxxramas.,Rogue,,
 6,Curse of Naxxramas,Minion,NAXM_001,Nekrorycerz,Deathrattle,,,,<b>Agonia:</b> Zniszcz także sąsiadujących stronników.,,5,4,,,,,,
-,Curse of Naxxramas,Hero Power,NAX6_02,Nekrotyczna aura,,,,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX6_02,Nekrotyczna aura,,,,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.,,,2,,,,,,
 ,Curse of Naxxramas,Enchantment,FP1_030e,Nekrotyczna aura,,,,,W tej turze twoje zaklęcia kosztują (5) więcej.,,,,,,,,,
-,Curse of Naxxramas,Hero Power,NAX6_02H,Nekrotyczna aura,,,,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX6_02H,Nekrotyczna aura,,,,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.,,,0,,,,,,
 ,Curse of Naxxramas,Spell,NAX3_03,Nekrotyczna trucizna,,,,,Zniszcz stronnika.,,,2,,,,,,
 4,Curse of Naxxramas,Minion,FP1_007t,Nerubianin,,,,,,Rare,4,3,,,,,,
 1,Curse of Naxxramas,Minion,NAX1_03,Nerubianin,,,,,,,3,2,,,,,,
@@ -81,49 +69,36 @@ Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.,,,0,,,,,,
 2,Curse of Naxxramas,Minion,FP1_007,Nerubiańskie jajo,Deathrattle,True,Justin Thavirat,,<b>Agonia:</b> Przyzwij Nerubianina 4/4.,Rare,0,2,Można wykonać po pokonaniu Maexxny w Rewirze Arachnidów.,Wielcy filozofowie Azeroth często zadają pytanie: co było pierwsze - jajo czy nerubianin?,Aby odblokować pokonaj Maexxnę w Rewirze Arachnidów.,,,
 45,Curse of Naxxramas,Hero,NAX4_01H,Nicz Siewca Zarazy,,,,,,,,,,,,Mage,,
 30,Curse of Naxxramas,Hero,NAX4_01,Nicz Siewca Zarazy,,,,,,,,,,,,Mage,,
-,Curse of Naxxramas,Hero Power,NAX10_03,Nienawistny cios,,,,,<b>Moc specjalna</b>
-Zniszcz stronnika.,,,4,,,,,,
-,Curse of Naxxramas,Hero Power,NAX10_03H,Nienawistny cios,,,,,<b>Moc specjalna</b>
-Zniszcz stronnika.,,,4,,,,,,
+,Curse of Naxxramas,Hero Power,NAX10_03,Nienawistny cios,,,,,<b>Moc specjalna</b>Zniszcz stronnika.,,,4,,,,,,
+,Curse of Naxxramas,Hero Power,NAX10_03H,Nienawistny cios,,,,,<b>Moc specjalna</b>Zniszcz stronnika.,,,4,,,,,,
 3,Curse of Naxxramas,Minion,FP1_024,Niestabilny ghul,Deathrattle|Taunt,True,Mike Nicholson,,<b>Prowokacja</b>. <b>Agonia:</b> Zadaj 1 pkt. obrażeń wszystkim stronnikom.,Common,1,2,Można wykonać po pokonaniu Heigana Nieczystego w Rewirze Zarazy.,Wypełnianie ghuli paliwem rakietowym to najnowsza moda wśród młodocianych nekromantów.,Aby odblokować pokonaj Heigana Nieczystego w Rewirze Zarazy.,,,
 2,Curse of Naxxramas,Minion,NAX8_03,Nieustępliwy giermek,Deathrattle,,,,<b>Agonia:</b> Przyzwij Widmowego giermka dla przeciwnika.,,2,1,,,,,,
 6,Curse of Naxxramas,Minion,NAX8_05,Nieustępliwy jeździec,Deathrattle,,,,<b>Agonia:</b> Przyzwij Widmowego jeźdźca dla przeciwnika.,,5,6,,,,,,
 4,Curse of Naxxramas,Minion,NAX8_04,Nieustępliwy wojownik,Deathrattle,,,,<b>Agonia:</b> Przyzwij Widmowego wojownika dla przeciwnika.,,3,3,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX15_04a,Niewolnik Kel&sbquo;Thuzada,,,,,MOJE!,,,,,,,,,
-,Curse of Naxxramas,Hero Power,NAX2_03H,Ognisty deszcz,ImmuneToSpellpower,,,,<b>Moc specjalna</b>
-Wystrzel pocisk za każdą kartę w ręce przeciwnika.,,,1,,,,,,
-,Curse of Naxxramas,Hero Power,NAX2_03,Ognisty deszcz,ImmuneToSpellpower,,,,<b>Moc specjalna</b>
-Wystrzel pocisk za każdą kartę w ręce przeciwnika.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX2_03H,Ognisty deszcz,ImmuneToSpellpower,,,,<b>Moc specjalna</b>Wystrzel pocisk za każdą kartę w ręce przeciwnika.,,,1,,,,,,
+,Curse of Naxxramas,Hero Power,NAX2_03,Ognisty deszcz,ImmuneToSpellpower,,,,<b>Moc specjalna</b>Wystrzel pocisk za każdą kartę w ręce przeciwnika.,,,2,,,,,,
 ,Curse of Naxxramas,Weapon,NAX7_04,Ogromne Runiczne Ostrze,,,,,Zadaje podwójne obrażenia bohaterom.,,5,3,,,,,2,
 ,Curse of Naxxramas,Weapon,NAX7_04H,Ogromne Runiczne Ostrze,,,,,Zadaje podwójne obrażenia bohaterom.,,10,3,,,,,2,
 75,Curse of Naxxramas,Hero,NAX6_01,Ohydziarz,,,,,,,,,,,,,,
 5,Curse of Naxxramas,Minion,FP1_030,Ohydziarz,Battlecry,True,Samwise,True,<b>Okrzyk bojowy:</b> W następnej turze zaklęcia przeciwnika kosztują (5) więcej.,Legendary,5,5,Można wykonać po ukończeniu Rewiru Zarazy.,Ohydziarz był niegdyś zwykłym bagiennym stworem. Ale mu przeszło.,Aby odblokować ukończ Rewir Zarazy.,,,
 99,Curse of Naxxramas,Hero,NAX6_01H,Ohydziarz,,,,,,,,,,,,,,
-,Curse of Naxxramas,Hero Power,NAX4_04H,Ożywienie zmarłych,,,,,<b>Pasywna moc specjalna</b>
-Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 5/5.,,,0,,,,,,
-,Curse of Naxxramas,Hero Power,NAX4_04,Ożywienie zmarłych,,,,,<b>Pasywna moc specjalna</b>
-Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 1/1.,,,0,,,,,,
-,Curse of Naxxramas,Hero Power,NAX1h_04,Pajęczy zew,,,,,<b>Moc specjalna</b>
-Przyzwij Nerubianina 4/4.,,,2,,,,,,
-,Curse of Naxxramas,Hero Power,NAX1_04,Pajęczy zew,,,,,<b>Moc specjalna</b>
-Przyzwij Nerubianina 3/1.,,,2,,,,,,
-,Curse of Naxxramas,Hero Power,NAX3_02H,Pajęczyna,,,,,<b>Moc specjalna</b>
-Cofnij 2 losowych wrogich stronników na rękę przeciwnika.,,,0,,,,,,
-,Curse of Naxxramas,Hero Power,NAX3_02,Pajęczyna,,,,,<b>Moc specjalna</b>
-Cofnij losowego wrogiego stronnika na rękę przeciwnika.,,,3,,,,,,
+,Curse of Naxxramas,Hero Power,NAX4_04H,Ożywienie zmarłych,,,,,<b>Pasywna moc specjalna</b>Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 5/5.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX4_04,Ożywienie zmarłych,,,,,<b>Pasywna moc specjalna</b>Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 1/1.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX1h_04,Pajęczy zew,,,,,<b>Moc specjalna</b>Przyzwij Nerubianina 4/4.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX1_04,Pajęczy zew,,,,,<b>Moc specjalna</b>Przyzwij Nerubianina 3/1.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX3_02H,Pajęczyna,,,,,<b>Moc specjalna</b>Cofnij 2 losowych wrogich stronników na rękę przeciwnika.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX3_02,Pajęczyna,,,,,<b>Moc specjalna</b>Cofnij losowego wrogiego stronnika na rękę przeciwnika.,,,3,,,,,,
 1,Curse of Naxxramas,Minion,NAX15_05,Pan Sierściuch,,,,True,<i>To kotek Kel&sbquo;Thuzada.</i>,Legendary,1,0,,,,,,Beast
 8,Curse of Naxxramas,Minion,FP1_009,Pan Śmierci,Deathrattle|Taunt,True,Ben Olson,,<b>Prowokacja</b>. <b>Agonia:</b> Twój przeciwnik umieszcza losowego stronnika ze swojej talii na polu bitwy.,Rare,2,3,Można wykonać po pokonaniu Czterech Jeźdźców w Rewirze Zbrojnych.,„Powstańcie z grobów! Tylko bez mikrobów!” - Kel&sbquo;Thuzad,Aby odblokować pokonaj Czterech Jeźdźców w Rewirze Zbrojnych.,,,
 ,Curse of Naxxramas,Enchantment,FP1_020e,Pomsta,,,,,+3/+2.,,,,,,,Paladin,,
 ,Curse of Naxxramas,Spell,FP1_020,Pomsta,Secret,True,Zoltan & Gabor,,<b>Sekret:</b> Gdy jeden z twoich stronników zginie daj losowemu przyjaznemu stronnikowi +3/+2.,Common,,1,Można wykonać po ukończeniu wyzwania klasowego dla paladyna w Naxxramas.,Kilku paladynów zebrało się razem by założyć organizację „Prawość i Sprawiedliwość” ale zmienili zdanie pod wpływem nacisków politycznych.,Aby odblokować ukończ wyzwanie klasowe dla paladyna w Naxxramas.,Paladin,,
 2,Curse of Naxxramas,Minion,NAX11_03,Popromienny śluz,,,,,,,2,1,,,,,,
 ,Curse of Naxxramas,Enchantment,FP1_023e,Potęga Ziguratu,,,,,+3 do zdrowia.,,,,,,,Priest,,
-,Curse of Naxxramas,Hero Power,NAX7_03H,Powalające uderzenie,,,,,<b>Moc specjalna</b>
-Zadaj 4 pkt. obrażeń.,,,1,,,,,,
-,Curse of Naxxramas,Hero Power,NAX7_03,Powalające uderzenie,,,,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX7_03H,Powalające uderzenie,,,,,<b>Moc specjalna</b>Zadaj 4 pkt. obrażeń.,,,1,,,,,,
+,Curse of Naxxramas,Hero Power,NAX7_03,Powalające uderzenie,,,,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń.,,,2,,,,,,
 ,Curse of Naxxramas,Spell,NAX14_04,Przejmujące zimno,Freeze,,,,Zadaj $8 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.,,,5,,,,,,
-,Curse of Naxxramas,Hero Power,NAX9_06,Przeklęty cień,,,,,<b>Moc specjalna</b>
-Dobierz 2 karty.,,,5,,,,,,
+,Curse of Naxxramas,Hero Power,NAX9_06,Przeklęty cień,,,,,<b>Moc specjalna</b>Dobierz 2 karty.,,,5,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX6_03te,Przyrost grzybni,,,,,Zwiększony atak.,,,,,,,,,
 ,Curse of Naxxramas,Spell,FP1_025,Reinkarnacja,,True,Dan Scott,,Zniszcz stronnika a następnie przywróć go do życia z pełnym zdrowiem.,Common,,2,Można wykonać po ukończeniu wyzwania klasowego dla szamana w Naxxramas.,Wstajesz z grobu jak nowonarodzony... i nawet nie musisz czekać trzech dni!,Aby odblokować ukończ wyzwanie klasowe dla szamana w Naxxramas.,Shaman,,
 2,Curse of Naxxramas,Minion,FP1_003,Replikujący szlam,Battlecry,True,Eric Browning,,<b>Okrzyk bojowy:</b> Przyzwij dokładną kopię tego stronnika na koniec tej tury.,Epic,1,2,Można wykonać po pokonaniu Szafirona w Leżu Żmija Mrozu.,Powód dla którego w Naxxramas wodę należy spuszczać zawsze dwa razy.,Aby odblokować pokonaj Szafirona w Leżu Żmija Mrozu.,,,
@@ -134,8 +109,7 @@ Dobierz 2 karty.,,,5,,,,,,
 7,Curse of Naxxramas,Minion,NAX9_04H,Sir Zelog,,,,True,Twój bohater posiada <b>Niewrażliwość</b>.,,2,3,,,,,,
 7,Curse of Naxxramas,Minion,NAX9_04,Sir Zelog,,,,True,Twój bohater posiada <b>Niewrażliwość</b>.,,1,3,,,,,,
 2,Curse of Naxxramas,Minion,FP1_012t,Śluz,Taunt,,,,<b>Prowokacja</b>,,1,1,,,,,,
-5,Curse of Naxxramas,Minion,FP1_012,Śluzożer,Deathrattle|Taunt,True,Nate Bowden,,<b>Prowokacja.
-Agonia:</b> Przyzwij Śluz 1/2 z <b>Prowokacją</b>.,Rare,3,5,Można wykonać po pokonaniu Ohydziarza w Rewirze Zarazy.,Po zjedzeniu śluzu czasem mu odbija.,Aby odblokować pokonaj Ohydziarza w Rewirze Zarazy.,,,
+5,Curse of Naxxramas,Minion,FP1_012,Śluzożer,Deathrattle|Taunt,True,Nate Bowden,,<b>Prowokacja.Agonia:</b> Przyzwij Śluz 1/2 z <b>Prowokacją</b>.,Rare,3,5,Można wykonać po pokonaniu Ohydziarza w Rewirze Zarazy.,Po zjedzeniu śluzu czasem mu odbija.,Aby odblokować pokonaj Ohydziarza w Rewirze Zarazy.,,,
 ,Curse of Naxxramas,Spell,NAX6_03,Śmiertelny rozkwit,,,,,Zadaj $5 pkt. obrażeń stronnikowi. Przyzwij Zarodnik.,,,4,,,,,,
 4,Curse of Naxxramas,Minion,FP1_014,Stalag,Deathrattle,True,Dany Orizio,True,<b>Agonia:</b> Jeśli podczas tej partii zginął także Feugen przyzwij Thadiusa.,Legendary,7,5,Można wykonać po przejściu Rewiru Konstruktów.,„Feugen - brzyyydal!” - Stalag,Aby odblokować ukończ Rewir Konstruktów.,,,
 4,Curse of Naxxramas,Minion,NAX13_05H,Stalag,,,,True,,Legendary,7,5,,,,,,
@@ -160,10 +134,8 @@ Agonia:</b> Przyzwij Śluz 1/2 z <b>Prowokacją</b>.,Rare,3,5,Można wykonać po
 30,Curse of Naxxramas,Hero,NAX13_01,Thadius,,,,,,,,,,,,,,
 45,Curse of Naxxramas,Hero,NAX13_01H,Thadius,,,,,,,,,,,,,,
 1,Curse of Naxxramas,Minion,FP1_011,Tkacz sieci,Deathrattle,True,Dan Brereton,,<b>Agonia:</b> Dodaj losową kartę Bestii do twojej ręki.,Common,1,1,Można wykonać po ukończeniu wyzwania klasowego dla łowcy w Naxxramas.,Pajęcze kokony są jak jajka niespodzianki!,Aby odblokować ukończ wyzwanie klasowe dla łowcy w Naxxramas.,Hunter,,Beast
-,Curse of Naxxramas,Hero Power,NAX11_02,Trujący obłok,,,,,<b>Moc specjalna</b>
-Zadaj 1 pkt. obrażeń wszystkim stronnikom. Jeśli któryś zginie przyzwij śluz.,,,2,,,,,,
-,Curse of Naxxramas,Hero Power,NAX11_02H,Trujący obłok,,,,,<b>Moc specjalna</b>
-Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie przyzwij śluz.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX11_02,Trujący obłok,,,,,<b>Moc specjalna</b>Zadaj 1 pkt. obrażeń wszystkim stronnikom. Jeśli któryś zginie przyzwij śluz.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX11_02H,Trujący obłok,,,,,<b>Moc specjalna</b>Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie przyzwij śluz.,,,0,,,,,,
 7,Curse of Naxxramas,Minion,NAX7_02,Uczeń,Taunt,,,,<b>Prowokacja</b>,,0,2,,,,,,
 ,Curse of Naxxramas,Weapon,FP1_021,Ukąszenie Śmierci,Deathrattle,True,Jim Nelson,,<b>Agonia:</b> Zadaj 1 pkt. obrażeń wszystkim stronnikom.,Common,4,4,Można wykonać po ukończeniu wyzwania klasowego dla wojownika w Naxxramas.,Do standardowego wyposażenia rycerzy śmierci należą między innymi: rumak śmierci pancerz śmierci plecak śmierci i mydło śmierci.,Aby odblokować ukończ wyzwanie klasowe dla wojownika w Naxxramas.,Warrior,2,
 2,Curse of Naxxramas,Minion,FP1_002,Upiorny pajęczak,Deathrattle,True,Jeremy Cranford,,<b>Agonia:</b> Przyzwij dwa Widmowe pająki 1/1.,Common,1,2,Można wykonać po pokonaniu Anub&sbquo;Rekhana w Rewirze Arachnidów.,Potrawka z pajęczaka może zawierać znaczące ilości składników arachnidowych.,Aby odblokować pokonaj Anub&sbquo;Rekhana w Rewirze Arachnidów.,,,Beast
@@ -180,13 +152,10 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie przyzwij śluz.,
 1,Curse of Naxxramas,Minion,NAX6_03t,Zarodnik,Deathrattle,,,,<b>Agonia:</b> Daj wszystkim wrogim stronnikom +8 do ataku.,,0,0,,,,,,
 ,Curse of Naxxramas,Spell,FP1_019,Zatrute nasiona,,True,Brian Despain,,Zniszcz wszystkich stronników i przyzwij na ich miejsce Drzewce 2/2.,Common,,4,Można wykonać po ukończeniu wyzwania klasowego dla druida w Naxxramas.,Druidzkie bułeczki z nasionami sprzedawały się świetnie nawet gdy w pobliżu sklepików zaczęły powstawać tartaki goblińskiej spółki Gitgeszeft.,Aby odblokować ukończ wyzwanie klasowe dla druida w Naxxramas.,Druid,,
 5,Curse of Naxxramas,Minion,FP1_016,Zawodząca dusza,Battlecry,True,Glenn Rane,,<b>Okrzyk bojowy: Wycisz</b> swoich pozostałych stronników.,Rare,3,4,Można wykonać po pokonaniu Thadiusa w Rewirze Konstruktów.,Ta dusza poczuła tak wielki zawód że jej zawodem stało się zawodzenie.,Aby odblokować pokonaj Thadiusa w Rewirze Konstruktów.,,,
-,Curse of Naxxramas,Hero Power,NAX13_02,Zmiana biegunów,,,,,<b>Moc specjalna</b>
-Zamień atak i zdrowie wszystkich stronników.,,,0,,,,,,
+,Curse of Naxxramas,Hero Power,NAX13_02,Zmiana biegunów,,,,,<b>Moc specjalna</b>Zamień atak i zdrowie wszystkich stronników.,,,0,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX13_02e,Zmiana biegunów,,,,,Zamieniony atak i zdrowie.,,,,,,,,,
 ,Curse of Naxxramas,Spell,NAX9_07,Znak Jeźdźców,,,,,Daj twoim stronnikom oraz twojej broni +1/+1.,,,5,,,,,,
 ,Curse of Naxxramas,Enchantment,NAX9_07e,Znak Jeźdźców,,,,,+1/+1.,,,,,,,,,
-,Curse of Naxxramas,Hero Power,NAX8_02H,Żniwa,,,,,<b>Moc specjalna</b>
-Dobierz kartę. Otrzymujesz kryształ many.,,,1,,,,,,
-,Curse of Naxxramas,Hero Power,NAX8_02,Żniwa,,,,,<b>Moc specjalna</b>
-Dobierz kartę.,,,2,,,,,,
+,Curse of Naxxramas,Hero Power,NAX8_02H,Żniwa,,,,,<b>Moc specjalna</b>Dobierz kartę. Otrzymujesz kryształ many.,,,1,,,,,,
+,Curse of Naxxramas,Hero Power,NAX8_02,Żniwa,,,,,<b>Moc specjalna</b>Dobierz kartę.,,,2,,,,,,
 3,Curse of Naxxramas,Minion,FP1_001,Zombiak,Deathrattle,True,E. M. Gist,,<b>Agonia:</b> Przywróć 5 pkt. zdrowia wrogiemu bohaterowi.,Common,2,1,Można wykonać po pokonaniu Gluta w Rewirze Konstruktów.,Glut uwielbia wrzucić sobie zombiaka na ząb. Najbardziej lubi żuć zombie z człowieka gumy.,Aby odblokować pokonaj Gluta w Rewirze Konstruktów.,,,

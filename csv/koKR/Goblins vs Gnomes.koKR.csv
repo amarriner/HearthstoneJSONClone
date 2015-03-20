@@ -1,12 +1,9 @@
 MECHANICS,SET,NAME,ARTIST,ELITE,TEXT,RARITY,ATTACK,COST,HEALTH,RACE,TYPE,ID,COLLECTIBLE,FLAVOR,PLAYERCLASS,DURABILITY
-Charge,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,True,<b>돌진</b>
-<b>광풍</b> <i>(한 턴에 4번 공격 가능)</i>,Legendary,4,8,8,Mech,Minion,GVG_111t,,,,
+Charge,Goblins vs Gnomes,V-07-TR-0N,Chris Seaman,True,<b>돌진</b><b>광풍</b> <i>(한 턴에 4번 공격 가능)</i>,Legendary,4,8,8,Mech,Minion,GVG_111t,,,,
 ,Goblins vs Gnomes,가루바위 트로그,Peet Cooper,,상대편이 주문을 시전할 때마다 공격력을 +1 얻습니다.,Common,2,2,3,,Minion,GVG_067,True,트로그 냄새가 그렇게 고약하다지만 트로그 시 낭송 듣기보다는 낫답니다.,,
 ,Goblins vs Gnomes,가즈로,Luke Mancini,True,1 마나 주문을 시전할 때마다 무작위 기계 하수인 하나를 내 손으로 가져옵니다.,Legendary,3,6,6,,Minion,GVG_117,True,가즈로는 고등학교 때 &bdquo;뭐든 가장 잘 폭발시키는 친구&bdquo; 1위로 선정되었습니다.,,
 ,Goblins vs Gnomes,가즈릴라,Raymond Swanland,True,이 하수인은 피해를 입을 때마다 공격력이 2배가 됩니다.,Legendary,6,7,9,Beast,Minion,GVG_049,True,가즈릴라 사냥의 마무리는 항상 무두질이죠.,Hunter,
-,Goblins vs Gnomes,강철 사부,Brian Despain,,내 턴이 끝날 때 다른 아군 기계 하수인 하나에게 +2/+2를 부여합니다.,Rare,2,3,2,Mech,Minion,GVG_027,True,보통 사람이 우리 사부님께 배우기는 참으로 어려운 것 같습니다. 
-
-01000111101001001이 무슨 뜻일까요?,Rogue,
+,Goblins vs Gnomes,강철 사부,Brian Despain,,내 턴이 끝날 때 다른 아군 기계 하수인 하나에게 +2/+2를 부여합니다.,Rare,2,3,2,Mech,Minion,GVG_027,True,보통 사람이 우리 사부님께 배우기는 참으로 어려운 것 같습니다. 01000111101001001이 무슨 뜻일까요?,Rogue,
 ,Goblins vs Gnomes,강철 이빨,,,공격력 +2,,,,,,Enchantment,GVG_048e,,,Hunter,
 Battlecry,Goblins vs Gnomes,강철니 표범로봇,Hideaki Takamura,,<b>전투의 함성</b>: 내 다른 기계 하수인들에게 공격력을 +2 부여합니다.,Rare,3,3,3,Mech,Minion,GVG_048,True,비를 맞히지 마세요. 녹슨니 표범로봇이 될 수도 있습니다.,Hunter,
 Battlecry,Goblins vs Gnomes,강철의 거대괴수,Raymond Swanland,True,<b>전투의 함성:</b> 상대편의 덱에 지뢰 카드를 섞어 넣습니다. 상대편이 지뢰를 뽑으면 폭발하며 피해를 10 줍니다.,Legendary,6,6,5,Mech,Minion,GVG_056,True,강철의 거대괴수는 오그리마를 지킵니다. &bdquo;이달의 직원&bdquo; 상도 받았다네요!,Warrior,
@@ -16,8 +13,7 @@ Battlecry,Goblins vs Gnomes,강철의 거대괴수,Raymond Swanland,True,<b>전�
 Deathrattle,Goblins vs Gnomes,강화 철퇴,Zoltan and Gabor,,<b>죽음의 메아리</b>: 무작위 아군 기계 하수인 하나에게 +2/+2를 부여합니다.,Rare,3,3,,,Weapon,GVG_036,True,과연 주술사들이 정령을 부리는 걸까요? 사실 주술사들은 정령에게 손이 발이 되도록 빌고 정령들은 &bdquo;뭐 까짓것 도와줄까?&bdquo;하는 입장이랍니다.,Shaman,2
 ,Goblins vs Gnomes,강화됨,,,+2/+2,,,,,,Enchantment,GVG_036e,,,Shaman,
 Battlecry,Goblins vs Gnomes,강화로봇,Zoltan Boros,,<b>전투의 함성:</b> 내 다른 하수인들에게 무작위로 <b>질풍</b> <b>도발</b> <b>천상의 보호막</b> 중 하나를 부여합니다.,Epic,3,4,2,Mech,Minion,GVG_107,True,전 왜 질풍만 걸리는 걸까요?,,
-,Goblins vs Gnomes,갤리웍스의 동전,,,이번 턴에만 마나 수정을 1개 획득합니다.
-<i>(갤리윅스의 효과를 발동시키지 않습니다.)</i>,,,0,,,Spell,GVG_028t,,,,
+,Goblins vs Gnomes,갤리웍스의 동전,,,이번 턴에만 마나 수정을 1개 획득합니다.<i>(갤리윅스의 효과를 발동시키지 않습니다.)</i>,,,0,,,Spell,GVG_028t,,,,
 ,Goblins vs Gnomes,거대 화염전차,Aleksi Briclot,True,이 카드를 뽑을 때 <b>모든</b> 캐릭터에게 피해를 2 줍니다.,Legendary,7,7,7,Mech,Minion,GVG_007,True,미미론은 가끔씩 거대 화염전차에 올라 폭주 드라이빙을 즐기곤 한답니다.,Mage,
 ,Goblins vs Gnomes,거미 전차,Dany Orizio,,,Common,3,3,4,Mech,Minion,GVG_044,True,&bdquo;여기 총을 달아보면 어떨까?&bdquo; - 피즈블리츠 거미 자동차를 바라보며.,,
 ,Goblins vs Gnomes,거인 태엽돌이,Dan Scott,,상대편의 손에 있는 카드 1장당 비용이 (1)씩 감소합니다.,Epic,8,12,8,Mech,Minion,GVG_121,True,산악 거인과는 숙명의 라이벌입니다.,,
@@ -41,12 +37,9 @@ Deathrattle,Goblins vs Gnomes,기계설인,Chris Seaman,,<b>죽음의 메아리:
 Aura,Goblins vs Gnomes,기계소환로봇,Phil Saunders,,내 기계 하수인의 비용이 (1) 감소합니다.,Common,2,2,3,Mech,Minion,GVG_006,True,기계를 소환하는 기계라니? 다음은 뭘까요? 도넛을 소환하는 도넛? 흐음...,,
 ,Goblins vs Gnomes,기계표범곰,Trent Kaniuga,,이 하수인이 피해를 입을 때마다 <b>예비 부품</b> 카드를 내 손으로 1장 가져옵니다.,Rare,7,6,6,Mech,Minion,GVG_034,True,딜도 되고 탱도 됩니다.,Druid,
 ,Goblins vs Gnomes,길 잃은 타조,Benjamin Zhang,,,Common,5,4,4,Beast,Minion,GVG_071,True,엉덩이에 이런 낙인이 찍혀 있네요. &bdquo;찾으시면 멀고어로 데려와 주세요. 사례하겠습니다.&bdquo;,,
-Stealth,Goblins vs Gnomes,길블린 추적자,Seamus Gallagher,,<b>은신</b>,Common,2,2,3,,Minion,GVG_081,True,&bdquo;쉿 무슨 소리 들리지 않아?&bdquo;
-
-&bdquo;아 잘못 들었을 겁니다.&bdquo; - 모든 비극의 시작,,
+Stealth,Goblins vs Gnomes,길블린 추적자,Seamus Gallagher,,<b>은신</b>,Common,2,2,3,,Minion,GVG_081,True,&bdquo;쉿 무슨 소리 들리지 않아?&bdquo;&bdquo;아 잘못 들었을 겁니다.&bdquo; - 모든 비극의 시작,,
 Battlecry,Goblins vs Gnomes,깡통나사 고물로봇,Jesper Esjing,,<b>전투의 함성</b>: 아군 기계 하수인 하나에게 +2/+2를 부여합니다.,Rare,2,4,5,Mech,Minion,GVG_055,True,동작을 멈추면 이렇게 외치면서 발로 몇 번 차주세요. &bdquo;이 고물 같으니라고!&bdquo;,Warrior,
-Battlecry|Taunt,Goblins vs Gnomes,꼬마 퇴마사,Jim Nelson,,<b>도발</b>
-<b>전투의 함성:</b> 상대편의 <b>죽음의 메아리</b> 하수인 하나당 +1/+1을 얻습니다.,Rare,2,3,3,,Minion,GVG_097,True,아제로스에는 흑마법사가 엉뚱한 악마를 소환했을 때를 대비하여 마을마다 긴급 출동하는 5분 대기조 퇴마사들이 있답니다.,,
+Battlecry|Taunt,Goblins vs Gnomes,꼬마 퇴마사,Jim Nelson,,<b>도발</b><b>전투의 함성:</b> 상대편의 <b>죽음의 메아리</b> 하수인 하나당 +1/+1을 얻습니다.,Rare,2,3,3,,Minion,GVG_097,True,아제로스에는 흑마법사가 엉뚱한 악마를 소환했을 때를 대비하여 마을마다 긴급 출동하는 5분 대기조 퇴마사들이 있답니다.,,
 Freeze,Goblins vs Gnomes,꽁꽁로봇,Gabor Szikszai,,이 하수인에게 피해를 입은 캐릭터는 <b>빙결</b> 상태가 됩니다.,Common,2,2,3,Mech,Minion,GVG_002,True,천천히 뒤뚱거리며 이런 소리를 냅니다. &bdquo;칙칙폭폭! 칙칙폭폭!&bdquo;,Mage,
 ,Goblins vs Gnomes,나루의 빛,Jesper Ejsing,,생명력을 #3 회복시킵니다. 그래도 대상이 피해를 입은 상태라면 빛의 감시자를 소환합니다.,Rare,,1,,,Spell,GVG_012,True,주의: 대상의 눈과 입에서 하루 종일 빛이 발사될 수 있음,Priest,
 ,Goblins vs Gnomes,나사 풀린 깡통,,,+2/+2,,,,,,Enchantment,GVG_055e,,,Warrior,
@@ -58,8 +51,7 @@ Battlecry,Goblins vs Gnomes,넵튤론,Ruan Jia,True,<b>전투의 함성:</b> 무
 Battlecry,Goblins vs Gnomes,노움 실험가,Jesper Esjing,,<b>전투의 함성:</b> 카드를 1장 뽑습니다. 뽑은 카드가 하수인이면 닭으로 변신시킵니다.,Rare,3,3,2,,Minion,GVG_092,True,닭으로 변신시킬 때마다 의외로 엄청나게 놀란다고 합니다.,,
 Deathrattle,Goblins vs Gnomes,노움 태엽돌이,Matt Dixon,,<b>죽음의 메아리:</b> <b>예비 부품</b> 카드를 내 손으로 1장 가져옵니다.,Common,2,1,1,Mech,Minion,GVG_082,True,이동식 은행 겸 상점 로봇입니다.,,
 ,Goblins vs Gnomes,녹슨 호른,Peerasak Senalai,,하수인 하나에게 <b>도발</b>을 부여합니다.,,,1,,,Spell,PART_003,,,,
-Charge|Taunt,Goblins vs Gnomes,놈리건 보병,Zoltan & Gabor,,<b>돌진</b>
-<b>도발</b>,Common,1,3,4,,Minion,GVG_098,True,아무리 놈리건이 방사능 오염과 공기 오염에 노출되었대도 꿋꿋이 탈환을 희망하는 굳센 녀석입니다.,,
+Charge|Taunt,Goblins vs Gnomes,놈리건 보병,Zoltan & Gabor,,<b>돌진</b><b>도발</b>,Common,1,3,4,,Minion,GVG_098,True,아무리 놈리건이 방사능 오염과 공기 오염에 노출되었대도 꿋꿋이 탈환을 희망하는 굳센 녀석입니다.,,
 Deathrattle,Goblins vs Gnomes,누군가 조종하는 벌목기,Dan Scott,,<b>죽음의 메아리:</b> 비용이 2인 무작위 하수인을 하나 소환합니다.,Common,4,4,3,Mech,Minion,GVG_096,True,한때 벌목기는 고블린들만 타는 로봇이었습니다만 요즘엔 파멸의 예언자부터 전승지기 초까지 한 대씩 타고 다니더라고요.,,
 Deathrattle,Goblins vs Gnomes,누군가 조종하는 하늘 골렘,Michael Phillippi,,<b>죽음의 메아리:</b> 비용이 4인 무작위 하수인을 하나 소환합니다.,Epic,6,6,4,Mech,Minion,GVG_105,True,고블린 기계공학의 꽃이라 할 수 있습니다. 에스프레소 머신과 발 마사지 기계도 탑재되어 있습니다.,,
 ,Goblins vs Gnomes,닭,,,,,1,1,1,Beast,Minion,GVG_092t,,,,
@@ -77,14 +69,12 @@ Combo,Goblins vs Gnomes,땜장이의 뾰족칼 기름,Den,,내 무기에 공격�
 Aura,Goblins vs Gnomes,마법 흡수함,,,공격력 증가,,,,,,Enchantment,GVG_067a,,,,
 Aura,Goblins vs Gnomes,마법 흡수함,,,공격력 증가,,,,,,Enchantment,GVG_068a,,,,
 Divine Shield,Goblins vs Gnomes,막강 에너지 전차,Nutchapol Thitinunthakorn,,<b>천상의 보호막</b>,Common,7,8,7,Mech,Minion,GVG_079,True,이 에너지 전차를 만드는 공장은 타나리스에 있습니다. 하지만 딱 2대밖에 못 만들었답니다. 예산이 초과돼서요.,,
-Aura,Goblins vs Gnomes,말가니스,Wayne Reynolds,True,내 다른 악마들이 +2/+2를 얻습니다.
-내 영웅이 <b>피해 면역</b> 상태가 됩니다.,Legendary,9,9,7,Demon,Minion,GVG_021,True,배신을 무척이나 싫어하는 녀석이니 이 카드를 버렸다면 뒤통수 조심하세요.,Warlock,
+Aura,Goblins vs Gnomes,말가니스,Wayne Reynolds,True,내 다른 악마들이 +2/+2를 얻습니다.내 영웅이 <b>피해 면역</b> 상태가 됩니다.,Legendary,9,9,7,Demon,Minion,GVG_021,True,배신을 무척이나 싫어하는 녀석이니 이 카드를 버렸다면 뒤통수 조심하세요.,Warlock,
 ,Goblins vs Gnomes,말가니스의 손아귀,,,말가니스가 +2/+2 부여,,,,,,Enchantment,GVG_021e,,,Warlock,
 Deathrattle,Goblins vs Gnomes,말로른,Oliver Chipping,True,<b>죽음의 메아리:</b> 이 하수인을 내 덱에 다시 섞어 넣습니다.,Legendary,9,7,7,Beast,Minion,GVG_035,True,거대한 사슴은 순백색으로 흡사 달빛과 같은 부드러운 빛을 발산합니다. 그는 당신을 깊은 은빛 여울 같은 태고의 지혜가 느껴지는 눈으로 응시하고 있으며 존재하는 것만으로도 차분해지는 오라를 내뿜고 있습니다.,Druid,
 ,Goblins vs Gnomes,메디브의 메아리,Alex Garner,,전장의 아군 하수인들을 복사하여 손으로 가져옵니다.,Epic,,4,,,Spell,GVG_005,True,&bdquo;나는 그저 과거의 전설로 남으려 한다아아아아아...&bdquo;,Mage,
 ,Goblins vs Gnomes,모고르,Michal Ivan,True,<b>모든</b> 하수인들이 50%의 확률로 엉뚱한 적을 공격합니다.,Legendary,7,6,6,,Minion,GVG_112,True,옛날 모고르의 도움으로 어둠의 문을 다시 열었던 적이 있었습니다. 이제 오우거에게 의지하면 어떻게 되는지 잘 아시겠죠?,,
-Windfury,Goblins vs Gnomes,모래망치 주술사,José Ladrönn,,<b>질풍 과부하: (1)</b>
-50%의 확률로 엉뚱한 적을 공격합니다.,Rare,5,4,4,,Minion,GVG_066,True,방금 공격하는 거 보셨어요? 눈 감고 때리는 거?,Shaman,
+Windfury,Goblins vs Gnomes,모래망치 주술사,José Ladrönn,,<b>질풍 과부하: (1)</b>50%의 확률로 엉뚱한 적을 공격합니다.,Rare,5,4,4,,Minion,GVG_066,True,방금 공격하는 거 보셨어요? 눈 감고 때리는 거?,Shaman,
 ,Goblins vs Gnomes,무역왕 갤리윅스,Wei Wang,True,상대편이 주문을 시전할 때마다 동일한 주문을 내 손으로 가져오고 상대편에게 동전을 줍니다.,Legendary,5,6,8,,Minion,GVG_028,True,&bdquo;내 사례는 넉넉히 하지!&bdquo;,Rogue,
 ,Goblins vs Gnomes,미미론의 머리,Trent Kaniuga,True,내 턴이 시작될 때 내게 기계 하수인이 3대 이상 있으면 모두 파괴하고 V-07-TR-0N을 소환합니다.,Legendary,4,5,5,Mech,Minion,GVG_111,True,빨간색 버튼을 누르지 마십시오!,,
 Battlecry,Goblins vs Gnomes,박사 붐,Alex Garner,True,<b>전투의 함성</b>: 1/1 폭탄로봇을 2대 소환합니다. <i>경고: 로봇이 폭발할 수 있음.</i>,Legendary,7,7,7,,Minion,GVG_110,True,붐바스틱!,,
@@ -124,13 +114,10 @@ Deathrattle,Goblins vs Gnomes,스니드의 낡은 벌목기,Christopher Moeller,
 ,Goblins vs Gnomes,시간 되감개,Nutthapon Petthai,,아군 하수인 하나를 내 손으로 가져옵니다.,,,1,,,Spell,PART_002,,,,
 ,Goblins vs Gnomes,악마의 심장,,,+5/+5,,,,,,Enchantment,GVG_019e,,,Warlock,
 ,Goblins vs Gnomes,악마의 심장,Kerem Beyit,,하수인에게 피해를 $5 줍니다. 대상이 아군 악마면 +5/+5를 부여합니다.,Epic,,5,,,Spell,GVG_019,True,친악마 단체에 소속된 사람들은 모두 흑마법사라는 사실 아셨나요? 놀랍네요.,Warlock,
-Divine Shield|Taunt,Goblins vs Gnomes,안녕로봇,Matt Dixon,,<b>도발</b>
-<b>천상의 보호막</b>,Common,1,2,2,Mech,Minion,GVG_085,True,안녕로봇의 발명가는 즉시 땜장이 학교와 땜장이 마을에서 쫓겨났으며 결국에는 동부 왕국에서 영원히 추방되었습니다.,,
-,Goblins vs Gnomes,야수 부르기,E.M. Gist,,카드를 1장 뽑습니다.
-야수 카드면 비용이 (4) 감소합니다.,Rare,,2,,,Spell,GVG_017,True,굶주린 게야말로 진정한 남자의 야수죠.,Hunter,
+Divine Shield|Taunt,Goblins vs Gnomes,안녕로봇,Matt Dixon,,<b>도발</b><b>천상의 보호막</b>,Common,1,2,2,Mech,Minion,GVG_085,True,안녕로봇의 발명가는 즉시 땜장이 학교와 땜장이 마을에서 쫓겨났으며 결국에는 동부 왕국에서 영원히 추방되었습니다.,,
+,Goblins vs Gnomes,야수 부르기,E.M. Gist,,카드를 1장 뽑습니다.야수 카드면 비용이 (4) 감소합니다.,Rare,,2,,,Spell,GVG_017,True,굶주린 게야말로 진정한 남자의 야수죠.,Hunter,
 Deathrattle,Goblins vs Gnomes,양 폭탄,Ralph Horsley,,<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 2 줍니다.,Common,1,2,1,Mech,Minion,GVG_076,True,무슨 생각으로 만들었을까요? 적들이 &bdquo;우와 귀엽다!&bdquo; 하고 만질 때 폭발시키려고?,,
-Taunt,Goblins vs Gnomes,양극 처리 로봇 새끼곰,Eva Widermann,False,<b>도발</b>. <b>선택 -</b>
-공격력 +1 또는 생명력 +1을 얻습니다.,Common,2,2,2,Mech,Minion,GVG_030,True,어머 정말 귀엽다! 그런데 이거 내 얼굴 깨물고 있는 거 맞지?,Druid,
+Taunt,Goblins vs Gnomes,양극 처리 로봇 새끼곰,Eva Widermann,False,<b>도발</b>. <b>선택 -</b>공격력 +1 또는 생명력 +1을 얻습니다.,Common,2,2,2,Mech,Minion,GVG_030,True,어머 정말 귀엽다! 그런데 이거 내 얼굴 깨물고 있는 거 맞지?,Druid,
 ,Goblins vs Gnomes,어둠의 속삭임,Trent Kaniuga,,<b>선택 -</b> 위습 5마리를 소환합니다. 또는 하수인 하나에게 +5/+5와 <b>도발</b>을 부여합니다.,Epic,,6,,,Spell,GVG_041,True,&bdquo;하일 하이드라.&bdquo; (소근),Druid,
 ,Goblins vs Gnomes,어둠의 속삭임,,,+5/+5 그리고 <b>도발</b>을 부여합니다.,,,,,,Spell,GVG_041a,,,Druid,
 ,Goblins vs Gnomes,어둠의 속삭임,,,+5/+5 <b>도발</b>,,,,,,Enchantment,GVG_041c,,,Druid,
@@ -138,8 +125,7 @@ Taunt,Goblins vs Gnomes,양극 처리 로봇 새끼곰,Eva Widermann,False,<b>�
 Battlecry,Goblins vs Gnomes,업그레이드된 수리 로봇,Nutchapol Thitinunthakorn,,<b>전투의 함성:</b> 아군 기계 하수인 하나에게 생명력을 +4 부여합니다.,Rare,5,5,5,Mech,Minion,GVG_083,True,사실 기존 수리 로봇과 별 다를 거 없지만 &bdquo;업그레이드된&bdquo;을 붙여 2배 값을 받고 파는 겁니다.,Priest,
 ,Goblins vs Gnomes,여기 버프 받아.,,,+2/+2,,,,,,Enchantment,GVG_104a,,,,
 Spellpower,Goblins vs Gnomes,오버클록됨,,,주문 공격력 +2,,,,,,Enchantment,GVG_123e,,,Mage,
-Stealth,Goblins vs Gnomes,오우거 닌자,Samwise,,<b>은신</b>
-50%의 확률로 엉뚱한 적을 공격합니다.,Rare,6,5,6,,Minion,GVG_088,True,한글이 엄청 눈에 띄네요. 닌자는 눈에 띄면 안 되는데...,Rogue,
+Stealth,Goblins vs Gnomes,오우거 닌자,Samwise,,<b>은신</b>50%의 확률로 엉뚱한 적을 공격합니다.,Rare,6,5,6,,Minion,GVG_088,True,한글이 엄청 눈에 띄네요. 닌자는 눈에 띄면 안 되는데...,Rogue,
 ,Goblins vs Gnomes,오우거 전쟁망치,Richard Wright,,50%의 확률로 엉뚱한 적을 공격합니다.,Common,4,3,,,Weapon,GVG_054,True,오우거 관련된 것들이 다 그렇듯이 단순무식하고 예측불허에 극도로 위험한 무기입니다.,Warrior,2
 ,Goblins vs Gnomes,오우거 투사,Vinod Rams,,50%의 확률로 엉뚱한 적을 공격합니다.,Common,4,3,4,,Minion,GVG_065,True,실은 엉뚱한 대상이 아닙니다. 그냥 처음 눈에 띄는 대상입니다.,,
 Battlecry,Goblins vs Gnomes,완전히 정신 나간 폭격수,Alex Horley Orlandelli,,<b>전투의 함성:</b> 다른 모든 캐릭터에게 6의 피해를 무작위로 나누어 입힙니다.,Rare,5,5,4,,Minion,GVG_090,True,이 친구는 완전히 정신이 나갔습니다. 정신 나간 폭격수와는 비교도 하지 마세요.,,
@@ -153,10 +139,8 @@ Battlecry,Goblins vs Gnomes,유전자 재결합사,Ben Olson,,<b>전투의 함�
 ,Goblins vs Gnomes,이맛살 찌푸리기,,,능력치 증가,,,,,,Enchantment,GVG_100e,,,Warlock,
 ,Goblins vs Gnomes,임프,,,,,1,1,1,Demon,Minion,GVG_045t,,,Warlock,
 ,Goblins vs Gnomes,임프폭발,Jaemin Kim,,하수인 하나에게 $2~$4의 피해를 줍니다. 입힌 피해만큼 1/1 임프를 소환합니다.,Rare,,4,,,Spell,GVG_045,True,사실 폭탄은 폭발보다 파편이 더 무서운 법입니다.,Warlock,
-Taunt,Goblins vs Gnomes,자동화 마력제거기 X-21,Zero Yue,,<b>도발</b>
-이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다.,Rare,2,4,5,Mech,Minion,GVG_091,True,노움 기술자들과 노움 마법사들 사이가 매우 좋지 않은 결정적인 이유입니다.,,
-Spellpower|Stealth,Goblins vs Gnomes,작은 마법사,Ben Olson,,<b>은신</b>
-<b>주문 공격력 +1</b>,Epic,4,4,1,,Minion,GVG_109,True,때때로 구루바시 투기장의 보물 상자에 숨곤 합니다.,,
+Taunt,Goblins vs Gnomes,자동화 마력제거기 X-21,Zero Yue,,<b>도발</b>이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다.,Rare,2,4,5,Mech,Minion,GVG_091,True,노움 기술자들과 노움 마법사들 사이가 매우 좋지 않은 결정적인 이유입니다.,,
+Spellpower|Stealth,Goblins vs Gnomes,작은 마법사,Ben Olson,,<b>은신</b><b>주문 공격력 +1</b>,Epic,4,4,1,,Minion,GVG_109,True,때때로 구루바시 투기장의 보물 상자에 숨곤 합니다.,,
 Aura,Goblins vs Gnomes,작은 주문차단자,Jonboy Meyers,,양옆의 하수인들을 주문이나 영웅 능력의 대상으로 지정할 수 없습니다.,Epic,2,4,5,,Minion,GVG_122,True,마법사들 사이에서 악명이 높습니다. 식당에서도 악명이 높습니다.,Mage,
 ImmuneToSpellpower,Goblins vs Gnomes,잠복한 지뢰,Chris Seaman,,이 카드를 뽑으면 폭발하여 내게 피해를 10 줍니다. 카드를 1장 뽑습니다.,,,0,,,Spell,GVG_056t,,,Warrior,
 ,Goblins vs Gnomes,장비 장착 완료,,,+2/+2,,,,,,Enchantment,GVG_060e,,,Paladin,

@@ -63,8 +63,7 @@ Taunt,,Classic,Druid Szponów,,<b>Prowokacja</b>,,Common,4,5,6,,Minion,EX1_165t2
 Taunt,,Classic,Drzewiec,,<b>Prowokacja</b>,,,2,1,2,,Minion,EX1_573t,Druid,,,,
 Charge,,Classic,Drzewiec,Neutral,<b>Szarża</b>. Na początku następnej tury zniszcz tego stronnika.,,Common,2,1,2,,Minion,EX1_tk9,Druid,,,,
 ,True,Classic,Drzewiec wiedzy,,<b>Wybierz jedno:</b> Dobierz 2 karty; lub przywróć 5 pkt. zdrowia.,Patrik Hjelm,Epic,5,7,5,No dalej. Wyryj na nim swoje inicjały.,Minion,NEW1_008,Druid,,,,
-,True,Classic,Drzewiec wojny,Neutral,<b>Wybierz jedno:</b> 
-+5 do ataku; lub +5 do zdrowia oraz <b>Prowokacja</b>.,Sean O’Daniels,Epic,5,7,5,Młode nocne elfy uwielbiają zabawę „Stary drzewiec mocno śpi”. Przegrywasz jak zadepcze cię na śmierć.,Minion,EX1_178,Druid,,,,
+,True,Classic,Drzewiec wojny,Neutral,<b>Wybierz jedno:</b> +5 do ataku; lub +5 do zdrowia oraz <b>Prowokacja</b>.,Sean O’Daniels,Epic,5,7,5,Młode nocne elfy uwielbiają zabawę „Stary drzewiec mocno śpi”. Przegrywasz jak zadepcze cię na śmierć.,Minion,EX1_178,Druid,,,,
 ,,Classic,Duch przodków,,<b>Agonia:</b> Przywróć tego stronnika na pole bitwy.,,,,,,,Enchantment,CS2_038e,Shaman,,,,
 ,True,Classic,Duch przodków,Neutral,Daj stronnikowi zdolność „<b>Agonia:</b> Przywróć tego stronnika na pole bitwy”.,Zoltan & Gabor,Rare,,2,,To była powierzchowna rana.,Spell,CS2_038,Shaman,,,,
 Taunt,,Classic,Duchowy wilk,Neutral,<b>Prowokacja</b>,,Rare,2,2,3,,Minion,EX1_tk11,Shaman,,,,
@@ -76,10 +75,7 @@ Battlecry,True,Classic,Dziarski gorzelnik,Alliance,<b>Okrzyk bojowy:</b> Cofnij 
 AffectedBySpellPower,True,Classic,Dzikość,Neutral,Zadaj stronnikowi obrażenia równe atakowi twojego bohatera.,Dave Rapoza,Rare,,1,,Druid dziki druid zły i ma bardzo ostre kły!,Spell,EX1_578,Druid,,,,
 Combo,True,Classic,Edwin VanCleef,Neutral,<b>Kombinacja:</b> Otrzymuje +2/+2 za każdą kartę zagraną wcześniej w tej turze.,Efrem Palacios,Legendary,2,3,2,Dowodził murarzami którzy zrekonstruowali Wichrogród a kiedy szlachta odmówiła zapłaty założył bractwo Nieskornych żeby <i>zdekonstruować</i> Wichrogród.,Minion,EX1_613,Rogue,True,,,
 ,,Classic,Eksperymenty!,,Atak i zdrowie zostały zamienione przez szalonego alchemika.,,,,,,,Enchantment,EX1_059e,,,,,
-,True,Classic,Eksplozja lawy,Neutral,Zadaj $5 pkt. obrażeń. <b>Przeciążenie:</b> (2),Dan Scott,Rare,,3,,„Lawa którą palisz mnie
-Magiczna siła boję się...”
-
-- fragment „Mojej Lawy” z szamańskiej listy przebojów,Spell,EX1_241,Shaman,,,,
+,True,Classic,Eksplozja lawy,Neutral,Zadaj $5 pkt. obrażeń. <b>Przeciążenie:</b> (2),Dan Scott,Rare,,3,,„Lawa którą palisz mnieMagiczna siła boję się...”- fragment „Mojej Lawy” z szamańskiej listy przebojów,Spell,EX1_241,Shaman,,,,
 ,True,Classic,Eteryczny arkanista,,Otrzymuje +2/+2 jeśli pod koniec twojej tury kontrolujesz <b>Sekret</b>.,Michael Komarck,Rare,3,4,3,Eteryczni owijają się materiałem aby nadać kształt swoim bezcielesnym postaciom. No i lubią jak im miękko i cieplutko.,Minion,EX1_274,Mage,False,,,
 ,,Classic,Finkosz Rogoźnik,Neutral,,,Legendary,3,2,3,,Minion,EX1_finkle,,True,,,
 ,True,Classic,Flara,Neutral,Wszyscy stronnicy tracą <b>Ukrycie</b>. Zniszcz wszystkie wrogie <b>Sekrety</b>. Dobierz kartę.,Tyler Walpole,Rare,,2,,Nie tylko ujawnia ukrytych przeciwników ale też świetnie sprawdza się na imprezach!,Spell,EX1_544,Hunter,,,,
@@ -95,8 +91,7 @@ Taunt,,Classic,Gnol,,<b>Prowokacja</b>,,,2,2,2,,Minion,NEW1_040t,,,,,
 Deathrattle,True,Classic,Golem zbożowy,Neutral,<b>Agonia:</b> Przyzwij Uszkodzonego golema 2/1.,Brian Despain,Common,2,3,3,„Przekroczono próg przegrzania. Awaria systemu. Kłąb owsa w porcie drugim. Wyłączanie”.,Minion,EX1_556,,,Mech,,
 ,True,Classic,Górski olbrzym,Neutral,Kosztuje (1) mniej za każdą pozostałą kartę w twojej ręce.,Samwise,Epic,8,12,8,Nie jest otyły ma po prostu grube kości.,Minion,EX1_105,,,,,
 Battlecry,True,Classic,Grabieżca Krwawych Żagli,,<b>Okrzyk bojowy:</b> Otrzymuje +1 do ataku za każdy punkt ataku twojej broni.,Jim Nelson,Common,2,2,3,Jej ulubiona broń to grabie.,Minion,NEW1_018,,,Pirate,,
-Charge|Enrage,True,Classic,Grommasz Piekłorycz,Neutral,<b>Szarża</b>
-<b>Szał:</b> +6 do ataku.,Glenn Rane,Legendary,4,8,9,Grommasz wypił splugawioną krew Mannorota skazując orków na zieloną skórę i czerwone oczy. To chyba nie była najlepsza decyzja.,Minion,EX1_414,Warrior,True,,,
+Charge|Enrage,True,Classic,Grommasz Piekłorycz,Neutral,<b>Szarża</b><b>Szał:</b> +6 do ataku.,Glenn Rane,Legendary,4,8,9,Grommasz wypił splugawioną krew Mannorota skazując orków na zieloną skórę i czerwone oczy. To chyba nie była najlepsza decyzja.,Minion,EX1_414,Warrior,True,,,
 Battlecry,True,Classic,Grubiański sierżant,Alliance,<b>Okrzyk bojowy:</b> Daj stronnikowi +2 do ataku w tej turze.,Luca Zontini,Common,2,1,1,DODAJ MNIE DO SWOJEJ TALII ŚMIECIU!,Minion,CS2_188,,,,,
 ,True,Classic,Gruul,,Na koniec każdej tury otrzymuje +1/+1.,Kev Walker,Legendary,7,8,7,Gruul bardzo lubi smoki. Niestety jego pełne serdeczności uściski zyskały mu przydomek „Smokobójca”.,Minion,NEW1_038,,True,,,
 AffectedBySpellPower,True,Classic,Grzmotnięcie tarczą,Neutral,Zadaj 1 pkt. obrażeń stronnikowi za każdy posiadany punkt pancerza.,Raymond Swanland,Epic,,1,,„Jaki oręż jest lepszy? Ostry którego spodziewa się przeciwnik czy tępy który zostanie zignorowany?” - Sztuka wojownika rozdział 9,Spell,EX1_410,Warrior,,,,
@@ -104,12 +99,10 @@ Battlecry,True,Classic,Harrison Jones,Neutral,<b>Okrzyk bojowy:</b> Zniszcz bro�
 OneTurnEffect,,Classic,Hartowanie,,+2 do ataku w tej turze.,,,,,,,Enchantment,EX1_046e,,,,,
 Combo,True,Classic,Herszt kręgu Nieskornych,Neutral,<b>Kombinacja:</b> Przyzwij Bandytę Nieskornych 2/1.,Dany Orizio,Common,2,2,2,Chciałby żeby mówić do niego per Hegemon. Sęk w tym że nie ma jeszcze swojego kaprala.,Minion,EX1_131,Rogue,,,,
 ,,Classic,Hiena,,,Andrew Robinson,Rare,2,2,2,,Minion,EX1_534t,Hunter,,Beast,,
-,,Classic,Igła umysłu,,<b>Moc specjalna</b>
-Zadaj 2 pkt. obrażeń.,,,,2,,,Hero Power,EX1_625t,Priest,,,,
+,,Classic,Igła umysłu,,<b>Moc specjalna</b>Zadaj 2 pkt. obrażeń.,,,,2,,,Hero Power,EX1_625t,Priest,,,,
 ,True,Classic,Illidan Burzogniewny,Neutral,Za każdym razem gdy zagrasz kartę przyzwij Płomień Azzinotha 2/1.,Alex Horley Orlandelli,Legendary,7,6,5,Brat Illidana Malfurion uwięził go pod górą Hyjal na 10 000 lat. Burzogniewni niełatwo zapominają urazy.,Minion,EX1_614,,True,Demon,,
 ,,Classic,Infernal,Neutral,,,Common,6,6,6,,Minion,EX1_tk34,Warlock,,Demon,,
-,,Classic,INFERNO!,Neutral,<b>Moc specjalna</b>
-Przyzwij Infernala 6/6.,,,,2,,,Hero Power,EX1_tk33,Warlock,,,,
+,,Classic,INFERNO!,Neutral,<b>Moc specjalna</b>Przyzwij Infernala 6/6.,,,,2,,,Hero Power,EX1_tk33,Warlock,,,,
 ,,Classic,Infuzja,,+3 do zdrowia.,,,,,,,Enchantment,EX1_623e,Priest,,,,
 OneTurnEffect,,Classic,Inspiracja,,Ten stronnik ma +2 do ataku w tej turze.,,,,,,,Enchantment,CS2_188o,,,,,
 Battlecry,True,Classic,Kabalistka cieni,Neutral,<b>Okrzyk bojowy:</b> Przejmij kontrolę nad wrogim stronnikiem z atakiem 2 lub mniejszym.,Chippy,Epic,4,6,5,Nigdy nie wiesz kto może dla niej pracować...,Minion,EX1_091,Priest,,,,
@@ -248,8 +241,7 @@ OneTurnEffect,,Classic,Przygotowanie,,Następne zaklęcie jakie rzucisz w tej tu
 ,,Classic,Przywódca stada,,+1/+1,,,,,,,Enchantment,EX1_160be,Druid,,,,
 ,True,Classic,Przywódczyni kultu,Neutral,Dobierz kartę za każdym razem gdy zginie jeden z twoich stronników.,Raymond Swanland,Common,4,4,2,Może i przewodzi nikczemnemu kultowi ale i tak co tydzień dzwoni do rodziców.,Minion,EX1_595,,,,,
 ,,Classic,Przyzwij Panterę,Neutral,Przyzwij Panterę 3/2.,,,,,,,Spell,EX1_160a,Druid,,,,
-Windfury,True,Classic,Pyłowy diablik,Neutral,<b>Furia wichru</b>.
-<b>Przeciążenie:</b> (2),Raymond Swanland,Common,3,1,1,Zachodni Brzeg pełen jest pyłowych diablików. I sępów. I szalonych golemów. I piratów. Po kiego ktoś chciałby tam mieszkać?,Minion,EX1_243,Shaman,,,,
+Windfury,True,Classic,Pyłowy diablik,Neutral,<b>Furia wichru</b>.<b>Przeciążenie:</b> (2),Raymond Swanland,Common,3,1,1,Zachodni Brzeg pełen jest pyłowych diablików. I sępów. I szalonych golemów. I piratów. Po kiego ktoś chciałby tam mieszkać?,Minion,EX1_243,Shaman,,,,
 ,True,Classic,Ragnaros Władca Ognia,Neutral,Nie może atakować. Na koniec twojej tury zadaj 8 pkt. obrażeń losowemu wrogowi.,Greg Staples,Legendary,8,8,8,„CZY WIESZ ŻE WSZYSTKO CO KOCHASZ JEST ŁATWOPALNE?”,Minion,EX1_298,,True,,,
 Battlecry,True,Classic,Ranny mistrz ostrzy,Horde,<b>Okrzyk bojowy:</b> Zadaje SOBIE 4 pkt. obrażeń.,Samwise,Rare,4,3,7,Twierdzi że to stara rana z czasów wojny ale najpewniej sam się zaciął przy goleniu.,Minion,CS2_181,,,,,
 ,,Classic,Ręka Argusa,,+1/+1 oraz <b>Prowokacja</b>.,,,,,,,Enchantment,EX1_093e,,,,,
@@ -293,8 +285,7 @@ Battlecry|Taunt,True,Classic,Strażnik Spaczenia,Neutral,<b>Prowokacja</b>. <b>O
 Divine Shield,True,Classic,Strażnik Srebrnej Luny,Horde,<b>Boska tarcza</b>,Phroilan Gardner,Common,3,4,3,Kiedy pierwszym razem próbowali ochronić Srebrną Lunę przed plagą nie do końca im się udało...,Minion,EX1_023,,,,,
 Battlecry|Charge,True,Classic,Strażnik Zagłady,Neutral,<b>Szarża</b>. <b>Okrzyk bojowy:</b> Odrzuć dwie losowe karty.,Lucas Graciano,Rare,5,5,7,Przywołanie Strażnika Zagłady to spore ryzyko. <i>Ktoś</i> wyciągnie kopyta.,Minion,EX1_310,Warlock,,Demon,,
 Taunt,True,Classic,Stróż Mogu&sbquo;szanu,Neutral,<b>Prowokacja</b>,Cole Eastburn,Common,1,4,7,Jedyne co robią przez całe dnie to gadają o Królu Gromów. NUUUUDY!,Minion,EX1_396,,,,,
-,,Classic,Strzaskanie umysłu,,<b>Moc specjalna</b>
-Zadaj 3 pkt. obrażeń.,,,,2,,,Hero Power,EX1_625t2,Priest,,,,
+,,Classic,Strzaskanie umysłu,,<b>Moc specjalna</b>Zadaj 3 pkt. obrażeń.,,,,2,,,Hero Power,EX1_625t2,Priest,,,,
 ,True,Classic,Studnia światła,Neutral,Na początku twojej tury przywróć 3 pkt. zdrowia przyjaznej postaci.,Blizzard Entertainment,Rare,0,2,5,Nie wiadomo czy ludzie ignorują studnię światła czy jest ona po prostu niewidzialna.,Minion,EX1_341,Priest,,,,
 Taunt,True,Classic,Stwór z moczarów,Alliance,<b>Prowokacja</b>,Monica Langlois,Common,3,5,6,Dawniej zwano go Jozinem z Bazin ale weszła ustawa o ochronie danych osobowych.,Minion,CS1_069,,,,,
 Battlecry,True,Classic,Świątynny nadzorca,,<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi +3 do zdrowia.,Daren Bader,Common,6,6,6,W czwartkowe noce dorabia jako ochroniarz w karczmie „Pod Knurem i Gwizdkiem”.,Minion,EX1_623,Priest,,,,
@@ -356,8 +347,7 @@ Silence,True,Classic,Wyciszenie,Neutral,<b>Wycisz</b> stronnika.,Zoltan & Gabor,
 ,,Classic,Wyjęcie korzeni,Neutral,+5 do ataku.,,,,,,,Spell,EX1_178b,Druid,,,,
 ,,Classic,Wyjęte korzenie,,+5 do ataku.,,,,,,,Enchantment,EX1_178be,Druid,,,,
 ,,Classic,Wymaga ostrzenia,,Zmniejszony atak.,,,,,,,Enchantment,EX1_411e2,Warrior,,,,
-,True,Classic,Wypaczona Otchłań,Neutral,Zniszcz wszystkich stronników.,Dave Allsop,Epic,,8,,Wypaczona Otchłań to bezkształtne miejsce pełne magii iluzji
-i zniszczonych stronników.,Spell,EX1_312,Warlock,,,,
+,True,Classic,Wypaczona Otchłań,Neutral,Zniszcz wszystkich stronników.,Dave Allsop,Epic,,8,,Wypaczona Otchłań to bezkształtne miejsce pełne magii iluzjii zniszczonych stronników.,Spell,EX1_312,Warlock,,,,
 Secret,True,Classic,Wyparowanie,Neutral,<b>Sekret:</b> Zniszcz stronnika który zaatakuje twojego bohatera.,Raymond Swanland,Rare,,3,,Czy Śmiercioskrzydły spowodował Kataklizm bo kiedyś przegrał przez tę kartę? Możemy nigdy się tego nie dowiedzieć.,Spell,EX1_594,Mage,,,,
 Combo,True,Classic,Wypatroszenie,Neutral,Zadaj $2 pkt. obrażeń. <b>Kombinacja:</b> Zamiast tego zadaj $4 pkt. obrażeń.,Ariel Olivetti,Common,,2,,Koszt wypatroszenia przeciwnika jest bardzo wysoki. Głównie przez rachunki za spranie krwi ze skórzanej zbroi.,Spell,EX1_124,Rogue,,,,
 Battlecry,True,Classic,Wyrocznia Światłozimnych,Neutral,<b>Okrzyk bojowy:</b> Każdy gracz dobiera 2 karty.,Steve Prescott,Rare,2,3,2,Widzą przyszłość. W tej przyszłości obaj gracze dobierają kolejne karty. Aż ciarki po plecach chodzą.,Minion,EX1_050,,,Murloc,,
@@ -395,5 +385,4 @@ Secret,True,Classic,Zmyłka,Neutral,<b>Sekret:</b> Gdy jakaś postać zaatakuje 
 ,,Classic,Znak natury,,Ten stronnik ma +4 do ataku.,,,,,,,Enchantment,EX1_155ae,Druid,,,,
 ,True,Classic,Znak natury,Neutral,<b>Wybierz jedno:</b> Daj stronnikowi +4 do ataku; lub daj +4 do zdrowia oraz <b>Prowokację</b>.,Clint Langley,Common,,3,,Druidzi nazywają to zaklęcie „znakiem natury”. Inni preferują nazwę „kąpiel potrzebna od zaraz”.,Spell,EX1_155,Druid,,,,
 Battlecry|Freeze,True,Classic,Żywiołak mrozu,Neutral,<b>Okrzyk bojowy:</b> <b>Zamroź</b> postać.,Dan Scott,Common,5,6,5,Wynik związku żywiołaka wody i żywiołaka lodu...,Minion,EX1_283,,,,,
-Taunt,True,Classic,Żywiołak ziemi,Neutral,<b>Prowokacja</b>.
-<b>Przeciążenie:</b> (3),Dan Scott,Epic,7,5,8,Daj kamienia!,Minion,EX1_250,Shaman,,,,
+Taunt,True,Classic,Żywiołak ziemi,Neutral,<b>Prowokacja</b>.<b>Przeciążenie:</b> (3),Dan Scott,Epic,7,5,8,Daj kamienia!,Minion,EX1_250,Shaman,,,,

@@ -22,17 +22,13 @@ Tus turnos son más cortos.,Basic,Enchantment,GAME_004,AUS,,,,,,,,,,,,,,,
 Otorga +3 p. de ataque a un esbirro.,Basic,Spell,CS2_087,Bendición de poderío,True,Neutral,Zoltan Boros,Free,1,Se desbloquea al alcanzar el nivel 45.,&bdquo;No voy a alardear pero &sbquo;poderío&sbquo; hacerlo&bdquo;. - Toad Mackle después de recibir este beneficio.,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
 Otorga +4/+4 a un esbirro. <i>(+4 p. de ataque/+4 p. de salud)</i>,Basic,Spell,CS2_092,Bendición de reyes,True,Neutral,Lucas Graciano,Common,4,Se desbloquea al alcanzar el nivel 49.,Teniendo en cuenta la cantidad de reyes que han muerto asesinados ¿seguro que es buena idea recibir su bendición?,Se desbloquea al alcanzar el nivel 10.,Paladin,,,,,,
 +4/+4.,Basic,Enchantment,CS2_092e,Bendición de reyes,,,,,,,,,Paladin,,,,,,
-<b>Poder de héroe</b>
-Obtiene 2 p. de armadura.,Basic,Hero Power,CS2_102,Blindaje,,Neutral,,Free,2,,,,Warrior,,,,,,
-Otorga 5 p. de armadura.
-Roba una carta.,Basic,Spell,EX1_606,Bloquear con escudo,True,Neutral,Michael Komarck,Common,3,Se desbloquea al alcanzar el nivel 28.,¿Con qué pensabas bloquear si no?,Se desbloquea al alcanzar el nivel 8.,Warrior,,,,,,
+<b>Poder de héroe</b>Obtiene 2 p. de armadura.,Basic,Hero Power,CS2_102,Blindaje,,Neutral,,Free,2,,,,Warrior,,,,,,
+Otorga 5 p. de armadura.Roba una carta.,Basic,Spell,EX1_606,Bloquear con escudo,True,Neutral,Michael Komarck,Common,3,Se desbloquea al alcanzar el nivel 28.,¿Con qué pensabas bloquear si no?,Se desbloquea al alcanzar el nivel 8.,Warrior,,,,,,
 Inflige $6 p. de daño.,Basic,Spell,CS2_029,Bola de Fuego,True,Neutral,Ralph Horsley,Free,4,Se desbloquea al alcanzar el nivel 44.,Este hechizo viene bien para quemar cosas. Si solo te interesan hechizos que tuestan o recalientan cosas te has equivocado de carta.,Se desbloquea al alcanzar el nivel 1.,Mage,,,,,,
 <b>Provocar</b>,Basic,Minion,CS2_121,Bruto Lobo Gélido,True,Neutral,Richie Marella,Common,2,Se desbloquea al alcanzar el nivel 57 con el chamán.,Desciende de una larga línea de brutos.,,,Taunt,2,2,,,
 <b>Cargar</b>,Basic,Minion,NEW1_034,Bufar,,,,Common,3,,,,Hunter,Charge,4,2,Beast,,
 <b>Cargar</b>,Basic,Minion,CS2_131,Caballero de Ventormenta,True,Alliance,Ladronn,Common,4,Se desbloquea al alcanzar el nivel 55 con el paladín.,¿Por qué dicen los humanos que va a llover? ¡Porque ven tormenta!,,,Charge,2,5,,,
-<b>Poder de héroe</b>
-+1 p. de ataque este turno.
-+1 p. de armadura.,Basic,Hero Power,CS2_017,Cambio de forma,,Neutral,,Free,2,,,,Druid,,,,,,
+<b>Poder de héroe</b>+1 p. de ataque este turno.+1 p. de armadura.,Basic,Hero Power,CS2_017,Cambio de forma,,Neutral,,Free,2,,,,Druid,,,,,,
 Tus demás esbirros tienen +1/+1.,Basic,Minion,CS2_222,Campeón de Ventormenta,True,Alliance,Doug Alexander,Common,7,Se desbloquea al alcanzar el nivel 59 con el paladín.,Cuando Alamuerte asaltó la capital este soldado fue el único superviviente de su escuadrón. Acabó muy quemado.,,,Aura,6,6,,,
 Cada vez que tu héroe ataca recupera 2 p. de salud.,Basic,Weapon,CS2_097,Campeón de veraplata,True,Neutral,Ryan Sook,Common,4,Se desbloquea al alcanzar el nivel 40.,Podrías cortar una caja fuerte en dos con esta espada (pero no sería buena idea).,Se desbloquea al alcanzar el nivel 2.,Paladin,,4,,,,2
 ,Basic,Minion,CS2_201,Can del Núcleo,True,,E.M. Gist,Common,7,Se desbloquea al alcanzar el nivel 51 con el cazador.,Los canes del Núcleo no se pueden domar. Lo único que puedes hacer es entrenarlos para que se coman a otro antes que a ti.,,,,9,5,Beast,,
@@ -60,8 +56,7 @@ Inflige $1 p. de daño a todos los esbirros enemigos.,Basic,Spell,CS2_025,Deflag
 Inflige $3 p. de daño a un personaje y lo <b>congela</b>.,Basic,Spell,CS2_024,Descarga de Escarcha,True,Neutral,Steve Ellis,Common,2,Se desbloquea al alcanzar el nivel 40.,Una auténtica canción de hielo y escarcha.,Se desbloquea al alcanzar el nivel 2.,Mage,Freeze,,,,,
 Inflige $4 p. de daño a un esbirro.,Basic,Spell,CS2_057,Descarga de las Sombras,True,Neutral,Dave Allsop,Free,3,Se desbloquea al alcanzar el nivel 47.,Es una descarga. Está hecha de sombras. ¿¡Qué más quieres!?,Se desbloquea al alcanzar el nivel 1.,Warlock,,,,,,
 Inflige $2 p. de daño.,Basic,Spell,DS1_185,Disparo Arcano,True,Neutral,Luca Zontini,Free,1,Se desbloquea al alcanzar el nivel 32.,Los magos conjuraban flechas arcanas para vendérselas a los cazadores hasta que los cazadores aprendieron la magia necesaria para crearlas por su cuenta. La pérdida de empleos resultante sumió a Ventormenta en una breve recesión.,Se desbloquea al alcanzar el nivel 1.,Hunter,,,,,,
-<b>Poder de héroe</b>
-Inflige 2 p. de daño al héroe enemigo.,Basic,Hero Power,DS1h_292,Disparo firme,,Neutral,,Free,2,,,,Hunter,,,,,,
+<b>Poder de héroe</b>Inflige 2 p. de daño al héroe enemigo.,Basic,Hero Power,DS1h_292,Disparo firme,,Neutral,,Free,2,,,,Hunter,,,,,,
 ,Basic,Minion,EX1_025t,Dragonizo mecánico,,Neutral,,Common,1,,,,,,2,1,Mech,,
 Inflige $2 p. de daño. Restaura #2 p. de salud a tu héroe.,Basic,Spell,CS2_061,Drenar vida,True,Neutral,Alex Horley Orlandelli,Free,3,Se desbloquea al alcanzar el nivel 45.,&bdquo;Te acabo de quitar un año de vida. No se admiten devoluciones&bdquo;.,Se desbloquea al alcanzar el nivel 1.,Warlock,,,,,,
 Destruye a un esbirro enemigo dañado.,Basic,Spell,CS2_108,Ejecutar,True,Neutral,Dany Orizio,Free,1,Se desbloquea al alcanzar el nivel 47.,Seguro que se lo merecía.,Se desbloquea al alcanzar el nivel 1.,Warrior,,,,,,
@@ -76,14 +71,12 @@ Duplica la salud de un esbirro.,Basic,Spell,CS2_236,Espíritu divino,True,,Jim P
 Estadísticas aumentadas.,Basic,Enchantment,CS2_226e,Estandarte Lobo Gélido,,,,,,,,,,,,,,,
 Obtén 2 cristales de maná solo este turno.,Basic,Spell,EX1_169,Estimular,True,Neutral,Doug Alexander,Free,0,Se desbloquea al alcanzar el nivel 36.,Algunos druidas todavía se acuerdan de cuando completos desconocidos les gritaban &bdquo;¡Lánzame Estimular!&bdquo;.,Se desbloquea al alcanzar el nivel 1.,Druid,,,,,,
 ,Basic,Minion,EX1_506a,Explorador múrloc,,Neutral,,Common,0,,,,,,1,1,Murloc,,
-<b>Poder de héroe</b>
-Inflige 1 p. de daño.,Basic,Hero Power,CS2_034,Explosión de Fuego,,Neutral,,Free,2,,,,Mage,,,,,,
+<b>Poder de héroe</b>Inflige 1 p. de daño.,Basic,Hero Power,CS2_034,Explosión de Fuego,,Neutral,,Free,2,,,,Mage,,,,,,
 Inflige $5 p. de daño al héroe enemigo.,Basic,Spell,DS1_233,Explosión mental,True,Neutral,Dave Allsop,Free,2,Se desbloquea al alcanzar el nivel 15.,Este hechizo te explota en la mente.,Se desbloquea al alcanzar el nivel 1.,Priest,,,,,,
 Inflige $4 p. de daño a un enemigo y $1 p. de daño a todos los demás enemigos.,Basic,Spell,CS2_012,Flagelo,True,Neutral,Sean O’Daniels,Common,4,Se desbloquea al alcanzar el nivel 47.,Desde que practican con esbirros los druidas ya no se tienen que afilar las garras en los muebles.,Se desbloquea al alcanzar el nivel 8.,Druid,,,,,,
 Inflige $4 p. de daño a todos los esbirros enemigos.,Basic,Spell,CS2_032,Fogonazo,True,Neutral,Romain De Santi,Common,7,Se desbloquea al alcanzar el nivel 51.,Lo de tirarse al suelo y rodar no es tan buena idea cuando es el suelo lo que está en llamas.,Se desbloquea al alcanzar el nivel 10.,Mage,,,,,,
 Inflige $4 p. de daño. Descarta una carta aleatoria.,Basic,Spell,EX1_308,Fuego de alma,True,Neutral,Raymond Swanland,Common,1,Se desbloquea al alcanzar el nivel 28.,Los brujos tienen el fuego en el cuerpo. Y en el alma.,Se desbloquea al alcanzar el nivel 6.,Warlock,,,,,,
-Inflige $5 p. de daño.
-Roba una carta.,Basic,Spell,EX1_173,Fuego estelar,True,Neutral,Alex Horley Orlandelli,Common,6,Se desbloquea al alcanzar el nivel 45.,Con esta carta tu druida será la estrella... de fuego. ¿O era al revés?,Se desbloquea al alcanzar el nivel 2.,Druid,,,,,,
+Inflige $5 p. de daño.Roba una carta.,Basic,Spell,EX1_173,Fuego estelar,True,Neutral,Alex Horley Orlandelli,Common,6,Se desbloquea al alcanzar el nivel 45.,Con esta carta tu druida será la estrella... de fuego. ¿O era al revés?,Se desbloquea al alcanzar el nivel 2.,Druid,,,,,,
 Inflige $1 p. de daño.,Basic,Spell,CS2_008,Fuego lunar,True,Neutral,Richard Wright,Common,0,Se desbloquea al alcanzar el nivel 40.,&bdquo;Lanza Fuego lunar y no pares&bdquo;. - Cómo ser un druida capítulo 5 sección 3,Se desbloquea al alcanzar el nivel 6.,Druid,,,,,,
 ,Basic,Minion,CS2_118,Furibundo de magma,True,,Matt Gaser,Free,3,Se desbloquea al alcanzar el nivel 51 con el chamán.,Decidió marcharse del Núcleo de Magma por todos esos aventureros que ahora se pasean por la mazmorra como si nada.,,,,5,1,,,
 <b>Grito de batalla:</b> Inflige 1 p. de daño.,Basic,Minion,CS2_141,Fusilero de Forjaz,True,Alliance,Tooth,Common,3,Se desbloquea al alcanzar el nivel 55 con el mago.,¡Preparados! ¡Apunten! ¡Beban!,,,Battlecry,2,2,,,
@@ -122,13 +115,11 @@ Ir en segundo lugar hace que tu primer esbirro sea más fuerte.,Basic,Enchantmen
 El tótem Lengua de Fuego otorga +2 p. de ataque.,Basic,Enchantment,EX1_565o,Lengua de Fuego,,,,,,,,,Shaman,,,,,,
 Los demás esbirros amistosos obtienen +1 p. de ataque.,Basic,Minion,NEW1_033,Leokk,,,,Common,3,,,,Hunter,,2,4,Beast,,
 Tus demás esbirros tienen +1 p. de ataque.,Basic,Minion,CS2_122,Líder de banda,True,,Phill Gonzales,Free,3,Se desbloquea al alcanzar el nivel 57 con el guerrero.,&bdquo;¡Te acabas de quedar sin 50 DKP!&bdquo;.,,,Aura,2,2,,,
-<b>Poder de héroe</b>
-Invoca un tótem aleatorio.,Basic,Hero Power,CS2_049,Llamada totémica,,Neutral,,Free,2,,,,Shaman,,,,,,
+<b>Poder de héroe</b>Invoca un tótem aleatorio.,Basic,Hero Power,CS2_049,Llamada totémica,,Neutral,,Free,2,,,,Shaman,,,,,,
 Inflige $3 p. de daño a todos los personajes.,Basic,Spell,CS2_062,Llamas infernales,True,Neutral,Chippy,Free,4,Se desbloquea al alcanzar el nivel 49.,Es por hechizos como estos por lo que los brujos no tienen amigos.,Se desbloquea al alcanzar el nivel 1.,Warlock,,,,,,
 Tus demás bestias tienen +1 p. de ataque.,Basic,Minion,DS1_175,Lobo gris,True,Neutral,Malcolm Davis,Free,1,Se desbloquea al alcanzar el nivel 23.,Tu oponente le verá las orejas al lobo.,Se desbloquea al alcanzar el nivel 1.,Hunter,Aura,1,1,Beast,,
 Restaura #6 p. de salud.,Basic,Spell,CS2_089,Luz Sagrada,True,Neutral,Zoltan & Gabor,Free,2,Se desbloquea al alcanzar el nivel 15.,Con tanta Luz Sagrada que invocan los paladines es muy importante ponerse protección solar.,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
-<b>Poder de héroe</b>
-Equipa una daga 1/2.,Basic,Hero Power,CS2_083b,Maestría en dagas,,Neutral,,Free,2,,,,Rogue,,,,,,
+<b>Poder de héroe</b>Equipa una daga 1/2.,Basic,Hero Power,CS2_083b,Maestría en dagas,,Neutral,,Free,2,,,,Rogue,,,,,,
 <b>Grito de batalla:</b> Otorga +2/+2 y <b>Provocar</b> a una bestia amistosa.,Basic,Minion,DS1_070,Maestro de canes,True,Neutral,Dan Brereton,Free,4,Se desbloquea al alcanzar el nivel 28.,No mentía al decir que llevaba una vida de perros.,Se desbloquea al alcanzar el nivel 1.,Hunter,Battlecry,4,3,,,
 <b>Provocar</b>,Basic,Minion,CS2_179,Maestro de escudos Sen&sbquo;jin,True,Horde,Brian Despain,Free,4,Se desbloquea al alcanzar el nivel 59 con el pícaro.,El Poblado Sen&sbquo;jin es un éxito entre los fans de los trols y el polvo.,,,Taunt,3,5,,,
 <b>+1 p. de daño con hechizos</b>,Basic,Minion,EX1_582,Mago de Dalaran,True,Neutral,Jim Nelson,Common,3,Se desbloquea al alcanzar el nivel 59 con el mago.,No se ven muchos guerreros de Dalaran.,,,Spellpower,1,4,,,
@@ -142,8 +133,7 @@ Otorga <b>Provocar</b> y +2/+2 a un esbirro. <i>(+2 p. de ataque/+2 p. de salud)
 Este esbirro tiene +2/+2 y <b>Provocar</b>.,Basic,Enchantment,CS2_009e,Marca de lo Salvaje,,,,,,,,,Druid,,,,,,
 Este esbirro tiene 1 p. de salud.,Basic,Enchantment,CS2_084e,Marca del cazador,,,,,,,,,Hunter,,,,,,
 Cambia la salud de un esbirro a 1 p.,Basic,Spell,CS2_084,Marca del cazador,True,Neutral,Jimmy Lo,Common,0,Se desbloquea al alcanzar el nivel 40.,Nunca juegues al escondite con un cazador.,Se desbloquea al alcanzar el nivel 6.,Hunter,,,,,,
-Inflige $3 p. de daño.
-Roba una carta.,Basic,Spell,CS2_094,Martillo de cólera,True,Neutral,Efrem Palacios,Free,4,Se desbloquea al alcanzar el nivel 32.,Los paladines tienen herramientas para todas las ocasiones: Martillo de cólera Tenazas de reprensión Destornillador de justicia...,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
+Inflige $3 p. de daño.Roba una carta.,Basic,Spell,CS2_094,Martillo de cólera,True,Neutral,Efrem Palacios,Free,4,Se desbloquea al alcanzar el nivel 32.,Los paladines tienen herramientas para todas las ocasiones: Martillo de cólera Tenazas de reprensión Destornillador de justicia...,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
 Inflige $3 p. de daño. Si tienes una bestia en juego inflige $5 p. de daño.,Basic,Spell,EX1_539,Matar,True,Neutral,Gabe from Penny Arcade,Common,3,Se desbloquea al alcanzar el nivel 49.,Se ha escrito un crimen.,Se desbloquea al alcanzar el nivel 10.,Hunter,,,,,,
 <b>Grito de batalla:</b> Invoca un dragonizo mecánico 2/1.,Basic,Minion,EX1_025,Mecánica de dragonizos,True,Alliance,Warren Mahy,Common,4,Se desbloquea al alcanzar el nivel 53 con el mago.,Estudia la posibilidad de añadirle un lanzacohetes a Mordisquitos.,,,Battlecry,2,4,,,
 <b>Grito de batalla:</b> Restaura 2 p. de salud.,Basic,Minion,EX1_011,Médico vudú,True,Horde,Karl Richardson,Free,1,Se desbloquea al alcanzar el nivel 55 con el pícaro.,¡Aléjate del vudú!,,,Battlecry,2,1,,,
@@ -161,8 +151,7 @@ Todos los demás múrlocs tienen +1 p. de ataque.,Basic,Minion,EX1_508,Oráculo 
 <b>Provocar</b>,Basic,Minion,CS2_125,Oso pardo Cueracero,True,Neutral,Lars Grant-West,Common,3,Se desbloquea al alcanzar el nivel 59 con el cazador.,Pellejo de oso 1/10,,,Taunt,3,3,Beast,,
 ,Basic,Minion,CS2_tk1,Oveja,,Neutral,,Common,0,,,,,,1,1,Beast,,
 +2 p. de salud.,Basic,Enchantment,CS2_004e,Palabra de poder: escudo,,,,,,,,,Priest,,,,,,
-Otorga +2 p. de salud a un esbirro.
-Roba una carta.,Basic,Spell,CS2_004,Palabra de poder: escudo,True,Neutral,Jessica Jung,Free,1,Se desbloquea al alcanzar el nivel 47.,¿Qué se consigue cuando metes a un sacerdote Disciplina en una piscina? ¡Un baño de burbujas!,Se desbloquea al alcanzar el nivel 1.,Priest,,,,,,
+Otorga +2 p. de salud a un esbirro.Roba una carta.,Basic,Spell,CS2_004,Palabra de poder: escudo,True,Neutral,Jessica Jung,Free,1,Se desbloquea al alcanzar el nivel 47.,¿Qué se consigue cuando metes a un sacerdote Disciplina en una piscina? ¡Un baño de burbujas!,Se desbloquea al alcanzar el nivel 1.,Priest,,,,,,
 Destruye a un esbirro con 3 p. de ataque o menos.,Basic,Spell,CS2_234,Palabra de Sombras: dolor,True,,Raymond Swanland,Free,2,Se desbloquea al alcanzar el nivel 36.,Pronto serás Exaltado con el ángel de la Resurrección.,Se desbloquea al alcanzar el nivel 1.,Priest,,,,,,
 Destruye a un esbirro con 5 p. de ataque o más.,Basic,Spell,EX1_622,Palabra de Sombras: muerte,True,,Raymond Swanland,Common,3,Se desbloquea al alcanzar el nivel 43.,Un buen sacerdote sabe cuándo retirarse: en cuanto un enemigo se fija en él.,Se desbloquea al alcanzar el nivel 8.,Priest,,,,,,
 <b>Provocar</b>,Basic,Minion,CS2_127,Patriarca Lomoblanco,True,Horde,Daren Bader,Common,3,Se desbloquea al alcanzar el nivel 53 con el guerrero.,Le gusta aparentar que es el jefe pero es la matriarca la que manda.,,,Taunt,1,4,Beast,,
@@ -177,8 +166,7 @@ Devuelve a un esbirro enemigo a la mano de tu oponente.,Basic,Spell,EX1_581,Porr
 Inflige $2 p. de daño a un esbirro que no haya recibido daño.,Basic,Spell,CS2_072,Puñalada,True,Neutral,Michael Sutfin,Free,0,Se desbloquea al alcanzar el nivel 36.,Los amigos de verdad te apuñalan de frente.,Se desbloquea al alcanzar el nivel 1.,Rogue,,,,,,
 Inflige $2 p. de daño.,Basic,Spell,CS1_130,Punición Sagrada,True,Neutral,Steve Ellis,Free,1,Se desbloquea al alcanzar el nivel 23.,Un sacerdote que empujó a un paladín del zepelín de Cima del Trueno inventó un deporte nuevo: el palacaidismo.,Se desbloquea al alcanzar el nivel 1.,Priest,,,,,,
 Inflige $1 p. de daño. Roba una carta.,Basic,Spell,EX1_278,Puyazo,True,Neutral,Alex Garner,Common,2,Se desbloquea al alcanzar el nivel 45.,Si no son puyazos de pícaro no son los auténticos.,Se desbloquea al alcanzar el nivel 6.,Rogue,,,,,,
-,Basic,Minion,CS2_119,Quijaforte de oasis,True,,Ittoku,Free,4,Se desbloquea al alcanzar el nivel 51 con el druida.,&bdquo;Y esto niños es lo que pasa cuando tiráis a vuestras mascotas por la letrina&bdquo;.
-—Zixut,,,,2,7,Beast,,
+,Basic,Minion,CS2_119,Quijaforte de oasis,True,,Ittoku,Free,4,Se desbloquea al alcanzar el nivel 51 con el druida.,&bdquo;Y esto niños es lo que pasa cuando tiráis a vuestras mascotas por la letrina&bdquo;.—Zixut,,,,2,7,Beast,,
 Este esbirro tiene ataque aumentado.,Basic,Enchantment,EX1_399e,Rabia,,,,,,,,,,,,,,,
 Cada vez que este esbirro recibe daño obtiene +3 p. de ataque.,Basic,Minion,EX1_399,Rabioso Gurubashi,True,Neutral,Alex Horley Orlandelli,Common,5,Se desbloquea al alcanzar el nivel 57 con el brujo.,¡No hay dolor!,,,,2,7,,,
 Inflige $2 p. de daño a dos esbirros enemigos aleatorios.,Basic,Spell,CS2_114,Rajar,True,Neutral,Phroilan Gardner,Common,2,Se desbloquea al alcanzar el nivel 40.,Por eso les interesa tanto a los guerreros agrupar a los enemigos.,Se desbloquea al alcanzar el nivel 2.,Warrior,,,,,,
@@ -188,16 +176,14 @@ Mira las tres cartas superiores de tu mazo. Roba una y descarta las demás.,Basi
 ,Basic,Minion,CS2_101t,Recluta Mano de Plata,,,,Free,1,,,,Paladin,,1,1,,,
 Invoca a dos esbirros 0/2 con <b>Provocar</b>.,Basic,Spell,CS2_027,Reflejo exacto,True,Neutral,Jim Nelson,Common,1,Se desbloquea al alcanzar el nivel 36.,¡Es el Reflejo exacto! !otcaxe ojelfeR le sE¡,Se desbloquea al alcanzar el nivel 4.,Mage,,,,,,
 <b>Provocar</b>,Basic,Minion,CS2_mirror,Reflejo exacto,,Neutral,,Common,0,,,,Mage,Taunt,0,2,,,
-<b>Poder de héroe</b>
-Invoca a un Recluta Mano de Plata 1/1.,Basic,Hero Power,CS2_101,Refuerzo,,Neutral,,Free,2,,,,Paladin,,,,,,
+<b>Poder de héroe</b>Invoca a un Recluta Mano de Plata 1/1.,Basic,Hero Power,CS2_101,Refuerzo,,Neutral,,Free,2,,,,Paladin,,,,,,
 ,Basic,Hero,HERO_05,Rexxar,True,Neutral,,Free,,,,,Hunter,,,30,,,
 Tus bestias tienen <b>Cargar</b>.,Basic,Minion,DS1_178,Rinoceronte de la tundra,True,Neutral,Lars Grant-West,Common,5,Se desbloquea al alcanzar el nivel 43.,A los rinocerontes de la tundra se los suele confundir con kodos. ¿O era a los kodos con rinocerontes?,Se desbloquea al alcanzar el nivel 8.,Hunter,,2,5,Beast,,
 Otorga a tus personajes +2 p. de ataque este turno.,Basic,Spell,CS2_011,Rugido salvaje,True,Neutral,Grace Liu,Common,3,Se desbloquea al alcanzar el nivel 43.,¿Por qué rugen? ¿Tienen hambre? Nadie lo sabe.,Se desbloquea al alcanzar el nivel 4.,Druid,,,,,,
 +2 p. de ataque este turno.,Basic,Enchantment,CS2_011o,Rugido salvaje,,,,,,,,,Druid,OneTurnEffect,,,,,
 Destruye a un demonio. Restaura #5 p. de salud a tu héroe.,Basic,Spell,NEW1_003,Sacrificio pactado,True,,Jim Nelson,Common,0,Se desbloquea al alcanzar el nivel 15.,Por cosas como esta es imposible la amistad entre los demonios y los brujos.,Se desbloquea al alcanzar el nivel 8.,Warlock,,,,,,
 Restaura toda la salud de un esbirro y le otorga <b>Provocar</b>.,Basic,Spell,CS2_041,Sanación ancestral,True,Neutral,Dan Scott,Free,0,Se desbloquea al alcanzar el nivel 15.,En la batalla puedes invocar la fuerza de tus ancestros. ¡Por eso está bien tener muchos parientes!,Se desbloquea al alcanzar el nivel 1.,Shaman,,,,,,
-<b>Poder de héroe</b>
-Restaura 2 p. de salud.,Basic,Hero Power,CS1h_001,Sanación inferior,,Neutral,,Free,2,,,,Priest,,,,,,
+<b>Poder de héroe</b>Restaura 2 p. de salud.,Basic,Hero Power,CS1h_001,Sanación inferior,,Neutral,,Free,2,,,,Priest,,,,,,
 <b>Grito de batalla:</b> Restaura 2 p. de salud a todos los personajes amistosos.,Basic,Minion,DS1_055,Sanadora Escama Oscura,True,Neutral,Jesper Ejsing,Common,5,Se desbloquea al alcanzar el nivel 55 con el sacerdote.,Le gusta sanar en su tiempo libre.,,,Battlecry,4,5,,,
 ,Basic,Weapon,CS2_112,Segadora de arcanita,True,Neutral,Stefan Kopinski,Common,5,Se desbloquea al alcanzar el nivel 51.,Arcanita no kriptonita. Esta funciona con todo el mundo.,Se desbloquea al alcanzar el nivel 10.,Warrior,,5,,,,2
 <b>Provocar</b>,Basic,Minion,CS2_162,Señor de la arena,True,Alliance,E.M. Gist,Common,6,Se desbloquea al alcanzar el nivel 59 con el sacerdote.,No deja de contar anécdotas sobre todas las arenas 3c3 en las que luchó.,,,Taunt,6,5,,,
@@ -212,8 +198,7 @@ Inflige $1 p. de daño a todos los esbirros.,Basic,Spell,EX1_400,Torbellino,True
 <b>Provocar</b>,Basic,Minion,CS2_051,Tótem Garra de piedra,,Neutral,,Free,1,,,,Shaman,Taunt,0,2,Totem,,
 Los esbirros adyacentes tienen +2 p. de ataque.,Basic,Minion,EX1_565,Tótem Lengua de Fuego,True,Neutral,Jonathan Ryder,Common,2,Se desbloquea al alcanzar el nivel 43.,A los fabricantes de tótems les gusta usar las maderas más nobles. Incluso se dice que a veces usan protectores Cortezaférrea.,Se desbloquea al alcanzar el nivel 4.,Shaman,AdjacentBuff|Aura,0,3,Totem,,
 Al final de tu turno restaura 1 p. de salud a todos los esbirros amistosos.,Basic,Minion,NEW1_009,Tótem sanador,,,,Free,1,,,,Shaman,,0,2,Totem,,
-<b>Poder de héroe</b>
-Roba una carta y recibe 2 p. de daño.,Basic,Hero Power,CS2_056,Transfusión de vida,,Neutral,,Free,2,,,,Warlock,,,,,,
+<b>Poder de héroe</b>Roba una carta y recibe 2 p. de daño.,Basic,Hero Power,CS2_056,Transfusión de vida,,Neutral,,Free,2,,,,Warlock,,,,,,
 <b>Provocar</b>,Basic,Minion,CS2_187,Truhán de Bahía del Botín,True,Horde,Matt Cavotta,Common,5,Se desbloquea al alcanzar el nivel 55 con el chamán.,Su lealtad será incondicional... hasta que alguien le ofrezca más dinero que tú.,,,Taunt,5,4,,,
 ,Basic,Hero,HERO_04,Uther el Iluminado,True,Neutral,,Free,,,,,Paladin,,,30,,,
 ,Basic,Hero,HERO_03,Valeera Sanguinar,True,Neutral,,Free,,,,,Rogue,,,30,,,
