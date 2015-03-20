@@ -144,7 +144,7 @@ def get_csv(j):
          elif isinstance(card[key], int):
             data[index] = str(card[key])
          else:
-            data[index] = card[key].replace(',', '').replace("'", "")
+            data[index] = card[key].replace(',', '').replace("'", "&sbquo;").replace('"', '&bdquo;')
 
       rows.append(','.join(data))
 
