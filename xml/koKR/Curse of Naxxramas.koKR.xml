@@ -1,0 +1,4382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   간식용 좀비
+  </name>
+  <artist>
+   E. M. Gist
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 적 영웅의 생명력을 5 회복시킵니다.
+  </text>
+  <howtoget>
+   피조물 지구의 글루스를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   FP1_001
+  </id>
+  <flavor>
+   오늘은 내가 좀비 요리사!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   피조물 지구의 글루스를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   갈고리
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;질풍&lt;/b&gt;
+&lt;b&gt;죽음의 메아리:&lt;/b&gt; 이 무기 카드를 내 손으로 가져옵니다.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   갈고리
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 이 무기 카드를 내 손으로 가져옵니다.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   강령술의 오라
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 피해를 3 줍니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   이번 턴에 주문의 비용이 (5) 증가
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_030e
+  </id>
+  <name>
+   강령술의 오라
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   강령술의 오라
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 피해를 3 줍니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   거대한 룬검
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   영웅에게 피해를 2배 줍니다.
+  </text>
+  <attack>
+   10
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   거대한 룬검
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   영웅에게 피해를 2배 줍니다.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   거미줄 감싸기
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위 적 하수인 하나를 상대편의 손으로 돌려보냅니다.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   거미줄 감싸기
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위 적 하수인 둘을 상대편의 손으로 돌려보냅니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   격노
+  </name>
+  <text>
+   이번 턴에 공격력 +6
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_04e
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   격노
+  </name>
+  <text>
+   이번 턴에 내 영웅에게 공격력을 +6 부여합니다.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX12_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   고동치는 수액괴물
+  </name>
+  <artist>
+   Eric Browning
+  </artist>
+  <text>
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 턴이 끝날 때, 이 하수인을 복사합니다.
+  </text>
+  <howtoget>
+   서리고룡 둥지의 사피론을 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_003
+  </id>
+  <flavor>
+   끈적... 끈적... 끈적...
+  </flavor>
+  <rarity>
+   Epic
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   서리고룡 둥지의 사피론을 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   공허소환사
+  </name>
+  <artist>
+   Robb Shoberg
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 내 손의 무작위 악마 하나를 전장에 놓습니다.
+  </text>
+  <howtoget>
+   낙스라마스의 흑마법사 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <id>
+   FP1_022
+  </id>
+  <flavor>
+   산 자와 죽은 자들의 세계를 이어줍니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   낙스라마스의 흑마법사 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX2_01
+  </id>
+  <name>
+   귀부인 팰리나
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX2_01H
+  </id>
+  <name>
+   귀부인 팰리나
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX11_01H
+  </id>
+  <name>
+   그라불루스
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX11_01
+  </id>
+  <name>
+   그라불루스
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   그물거미
+  </name>
+  <artist>
+   Dan Brereton
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 야수 카드 1장을 손으로 가져옵니다.
+  </text>
+  <howtoget>
+   낙스라마스의 사냥꾼 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <id>
+   FP1_011
+  </id>
+  <flavor>
+   거미 고치는 마치 작은 피냐타 같습니다! 귀여워라!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   낙스라마스의 사냥꾼 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   공격력과 생명력 바뀜
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_02e
+  </id>
+  <name>
+   극성
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   극성 변환
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;모든&lt;/b&gt; 하수인의 공격력과 생명력을 바꿉니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX13_02
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX12_01H
+  </id>
+  <name>
+   글루스
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX12_01
+  </id>
+  <name>
+   글루스
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   기사단의 징표
+  </name>
+  <text>
+   내 하수인들과 무기에 +1/+1을 부여합니다.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX9_07
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX9_07e
+  </id>
+  <name>
+   기사단의 징표
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   나무정령
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_019t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   낙스라마스의 망령
+  </name>
+  <artist>
+   Ittoku Seta
+  </artist>
+  <text>
+   &lt;b&gt;은신.&lt;/b&gt; 내 턴이 시작될 때, +1/+1을 얻습니다.
+  </text>
+  <howtoget>
+   서리고룡 둥지의 켈투자드를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_005
+  </id>
+  <flavor>
+   전설도 아니면서 그룰보다 높은 생존력을 자랑합니다.
+  </flavor>
+  <rarity>
+   Epic
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   서리고룡 둥지의 켈투자드를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   14
+  </health>
+  <id>
+   NAX9_01H
+  </id>
+  <name>
+   남작 리븐데어
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   7
+  </health>
+  <id>
+   NAX9_01
+  </id>
+  <name>
+   남작 리븐데어
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   남작 리븐데어
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <text>
+   내 하수인들의 &lt;b&gt;죽음의 메아리&lt;/b&gt; 능력이 2번 발동됩니다.
+  </text>
+  <howtoget>
+   군사 지구를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_031
+  </id>
+  <flavor>
+   원래 켈투자드를 지키는 건 5인 기사단이었지만, 한 명은 밤낮 없는 격무에 진절머리를 내며 근무 시간과 복지 혜택이 좋은 죽음의 폐광 경비병으로 이직했습니다.
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   군사 지구를 완료한 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   냉기 숨결
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;빙결&lt;/b&gt; 상태가 아닌 모든 적 하수인을 처치합니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX14_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   냉기 작렬
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 피해를 2 주고 &lt;b&gt;빙결&lt;/b&gt;시킵니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   냉기 작렬
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 피해를 3 주고 &lt;b&gt;빙결&lt;/b&gt;시킵니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   네루비안
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   네루비안
+  </name>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   네루비안
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1h_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   네루비안 알
+  </name>
+  <artist>
+   Justin Thavirat
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 4/4 네루비안을 하나 소환합니다.
+  </text>
+  <howtoget>
+   거미 지구의 맥스나를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_007
+  </id>
+  <flavor>
+   네루비안 알은 좋은 단백질 공급원이죠.
+  </flavor>
+  <rarity>
+   Rare
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   거미 지구의 맥스나를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   네룹아르 그물군주
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   &lt;b&gt;전투의 함성&lt;/b&gt; 능력을 가진 하수인의 비용이 (2) 증가합니다.
+  </text>
+  <howtoget>
+   거미 지구의 귀부인 팰리나를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <id>
+   FP1_017
+  </id>
+  <flavor>
+   그물군주들은 하루 종일 거대한 트램펄린을 만들며 시간을 보낸답니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   거미 지구의 귀부인 팰리나를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   독구름
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+ 모든 적에게 피해를 2 줍니다. 만약 하나라도 죽으면 독액괴물을 소환합니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   독구름
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다. 만약 하나라도 죽으면 독액괴물을 소환합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   독성 씨앗
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   &lt;b&gt;모든&lt;/b&gt; 하수인을 처치하고 2/2 나무정령으로 교체합니다.
+  </text>
+  <howtoget>
+   낙스라마스의 드루이드 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   FP1_019
+  </id>
+  <flavor>
+   우리 아제로스 푸르게 푸르게
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   낙스라마스 드루이드 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   돌가죽 가고일
+  </name>
+  <artist>
+   Matt Smith
+  </artist>
+  <text>
+   내 턴이 시작될 때, 이 하수인은 생명력을 모두 회복합니다.
+  </text>
+  <howtoget>
+   역병 지구의 역병술사 노스를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <id>
+   FP1_027
+  </id>
+  <flavor>
+   특기: 얼음땡
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   역병 지구의 역병술사 노스를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   돌연변이 유발
+  </name>
+  <text>
+   하수인 하나에게 &lt;b&gt;도발&lt;/b&gt;과 +4/+4를 부여합니다.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX11_04
+  </id>
+ </item>
+ <item>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;, +4/+4
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX11_04e
+  </id>
+  <name>
+   돌연변이 유발
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   땅거미
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+3/1 네루비안 하나를 소환합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   땅거미
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+4/4 네루비안 하나를 소환합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1h_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   로데브
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <text>
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 다음 턴에 적이 쓰는 주문의 비용이 (5) 증가합니다.
+  </text>
+  <howtoget>
+   역병 지구를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_030
+  </id>
+  <flavor>
+   평범한 수렁 괴물 로데브, 몸에서 버섯 재배 수확 &amp;apos;충격&amp;apos;
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   역병 지구를 완료한 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   99
+  </health>
+  <id>
+   NAX6_01H
+  </id>
+  <name>
+   로데브
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   75
+  </health>
+  <id>
+   NAX6_01
+  </id>
+  <name>
+   로데브
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   룬검
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   다른 기사들이 모두 죽으면 공격력을 +6 얻습니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   룬검
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   다른 기사들이 모두 죽으면 공격력을 +3 얻습니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX3_01
+  </id>
+  <name>
+   맥스나
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Poisonous
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   맥스나
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <text>
+   이 하수인에게 피해를 입은 하수인은 무조건 죽습니다.
+  </text>
+  <howtoget>
+   거미 지구를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_010
+  </id>
+  <flavor>
+   맥스나는 사람들이 자신을 "맵시나"라고 부르는 걸 싫어합니다.
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   거미 지구를 완료한 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX3_01H
+  </id>
+  <name>
+   맥스나
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   메뚜기 떼
+  </name>
+  <text>
+   모든 적 하수인에게 피해를 $3 줍니다. 내 영웅의 생명력을 #3 회복시킵니다.
+  </text>
+  <cost>
+   7
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX1_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   무자비한 수련생
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편에게 유령 수련생 하나를 소환해 줍니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   무자비한 전사
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편에게 유령 전사 하나를 소환해 줍니다.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   무자비한 죽음의 기병
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편에게 유령 기병 하나를 소환해 줍니다.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   미치광이 과학자
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 덱에 있는 &lt;b&gt;비밀&lt;/b&gt; 카드 1장을 사용합니다.
+  </text>
+  <howtoget>
+   피조물 지구의 그라불루스를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_004
+  </id>
+  <flavor>
+   어머니는 마법사나 흑마법사가 되길 바랐지만, 그는 결국 아버지의 뒤를 이어 과학자가 되었답니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   피조물 지구의 그라불루스를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   복수
+  </name>
+  <text>
+   +3/+2
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_020e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   복제
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;비밀:&lt;/b&gt; 아군 하수인이 죽으면, 그 하수인 카드 2장을 내 손으로 가져옵니다.
+  </text>
+  <howtoget>
+   낙스라마스의 마법사 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   FP1_018
+  </id>
+  <flavor>
+   카드를 복사해도 계정 정지를 피할 수 있는 유일한 기회입니다!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   낙스라마스의 마법사 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   부정의 그림자
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+카드를 2장 뽑습니다.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX9_06
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   부정의 헤이건
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01H
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   부정의 헤이건
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   부패의 독
+  </name>
+  <text>
+   하수인 하나를 처치합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX3_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   분출
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+가장 왼쪽에 있는 적 하수인에게 피해를 3 줍니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   분출
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+가장 왼쪽에 있는 적 하수인에게 피해를 2 줍니다.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   불안정한 구울
+  </name>
+  <artist>
+   Mike Nicholson
+  </artist>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;. &lt;b&gt;죽음의 메아리:&lt;/b&gt; &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다.
+  </text>
+  <howtoget>
+   역병 지구의 부정의 헤이건을 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   FP1_024
+  </id>
+  <flavor>
+   요즘 강령술사 학교에서 잘 나가는 애들은 자신의 구울을 로켓 연료로 채우곤 한답니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   역병 지구의 부정의 헤이건을 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   불의 비
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+상대편의 손에 있는 카드 수만큼 화살을 발사합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   불의 비
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+상대편의 손에 있는 카드 수만큼 화살을 발사합니다.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03H
+  </id>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   비글스워스 씨
+  </name>
+  <text>
+   &lt;i&gt;켈투자드가 기르는 고양이입니다.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX15_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   사슬
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위 적 하수인 하나를 우리편으로 만듭니다.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   사슬
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위 적 하수인 하나를 이번 턴에만 우리편으로 만듭니다.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX14_01
+  </id>
+  <name>
+   사피론
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX14_01H
+  </id>
+  <name>
+   사피론
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   수습생
+  </name>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX7_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   수액괴물
+  </name>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   순수한 추위
+  </name>
+  <text>
+   적 영웅에게 피해를 $8 주고 &lt;b&gt;빙결&lt;/b&gt;시킵니다.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX14_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   숭배자
+  </name>
+  <text>
+   내 턴에 내 영웅의 공격력이 +1 증가합니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   숭배자
+  </name>
+  <text>
+   내 턴에 내 영웅의 공격력이 +3 증가합니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   스탈라그
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 만약 퓨진이 죽은 상태라면 타디우스를 소환합니다.
+  </text>
+  <howtoget>
+   피조물 지구를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014
+  </id>
+  <flavor>
+   "스탈라그 잘생겼다!" (스탈라그가 쓴 거 아님)
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   피조물 지구를 완료한 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   스탈라그
+  </name>
+  <type>
+   Minion
+  </type>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX13_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   시체 되살리기
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적이 죽을 때마다 5/5 해골을 하나 소환합니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   시체 되살리기
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적이 죽을 때마다 1/1 해골을 하나 소환합니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   썩은위액 누더기골렘
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;도발.
+죽음의 메아리:&lt;/b&gt; &lt;b&gt;도발&lt;/b&gt; 능력을 가진 1/2 수액괴물을 1마리 소환합니다.
+  </text>
+  <howtoget>
+   역병 지구의 로데브를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   FP1_012
+  </id>
+  <flavor>
+   주의: 맥주를 주지 마시오.
+  </flavor>
+  <rarity>
+   Rare
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   역병 지구의 로데브를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   아귀
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   &lt;b&gt;죽음의 메아리&lt;/b&gt; 능력을 가진 하수인이 죽을 때마다 공격력을 +2 얻습니다.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   아귀
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   &lt;b&gt;죽음의 메아리&lt;/b&gt; 능력을 가진 하수인이 죽을 때마다 공격력을 +2 얻습니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX1h_01
+  </id>
+  <name>
+   아눕레칸
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX1_01
+  </id>
+  <name>
+   아눕레칸
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   아눕아르 복병
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 아군 하수인 하나를 내 손으로 다시 가져옵니다.
+  </text>
+  <howtoget>
+   낙스라마스의 도적 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   FP1_026
+  </id>
+  <flavor>
+   본래 이름은 "하수인을 손으로 가져오는 아눕아르 뭐시기"였습니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   낙스라마스의 도적 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   앙갚음
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;비밀:&lt;/b&gt; 내 하수인 중 하나가 죽으면, 무작위 아군 하수인 하나에게 +3/+2를 부여합니다.
+  </text>
+  <howtoget>
+   낙스라마스의 성기사 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   FP1_020
+  </id>
+  <flavor>
+   어쩐지 성기사의 하수인들은 서로 더 친한 것 같더니만...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   낙스라마스의 성기사 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   능력치 증가
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_028e
+  </id>
+  <name>
+   어둠의 부름
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   어둠의 이교도
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 아군 하수인 하나에게 생명력을 +3 부여합니다.
+  </text>
+  <howtoget>
+   낙스라마스의 사제 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <id>
+   FP1_023
+  </id>
+  <flavor>
+   저주받은 자들의 교단은 새로운 이교도를 모집할 때 교단의 이름을 밝히지 않는 편이 낫다는 걸 깨달았습니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   낙스라마스에서 사제 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   얼어붙은 용사
+  </name>
+  <text>
+   영구 빙결. 양옆의 하수인들이 냉기 숨결에 면역이 됩니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   10
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX14_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   얼음왕관의 수호자
+  </name>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   얼음왕관의 수호자
+  </name>
+  <text>
+   &lt;b&gt;도발&lt;/b&gt;
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03n
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   여군주 블라미우스
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   여군주 블라미우스
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   역병
+  </name>
+  <text>
+   해골을 제외한 &lt;b&gt;모든&lt;/b&gt; 하수인을 처치합니다.
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX4_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   역병술사 노스
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   역병술사 노스
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01H
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   영주 코스아즈
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   영주 코스아즈
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_03H
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX8_01H
+  </id>
+  <name>
+   영혼 착취자 고딕
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX8_01
+  </id>
+  <name>
+   영혼 착취자 고딕
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   울부짖는 영혼
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 내 다른 하수인들을 &lt;b&gt;침묵&lt;/b&gt;시킵니다.
+  </text>
+  <howtoget>
+   피조물 지구의 타디우스를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   FP1_016
+  </id>
+  <flavor>
+   정말 쉬지도 않고 계속 울부짖네요. 영혼아. 밥은 먹고 다니니?
+  </flavor>
+  <rarity>
+   Rare
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   피조물 지구의 타디우스를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 거미
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 기병
+  </name>
+  <text>
+   내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 기사
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다.
+  </text>
+  <howtoget>
+   군사 지구의 영혼 착취자 고딕을 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   FP1_008
+  </id>
+  <flavor>
+   요정용과 유령 기사의 공통점이 뭐냐고요? 음... 둘 다 파스타를 좋아한다는 거?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   군사 지구의 영혼 수확자 고딕을 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 들린 거미
+  </name>
+  <artist>
+   Jeremy Cranford
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 1/1 유령 거미를 2마리 소환합니다.
+  </text>
+  <howtoget>
+   거미 지구의 아눕레칸을 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_002
+  </id>
+  <flavor>
+   여기에 쓸 거미에 대한 내용을 찾다보니 거미 공포증에 걸린 것 같습니다...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   거미 지구의 아눕레칸을 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 수련생
+  </name>
+  <text>
+   내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   유령 전사
+  </name>
+  <text>
+   내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   윤회
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   하수인을 하나 처치하고, 그 하수인을 최대 생명력으로 부활시킵니다.
+  </text>
+  <howtoget>
+   낙스라마스의 주술사 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   FP1_025
+  </id>
+  <flavor>
+   여러분, 술사님 윤회 있으시답니다. 뛰지 마세요.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   낙스라마스의 주술사 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   공격력 증가
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_03e
+  </id>
+  <name>
+   이빨 추가
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   장의사
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   내가 &lt;b&gt;죽음의 메아리&lt;/b&gt; 능력을 가진 하수인을 소환할 때마다 공격력을 +1 얻습니다.
+  </text>
+  <howtoget>
+   피조물 지구의 패치워크를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   FP1_028
+  </id>
+  <flavor>
+   영혼의 치유사에게 뛰어가서 바로 부활할 수 있는 아제로스에서 장의사들은 별로 할 일이 없답니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   피조물 지구의 패치워크를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   정신 대재앙
+  </name>
+  <text>
+   두 플레이어 모두 카드를 2장 뽑고 마나 수정을 하나 획득합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX5_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   정신 지배 수정
+  </name>
+  <text>
+   수정을 조작하여 수습생을 조종하십시오!
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX7_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   젤리에크 경
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   젤리에크 경
+  </name>
+  <text>
+   내 영웅이 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX9_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   죽음의 군마
+  </name>
+  <text>
+   &lt;b&gt;돌진. 죽음의 메아리:&lt;/b&gt; 내 영웅에게 피해를 3 줍니다.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_006
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   죽음의 군주
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;도발. 죽음의 메아리:&lt;/b&gt; 상대편이 덱에 있는 하수인 하나를 전장에 놓습니다.
+  </text>
+  <howtoget>
+   군사 지구의 4인 기사단을 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <id>
+   FP1_009
+  </id>
+  <flavor>
+   "무덤에서 일어나라!" - 켈투자드
+  </flavor>
+  <rarity>
+   Rare
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   군사 지구의 4인 기사단을 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   죽음의 꽃
+  </name>
+  <text>
+   하수인 하나에게 피해를 5 줍니다. 포자를 하나 소환합니다.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   죽음의 독액괴물
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX11_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   죽음의 이빨
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 이 무기가 파괴될 때, &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <howtoget>
+   낙스라마스의 전사 직업 도전 과제를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <id>
+   FP1_021
+  </id>
+  <flavor>
+   이를 닦을 때는 반드시 혀도 닦으세요!!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   낙스라마스의 전사 직업 도전 과제를 완료한 후 제작 가능
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   증오의 일격
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+하수인을 하나 처치합니다.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   증오의 일격
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+하수인을 하나 처치합니다.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   지구라트의 힘
+  </name>
+  <text>
+   생명력 +3
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_023e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   공격력 증가
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX6_03te
+  </id>
+  <name>
+   진균 번식
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   착취
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+카드를 1장 뽑습니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   착취
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+카드를 1장 뽑고, 마나 수정을 1개 획득합니다.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   척살
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+적 하수인들의 생명력을 1로 바꿉니다.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   생명력 1로 바뀜
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_02e
+  </id>
+  <name>
+   척살
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   척살
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;모든&lt;/b&gt; 하수인의 생명력을 1로 바꿉니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   초자력 충전
+  </name>
+  <text>
+   내 하수인들에게 생명력을 +2 부여합니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX13_03
+  </id>
+ </item>
+ <item>
+  <text>
+   생명력 +2
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_03e
+  </id>
+  <name>
+   초자력 충전
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   춤추는 검
+  </name>
+  <artist>
+   Jon McConnell
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편이 카드를 1장 뽑습니다.
+  </text>
+  <howtoget>
+   군사 지구의 훈련교관 라주비어스를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <id>
+   FP1_029
+  </id>
+  <flavor>
+   본래 이름은 "(레게 음악에 맞춰) 춤추는 검"입니다.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   군사 지구의 훈련교관 라주비어스를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01e
+  </id>
+  <name>
+   침입자!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01He
+  </id>
+  <name>
+   침입자!
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX15_01H
+  </id>
+  <name>
+   켈투자드
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX15_01
+  </id>
+  <name>
+   켈투자드
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   켈투자드
+  </name>
+  <artist>
+   Chris Robinson
+  </artist>
+  <text>
+   각 턴이 끝날 때, 이번 턴에 죽은 모든 아군 하수인을 소환합니다.
+  </text>
+  <howtoget>
+   낙스라마스의 모든 우두머리를 쓰러뜨려 잠금 해제
+  </howtoget>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_013
+  </id>
+  <flavor>
+   켈투자드는 리치 왕의 부름에 저항할 수 없었습니다. 리치 왕의 덕을 찬양하는 자동 녹음 전화가 계속해서 걸려왔거든요.
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   낙스라마스의 모든 우두머리를 쓰러뜨린 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <text>
+   내 거야!
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_04a
+  </id>
+  <name>
+   켈투자드의 노예
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX13_01
+  </id>
+  <name>
+   타디우스
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   타디우스
+  </name>
+  <type>
+   Minion
+  </type>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   11
+  </attack>
+  <cost>
+   10
+  </cost>
+  <health>
+   11
+  </health>
+  <elite>
+   True
+  </elite>
+  <id>
+   FP1_014t
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX13_01H
+  </id>
+  <name>
+   타디우스
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   30
+  </health>
+  <id>
+   NAX10_01
+  </id>
+  <name>
+   패치워크
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   45
+  </health>
+  <id>
+   NAX10_01H
+  </id>
+  <name>
+   패치워크
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   포자
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 모든 적 하수인에게 공격력을 +8 부여합니다.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX6_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   포자 폭발
+  </name>
+  <text>
+   모든 적 하수인에게 피해를 $1 줍니다. 포자를 하나 소환합니다.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   퓨진
+  </name>
+  <type>
+   Minion
+  </type>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <elite>
+   True
+  </elite>
+  <id>
+   NAX13_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   퓨진
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 만약 스탈라그가 죽은 상태라면 타디우스를 소환합니다.
+  </text>
+  <howtoget>
+   피조물 지구를 완료하여 잠금 해제
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_015
+  </id>
+  <flavor>
+   퓨진은 슬픕니다. 스탈라그가 잘생겨서요.
+  </flavor>
+  <rarity>
+   Legendary
+  </rarity>
+  <elite>
+   True
+  </elite>
+  <howtogetgold>
+   피조물 지구를 완료한 후 제작 가능
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   해골
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   해골
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   해골 기사
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 양옆에 있는 하수인들을 처치합니다.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   해골 대장장이
+  </name>
+  <text>
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편의 무기를 파괴합니다.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   혼란의 일격
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+피해를 3 줍니다.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   혼란의 일격
+  </name>
+  <text>
+   &lt;b&gt;영웅 능력&lt;/b&gt;
+피해를 4 줍니다.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03H
+  </id>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   40
+  </health>
+  <id>
+   NAX7_01
+  </id>
+  <name>
+   훈련교관 라주비어스
+  </name>
+ </item>
+ <item>
+  <type>
+   Hero
+  </type>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <health>
+   55
+  </health>
+  <id>
+   NAX7_01H
+  </id>
+  <name>
+   훈련교관 라주비어스
+  </name>
+ </item>
+ <item>
+  <text>
+   능력치 증가
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_005e
+  </id>
+  <name>
+   흡수
+  </name>
+ </item>
+</cards>

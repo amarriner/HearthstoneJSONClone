@@ -1,0 +1,8229 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Anduin Wrynn
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_09
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arcymag
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <id>
+   CS2_155
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Arcymagowie mają w Dalaranie specjalną salę. Nikt nie wie, co się tam dzieje, ale na pewno nie imprezują, mimo że zawsze wynosi się stamtąd mnóstwo butelek.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie maga.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arkanitowy Rozpruwacz
+  </name>
+  <durability>
+   2
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_112
+  </id>
+  <flavor>
+   Rozpruwaj waść... wstydu oszczędź.
+  </flavor>
+  <artist>
+   Stefan Kopinski
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 51.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Awatar monety
+  </name>
+  <text>
+   &lt;i&gt;Straciłeś monetę, ale zyskałeś przyjaciela.&lt;/i&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GAME_002
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Bagienny raptor
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <artist>
+   Dan Brereton
+  </artist>
+  <id>
+   CS2_172
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Ten gatunek raptorów żyje na Krwawych Bagnach. Hemet Nesingwary radzi, aby zabijać je po 30 sztuk.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie łowcy.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Berserker z Gurubaszi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Otrzymuje +3 do ataku za każdym razem, gdy zostanie zraniony.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <id>
+   EX1_399
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Tak naprawdę to lubi, gdy go boli.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie czarnoksiężnika.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Blok tarczą
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Otrzymujesz 5 pkt. pancerza.
+Dobierz kartę.
+  </text>
+  <artist>
+   Michael Komarck
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_606
+  </id>
+  <flavor>
+   Tarcze wynaleziono, bo blok twarzą okazał się bezużyteczny.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Ten stronnik ma zwiększony atak.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_399e
+  </id>
+  <name>
+   Bojowy szał
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Boski duch
+  </name>
+  <artist>
+   Jim Pavelec
+  </artist>
+  <text>
+   Podwajasz zdrowie stronnika.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_236
+  </id>
+  <flavor>
+   Takiego potrojenia jak to podwojenie nie ma ani jednego.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Boski duch
+  </name>
+  <text>
+   Ten stronnik ma podwojone zdrowie.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_236e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cios w plecy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń niezranionemu stronnikowi.
+  </text>
+  <artist>
+   Michael Sutfin
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_072
+  </id>
+  <flavor>
+   To zabawne, jak często tekst „Patrz, trzygłowa małpa” sprawia, że przeciwnik się odwraca.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Czempion Wichrogrodu
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   Twoi pozostali stronnicy otrzymują +1/+1.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <id>
+   CS2_222
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   6
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Kiedy Śmiercioskrzydły zaatakował stolicę, ten żołnierz był jedynym członkiem oddziału, który został przy życiu. I nawet osiągnięcia nie dostał!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie paladyna.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar kapłanki
+  </name>
+  <text>
+   +1/+1
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_019e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar królów
+  </name>
+  <text>
+   +4/+4.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_092e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar królów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi +4/+4 &lt;i&gt;(+4 do ataku/+4 do zdrowia)&lt;/i&gt;.
+  </text>
+  <artist>
+   Lucas Graciano
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_092
+  </id>
+  <flavor>
+   Biorąc pod uwagę liczbę królów, którzy zostali skrytobójczo zabici, czy na pewno pragniesz ich daru?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar mocy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_087e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar mocy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi +3 do ataku.
+  </text>
+  <artist>
+   Zoltan Boros
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_087
+  </id>
+  <flavor>
+   Inspiracja dla słynnego przeboju: „Daj mi tę moc, tę jedną moc!”
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dowódca rajdu
+  </name>
+  <artist>
+   Phill Gonzales
+  </artist>
+  <text>
+   Twoi pozostali stronnicy otrzymują +1 do ataku.
+  </text>
+  <id>
+   CS2_122
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Zadaniem dowódcy rajdu jest zaplanować taktykę na wroga, wspierać swoją drużynę w czasie walki i nie załamywać się, kiedy po raz kolejny wszystko pójdzie w diabły.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie wojownika.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dowódca Wojennej Pieśni
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Za każdym razem gdy przyzywasz stronnika z atakiem 3 lub mniejszym, daj mu &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <artist>
+   Wei Wang
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_084
+  </id>
+  <flavor>
+   Są dumni z nazwy swojego klanu - choć zdaniem elfów tą pieśnią jest „Nic się nie stało, orki, nic się nie stało...”
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dzik
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_boar
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dzik szabloskalny
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <artist>
+   Howard Lyon
+  </artist>
+  <id>
+   CS2_171
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Ta karta jest dzika.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie łowcy.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dziki ryk
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj swoim postaciom +2 do ataku w tej turze.
+  </text>
+  <artist>
+   Grace Liu
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_011
+  </id>
+  <flavor>
+   Któż zaryczał, czego chciał?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dziki ryk
+  </name>
+  <text>
+   +2 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_011o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Egzekucja
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zniszcz wrogiego stronnika, który jest ranny.
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_108
+  </id>
+  <flavor>
+   Spokojnie, zasłużył na to.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Elfia łuczniczka
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 1 pkt. obrażeń.
+  </text>
+  <artist>
+   Steve Prescott
+  </artist>
+  <id>
+   CS2_189
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Lepiej nie zapraszaj jej na randkę. Bo jak cię strzeli...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie druida.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Elita Kor&amp;apos;kronu
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   NEW1_011
+  </id>
+  <flavor>
+   Kor&amp;apos;kron to doborowa jednostka Garosza Piekłorycza. Powiedzmy, że nie chcesz znaleźć się z nimi w jednym pomieszczeniu.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 44.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Eteryczny totem
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_052
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fala płomieni
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $4 pkt. obrażeń wszystkim wrogim stronnikom.
+  </text>
+  <artist>
+   Romain De Santi
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <cost>
+   7
+  </cost>
+  <id>
+   CS2_032
+  </id>
+  <flavor>
+   Kiedy wszystko wokół płonie, zacznij klaskać raźno w dłonie!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 51.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Furia wichru
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi &lt;b&gt;Furię wichru&lt;/b&gt;.
+  </text>
+  <artist>
+   Justin Sweet
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_039
+  </id>
+  <flavor>
+   Furia wichru świetnie nadaje się także do zamiatania ulic.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Garosz Piekłorycz
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_01
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gnomka wynalazca
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz kartę.
+  </text>
+  <artist>
+   Court Jones
+  </artist>
+  <id>
+   CS2_147
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Nigdy nie jest pewna, co właściwie wymyśla. Ale wie jedno - będzie ODJAZDOWE!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie kapłana.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gobliński ochroniarz
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Matt Cavotta
+  </artist>
+  <id>
+   CS2_187
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Możesz go wynająć... aż ktoś zapłaci mu dość złota, by wbił ci nóż w plecy.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie szamana.
+  </howtogetgold>
+ </item>
+ <item>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gorejący totem
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_050
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    HealTarget
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gorliwa kapłanka
+  </name>
+  <artist>
+   Terese Nielsen
+  </artist>
+  <text>
+   Za każdym razem gdy stronnik zostanie uleczony, dobierz kartę.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   CS2_235
+  </id>
+  <flavor>
+   Pomaga cierpiącym i potrzebującym. No i jeszcze sprzedaje ciasteczka.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Grizli żelaznoskóry
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <id>
+   CS2_125
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   „O, grizli?” „Nie, strielali”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie łowcy.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gul&amp;apos;dan
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_07
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gwałtowny wzrost
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Otrzymujesz pusty kryształ many.
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_013
+  </id>
+  <flavor>
+   Wyhoduj własne kryształy many za pomocą naszego zestawu! Tylko 10 sztuk złota plus podatek od many!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gwiezdny ogień
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $5 pkt. obrażeń
+Dobierz kartę.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   6
+  </cost>
+  <id>
+   EX1_173
+  </id>
+  <flavor>
+   Równowaga jest bardzo ważna dla druidów. Ta karta jest idealnie zrównoważona.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Heroiczny cios
+  </name>
+  <text>
+   +4 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_105e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Heroiczny cios
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj twojemu bohaterowi +4 do ataku w tej turze.
+  </text>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_105
+  </id>
+  <flavor>
+   Tak naprawdę, to w przypadku bohatera &lt;i&gt;każdy&lt;/i&gt; cios jest heroiczny.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Jaina Proudmoore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_08
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Jątrzący nóż
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <durability>
+   2
+  </durability>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   CS2_082
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kapłanka Straceńczego Słońca
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przyjaznemu stronnikowi +1/+1.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <id>
+   EX1_019
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Zawsze ma pod ręką napój energetyczny „Słoneczna Studnia™”!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie kapłana.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kobold geomanta
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;
+  </text>
+  <artist>
+   Gabor Szikszai
+  </artist>
+  <id>
+   CS2_142
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Dawno, dawno temu koboldy były najlepszymi wytwórcami świec na świecie. A później im odbiło...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie czarnoksiężnika.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Komandos Gromdardy
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 2 pkt. obrażeń.
+  </text>
+  <artist>
+   Kev Walker
+  </artist>
+  <id>
+   CS2_150
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Komandosi Gromdardy to eksperci od materiałów wybuchowych. Wypiekają także przepyszne babeczki.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie paladyna.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Konsekracja
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń wszystkim wrogom.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_093
+  </id>
+  <flavor>
+   Konsekrowana ziemia jaśnieje świętą energią. Podczas rytuału nie wdychaj za dużo kadzidła.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kontrola umysłu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przejmij kontrolę nad wrogim stronnikiem.
+  </text>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <cost>
+   10
+  </cost>
+  <id>
+   CS1_113
+  </id>
+  <flavor>
+   Nominacja w kategorii „Zaklęcie najłatwiej doprowadzające przeciwnika do furii”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kontrola umysłu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Kontrola nad tym stronnikiem została zamieniona.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_113e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kosior
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń. Dobierz kartę.
+  </text>
+  <artist>
+   Alex Garner
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   EX1_278
+  </id>
+  <flavor>
+   Zadaje więcej obrażeń wraz z okrzykiem bojowym „Kosi, kosi łapci!”
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kruszyskalny oręż
+  </name>
+  <text>
+   Ta postać ma +3 do ataku podczas tej tury.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_045e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kruszyskalny oręż
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj przyjaznej postaci +3 do ataku w tej turze.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_045
+  </id>
+  <flavor>
+   Dobrze sprawdza się, jeśli przeciwnik jest z kamienia.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Księżycowy ogień
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń.
+  </text>
+  <artist>
+   Richard Wright
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_008
+  </id>
+  <flavor>
+   „Co ja mam, co ja mam - księżycowy ogień”. - Piosenki małego druida, księga V
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kula ognia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $6 pkt. obrażeń.
+  </text>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_029
+  </id>
+  <flavor>
+   Na widok takiej kuli większość ludzi też się kuli. Ze strachu.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 44.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Leok
+  </name>
+  <text>
+   Pozostali przyjaźni stronnicy otrzymują +1 do ataku.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_033
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Leśny wilk
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Twoje pozostałe Bestie otrzymują +1 do ataku.
+  </text>
+  <artist>
+   Malcolm Davis
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <id>
+   DS1_175
+  </id>
+  <flavor>
+   Leśne wilki mają spore powodzenie wśród innych bestii.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Łowczyni z Brzytwoskórych
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij Dzika 1/1.
+  </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <id>
+   CS2_196
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Ktoś raz zadarł z Kłoryjem. Ino RAZ.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie łowcy.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lustrzane odbicie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przyzwij dwóch stronników 0/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_027
+  </id>
+  <flavor>
+   Hej, to Lustrzane odbicie! !eicibdo enazrtsuL ot ,jeH
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lustrzane odbicie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_mirror
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mag z Dalaranu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <id>
+   EX1_582
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Wojowników z Dalaranu jakoś się nie widuje.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie maga.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Malfurion Burzogniewny
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_06
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Mech
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mechaniczny smokor
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_025t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Misza
+  </name>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_032
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Ten Murlok ma +1 do ataku.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_508o
+  </id>
+  <name>
+   Mlarggragllabl!
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Młodsza inżynier
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz kartę.
+  </text>
+  <artist>
+   Karl Richardson
+  </artist>
+  <id>
+   EX1_015
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   „Połowa klasy nie otrzyma promocji... ponieważ zostaną zamienieni w kurczaki”. - Złote myśli dla nauczycieli autorstwa Nadiskrownika Opiłka.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie druida.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Młot Gniewu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń
+Dobierz kartę.
+  </text>
+  <artist>
+   Efrem Palacios
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_094
+  </id>
+  <flavor>
+   Dobry paladyn ma wiele narzędzi. Młot Gniewu. Szczypce Zemsty. Piła Sprawiedliwości i tym podobne.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Młyniec
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń WSZYSTKIM stronnikom.
+  </text>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_400
+  </id>
+  <flavor>
+   Sposób na rozróżnienie doświadczonych wojowników od żółtodziobów: ci drudzy wołają „fruuuu” rozpoczynając młyniec.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Moc krwi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Dobierz kartę i otrzymaj 2 pkt. obrażeń.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_056
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Otrzymujesz 1 kryształ many w tej turze.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Spell
+  </type>
+  <id>
+   GAME_005
+  </id>
+  <name>
+   Moneta
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_005e
+  </id>
+  <name>
+   Moneta
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Monterka smokorów
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij Mechanicznego smokora 2/1.
+  </text>
+  <artist>
+   Warren Mahy
+  </artist>
+  <id>
+   EX1_025
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Cały czas pracuje nad przystawką z wyrzutnią rakiet dla Pana Kąsacza.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie maga.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mówca wiatru
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przyjaznemu stronnikowi &lt;b&gt;Furię wichru&lt;/b&gt;.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_587
+  </id>
+  <flavor>
+   Czy jest coś gorszego niż mówca puszczający wiatry?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mroźne porażenie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń wrogiej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_037
+  </id>
+  <flavor>
+   Idzie mróz, idzie mróz, niesie śniegu cały wóz!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murlok brzegowiec
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij Murloka zwiadowcę 1/1.
+  </text>
+  <artist>
+   Dan Scott
+  </artist>
+  <id>
+   EX1_506
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Jak pisał poeta „Przy brzegu, gdzie rów głęboki, kły szczerzą okrutne murloki!”
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie łotra.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murlok grabieżca
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <artist>
+   Dan Scott
+  </artist>
+  <id>
+   CS2_168
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Mrrraggglhlhghghlgh, śpiewać... mrgaaag... każdy... blarrghlgaahahle... może mrgggg... trochę lepiej... glhalhah a bghhll... lub trochę gorzej... mglhlhlh mrghlhlhl!!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie kapłana.
+  </howtogetgold>
+ </item>
+ <item>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murlok zwiadowca
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_506a
+  </id>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Nadmiar many
+  </name>
+  <text>
+   Dobierz kartę. &lt;i&gt;(Możesz mieć maksymalnie 10 many w zasobniku).&lt;/i&gt;
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_013t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   NIEEEEEEEE!
+  </name>
+  <text>
+   Jakimś cudem, używana przez ciebie karta została skasowana. Weź tę w zamian!
+  </text>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Nawet tekst opisu został skasowan....
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GAME_006
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ogień duszy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $4 pkt. obrażeń. Odrzuć losową kartę.
+  </text>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_308
+  </id>
+  <flavor>
+   Chodzi o ogień z duszy. Nie z dyszy. To jednak spora różnica.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ogłuszenie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Cofnij wrogiego stronnika na rękę przeciwnika.
+  </text>
+  <artist>
+   Scott Altmann
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   EX1_581
+  </id>
+  <flavor>
+   Dzięki umiejętności ogłuszania, wielu łotrów dorabia na boku jako anestezjolodzy.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ognisty język
+  </name>
+  <text>
+   +2 do ataku od Totemu ognistego języka.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_565o
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ognisty ogar
+  </name>
+  <artist>
+   E.M. Gist
+  </artist>
+  <id>
+   CS2_201
+  </id>
+  <attack>
+   9
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Nie da się obłaskawić ognistych ogarów. Po prostu szkolisz je, żeby cię nie zżarły.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie łowcy.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ognisty pocisk
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 1 pkt. obrażeń.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_034
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Free
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ognisty wojenny topór
+  </name>
+  <durability>
+   2
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_106
+  </id>
+  <flavor>
+   W czasach pokoju i ogólnej harmonii broń ta znana jest pod mniej popularną nazwą: Pieligrządek Pokoju.
+  </flavor>
+  <artist>
+   Lucas Graciano
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ogr z Głazograbych
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <id>
+   CS2_200
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   „JA MIEĆ DOBRE STATY ZA NISKOM CENE!”
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie czarnoksiężnika.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ogrzy mag
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <id>
+   CS2_197
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Nauczanie ogrów magii to dość kontrowersyjny pomysł.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie czarnoksiężnika.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Oko na niebie
+  </name>
+  <text>
+   Leok daje temu stronnikowi +1 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NEW1_033o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Orzeźwienie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Otrzymujesz 2 kryształy many w tej turze.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   EX1_169
+  </id>
+  <flavor>
+   Niektórzy druidzi wciąż pamiętają nieznajomych, którzy krzyczeli „Orzeźwij mnie!”
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ostrość
+  </name>
+  <text>
+   +1 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_083e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ostrze Nocy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.
+  </text>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <id>
+   EX1_593
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Ostrze Nocy zawsze jest chętne do skrytej pomocy.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie druida.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ostrze skrytobójcy
+  </name>
+  <durability>
+   4
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_080
+  </id>
+  <flavor>
+   Gwarantujemy, że poprzednio należało do prawdziwego skrytobójcy. Załączamy certyfikat autentyczności.
+  </flavor>
+  <artist>
+   Brian Huang
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Owca
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_tk1
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pakt ofiarny
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   Zniszcz Demona. Przywróć #5 pkt. zdrowia twojemu bohaterowi.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   NEW1_003
+  </id>
+  <flavor>
+   Z tego właśnie powodu demony nigdy nie przyjaźnią się z czarnoksiężnikami.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pancerz!
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Otrzymujesz 2 pkt. pancerza.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_102
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pazur
+  </name>
+  <text>
+   +2 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_005o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pazur
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj twojemu bohaterowi +2 do ataku w tej turze oraz +2 pkt. pancerza.
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_005
+  </id>
+  <flavor>
+   Gdy druid pokazuje pazury, nie musi to oznaczać agresji. Może zwyczajnie prosi o manicure.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pazury
+  </name>
+  <text>
+   Twój bohater ma +1 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_017o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pewny strzał
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 2 pkt. obrażeń wrogiemu bohaterowi.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   DS1h_292
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Piechur ze Złotych Włości
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Donato Giancola
+  </artist>
+  <id>
+   CS1_042
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Jeśli na straży Złotych Włości stoją takie zuchy, to i tak cud, że nie zostały jeszcze spalone.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie paladyna.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Piekielny ogień
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń WSZYSTKIM postaciom.
+  </text>
+  <artist>
+   Chippy
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_062
+  </id>
+  <flavor>
+   To przez takie zaklęcia czarnoksiężnicy mają problemy ze znalezieniem pomocników.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pocisk cienia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $4 pkt. obrażeń stronnikowi.
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_057
+  </id>
+  <flavor>
+   To pocisk. Stworzony z cienia. Nic więcej wiedzieć nie trzeba.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pocisk lodu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń dowolnej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_024
+  </id>
+  <flavor>
+   Przy zagraniu tej karty zwykło się wołać „Mrożonka!” albo „Bałwan!”, ewentualnie „Zostawiam cię na lodzie”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Podstępne uderzenie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń wrogiemu bohaterowi.
+  </text>
+  <artist>
+   Frank Cho
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_075
+  </id>
+  <flavor>
+   W tym uderzeniu jest coś nietypowego. A nawet podstępnego!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pokora
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zmień atak stronnika na 1.
+  </text>
+  <artist>
+   Daren Bader
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_360
+  </id>
+  <flavor>
+   Nie wiedzieć czemu, pierwotna nazwa tej karty to „Wojciech”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pokora
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Atak został zmieniony na 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_360e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Morph
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Polimorfia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Ten stronnik został przemieniony w owcę 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_022e
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Polimorfia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przemień stronnika w owcę 1/1.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_022
+  </id>
+  <flavor>
+   Mieliśmy tu napisać jakiś fajny tekst, ale wyszedł beeeeeee-znadziejnie.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pomniejsze uzdrowienie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przywróć 2 pkt. zdrowia.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS1h_001
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Ma +1/+1.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_222o
+  </id>
+  <name>
+   Potęga Wichrogrodu
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pradawna infuzja
+  </name>
+  <text>
+   Prowokacja
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_041e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pradawne uzdrowienie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przywróć stronnika do pełni zdrowia i daj mu &lt;b&gt;Prowokację&lt;/b&gt;.
+  </text>
+  <artist>
+   Dan Scott
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_041
+  </id>
+  <flavor>
+   Podczas bitwy możesz przywołać siłę swoich przodków! Więc lepiej mieć dużą rodzinę!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Free
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Prawo Światłości
+  </name>
+  <durability>
+   4
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_091
+  </id>
+  <flavor>
+   W wersji dla mańkutów oręż ten nosi nazwę „Lewo Światłości”.
+  </flavor>
+  <artist>
+   Glenn Rane
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Prychacz
+  </name>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_034
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Przerażający infernal
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 1 pkt. obrażeń WSZYSTKIM pozostałym postaciom.
+  </text>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_064
+  </id>
+  <flavor>
+   „INFERNOOOOO!” - Jaraxxus, Lord Płonącego Legionu
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ręka ochrony
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi &lt;b&gt;Boską tarczę&lt;/b&gt;.
+  </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_371
+  </id>
+  <flavor>
+   To zaklęcie zmieniało nazwę tyle razy, że nawet paladyni już nie wiedzą, jaka jest ostateczna wersja.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rekrut Srebrnej Dłoni
+  </name>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_101t
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rexxar
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_05
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rozbłysk mrozu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Zamroź&lt;/b&gt; wszystkich wrogich stronników.
+  </text>
+  <artist>
+   Josh Tallman
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_026
+  </id>
+  <flavor>
+   Zimno wszędzie, mroźno wszędzie, co to będzie, co to będzie.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rozbłysk świętości
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń wszystkim wrogom. Przywróć #2 pkt. zdrowia wszystkim przyjaznym postaciom.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS1_112
+  </id>
+  <flavor>
+   Przyjdzie kryska na matyska, kiedy świętość mu rozbłyska.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rozkaz zabicia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń. Jeśli kontrolujesz Bestię, zamiast tego zadaj $5 pkt. obrażeń.
+  </text>
+  <artist>
+   Gabe from Penny Arcade
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_539
+  </id>
+  <flavor>
+   „Zabij!”, rozkazał.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rozpłatanie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń dwóm losowym wrogim stronnikom.
+  </text>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_114
+  </id>
+  <flavor>
+   Hej, wy tam! Możecie na chwilę stanąć obok siebie?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rycerz z Wichrogrodu
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <artist>
+   Ladronn
+  </artist>
+  <id>
+   CS2_131
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Wciąż im wstyd z powodu „Incydentu ze Śmiercioskrzydłym”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie paladyna.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ryzykancka rakieterka
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <artist>
+   John Polidora
+  </artist>
+  <id>
+   CS2_213
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Jedna szalona rakieterka plus jedna wybuchowa rakieta równa się masa zabawy.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie szamana.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rzeczny krokoliszek
+  </name>
+  <artist>
+   Daren Bader
+  </artist>
+  <id>
+   CS2_120
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Edward Nowak próbował kiedyś zrobić buty ze skóry krokoliszka. Ma teraz przydomek „Jednoręki”.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie druida.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Siepacz z Mroźnych Wilków
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Richie Marella
+  </artist>
+  <id>
+   CS2_121
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Siepanie to u niego rodzinna tradycja.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie szamana.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Skalnoszpony totem
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_051
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Skrytobójstwo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zniszcz wrogiego stronnika.
+  </text>
+  <artist>
+   Glenn Rane
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_076
+  </id>
+  <flavor>
+   Jeśli nie chcesz paść ofiarą skrytobójców, przenieś się na Pustkowia i zmień imię. Powodzenia!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Słowo cienia: Ból
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Zniszcz stronnika z atakiem 3 lub mniejszym.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_234
+  </id>
+  <flavor>
+   Ulepszona wersja zaklęcia rzucanego przez wielu początkujących akolitów: „Słowo cienia: Irytacja”.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Słowo cienia: Śmierć
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Zniszcz stronnika z atakiem 5 lub większym.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_622
+  </id>
+  <flavor>
+   Jeśli spudłujesz, na celu zostanie blizna w kształcie błyskawicy.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Słowo mocy: Tarcza
+  </name>
+  <text>
+   +2 do zdrowia.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_004e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Słowo mocy: Tarcza
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi +2 do zdrowia.
+Dobierz kartę.
+  </text>
+  <artist>
+   Jessica Jung
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_004
+  </id>
+  <flavor>
+   Jasne, że dodatkowa ochrona to fajna sprawa, ale tarcza naprawdę ogranicza pole widzenia.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Śmiertelny wir
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń stronnikowi. Jeśli go zabijesz, dobierz kartę.
+  </text>
+  <artist>
+   Matt Gaser
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_302
+  </id>
+  <flavor>
+   Jeśli twoje zaklęcia wyglądają jak przerażające czaszki, to chyba zasługujesz na jeszcze parę kart.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Splugawienie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Wybierz wrogiego stronnika i zniszcz go na początku twojej tury.
+  </text>
+  <artist>
+   Wayne Reynolds
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_063
+  </id>
+  <flavor>
+   Zwykle zaczyna się niewinnie, a zanim się zorientujesz, wszystko wokół splugawione!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Splugawienie
+  </name>
+  <text>
+   Ten stronnik zostanie zniszczony na początku tury plugawiącego gracza.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_063e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sprint
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Dobierz 4 karty.
+  </text>
+  <artist>
+   James Zhang
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <cost>
+   7
+  </cost>
+  <id>
+   CS2_077
+  </id>
+  <flavor>
+   Łotrzy nie są dobrymi długodystansowcami.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Srebrytowy Czempion
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Za każdym razem gdy twój bohater atakuje, przywróć mu 2 pkt. zdrowia.
+  </text>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_097
+  </id>
+  <flavor>
+   Doświadczeni paladyni nazywają ten miecz „srebrytową deską ratunku”.
+  </flavor>
+  <artist>
+   Ryan Sook
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Strażnik królów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przywróć 6 pkt. zdrowia twojemu bohaterowi.
+  </text>
+  <artist>
+   E.M. Gist
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_088
+  </id>
+  <flavor>
+   Warto go mieć przy sobie na wypadek ataku zabójcy królów!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Strzelec z Żelaznej Kuźni
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 1 pkt. obrażeń.
+  </text>
+  <artist>
+   Tooth
+  </artist>
+  <id>
+   CS2_141
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   „Cel! Pal! Pij!”
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie maga.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sukkub
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Odrzuć losową kartę.
+  </text>
+  <artist>
+   Matt Dixon
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_306
+  </id>
+  <flavor>
+   Czarnoksiężnicy to dopiero mają życie!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Święta Światłość
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przywróć #6 pkt. zdrowia.
+  </text>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_089
+  </id>
+  <flavor>
+   Jeśli często znajdujesz się pod wpływem świętej światłości, zainwestuj w krem z filtrem.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Święty cios
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń.
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS1_130
+  </id>
+  <flavor>
+   Nie ma znaczenia, czy jesteś pobożny. Każdy od czasu do czasu musi sobie coś walnąć!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szarża
+  </name>
+  <text>
+   Tundrowy nosorożec daje &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_178e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szarża
+  </name>
+  <text>
+   Ten stronnik otrzymuje &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_084e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szarża
+  </name>
+  <text>
+   +2 do ataku oraz &lt;b&gt;Szarża&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_103e2
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szarża
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj przyjaznemu stronnikowi +2 do ataku i &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_103
+  </id>
+  <flavor>
+   Szarżować każdy może, jeden lepiej, inny trochę gorzej.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Dzięki temu, że jesteś drugim graczem, otrzymujesz zwiększone zdrowie.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_001
+  </id>
+  <name>
+   Szczęśliwa moneta
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szkielet
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   skele11
+  </id>
+ </item>
+ <item>
+  <text>
+   Zwiększone statystyki.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_226e
+  </id>
+  <name>
+   Sztandar Mroźnych Wilków
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tajemna eksplozja
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom.
+  </text>
+  <artist>
+   Howard Lyon
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_025
+  </id>
+  <flavor>
+   To zaklęcie jest znacznie lepsze niż tajemna implozja.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tajemne pociski
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.
+  </text>
+  <artist>
+   Warren Mahy
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_277
+  </id>
+  <flavor>
+   Są na tyle tajemnicze, że magowie wciąż nie do końca wiedzą, jak nimi celować.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tajemny intelekt
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Dobierz 2 karty.
+  </text>
+  <artist>
+   Dave Berggren
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_023
+  </id>
+  <flavor>
+   Ulubione zaklęcie studentów Uniwersytetu Dalaranu. Zwłaszcza przed sesją egzaminacyjną.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tajemny strzał
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj 2 pkt. obrażeń.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   DS1_185
+  </id>
+  <flavor>
+   Magowie wytwarzali tajemne pociski i sprzedawali je łowcom, do czasu aż ci nauczyli się robić je sami. Doprowadziło to do bezrobocia, które wywołało pomniejszy kryzys w Wichrogrodzie.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tarczowy z Sen&amp;apos;jinu
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Brian Despain
+  </artist>
+  <id>
+   CS2_179
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Wioska Sen&amp;apos;jin jest bardzo sympatyczna. O ile lubisz kurz i trolle.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie łotra.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Thrall
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_02
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AdjacentBuff
+   </item>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem ognistego języka
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Sąsiedni stronnicy otrzymują +2 do ataku.
+  </text>
+  <artist>
+   Jonathan Ryder
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_565
+  </id>
+  <flavor>
+   Podobno do tworzenia tych totemów używa się „wody ognistej”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Treser ogarów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przyjaznej Bestii +2/+2 oraz &lt;b&gt;Prowokację&lt;/b&gt;.
+  </text>
+  <artist>
+   Dan Brereton
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   DS1_070
+  </id>
+  <flavor>
+   „Kto spuścił psy?”, zapytał. To retoryczne pytanie.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tresura
+  </name>
+  <text>
+   +2/+2 oraz &lt;b&gt;Prowokacja&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_070o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tropienie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Spójrz na trzy górne karty z twojej talii. Jedną dobierz na rękę, a dwie pozostałe odrzuć.
+  </text>
+  <artist>
+   Mauro Cascioli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   DS1_184
+  </id>
+  <flavor>
+   W sam raz dla osoby, która nie może zdecydować się, jakie karty wsadzić do talii!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tundrowy nosorożec
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Twoje Bestie otrzymują &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   DS1_178
+  </id>
+  <flavor>
+   Nosorożce często mylone są z bestiami kodo. Albo na odwrót.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uderzenie umysłu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $5 pkt. obrażeń wrogiemu bohaterowi.
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   DS1_233
+  </id>
+  <flavor>
+   To zaklęcie wali mocno po głowie.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uther Światłodzierżca
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_04
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uzdrawiaczka Mrocznołuskich
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przywróć 2 pkt. zdrowia wszystkim przyjaznym postaciom.
+  </text>
+  <artist>
+   Jesper Ejsing
+  </artist>
+  <id>
+   DS1_055
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Uzdrawianiem zajmuje się w wolnym czasie. To w zasadzie hobby takie.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie kapłana.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uzdrawiający dotyk
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przywróć #8 pkt. zdrowia.
+  </text>
+  <artist>
+   Cyril Van Der Haegen
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_007
+  </id>
+  <flavor>
+   Dobry dotyk koi natychmiast.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 15.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uzdrawiający totem
+  </name>
+  <text>
+   Na koniec twojej tury przywróć 1 pkt. zdrowia wszystkim przyjaznym stronnikom.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_009
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Valeera Sangwinar
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_03
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wachlarz ostrzy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom. Dobierz kartę.
+  </text>
+  <artist>
+   Andrew Robinson
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_129
+  </id>
+  <flavor>
+   Nie powiem, że kocham noże, ale czasem lubię sobie nimi powachlować.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 29.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wędrowiec Pustki
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   CS2_065
+  </id>
+  <flavor>
+   Podobno w innym świecie jego odpowiednikiem jest „Wędrowiec z Ustki”.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wezwanie Totemu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij losowy Totem.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_049
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wielostrzał
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $3 pkt. obrażeń dwóm losowym wrogim stronnikom.
+  </text>
+  <artist>
+   Benjamin Zhang
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   DS1_183
+  </id>
+  <flavor>
+   Wicie, rozumicie, wszystko rozbija się o &lt;i&gt;przebicie&lt;/i&gt;.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 36.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wilczy jeździec
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <id>
+   CS2_124
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Orkowie jeżdżą na wilkach, ponieważ są dobrze przystosowane do trudnego środowiska. No i mają mięciutkie futerko.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie wojownika.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wizja umysłu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Umieść w twojej ręce kopię losowej karty z ręki przeciwnika.
+  </text>
+  <artist>
+   Michael Komarck
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_003
+  </id>
+  <flavor>
+   Co ja pacze!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Władca Areny
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   E.M. Gist
+  </artist>
+  <id>
+   CS2_162
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Kiedyś wygrał na Arenie dwanaście pojedynków z rzędu. Choć minęło wiele lat, wciąż nie może przestać o tym gadać.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 59 poziomie kapłana.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wódz Mroźnych Wilków
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje +1/+1 za każdego innego przyjaznego stronnika na polu bitwy.
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <id>
+   CS2_226
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Mroźne Wilki wciąż walczą z ekspedycją Gromdardy o kontrolę nad doliną Alterac. Każda próba negocjacji pokojowych kończyła się na tym, że kapitan Galvangar pożerał mediatora.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie szamana.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wódz Srebrnogrzbietych
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Daren Bader
+  </artist>
+  <id>
+   CS2_127
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   „Znam i polecam!” - Król Mukla
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie wojownika.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wojenny golem
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <artist>
+   Dave Kendall
+  </artist>
+  <id>
+   CS2_186
+  </id>
+  <attack>
+   7
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Golemy nie czują strachu, ale z jakiegoś powodu uciekają, gdy rzucić na nie zaklęcie „Strach”. Może to instynkt? A może chęć wtopienia się w otoczenie?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie łotra.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wojownik Błękitnoskrzelich
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <artist>
+   Jakub Kasper
+  </artist>
+  <id>
+   CS2_173
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   On tylko chce buziaka. Mokrego... lepkiego buziaka.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie paladyna.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wściekły skowyt
+  </name>
+  <text>
+   Ta Bestia ma +1 do ataku dzięki Leśnemu wilkowi.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_175o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wsparcie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Rekruta Srebrnej Dłoni 1/1.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_101
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wulkaniczny furiat
+  </name>
+  <artist>
+   Matt Gaser
+  </artist>
+  <id>
+   CS2_118
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Łudzi się, że jest potężny, ale tak naprawdę każdy może wyskoczyć z nim teraz na solo.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie szamana.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wygłodniały sęp
+  </name>
+  <artist>
+   Bernie Kang
+  </artist>
+  <text>
+   Dobierz kartę za każdym razem, gdy przyzywasz Bestię.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 4.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   CS2_237
+  </id>
+  <flavor>
+   Jeśli go nakarmisz, straci rację bytu.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wyrocznia Burych Łusek
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   WSZYSTKIE pozostałe Murloki otrzymują +1 do ataku.
+  </text>
+  <artist>
+   Phil Saunders
+  </artist>
+  <id>
+   EX1_508
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   To te cwańsze murloki. Co wcale wiele nie znaczy.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 53 poziomie czarnoksiężnika.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wyssanie życia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $2 pkt. obrażeń. Przywróć #2 pkt. zdrowia twojemu bohaterowi.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_061
+  </id>
+  <flavor>
+   „Właśnie wyssałem ci rok życia”.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Dowódca rajdu daje temu stronnikowi +1 do ataku.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_122e
+  </id>
+  <name>
+   Wzmocnienie
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wzmocnienie totemów
+  </name>
+  <text>
+   +2 do zdrowia.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_244e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wzmocnienie totemów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj swoim Totemom +2 do zdrowia.
+  </text>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   EX1_244
+  </id>
+  <flavor>
+   Chroni totem przed łomotem.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Yeti z Zimnych Wichrów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <artist>
+   Mauro Cascioli
+  </artist>
+  <id>
+   CS2_182
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Zawsze marzył o zejściu z gór i otwarciu kiosku z kebabami, ale jakoś nie starczyło mu śmiałości.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie wojownika.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żaba
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   hexfrog
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zabójcza trucizna
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj twojej broni +2 do ataku.
+  </text>
+  <artist>
+   Trevor Jacobs
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_074
+  </id>
+  <flavor>
+   Sekrety wyrobu trucizn są zazdrośnie strzeżone przez łotrów, aby magowie nie tworzyli zatrutych zaklęć. Zatruty pocisk? Deszcz trucizny? Żywiołak trucizn? Nikt tego nie chce.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 43.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +2 do ataku.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_074e
+  </id>
+  <name>
+   Zabójcza trucizna
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zabójcze sztylety
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt;
+Wyposaż bohatera w sztylet 1/2.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_083b
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żądza krwi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj swoim stronnikom +3 do ataku w tej turze.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_046
+  </id>
+  <flavor>
+   blaarghghLLGHRHARAAHAHHH!!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żądza krwi
+  </name>
+  <text>
+   +3 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_046e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zamaszysty cios
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $4 pkt. obrażeń wrogowi i $1 pkt. obrażeń wszystkim pozostałym wrogom.
+  </text>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_012
+  </id>
+  <flavor>
+   Ulubiony cios zamachowców!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Twoje tury są krótsze.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_004
+  </id>
+  <name>
+   Zaraz wracam
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żelaznokory obrońca
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Prowokacja&lt;/b&gt;
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <attack>
+   8
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <id>
+   CS2_232
+  </id>
+  <flavor>
+   Stara kora nie rdzewieje!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Dzięki temu, że jesteś drugim graczem, twój pierwszy stronnik jest silniejszy.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_003
+  </id>
+  <name>
+   Zemsta monety
+  </name>
+ </item>
+ <item>
+  <text>
+   Dzięki temu, że jesteś drugim graczem, twój pierwszy stronnik jest silniejszy.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_003e
+  </id>
+  <name>
+   Zemsta monety
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zły urok
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Przemień stronnika w żabę 0/1 z &lt;b&gt;Prowokacją&lt;/b&gt;.
+  </text>
+  <artist>
+   Steve Hui
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_246
+  </id>
+  <flavor>
+   Jeśli rzucisz zły urok na murloka... to chyba wiele nie zmienisz, co?
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 47.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Morph
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zły urok
+  </name>
+  <text>
+   Ten stronnik został przemieniony!
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_246e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zmiennokształtność
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Moc specjalna&lt;/b&gt; 
+ +1 do ataku w tej turze.
+ +1 pkt. pancerza.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_017
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Znachor
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przywróć 2 pkt. zdrowia.
+  </text>
+  <artist>
+   Karl Richardson
+  </artist>
+  <id>
+   EX1_011
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Przyszła pora na znachora.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 55 poziomie łotra.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Znak łowcy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zmień zdrowie stronnika na 1.
+  </text>
+  <artist>
+   Jimmy Lo
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_084
+  </id>
+  <flavor>
+   Nigdy nie baw się w chowanego z łowcą.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 40.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Znak łowcy
+  </name>
+  <text>
+   Ten stronnik ma 1 pkt. zdrowia.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_084e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Znak ostępów
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Daj stronnikowi &lt;b&gt;Prowokację&lt;/b&gt; oraz +2/+2.&lt;i&gt; (+2 do ataku/+2 do zdrowia)&lt;/i&gt;.
+  </text>
+  <artist>
+   Brad Vancata
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_009
+  </id>
+  <flavor>
+   Nie należy mylić tej karty ze „Znakiem postępów”.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 28.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Znak ostępów
+  </name>
+  <text>
+   Ten stronnik ma +2/+2 oraz &lt;b&gt;Prowokację&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_009e
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zniknięcie
+  </name>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <text>
+   Cofnij wszystkich stronników na ręce właścicieli.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <cost>
+   6
+  </cost>
+  <howtogetgold>
+   Odblokowane na poziomie 23.
+  </howtogetgold>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_004
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żółwior szczękogryz
+  </name>
+  <artist>
+   Ittoku
+  </artist>
+  <id>
+   CS2_119
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Jego sny o lataniu i zianiu ogniem nigdy się nie spełnią.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 51 poziomie druida.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żrący bagienny szlam
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz broń przeciwnika.
+  </text>
+  <artist>
+   Chris Rahn
+  </artist>
+  <id>
+   EX1_066
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Woli, żeby mówić do niego „Glutek”.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na 57 poziomie łotra.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zwierzęcy towarzysz
+  </name>
+  <artist>
+   Wei Wang
+  </artist>
+  <text>
+   Przyzwij losowo jednego ze zwierzęcych towarzyszy Rexxara.
+  </text>
+  <howtoget>
+   Odblokowane na poziomie 2.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   NEW1_031
+  </id>
+  <flavor>
+   Możesz przyzwać Miszę, Leoka lub Prychacza! Prychacz sprawia więcej kłopotów niż jest wart.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 45.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żywiołak ognia
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 3 pkt. obrażeń.
+  </text>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 10.
+  </howtoget>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   CS2_042
+  </id>
+  <flavor>
+   Unika kąpieli bardziej niż ognia.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żywiołak wody
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Zamroź&lt;/b&gt; każdą postać zranioną przez tego stronnika.
+  </text>
+  <artist>
+   John Avon
+  </artist>
+  <howtoget>
+   Odblokowane na poziomie 8.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_033
+  </id>
+  <flavor>
+   Nie przywołuj żywiołaka wody do baru. Lubi rozcieńczać drinki.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Odblokowane na poziomie 49.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+</cards>

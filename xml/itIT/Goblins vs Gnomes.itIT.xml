@@ -1,0 +1,6506 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Adombrato
+  </name>
+  <text>
+   Salute scambiata.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_014a
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Adunata Militare
+  </name>
+  <artist>
+   Mike Hayes
+  </artist>
+  <text>
+   Evoca tre Reclute Mano d&amp;apos;Argento 1/1. Equipaggia un&amp;apos;arma 1/4.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Ho portato le pizze! - Il richiamo più efficace della Mano d&amp;apos;Argento
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_061
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +1 Attacco.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_023a
+  </id>
+  <name>
+   Affilatura
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Albero della Vita
+  </name>
+  <artist>
+   Steve Prescott
+  </artist>
+  <text>
+   Rigenera la salute di TUTTI i personaggi al massimo.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   9
+  </cost>
+  <flavor>
+   Chi l&amp;apos;avrebbe detto che le guarigioni crescessero sugli alberi?
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_033
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Alfred
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   Alla fine del turno di ogni giocatore, questo pesca fin quando non ha 3 carte.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Il maggiordomo perfetto!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_094
+  </id>
+ </item>
+ <item>
+  <text>
+   +1 Salute.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   PART_001e
+  </id>
+  <name>
+   Armatura Potenziata
+  </name>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Armatura Potenziata
+  </name>
+  <artist>
+   Nutchapol Thitinunthakorn
+  </artist>
+  <text>
+   +1 Salute a un servitore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Assorbimento Magia
+  </name>
+  <text>
+   Attacco aumentato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_068a
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Assorbimento Magia
+  </name>
+  <text>
+   Attacco aumentato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_067a
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Belva Zannaferrea
+  </name>
+  <artist>
+   Hideaki Takamura
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +2 Attacco a tutti gli altri tuoi Robot.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Mai lasciarle sotto la pioggia. Al Cratere di Un&amp;apos;Goro c&amp;apos;è un intero branco di Belve Zannaruggine.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_048
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Ben Equipaggiato
+  </name>
+  <text>
+   +2/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_060e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bobina Occultante
+  </name>
+  <artist>
+   Nutchapol Thitinunthakorn
+  </artist>
+  <text>
+   Fornisce &lt;b&gt;Furtività&lt;/b&gt; a un tuo servitore fino al tuo turno successivo.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_004
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bolvar Domadraghi
+  </name>
+  <artist>
+   Tooth
+  </artist>
+  <text>
+   Mentre è nella tua mano, ottiene +1 Attacco quando un tuo servitore muore.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Per chi non lo sapesse, Bolvar alla fine viene bruciato, poi si siede su un trono di ghiaccio e tutti si dimenticano di lui.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_063
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AffectedBySpellPower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bomba Fotonica
+  </name>
+  <artist>
+   Luca Zontini
+  </artist>
+  <text>
+   Infligge danni a TUTTI i servitori pari al loro attacco.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   6
+  </cost>
+  <flavor>
+   Ecco cosa succede se si permette ai Goblin di fare i Sacerdoti...
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_008
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bomba Oscura
+  </name>
+  <artist>
+   Jeff Haynie
+  </artist>
+  <text>
+   Infligge $3 danni.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Nell&amp;apos;oscurità nessuno può sentirti urlare.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_015
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bombarolo Più Pazzo
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 6 danni suddivisi casualmente tra TUTTI gli altri personaggi.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Come se il suo predecessore non fosse già abbastanza pericoloso.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_090
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Bruto Ogre
+  </name>
+  <artist>
+   Vinod Rams
+  </artist>
+  <text>
+   Probabilità del 50% di attaccare il nemico sbagliato.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Gli Ogre non sono noti per la loro memoria ferrea.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_065
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Cannone Nautico
+  </name>
+  <artist>
+   Warren Mahy
+  </artist>
+  <text>
+   Quando giochi un Pirata, infligge 2 danni a un nemico casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Se senti qualcuno urlare "A bomba!", stai per essere bagnato. O spiaccicato.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_075
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Carroragno
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Cosa ne dite se ci aggiungiamo dei cannoni? - Fizzblitz, mentre osserva una Ragnomobile
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_044
+  </id>
+ </item>
+ <item>
+  <text>
+   Attacco aumentato.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_063a
+  </id>
+  <name>
+   Castigo
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Cecchino Spargifumo
+  </name>
+  <artist>
+   Jun Kang
+  </artist>
+  <text>
+   Il tuo Potere Eroe può essere usato sui servitori.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   I Goblin di rado hanno la pazienza per fare i cecchini. Preferiscono metodi più... esplosivi.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_087
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Commutatore
+  </name>
+  <artist>
+   Nutthapon Petthai
+  </artist>
+  <text>
+   Scambia Attacco e Salute di un servitore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_006
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Corno Arrugginito
+  </name>
+  <artist>
+   Peerasak Senalai
+  </artist>
+  <text>
+   Fornisce &lt;b&gt;Provocazione&lt;/b&gt; a un servitore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_003
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Crepitio
+  </name>
+  <artist>
+   Warren Mahy
+  </artist>
+  <text>
+   Infligge da $3 a $6 danni. &lt;b&gt;Sovraccarico:&lt;/b&gt; (1)
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Funziona bene anche per far smettere la gente di parlare al telefono.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_038
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Cuore Demoniaco
+  </name>
+  <artist>
+   Kerem Beyit
+  </artist>
+  <text>
+   Infligge $5 danni a un servitore. Se il bersaglio è un tuo Demone, gli fornisce +5/+5.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   Praticamente tutti i membri dell&amp;apos;Associazione per la Protezione dei Demoni sono Stregoni. Che strano.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_019
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Cuore Demoniaco
+  </name>
+  <text>
+   +5/+5.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_019e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Curabot Antico
+  </name>
+  <artist>
+   Jesper Esjing
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; rigenera 8 Salute al tuo eroe.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Non se ne trovano più come una volta... principalmente perché sono tutti esplosi.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_069
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Dono di Carte
+  </name>
+  <text>
+   Ogni giocatore pesca una carta.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_032b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Dono di Mana
+  </name>
+  <text>
+   Ogni giocatore ottiene 1 Cristallo di Mana.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_032a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Dott. Boom
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca due Robobombe 1/1. &lt;i&gt;ATTENZIONE: le Robobombe possono esplodere.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Esperto in esplosioni!
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_110
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Driade dei Boschi
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   &lt;b&gt;Scegli:&lt;/b&gt; fornisce 1 Cristallo di Mana a ogni giocatore &lt;b&gt;o&lt;/b&gt; ogni giocatore pesca una carta.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Ama le passeggiate nei boschi, odia i Segatronchi e i sandali... non ne trova mai un modello che le vada bene.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_032
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Druido della Zanna
+  </name>
+  <artist>
+   Brandon Kitkouski
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; si trasforma in un servitore 7/7 se controlli una Bestia.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   I Druidi della Zanna vivono nella Caverna dei Lamenti. Indossano camicie pitonate, raccontano barzellette sui serpenti e ascoltano la musica ad alto volume.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_080
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Druido della Zanna
+  </name>
+  <artist>
+   Massive Black
+  </artist>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_080t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Eco di Medivh
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   Mette una copia di ogni tuo servitore sul campo di battaglia nella tua mano.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <flavor>
+   L&amp;apos;Eco di Medivh infesta Karazhan, eternamente pronta a imbrogliare a Scacchi e a Hearthstone.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_005
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Epuratore Scarlatto
+  </name>
+  <artist>
+   Anton Zemskov
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 2 danni a TUTTI i servitori con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   La Crociata Scarlatta sta facendo un&amp;apos;inchiesta di mercato per scoprire se il nome "Crociata Malva" otterrebbe maggiore consenso.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_101
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Fante di Gnomeregan
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Gli Gnomi non temono il pericolo e sono pronti a tutto per tornare nella loro claustrofobica e radioattiva patria!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_098
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Divine Shield
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Fastidiobot
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Scudo Divino&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   L&amp;apos;inventore del Fastidiobot è stato prontamente cacciato dalla scuola di Rabberciopoli ed esiliato dai Regni Orientali.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_085
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Folgoratic Rotante
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   &lt;b&gt;Furia del Vento&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Con un piccolo extra, lo si può ottenere di colore rosso ciliegia.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_037
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gahz&amp;apos;rilla
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Quando subisce danni, il suo Attacco raddoppia.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   9
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   L&amp;apos;arroganza dei Troll è pensare che &amp;apos;a natura sia sotto &amp;apos;o controllo loro e nun l&amp;apos;esatto contrario. - Uno studioso di Sen&amp;apos;jin
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_049
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gallina
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_092t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gattorso Robot
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   Quando subisce danni, mette nella tua mano una carta &lt;b&gt;Gadget&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <flavor>
+   Metà gatto, metà orso: completamente robot!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_034
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Geniere Goblin
+  </name>
+  <artist>
+   Jesper Esjing
+  </artist>
+  <text>
+   Ha +4 Attacco fintanto che l&amp;apos;avversario ha 6 o più carte in mano.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   È meglio disinnescare o far brillare gli esplosivi? Non conviene chiedere il suo parere al riguardo.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_095
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gigante Meccanico
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Costa (1) Mana in meno per ogni carta nella mano dell&amp;apos;avversario.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   12
+  </cost>
+  <health>
+   8
+  </health>
+  <flavor>
+   Non va per niente d&amp;apos;accordo con il Gigante di Montagna.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_121
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gnomo Aggiustatutto
+  </name>
+  <artist>
+   Gabor Szikszai
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; ottiene +1/+1 e mette nella tua mano una carta &lt;b&gt;Gadget&lt;/b&gt; se controlli un Robot.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Il suo concetto di "aggiustato" potrebbe non coincidere con il tuo...
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_102
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Gnomo Meccanico
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette nella tua mano una carta &lt;b&gt;Gadget&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Quando gli Gnomi Meccanici muoiono vogliono essere... cromati.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_082
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Golem dell&amp;apos;Anima
+  </name>
+  <artist>
+   Josh Harris
+  </artist>
+  <text>
+   Alla fine di ogni turno, distruggi questo servitore se è l&amp;apos;unico che controlli.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   9
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   9
+  </health>
+  <flavor>
+   L&amp;apos;Animus Oscuro è cattivo e misterioso e grande e incapace di scrivere rispettando le più elementari regole grammaticali.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_077
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Guardia di Cobalto
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   Ottiene &lt;b&gt;Scudo Divino&lt;/b&gt; quando giochi un Robot.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   La serie "Guardia" è stata prodotta per anni in adamantio, fino a quando non hanno spostato la produzione a Meccania dove il cobalto è più a buon mercato.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_062
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Hemet Nesingwary
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge una Bestia.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Non è facile guadagnarsi da vivere facendo il cacciatore in un mondo dove le bestie riappaiono poco dopo che le hai uccise.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_120
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Hobgoblin
+  </name>
+  <artist>
+   Laurel D. Austin
+  </artist>
+  <text>
+   Quando giochi un servitore con 1 Attacco, gli fornisce +2/+2.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Gli Hobgoblin si riuniranno la settimana prossima per discutere delle cure mediche. Al primo posto, i rimborsi dentistici.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_104
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Illuminatrice
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   Se controlli un &lt;b&gt;Segreto&lt;/b&gt; alla fine del tuo turno, rigenera 4 Salute al tuo eroe.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Non dicono "LUMOS!". Non siamo mica a Hogwarts.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_089
+  </id>
+ </item>
+ <item>
+  <race>
+   Demon
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Imp
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_045t
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Imp-losione
+  </name>
+  <artist>
+   Jaemin Kim
+  </artist>
+  <text>
+   Infligge da $2 a $4 danni a un servitore. Evoca un Imp 1/1 per ogni danno inflitto.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <flavor>
+   Tutti sanno che le schegge sono l&amp;apos;elemento più pericoloso delle esplosioni.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_045
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Inseguitore Branclin
+  </name>
+  <artist>
+   Seamus Gallagher
+  </artist>
+  <text>
+   &lt;b&gt;Furtività&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   "Shhh, mi sembra di aver sentito qualcosa."
+"Mah, sarà stata la tua immaginazione." - Le ultime parole di ogni sentinella
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_081
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Lama Rimbalzante
+  </name>
+  <artist>
+   Andrew Hou
+  </artist>
+  <text>
+   Infligge $1 |4(danno,danni) a un servitore casuale. Continua fin quando un servitore non muore.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Solo i Goblin potevano pensare che fosse una buona idea. E anche loro iniziano ad avere dubbi.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_050
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Lame Turbinanti
+  </name>
+  <artist>
+   Nutchapol Thitinunthakorn
+  </artist>
+  <text>
+   +1 Attacco a un servitore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_007
+  </id>
+ </item>
+ <item>
+  <text>
+   +1 Attacco.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   PART_007e
+  </id>
+  <name>
+   Lame Turbinanti
+  </name>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Lamiera Energizzata
+  </name>
+  <text>
+   +2/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_055e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Lanciatore di Bombe
+  </name>
+  <artist>
+   Luca Zontini
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 4 danni a un servitore nemico casuale.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Il suo è un lavoro pericoloso, ma qualcuno deve pur farlo.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_099
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Leviatano delle Fiamme
+  </name>
+  <artist>
+   Aleksi Briclot
+  </artist>
+  <text>
+   Quando peschi questa carta, infligge 2 danni a TUTTI i personaggi.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Mimiron adora guidare a tutta velocità il Leviatano delle Fiamme per i sentieri di Nordania.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_007
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Luce dei Naaru
+  </name>
+  <artist>
+   Jesper Ejsing
+  </artist>
+  <text>
+   Rigenera #3 Salute. Se il bersaglio è ancora danneggiato, evoca una Custode della Luce.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <flavor>
+   "L&amp;apos;accendiamo!" - Tipica espressione delle Custodi della Luce e dei Goblin muniti di Sputafiamme.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_012
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Pirate
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Lupo di Mare
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Un tipo alquanto scorbutico, praticamente scorbuto.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_070
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Macchina d&amp;apos;Assedio
+  </name>
+  <artist>
+   Zero Yue
+  </artist>
+  <text>
+   Ottiene +1 Attacco quando il tuo eroe ottiene Armatura.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   L&amp;apos;unica e inimitabile, direttamente dalla Fortezza di Lungoinverno.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_086
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Macchina Volante
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   &lt;b&gt;Furia del Vento&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Per poter funzionare, è fondamentale la presenza di una Bambola di Hula. Nessun ingegnere ne ha ancora capito il motivo.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_084
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Maglio degli Ogre
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Probabilità del 50% di attaccare il nemico sbagliato.
+  </text>
+  <artist>
+   Richard Wright
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Semplicistico, difficile da impugnare e assolutamente pericoloso. Più o meno come tutte le creazioni degli Ogre.
+  </flavor>
+  <type>
+   Weapon
+  </type>
+  <id>
+   GVG_054
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mal&amp;apos;Ganis
+  </name>
+  <artist>
+   Wayne Reynolds
+  </artist>
+  <text>
+   Gli altri tuoi Demoni hanno +2/+2. Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   9
+  </attack>
+  <cost>
+   9
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Mal&amp;apos;Ganis non ama essere tradito, per cui si sconsiglia di sostituirlo all&amp;apos;inizio di una partita.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_021
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Malorne
+  </name>
+  <artist>
+   Oliver Chipping
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; torna nel tuo mazzo.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   9
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Quando Malorne non è impegnato a calpestare orde di demoni, passa il suo tempo a impomatarsi le corna.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_035
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Manichino a Molla
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Ottimo anche per provare i completi di sartoria.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_093
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mastodonte di Ferro
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; mette una mina nel mazzo dell&amp;apos;avversario. Quando viene pescata, infligge 10 danni.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Il Mastodonte di Ferro protegge Orgrimmar, e ha recentemente ottenuto il premio di "Impiegato del Mese"!
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_056
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mastro Riduttore
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; -2 Attacco a un altro servitore per questo turno.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Dopo i problemi creati dall&amp;apos;uso dell&amp;apos;Allargamondo, gli Gnomi diffidano delle invenzioni che modificano le dimensioni.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_011
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mazza Protonica
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; +2/+2 a un tuo Robot casuale.
+  </text>
+  <artist>
+   Zoltan and Gabor
+  </artist>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   La gente crede che gli Sciamani controllino gli elementi, ma in realtà devono chiedere le cose con gentilezza.
+  </flavor>
+  <type>
+   Weapon
+  </type>
+  <id>
+   GVG_036
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Meccanomazza
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce &lt;b&gt;Scudo Divino&lt;/b&gt; e &lt;b&gt;Provocazione&lt;/b&gt; a un tuo servitore casuale.
+  </text>
+  <artist>
+   Danny Orizio
+  </artist>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Hai staccato un pezzo da un marchingegno, ci hai inciso sopra delle rune, gli hai messo un manico e adesso è un&amp;apos;arma dai poteri divini? Certo, come no...
+  </flavor>
+  <type>
+   Weapon
+  </type>
+  <id>
+   GVG_059
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mekgeniere Termospin
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   Quando un servitore nemico muore, evoca uno Gnomo Contaminato.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   9
+  </attack>
+  <cost>
+   9
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   È stato ossessionato dagli esplosivi fin quando non ha scoperto l&amp;apos;uncinetto. Ora urla: "MAGLIONI, PIÙ MAGLIONI!".
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_116
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Micro-Macchina
+  </name>
+  <artist>
+   Skan Srisuwan
+  </artist>
+  <text>
+   Ottiene +1 Attacco all&amp;apos;inizio di ogni turno.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Addirittura meglio dell&amp;apos;originale.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_103
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mietinemici 4000
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   Danneggia anche i servitori adiacenti a quello attaccato.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   9
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Alla fin fine, mietere i nemici non è diverso dal mietere i campi.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_113
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mina Sotterranea
+  </name>
+  <artist>
+   Chris Seaman
+  </artist>
+  <text>
+   Quando viene pescata questa carta, infligge 10 danni al tuo eroe. Pesca una carta.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_056t
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Miniabiuratrice
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   I servitori adiacenti non possono essere il bersaglio di Magie o Poteri Eroe.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Il miglior regalo per i figli del tuo peggior nemico.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_122
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Divine Shield
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Minibot Scudato
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   &lt;b&gt;Scudo Divino&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Ha deciso di credere solo a ciò per cui è stato programmato!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_058
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Minimago
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Furtività&lt;/b&gt;. &lt;b&gt;+1 Danni Magici&lt;/b&gt;.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Ogni tanto gli piace nascondersi nella cassa del tesoro dell&amp;apos;Arena dei Gurubashi.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_109
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mistica di Kezan
+  </name>
+  <artist>
+   Jakub Kasper
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; prendi il controllo di un &lt;b&gt;Segreto&lt;/b&gt; casuale dell&amp;apos;avversario.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Pretendono di essere sagge e illuminate, ma in realtà si offendono se non sono rese partecipi dei segreti altrui.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_074
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Modalità d&amp;apos;Attacco
+  </name>
+  <text>
+   +1 Attacco.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_030a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Modalità d&amp;apos;Attacco
+  </name>
+  <text>
+   +1 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_030ae
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Modalità di Difesa
+  </name>
+  <text>
+   +1 Salute.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_030b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Modalità di Difesa
+  </name>
+  <text>
+   +1 Salute.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_030be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Mogor l&amp;apos;Ogre
+  </name>
+  <artist>
+   Michal Ivan
+  </artist>
+  <text>
+   TUTTI i servitori hanno una probabilità del 50% di attaccare il nemico sbagliato.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Mogor ha contribuito alla riapertura del Portale Oscuro. Sai di essere nei guai quando devi fare affidamento su un Ogre.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_112
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Moneta di Gallywix
+  </name>
+  <text>
+   Fornisce 1 Cristallo di Mana solo per questo turno.
+&lt;i&gt;(Non attiva Gallywix)&lt;/i&gt;
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_028t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Morte Apparente
+  </name>
+  <artist>
+   Luca Zontini
+  </artist>
+  <text>
+   Tutti i tuoi servitori attivano il proprio &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Per rendere davvero convincente "Morte Apparente", bisogna riuscire a emettere il giusto odore. Richiede molto impegno.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_026
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Murloc Cavalcaspiriti
+  </name>
+  <artist>
+   Clint Langley
+  </artist>
+  <text>
+   Quando un altro tuo Murloc muore, pesca una carta. &lt;b&gt;Sovraccarico:&lt;/b&gt; (1)
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Gli elementi rispondono a chiunque li richiami per una giusta causa, anche se lo fa urlando "MRGRGLGLGL!".
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_040
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Neptulon
+  </name>
+  <artist>
+   Ruan Jia
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; mette nella tua mano 4 Murloc casuali. &lt;b&gt;Sovraccarico:&lt;/b&gt; (3)
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Neptulon è "il Cacciatore delle Maree", uno dei quattro Signori Elementali. Spesso si ritrova con Ragnaros per delle meravigliose saune.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_042
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Nullificatore X-21
+  </name>
+  <artist>
+   Zero Yue
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. Non può essere il bersaglio di Magie o Poteri Eroe.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   I Maghi e gli Ingegneri Gnomi si sono contesi a lungo la proprietà intellettuale di questo robot.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_091
+  </id>
+ </item>
+ <item>
+  <text>
+   Furtivo fino al tuo turno successivo.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   PART_004e
+  </id>
+  <name>
+   Occultato
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Ogre Ninja
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <text>
+   &lt;b&gt;Furtività&lt;/b&gt;. Probabilità del 50% di attaccare il nemico sbagliato.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <flavor>
+   Non aveva tutti i requisiti per entrare nella scuola di Ninja, ma suo padre aveva delle conoscenze altolocate.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_088
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Ombromante Torva
+  </name>
+  <artist>
+   Matt Dixon
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 3 danni a entrambi gli eroi.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Gli Ombromanti fanno il proprio lavoro, ma non perdono l&amp;apos;occasione per guardarti storto.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_009
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Orotron 3000
+  </name>
+  <artist>
+   Jomaro Kindred
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; ogni giocatore equipaggia un&amp;apos;arma casuale.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   PREPARARE I SERVOCOMANDI PER UNA FESTA COI FIOCCHI.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_119
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Orsetto Anodizzato
+  </name>
+  <artist>
+   Eva Widermann
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Scegli:&lt;/b&gt; +1 Attacco &lt;b&gt;o&lt;/b&gt; +1 Salute.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   È adorabi... ODDIO, MI STA SMANGIUCCHIANDO UNA MANO!
+  </flavor>
+  <elite>
+   False
+  </elite>
+  <id>
+   GVG_030
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Osservatore
+  </name>
+  <artist>
+   Todd Lockwood
+  </artist>
+  <text>
+   Ottiene +2/+2 quando il tuo eroe subisce danni nel tuo turno.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Il nome originale era "Truce Osservatore della Rovina", ma il marketing ha ritenuto fosse troppo aggressivo.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_100
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Pecora Esplosiva
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge 2 danni a TUTTI i servitori.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Qual è la logica? I nemici dovrebbero pensare "Ma che bella pecorella!" e avvicinarsi ad accarezzarla?
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_076
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Pestapaludi
+  </name>
+  <artist>
+   Jaemin Kim
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Rende omaggio a Morgl, il grande Oracolo Murloc. Chi non lo fa, del resto?
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_064
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Piccola Esorcista
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; ottiene +1/+1 per ogni servitore nemico con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Gli Stregoni hanno sempre il numero dell&amp;apos;Esorcista a portata di mano, nel caso dovessero evocare il demone sbagliato.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_097
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Piegalamiere
+  </name>
+  <artist>
+   Jesper Esjing
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +2/+2 a un altro tuo Robot.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Normalmente lavora in coppia con sua cugina, la Stiralamiere.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_055
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Attacco aumentato.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_076a
+  </id>
+  <name>
+   Pistoni
+  </name>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Placche Rinforzate
+  </name>
+  <text>
+   Attacco aumentato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_086e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Portale Instabile
+  </name>
+  <artist>
+   Sean O&amp;apos;Daniels
+  </artist>
+  <text>
+   Mette nella tua mano un servitore casuale. Il suo costo si riduce di (3) Mana.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   I cittadini di Azeroth non si immaginano quanto lavoro serva per stabilizzare un portale. Si spende quasi il 30% del PIL per il loro mantenimento.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_003
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Potenziabot
+  </name>
+  <artist>
+   Zoltan Boros
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce casualmente agli altri tuoi servitori &lt;b&gt;Furia del Vento&lt;/b&gt;, &lt;b&gt;Provocazione&lt;/b&gt; o &lt;b&gt;Scudo Divino&lt;/b&gt;.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   I suoi potenziamenti sono tutti senza glutine!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_107
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Potenziato
+  </name>
+  <text>
+   +2/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_036e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +2/+2.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_104a
+  </id>
+  <name>
+   Potere ai piccoli
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Prescelto da Velen
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   Fornisce +2/+4 e &lt;b&gt;+1 Danni Magici&lt;/b&gt; a un servitore.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Profeta, non è lui il Prescelto? Colui che distruggerà la Legione e riporterà equilibrio nella Luce? - Accolito Draenei
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_010
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +2/+4 e &lt;b&gt;+1 Danni Magici&lt;/b&gt;.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_010b
+  </id>
+  <name>
+   Prescelto da Velen
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Principe Gallywix
+  </name>
+  <artist>
+   Wei Wang
+  </artist>
+  <text>
+   Quando l&amp;apos;avversario lancia una Magia, ne ottieni una copia ma gli fornisci una Moneta.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Gallywix crede nella domanda e nell&amp;apos;offerta. Lui domanda una ricompensa e ottiene sempre un&amp;apos;offerta!
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_028
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Purezza
+  </name>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_101e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Quartiermastro
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce +2/+2 alle tue Reclute Mano d&amp;apos;Argento.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Io sono il Quartiermastro, vostro Capo Istruttore. Da questo momento potete parlare soltanto quando vi sarà richiesto, e la prima e l&amp;apos;ultima parola che dovrà uscire dalle vostre fogne sarà "signore".
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_060
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Rabbia Cieca
+  </name>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_100e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Raggio Riduttore
+  </name>
+  <text>
+   -2 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_011a
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Re delle Bestie
+  </name>
+  <artist>
+   Seamus Gallagher
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; ottiene +1 Attacco per ogni altra Bestia che controlli.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <flavor>
+   Ogni mattina nelle Savane, quando sorge il sole, un leone si sveglia e sa che dovrà correre più dei servitori nemici o morirà di fame.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_046
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Re Indiscusso
+  </name>
+  <text>
+   Attacco aumentato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_046e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Refrigerante Rapido
+  </name>
+  <artist>
+   Peerasak Senalai
+  </artist>
+  <text>
+   &lt;b&gt;Congela&lt;/b&gt; un servitore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_005
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Regressore Temporale
+  </name>
+  <artist>
+   Nutthapon Petthai
+  </artist>
+  <text>
+   Fa tornare un tuo servitore nella tua mano.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   PART_002
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Ricercatore Svitato
+  </name>
+  <artist>
+   Jesper Esjing
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca una carta. Se è un servitore, lo trasforma in una Gallina.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Resta stupito anche lui quando gli capita di essere trasformato in gallina.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_092
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Richiamo Ancestrale
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Mette sul campo di battaglia un servitore casuale dalla mano di ogni giocatore.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <flavor>
+   Non sempre a rispondere sono i propri antenati...
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_029
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Richiamo Famiglio
+  </name>
+  <artist>
+   E.M. Gist
+  </artist>
+  <text>
+   Pesca una carta. Se è una Bestia, costa (4) Mana in meno.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   I veri Cacciatori addomesticano i Granchi Affamati.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_017
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_106e
+  </id>
+  <name>
+   Riciclaggio
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Riciclo
+  </name>
+  <artist>
+   Brandon Kitkouski
+  </artist>
+  <text>
+   Fa tornare un servitore nemico nel mazzo dell&amp;apos;avversario.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   6
+  </cost>
+  <flavor>
+   L&amp;apos;idea di riciclo dei Druidi consiste nel mettere la plastica da una parte e i servitori nemici dall&amp;apos;altra.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_031
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Riciclobot
+  </name>
+  <artist>
+   Zoltan Boros
+  </artist>
+  <text>
+   Ottiene +2/+2 quando muore un tuo Robot.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   I rottami di un robot sono un incredibile potenziamento per un altro!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_106
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Riparabot Migliorato
+  </name>
+  <artist>
+   Nutchapol Thitinunthakorn
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +4 Salute a un altro tuo Robot.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   In realtà è lo stesso modello della generazione precedente, hanno solo aggiunto la parola "migliorato" e raddoppiato il prezzo.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_083
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Riparazioni!
+  </name>
+  <text>
+   +4 Salute.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_069a
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Robobarbiere Goblin
+  </name>
+  <artist>
+   Zolton Boros
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +1 Attacco alla tua arma.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Ottimo per accorciare le basette o l&amp;apos;altezza di qualcuno.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_023
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Robobomba
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge da 1 a 4 danni a un nemico casuale.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_110t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Roboevocatore
+  </name>
+  <artist>
+   Phil Saunders
+  </artist>
+  <text>
+   I tuoi Robot costano (1) Mana in meno.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Robot che evocano robot? E poi? Ciambelle che evocano ciambelle? Mmm...
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_006
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Enrage
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Robot da Guerra
+  </name>
+  <artist>
+   Tyler Walpole
+  </artist>
+  <text>
+   &lt;b&gt;Rabbia:&lt;/b&gt; +1 Attacco.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   La produzione di massa dei Robot da Guerra è stata interrotta quando si è scoperto che erano stati realizzati in miniatura.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_051
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Combo
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sabotaggio
+  </name>
+  <artist>
+   Dave Allsop
+  </artist>
+  <text>
+   Distrugge un servitore nemico casuale. &lt;b&gt;Combo:&lt;/b&gt; inoltre, distrugge l&amp;apos;arma dell&amp;apos;avversario.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <flavor>
+   Da non confondere con il canottaggio.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_047
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sanitarizzatore
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Quando viene curato un personaggio, infligge 1 danno a un nemico casuale.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Tirare i pugni è la sua funzione primaria. E anche quella secondaria.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_072
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sbuffaneve
+  </name>
+  <artist>
+   Gabor Szikszai
+  </artist>
+  <text>
+   &lt;b&gt;Congela&lt;/b&gt; i personaggi che danneggia.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Particolarmente apprezzato per tenere fresche le bibite.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_002
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Attacco e Salute scambiati dal Commutatore.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   PART_006a
+  </id>
+  <name>
+   Scambio
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Schiacciamento
+  </name>
+  <artist>
+   Michael Sutfin
+  </artist>
+  <text>
+   Distrugge un servitore. Se controlli un servitore danneggiato, costa (4) Mana in meno.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   7
+  </cost>
+  <flavor>
+   A detta dei barbari, usare questa carta su un nemico è la sensazione più bella che uno possa provare.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_052
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sciamano Mazzaduna
+  </name>
+  <artist>
+   José Ladrönn
+  </artist>
+  <text>
+   &lt;b&gt;Furia del Vento&lt;/b&gt;. Probabilità del 50% di attaccare il nemico sbagliato. &lt;b&gt;Sovraccarico:&lt;/b&gt; (1)
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Si limita a chiudere gli occhi e attaccare. Raarararrrarar!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_066
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Segatronchi di Sneed
+  </name>
+  <artist>
+   Christopher Moeller
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un servitore leggendario casuale.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Quando Sneed venne sconfitto nelle Miniere della Morte, il suo Segatronchi fu venduto all&amp;apos;asta a un anonimo compratore (probabilmente Boccalarga).
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_114
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Segatronchi Pilotato
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un servitore casuale da 2 Mana.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Un tempo, solo i Goblin pilotavano i Segatronchi. Al giorno d&amp;apos;oggi ci puoi trovare dal Vate della Rovina al Ramingo della Sapienza Cho.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_096
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sensei di Ferro
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   Alla fine del tuo turno, +2/+2 a un altro tuo Robot casuale.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Ai robot piace collaborare con lui perché sa come parlare la loro lingua. 01001000 01100001 01101001
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_027
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sigillo della Luce
+  </name>
+  <artist>
+   Jason Chan
+  </artist>
+  <text>
+   Rigenera #4 Salute al tuo eroe e gli fornisce +2 Attacco per questo turno.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Ottimo per risparmiare sulla bolletta elettrica.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_057
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sigillo della Luce
+  </name>
+  <text>
+   +2 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_057a
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Signora del Dolore
+  </name>
+  <artist>
+   Carl Critchlow
+  </artist>
+  <text>
+   Quando infligge danni, rigenera Salute al tuo eroe pari ai danni inflitti.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Sua sorella è la Signora del Colore, vende quadri.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_018
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Signora dello Scudo
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce 5 Armatura.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Ha ben tre Portascudi al suo servizio.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_053
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sovralimentato
+  </name>
+  <text>
+   &lt;b&gt;+2 Danni Magici&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_123e
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sparachiodi
+  </name>
+  <artist>
+   Luke Mancini
+  </artist>
+  <text>
+   Quando lanci una Magia da 1 Mana, mette nella tua mano un Robot casuale.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Sparachiodi al liceo è stato eletto il "Più probabile a esplodere".
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_117
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sparalame
+  </name>
+  <text>
+   +1 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_043e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sparalame
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +1 Attacco a un tuo servitore casuale.
+  </text>
+  <artist>
+   Gino Whitehall
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Nulla risolve le controversie quanto una lama in fronte.
+  </flavor>
+  <type>
+   Weapon
+  </type>
+  <id>
+   GVG_043
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Spargicenere
+  </name>
+  <artist>
+   Phil Saunders
+  </artist>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Il suo inventore ha avuto numerose dispute con il detentore dei brevetti del Segatronchi Goblin.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_123
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sputafiamme
+  </name>
+  <artist>
+   Mauricio Herrera
+  </artist>
+  <text>
+   Infligge $4 danni a un servitore nemico casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Solo perché si chiama Sputafiamme non significa che sia riconoscibile dagli altri congegni Goblin.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_001
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Stretta di Mal&amp;apos;Ganis
+  </name>
+  <text>
+   +2/+2 da Mal&amp;apos;Ganis.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_021e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Divine Shield
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Supercarro MAX
+  </name>
+  <artist>
+   Nutchapol Thitinunthakorn
+  </artist>
+  <text>
+   &lt;b&gt;Scudo Divino&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   La fabbrica di Supercarri di Tanaris è riuscita a crearne solo due, poi ha finito il budget.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_079
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Supergolem Pilotato
+  </name>
+  <artist>
+   Michael Phillippi
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un servitore casuale da 4 Mana.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   La vetta dell&amp;apos;Ingegneria Goblin. Completo di massaggiapiedi e macchina per il caffè.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_105
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sussurri Fatui
+  </name>
+  <text>
+   +5/+5 e &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_041a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sussurri Fatui
+  </name>
+  <text>
+   Evoca 5 Fuochi Fatui.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_041b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sussurri Fatui
+  </name>
+  <text>
+   +5/+5 e &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_041c
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Sussurri Fatui
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   &lt;b&gt;Scegli:&lt;/b&gt; evoca 5 Fuochi Fatui &lt;b&gt;o&lt;/b&gt; +5/+5 e &lt;b&gt;Provocazione&lt;/b&gt; a un servitore.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <cost>
+   6
+  </cost>
+  <flavor>
+   I Fuochi Fatui piacciono a tutti, tranne forse ad Archimonde...
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_041
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Svitabulloni
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   Ha +2 Attacco fintanto che controlli un Robot.
+  </text>
+  <artist>
+   Richard Wright
+  </artist>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   La scelta ideale per svitare i bulloni e annientare i Trogg!
+  </flavor>
+  <type>
+   Weapon
+  </type>
+  <id>
+   GVG_024
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Combo
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Tecnofluidificatore
+  </name>
+  <artist>
+   Den
+  </artist>
+  <text>
+   +3 Attacco alla tua arma. &lt;b&gt;Combo:&lt;/b&gt; inoltre, +3 Attacco a un tuo servitore casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <flavor>
+   Per una lubrificazione senza eguali.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_022
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +3 Attacco.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_022b
+  </id>
+  <name>
+   Tecnofluidificatore
+  </name>
+ </item>
+ <item>
+  <text>
+   +3 Attacco.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_022a
+  </id>
+  <name>
+   Tecnofluidificatore
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Tecnoingegnere
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   Ha +2 Attacco fintanto che controlli un Robot.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Dopo un po&amp;apos;, non noti più gli ingranaggi e le ruote dentate. Tutto ciò che vedi sono robot, carriragno, raggi della morte...
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_013
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Tecnomago Goblin
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; se controlli un Robot, infligge 4 danni suddivisi casualmente tra tutti i nemici.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Se non hai una bomba sotto mano, generalmente basta lanciare una qualsiasi invenzione dei Goblin.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_004
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Temprato
+  </name>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_027e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Testa di Mimiron
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   All&amp;apos;inizio del tuo turno distrugge i tuoi Robot, se ne controlli almeno 3, e forma V-07-TR-0N.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Non premere mai il Grosso Pulsante Rosso!
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_111
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Tiro del Cobra
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <text>
+   Infligge $3 danni a un servitore e all&amp;apos;eroe nemico.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   I Tiri del Cobra fanno molti più danni delle Coccole del Cobra.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GVG_073
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Toshley
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia&lt;/b&gt; e &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette nella tua mano una carta &lt;b&gt;Gadget&lt;/b&gt;.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Ricordati dei convertitori energetici!
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_115
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Totem
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Totem della Salute
+  </name>
+  <artist>
+   Guangjian Huang
+  </artist>
+  <text>
+   Alla fine del tuo turno, rigenera 4 Salute al tuo eroe.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Questi totem si trovano facilmente alla Fiera dello Sciamano il sabato mattina.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_039
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Trasmutatore
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; trasforma un tuo servitore in un altro servitore casuale con lo stesso costo in Mana.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Sconsigliato per chi ha disturbi della personalità.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_108
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Trogg Faucisalde
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   Ottiene +2 Attacco quando l&amp;apos;avversario lancia una Magia.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Come il suo nome lascia immaginare, è un&amp;apos;ottima forchetta.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_068
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Trogg Scheggiadura
+  </name>
+  <artist>
+   Peet Cooper
+  </artist>
+  <text>
+   Ottiene +1 Attacco quando l&amp;apos;avversario lancia una Magia.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   L&amp;apos;unica cosa peggiore di dover sentire l&amp;apos;odore di un Trogg è essere costretti ad ascoltare le sue poesie.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_067
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Troggzor Terrestrator
+  </name>
+  <artist>
+   Mike Sass
+  </artist>
+  <text>
+   Quando l&amp;apos;avversario lancia una Magia, evoca un Trogg Faucisalde.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Continua a terrestratorare il mondo, nonostante i tentativi per fermarlo.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_118
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Pirate
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Truffatore Guercio
+  </name>
+  <artist>
+   Danny Beck
+  </artist>
+  <text>
+   Ottiene &lt;b&gt;Furtività&lt;/b&gt; quando giochi un Pirata.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Pensate cosa potrebbe fare se avesse entrambi gli occhi...
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_025
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   V-07-TR-0N
+  </name>
+  <artist>
+   Chris Seaman
+  </artist>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Super Furia del Vento&lt;/b&gt; &lt;i&gt;(può attaccare quattro volte in un turno)&lt;/i&gt;.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <type>
+   Minion
+  </type>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_111t
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_102e
+  </id>
+  <name>
+   Vigore di Rabberciopoli
+  </name>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Vigore di Zul&amp;apos;Farrak
+  </name>
+  <text>
+   Attacco moltiplicato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_049e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Vilcannone
+  </name>
+  <artist>
+   Matt Gaser
+  </artist>
+  <text>
+   Alla fine del tuo turno, infligge 2 danni a un servitore non Robot casuale.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Sulla confezione c&amp;apos;è scritto: "Nuovo e migliorato, con il 200% in più di viltà!".
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_020
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Vilrazziatore
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   Quando l&amp;apos;avversario gioca una carta, scarta le prime 3 carte del tuo mazzo.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   8
+  </health>
+  <flavor>
+   Molto razziatore. Estremamente vile. Da non perdere.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_016
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Vol&amp;apos;jin
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; scambia la sua Salute con quella di un altro servitore.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <flavor>
+   Vol&amp;apos;jin è un Cacciatore dell&amp;apos;Ombra, che è come un Sacerdote dell&amp;apos;Ombra ma con molto vudù in più.
+  </flavor>
+  <elite>
+   True
+  </elite>
+  <id>
+   GVG_014
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Mech
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Yeti Meccanico
+  </name>
+  <artist>
+   Chris Seaman
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; ogni giocatore ottiene una carta &lt;b&gt;Gadget&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Gli Yeti della Gola di Ventofreddo sono sia una fonte di ispirazione che una fonte di materie prime.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_078
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Zampalunga Perduto
+  </name>
+  <artist>
+   Benjamin Zhang
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Ha un tatuaggio con scritto: "Se mi trovi, riportami a Mulgore".
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   GVG_071
+  </id>
+ </item>
+ <item>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Zanne Metalliche
+  </name>
+  <text>
+   +2 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_048e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+</cards>

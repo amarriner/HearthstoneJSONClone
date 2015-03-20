@@ -1,0 +1,8227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Affilata
+  </name>
+  <text>
+   +1 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_083e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Anduin Wrynn
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_09
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arciera Elfica
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 1 danno.
+  </text>
+  <artist>
+   Steve Prescott
+  </artist>
+  <id>
+   CS2_189
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Si sconsiglia di non invitarla fuori a cena. Farebbe letteralmente breccia nel tuo cuore.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Druido.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arcimago
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <id>
+   CS2_155
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Un Arcimago ottiene tale titolo quando riesce a sconfiggere chiunque lo metta in dubbio.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Mago.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arma Roccia Dura
+  </name>
+  <text>
+   +3 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_045e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Arma Roccia Dura
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 Attacco a un tuo personaggio per questo turno.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_045
+  </id>
+  <flavor>
+   Particolarmente efficiente contro i nemici duri come una roccia.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Artigli
+  </name>
+  <text>
+   +1 Attacco al tuo eroe per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_017o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Free
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ascia Ardente
+  </name>
+  <durability>
+   2
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_106
+  </id>
+  <flavor>
+   Durante periodi di tranquillità e armonia, quest&amp;apos;arma veniva chiamata Ascia da Pace Rinfrescante.
+  </flavor>
+  <artist>
+   Lucas Graciano
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Assalto Eroico
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4 Attacco al tuo eroe per questo turno.
+  </text>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_105
+  </id>
+  <flavor>
+   Pensaci: se fossi davvero un eroe, &lt;i&gt;ogni&lt;/i&gt; tuo assalto sarebbe eroico.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Assalto Eroico
+  </name>
+  <text>
+   +4 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_105e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Assalto Funesto
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni all&amp;apos;eroe nemico.
+  </text>
+  <artist>
+   Frank Cho
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_075
+  </id>
+  <flavor>
+   C&amp;apos;è qualcosa di profondamente inquietante in questo colpo. È quasi... funesto.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Assassinio
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Distrugge un servitore nemico.
+  </text>
+  <artist>
+   Glenn Rane
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_076
+  </id>
+  <flavor>
+   Se non vuoi farti assassinare è meglio se ti trasferisci nelle Savane e cambi nome. Buona fortuna!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   I tuoi turni sono più corti.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_004
+  </id>
+  <name>
+   Assente
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Avatar della Moneta
+  </name>
+  <text>
+   &lt;i&gt;Hai perso il lancio della moneta, ma hai ottenuto un amico.&lt;/i&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   GAME_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Benedizione dei Re
+  </name>
+  <text>
+   +4/+4.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_092e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Benedizione dei Re
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4/+4 a un servitore.
+  </text>
+  <artist>
+   Lucas Graciano
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_092
+  </id>
+  <flavor>
+   Considerando quanti re sono stati assassinati, sei ancora certo di volere la loro benedizione?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Benedizione della Chierica
+  </name>
+  <text>
+   +1/+1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_019e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Benedizione: Vigore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_087e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Benedizione: Vigore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 Attacco a un servitore.
+  </text>
+  <artist>
+   Zoltan Boros
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_087
+  </id>
+  <flavor>
+   "Come dice il nome stesso, sto per mandarti a farti benedire." - Toad Mackle, appena potenziato
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Attacco aumentato.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_399e
+  </id>
+  <name>
+   Berserker
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Berserker Gurubashi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Ottiene +3 Attacco quando subisce danni.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <id>
+   EX1_399
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Ciò che non ti uccide ti fortifica.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 dello Stregone.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Brama di Sangue
+  </name>
+  <text>
+   +3 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_046e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Brama di Sangue
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 Attacco ai tuoi servitori per questo turno.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_046
+  </id>
+  <flavor>
+   BlaarghghLLGHRHARAAHAHHH!!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cacciatrice Lamaspina
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca un Cinghiale 1/1.
+  </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <id>
+   CS2_196
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   Una volta qualcuno ha sfidato Tusker. Una SOLA volta.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Cacciatore.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Campione dell&amp;apos;Arena
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   E.M. Gist
+  </artist>
+  <id>
+   CS2_162
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Anni fa il suo indice d&amp;apos;arena era oltre 2.100, ma non avrà mai i suoi spallacci perché c&amp;apos;è sempre della gente che non glieli vuole far prendere.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Sacerdote.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Campione di Roccavento
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   Gli altri tuoi servitori hanno +1/+1.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <id>
+   CS2_222
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   6
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Quando Alamorte assaltò la capitale, questo soldato fu l&amp;apos;unico della sua squadriglia a sopravvivere. Ora si sente un po&amp;apos; solo...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Paladino.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Capitano Cantaguerra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Quando evochi un servitore con Attacco pari a 3 o inferiore, gli fornisce &lt;b&gt;Carica&lt;/b&gt;.
+  </text>
+  <artist>
+   Wei Wang
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_084
+  </id>
+  <flavor>
+   Grommash, Garrosh... con comandanti così, non sarei tanto felice di diventare un Capitano Cantaguerra.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Capoincursione
+  </name>
+  <artist>
+   Phill Gonzales
+  </artist>
+  <text>
+   Gli altri tuoi servitori hanno +1 Attacco.
+  </text>
+  <id>
+   CS2_122
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   "Meno 50 DKP!"
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Guerriero.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Carica
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Attacco e &lt;b&gt;Carica&lt;/b&gt; a un tuo servitore.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_103
+  </id>
+  <flavor>
+   "Ragazzi! Ragazzi! Rallentate!" - Un servitore non Guerriero
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Carica
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt; dal Rinoceronte Furioso.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_178e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Carica
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt; dal Capitano Cantaguerra.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_084e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Carica
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt; e +2 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_103e2
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cavalcalupi
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <id>
+   CS2_124
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Gli Orchi cavalcano i lupi perché si adattano meglio negli ambienti ostili... e perché sono soffici e coccolosi.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Guerriero.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cavalcarazzi Folle
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <artist>
+   John Polidora
+  </artist>
+  <id>
+   CS2_213
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Una Cavalcarazzi Folle. Un razzo carico di esplosivo. Divertimento garantito!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 dello Sciamano.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cavaliere di Roccavento
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <artist>
+   Ladronn
+  </artist>
+  <id>
+   CS2_131
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Si sentono ancora a disagio per "L&amp;apos;Incidente di Alamorte".
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Paladino.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    HealTarget
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Chierica della Contea
+  </name>
+  <artist>
+   Terese Nielsen
+  </artist>
+  <text>
+   Quando un servitore danneggiato viene curato, pesca una carta.
+  </text>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   CS2_235
+  </id>
+  <flavor>
+   Aiutano gli oppressi e gli afflitti. E vendono anche i biscotti.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Chierica Sole Infranto
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +1/+1 a un altro tuo servitore.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <id>
+   EX1_019
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Hanno sempre da parte qualche fiaschetta di Bevanda Energetica del Pozzo Solare™!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Sacerdote.
+  </howtogetgold>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cinghiale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_boar
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cinghiale Scagliadura
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <artist>
+   Howard Lyon
+  </artist>
+  <id>
+   CS2_171
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   "Tu sei un cinghiale... un cinghiale, un cinghiale!" - Noto ipnotizzatore di Uldum
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Cacciatore.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Coboldo Geomante
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <artist>
+   Gabor Szikszai
+  </artist>
+  <id>
+   CS2_142
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Toglietegli tutto, ma non la sua candela.
+- Fabrizio D.R.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 dello Stregone.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Colonna di Fuoco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $4 danni a tutti i servitori nemici.
+  </text>
+  <artist>
+   Romain De Santi
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <cost>
+   7
+  </cost>
+  <id>
+   CS2_032
+  </id>
+  <flavor>
+   Ottima anche per le grigliate con gli amici.
+- Mattia C.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Coltello Perverso
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <durability>
+   2
+  </durability>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   CS2_082
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Commando Piccatonante
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 2 danni.
+  </text>
+  <artist>
+   Kev Walker
+  </artist>
+  <id>
+   CS2_150
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   I Commando Piccatonante sono esperti in demolizioni, ma preparano dei pasticcini veramente orrendi... evitateli!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 del Paladino.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Condor Affamato
+  </name>
+  <artist>
+   Bernie Kang
+  </artist>
+  <text>
+   Quando evochi una Bestia, pesca una carta.
+  </text>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <id>
+   CS2_237
+  </id>
+  <flavor>
+   Se gli dai da mangiare, perde la sua &lt;i&gt;identità&lt;/i&gt;.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Consacrazione
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni a tutti i nemici.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_093
+  </id>
+  <flavor>
+   Il terreno consacrato brilla di energia sacra. Però puzza anche un po&amp;apos;.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Controllo Mentale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Prendi il controllo di un servitore nemico.
+  </text>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <cost>
+   10
+  </cost>
+  <id>
+   CS1_113
+  </id>
+  <flavor>
+   Attenzione, ha effetti collaterali: il tuo avversario potrebbe iniziare a prendere a testate il muro.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Controllo Mentale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Cambio di schieramento.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_113e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Conversione Vitale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Pesca una carta e subisce 2 danni.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_056
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Corruzione
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Seleziona un servitore nemico: all&amp;apos;inizio del tuo turno, viene distrutto.
+  </text>
+  <artist>
+   Wayne Reynolds
+  </artist>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_063
+  </id>
+  <flavor>
+   Si comincia rubando una penna al lavoro, e in men che non si dica... BOOM! Sei corrotto!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Corruzione
+  </name>
+  <text>
+   Distrutto all&amp;apos;inizio del turno del giocatore che ha lanciato la maledizione.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_063e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Costruttrice di Draghi
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca un Minidrago Meccanico 2/1.
+  </text>
+  <artist>
+   Warren Mahy
+  </artist>
+  <id>
+   EX1_025
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Sta ancora cercando di installare un lanciarazzi su Mordino.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Mago.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Crescita Rigogliosa
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fornisce 1 Cristallo di Mana vuoto.
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_013
+  </id>
+  <flavor>
+   Produci in casa i tuoi Cristalli di Mana con questo stupendo kit pronto all&amp;apos;uso, a soli 39,99!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Crocolisco di Fiume
+  </name>
+  <artist>
+   Daren Bader
+  </artist>
+  <id>
+   CS2_120
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   "Cercare di catturare questa creatura per farne una borsa è stata una pessima idea." - Edward "il Monco" Smith
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Druido.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Cura Inferiore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Rigenera 2 Salute.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS1h_001
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dardo d&amp;apos;Ombra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $4 danni a un servitore.
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_057
+  </id>
+  <flavor>
+   È un dardo. È fatto d&amp;apos;ombra. Cos&amp;apos;altro vuoi sapere?
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dardo di Gelo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni e &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_024
+  </id>
+  <flavor>
+   Quando si gioca questa carta si è soliti urlare "Stai fresco!" o "Ma che freddo fa!".
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Detonazione di Fuoco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 1 danno.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_034
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Detonazione Mentale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $5 danni all&amp;apos;eroe nemico.
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   DS1_233
+  </id>
+  <flavor>
+   Questo incantesimo esplode direttamente nella mente.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Eccesso di Mana
+  </name>
+  <text>
+   Pesca una carta &lt;i&gt;(puoi avere al massimo 10 Cristalli di Mana)&lt;/i&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_013t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Elementale del Fuoco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 3 danni.
+  </text>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   CS2_042
+  </id>
+  <flavor>
+   Non si è mai fatto una doccia. Bleah!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Elementale dell&amp;apos;Acqua
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Congela&lt;/b&gt; i personaggi che danneggia.
+  </text>
+  <artist>
+   John Avon
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_033
+  </id>
+  <flavor>
+   Mai evocarlo vicino a un albero di limoni. Un Elementale della Limonata è molto meno efficiente.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Élite Kor&amp;apos;kron
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   NEW1_011
+  </id>
+  <flavor>
+   I Kor&amp;apos;kron sono le forze d&amp;apos;élite di Garrosh Malogrido. Diciamo solamente che non ti piacerebbe incontrarli se indossi un&amp;apos;insegna blu.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 44.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Esecuzione
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Distrugge un servitore nemico danneggiato.
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_108
+  </id>
+  <flavor>
+   Non preoccuparti... se lo meritava.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Esplosione Arcana
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni) a tutti i servitori nemici.
+  </text>
+  <artist>
+   Howard Lyon
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_025
+  </id>
+  <flavor>
+   Questa magia è molto meglio di Implosione Arcana.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Esplosione Gelida
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Congela&lt;/b&gt; tutti i servitori nemici.
+  </text>
+  <artist>
+   Josh Tallman
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_026
+  </id>
+  <flavor>
+   Accidenti che freddura. Letteralmente e metaforicamente.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Esplosione Sacra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni a tutti i nemici. Rigenera #2 Salute a tutti i tuoi personaggi.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS1_112
+  </id>
+  <flavor>
+   Se non segui più la Luce Sacra, buona fortuna con questa magia.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Evocazione Totemica
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Evoca un totem casuale.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_049
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Famiglio Animale
+  </name>
+  <artist>
+   Wei Wang
+  </artist>
+  <text>
+   Evoca una Bestia casuale.
+  </text>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   NEW1_031
+  </id>
+  <flavor>
+   Potresti evocare Misha, Leokk o Huffer! Ma probabilmente per Huffer non ne vale la pena.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fante di Borgodoro
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Donato Giancola
+  </artist>
+  <id>
+   CS1_042
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Se dei servitori 1/2 sono tutto ciò che difende Borgodoro, verrebbe da domandarsi perché non sia stata distrutta anni fa.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Paladino.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fendente
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni a due servitori nemici casuali.
+  </text>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_114
+  </id>
+  <flavor>
+   Ehi voi due. Potreste mettervi vicini per un attimo?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Folgore del Gelo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni) a un personaggio nemico e lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_037
+  </id>
+  <flavor>
+   Perfetta per rompere il ghiaccio a inizio partita.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Cominciare per secondo ti fornisce Salute aumentata.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_001
+  </id>
+  <name>
+   Fortuna della Moneta
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fuciliere Nano
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 1 danno.
+  </text>
+  <artist>
+   Tooth
+  </artist>
+  <id>
+   CS2_141
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   "Carico e pronto a colpire... ma prima passami da bere!"
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Mago.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fuoco dell&amp;apos;Anima
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $4 danni. Scarta una carta casuale.
+  </text>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_308
+  </id>
+  <flavor>
+   Illumini un&amp;apos;anima che va a fuoco, o dai fuoco a qualcuno con la TUA anima? Sembra una precisazione piuttosto importante da fare.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fuoco Infernale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni a TUTTI i personaggi.
+  </text>
+  <artist>
+   Chippy
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_062
+  </id>
+  <flavor>
+   È proprio a causa di questo genere di incantesimi che gli Stregoni hanno pochi amici.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fuoco Lunare
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni).
+  </text>
+  <artist>
+   Richard Wright
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_008
+  </id>
+  <flavor>
+   "Lancia Fuoco Lunare e non fermarti mai." - Manuale del giovane Druido, capitolo 5, paragrafo 3
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Fuoco Stellare
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $5 danni. Pesca una carta.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   6
+  </cost>
+  <id>
+   EX1_173
+  </id>
+  <flavor>
+   L&amp;apos;equilibrio è importante per i Druidi. Questa carta infatti è perfettamente equilibrata.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Furia del Vento
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fornisce &lt;b&gt;Furia del Vento&lt;/b&gt; a un servitore.
+  </text>
+  <artist>
+   Justin Sweet
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_039
+  </id>
+  <flavor>
+   Furia del Vento è come Furia della Terra e Furia del Fuoco, solo un po&amp;apos; più fresca e leggera.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Furia di Magma
+  </name>
+  <artist>
+   Matt Gaser
+  </artist>
+  <id>
+   CS2_118
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Gli piace pensare di essere potente, ma ormai praticamente chiunque può affrontare Nucleo Ardente in solitaria.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 dello Sciamano.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Garrosh Malogrido
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_01
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Free
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Giustizia della Luce
+  </name>
+  <durability>
+   4
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_091
+  </id>
+  <flavor>
+   Il Principe Malchezaar era un grande collezionista di armi rare. Si divertiva ad animarle e a farle ballare per lui.
+  </flavor>
+  <artist>
+   Glenn Rane
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gnoma Inventrice
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca una carta.
+  </text>
+  <artist>
+   Court Jones
+  </artist>
+  <id>
+   CS2_147
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Prima inventa, poi decide a cosa servirà l&amp;apos;invenzione.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Sacerdote.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Golem da Guerra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <artist>
+   Dave Kendall
+  </artist>
+  <id>
+   CS2_186
+  </id>
+  <attack>
+   7
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   I Golem non possono spaventarsi, ma per qualche strano motivo scappano ugualmente quando viene lanciata Paura su di loro. Istinto? Voglia di integrarsi?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 del Ladro.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Grizzly Peloduro
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <id>
+   CS2_125
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <flavor>
+   "Carcasse d&amp;apos;Orso 1/10"
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Cacciatore.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Grunt dei Lupi Bianchi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Richie Marella
+  </artist>
+  <id>
+   CS2_121
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Prima di lui, suo nonno e suo padre erano Grunt. Essere Grunt è più che un semplice lavoro, è un affare di famiglia!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 dello Sciamano.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Guardiano dei Re
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; rigenera 6 Salute al tuo eroe.
+  </text>
+  <artist>
+   E.M. Gist
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_088
+  </id>
+  <flavor>
+   Le entità sacre provenienti da altri piani sono davvero inflazionate!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Guardiano di Sen&amp;apos;jin
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Brian Despain
+  </artist>
+  <id>
+   CS2_179
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Nel dubbio... Taz&amp;apos;dingo!
+- Luca Z.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Ladro.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Guarigione Ancestrale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Rigenera la Salute di un servitore al massimo e gli fornisce &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <artist>
+   Dan Scott
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_041
+  </id>
+  <flavor>
+   Personalmente preferisco le cure moderne a quelle ancestrali... sono troppo fuori moda! Questione di gusti.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Guaritrice Scagliascura
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; rigenera 2 Salute a tutti i tuoi personaggi.
+  </text>
+  <artist>
+   Jesper Ejsing
+  </artist>
+  <id>
+   DS1_055
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Curare è una cosa che fa solo nel tempo libero. È più un hobby, in realtà.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Sacerdote.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Gul&amp;apos;dan
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_07
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Huffer
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_034
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Immagine Speculare
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_mirror
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Immagine Speculare
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Evoca due servitori 0/2 con &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_027
+  </id>
+  <flavor>
+   Oh, guarda, è Immagine Speculare! !eralucepS enigammI é ,adraug ,hO
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Imposizione: Protezione
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fornisce &lt;b&gt;Scudo Divino&lt;/b&gt; a un servitore.
+  </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_371
+  </id>
+  <flavor>
+   Questa magia è stata rinominata talmente tante volte che nemmeno i Paladini sanno come si chiama veramente.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Infernale del Terrore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 1 danno a TUTTI gli altri personaggi.
+  </text>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <id>
+   CS2_064
+  </id>
+  <flavor>
+   "INFERNOOOOOOOOOO!" - Jaraxxus, Signore Eredar della Legione Infuocata
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Infusione Ancestrale
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_041e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ingegnera Novizia
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca una carta.
+  </text>
+  <artist>
+   Karl Richardson
+  </artist>
+  <id>
+   EX1_015
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   "Molti degli studenti di questa classe non verranno promossi... dato che saranno stati trasformati in galline." - Mastro Meccanista Granfavilla, lezione introduttiva di Ingegneria
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Druido.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Innervazione
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fornisce 2 Cristalli di Mana solo per questo turno.
+  </text>
+  <artist>
+   Doug Alexander
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   EX1_169
+  </id>
+  <flavor>
+   Alcuni Druidi hanno ancora gli incubi di gente sconosciuta che grida loro "Innervami!".
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Intelletto Arcano
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Pesca 2 carte.
+  </text>
+  <artist>
+   Dave Berggren
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_023
+  </id>
+  <flavor>
+   Giocare questa carta ti rende più intelligente. E ammettiamolo, la cosa non può di certo fare male.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Jaina Marefiero
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_08
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lama dell&amp;apos;Assassino
+  </name>
+  <durability>
+   4
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_080
+  </id>
+  <flavor>
+   Posseduta realmente da un vero assassino. Certificato di assassinio incluso.
+  </flavor>
+  <artist>
+   Brian Huang
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lamascura
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 3 danni all&amp;apos;eroe nemico.
+  </text>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <id>
+   EX1_593
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   La tua faccia è l&amp;apos;ultimo posto nel quale vorresti un pugnale, ed è esattamente dove un Ladro te lo infilzerebbe.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Druido.
+  </howtogetgold>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Leokk
+  </name>
+  <text>
+   Gli altri tuoi servitori hanno +1 Attacco.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_033
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lingua di Fuoco
+  </name>
+  <text>
+   +2 Attacco dal Totem del Fuoco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_565o
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Luce Sacra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Rigenera #6 Salute.
+  </text>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_089
+  </id>
+  <flavor>
+   Se sei frequentemente esposto alla Luce Sacra, usa una protezione solare.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Lupo della Foresta
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Le altre tue Bestie hanno +1 Attacco.
+  </text>
+  <artist>
+   Malcolm Davis
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <id>
+   DS1_175
+  </id>
+  <flavor>
+   Le altre bestie adorano uscire con i lupi della foresta.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Maestria nei Pugnali
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Equipaggia un Pugnale 1/2.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_083b
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Maestro dei Segugi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +2/+2 e &lt;b&gt;Provocazione&lt;/b&gt; a una tua Bestia.
+  </text>
+  <artist>
+   Dan Brereton
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   DS1_070
+  </id>
+  <flavor>
+   "Chi ha fatto uscire il cane?", chiede. Una domanda retorica.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mago di Dalaran
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <id>
+   EX1_582
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Una volta mio cugino ha visto un Guerriero di Dalaran.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 59 del Mago.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Magus Ogre
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <id>
+   CS2_197
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Insegnare agli Ogre la nobile arte della magia è una decisione molto discutibile...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 dello Stregone.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Morph
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Maledetto
+  </name>
+  <text>
+   Trasformato.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_246e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Maleficio
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Trasforma un servitore in una Rana 0/1 con &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <artist>
+   Steve Hui
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_246
+  </id>
+  <flavor>
+   Se si lanciasse un maleficio su un Murloc... chi si accorgerebbe della differenza?
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Malfurion Grantempesta
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_06
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Marchio del Cacciatore
+  </name>
+  <text>
+   Salute pari a 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_084e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Marchio del Cacciatore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   La Salute di un servitore diventa pari a 1.
+  </text>
+  <artist>
+   Jimmy Lo
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_084
+  </id>
+  <flavor>
+   Mai giocare a nascondino con un Cacciatore.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Marchio Selvaggio
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2/+2 e &lt;b&gt;Provocazione&lt;/b&gt; a un servitore.
+  </text>
+  <artist>
+   Brad Vancata
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_009
+  </id>
+  <flavor>
+   Da non confondere con il Mucchio Selvaggio.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Marchio Selvaggio
+  </name>
+  <text>
+   +2/+2 e &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_009e
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Martello dell&amp;apos;Ira
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni. Pesca una carta.
+  </text>
+  <artist>
+   Efrem Palacios
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_094
+  </id>
+  <flavor>
+   Un buon Paladino ha molti attrezzi a sua disposizione: Martello dell&amp;apos;Ira, Pinze della Vendetta, Incudine della Giustizia...
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Melma delle Paludi
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge l&amp;apos;arma dell&amp;apos;avversario.
+  </text>
+  <artist>
+   Chris Rahn
+  </artist>
+  <id>
+   EX1_066
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   Le melme amano il flamenco. Non chiederti il perché.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Ladro.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Morph
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Metamorfosi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Trasformato in una Pecora 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_022e
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Metamorfosi
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Trasforma un servitore in una Pecora 1/1.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_022
+  </id>
+  <flavor>
+   Qui ci andava un gioco di parole, ma non è uscito beee-ne.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mietimorte d&amp;apos;Arcanite
+  </name>
+  <durability>
+   2
+  </durability>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <id>
+   CS2_112
+  </id>
+  <flavor>
+   Davvero, dovresti aver paura della morte.
+  </flavor>
+  <artist>
+   Stefan Kopinski
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Mech
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Minidrago Meccanico
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_025t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Misha
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_032
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Missili Arcani
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni suddivisi casualmente tra tutti i nemici.
+  </text>
+  <artist>
+   Warren Mahy
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_277
+  </id>
+  <flavor>
+   Visto che sei un Mago potentissimo, ci si aspetterebbe un po&amp;apos; di più da te sul controllo dei Missili Arcani.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +1 Attacco.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_508o
+  </id>
+  <name>
+   Mlarggragllabl!
+  </name>
+ </item>
+ <item>
+  <text>
+   Fornisce 1 Cristallo di Mana solo per questo turno.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Spell
+  </type>
+  <id>
+   GAME_005
+  </id>
+  <name>
+   Moneta
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_005e
+  </id>
+  <name>
+   Moneta
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murloc Branchiazzurra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <artist>
+   Jakub Kasper
+  </artist>
+  <id>
+   CS2_173
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Vuole solo un abbraccio. Un molliccio... viscido... abbraccio.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Paladino.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murloc Cacciamaree
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca un Murloc Esploratore 1/1.
+  </text>
+  <artist>
+   Dan Scott
+  </artist>
+  <id>
+   EX1_506
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   "Death will rise, from the tides!" - I Am Murloc
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Ladro.
+  </howtogetgold>
+ </item>
+ <item>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murloc Esploratore
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_506a
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Murloc Incursore
+  </name>
+  <faction>
+   Alliance
+  </faction>
+  <artist>
+   Dan Scott
+  </artist>
+  <id>
+   CS2_168
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Mrrraggglhlhghghlgh, mrgaaag blarrghlgaahahl mrgggg glhalhah a bghhll graggmgmg Garrosh mglhlhlh mrghlhlhl!!
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 del Sacerdote.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Mutaforma
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
++1 Attacco per questo turno e 1 Armatura.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_017
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   NOOOOOOOOOOOO
+  </name>
+  <text>
+   Per qualche ragione, la carta che hai usato è stata cancellata. Ecco, prendine un&amp;apos;altra!
+  </text>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Anche la descrizione è stata cancellata. Maledizione.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   GAME_006
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ogre Rocciadura
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <id>
+   CS2_200
+  </id>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   "IO HA OTTIME CAPACITÀ PER COSTO!"
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 dello Stregone.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ombra del Vuoto
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   CS2_065
+  </id>
+  <flavor>
+   Si dice che vedano il bicchiere sempre mezzo... vuoto.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Murloc
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Oracolo Scagliasalda
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   TUTTI gli altri Murloc hanno +1 Attacco.
+  </text>
+  <artist>
+   Phil Saunders
+  </artist>
+  <id>
+   EX1_508
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Questi sono i Murloc intelligenti. Non che cambi molto da quelli normali...
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 dello Stregone.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Oratore del Vento
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce &lt;b&gt;Furia del Vento&lt;/b&gt; a un altro tuo servitore.
+  </text>
+  <artist>
+   Vance Kovacs
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_587
+  </id>
+  <flavor>
+   C&amp;apos;è qualcosa di peggio di un Oratore del Vento con l&amp;apos;alitosi?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ordine di Morte
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni. Se controlli una Bestia, infligge $5 danni.
+  </text>
+  <artist>
+   Gabe from Penny Arcade
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_539
+  </id>
+  <flavor>
+   "Muori!", ordinò.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Palla di Fuoco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $6 danni.
+  </text>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_029
+  </id>
+  <flavor>
+   Questo incantesimo è perfetto per bruciare le cose. Se cerchi una magia per abbrustolire o semplicemente scaldare, sei nel posto sbagliato.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 44.
+  </howtogetgold>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Parola d&amp;apos;Ombra: Dolore
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Distrugge un servitore con Attacco pari a 3 o inferiore.
+  </text>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_234
+  </id>
+  <flavor>
+   Un miglioramento rispetto all&amp;apos;incantesimo lanciato da molti accoliti novizi: "Parola d&amp;apos;Ombra: Fastidio".
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Parola d&amp;apos;Ombra: Morte
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Distrugge un servitore con Attacco pari a 5 o superiore.
+  </text>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_622
+  </id>
+  <flavor>
+   Se manca il bersaglio, lascia una cicatrice a forma di saetta sulla sua fronte.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Parola del Potere: Scudo
+  </name>
+  <text>
+   +2 Salute.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_004e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Parola del Potere: Scudo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Salute a un servitore. Pesca una carta.
+  </text>
+  <artist>
+   Jessica Jung
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_004
+  </id>
+  <flavor>
+   Certo, la protezione aggiuntiva è una bella cosa, ma lo scudo riduce parecchio la visibilità.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Patriarca Mantoargenteo
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Daren Bader
+  </artist>
+  <id>
+   CS2_127
+  </id>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Si comporta come se comandasse lui, ma in realtà è la Matriarca Mantoargenteo che manda avanti la baracca.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 del Guerriero.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Patto Sacrificale
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   Distrugge un Demone. Rigenera #5 Salute al tuo eroe.
+  </text>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   NEW1_003
+  </id>
+  <flavor>
+   Questo è il motivo per cui i Demoni non diventano mai amici degli Stregoni.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pecora
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_tk1
+  </id>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Potenziamento Armatura
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Ottiene 2 Armatura.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_102
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +1 Attacco dal Capoincursione.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_122e
+  </id>
+  <name>
+   Potenziato
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Presenza del Maestro
+  </name>
+  <text>
+   +2/+2 e &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_070o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pugnalata alle Spalle
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni a un servitore non danneggiato.
+  </text>
+  <artist>
+   Michael Sutfin
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   CS2_072
+  </id>
+  <flavor>
+   È interessante vedere quanto spesso gridando "Guarda là!" induca anche i nemici a girarsi.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Punizione Sacra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni.
+  </text>
+  <artist>
+   Steve Ellis
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS1_130
+  </id>
+  <flavor>
+   Non importa quanto tu sia pio. Tutti hanno bisogno ogni tanto di una punizione.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rana
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   hexfrog
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Raptor Codarossa
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <artist>
+   Dan Brereton
+  </artist>
+  <id>
+   CS2_172
+  </id>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <flavor>
+   "Uccidi 30 Raptor." - Hemet Nesingwary
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 57 del Cacciatore.
+  </howtogetgold>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Recluta Mano d&amp;apos;Argento
+  </name>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_101t
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rexxar
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_05
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rinforzo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Evoca una Recluta Mano d&amp;apos;Argento 1/1.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   CS2_101
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Rinoceronte Furioso
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Le tue Bestie hanno &lt;b&gt;Carica&lt;/b&gt;.
+  </text>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <id>
+   DS1_178
+  </id>
+  <flavor>
+   I rinoceronti furiosi della tundra sono spesso confusi con i kodo. O forse mi sto confondendo?
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Risucchio di Vita
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni. Rigenera #2 Salute al tuo eroe.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_061
+  </id>
+  <flavor>
+   "Ti ho appena risucchiato un anno di vita."
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ruggito Selvaggio
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Attacco ai tuoi personaggi per questo turno.
+  </text>
+  <artist>
+   Grace Liu
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_011
+  </id>
+  <flavor>
+   Cosa esprimono i loro ruggiti? Nessuno può dirlo, ma sembra quasi "Oh Long Johnson". Probabilmente non si tratta di questo.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ruggito Selvaggio
+  </name>
+  <text>
+   +2 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_011o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Scatto
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Pesca 4 carte.
+  </text>
+  <artist>
+   James Zhang
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <cost>
+   7
+  </cost>
+  <id>
+   CS2_077
+  </id>
+  <flavor>
+   "Sono sprecato per la corsa campestre! Noi Ladri siamo scattisti nati! Micidiali sulle brevi distanze!" - un Nano Ladro
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Scheletro
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   skele11
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Scorta Goblin
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Matt Cavotta
+  </artist>
+  <id>
+   CS2_187
+  </id>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Puoi ingaggiarlo... finché qualcuno non gli offre abbastanza oro per farlo rivoltare contro di te.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 dello Sciamano.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Scudo Saldo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fornisce 5 Armatura. Pesca una carta.
+  </text>
+  <artist>
+   Michael Komarck
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_606
+  </id>
+  <flavor>
+   Gli scudi furono inventati perché una Faccia Salda non serviva a un granché.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Segugio del Nucleo
+  </name>
+  <artist>
+   E.M. Gist
+  </artist>
+  <id>
+   CS2_201
+  </id>
+  <attack>
+   9
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Non puoi addomesticare un Segugio del Nucleo. Al massimo puoi addestrarlo a mangiare qualcun altro.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 del Cacciatore.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sfregio
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Attacco al tuo eroe per questo turno e 2 Armatura.
+  </text>
+  <artist>
+   Dany Orizio
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_005
+  </id>
+  <flavor>
+   Se vuoi distrarre un Druido in Forma Felina, basta agitargli un Laser Gnomesco sotto il muso.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sfregio
+  </name>
+  <text>
+   +2 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_005o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sguardo dal Cielo
+  </name>
+  <text>
+   +1 Attacco da Leokk.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NEW1_033o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Signore dei Lupi Bianchi
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; ottiene +1/+1 per ogni altro tuo servitore sul campo di battaglia.
+  </text>
+  <artist>
+   James Ryman
+  </artist>
+  <id>
+   CS2_226
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   I Lupi Bianchi sono perennemente in guerra con i Piccatonante per il controllo della Valle d&amp;apos;Alterac. Ogni tentativo di riappacificazione è fallito poiché il Capitano Galvangar ha sempre ucciso il mediatore.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 53 dello Sciamano.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <rarity>
+   Common
+  </rarity>
+  <set>
+   Basic
+  </set>
+  <name>
+   Spadone di Verargento
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Quando il tuo eroe attacca, rigenera 2 Salute.
+  </text>
+  <faction>
+   Neutral
+  </faction>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_097
+  </id>
+  <flavor>
+   Trancia e affetta divinamente. Potresti anche usarlo per tagliarti le unghie, ma io non lo farei se fossi in te.
+  </flavor>
+  <artist>
+   Ryan Sook
+  </artist>
+  <type>
+   Weapon
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Sparizione
+  </name>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <text>
+   Fa tornare TUTTI i servitori nella mano di coloro che li controllano.
+  </text>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <cost>
+   6
+  </cost>
+  <howtogetgold>
+   Sbloccata al livello 23.
+  </howtogetgold>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_004
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Spazzata
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $4 danni a un nemico e $1 |4(danno,danni) a tutti gli altri nemici.
+  </text>
+  <artist>
+   Sean O’Daniels
+  </artist>
+  <howtoget>
+   Sbloccata al livello 8.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   CS2_012
+  </id>
+  <flavor>
+   Se un orso si alza in piedi e allarga le zampe significa che vuole spazzarti via... o abbracciarti. In ogni caso è meglio scappare!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 47.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Spira Letale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni) a un servitore. Se il bersaglio muore, pesca una carta.
+  </text>
+  <artist>
+   Matt Gaser
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_302
+  </id>
+  <flavor>
+   Se le tue magie hanno la forma di orrendi teschi, te lo meriti di pescare delle altre carte.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Spirito Divino
+  </name>
+  <artist>
+   Jim Pavelec
+  </artist>
+  <text>
+   Raddoppia la Salute di un servitore.
+  </text>
+  <howtoget>
+   Sbloccata al livello 2.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   CS2_236
+  </id>
+  <flavor>
+   Doppia sfida, doppio divertimento!
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Spirito Divino
+  </name>
+  <text>
+   Salute raddoppiata.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_236e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_226e
+  </id>
+  <name>
+   Stendardo dei Lupi Bianchi
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Stilettata
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni). Pesca una carta.
+  </text>
+  <artist>
+   Alex Garner
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   EX1_278
+  </id>
+  <flavor>
+   I Ladri uccidono con stile-ttate.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 45.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Demon
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Succube
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; scarta una carta casuale.
+  </text>
+  <artist>
+   Matt Dixon
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_306
+  </id>
+  <flavor>
+   Indubbiamente essere uno Stregone ha i suoi vantaggi...
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Beast
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tartarabbia dell&amp;apos;Oasi
+  </name>
+  <artist>
+   Ittoku
+  </artist>
+  <id>
+   CS2_119
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <flavor>
+   Ha un sogno: volare e sputare fuoco come il suo idolo. Non si realizzerà mai.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 51 del Druido.
+  </howtogetgold>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Taumaturgo Vudù
+  </name>
+  <faction>
+   Horde
+  </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; rigenera 2 Salute.
+  </text>
+  <artist>
+   Karl Richardson
+  </artist>
+  <id>
+   EX1_011
+  </id>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <flavor>
+   Il vudù sarà pure un&amp;apos;arte incompresa, ma &lt;i&gt;è&lt;/i&gt; arte.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Ladro.
+  </howtogetgold>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Thrall
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_02
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tiro Arcano
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   DS1_185
+  </id>
+  <flavor>
+   I Maghi un tempo evocavano le Frecce Arcane per i Cacciatori, fin quando questi non impararono un po&amp;apos; di magia. La conseguente crisi gettò Roccavento in una recessione economica.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tiro Multiplo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $3 danni a due servitori nemici casuali.
+  </text>
+  <artist>
+   Benjamin Zhang
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   4
+  </cost>
+  <id>
+   DS1_183
+  </id>
+  <flavor>
+   Non è una questione di qualità, ma di quantità.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 36.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tiro Stabilizzato
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 2 danni all&amp;apos;eroe nemico.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   DS1h_292
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tocco Curativo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Rigenera #8 Salute.
+  </text>
+  <artist>
+   Cyril Van Der Haegen
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   CS2_007
+  </id>
+  <flavor>
+   8 Salute, nessuna attesa.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AdjacentBuff
+   </item>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem del Fuoco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   I servitori adiacenti hanno +2 Attacco.
+  </text>
+  <artist>
+   Jonathan Ryder
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <inplaytext>
+  </inplaytext>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <id>
+   EX1_565
+  </id>
+  <flavor>
+   I costruttori di totem utilizzano legni molto rari. Si mormora esistano totem fatti addirittura con i Treant Legnoferreo.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem dell&amp;apos;Aria
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;+1 Danni Magici&lt;/b&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_052
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem della Pietra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_051
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem della Vita
+  </name>
+  <text>
+   Alla fine del tuo turno, rigenera 1 Salute a tutti i tuoi servitori.
+  </text>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_009
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <race>
+   Totem
+  </race>
+  <set>
+   Basic
+  </set>
+  <name>
+   Totem delle Fiamme
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_050
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tracciamento
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Guarda le prime tre carte del tuo mazzo. Pescane una e scarta le altre.
+  </text>
+  <artist>
+   Mauro Cascioli
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   DS1_184
+  </id>
+  <flavor>
+   Per il giocatore che non sa quale carta inserire nel proprio mazzo.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 15.
+  </howtogetgold>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Tramortimento
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fa tornare un servitore nemico nella mano dell&amp;apos;avversario.
+  </text>
+  <artist>
+   Scott Altmann
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   2
+  </cost>
+  <id>
+   EX1_581
+  </id>
+  <flavor>
+   Le Ladre usano sempre Tramortimento sui loro compagni per costringerli a guardare i film romantici.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 40.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Treant Legnoferreo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <artist>
+   Dave Allsop
+  </artist>
+  <howtoget>
+   Sbloccata al livello 10.
+  </howtoget>
+  <attack>
+   8
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <id>
+   CS2_232
+  </id>
+  <flavor>
+   Ti &lt;i&gt;sfido&lt;/i&gt; ad attaccare Darnassus.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 49.
+  </howtogetgold>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Turbine
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni) a TUTTI i servitori.
+  </text>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_400
+  </id>
+  <flavor>
+   Il modo migliore per riconoscere un Guerriero veterano da un novellino è che quest&amp;apos;ultimo grida "Uuooooo" quando esegue un Turbine.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ululato Furioso
+  </name>
+  <text>
+   +1 Attacco dal Lupo della Foresta.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_175o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Umiltà
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Attacco pari a 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_360e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Umiltà
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   L&amp;apos;Attacco di un servitore diventa pari a 1.
+  </text>
+  <artist>
+   Daren Bader
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   EX1_360
+  </id>
+  <flavor>
+   Questa carta bagna qualsiasi cosa. Oh, no, aspetta, quella è "Umidità".
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Uther l&amp;apos;Araldo della Luce
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_04
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Valeera Sanguinar
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Free
+  </rarity>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   HERO_03
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Veleno Mortale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Attacco alla tua arma.
+  </text>
+  <artist>
+   Trevor Jacobs
+  </artist>
+  <howtoget>
+   Sbloccata al livello 1.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_074
+  </id>
+  <flavor>
+   I Ladri custodiscono gelosamente i segreti della creazione di veleni, temendo che i Maghi possano utilizzarli nelle loro magie. Dardi Avvelenati? Pioggia di Veleno? Meglio evitare.
+  </flavor>
+  <rarity>
+   Free
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 43.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +2 Attacco.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_074e
+  </id>
+  <name>
+   Veleno Mortale
+  </name>
+ </item>
+ <item>
+  <text>
+   Cominciare per secondo rende più forte il tuo primo servitore.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_003e
+  </id>
+  <name>
+   Vendetta della Moneta
+  </name>
+ </item>
+ <item>
+  <text>
+   Cominciare per secondo rende più forte il tuo primo servitore.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_003
+  </id>
+  <name>
+   Vendetta della Moneta
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Ventaglio di Lame
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $1 |4(danno,danni) a tutti i servitori nemici. Pesca una carta.
+  </text>
+  <artist>
+   Andrew Robinson
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   3
+  </cost>
+  <id>
+   EX1_129
+  </id>
+  <flavor>
+   Non è consigliabile usarlo per rinfrescarsi nelle giornate più afose.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 29.
+  </howtogetgold>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +1/+1 dal Campione di Roccavento.
+  </text>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_222o
+  </id>
+  <name>
+   Vigore di Roccavento
+  </name>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Vigore Totemico
+  </name>
+  <text>
+   +2 Salute.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_244e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Vigore Totemico
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2 Salute ai tuoi Totem.
+  </text>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <howtoget>
+   Sbloccata al livello 6.
+  </howtoget>
+  <cost>
+   0
+  </cost>
+  <id>
+   EX1_244
+  </id>
+  <flavor>
+   La distruzione dei totem non è più un&amp;apos;attività ricreativa.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 28.
+  </howtogetgold>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Visione Mentale
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Mette nella tua mano una copia di una carta casuale dalla mano dell&amp;apos;avversario.
+  </text>
+  <artist>
+   Michael Komarck
+  </artist>
+  <howtoget>
+   Sbloccata al livello 4.
+  </howtoget>
+  <cost>
+   1
+  </cost>
+  <id>
+   CS2_003
+  </id>
+  <flavor>
+   So cosa hai fatto.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Spell
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 32.
+  </howtogetgold>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Yeti di Ventofreddo
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <artist>
+   Mauro Cascioli
+  </artist>
+  <id>
+   CS2_182
+  </id>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <flavor>
+   Ha sempre sognato di scendere dalla montagna e di vendere spaghetti di riso, ma non ha mai avuto il coraggio di farlo.
+  </flavor>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Minion
+  </type>
+  <howtogetgold>
+   Sbloccata al livello 55 del Guerriero.
+  </howtogetgold>
+ </item>
+</cards>
