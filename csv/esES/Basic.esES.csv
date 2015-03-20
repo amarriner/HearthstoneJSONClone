@@ -19,7 +19,7 @@ Tus turnos son más cortos.,Basic,Enchantment,GAME_004,AUS,,,,,,,,,,,,,,,
 <i>La suerte no te ha sonreído pero has conseguido un amigo.</i>,Basic,Minion,GAME_002,Avatar de la moneda,,,,Free,0,,,,,,1,1,,,
 +1/+1.,Basic,Enchantment,EX1_019e,Bendición de la clériga,,,,,,,,,Priest,,,,,,
 +3 p. de ataque.,Basic,Enchantment,CS2_087e,Bendición de poderío,,Neutral,,,,,,,Paladin,,,,,,
-Otorga +3 p. de ataque a un esbirro.,Basic,Spell,CS2_087,Bendición de poderío,True,Neutral,Zoltan Boros,Free,1,Se desbloquea al alcanzar el nivel 45.,"No voy a alardear pero 'poderío' hacerlo". - Toad Mackle después de recibir este beneficio.,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
+Otorga +3 p. de ataque a un esbirro.,Basic,Spell,CS2_087,Bendición de poderío,True,Neutral,Zoltan Boros,Free,1,Se desbloquea al alcanzar el nivel 45.,"No voy a alardear pero poderío hacerlo". - Toad Mackle después de recibir este beneficio.,Se desbloquea al alcanzar el nivel 1.,Paladin,,,,,,
 Otorga +4/+4 a un esbirro. <i>(+4 p. de ataque/+4 p. de salud)</i>,Basic,Spell,CS2_092,Bendición de reyes,True,Neutral,Lucas Graciano,Common,4,Se desbloquea al alcanzar el nivel 49.,Teniendo en cuenta la cantidad de reyes que han muerto asesinados ¿seguro que es buena idea recibir su bendición?,Se desbloquea al alcanzar el nivel 10.,Paladin,,,,,,
 +4/+4.,Basic,Enchantment,CS2_092e,Bendición de reyes,,,,,,,,,Paladin,,,,,,
 <b>Poder de héroe</b>
@@ -67,7 +67,7 @@ Inflige $2 p. de daño. Restaura #2 p. de salud a tu héroe.,Basic,Spell,CS2_061
 Destruye a un esbirro enemigo dañado.,Basic,Spell,CS2_108,Ejecutar,True,Neutral,Dany Orizio,Free,1,Se desbloquea al alcanzar el nivel 47.,Seguro que se lo merecía.,Se desbloquea al alcanzar el nivel 1.,Warrior,,,,,,
 <b>Congela</b> a cualquier personaje dañado por este esbirro.,Basic,Minion,CS2_033,Elemental de agua,True,Neutral,John Avon,Common,4,Se desbloquea al alcanzar el nivel 49.,Perfecto para aguar fiestas.,Se desbloquea al alcanzar el nivel 8.,Mage,Freeze,3,6,,,
 <b>Grito de batalla:</b> Inflige 3 p. de daño.,Basic,Minion,CS2_042,Elemental de fuego,True,Neutral,Ralph Horsley,Common,6,Se desbloquea al alcanzar el nivel 49.,Está que arde.,Se desbloquea al alcanzar el nivel 10.,Shaman,Battlecry,6,5,,,
-<b>Cargar</b>,Basic,Minion,NEW1_011,Élite Kor'kron,True,,Alex Horley Orlandelli,Common,4,Se desbloquea al alcanzar el nivel 44.,Los Kor'kron son la fuerza de élite de Garrosh Grito Infernal. Digamos que es mejor no cruzarse con estos tipos llevando un tabardo azul.,Se desbloquea al alcanzar el nivel 4.,Warrior,Charge,4,3,,,
+<b>Cargar</b>,Basic,Minion,NEW1_011,Élite Korkron,True,,Alex Horley Orlandelli,Common,4,Se desbloquea al alcanzar el nivel 44.,Los Korkron son la fuerza de élite de Garrosh Grito Infernal. Digamos que es mejor no cruzarse con estos tipos llevando un tabardo azul.,Se desbloquea al alcanzar el nivel 4.,Warrior,Charge,4,3,,,
 Devuelve todos los esbirros a la mano de su dueño.,Basic,Spell,NEW1_004,Esfumarse,True,,Sean O’Daniels,Common,6,Se desbloquea al alcanzar el nivel 23.,,Se desbloquea al alcanzar el nivel 8.,Rogue,,,,,,
 Inflige $1 p. de daño a un esbirro. Si eso lo mata roba una carta.,Basic,Spell,EX1_302,Espiral mortal,True,Neutral,Matt Gaser,Common,1,Se desbloquea al alcanzar el nivel 43.,Admitámoslo: si puedes lanzar hechizos con forma de calavera deberías poder robar algunas cartas.,Se desbloquea al alcanzar el nivel 4.,Warlock,,,,,,
 Este esbirro tiene el doble de salud.,Basic,Enchantment,CS2_236e,Espíritu divino,,,,,,,,,Priest,,,,,,
@@ -96,7 +96,7 @@ Otorga +4 p. de ataque a tu héroe este turno.,Basic,Spell,CS2_105,Golpe heroico
 Inflige $3 p. de daño al héroe enemigo.,Basic,Spell,CS2_075,Golpe siniestro,True,Neutral,Frank Cho,Free,1,Se desbloquea al alcanzar el nivel 15.,Dando puñaladas a diestro... y siniestro.,Se desbloquea al alcanzar el nivel 1.,Rogue,,,,,,
 <b>Grito de batalla:</b> Restaura 6 p. de salud a tu héroe.,Basic,Minion,CS2_088,Guardián de los reyes,True,Neutral,E.M. Gist,Common,7,Se desbloquea al alcanzar el nivel 47.,Todo el mundo necesita la ayuda de un ser sagrado sobrenatural de vez en cuando.,Se desbloquea al alcanzar el nivel 8.,Paladin,Battlecry,5,6,,,
 <b>Cargar</b>,Basic,Minion,CS2_173,Guerrero Branquiazul,True,Neutral,Jakub Kasper,Common,2,Se desbloquea al alcanzar el nivel 53 con el paladín.,Solo quiere un abrazo. Un abrazo húmedo y viscoso.,,,Charge,2,1,Murloc,,
-,Basic,Hero,HERO_07,Gul'dan,True,Neutral,,Free,,,,,Warlock,,,30,,,
+,Basic,Hero,HERO_07,Guldan,True,Neutral,,Free,,,,,Warlock,,,30,,,
 <b>Grito de batalla:</b> Otorga <b>Viento Furioso</b> a un esbirro amistoso.,Basic,Minion,EX1_587,Hablavientos,True,Neutral,Vance Kovacs,Common,4,Se desbloquea al alcanzar el nivel 45.,No se le puede contar un secreto: lo grita a los cuatro vientos.,Se desbloquea al alcanzar el nivel 8.,Shaman,Battlecry,3,3,,,
 ,Basic,Weapon,CS2_106,Hacha de guerra ígnea,True,Neutral,Lucas Graciano,Free,2,Se desbloquea al alcanzar el nivel 49.,En épocas de tranquilidad y armonía a esta arma se la conoce por su nombre menos popular: hacha de paz fresquita.,Se desbloquea al alcanzar el nivel 1.,Warrior,,3,,,,2
 ,Basic,Weapon,CS2_080,Hoja de asesino,True,Neutral,Brian Huang,Common,5,Se desbloquea al alcanzar el nivel 32.,Anteriormente propiedad de un asesino de verdad. Incluye certificado de autenticidad.,Se desbloquea al alcanzar el nivel 2.,Rogue,,3,,,,4
@@ -130,7 +130,7 @@ Restaura #6 p. de salud.,Basic,Spell,CS2_089,Luz Sagrada,True,Neutral,Zoltan & G
 <b>Poder de héroe</b>
 Equipa una daga 1/2.,Basic,Hero Power,CS2_083b,Maestría en dagas,,Neutral,,Free,2,,,,Rogue,,,,,,
 <b>Grito de batalla:</b> Otorga +2/+2 y <b>Provocar</b> a una bestia amistosa.,Basic,Minion,DS1_070,Maestro de canes,True,Neutral,Dan Brereton,Free,4,Se desbloquea al alcanzar el nivel 28.,No mentía al decir que llevaba una vida de perros.,Se desbloquea al alcanzar el nivel 1.,Hunter,Battlecry,4,3,,,
-<b>Provocar</b>,Basic,Minion,CS2_179,Maestro de escudos Sen'jin,True,Horde,Brian Despain,Free,4,Se desbloquea al alcanzar el nivel 59 con el pícaro.,El Poblado Sen'jin es un éxito entre los fans de los trols y el polvo.,,,Taunt,3,5,,,
+<b>Provocar</b>,Basic,Minion,CS2_179,Maestro de escudos Senjin,True,Horde,Brian Despain,Free,4,Se desbloquea al alcanzar el nivel 59 con el pícaro.,El Poblado Senjin es un éxito entre los fans de los trols y el polvo.,,,Taunt,3,5,,,
 <b>+1 p. de daño con hechizos</b>,Basic,Minion,EX1_582,Mago de Dalaran,True,Neutral,Jim Nelson,Common,3,Se desbloquea al alcanzar el nivel 59 con el mago.,No se ven muchos guerreros de Dalaran.,,,Spellpower,1,4,,,
 <b>+1 p. de daño con hechizos</b>,Basic,Minion,CS2_197,Mago ogro,True,Neutral,James Ryman,Common,4,Se desbloquea al alcanzar el nivel 55 con el brujo.,¿A quién se le ocurre enseñar magia a los ogros?,,,Spellpower,4,4,,,
 Transforma a un esbirro en una rana 0/1 con <b>Provocar</b>.,Basic,Spell,EX1_246,Maleficio,True,Neutral,Steve Hui,Free,3,Se desbloquea al alcanzar el nivel 47.,¿No lo irás a usar contra un múrloc no? ¿No crees que ya tienen bastante?,Se desbloquea al alcanzar el nivel 1.,Shaman,,,,,,

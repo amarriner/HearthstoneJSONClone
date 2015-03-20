@@ -37,7 +37,7 @@ Missions,헤멧 네싱워리,Common,,,20,Hero,TU4d_001,,,Hunter,,,,,,,,,,
 Missions,화염 폭발,Common,,3,,Spell,TU4e_005,피해를 $1씩 주는 화살 5개를 무작위 적들에게 발사합니다.,,,,,,,,,,,,
 Missions,황제의 유산,Common,,3,,Spell,TU4f_004,내 하수인들에게 +2/+2를 부여합니다. <i>(공격력 +2/생명력 +2)</i>,,,,,,,,,,,,
 Missions,황제의 유산,,,,,Enchantment,TU4f_004o,+2/+2. <i>(공격력 +2/생명력 +2)</i>,,,,,,,,,,,,
-Classic,'고무됨',,,,,Enchantment,CS2_188o,이번 턴에 공격력 +2,OneTurnEffect,,,,,,,,,,,
+Classic,고무됨,,,,,Enchantment,CS2_188o,이번 턴에 공격력 +2,OneTurnEffect,,,,,,,,,,,
 Classic,SI:7 요원,Rare,3,3,3,Minion,EX1_134,<b>연계:</b> 피해를 2 줍니다.,Combo,Rogue,Neutral,,,True,Chris Moeller,SI: 7의 요원들은 스톰윈드의 비밀 임무를 수행합니다. 첩보 암살 왕가의 깜짝 생일 파티 등등...,,,,
 Classic,가시덤불 호랑이,Common,5,5,5,Minion,EX1_028,<b>은신</b>,Stealth,,Alliance,,,True,Alex Horley Orlandelli,호랑이에 대한 멋진 사실은 호랑이가 멋지다는 사실입니다!,Beast,,,
 Classic,가젯잔 경매인,Rare,4,6,4,Minion,EX1_095,내가 주문을 시전할 때마다 카드를 1장 뽑습니다.,,,Neutral,,,True,Matt Dixon,암시장 경매장을 운영하던 때도 있었지만 너무 폭력이 난무하는 바람에 옮길 수 밖에 없었답니다.,,,,
@@ -122,8 +122,8 @@ Classic,다람쥐,Common,1,1,1,Minion,EX1_tk28,,,,Neutral,,,,,,Beast,,,
 Classic,단검 곡예사,Rare,3,2,2,Minion,NEW1_019,내 하수인이 소환된 후에 무작위 적 하나에게 피해를 1 줍니다.,,,,,,True,Matt Cavotta,야심찬 단검 곡예사가 자라면 폭탄 곡예사가 되기도 합니다. 하지만 카드로 만들어질 만큼 오래 살아남는 경우는 없습니다.,,,,
 Classic,단련,,,,,Enchantment,EX1_046e,이번 턴에 공격력 +2,OneTurnEffect,,,,,,,,,,,
 Classic,달빛섬광,,,,,Spell,EX1_166a,피해를 2 줍니다.,,Druid,Neutral,,,,,,,,,
-Classic,대규모 무효화,Rare,,4,,Spell,EX1_626,모든 적 하수인을 <b>침묵</b>시킵니다. 카드를 1장 뽑습니다.,Silence,Priest,,,,True,Sean O'Daniels,강화 효과와 힘 희망과 꿈까지 무효화합니다.,,,,
-Classic,대마법사 안토니다스,Legendary,5,7,7,Minion,EX1_559,내가 주문을 시전할 때마다 '화염구' 카드 1장을 손으로 가져옵니다.,,Mage,Neutral,,,True,Wayne Reynolds,안토니다스는 키린 토의 대학자이자 제이나의 스승이었습니다. 젤리 도넛의 대학자였던 그로선 장족의 발전이라 할 수 있죠.,,True,,
+Classic,대규모 무효화,Rare,,4,,Spell,EX1_626,모든 적 하수인을 <b>침묵</b>시킵니다. 카드를 1장 뽑습니다.,Silence,Priest,,,,True,Sean ODaniels,강화 효과와 힘 희망과 꿈까지 무효화합니다.,,,,
+Classic,대마법사 안토니다스,Legendary,5,7,7,Minion,EX1_559,내가 주문을 시전할 때마다 화염구 카드 1장을 손으로 가져옵니다.,,Mage,Neutral,,,True,Wayne Reynolds,안토니다스는 키린 토의 대학자이자 제이나의 스승이었습니다. 젤리 도넛의 대학자였던 그로선 장족의 발전이라 할 수 있죠.,,True,,
 Classic,대지 고리회 선견자,Common,3,3,3,Minion,CS2_117,<b>전투의 함성:</b> 생명력을 3 회복시킵니다.,Battlecry,,,,,True,Alex Horley Orlandelli,선견지명이 대단합니다. 이름값을 한다고나 할까요.,,,,
 Classic,대지 충격,Common,,1,,Spell,EX1_245,하수인 하나를 <b>침묵</b>시키고 피해를 $1 줍니다.,Silence,Shaman,Neutral,,,True,Kevin Chin,돼지 충격이라고요? 이런 아니군요. 배가 너무 고파서 그만.,,,,
 Classic,대지의 정령,Epic,7,5,8,Minion,EX1_250,<b>도발</b>. <b>과부하:</b> (3),Taunt,Shaman,Neutral,,,True,Dan Scott,한 대 치는 순간 계란이 되는 겁니다.,,,,
@@ -206,7 +206,7 @@ Classic,불덩이 작렬,Epic,,10,,Spell,EX1_279,피해를 $10 줍니다.,,Mage,
 Classic,불의 군주 라그나로스,Legendary,8,8,8,Minion,EX1_298,이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위 적에게 피해를 8 줍니다.,,,Neutral,,,True,Greg Staples,라그나로스를 소환한 것은 검은무쇠 드워프였지만 이들은 결국 불의 군주를 섬기는 노예가 되고 말았습니다. 이렇게 라그나로스를 소환하는 일은 원치 않는 결과를 불러오는 일이 많습니다.,,True,,
 Classic,붉은십자군 성전사,Common,3,3,1,Minion,EX1_020,<b>천상의 보호막</b>,Divine Shield,,Alliance,,,True,Gonzalo Ordonez,세탁할 때 흰 옷이 물들지 않게 조심해야겠군요.,,,,
 Classic,붉은해적단 바다사냥꾼,Rare,1,1,2,Minion,NEW1_025,<b>전투의 함성:</b> 상대편의 무기 내구도를 1 감소시킵니다.,Battlecry,,,,,True,Randy Gallegos,"해적 수칙"에 따르면 해적들은 자동 금화 인출기의 비밀번호로 모두 똑같은 네 자리 숫자를 사용해야 합니다.,Pirate,,,
-Classic,붉은해적단 약탈자,Common,2,2,3,Minion,NEW1_018,<b>전투의 함성:</b> 내 무기의 공격력만큼 공격력을 얻습니다.,Battlecry,,,,,True,Jim Nelson,"난 '요'가 포함된 요일에만 약탈을 하지.",Pirate,,,
+Classic,붉은해적단 약탈자,Common,2,2,3,Minion,NEW1_018,<b>전투의 함성:</b> 내 무기의 공격력만큼 공격력을 얻습니다.,Battlecry,,,,,True,Jim Nelson,"난 요가 포함된 요일에만 약탈을 하지.",Pirate,,,
 Classic,블라옳옳옳,,,,,Enchantment,EX1_509e,공격력 증가,,,,,,,,,,,,
 Classic,비밀 간직,,,,,Enchantment,EX1_080o,능력치 증가,,,,,,,,,,,,
 Classic,비밀결사단 어둠사제,Epic,4,6,5,Minion,EX1_091,<b>전투의 함성:</b> 공격력 2 이하인 적 하수인 하나를 우리편으로 만듭니다.,Battlecry,Priest,Neutral,,,True,Chippy,누가 비밀결사단을 위해 일하고 있는지 여러분은 상상조차 못할 겁니다...,,,,
@@ -278,12 +278,12 @@ Classic,암흑의 광기,Rare,,4,,Spell,EX1_334,공격력 3 이하인 적 하수
 Classic,압도적인 힘,,,,,Enchantment,EX1_316e,+4/+4 하지만 턴이 끝나면 처참하게 죽음,,Warlock,Neutral,,,,,,,,,
 Classic,압도적인 힘,Common,,1,,Spell,EX1_316,아군 하수인 하나에게 +4/+4를 부여합니다. 턴이 끝나면 그 하수인은 죽습니다. 처참하게.,,Warlock,Neutral,,,True,Tom Baxa,얼마나 처참하게 죽는지 차마 말로 표현할 수 없을 정도입니다. 너무 끔찍합니다! 아니 끔찍 그 이상입니다. 그냥 상상하지 마십시오.,,,,
 Classic,야생성,Rare,,1,,Spell,EX1_578,하수인 하나에게 내 영웅의 공격력만큼 피해를 줍니다.,AffectedBySpellPower,Druid,Neutral,,,True,Dave Rapoza,일부 드루이드들이 야생성을 보이는 건 사실이나 대부분은 조용한 곳에서 차 한잔하는 것을 즐긴답니다.,,,,
-Classic,야생의 힘,Common,,2,,Spell,EX1_160,<b>선택</b> - 내 하수인들에게 +1/+1을 부여합니다. 또는 3/2 표범을 1마리 소환합니다.,,Druid,Neutral,,,True,Steve Tappin,표범을 만났을 땐 표범과 눈을 마주치지 마십시오. 아니 '계속 표범의 눈을 보십시오'였던가? 뭐 둘 중 하나였던 것 같습니다.,,,,
+Classic,야생의 힘,Common,,2,,Spell,EX1_160,<b>선택</b> - 내 하수인들에게 +1/+1을 부여합니다. 또는 3/2 표범을 1마리 소환합니다.,,Druid,Neutral,,,True,Steve Tappin,표범을 만났을 땐 표범과 눈을 마주치지 마십시오. 아니 계속 표범의 눈을 보십시오였던가? 뭐 둘 중 하나였던 것 같습니다.,,,,
 Classic,야수 정령,Rare,,3,,Spell,EX1_248,<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. <b>과부하:</b> (2),,Shaman,Neutral,,,True,Clint Langley,늑대 정령들은 일반 늑대와 유사하지만 발바닥이 더 보들보들하다고 합니다.,,,,
 Classic,야수의 격노,Epic,,1,,Spell,EX1_549,이번 턴에 아군 야수 1마리에게 공격력 +2와 <b>피해 면역</b>을 부여합니다.,,Hunter,Neutral,,,True,Alex Horley Orlandelli,표면적으론 그냥 분노한 걸로 보이겠지만 사실은 다이어트와 오랜 방치가 원인입니다.,,,,
 Classic,야수의 격노,,,,,Enchantment,EX1_549o,이번 턴에 공격력 +2 <b>피해 면역</b>,OneTurnEffect,Hunter,,,,,,,,,,
 Classic,어둠의 명령,,,,,Enchantment,EX1_334e,이번 턴에는 상대편의 명을 따름,,Priest,,,,,,,,,,
-Classic,어둠의 형상,Epic,,3,,Spell,EX1_625,내 영웅 능력이 '피해를 2 줍니다.'로 바뀝니다. (이미 어둠의 형상이었다면 피해 3),,Priest,,,,True,Alex Horley Orlandelli,빛을 어둠으로 돌리는 건 쉽지만 어둠을 빛으로 돌리는 건 어렵다는 걸 보여주는 좋은 예라고 할 수 있죠.,,,,
+Classic,어둠의 형상,Epic,,3,,Spell,EX1_625,내 영웅 능력이 피해를 2 줍니다.로 바뀝니다. (이미 어둠의 형상이었다면 피해 3),,Priest,,,,True,Alex Horley Orlandelli,빛을 어둠으로 돌리는 건 쉽지만 어둠을 빛으로 돌리는 건 어렵다는 걸 보여주는 좋은 예라고 할 수 있죠.,,,,
 Classic,어린 용매,Common,1,1,1,Minion,CS2_169,<b>질풍</b>,Windfury,,Horde,,,True,Greg Hildebrandt,벌처럼 날아 나비처럼 쏩니다.,Beast,,,
 Classic,얼굴 없는 배후자,Epic,3,5,3,Minion,EX1_564,<b>전투의 함성:</b> 선택한 하수인으로 변신합니다.,Battlecry,,Neutral,,,True,Raymond Swanland,얼굴 없는 자들은 공포를 먹고 사는 요그사론의 하수인입니다. 지금도 좋은 카드들을 실수로 마력 추출해버리면 어쩌나 걱정하고 있는 당신의 공포를 먹고 있죠.,,,,
 Classic,얼음 방패,Epic,,3,,Spell,EX1_295,<b>비밀:</b> 내 영웅이 치명적인 피해를 입으면 피해를 막고 이번 턴에 <b>피해 면역</b> 상태가 됩니다.,Secret,Mage,Neutral,,,True,Carl Frank,얼음 막음 좋음!,,,,
@@ -320,7 +320,7 @@ Classic,은빛십자군 종자,Common,1,1,1,Minion,EX1_008,<b>천상의 보호�
 Classic,은폐,Common,,1,,Spell,EX1_128,나의 다음 턴까지 아군 하수인들에게 <b>은신</b>을 부여합니다.,,Rogue,Neutral,,,True,Steve Hui,도적은 모든 것을 은폐시킬 수 있습니다. 근데 이건 어디서 나는 냄새죠?,,,,
 Classic,은폐됨,,,,,Enchantment,EX1_128e,다음 턴까지 은신함,,Rogue,,,,,,,,,,
 Classic,응징의 격노,Epic,,6,,Spell,EX1_384,적 캐릭터들에게 $8의 피해를 무작위로 나누어 입힙니다.,ImmuneToSpellpower,Paladin,Neutral,,,True,Alex Garner,쿠쾅쾅쾅쾅쾅쾅쾅!,,,,
-Classic,이교도 지도자,Common,4,4,2,Minion,EX1_595,나의 다른 하수인 하나가 죽을 때마다 카드를 1장 뽑습니다.,,,Neutral,,,True,Raymond Swanland,사악한 이교도 지도자지만 일주일에 한 번은 꼭 부모님께 전화하는 '효녀'랍니다.,,,,
+Classic,이교도 지도자,Common,4,4,2,Minion,EX1_595,나의 다른 하수인 하나가 죽을 때마다 카드를 1장 뽑습니다.,,,Neutral,,,True,Raymond Swanland,사악한 이교도 지도자지만 일주일에 한 번은 꼭 부모님께 전화하는 효녀랍니다.,,,,
 Classic,이세라,Legendary,4,9,12,Minion,EX1_572,내 턴이 끝날 때
 <b>꿈 카드</b>를 1장 뽑습니다.,,,Neutral,,,True,Gabor Szikszai,이세라는 에메랄드의 꿈을 지배합니다. 에메랄드의 꿈이 어떻냐고요? 실제 세상의 녹색 버전이랄까요?,Dragon,True,,
 Classic,일리단 스톰레이지,Legendary,7,6,5,Minion,EX1_614,내가 카드를 낼 때마다 2/1 아지노스의 불꽃을 하나 소환합니다.,,,Neutral,,,True,Alex Horley Orlandelli,일리단의 형 말퓨리온은 일리단을 하이잘 지하에 10000년 동안이나 가둬두었습니다. 스톰레이지 형제들 참 뒤끝 작렬이네요.,Demon,True,,
@@ -494,7 +494,7 @@ Curse of Naxxramas,땅거미,,,2,,Hero Power,NAX1_04,<b>영웅 능력</b>
 3/1 네루비안 하나를 소환합니다.,,,,,,,,,,,,
 Curse of Naxxramas,땅거미,,,2,,Hero Power,NAX1h_04,<b>영웅 능력</b>
 4/4 네루비안 하나를 소환합니다.,,,,,,,,,,,,
-Curse of Naxxramas,로데브,Legendary,5,5,5,Minion,FP1_030,<b>전투의 함성:</b> 다음 턴에 적이 쓰는 주문의 비용이 (5) 증가합니다.,Battlecry,,,,,True,Samwise,평범한 수렁 괴물 로데브 몸에서 버섯 재배 수확 '충격',,True,역병 지구를 완료하여 잠금 해제,역병 지구를 완료한 후 제작 가능
+Curse of Naxxramas,로데브,Legendary,5,5,5,Minion,FP1_030,<b>전투의 함성:</b> 다음 턴에 적이 쓰는 주문의 비용이 (5) 증가합니다.,Battlecry,,,,,True,Samwise,평범한 수렁 괴물 로데브 몸에서 버섯 재배 수확 충격,,True,역병 지구를 완료하여 잠금 해제,역병 지구를 완료한 후 제작 가능
 Curse of Naxxramas,로데브,,,,99,Hero,NAX6_01H,,,,,,,,,,,,,
 Curse of Naxxramas,로데브,,,,75,Hero,NAX6_01,,,,,,,,,,,,,
 Curse of Naxxramas,룬검,,2,3,,Weapon,NAX9_05H,다른 기사들이 모두 죽으면 공격력을 +6 얻습니다.,,,,3,,,,,,,,
@@ -719,7 +719,7 @@ Basic,변신,Free,,2,,Hero Power,CS2_017,<b>영웅 능력</b>
  방어도 +1.
 이번 턴에만 공격력 +1.,,Druid,Neutral,,,,,,,,,
 Basic,변이,Common,,,,Enchantment,CS2_022e,1/1 양으로 변이됨,Morph,Mage,Neutral,,,,,,,,,
-Basic,변이,Free,,4,,Spell,CS2_022,하수인 하나를 1/1 양으로 변신시킵니다.,,Mage,Neutral,,,True,Vance Kovacs,이 카드로 '말'장난을 만들어 보려고 했는데... '양'장난이 되었네요. 길어져서 죄송합니다. 재미가 없으면 '양'으로라도 승부해야죠.,,,1 레벨에 잠금 해제,47 레벨에 잠금 해제
+Basic,변이,Free,,4,,Spell,CS2_022,하수인 하나를 1/1 양으로 변신시킵니다.,,Mage,Neutral,,,True,Vance Kovacs,이 카드로 말장난을 만들어 보려고 했는데... 양장난이 되었네요. 길어져서 죄송합니다. 재미가 없으면 양으로라도 승부해야죠.,,,1 레벨에 잠금 해제,47 레벨에 잠금 해제
 Basic,별빛섬광,Common,,6,,Spell,EX1_173,피해를 $5 줍니다.
 카드를 1장 뽑습니다.,,Druid,Neutral,,,True,Alex Horley Orlandelli,단언컨대 별빛섬광은 가장 조화로운 드루이드 카드입니다.,,,2 레벨에 잠금 해제,45 레벨에 잠금 해제
 Basic,병력 충원,Free,,2,,Hero Power,CS2_101,<b>영웅 능력</b>
@@ -789,7 +789,7 @@ Basic,암살,Free,,5,,Spell,CS2_076,적 하수인 하나를 처치합니다.,,Ro
 Basic,암살자의 검,Common,3,5,,Weapon,CS2_080,,,Rogue,Neutral,4,,True,Brian Huang,진짜 암살자가 품질을 보증하는 제품입니다. 자세히 보면 날에 장미 문양이 새겨져 있다고 합니다.,,,2 레벨에 잠금 해제,32 레벨에 잠금 해제
 Basic,암흑칼날,Free,4,5,4,Minion,EX1_593,<b>전투의 함성: </b>적 영웅에게 피해를 3 줍니다.,Battlecry,,Neutral,,,True,Raymond Swanland,단검을 가장 피하고 싶은 부분은 당신의 얼굴일 겁니다. 그러니 도적이 그곳을 노릴 겁니다.,,,,드루이드 53 레벨에 잠금 해제
 Basic,야생의 벗,Common,,3,,Spell,NEW1_031,무작위 동료 야수를 1마리 소환합니다.,,Hunter,,,,True,Wei Wang,미샤나 레오크 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.,,,2 레벨에 잠금 해제,45 레벨에 잠금 해제
-Basic,야생의 징표,Free,,2,,Spell,CS2_009,하수인 하나에게 <b>도발</b>과 +2/+2를 부여합니다.,,Druid,Neutral,,,True,Brad Vancata,드루이드가 아닌 사람들은 그냥 다 '발바닥'이라고 부르더군요.,,,1 레벨에 잠금 해제,28 레벨에 잠금 해제
+Basic,야생의 징표,Free,,2,,Spell,CS2_009,하수인 하나에게 <b>도발</b>과 +2/+2를 부여합니다.,,Druid,Neutral,,,True,Brad Vancata,드루이드가 아닌 사람들은 그냥 다 발바닥이라고 부르더군요.,,,1 레벨에 잠금 해제,28 레벨에 잠금 해제
 Basic,야생의 징표,,,,,Enchantment,CS2_009e,+2/+2 <b>도발</b>,,Druid,,,,,,,,,,
 Basic,야생의 포효,Common,,3,,Spell,CS2_011,이번 턴에 내 캐릭터들에게 공격력을 +2 부여합니다.,,Druid,Neutral,,,True,Grace Liu,뭐라고 포효하는 걸까요? 아무도 자신 있게 말할 순 없지만 얼핏 들리기로는 "이이!"라고 외치는 것 같습니다. 이게 대체 무슨 뜻일까요?,,,4 레벨에 잠금 해제,43 레벨에 잠금 해제
 Basic,야생의 포효,,,,,Enchantment,CS2_011o,이번 턴에 공격력 +2,OneTurnEffect,Druid,,,,,,,,,,
@@ -1044,7 +1044,7 @@ Goblins vs Gnomes,병참장교,Epic,2,5,5,Minion,GVG_060,<b>전투의 함성:</b
 Goblins vs Gnomes,보호막을 쓴 꼬마로봇,Common,2,2,2,Minion,GVG_058,<b>천상의 보호막</b>,Divine Shield,Paladin,,,,True,Raymond Swanland,신에 대한 믿음조차 프로그래밍된 녀석입니다!,Mech,,,
 Goblins vs Gnomes,볼바르 폴드라곤,Legendary,1,5,7,Minion,GVG_063,내 손에 있을 때 전장의 내 하수인이 죽을 때마다 공격력을 +1 얻습니다.,,Paladin,,,,True,Tooth,스포일러 경고: 볼바르는 용암 인간이 되어 얼어붙은 왕좌에 앉고 모두 그를 잊어버립니다.,,True,,
 Goblins vs Gnomes,볼진,Legendary,6,5,2,Minion,GVG_014,<b>전투의 함성:</b> 다른 하수인 하나와 생명력을 바꿉니다.,Battlecry,Priest,,,,True,Raymond Swanland,왜 볼진이 사제 카드냐고요? 볼진은 어둠사냥꾼입니다. 그리고 어둠사냥꾼은 뭐랄까... 좀 부두교에 심취한 암흑 사제 느낌이랄까요?,,True,,
-Goblins vs Gnomes,불안정한 차원문,Rare,,2,,Spell,GVG_003,무작위 하수인 카드 1장을 내 손으로 가져옵니다. 그 카드의 비용이 (3) 감소합니다.,,Mage,,,,True,Sean O'Daniels,아제로스의 거주민들은 차원문 안정화에 얼마나 많은 비용이 들어가는지 알지 못합니다. GDP의 30%는 차원문 유지에 들어갈걸요?,,,,
+Goblins vs Gnomes,불안정한 차원문,Rare,,2,,Spell,GVG_003,무작위 하수인 카드 1장을 내 손으로 가져옵니다. 그 카드의 비용이 (3) 감소합니다.,,Mage,,,,True,Sean ODaniels,아제로스의 거주민들은 차원문 안정화에 얼마나 많은 비용이 들어가는지 알지 못합니다. GDP의 30%는 차원문 유지에 들어갈걸요?,,,,
 Goblins vs Gnomes,붉은십자군 정화전사,Rare,4,3,3,Minion,GVG_101,<b>전투의 함성</b>: <b>죽음의 메아리</b> 능력을 가진 <b>모든</b> 하수인에게 피해를 2 줍니다.,Battlecry,Paladin,,,,True,Anton Zemskov,붉은십자군은 시장 조사를 통해 사람들이 "연보라십자군"을 더 호의적으로 느끼는 지에 대해 알아보고 있습니다.,,,,
 Goblins vs Gnomes,블링트론 3000,Legendary,3,5,4,Minion,GVG_119,<b>전투의 함성:</b> <b>모든</b> 플레이어가 무작위 무기를 하나씩 장착합니다.,Battlecry,,,,,True,Jomaro Kindred,간단히 "블링"이라고 불리기를 좋아하는 이 로봇은 자신에게 말을 거는 이에게 무작위 선물을 줍니다. 10분 동안 지속되며 선물은 하루에 한 번만 받을 수 있습니다.,Mech,True,,
 Goblins vs Gnomes,비상용 냉각제,,,1,,Spell,PART_005,하수인 하나를 <b>빙결</b> 상태로 만듭니다.,Freeze,,,,,,Peerasak Senalai,,,,,

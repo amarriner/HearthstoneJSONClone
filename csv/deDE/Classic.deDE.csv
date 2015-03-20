@@ -4,7 +4,7 @@ OneTurnEffect,Classic,„Inspiriert“,Dieser Diener hat +2 Angriff in diesem Zu
 – Asera,Hunter,,,
 ,Classic,Adlerhornbogen,Erhält jedes Mal +1 Haltbarkeit wenn ein eigenes <b>Geheimnis</b> aufgedeckt wird.,Weapon,EX1_536,True,Cyril Van Der Haegen,Rare,3,3,,,,Erste Lektion: Das Spitze muss ins Lebendige.,Hunter,2,,
 ,Classic,Akolyth des Schmerzes,Zieht jedes Mal eine Karte wenn dieser Diener Schaden erleidet.,Minion,EX1_007,True,Dave Kendall,Common,1,3,3,,,Als er klein war wollte er eines Tages ein Akolyth der Freude werden aber manchmal kommen die Dinge eben anders als man denkt.,,,,
-Charge|Divine Shield|Taunt|Windfury,Classic,Al'Akir der Windlord,<b>Windzorn</b> <b>Ansturm</b> <b>Gottesschild</b> <b>Spott</b>,Minion,NEW1_010,True,Raymond Swanland,Legendary,3,8,5,,,Er ist der schwächste der vier Elementarlords. Und die anderen drei lassen ihn dies stetig wissen.,Shaman,,True,
+Charge|Divine Shield|Taunt|Windfury,Classic,AlAkir der Windlord,<b>Windzorn</b> <b>Ansturm</b> <b>Gottesschild</b> <b>Spott</b>,Minion,NEW1_010,True,Raymond Swanland,Legendary,3,8,5,,,Er ist der schwächste der vier Elementarlords. Und die anderen drei lassen ihn dies stetig wissen.,Shaman,,True,
 ,Classic,Alarm-o-Bot,Tauscht zu Beginn Eures Zuges diesen Diener gegen einen zufälligen Diener auf Eurer Hand aus.,Minion,EX1_006,True,Sean O’Daniels,Rare,0,3,3,Mech,,WARNUNG. WARNUNG. WARNUNG.,,,,
 Battlecry,Classic,Alexstrasza,<b>Kampfschrei:</b> Setzt das verbleibende Leben eines Helden auf 15.,Minion,EX1_561,True,Raymond Swanland,Legendary,8,9,8,Dragon,,Alexstrasza die Lebensbinderin bringt Leben und Hoffnung zu jedem. Außer zu Todesschwinge. Oder Malygos. Oder Nekros.,,,True,Neutral
 ,Classic,Alexstraszas Feuer,Leben auf 15 gesetzt.,Enchantment,EX1_561e,,,,,,,,,,,,,
@@ -33,7 +33,7 @@ Battlecry|Spellpower,Classic,Azurblauer Drache,<b>Zauberschaden +1</b>. <b>Kampf
 ,Classic,Bandit der Defias,,Minion,EX1_131t,,,,2,1,1,,,,Rogue,,,Neutral
 Silence,Classic,Bannen,Bringt einen Diener zum <b>Schweigen</b>.,Spell,EX1_166b,,,,,,,,,,Druid,,,Neutral
 ,Classic,Bärengestalt,+2 Leben und <b>Spott</b>.,Spell,EX1_165b,,,Common,,,,,,,Druid,,,Neutral
-,Classic,Baron Geddon,Fügt am Ende Eures Zuges ALLEN anderen Charakteren 2 Schaden zu.,Minion,EX1_249,True,Ian Ameling,Legendary,7,7,5,,,Baron Geddon war Ragnaros' oberster Leutnant bevor er GEFEUERT wurde.,,,True,Neutral
+,Classic,Baron Geddon,Fügt am Ende Eures Zuges ALLEN anderen Charakteren 2 Schaden zu.,Minion,EX1_249,True,Ian Ameling,Legendary,7,7,5,,,Baron Geddon war Ragnaros oberster Leutnant bevor er GEFEUERT wurde.,,,True,Neutral
 ,Classic,Befehlsruf,Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen. Zieht eine Karte.,Spell,NEW1_036,True,Wayne Reynolds,Rare,,2,,,,Da bekommt der Ausdruck „guter Ruf“ gleich eine ganz andere Bedeutung.,Warrior,,,
 OneTurnEffect,Classic,Befehlsruf,Kann in diesem Zug nicht unter 1 Leben fallen.,Enchantment,NEW1_036e,,,,,,,,,,Warrior,,,
 OneTurnEffect,Classic,Befehlsruf,Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen.,Enchantment,NEW1_036e2,,,,,,,,,,Warrior,,,
@@ -53,7 +53,7 @@ Deathrattle|Spellpower,Classic,Blutmagier Thalnos,<b>Zauberschaden +1</b>. <b>To
 Battlecry,Classic,Blutritter,<b>Kampfschrei:</b> Alle Diener verlieren <b>Gottesschild</b>. Erhält +3/+3 für jeden verlorenen Schild.,Minion,EX1_590,True,Trent Kaniuga,Epic,3,3,3,,,Die Blutritter ziehen ihre Kraft aus den heiligen Energien des Sonnenbrunnens in dem Baden STRENG VERBOTEN ist.,,,,Neutral
 ,Classic,Blutschrei,Angriffe gegen Diener kosten 1 Angriff anstatt 1 Haltbarkeit.,Weapon,EX1_411,True,Zoltan & Gabor,Epic,7,7,,,,Grommash Höllschreis berühmte Axt. Irgendwie ist sie in den Besitz von Prinz Malchezaar gelangt. Ein wahres Mysterium!,Warrior,1,,Neutral
 Battlecry,Classic,Blutsegelkorsar,<b>Kampfschrei:</b> Zieht 1 Haltbarkeit von der Waffe Eures Gegners ab.,Minion,NEW1_025,True,Randy Gallegos,Rare,1,1,2,Pirate,,Alle Piraten verfügen über dieselbe vierstellige PIN um auf den Goldautomaten zuzugreifen. Man nennt sie den „Piratencode“.,,,,
-Battlecry,Classic,Blutsegelräuberin,<b>Kampfschrei:</b> Erhält Angriff entsprechend dem Angriff Eurer Waffe.,Minion,NEW1_018,True,Jim Nelson,Common,2,2,3,Pirate,,„Ich stehle nur an Tagen die auf 'g' enden. Manchmal mache ich aber auch Ausnahmen.“,,,,
+Battlecry,Classic,Blutsegelräuberin,<b>Kampfschrei:</b> Erhält Angriff entsprechend dem Angriff Eurer Waffe.,Minion,NEW1_018,True,Jim Nelson,Common,2,2,3,Pirate,,„Ich stehle nur an Tagen die auf g enden. Manchmal mache ich aber auch Ausnahmen.“,,,,
 Stealth,Classic,Blutwichtel,<b>Verstohlenheit</b>. Verleiht am Ende Eures Zuges einem anderen zufälligen befreundeten Diener +1 Leben.,Minion,CS2_059,True,Bernie Kang,Common,0,1,1,Demon,,Wichtel geben sich damit zufrieden sich zu verstecken und dann wahllos Leute zu beleidigen.,Warlock,,,Neutral
 ,Classic,Buße,Leben auf 1 verringert.,Enchantment,EX1_379e,,,,,,,,,,Paladin,,,
 Secret,Classic,Buße,<b>Geheimnis:</b> Wenn Euer Gegner einen Diener ausspielt wird dessen Leben auf 1 verringert.,Spell,EX1_379,True,Gonzalo Ordonez,Common,,1,,,,Ironischerweise kommt die Buße oft vor der Vernichtung.,Paladin,,,Neutral
@@ -181,7 +181,7 @@ Freeze,Classic,Kältekegel,<b>Friert</b> einen Diener sowie seine benachbarten D
 ,Classic,Kannibalismus,Erhöhter Angriff.,Enchantment,tt_004o,,,,,,,,,,,,,
 Battlecry,Classic,Kapitän Grünhaut,<b>Kampfschrei:</b> Verleiht Eurer Waffe +1/+1.,Minion,NEW1_024,True,Dan Scott,Legendary,5,5,4,Pirate,,Er war <i>so kurz</i> davor einen Moloch in den Hafen von Sturmwind zu steuern wenn nur nicht diese nervigen Kinder gewesen wären.,,,True,
 ,Classic,Katzengestalt,<b>Ansturm</b>,Spell,EX1_165a,,,Common,,,,,,,Druid,,,Neutral
-Battlecry|Combo,Classic,Klinge des Verderbens,<b>Kampfschrei:</b> Verursacht 1 Schaden. <b>Combo:</b> Verursacht stattdessen 2 Schaden.,Weapon,EX1_133,True,Daren Bader,Rare,2,3,,,,Die Klinge des Verderbens ist immer dann Ragnaros' bevorzugte Waffe wenn Sulfuras gerade beim Schmied ist.,Rogue,2,,Neutral
+Battlecry|Combo,Classic,Klinge des Verderbens,<b>Kampfschrei:</b> Verursacht 1 Schaden. <b>Combo:</b> Verursacht stattdessen 2 Schaden.,Weapon,EX1_133,True,Daren Bader,Rare,2,3,,,,Die Klinge des Verderbens ist immer dann Ragnaros bevorzugte Waffe wenn Sulfuras gerade beim Schmied ist.,Rogue,2,,Neutral
 AffectedBySpellPower,Classic,Klingenwirbel,Zerstört Eure Waffe und fügt allen Feinden den Schaden dieser Waffe zu.,Spell,CS2_233,True,Hideaki Takamura,Rare,,2,,,,„Es geht nicht einfach nur darum mit dem Dolch schnell herumzuwirbeln. Es ist viel komplizierter.“ – Shan Schurkenlehrer,Rogue,,,Neutral
 ,Classic,Knappe,,Minion,CS2_152,,,Common,2,1,2,,,,,,,Alliance
 ,Classic,Kochendes Blut,,Weapon,EX1_323w,,,,3,3,,,,,Warlock,8,,
@@ -198,7 +198,7 @@ Summoned,Classic,Kontrolliert Gedanken,,Enchantment,EX1_tk31,,,Common,,,,,,,Prie
 Battlecry|Charge,Classic,Leeroy Jenkins,<b>Ansturm</b>. <b>Kampfschrei:</b> Ruft zwei Welplinge (1/1) für Euren Gegner herbei.,Minion,EX1_116,True,Gabe from Penny Arcade,Legendary,6,5,2,,,Es war nicht seine Schuld!,,,True,Alliance
 ,Classic,Lehren der Kirin Tor,<b>Zauberschaden +1</b>,Enchantment,EX1_584e,,,,,,,,,,,,,
 ,Classic,Lehrensucher Cho,Wenn ein Spieler einen Zauber wirkt erhält der andere Spieler eine Kopie desselben auf seine Hand.,Minion,EX1_100,True,Mark Zug,Legendary,0,2,4,,,Lehrensucher Cho sammelt und erzählt normalerweise Geschichten aus Pandaria aber eigentlich würde er ja lieber von diesem einen Mal im Ferienlager berichten.,,,True,Neutral
-,Classic,Lektion des Shan'do,Ruft zwei Treants (2/2) mit <b>Spott</b> herbei.,Spell,EX1_573b,,,,,,,,,,Druid,,,Neutral
+,Classic,Lektion des Shando,Ruft zwei Treants (2/2) mit <b>Spott</b> herbei.,Spell,EX1_573b,,,,,,,,,,Druid,,,Neutral
 Deathrattle,Classic,Lepragnom,<b>Todesröcheln:</b> Fügt dem feindlichen Helden 2 Schaden zu.,Minion,EX1_029,True,Glenn Rane,Common,2,1,1,,,Er möchte einfach nur Euer Freund sein aber Ihr solltet Euch überlegen ob Ihr ihm den kleinen Finger reichen wollt.,,,,Neutral
 ,Classic,Leuchtfeuer,Alle Diener verlieren <b>Verstohlenheit</b>. Zerstört alle feindlichen <b>Geheimnisse</b>. Zieht eine Karte.,Spell,EX1_544,True,Tyler Walpole,Rare,,2,,,,Deckt alle Eure Feinde auf aber natürlich darf es auch auf keiner Party fehlen.,Hunter,,,Neutral
 ,Classic,Lichtbrunnen,Stellt zu Beginn Eures Zuges bei einem verletzten befreundeten Charakter 3 Leben wieder her.,Minion,EX1_341,True,Blizzard Entertainment,Rare,0,2,5,,,Noch ist es unter Experten nicht geklärt ob Leute den Lichtbrunnen einfach ignorieren oder ob er unsichtbar ist.,Priest,,,Neutral
@@ -220,12 +220,12 @@ Aura,Classic,Managespenst,ALLE Diener kosten (1) mehr.,Minion,EX1_616,True,Luca 
 ,Classic,Manasättigung,Erhöhter Angriff.,Enchantment,NEW1_012o,,,,,,,,,,Mage,,,
 ,Classic,Manasüchtige,Erhält jedes Mal +2 Angriff in diesem Zug wenn Ihr einen Zauber wirkt.,Minion,EX1_055,True,Hideaki Takamura,Rare,1,2,3,,,Sie versucht vom Mana wegzukommen aber sie nimmt immer noch ein wenig wenn sie einen stressigen Tag hat.,,,,Alliance
 ,Classic,Manawyrm,Erhält jedes Mal +1 Angriff wenn Ihr einen Zauber wirkt.,Minion,NEW1_012,True,Blizzard Cinematics,Common,1,1,3,,,Diese Wyrms ernähren sich von arkanen Energien. Sie werden zwar eher als lästig angesehen denn als wirkliche Bedrohung aber Ihr solltet sie wirklich nicht mit einem Eimer Mana allein lassen.,Mage,,,
-Silence,Classic,Massenbannung,Bringt alle feindlichen Diener zum <b>Schweigen</b>. Zieht eine Karte.,Spell,EX1_626,True,Sean O'Daniels,Rare,,4,,,,Bannt Stärkungseffekte Fähigkeiten Hoffnungen und Träume.,Priest,,,
+Silence,Classic,Massenbannung,Bringt alle feindlichen Diener zum <b>Schweigen</b>. Zieht eine Karte.,Spell,EX1_626,True,Sean ODaniels,Rare,,4,,,,Bannt Stärkungseffekte Fähigkeiten Hoffnungen und Träume.,Priest,,,
 ,Classic,Meeresriese,Kostet (1) weniger für jeden anderen Diener auf dem Schlachtfeld.,Minion,EX1_586,True,Svetlin Velinov,Epic,8,10,8,,,Ein Meeresriese genießt gern mal eine kühle Meeresbrise.,,,,Neutral
 Battlecry,Classic,Meisterin der Tarnung,<b>Kampfschrei:</b> Verleiht einem befreundeten Diener <b>Verstohlenheit</b>.,Minion,NEW1_014,True,Ron Spencer,Rare,4,4,4,,,Hierbei handelt es sich in Wahrheit um einen männlichen Tauren. Seine Freunde nennen ihn auch „Camuhflage“.,Rogue,,,
 ,Classic,Meisterschwertschmied,Verleiht am Ende Eures Zuges einem anderen zufälligen befreundeten Diener +1 Angriff.,Minion,NEW1_037,True,E.M. Gist,Rare,1,2,3,,,Er versucht gerade eine siebenschwänzige Axt herzustellen doch all die anderen Schmiede sagen das sei unmöglich.,,,,
 ,Classic,Messerjongleur,Fügt einem zufälligen Feind 1 Schaden zu nachdem Ihr einen Diener herbeigerufen habt.,Minion,NEW1_019,True,Matt Cavotta,Rare,3,2,2,,,Die ambitionierteren Jongleure wechseln oft von Messern zu Bomben. Leider halten sie nie lang genug durch um es auf eine Karte zu schaffen.,,,,
-Battlecry,Classic,Millhaus Manasturm,<b>Kampfschrei:</b> Im nächsten Zug kosten Zauber für Euren Gegner (0) Mana.,Minion,NEW1_029,True,Jim Nelson,Legendary,4,2,4,,,„Ich mach' Euch Feuer unterm Hintern!“,,,True,
+Battlecry,Classic,Millhaus Manasturm,<b>Kampfschrei:</b> Im nächsten Zug kosten Zauber für Euren Gegner (0) Mana.,Minion,NEW1_029,True,Jim Nelson,Legendary,4,2,4,,,„Ich mach Euch Feuer unterm Hintern!“,,,True,
 ,Classic,Mondfeuer,Verursacht 2 Schaden.,Spell,EX1_166a,,,,,,,,,,Druid,,,Neutral
 Deathrattle|Taunt,Classic,Monstrosität,<b>Spott</b>. <b>Todesröcheln:</b> Fügt ALLEN Charakteren 2 Schaden zu.,Minion,EX1_097,True,Alex Horley Orlandelli,Rare,4,5,4,,,Monstrositäten mögen frische Eingeweide und lange Spaziergänge im Sonnenuntergang.,,,,Neutral
 Taunt,Classic,Moorkrabbler,<b>Spott</b>,Minion,CS1_069,True,Monica Langlois,Common,3,5,6,,,Früher wurde er immer „Das Ding aus dem Sumpf“ genannt aber sein neuer Name gefällt ihm auch nicht wirklich besser.,,,,Alliance
@@ -267,7 +267,7 @@ Windfury,Classic,Scharfseher von Thrallmar,<b>Windzorn</b>,Minion,EX1_021,True,E
 Divine Shield,Classic,Scharlachrote Fanatikerin,<b>Gottesschild</b>,Minion,EX1_020,True,Gonzalo Ordonez,Common,3,3,1,,,Niemals gemeinsam mit weißer Wäsche waschen!,,,,Alliance
 ,Classic,Scharmützel,Vernichtet alle Diener bis auf einen. <i>(Zufällige Auswahl)</i>,Spell,EX1_407,True,Wayne Reynolds,Epic,,5,,,,Wie nennt man eine nicht besonders große Kopfbedeckung aus negativen Emotionen? ... Ein Sha-Mützel. Ha.,Warrior,,,Neutral
 ,Classic,Schatten des Nichts,Gedankenspiele verpufft! Euer Gegner hat keine Diener!,Minion,EX1_345t,,,Epic,0,0,1,,,,Priest,,,
-,Classic,Schatten von M'uru,Angriff und Leben durch aufgezehrte Gottesschilde erhöht.,Enchantment,EX1_590e,,,Common,,,,,,,,,,
+,Classic,Schatten von Muru,Angriff und Leben durch aufgezehrte Gottesschilde erhöht.,Enchantment,EX1_590e,,,Common,,,,,,,,,,
 AffectedBySpellPower,Classic,Schattenflamme,Vernichtet einen befreundeten Diener und fügt allen feindlichen Dienern Schaden zu der seinem Angriff entspricht.,Spell,EX1_303,True,Dave Kendall,Rare,,4,,,,Man nehme einen mächtigen Diener füge etwas Schattenflamme hinzu und fertig ist das leere Spielbrett.,Warlock,,,Neutral
 ,Classic,Schattengestalt,Eure Heldenfähigkeit wird zu „Verursacht 2 Schaden“. Wenn Euer Held bereits Schattengestalt angenommen hat: 3 Schaden.,Spell,EX1_625,True,Alex Horley Orlandelli,Epic,,3,,,,Wenn ein Priester in Schattengestalt im Licht steht ... wirft er dann einen Schatten?,Priest,,,
 ,Classic,Schattenschritt,Lasst einen befreundeten Diener auf Eure Hand zurückkehren. Der Diener kostet (2) weniger.,Spell,EX1_144,True,Graven Tung,Common,,0,,,,Forscher haben herausgefunden dass die Häufigkeit der Verwendung von Schattenschritt proportional zur Außentemperatur ansteigt.,Rogue,,,Neutral
@@ -294,7 +294,7 @@ Combo,Classic,SI:7-Agent,<b>Combo:</b> Verursacht 2 Schaden.,Minion,EX1_134,True
 Aura,Classic,Söldner der Venture Co.,Eure Diener kosten (3) mehr.,Minion,CS2_227,True,John Polidora,Common,7,5,6,,,Kein Auftrag ist unmöglich. Es kommt ganz auf die Bezahlung an.,,,,Horde
 Divine Shield|Taunt,Classic,Sonnenläuferin,<b>Spott</b> <b>Gottesschild</b>,Minion,EX1_032,True,Andrea Uderzo,Rare,4,6,5,,,Sie läuft nicht wirklich auf der Sonne herum. Es ist nur ein Name. Macht Euch keine Sorgen!,,,,Alliance
 Battlecry,Classic,Sonnenzornbeschützerin,<b>Kampfschrei:</b> Verleiht benachbarten Dienern <b>Spott</b>.,Minion,EX1_058,True,James Ryman,Rare,2,2,3,,,Sie bringt einen Schild mit aber nur um ihn jemandem in die Hand zu drücken hinter dem sie sich verstecken kann.,,,,Alliance
-Secret,Classic,Spiegelgestalt,<b>Geheimnis:</b> Wenn Euer Gegner einen Diener ausspielt beschwört Ihr eine Kopie desselben herbei.,Spell,EX1_294,True,Raven Mimura,Common,,3,,,,„Du zuerst.“ – Krush'gor das Ungeheuer zu seinem gezähmten Eber,Mage,,,Neutral
+Secret,Classic,Spiegelgestalt,<b>Geheimnis:</b> Wenn Euer Gegner einen Diener ausspielt beschwört Ihr eine Kopie desselben herbei.,Spell,EX1_294,True,Raven Mimura,Common,,3,,,,„Du zuerst.“ – Krushgor das Ungeheuer zu seinem gezähmten Eber,Mage,,,Neutral
 Secret,Classic,Sprengfalle,<b>Geheimnis:</b> Wenn Euer Held angegriffen wird erleiden alle Feinde $2 Schaden.,Spell,EX1_610,True,Brandon Kitkouski,Common,,2,,,,Wird allen Jägern empfohlen die nicht gerne kochen.,Hunter,,,Neutral
 ,Classic,Stärke des Rudels,Der Terrorwolfalpha verleiht diesem Diener +1 Angriff.,Enchantment,EX1_162o,,,,,,,,,,,,,
 Windfury,Classic,Staubteufel,<b>Windzorn</b> <b>Überladung:</b> (2),Minion,EX1_243,True,Raymond Swanland,Common,3,1,1,,,Westfall ist voller Staubteufel Bussarde Banditen und wildgewordener Golems. Warum sollte dort jemand wohnen wollen?,Shaman,,,Neutral
@@ -321,7 +321,7 @@ Deathrattle|Divine Shield|Taunt,Classic,Tirion Fordring,<b>Gottesschild</b>. <b>
 ,Classic,Toben,+3/+3.,Enchantment,CS2_104e,,,,,,,,,,Warrior,,,
 Enrage,Classic,Tobender Worgen,<b>Wutanfall:</b> <b>Windzorn</b> und +1 Angriff,Minion,EX1_412,True,Alex Horley Orlandelli,Common,3,3,3,,,Wenn er jetzt schon tobt dann wartet erst mal bis wir den Nerfhammer auspacken!,,,,Neutral
 Battlecry,Classic,Todesschwinge,<b>Kampfschrei:</b> Vernichtet alle anderen Diener und werft Eure Hand ab.,Minion,NEW1_030,True,Bernie Kang,Legendary,12,10,12,Dragon,,Einst war er ein edler Drache mit dem Namen Neltharion doch Todesschwinge verlor seinen Verstand und zerschmetterte Azeroth bevor er schlussendlich besiegt wurde. Vaterkomplexe?,,,True,
-,Classic,Tödlicher Schuss,Vernichtet einen zufälligen feindlichen Diener.,Spell,EX1_617,True,Steve Prescott,Common,,3,,,,Zielgenauigkeit wird von den Mok'nathal nicht sehr hoch geschätzt. Tödlichkeit hingegen steht ganz oben auf der Liste.,Hunter,,,Neutral
+,Classic,Tödlicher Schuss,Vernichtet einen zufälligen feindlichen Diener.,Spell,EX1_617,True,Steve Prescott,Common,,3,,,,Zielgenauigkeit wird von den Moknathal nicht sehr hoch geschätzt. Tödlichkeit hingegen steht ganz oben auf der Liste.,Hunter,,,Neutral
 ,Classic,Tödlicher Stoß,Verursacht $4 Schaden. Verursacht stattdessen $6 Schaden wenn Euer Held max. 12 Leben hat.,Spell,EX1_408,True,Zoltan & Gabor,Rare,,4,,,,„Wer nur eine Fähigkeit verwendet sollte sich stets für Tödlicher Stoß entscheiden.“ – Gesetz des Kriegers Artikel 6,Warrior,,,Neutral
 ,Classic,Tötet Millhaus!,Zauber kosten in diesem Zug (0)!,Enchantment,NEW1_029t,,,Legendary,,,,,,,,,,
 ,Classic,Traum,Lasst einen Diener auf die Hand seines Besitzers zurückkehren.,Spell,DREAM_04,,,,,0,,,,,Dream,,,
@@ -364,7 +364,7 @@ OneTurnEffect,Classic,Vorbereitung,Der nächste Zauber den Ihr in diesem Zug wir
 Divine Shield,Classic,Wache von Silbermond,<b>Gottesschild</b>,Minion,EX1_023,True,Phroilan Gardner,Common,3,4,3,,,Bei der ersten Verteidigung Silbermonds gegen die Geißel sah er nicht so gut aus ...,,,,Horde
 ,Classic,Wachsam,Erhöhter Angriff.,Enchantment,EX1_001e,,,,,,,,,,,,,
 ,Classic,Wachstum,Gruul wächst ...,Enchantment,NEW1_038o,,,,,,,,,,,,,
-Taunt,Classic,Wächter von Mogu'shan,<b>Spott</b>,Minion,EX1_396,True,Cole Eastburn,Common,1,4,7,,,Diese Jungs reden den ganzen Tag lang nur über den Donnerkönig. Ganz schön langweilig.,,,,Neutral
+Taunt,Classic,Wächter von Mogushan,<b>Spott</b>,Minion,EX1_396,True,Cole Eastburn,Common,1,4,7,,,Diese Jungs reden den ganzen Tag lang nur über den Donnerkönig. Ganz schön langweilig.,,,,Neutral
 ,Classic,Waffen niederlegen!,Angriff auf 1 gesetzt.,Enchantment,EX1_382e,,,,,,,,,,Paladin,,,
 ,Classic,Welpling,,Minion,ds1_whelptoken,,,,1,1,1,Dragon,,,,,,Neutral
 ,Classic,Welpling,,Minion,EX1_116t,,,,1,1,1,Dragon,,,,,,
@@ -385,7 +385,7 @@ Enrage,Classic,Wütendes Huhn,<b>Wutanfall:</b> +5 Angriff,Minion,EX1_009,True,M
 Battlecry,Classic,Zauberbrecher,<b>Kampfschrei:</b> Bringt einen Diener zum <b>Schweigen</b>.,Minion,EX1_048,True,Matt Cavotta,Common,4,4,3,,,Spezialist im ambulanten Entfernen von Verzauberungen und Stärkungseffekten.,,,,Horde
 Secret,Classic,Zauberformerin,<b>Geheimnis:</b> Wenn Euer Gegner einen Zauber auf einen Diener wirkt ruft Ihr einen Diener (1/3) als neues Ziel herbei.,Spell,tt_010,True,Gonzalo Ordonez,Epic,,3,,,,Es macht zwar Spaß feindliche Blitzschläge abzufangen doch eine Zauberformerin zieht es vor gegnerische Male der Wildnis abzufangen – es ist viel gemeiner. Und Blutelfen sind einfach ein bisschen gemein.,Mage,,,Neutral
 ,Classic,Zauberformerin,,Minion,tt_010a,,,Epic,1,0,3,,,,Mage,,,
-Aura,Classic,Zauberlehrling,Eure Zauber kosten (1) weniger.,Minion,EX1_608,True,Alex Horley Orlandelli,Common,3,2,2,,,Lehrlinge eignen sich prima zum Herumkommandieren. „Zauber mir ein paar Manabrötchen herbei! Und einen Kaffee! Ach was mach' einen Manakaffee draus!“,Mage,,,Neutral
+Aura,Classic,Zauberlehrling,Eure Zauber kosten (1) weniger.,Minion,EX1_608,True,Alex Horley Orlandelli,Common,3,2,2,,,Lehrlinge eignen sich prima zum Herumkommandieren. „Zauber mir ein paar Manabrötchen herbei! Und einen Kaffee! Ach was mach einen Manakaffee draus!“,Mage,,,Neutral
 ,Classic,Zerschmettern,Fügt einem Diener $2 Schaden zu. Zieht eine Karte wenn er überlebt.,Spell,EX1_391,True,E.M. Gist,Common,,2,,,,„Dumdidum dumdidum“: Wenn Ihr einen Oger dies singen hört ist es bereits zu spät.,Warrior,,,Neutral
 Secret,Classic,Zerstäuben,<b>Geheimnis:</b> Wenn ein Diener Euren Helden angreift wird er vernichtet.,Spell,EX1_594,True,Raymond Swanland,Rare,,3,,,,Gerüchten zufolge brachte Todesschwinge den Kataklysmus über Azeroth nachdem er wegen dieser Karte ein Spiel verloren hatte. Die Wahrheit werden wir wohl nie erfahren ...,Mage,,,Neutral
 ,Classic,Zorn,<b>Wählt aus:</b> Fügt einem Diener $3 Schaden zu; oder fügt einem Diener $1 Schaden zu und zieht eine Karte.,Spell,EX1_154,True,Raymond Swanland,Common,,2,,,,Wenn man den Stammtischgesprächen im Gasthaus von Ratschet Glauben schenken darf dann ist diese Karte viel zu gut und sollte legendär sein.,Druid,,,Neutral
