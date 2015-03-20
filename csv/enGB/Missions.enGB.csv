@@ -1,39 +1,39 @@
 TEXT,SET,TYPE,ID,NAME,FACTION,RARITY,COST,MECHANICS,HEALTH,INPLAYTEXT,ATTACK,DURABILITY,PLAYERCLASS
-"This minion has +1/+1. <i>(+1 Attack/+1 Health)</i>","Missions","Enchantment","TU4c_006e","Bananas",,,,,,,,,
-"Give a friendly minion +1/+1. <i>(+1 Attack/+1 Health)</i>","Missions","Spell","TU4c_006","Bananas","Neutral","Common",1,,,,,,
-"Is something in this barrel?","Missions","Minion","TU4c_003","Barrel","Neutral","Common",0,Deathrattle,2,"Breakable",,,
-"Deal 2 damage.","Missions","Spell","TU4c_002","Barrel Toss","Neutral","Common",1,,,,,,
-,"Missions","Minion","TU4f_005","Brewmaster",,"Common",4,,4,,4,,
-,"Missions","Minion","TU4d_002","Crazed Hunter",,"Common",1,,1,,1,,
-"<b>Battlecry:</b> Throw Bananas.","Missions","Minion","TU4f_007","Crazy Monkey",,"Common",1,Battlecry,2,,1,,
-,"Missions","Weapon","TU4e_007","Dual Warglaives",,"Common",6,,,,4,2,
-"Shoot 5 missiles at random enemies for $1 damage each.","Missions","Spell","TU4e_005","Flame Burst",,"Common",3,,,,,,
-,"Missions","Minion","TU4e_002t","Flame of Azzinoth",,"Common",1,,1,,2,,
-"<b>Hero Power</b>
-Summon two 2/1 minions.","Missions","Hero Power","TU4e_002","Flames of Azzinoth",,,2,,,,,,
-,"Missions","Minion","TU4a_003","Gnoll",,"Common",1,,1,,1,,
-,"Missions","Hero","TU4d_001","Hemet Nesingwary",,"Common",,,20,,,,"Hunter"
-"Was hiding in a barrel!","Missions","Minion","TU4c_005","Hidden Gnome","Neutral","Common",2,,3,,1,,
-,"Missions","Hero","TU4a_001","Hogger",,"Common",,,10,,,,
-"Deal 4 damage.","Missions","Spell","TU4a_004","Hogger SMASH!",,"Common",3,,,,,,
-,"Missions","Hero","TU4e_001","Illidan Stormrage",,,,,30,,,,"Hunter"
-,"Missions","Hero","TU4a_006","Jaina Proudmoore",,"Common",,,27,,,,"Mage"
-,"Missions","Hero","TU4c_001","King Mukla",,"Common",,,26,,,,
-"Has +2/+2. <i>(+2 Attack/+2 Health)</i>","Missions","Enchantment","TU4f_004o","Legacy of the Emperor",,,,,,,,,
-"Give your minions +2/+2. <i>(+2 Attack/+2 Health)</i>","Missions","Spell","TU4f_004","Legacy of the Emperor",,"Common",3,,,,,,
-,"Missions","Hero","TU4f_001","Lorewalker Cho",,,,,25,,,,
-,"Missions","Minion","TU4a_005","Massive Gnoll",,"Common",4,,2,,5,,
-"King Mukla has +8 Attack this turn.","Missions","Enchantment","TU4c_008e","Might of Mukla",,,,OneTurnEffect,,,,,
-,"Missions","Hero","TU4b_001","Millhouse Manastorm",,"Common",,,20,,,,"Mage"
-"So strong! And only 6 Mana?!","Missions","Minion","TU4c_007","Mukla's Big Brother",,"Common",6,,10,,10,,
-"<b></b>","Missions","Minion","TU4e_003","Naga Myrmidon",,"Common",1,,1,,1,,
-,"Missions","Minion","TU4f_002","Pandaren Scout",,"Common",1,,1,,1,,
-,"Missions","Minion","TU4a_002","Riverpaw Gnoll",,"Common",1,,1,,2,,
-,"Missions","Minion","TU4f_003","Shado-Pan Monk",,"Common",2,,2,,2,,
-"<b>Hero Power</b>
-Deal 1 damage.","Missions","Hero Power","TU4d_003","Shotgun Blast",,"Common",2,,,,,,"Hunter"
-"Deal 2 damage to all enemies.","Missions","Spell","TU4c_004","Stomp","Neutral","Common",2,,,,,,
-"Until you kill Cho's minions he can't be attacked.","Missions","Spell","TU4f_006","Transcendence",,"Common",1,,,,,,
-"Until you kill Cho's minions he can't be attacked.","Missions","Enchantment","TU4f_006o","Transcendence",,,,,,,,,
-,"Missions","Weapon","TU4e_004","Warglaive of Azzinoth",,"Common",2,,,,2,2,
-"Restore 8 Health.","Missions","Spell","TU4c_008","Will of Mukla",,"Common",3,,,,,,
+This minion has +1/+1. <i>(+1 Attack/+1 Health)</i>,Missions,Enchantment,TU4c_006e,Bananas,,,,,,,,,
+Give a friendly minion +1/+1. <i>(+1 Attack/+1 Health)</i>,Missions,Spell,TU4c_006,Bananas,Neutral,Common,1,,,,,,
+Is something in this barrel?,Missions,Minion,TU4c_003,Barrel,Neutral,Common,0,Deathrattle,2,Breakable,,,
+Deal 2 damage.,Missions,Spell,TU4c_002,Barrel Toss,Neutral,Common,1,,,,,,
+,Missions,Minion,TU4f_005,Brewmaster,,Common,4,,4,,4,,
+,Missions,Minion,TU4d_002,Crazed Hunter,,Common,1,,1,,1,,
+<b>Battlecry:</b> Throw Bananas.,Missions,Minion,TU4f_007,Crazy Monkey,,Common,1,Battlecry,2,,1,,
+,Missions,Weapon,TU4e_007,Dual Warglaives,,Common,6,,,,4,2,
+Shoot 5 missiles at random enemies for $1 damage each.,Missions,Spell,TU4e_005,Flame Burst,,Common,3,,,,,,
+,Missions,Minion,TU4e_002t,Flame of Azzinoth,,Common,1,,1,,2,,
+<b>Hero Power</b>
+Summon two 2/1 minions.,Missions,Hero Power,TU4e_002,Flames of Azzinoth,,,2,,,,,,
+,Missions,Minion,TU4a_003,Gnoll,,Common,1,,1,,1,,
+,Missions,Hero,TU4d_001,Hemet Nesingwary,,Common,,,20,,,,Hunter
+Was hiding in a barrel!,Missions,Minion,TU4c_005,Hidden Gnome,Neutral,Common,2,,3,,1,,
+,Missions,Hero,TU4a_001,Hogger,,Common,,,10,,,,
+Deal 4 damage.,Missions,Spell,TU4a_004,Hogger SMASH!,,Common,3,,,,,,
+,Missions,Hero,TU4e_001,Illidan Stormrage,,,,,30,,,,Hunter
+,Missions,Hero,TU4a_006,Jaina Proudmoore,,Common,,,27,,,,Mage
+,Missions,Hero,TU4c_001,King Mukla,,Common,,,26,,,,
+Has +2/+2. <i>(+2 Attack/+2 Health)</i>,Missions,Enchantment,TU4f_004o,Legacy of the Emperor,,,,,,,,,
+Give your minions +2/+2. <i>(+2 Attack/+2 Health)</i>,Missions,Spell,TU4f_004,Legacy of the Emperor,,Common,3,,,,,,
+,Missions,Hero,TU4f_001,Lorewalker Cho,,,,,25,,,,
+,Missions,Minion,TU4a_005,Massive Gnoll,,Common,4,,2,,5,,
+King Mukla has +8 Attack this turn.,Missions,Enchantment,TU4c_008e,Might of Mukla,,,,OneTurnEffect,,,,,
+,Missions,Hero,TU4b_001,Millhouse Manastorm,,Common,,,20,,,,Mage
+So strong! And only 6 Mana?!,Missions,Minion,TU4c_007,Mukla's Big Brother,,Common,6,,10,,10,,
+<b></b>,Missions,Minion,TU4e_003,Naga Myrmidon,,Common,1,,1,,1,,
+,Missions,Minion,TU4f_002,Pandaren Scout,,Common,1,,1,,1,,
+,Missions,Minion,TU4a_002,Riverpaw Gnoll,,Common,1,,1,,2,,
+,Missions,Minion,TU4f_003,Shado-Pan Monk,,Common,2,,2,,2,,
+<b>Hero Power</b>
+Deal 1 damage.,Missions,Hero Power,TU4d_003,Shotgun Blast,,Common,2,,,,,,Hunter
+Deal 2 damage to all enemies.,Missions,Spell,TU4c_004,Stomp,Neutral,Common,2,,,,,,
+Until you kill Cho's minions he can't be attacked.,Missions,Spell,TU4f_006,Transcendence,,Common,1,,,,,,
+Until you kill Cho's minions he can't be attacked.,Missions,Enchantment,TU4f_006o,Transcendence,,,,,,,,,
+,Missions,Weapon,TU4e_004,Warglaive of Azzinoth,,Common,2,,,,2,2,
+Restore 8 Health.,Missions,Spell,TU4c_008,Will of Mukla,,Common,3,,,,,,

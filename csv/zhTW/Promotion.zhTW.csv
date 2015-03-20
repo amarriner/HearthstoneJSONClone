@@ -1,14 +1,14 @@
 SET,NAME,FACTION,TEXT,RARITY,ATTACK,COST,HEALTH,RACE,INPLAYTEXT,TYPE,ID,MECHANICS,COLLECTIBLE,ELITE,ARTIST,HOWTOGETGOLD,FLAVOR
-"Promotion","修理機器人","Alliance","你的回合結束時，為一個受傷角色恢復6點生命值","Common",0,1,3,"Mech","","Minion","Mekka2",,,,,,
-"Promotion","傑爾賓·梅卡托克","Alliance","<b>戰吼:</b>召喚一個超讚的發明","Legendary",6,6,6,,,"Minion","EX1_112",Battlecry,True,True,"Ludo Lullabi","在測試期間幫忙測試商店交易的玩家所獲得的獎勵。","他是地精的領袖，還是個驚人的發明家。而且他越來越厲害了，他把東西變成雞的次數比以前少<b>非常</b>多。"
-"Promotion","勇氣大增!",,"屬性提高",,,,,,,"Enchantment","Mekka3e",,,,,,
-"Promotion","勇氣給予者3000","Alliance","在你的回合結束時，賦予一個隨機手下+1/+1","Common",0,1,4,"Mech","","Minion","Mekka3",,,,,,
-"Promotion","我是魚人",,"召喚三至五隻1/1魚人",,,4,,,,"Spell","PRO_001a",,,,,,
-"Promotion","盜賊愛從...",,"造成$4點傷害。抽一張牌",,,4,,,,"Spell","PRO_001b",,,,,,
-"Promotion","精英牛頭大佬",,"<b>戰吼:</b>賦予雙方玩家搖滾的能力!(一張強力和弦卡)","Legendary",5,5,5,,,"Minion","PRO_001",Battlecry,True,True,"Samwise Didier","參加BlizzCon 2013的獎勵","他正在找鼓手。目前應徵的人有:見習工程師、森金禦盾大師和『炎魔』拉格納羅斯。"
-"Promotion","自動導航小雞","Alliance","在你的回合開始時，摧毀這個手下並抽3張牌","Common",0,1,1,"Mech","","Minion","Mekka1",,,,,,
-"Promotion","變形",,"被變形為雞!",,,,,,,"Enchantment","Mekka4e",Morph,,,,,
-"Promotion","變形器","Alliance","在你的回合開始時，將隨機一個手下變形為一隻1/1的雞","Common",0,1,3,"Mech","","Minion","Mekka4",,,,,,
-"Promotion","部落之力",,"召喚一個隨機的部落戰士",,,4,,,,"Spell","PRO_001c",,,,,,
-"Promotion","雞",,"<i>嗨，弱雞!</i>",,1,0,1,"Beast",,"Minion","Mekka4t",,,,,,
-"Promotion","魚人",,,,1,1,1,"Murloc",,"Minion","PRO_001at",,,,,,
+Promotion,修理機器人,Alliance,你的回合結束時，為一個受傷角色恢復6點生命值,Common,0,1,3,Mech,,Minion,Mekka2,,,,,,
+Promotion,傑爾賓·梅卡托克,Alliance,<b>戰吼:</b>召喚一個超讚的發明,Legendary,6,6,6,,,Minion,EX1_112,Battlecry,True,True,Ludo Lullabi,在測試期間幫忙測試商店交易的玩家所獲得的獎勵。,他是地精的領袖，還是個驚人的發明家。而且他越來越厲害了，他把東西變成雞的次數比以前少<b>非常</b>多。
+Promotion,勇氣大增!,,屬性提高,,,,,,,Enchantment,Mekka3e,,,,,,
+Promotion,勇氣給予者3000,Alliance,在你的回合結束時，賦予一個隨機手下+1/+1,Common,0,1,4,Mech,,Minion,Mekka3,,,,,,
+Promotion,我是魚人,,召喚三至五隻1/1魚人,,,4,,,,Spell,PRO_001a,,,,,,
+Promotion,盜賊愛從...,,造成$4點傷害。抽一張牌,,,4,,,,Spell,PRO_001b,,,,,,
+Promotion,精英牛頭大佬,,<b>戰吼:</b>賦予雙方玩家搖滾的能力!(一張強力和弦卡),Legendary,5,5,5,,,Minion,PRO_001,Battlecry,True,True,Samwise Didier,參加BlizzCon 2013的獎勵,他正在找鼓手。目前應徵的人有:見習工程師、森金禦盾大師和『炎魔』拉格納羅斯。
+Promotion,自動導航小雞,Alliance,在你的回合開始時，摧毀這個手下並抽3張牌,Common,0,1,1,Mech,,Minion,Mekka1,,,,,,
+Promotion,變形,,被變形為雞!,,,,,,,Enchantment,Mekka4e,Morph,,,,,
+Promotion,變形器,Alliance,在你的回合開始時，將隨機一個手下變形為一隻1/1的雞,Common,0,1,3,Mech,,Minion,Mekka4,,,,,,
+Promotion,部落之力,,召喚一個隨機的部落戰士,,,4,,,,Spell,PRO_001c,,,,,,
+Promotion,雞,,<i>嗨，弱雞!</i>,,1,0,1,Beast,,Minion,Mekka4t,,,,,,
+Promotion,魚人,,,,1,1,1,Murloc,,Minion,PRO_001at,,,,,,
