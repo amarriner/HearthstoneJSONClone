@@ -1,1 +1,45 @@
-[{"id":"EX1_062","name":"늙은 거먹눈 멀록","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>돌진</b>. 전장의 다른 멀록 하나당 공격력 +1을 얻습니다.","inPlayText":"","flavor":"그는 멀록들 사이에선 전설입니다. 그들 말로는 \"아옳옳옳옳옳옳옳!\"이라는군요.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"고급 세트의 모든 멀록을 수집하면 잠금 해제","howToGetGold":"기본 세트와 고급 세트의 모든 멀록을 수집하면 잠금 해제","mechanics":["Charge"]},{"id":"NEW1_016","name":"선장의 앵무새","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>전투의 함성:</b> 덱에 있는 무작위 해적 카드 1장을 내 손으로 가져옵니다.","flavor":"해적과 앵무새는 토깽과 당근의 관계와도 같죠.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"고급 세트의 모든 해적을 수집하면 잠금 해제","howToGetGold":"고급 세트의 모든 황금 해적을 수집하면 잠금 해제","mechanics":["Battlecry"]}]
+[
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "\uadf8\ub294 \uba40\ub85d\ub4e4 \uc0ac\uc774\uc5d0\uc120 \uc804\uc124\uc785\ub2c8\ub2e4. \uadf8\ub4e4 \ub9d0\ub85c\ub294 \"\uc544\uc633\uc633\uc633\uc633\uc633\uc633\uc633!\"\uc774\ub77c\ub294\uad70\uc694.",
+        "health": 4,
+        "howToGet": "\uace0\uae09 \uc138\ud2b8\uc758 \ubaa8\ub4e0 \uba40\ub85d\uc744 \uc218\uc9d1\ud558\uba74 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uae30\ubcf8 \uc138\ud2b8\uc640 \uace0\uae09 \uc138\ud2b8\uc758 \ubaa8\ub4e0 \uba40\ub85d\uc744 \uc218\uc9d1\ud558\uba74 \uc7a0\uae08 \ud574\uc81c",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "\ub299\uc740 \uac70\uba39\ub208 \uba40\ub85d",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>\ub3cc\uc9c4</b>. \uc804\uc7a5\uc758 \ub2e4\ub978 \uba40\ub85d \ud558\ub098\ub2f9 \uacf5\uaca9\ub825 +1\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\ud574\uc801\uacfc \uc575\ubb34\uc0c8\ub294 \ud1a0\uae7d\uacfc \ub2f9\uadfc\uc758 \uad00\uacc4\uc640\ub3c4 \uac19\uc8e0.",
+        "health": 1,
+        "howToGet": "\uace0\uae09 \uc138\ud2b8\uc758 \ubaa8\ub4e0 \ud574\uc801\uc744 \uc218\uc9d1\ud558\uba74 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uace0\uae09 \uc138\ud2b8\uc758 \ubaa8\ub4e0 \ud669\uae08 \ud574\uc801\uc744 \uc218\uc9d1\ud558\uba74 \uc7a0\uae08 \ud574\uc81c",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\uc120\uc7a5\uc758 \uc575\ubb34\uc0c8",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ub371\uc5d0 \uc788\ub294 \ubb34\uc791\uc704 \ud574\uc801 \uce74\ub4dc 1\uc7a5\uc744 \ub0b4 \uc190\uc73c\ub85c \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Minion"
+    }
+]

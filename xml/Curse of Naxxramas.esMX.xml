@@ -1,0 +1,4382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01He
+  </id>
+  <name>
+   ¡Intruso!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01e
+  </id>
+  <name>
+   ¡Intruso!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aliento de escarcha
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Destruye a todos los esbirros enemigos que no están &lt;b&gt;Congelados&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX14_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Alma gemebunda
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;Grito de batalla: Silencia&lt;/b&gt; a tus otros esbirros.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Thaddius en el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Esta alma no deja de lamentarse por las noches. ¡Ya, déjanos dormir por favor!
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Thaddius en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Antárbol
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_019t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1h_01
+  </id>
+  <name>
+   Anub&amp;apos;Rekhan
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1_01
+  </id>
+  <name>
+   Anub&amp;apos;Rekhan
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Apocalípticamente
+  </name>
+  <text>
+   Ambos jugadores roban 2 cartas y obtienen un Cristal de maná.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX5_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Arácnido
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca un Nerubiano 3/1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Arácnido
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca un Nerubiano 4/4.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1h_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Araña espectral
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura necrótica
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 3 de daño al héroe enemigo.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura necrótica
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 3 de daño al héroe enemigo.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   Tus hechizos cuestan (5) más este turno.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_030e
+  </id>
+  <name>
+   Aura necrótica
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Babosa
+  </name>
+  <text>
+   &lt;b&gt;Provocación&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Babosa radiactiva
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX11_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Baldomero
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;i&gt;Este es el minino de Kel&amp;apos;Thuzad.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_05
+  </id>
+ </item>
+ <item>
+  <health>
+   14
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01H
+  </id>
+  <name>
+   Barón Osahendido
+  </name>
+ </item>
+ <item>
+  <health>
+   7
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01
+  </id>
+  <name>
+   Barón Osahendido
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Barón Osahendido
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tus esbirros activan su &lt;b&gt;Estertor&lt;/b&gt; dos veces.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el Arrabal Militar.
+  </howtogetgold>
+  <flavor>
+   Se dice que antes había cinco jinetes, pero uno decidió irse a trabajar a las Minas de la Muerte. Parece que le ofrecían mejores prestaciones.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_031
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Caballero espectral
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   No puede ser objetivo de Hechizos ni Poderes de héroe.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Gothik el Cosechador en el Arrabal Militar.
+  </howtogetgold>
+  <flavor>
+   ¿Qué tienen en común los Dragones feéricos y los Caballeros espectrales? ¡Que los dos adoran los tallarines!
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Gothik el Cosechador en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cadenas
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Toma el control de un esbirro enemigo aleatorio hasta el final del turno.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cadenas
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Toma el control de un esbirro enemigo aleatorio.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cambio de polaridad
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Intercambia el Ataque y la Salud de todos los esbirros.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX13_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Campeón congelado
+  </name>
+  <text>
+   Congelado de forma permanente. Los esbirros adyacentes son inmunes a Aliento de escarcha.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   10
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX14_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Científico loco
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; pon un &lt;b&gt;Secreto&lt;/b&gt; de tu mazo en el campo de batalla.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Grobbulus en el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Su madre quería que fuera mago o brujo. Pero... noooooooo... el tipo tenía que seguir los pasos de su padre y hacerse científico.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Grobbulus en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Clamavacío
+  </name>
+  <artist>
+   Robb Shoberg
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; pon un Demonio aleatorio de tu mano en el campo de batalla.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Brujo en Naxxramas.
+  </howtogetgold>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Demon
+  </race>
+  <flavor>
+   "¡Vacío! ¡Aquí, vacío! ¡Vamos, ven aquí, amiguito!".
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Brujo en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_022
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Estadísticas aumentadas.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_005e
+  </id>
+  <name>
+   Consumir
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cosecha
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Roba una carta. Obtiene un Cristal de maná.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cosecha
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Roba una carta.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02
+  </id>
+ </item>
+ <item>
+  <text>
+   Ataque aumentado.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX6_03te
+  </id>
+  <name>
+   Crecimiento fúngico
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cristal de control mental
+  </name>
+  <text>
+   ¡Activa el cristal para controlar a los Suplentes!
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX7_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cultor oscuro
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; otorga +3 de Salud a un esbirro aliado aleatorio.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Sacerdote en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   El Culto de los Malditos ha descubierto que es mejor no mencionar su nombre cuando reclutan cultores nuevos.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Sacerdote en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Destrero de la Muerte
+  </name>
+  <text>
+   &lt;b&gt;Carga. Estertor:&lt;/b&gt; inflige 3 de daño a tu héroe.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_006
+  </id>
+ </item>
+ <item>
+  <text>
+   Ataque aumentado.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_03e
+  </id>
+  <name>
+   Dientes sobrantes
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Diezmar
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Cambia la Salud de todos los esbirros a 1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02
+  </id>
+ </item>
+ <item>
+  <text>
+   Salud cambiada a 1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_02e
+  </id>
+  <name>
+   Diezmar
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Diezmar
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Cambia la Salud de todos los esbirros enemigos a 1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Duplicar
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;Secreto:&lt;/b&gt; cuando un esbirro aliado muere, pon 2 copias de él en tu mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Mago en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   ¡Al fin puedes duplicar cartas sin que te clausuren la cuenta!
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Mago en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Emboscador Anub&amp;apos;ar
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; devuelve un esbirro aliado aleatorio a tu mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Pícaro en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   El nombre original era "El tipo de Anub&amp;apos;ar que devuelve un fulano a tu mano", pero le faltaba un poco de chispa...
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Pícaro en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enfurecer
+  </name>
+  <text>
+   Otorga +6 de Ataque a tu héroe en este turno.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX12_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enfurecer
+  </name>
+  <text>
+   +6 de Ataque en este turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_04e
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enjambre de langostas
+  </name>
+  <text>
+   Inflige $3 de daño a todos los esbirros enemigos. Restaura #3 de Salud a tu héroe.
+  </text>
+  <cost>
+   7
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX1_05
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enterrador
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   Cada vez que invocas un esbirro con &lt;b&gt;Estertor&lt;/b&gt;, obtiene +1 de Ataque.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Remendejo en el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   En un mundo en el que puedes recurrir a un Ángel de la Resurrección para volver a la vida, el negocio de los Enterradores está muerto.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Remendejo en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Eructador de lodo
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Provocación.
+Estertor:&lt;/b&gt; invoca una Babosa 1/2 con &lt;b&gt;Provocación&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Loatheb en el Arrabal de la Peste.
+  </howtogetgold>
+  <flavor>
+   NO LE DES CERVEZA DE RAÍZ.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Loatheb en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Erupción
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 2 de daño al último esbirro enemigo a la izquierda.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Erupción
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 3 de daño al último esbirro enemigo a la izquierda.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Espadas bailarinas
+  </name>
+  <artist>
+   Jon McConnell
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; tu oponente roba una carta.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar al Instructor Razuvious en el Arrabal Militar.
+  </howtogetgold>
+  <flavor>
+   Les gusta bailar reggae.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar al Instructor Razuvious en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Espora
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; otorga +8 de Ataque a todos los esbirros enemigos.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX6_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esqueleto
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esqueleto
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Explosión de escarcha
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 3 de daño al héroe enemigo y lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Explosión de escarcha
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 2 de daño al héroe enemigo y lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fauces
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Cuando un esbirro con &lt;b&gt;Estertor&lt;/b&gt; muere, obtiene +2 de Ataque.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fauces
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Cuando un esbirro con &lt;b&gt;Estertor&lt;/b&gt; muere, obtiene +2 de Ataque.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; si Stalagg también murió en esta partida, invoca a Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Feugen está muy triste porque todos quieren más a Stalagg.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_015
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Flor de muerte
+  </name>
+  <text>
+   Inflige $5 de daño a un esbirro. Invoca una Espora.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frío crudo
+  </name>
+  <text>
+   Inflige $8 de daño al héroe enemigo y lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX14_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancho
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; pon esta arma en tu mano.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancho
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Viento furioso&lt;/b&gt;
+&lt;b&gt;Estertor:&lt;/b&gt; pon esta arma en tu mano.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02H
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gárgola piel de piedra
+  </name>
+  <artist>
+   Matt Smith
+  </artist>
+  <text>
+   Al comienzo de tu turno, restaura toda la Salud de este esbirro.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Noth el Pesteador en el Arrabal de la Peste.
+  </howtogetgold>
+  <flavor>
+   A los Gárgola piel de piedra les gusta jugar a la mancha estatua.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Noth el Pesteador en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01H
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe de odio
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Destruye un esbirro.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe de odio
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Destruye un esbirro.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe desequilibrante
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 3 de daño.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe desequilibrante
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 4 de daño.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03H
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01
+  </id>
+  <name>
+   Gothik el Cosechador
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01H
+  </id>
+  <name>
+   Gothik el Cosechador
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01H
+  </id>
+  <name>
+   Gran Viuda Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01
+  </id>
+  <name>
+   Gran Viuda Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01H
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardián de Corona de hielo
+  </name>
+  <text>
+   &lt;b&gt;Provocación&lt;/b&gt;
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03n
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardián de Corona de hielo
+  </name>
+  <text>
+   &lt;b&gt;Provocación&lt;/b&gt;
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerrero espectral
+  </name>
+  <text>
+   Al comienzo de tu turno, inflige 1 de daño a tu héroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerrero inexorable
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; invoca un Guerrero espectral para tu adversario.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan el Impuro
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01H
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan el Impuro
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Herrero esquelético
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; destruye el arma de tu adversario.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Hojarruna
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   Tiene +3 de Ataque si los otros Jinetes están muertos.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Hojarruna
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   Tiene +6 de Ataque si los otros Jinetes están muertos.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Hojarruna gigante
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Inflige el doble de daño a los héroes.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Hojarruna gigante
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Inflige el doble de daño a los héroes.
+  </text>
+  <attack>
+   10
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Huevo nerubiano
+  </name>
+  <artist>
+   Justin Thavirat
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; invoca un Nerubiano 4/4.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Maexxna en el Arrabal Arácnido.
+  </howtogetgold>
+  <flavor>
+   Los huevos son una fuente importante de proteínas y nerubianos.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Maexxna en el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
+ </item>
+ <item>
+  <health>
+   55
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01H
+  </id>
+  <name>
+   Instructor Razuvious
+  </name>
+ </item>
+ <item>
+  <health>
+   40
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01
+  </id>
+  <name>
+   Instructor Razuvious
+  </name>
+ </item>
+ <item>
+  <text>
+   +4/+4 y &lt;b&gt;Provocación&lt;/b&gt;.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX11_04e
+  </id>
+  <name>
+   Inyección mutante
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Inyección mutante
+  </name>
+  <text>
+   Otorga +4/+4 y &lt;b&gt;Provocación&lt;/b&gt; a un esbirro.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX11_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Jinete espectral
+  </name>
+  <text>
+   Al comienzo de tu turno, inflige 1 de daño a tu héroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Jinete inflexible
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; invoca un Jinete espectral para tu adversario.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01H
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+  <artist>
+   Chris Robinson
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Al final de cada turno, invoca a todos los esbirros aliados que murieron en este turno.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a todos los jefes de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad no pudo resistirse al llamado del Rey Exánime. Y eso que era solo un mensaje grabado.
+  </flavor>
+  <howtoget>
+   ¡Desbloqueada por derrotar a todos los jefes de Naxxramas!
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_013
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lady Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lady Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Levantamuertos
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Cuando un enemigo muere, invoca un esqueleto 5/5.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Levantamuertos
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Cuando un enemigo muere, invoca un esqueleto 1/1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04
+  </id>
+ </item>
+ <item>
+  <text>
+   Estadísticas aumentadas.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_028e
+  </id>
+  <name>
+   Llamado de la oscuridad
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lluvia de fuego
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Dispara un misil por cada carta que haya en la mano de tu adversario.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lluvia de Fuego
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Dispara un misil por cada carta que haya en la mano de tu adversario.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Loatheb
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Grito de batalla:&lt;/b&gt; los hechizos enemigos cuestan (5) más el próximo turno.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el Arrabal de la Peste.
+  </howtogetgold>
+  <flavor>
+   Loatheb era una simple bestia de la ciénaga. Necesitamos leyes de protección ambiental más estrictas.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_030
+  </id>
+ </item>
+ <item>
+  <health>
+   99
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01H
+  </id>
+  <name>
+   Loatheb
+  </name>
+ </item>
+ <item>
+  <health>
+   75
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01
+  </id>
+  <name>
+   Loatheb
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Poisonous
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Maexxna
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Destruye cualquier esbirro dañado por este esbirro.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Se puede crear luego de completar el Arrabal Arácnido.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna se enfurece cuando la gente le dice "Máxima" o "Maxi".
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_010
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01H
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Marca de los Jinetes
+  </name>
+  <text>
+   Otorga +1/+1 a tus esbirros y a tu arma.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX9_07
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX9_07e
+  </id>
+  <name>
+   Marca de los Jinetes
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Moco resonante
+  </name>
+  <artist>
+   Eric Browning
+  </artist>
+  <text>
+   &lt;b&gt;Grito de batalla:&lt;/b&gt; invoca una copia exacta de este esbirro al final del turno.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Sapphiron en la Guarida de la Vermis.
+  </howtogetgold>
+  <flavor>
+   MOCO... OCo... Oco... (oco...)
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Sapphiron en la Guarida de la Vermis.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Necrocaballero
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; también destruye los esbirros adyacentes.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Necrófago inestable
+  </name>
+  <artist>
+   Mike Nicholson
+  </artist>
+  <text>
+   &lt;b&gt;Provocación&lt;/b&gt;. &lt;b&gt;Estertor:&lt;/b&gt; inflige 1 de daño a todos los esbirros.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Heigan el Impuro en el Arrabal de la Peste.
+  </howtogetgold>
+  <flavor>
+   Cargar tus necrófagos con combustible de cohetes es furor en la escuela de nigromantes.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Heigan el Impuro en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1h_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth el Pesteador
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01H
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth el Pesteador
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nube venenosa
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 1 de daño a todos los esbirros. Si alguno muere, invoca una babosa.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nube venenosa
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 2 de daño a todos los enemigos. Si alguno muere, invoca una babosa.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Peste
+  </name>
+  <text>
+   Destruye a todos los esbirros que no son Esqueletos.
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX4_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Picadura de la Muerte
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; inflige 1 de daño a todos los esbirros.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Guerrero en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   "Muerte con gusto no pica". —McScruff el Señor de la muerte
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Guerrero en Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Poder del zigurat
+  </name>
+  <text>
+   +3 de Salud.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_023e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Ataque y Salud intercambiados.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_02e
+  </id>
+  <name>
+   Polaridad
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Practicante espectral
+  </name>
+  <text>
+   Al comienzo de tu turno, inflige 1 de daño a tu héroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Practicante inflexible
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; invoca un Practicante espectral para tu adversario.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ráfaga de esporas
+  </name>
+  <text>
+   Inflige $1 de daño a todos los esbirros enemigos. Invoca una Espora.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_04
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Reencarnación
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Destruye un esbirro y luego devuélvelo a la vida con toda la Salud.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Chamán en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Es como nacer, salvo que eres adulto y hasta hace un segundo estabas muerto.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Chamán en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01H
+  </id>
+  <name>
+   Remendejo
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01
+  </id>
+  <name>
+   Remendejo
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01
+  </id>
+  <name>
+   Sapphiron
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01H
+  </id>
+  <name>
+   Sapphiron
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Semillas venenosas
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   Destruye a todos los esbirros e invoca Antárboles 2/2 para reemplazarlos.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Druida en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   El "Vensemillado" es el plato menos pedido en el Emporio del guiso druida.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Druida en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Señor de la muerte
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Provocación. Estertor:&lt;/b&gt; tu adversario pone un esbirro de su mazo en el campo de batalla.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Los cuatro jinetes en el Arrabal Militar.
+  </howtogetgold>
+  <flavor>
+   "¡Levántate de tu tumba!" —Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Los cuatro jinetes en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Señor feudal Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Señor feudal Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Señor telaraña Nerub&amp;apos;ar
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   Los esbirros con &lt;b&gt;Grito de batalla&lt;/b&gt; cuestan (2) más.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.
+  </howtogetgold>
+  <flavor>
+   Los Señores telaraña pasan el día armando camas elásticas gigantes.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
+ </item>
+ <item>
+  <text>
+   ¡MÍO!
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_04a
+  </id>
+  <name>
+   Siervo de Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sir Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sir Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sombra de Naxxramas
+  </name>
+  <artist>
+   Ittoku Seta
+  </artist>
+  <text>
+   &lt;b&gt;Sigilo.&lt;/b&gt; Al comienzo de tu turno, obtiene +1/+1.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Kel&amp;apos;Thuzad en la Guarida de la Vermis.
+  </howtogetgold>
+  <flavor>
+   Dicen que en Naxxramas faltan 50 sombras porque se fueron con Grey.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Kel&amp;apos;Thuzad en la Guarida de la Vermis.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sombra impía
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Roba 2 cartas.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX9_06
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; si Feugen también murió en esta partida, invoca a Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Se puede crear luego de completar el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Stalagg escribe su propia frase sin ayuda. "¡STALAGG GENIO!".
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Supercarga
+  </name>
+  <text>
+   Otorga +2 de Salud a tus esbirros.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX13_03
+  </id>
+ </item>
+ <item>
+  <text>
+   +2 de Salud.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_03e
+  </id>
+  <name>
+   Supercargado
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Suplente
+  </name>
+  <text>
+   &lt;b&gt;Provocación&lt;/b&gt;
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX7_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Tejerred
+  </name>
+  <artist>
+   Dan Brereton
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; agrega una Bestia aleatoria a tu mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Cazador en Naxxramas.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   ¡Los capullos de arañas son como minipiñatas!
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Cazador en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_011
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thaddius
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   11
+  </attack>
+  <cost>
+   10
+  </cost>
+  <health>
+   11
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014t
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01H
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Trampa arácnida
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Devuelve 2 esbirros enemigos aleatorios a la mano de tu adversario.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Trampa arácnida
+  </name>
+  <text>
+   &lt;b&gt;Poder de héroe&lt;/b&gt;
+Devuelve un esbirro enemigo aleatorio a la mano de tu adversario.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Trepador embrujado
+  </name>
+  <artist>
+   Jeremy Cranford
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; invoca dos Arañas espectrales 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Aracnofalsofobia: temor a las arañas falsas.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Veneno necrótico
+  </name>
+  <text>
+   Destruye un esbirro.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX3_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Venerador
+  </name>
+  <text>
+   Tu héroe tiene +3 de Ataque en tu turno.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Venerador
+  </name>
+  <text>
+   Tu héroe tiene +1 de Ataque en tu turno.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Venganza
+  </name>
+  <text>
+   +3/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_020e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vengar
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Secreto:&lt;/b&gt; cuando uno de tus esbirros muere, otorga +3/+2 a un esbirro aliado aleatorio.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <howtogetgold>
+   Se puede crear luego de completar el desafío clase Paladín en Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Varios paladines se han unido con el nombre "Fuerza de la Justicia". El abogado los convenció de que "Liga de la Justicia" no era la mejor opción.
+  </flavor>
+  <howtoget>
+   Desbloqueada por completar el desafío clase Paladín en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Zombi destripado
+  </name>
+  <artist>
+   E. M. Gist
+  </artist>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; restaura 5 de Salud al héroe enemigo.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Se puede crear luego de derrotar a Gluth en el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Zombi. Nuestro plato del día.
+  </flavor>
+  <howtoget>
+   Desbloqueada por derrotar a Gluth en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
+ </item>
+</cards>

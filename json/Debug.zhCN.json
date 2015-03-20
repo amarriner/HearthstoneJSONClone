@@ -1,1 +1,536 @@
-[{"id":"XXX_028","name":"","set":"Debug","type":"Spell","rarity":"Common"},{"id":"XXX_001","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_003","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_004","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_005","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_006","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_007","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_008","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"","mechanics":["Freeze"]},{"id":"XXX_009","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_009e","name":"","set":"Debug","type":"Enchantment","rarity":"Common","text":""},{"id":"XXX_010","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_011","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_012","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_013","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_014","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_015","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_016","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_017","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_018","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_019","name":"","set":"Debug","type":"Spell","rarity":"Common","text":""},{"id":"XXX_020","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_021","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_022","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_022e","name":"","set":"Debug","type":"Enchantment","text":""},{"id":"XXX_023","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_024","name":"","set":"Debug","type":"Minion","rarity":"Common","cost":0,"attack":3,"health":10,"text":""},{"id":"XXX_025","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_026","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_027","name":"","set":"Debug","type":"Spell","text":""},{"id":"XXX_002","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_029","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_030","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_039","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_040","name":"","set":"Debug","type":"Hero","health":10,"playerClass":"Warrior"},{"id":"XXX_041","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_042","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_043","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_044","name":"","set":"Debug","type":"Minion","rarity":"Common","cost":0,"attack":5,"health":5,"text":""},{"id":"XXX_045","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_046","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_047","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_048","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_049","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_050","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_051","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_052","name":"","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":""},{"id":"XXX_053","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_054","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_054e","name":"","set":"Debug","type":"Enchantment"},{"id":"XXX_055","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_055e","name":"","set":"Debug","type":"Enchantment"},{"id":"XXX_056","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_057","name":"","set":"Debug","type":"Spell","cost":0,"text":""},{"id":"XXX_094","name":"","set":"Debug","type":"Minion","attack":1,"health":1,"text":"","cost":0},{"id":"XXX_095","name":"","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"text":""},{"id":"XXX_096","name":"","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"text":""},{"id":"XXX_097","name":"","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":""},{"id":"XXX_098","name":"","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":""},{"id":"XXX_099","name":"","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":"","elite":false}]
+[
+    {
+        "id": "XXX_028",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_001",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_003",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_004",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_005",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_006",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_007",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_008",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_009",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_009e",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_010",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_011",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_012",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_013",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_014",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_015",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_016",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_017",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_018",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_019",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_020",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_021",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_022",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_022e",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_023",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "attack": 3,
+        "cost": 0,
+        "health": 10,
+        "id": "XXX_024",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_025",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_026",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_027",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_002",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_029",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_030",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_039",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "health": 10,
+        "id": "XXX_040",
+        "name": "",
+        "playerClass": "Warrior",
+        "set": "Debug",
+        "type": "Hero"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_041",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_042",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_043",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "attack": 5,
+        "cost": 0,
+        "health": 5,
+        "id": "XXX_044",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_045",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_046",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_047",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_048",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_049",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_050",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_051",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_052",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_053",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_054",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_054e",
+        "name": "",
+        "set": "Debug",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_055",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_055e",
+        "name": "",
+        "set": "Debug",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_056",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_057",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_094",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_095",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_096",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "health": 1,
+        "id": "XXX_097",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "health": 1,
+        "id": "XXX_098",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "elite": false,
+        "health": 1,
+        "id": "XXX_099",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Minion"
+    }
+]

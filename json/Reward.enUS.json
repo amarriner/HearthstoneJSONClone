@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Captain's Parrot","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Battlecry:</b> Put a random Pirate from your deck into your hand.","flavor":"Pirates and Parrots go together like Virmen and Carrots.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Unlocked when you have all the Pirates from the Expert Set.","howToGetGold":"Unlocked when you have all the Golden Pirates from the Expert Set.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Old Murk-Eye","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Charge</b>. Has +1 Attack for each other Murloc on the battlefield.","inPlayText":"Marglahg","flavor":"He's a legend among murlocs.  \"Mrghllghghllghg!\", they say.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Unlocked when you have all the Murlocs from the Expert Set.","howToGetGold":"Unlocked when you have all the Golden Murlocs from the Expert and Basic Sets.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Pirates and Parrots go together like Virmen and Carrots.",
+        "health": 1,
+        "howToGet": "Unlocked when you have all the Pirates from the Expert Set.",
+        "howToGetGold": "Unlocked when you have all the Golden Pirates from the Expert Set.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Captain's Parrot",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Battlecry:</b> Put a random Pirate from your deck into your hand.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "He's a legend among murlocs.  \"Mrghllghghllghg!\", they say.",
+        "health": 4,
+        "howToGet": "Unlocked when you have all the Murlocs from the Expert Set.",
+        "howToGetGold": "Unlocked when you have all the Golden Murlocs from the Expert and Basic Sets.",
+        "id": "EX1_062",
+        "inPlayText": "Marglahg",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Old Murk-Eye",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Charge</b>. Has +1 Attack for each other Murloc on the battlefield.",
+        "type": "Minion"
+    }
+]

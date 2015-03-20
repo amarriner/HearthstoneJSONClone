@@ -1,1 +1,347 @@
-[{"id":"TU4c_006","name":"Banane","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"Confère +1/+1 à un serviteur allié. <i>(+1 ATQ / +1 PV)</i>"},{"id":"TU4c_006e","name":"Banane","set":"Missions","type":"Enchantment","text":"Ce serviteur a +1/+1. <i>(+1 ATQ / +1 PV)</i>"},{"id":"TU4d_002","name":"Chasseur fou","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4f_001","name":"Chroniqueur Cho","set":"Missions","type":"Hero","health":25},{"id":"TU4d_003","name":"Coup de fusil","set":"Missions","type":"Hero Power","rarity":"Common","cost":2,"text":"<b>Pouvoir héroïque</b>\nInflige 1 point de dégâts.","playerClass":"Hunter"},{"id":"TU4f_002","name":"Éclaireur pandaren","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4e_005","name":"Explosion de flammes","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Lance 5 missiles infligeant chacun $1 |4(point,points) de dégâts à des adversaires aléatoires."},{"id":"TU4e_002t","name":"Flamme d’Azzinoth","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4e_002","name":"Flammes d’Azzinoth","set":"Missions","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInvoque deux serviteurs 2/1."},{"id":"TU4e_004","name":"Glaive de guerre d’Azzinoth","set":"Missions","type":"Weapon","rarity":"Common","cost":2,"attack":2,"durability":2},{"id":"TU4e_007","name":"Glaives de guerre doubles","set":"Missions","type":"Weapon","rarity":"Common","cost":6,"attack":4,"durability":2},{"id":"TU4a_003","name":"Gnoll","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4a_005","name":"Gnoll massif","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":2},{"id":"TU4a_002","name":"Gnoll rivepatte","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4c_005","name":"Gnome caché","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":2,"attack":1,"health":3,"text":"Il se cachait dans un tonneau !"},{"id":"TU4c_007","name":"Grand frère de Mukla","set":"Missions","type":"Minion","rarity":"Common","cost":6,"attack":10,"health":10,"text":"Il est si fort, et pour seulement 6 cristaux de mana ?!"},{"id":"TU4d_001","name":"Hemet Nesingwary","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Hunter"},{"id":"TU4f_004","name":"Héritage de l’Empereur","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Confère à vos serviteurs +2/+2. <i>(+2 ATQ / +2 PV)</i>"},{"id":"TU4f_004o","name":"Héritage de l’Empereur","set":"Missions","type":"Enchantment","text":"A +2/+2. <i>(+2 ATQ / +2 PV)</i>"},{"id":"TU4e_001","name":"Illidan Hurlorage","set":"Missions","type":"Hero","health":30,"playerClass":"Hunter"},{"id":"TU4a_006","name":"Jaina Portvaillant","set":"Missions","type":"Hero","rarity":"Common","health":27,"playerClass":"Mage"},{"id":"TU4c_002","name":"Lancer de tonneau","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"Inflige 2 points de dégâts."},{"id":"TU4a_001","name":"Lardeur","set":"Missions","type":"Hero","rarity":"Common","health":10},{"id":"TU4a_004","name":"Lardeur TOUT CASSER !","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Inflige 4 points de dégâts."},{"id":"TU4f_005","name":"Maître brasseur","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":4},{"id":"TU4b_001","name":"Millhouse Tempête-de-Mana","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Mage"},{"id":"TU4f_003","name":"Moine pandashan","set":"Missions","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2},{"id":"TU4e_003","name":"Myrmidon naga","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1,"text":"<b></b>"},{"id":"TU4c_004","name":"Piétinement","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":2,"text":"Inflige 2 points de dégâts à tous les adversaires."},{"id":"TU4c_008e","name":"Puissance de Mukla","set":"Missions","type":"Enchantment","text":"Le roi Mukla a +8 en Attaque pendant ce tour.","mechanics":["OneTurnEffect"]},{"id":"TU4c_001","name":"Roi Mukla","set":"Missions","type":"Hero","rarity":"Common","health":26},{"id":"TU4f_007","name":"Singe cinglé","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"<b>Cri de guerre :</b> lance des bananes.","mechanics":["Battlecry"]},{"id":"TU4c_003","name":"Tonneau","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":0,"health":2,"text":"Il y a quelque chose dans ce tonneau ?","inPlayText":"","mechanics":["Deathrattle"]},{"id":"TU4f_006","name":"Transcendance","set":"Missions","type":"Spell","rarity":"Common","cost":1,"text":"Cho ne peut pas être attaqué tant qu’il a des serviteurs."},{"id":"TU4f_006o","name":"Transcendance","set":"Missions","type":"Enchantment","text":"Cho ne peut pas être attaqué tant qu’il a des serviteurs."},{"id":"TU4c_008","name":"Volonté de Mukla","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Rend 8 points de vie."}]
+[
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_006",
+        "name": "Banane",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Conf\u00e8re +1/+1 \u00e0 un serviteur alli\u00e9. <i>(+1 ATQ / +1 PV)</i>",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4c_006e",
+        "name": "Banane",
+        "set": "Missions",
+        "text": "Ce serviteur a +1/+1. <i>(+1 ATQ / +1 PV)</i>",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4d_002",
+        "name": "Chasseur fou",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "health": 25,
+        "id": "TU4f_001",
+        "name": "Chroniqueur Cho",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 2,
+        "id": "TU4d_003",
+        "name": "Coup de fusil",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 1 point de d\u00e9g\u00e2ts.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4f_002",
+        "name": "\u00c9claireur pandaren",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "TU4e_005",
+        "name": "Explosion de flammes",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Lance 5 missiles infligeant chacun $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 des adversaires al\u00e9atoires.",
+        "type": "Spell"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_002t",
+        "name": "Flamme d\u2019Azzinoth",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "TU4e_002",
+        "name": "Flammes d\u2019Azzinoth",
+        "set": "Missions",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInvoque deux serviteurs 2/1.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "durability": 2,
+        "id": "TU4e_004",
+        "name": "Glaive de guerre d\u2019Azzinoth",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "attack": 4,
+        "cost": 6,
+        "durability": 2,
+        "id": "TU4e_007",
+        "name": "Glaives de guerre doubles",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_003",
+        "name": "Gnoll",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 2,
+        "id": "TU4a_005",
+        "name": "Gnoll massif",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_002",
+        "name": "Gnoll rivepatte",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 2,
+        "faction": "Neutral",
+        "health": 3,
+        "id": "TU4c_005",
+        "name": "Gnome cach\u00e9",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Il se cachait dans un tonneau\u00a0!",
+        "type": "Minion"
+    },
+    {
+        "attack": 10,
+        "cost": 6,
+        "health": 10,
+        "id": "TU4c_007",
+        "name": "Grand fr\u00e8re de Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Il est si fort, et pour seulement 6 cristaux de mana\u00a0?!",
+        "type": "Minion"
+    },
+    {
+        "health": 20,
+        "id": "TU4d_001",
+        "name": "Hemet Nesingwary",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 3,
+        "id": "TU4f_004",
+        "name": "H\u00e9ritage de l\u2019Empereur",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Conf\u00e8re \u00e0 vos serviteurs +2/+2. <i>(+2 ATQ / +2 PV)</i>",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4f_004o",
+        "name": "H\u00e9ritage de l\u2019Empereur",
+        "set": "Missions",
+        "text": "A +2/+2. <i>(+2 ATQ / +2 PV)</i>",
+        "type": "Enchantment"
+    },
+    {
+        "health": 30,
+        "id": "TU4e_001",
+        "name": "Illidan Hurlorage",
+        "playerClass": "Hunter",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "health": 27,
+        "id": "TU4a_006",
+        "name": "Jaina Portvaillant",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_002",
+        "name": "Lancer de tonneau",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 2 points de d\u00e9g\u00e2ts.",
+        "type": "Spell"
+    },
+    {
+        "health": 10,
+        "id": "TU4a_001",
+        "name": "Lardeur",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 3,
+        "id": "TU4a_004",
+        "name": "Lardeur TOUT CASSER\u00a0!",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 4 points de d\u00e9g\u00e2ts.",
+        "type": "Spell"
+    },
+    {
+        "attack": 4,
+        "cost": 4,
+        "health": 4,
+        "id": "TU4f_005",
+        "name": "Ma\u00eetre brasseur",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "health": 20,
+        "id": "TU4b_001",
+        "name": "Millhouse Temp\u00eate-de-Mana",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "health": 2,
+        "id": "TU4f_003",
+        "name": "Moine pandashan",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_003",
+        "name": "Myrmidon naga",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b></b>",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "faction": "Neutral",
+        "id": "TU4c_004",
+        "name": "Pi\u00e9tinement",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 2 points de d\u00e9g\u00e2ts \u00e0 tous les adversaires.",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4c_008e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Puissance de Mukla",
+        "set": "Missions",
+        "text": "Le roi Mukla a +8 en Attaque pendant ce tour.",
+        "type": "Enchantment"
+    },
+    {
+        "health": 26,
+        "id": "TU4c_001",
+        "name": "Roi Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 2,
+        "id": "TU4f_007",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Singe cingl\u00e9",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>Cri de guerre\u00a0:</b> lance des bananes.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "faction": "Neutral",
+        "health": 2,
+        "id": "TU4c_003",
+        "inPlayText": "",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Tonneau",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Il y a quelque chose dans ce tonneau\u00a0?",
+        "type": "Minion"
+    },
+    {
+        "cost": 1,
+        "id": "TU4f_006",
+        "name": "Transcendance",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Cho ne peut pas \u00eatre attaqu\u00e9 tant qu\u2019il a des serviteurs.",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4f_006o",
+        "name": "Transcendance",
+        "set": "Missions",
+        "text": "Cho ne peut pas \u00eatre attaqu\u00e9 tant qu\u2019il a des serviteurs.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 3,
+        "id": "TU4c_008",
+        "name": "Volont\u00e9 de Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Rend 8 points de vie.",
+        "type": "Spell"
+    }
+]

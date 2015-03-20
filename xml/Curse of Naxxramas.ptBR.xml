@@ -1,0 +1,4382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adorador
+  </name>
+  <text>
+   Seu herói tem +1 de Ataque no seu turno.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adorador
+  </name>
+  <text>
+   Seu herói tem +3 de Ataque no seu turno.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Alma Ululante
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;Grito de Guerra: Silencie&lt;/b&gt; seus outros lacaios.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Thaddius no Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Esta alma fica &lt;i&gt;se lamentando&lt;/i&gt; com você. Sai, alma, me deixa!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Thaddius no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Alteração de Polaridade
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Troque o Ataque com a Vida de todos os lacaios.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX13_02
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1_01
+  </id>
+  <name>
+   Anub&amp;apos;Rekhan
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1h_01
+  </id>
+  <name>
+   Anub&amp;apos;Rekhan
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Apocalipse Mental
+  </name>
+  <text>
+   Os dois jogadores compram 2 cards e recebem um Cristal de Mana.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX5_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aprendiz Espectral
+  </name>
+  <text>
+   No início do seu turno, cause 1 de dano ao seu herói.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aprendiz Implacável
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Aprendiz Espectral para o seu oponente.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aranha Espectral
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Arauto do Caos
+  </name>
+  <artist>
+   Robb Shoberg
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque um Demônio aleatório da sua mão no campo de batalha.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Bruxo em Naxxramas.
+  </howtogetgold>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Demon
+  </race>
+  <flavor>
+   "Caos! Aqui, caos! Aqui, amigão!"
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Bruxo em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_022
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Arrota-Lodo
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Provocar.
+Último Suspiro:&lt;/b&gt; Evoque um Visgo 1/2 com &lt;b&gt;Provocar&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Repugnaz no Distrito da Peste.
+  </howtogetgold>
+  <flavor>
+   NÃO DÊ A ELE UMA GARRAFA DE CERVEJA.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Repugnaz no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Arvoroso
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_019t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aspirante
+  </name>
+  <text>
+   &lt;b&gt;Provocar&lt;/b&gt;
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX7_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura Necrótica
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 3 de dano ao herói inimigo.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura Necrótica
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 3 de dano ao herói inimigo.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02
+  </id>
+ </item>
+ <item>
+  <text>
+   Seus feitiços custam (5) a mais neste turno!
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_030e
+  </id>
+  <name>
+   Aura Necrótica
+  </name>
+ </item>
+ <item>
+  <health>
+   14
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01H
+  </id>
+  <name>
+   Barão Rivendare
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Barão Rivendare
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seus lacaios ativam os &lt;b&gt;Últimos Suspiros&lt;/b&gt; duas vezes.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito Militar.
+  </howtogetgold>
+  <flavor>
+   Antes eram cinco Cavaleiros, mas um saiu porque apareceu uma vaga nas Minas Mortas com mais benefícios.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_031
+  </id>
+ </item>
+ <item>
+  <health>
+   7
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01
+  </id>
+  <name>
+   Barão Rivendare
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Campeão Congelado
+  </name>
+  <text>
+   Congelado permanentemente. Os lacaios adjacentes ficam imunes a Sopro Gélido.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   10
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX14_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Carniçal Instável
+  </name>
+  <artist>
+   Mike Nicholson
+  </artist>
+  <text>
+   &lt;b&gt;Provocar&lt;/b&gt;. &lt;b&gt;Último Suspiro:&lt;/b&gt; Cause 1 de dano a todos os lacaios.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Heigan, o Sujo, no Distrito da Peste.
+  </howtogetgold>
+  <flavor>
+   Encher seus Carniçais com Combustível de Foguete é a maior diversão na escola de Necromantes.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Heigan, o Sujo, no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavaleiro Espectral
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   Não pode ser alvo de feitiços nem de Poderes Heroicos.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Gothik, o Ceifador, no Distrito Militar.
+  </howtogetgold>
+  <flavor>
+   O que as Dragoletas e os Calaveiros Espectrais têm em comum? Os dois gostam de macarrão!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Gothik, o Ceifador, no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavalgante Espectral
+  </name>
+  <text>
+   No início do seu turno, cause 1 de dano ao seu herói.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavalgante Implacável
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Cavalgante Espectral para o seu oponente.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ceifar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Compre um card. Receba um Cristal de Mana.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ceifar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Compre um card.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02
+  </id>
+ </item>
+ <item>
+  <text>
+   Atributos aumentados.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_028e
+  </id>
+  <name>
+   Chamado da Escuridão
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Chuva de Fogo
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Dispare um míssil para cada card na mão de seu oponente.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Chuva de Fogo
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Dispare um míssil para cada card na mão de seu oponente.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cientista Louco
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque um &lt;b&gt;Segredo&lt;/b&gt; do seu deck no campo de batalha.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Grobbulus no Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   A mãe dele queria que ele fosse um mago ou bruxo, mas nãaaaaaaaaao, ele tinha que ser cientista como o pai.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Grobbulus no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
+ </item>
+ <item>
+  <text>
+   Atributos aumentados.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_005e
+  </id>
+  <name>
+   Consumir
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Corcel da Morte
+  </name>
+  <text>
+   &lt;b&gt;Investida. Último Suspiro:&lt;/b&gt; Cause 3 de dano ao seu herói.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_006
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Correntes
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Assuma o controle de um lacaio inimigo aleatório até o final do turno.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Correntes
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Assuma o controle de um lacaio inimigo aleatório.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04H
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Coveiro
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   Toda vez que evocar um lacaio com &lt;b&gt;Último Suspiro&lt;/b&gt;, receba +1 de ataque.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Retalhoso no Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Em um mundo onde você pode ir até um anjo da cura e ressuscitar, os Coveiros têm pouquíssimo trabalho.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Retalhoso no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
+ </item>
+ <item>
+  <text>
+   Ataque aumentado.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX6_03te
+  </id>
+  <name>
+   Crescimento Fúngico
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cristal de Controle Mental
+  </name>
+  <text>
+   Ative o Cristal para controlar os Aspirantes!
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX7_05
+  </id>
+ </item>
+ <item>
+  <text>
+   Ataque aumentado.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_03e
+  </id>
+  <name>
+   Dentes Extras
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Deslizar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Evoque um Nerubiano 3/1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Deslizar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Evoque um Nerubiano 4/4.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1h_04
+  </id>
+ </item>
+ <item>
+  <text>
+   Vida mudada para 1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_02e
+  </id>
+  <name>
+   Dizimar
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dizimar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Mude a Vida de todos os lacaios para 1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dizimar
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Mude a Vida dos lacaios inimigos para 1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Duplicar
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;Segredo:&lt;/b&gt; Quando um lacaio aliado morrer, coloque 2 cópias dele na sua mão.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Mago em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   A única vez em que duplicar cards não vai fazer você ser banido!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Mago em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Emboscador Anub&amp;apos;ar
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Devolva um lacaio aliado aleatório à sua mão.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Ladino em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   No comecinho, ele era chamado de "Carinha Abub&amp;apos;ar que manda um carinha de volta pra sua mão", mas faltava aquele tchan.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Ladino em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enfurecer
+  </name>
+  <text>
+   +6 de Ataque neste turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_04e
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Enfurecer
+  </name>
+  <text>
+   Conceda +6 de Ataque ao seu herói neste turno.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX12_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Erupção
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 2 de dano ao lacaio inimigo mais à esquerda.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Erupção
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   SAI QUE É MEU!
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_04a
+  </id>
+  <name>
+   Escravo de Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Espadas Dançantes
+  </name>
+  <artist>
+   Jon McConnell
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Seu oponente compra um card.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar o Instrutor Razúvio no Distrito Militar.
+  </howtogetgold>
+  <flavor>
+   Elas gostam de dançar reggae.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar o Instrutor Razúvio no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esporo
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Conceda +8 de Ataque a todos os lacaios inimigos.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX6_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esqueleto
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esqueleto
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Explosão de Esporos
+  </name>
+  <text>
+   Cause $1 de dano a todos os lacaios inimigos. Evoque um Esporo.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ferreiro Descarnado
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Destrua a arma do seu oponente.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_002
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Se Stalagg também morreu nesta partida, evoque Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Feugen está triste porque todo mundo gosta mais do Stalagg.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_015
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Florescer da Morte
+  </name>
+  <text>
+   Cause $5 de dano a um lacaio. Evoque um Esporo.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frio Puro
+  </name>
+  <text>
+   Cause $8 de dano ao herói inimigo e &lt;b&gt;Congele&lt;/b&gt;-o.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX14_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancho
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque esta arma na sua mão.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancho
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Fúria dos Ventos&lt;/b&gt;
+&lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque esta arma na sua mão.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02H
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gárgula Litopele
+  </name>
+  <artist>
+   Matt Smith
+  </artist>
+  <text>
+   No início do seu turno, restaure toda a Vida deste lacaio.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Noth, o Pestífero, no Distrito da Peste.
+  </howtogetgold>
+  <flavor>
+   Gárgulas Litopele adoram brincar de estátua.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Noth, o Pestífero, no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01H
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe Desequilibrante
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 4 de dano.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe Desequilibrante
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 3 de dano.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe Odioso
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Destrua um lacaio.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Golpe Odioso
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Destrua um lacaio.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gosma Ecoante
+  </name>
+  <artist>
+   Eric Browning
+  </artist>
+  <text>
+   &lt;b&gt;Grito de Guerra:&lt;/b&gt; No final do turno, evoque uma cópia exata deste lacaio.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Sapphiron no Covil da Serpe Gélida.
+  </howtogetgold>
+  <flavor>
+   GOSMA... Gosma... Gosma... (gosma...)
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Sapphiron no Covil da Serpe Gélida.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01H
+  </id>
+  <name>
+   Gothik, o Ceifador
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01
+  </id>
+  <name>
+   Gothik, o Ceifador
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01H
+  </id>
+  <name>
+   Grã-viúva Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01
+  </id>
+  <name>
+   Grã-viúva Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01H
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardião da Coroa de Gelo
+  </name>
+  <text>
+   &lt;b&gt;Provocar&lt;/b&gt;
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardião da Coroa de Gelo
+  </name>
+  <text>
+   &lt;b&gt;Provocar&lt;/b&gt;
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03n
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerreiro Espectral
+  </name>
+  <text>
+   No início do seu turno, cause 1 de dano ao seu herói.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerreiro Implacável
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Guerreiro Espectral para o seu oponente.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan, o Sujo
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01H
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan, o Sujo
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Impacto Gélido
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 2 de dano ao herói inimigo e &lt;b&gt;Congele&lt;/b&gt;-o.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Impacto Gélido
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Cause 3 de dano ao herói inimigo e &lt;b&gt;Congele&lt;/b&gt;-o.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Injeção Mutante
+  </name>
+  <text>
+   Conceda +4/+4 e &lt;b&gt;Provocar&lt;/b&gt; a um lacaio.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX11_04
+  </id>
+ </item>
+ <item>
+  <text>
+   +4/+4 e &lt;b&gt;Provocar&lt;/b&gt;.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX11_04e
+  </id>
+  <name>
+   Injeção Mutante
+  </name>
+ </item>
+ <item>
+  <health>
+   55
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01H
+  </id>
+  <name>
+   Instrutor Razúvio
+  </name>
+ </item>
+ <item>
+  <health>
+   40
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01
+  </id>
+  <name>
+   Instrutor Razúvio
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01He
+  </id>
+  <name>
+   Intruso!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01e
+  </id>
+  <name>
+   Intruso!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Invólucro de Teia
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Devolva dois lacaios inimigos aleatórios à mão do seu oponente.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Invólucro de Teia
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Devolva um lacaio inimigo aleatório à mão do seu oponente.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01H
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+  <artist>
+   Chris Robinson
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   No final de cada turno, evoque todos os lacaios aliados que morreram neste turno.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar todos os chefes de Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad não resistiu ao chamado do Lich Rei. Mesmo sendo apenas uma gravação exaltando as qualidades do Lich Rei.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar todos os chefes de Naxxramas!
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_013
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lady Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lady Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lâmina Rúnica
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   Tem +6 de Ataque se os outros Cavaleiros estiverem mortos.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lâmina Rúnica
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   Tem +3 de Ataque se os outros Cavaleiros estiverem mortos.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lâmina Rúnica Enorme
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Causa o dobro de dano a heróis.
+  </text>
+  <attack>
+   10
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lâmina Rúnica Enorme
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Causa o dobro de dano a heróis.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01H
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Poisonous
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Maexxna
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Destrua qualquer lacaio atingido por este lacaio.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Aracnídeos.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna fica passada quando a apresentam como "Maéquisna" ou "Maxxinha".
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_010
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mandíbulas
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Sempre que um lacaio com &lt;b&gt;Último Suspiro&lt;/b&gt; morrer, receba +2 de Ataque.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mandíbulas
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Sempre que um lacaio com &lt;b&gt;Último Suspiro&lt;/b&gt; morrer, receba +2 de Ataque.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Marca dos Cavaleiros
+  </name>
+  <text>
+   Conceda +1/+1 aos seus lacaios e à sua arma.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX9_07
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX9_07e
+  </id>
+  <name>
+   Marca dos Cavaleiros
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mordida da Morte
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Cause 1 de dano a todos os lacaios.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Guerreiro em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   "Tire um pedacinho da morte." — McCangote, o Necrolorde
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Guerreiro em Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Necro-cavaleiro
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Destrua os lacaios próximos a este também.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Necrolorde
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Provocar. Último Suspiro:&lt;/b&gt; Seu oponente coloca um lacaio do próprio deck no campo de batalha.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Os Quatro Cavaleiros no Distrito Militar.
+  </howtogetgold>
+  <flavor>
+   "Erga-se de sua tumba!" — Kel&amp;apos;thuzad
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Os Quatro Cavaleiros no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1h_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth, o Pestífero
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01H
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth, o Pestífero
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuvem de Gafanhotos
+  </name>
+  <text>
+   Cause $3 de dano a todos os lacaios inimigos. Restaure #3 de Vida do seu herói.
+  </text>
+  <cost>
+   7
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX1_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuvem de Veneno
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt;
+Cause 1 de dano a todos os lacaios. Se algum morrer, evoque um visgo.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuvem de Veneno
+  </name>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt;
+Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ovo Nerubiano
+  </name>
+  <artist>
+   Justin Thavirat
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Nerubiano 4/4.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Maexxna no Distrito dos Aracnídeos.
+  </howtogetgold>
+  <flavor>
+   Ovos são ótimas fontes de proteína e Nerubianos.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Maexxna no Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Peste
+  </name>
+  <text>
+   Destrua todos os lacaios que não são Esqueletos.
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX4_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Petisco Zumbi
+  </name>
+  <artist>
+   E. M. Gist
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Restaure 5 de Vida do Herói inimigo.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Gluth no Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Zumbi. É isso que tem pra janta.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Gluth no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Poder do Zigurate
+  </name>
+  <text>
+   +3 de Vida.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_023e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Ataque e Vida trocados.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_02e
+  </id>
+  <name>
+   Polaridade
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rastejante Assombrado
+  </name>
+  <artist>
+   Jeremy Cranford
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque duas Aranhas Espectrais 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Aracnofalsbia: Medo de aranhas falsas.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Reencarnar
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Destrua um lacaio, depois ressuscite-o com a Vida completa.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Xamã em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   É como nascer, mas você é um adulto e estava morto há um segundinho apenas.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Xamã em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   75
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01
+  </id>
+  <name>
+   Repugnaz
+  </name>
+ </item>
+ <item>
+  <health>
+   99
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01H
+  </id>
+  <name>
+   Repugnaz
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Repugnaz
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Grito de Guerra:&lt;/b&gt; Feitiços inimigos custam (5) a mais no próximo turno.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito da Peste.
+  </howtogetgold>
+  <flavor>
+   Repugnaz era uma Fera do Brejo. É por isso que precisamos de leis mais restritas sobre mineração e agricultura.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_030
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01
+  </id>
+  <name>
+   Retalhoso
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01H
+  </id>
+  <name>
+   Retalhoso
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Reviver Morto
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico Passivo&lt;/b&gt;
+Toda vez que um inimigo morrer, levante um Esqueleto 5/5.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Reviver Morto
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico Passivo&lt;/b&gt;
+Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01H
+  </id>
+  <name>
+   Sapphiron
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01
+  </id>
+  <name>
+   Sapphiron
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sectário Sombrio
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Conceda +3 de Vida a um lacaio aliado aleatório.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Sacerdote em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   A Seita dos Malditos acha melhor não mencionar o próprio nome quando está recrutando novos sectários.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Sacerdote em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sementes de Veneno
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   Destrua todos os lacaios e evoque Arvorosos 2/2 para substituí-los.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Druida em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   "Bolinhos de sementes de veneno" são os bolinhos menos populares no Empório de Bolinhos Druídicos do McTiggin.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Druida em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Senhor da Teia Nerub&amp;apos;ar
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   Lacaios com &lt;b&gt;Grito de Guerra&lt;/b&gt; custam (2) a mais.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.
+  </howtogetgold>
+  <flavor>
+   Os senhores da teia ficam o dia inteiro fazendo trampolins gigantes.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sir Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sir Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sombra Profana
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Compre 2 cards.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX9_06
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sopro Gélido
+  </name>
+  <text>
+   &lt;b&gt;Poder Heroico&lt;/b&gt;
+Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX14_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sr. Bigglesworth
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;i&gt;Este é o gatinho de Kel&amp;apos;Thuzad.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Se Feugen também morreu nesta partida, evoque Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Stalagg quer escrever próprio texto. "STALAGG CABULOSO!"
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Supercarga
+  </name>
+  <text>
+   Conceda +2 de Vida aos seus lacaios.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX13_03
+  </id>
+ </item>
+ <item>
+  <text>
+   +2 de Vida.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_03e
+  </id>
+  <name>
+   Supercarregado
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Teceteia
+  </name>
+  <artist>
+   Dan Brereton
+  </artist>
+  <text>
+   &lt;b&gt;Último Suspiro:&lt;/b&gt; Adicione um card de Fera aleatório à sua mão.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Caçador em Naxxramas.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Casulos de aranhas são como pequenas pinhatas!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Caçador em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_011
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01H
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thaddius
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   11
+  </attack>
+  <cost>
+   10
+  </cost>
+  <health>
+   11
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Veneno Necrótico
+  </name>
+  <text>
+   Destrua um lacaio.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX3_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vingança
+  </name>
+  <text>
+   +3/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_020e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vingar
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Segredo:&lt;/b&gt; Quando um de seus lacaios morrer, conceda +3/+2 a um lacaio aliado aleatório.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Paladino em Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Vários paladinos se reuniram para fazer justiça usando o nome "Força da Justiça". Os advogados os convenceram a não usar o nome "Liga da Justiça".
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Paladino em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Visgo
+  </name>
+  <text>
+   &lt;b&gt;Provocar&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Visgo Radioativo
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX11_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vulto de Naxxramas
+  </name>
+  <artist>
+   Ittoku Seta
+  </artist>
+  <text>
+   &lt;b&gt;Furtividade.&lt;/b&gt; No início do seu turno, receba +1/+1.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Pode ser criado após derrotar Kel&amp;apos;thuzad no Covil da Serpe Gélida.
+  </howtogetgold>
+  <flavor>
+   Os Vultos de Naxxramas &lt;i&gt;odeiam&lt;/i&gt; os vivos. Eles têm até um termo pejorativo que usam para mencioná-los: &lt;i&gt;Viventes&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Kel&amp;apos;thuzad no Covil da Serpe Gélida.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
+ </item>
+</cards>

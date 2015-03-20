@@ -1,0 +1,4389 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Accès de rage
+  </name>
+  <text>
+   Confère +6 ATQ à votre héros pendant ce tour.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX12_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Accès de rage
+  </name>
+  <text>
+   +6 ATQ pendant ce tour.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_04e
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adorateur
+  </name>
+  <text>
+   Votre héros a +3 ATQ pendant votre tour.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adorateur
+  </name>
+  <text>
+   Votre héros a +1 ATQ pendant votre tour.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Âme gémissante
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;Cri de guerre :&lt;/b&gt; réduit au &lt;b&gt;Silence&lt;/b&gt; vos autres serviteurs.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Thaddius dans le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Cette âme n’arrête pas de se plaindre en &lt;i&gt;gémissant&lt;/i&gt; auprès de sa hiérarchie, c’est-à-dire vous !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Thaddius dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1h_01
+  </id>
+  <name>
+   Anub’Rekhan
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1_01
+  </id>
+  <name>
+   Anub’Rekhan
+  </name>
+ </item>
+ <item>
+  <text>
+   Caractéristiques augmentées.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_028e
+  </id>
+  <name>
+   Appel des ténèbres
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Araignée spectrale
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura nécrotique
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 3 points de dégâts au héros adverse.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   Vos sorts coûtent (5) cristaux de plus au prochain tour.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_030e
+  </id>
+  <name>
+   Aura nécrotique
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura nécrotique
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 3 points de dégâts au héros adverse.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02
+  </id>
+ </item>
+ <item>
+  <health>
+   14
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01H
+  </id>
+  <name>
+   Baron Vaillefendre
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Baron Vaillefendre
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Vos serviteurs déclenchent deux fois leur &lt;b&gt;Râle d’agonie&lt;/b&gt;.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier Militaire.
+  </howtogetgold>
+  <flavor>
+   Dame Blaumeux préférerait qu’on dise « la cavalière et les trois cavaliers ».
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_031
+  </id>
+ </item>
+ <item>
+  <health>
+   7
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01
+  </id>
+  <name>
+   Baron Vaillefendre
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavalier spectral
+  </name>
+  <text>
+   Au début de votre tour, inflige 1 point de dégâts à votre héros.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavalier tenace
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque un cavalier spectral pour votre adversaire.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cervocalypse
+  </name>
+  <text>
+   Les deux joueurs piochent 2 cartes et gagnent un cristal de mana.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX5_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Chaînes
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Prend le contrôle d’un serviteur adverse aléatoire jusqu’à la fin du tour.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Chaînes
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Prend le contrôle d’un serviteur adverse aléatoire.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Champion gelé
+  </name>
+  <text>
+   Gelé pour toute la partie. Les serviteurs adjacents sont immunisés contre Souffle de givre.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   10
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX14_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Changement de polarité
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Échange l’Attaque et la Vie de tous les serviteurs.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX13_02
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Chevalier de la mort spectral
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   Ne peut pas être la cible de sorts ou de pouvoirs héroïques.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Gothik le Moissonneur dans le quartier Militaire.
+  </howtogetgold>
+  <flavor>
+   Qu’ont en commun les dragons féeriques et les chevaliers de la mort spectraux ? Ils adorent les pâtes !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Gothik le Moissonneur dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
+ </item>
+ <item>
+  <text>
+   Caractéristiques augmentées.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_005e
+  </id>
+  <name>
+   Consumer
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Crache-vase
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Provocation.
+Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Horreb dans le quartier de la Peste.
+  </howtogetgold>
+  <flavor>
+   Ne vous lancez pas dans un concours de rots avec lui, c’est perdu d’avance.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Horreb dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cristal de contrôle mental
+  </name>
+  <text>
+   Active le cristal pour prendre le contrôle des doublures !
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX7_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Crochet
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; place cette arme dans votre main.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Crochet
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Furie des vents&lt;/b&gt;
+&lt;b&gt;Râle d’agonie :&lt;/b&gt; place cette arme dans votre main.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   Attaque augmentée.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX6_03te
+  </id>
+  <name>
+   Croissance fongique
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Croq’zombie
+  </name>
+  <artist>
+   E. M. Gist
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; rend 5 PV au héros adverse.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Gluth dans le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Au menu ce soir, le chef vous propose… du zombie.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Gluth dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dame Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dame Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Décimer
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Fait passer les points de vie de tous les serviteurs à 1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Décimer
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Fait passer les points de vie des serviteurs adverses à 1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   Les points de vie sont passés à 1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_02e
+  </id>
+  <name>
+   Décimer
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Destrier de la mort
+  </name>
+  <text>
+   &lt;b&gt;Charge. Râle d’agonie :&lt;/b&gt; inflige 3 points de dégâts à votre héros.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_006
+  </id>
+ </item>
+ <item>
+  <text>
+   Attaque augmentée.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_03e
+  </id>
+  <name>
+   Double rangée de dents
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Doublure
+  </name>
+  <text>
+   &lt;b&gt;Provocation&lt;/b&gt;
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX7_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dupliquer
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;Secret :&lt;/b&gt; quand un serviteur allié meurt, en place 2 copies dans votre main.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe mage de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   C’est bien la seule fois où vous pourrez copier des cartes sans vous faire bannir votre compte !
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe mage de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Embusqué anub’ar
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; renvoie un serviteur allié aléatoire dans votre main.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe voleur de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Autrefois, on l’appelait l’anub’ar-qui-renvoie-un-serviteur-dans-votre-main, mais c’était un peu dur à dire.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe voleur de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Entoilage
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Renvoie un serviteur ennemi aléatoire dans la main de votre adversaire.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Entoilage
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Renvoie 2 serviteurs ennemis aléatoires dans la main de votre adversaire.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Épées dansantes
+  </name>
+  <artist>
+   Jon McConnell
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; votre adversaire pioche une carte.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu l’instructeur Razuvious dans le quartier Militaire.
+  </howtogetgold>
+  <flavor>
+   Leur chanson préférée, c’est « Alors on danse ».
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre l’instructeur Razuvious dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Éruption
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 2 points de dégâts au serviteur adverse tout à gauche.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Éruption
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 3 points de dégâts au serviteur adverse tout à gauche.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   À MOI !
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_04a
+  </id>
+  <name>
+   Esclave de Kel’Thuzad
+  </name>
+ </item>
+ <item>
+  <text>
+   +2 PV.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_03e
+  </id>
+  <name>
+   État de supercharge
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Explosion de spores
+  </name>
+  <text>
+   Inflige $1 |4(point,points) de dégâts à tous les serviteurs adverses. Invoque une spore.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; si Stalagg est aussi mort pendant cette partie, invoque Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Feugen est tristounet parce que tout le monde préfère Stalagg.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_015
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Forgeron squelettique
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; détruit l’arme de votre adversaire.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_002
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fossoyeur
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   Gagne +1 ATQ chaque fois que vous invoquez un serviteur avec &lt;b&gt;Râle d’agonie&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu le Recousu dans le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Dans un monde où il suffit de s’adresser à un gardien des âmes pour ressusciter, fossoyeur n’est pas considéré comme un métier porteur.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre le Recousu dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frappe déséquilibrante
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 3 points de dégâts.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frappe déséquilibrante
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 4 points de dégâts.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frappe haineuse
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Détruit un serviteur.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Frappe haineuse
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Détruit un serviteur.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Froid absolu
+  </name>
+  <text>
+   Inflige $8 |4(point,points) de dégâts au héros adverse, et le &lt;b&gt;gèle&lt;/b&gt;.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX14_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Garde de la Couronne de glace
+  </name>
+  <text>
+   &lt;b&gt;Provocation&lt;/b&gt;
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Garde de la Couronne de glace
+  </name>
+  <text>
+   &lt;b&gt;Provocation&lt;/b&gt;
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03n
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gargouille peau-de-pierre
+  </name>
+  <artist>
+   Matt Smith
+  </artist>
+  <text>
+   Au début de votre tour, rend tous ses points de vie à ce serviteur.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Noth le Porte-Peste dans le quartier de la Peste.
+  </howtogetgold>
+  <flavor>
+   Quel est le jeu préféré des gargouilles peau-de-pierre ? 1, 2, 3, soleil !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Noth le Porte-Peste dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gelée
+  </name>
+  <text>
+   &lt;b&gt;Provocation&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gelée polluée
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX11_03
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01H
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01
+  </id>
+  <name>
+   Gothik le Moissonneur
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01H
+  </id>
+  <name>
+   Gothik le Moissonneur
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Goule instable
+  </name>
+  <artist>
+   Mike Nicholson
+  </artist>
+  <text>
+   &lt;b&gt;Provocation&lt;/b&gt;
+&lt;b&gt;Râle d’agonie :&lt;/b&gt; inflige 1 point de dégâts à tous les serviteurs.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Heigan l’Impur dans le quartier de la Peste.
+  </howtogetgold>
+  <flavor>
+   Remplir ses goules de carburant pour fusée, ça fait fureur dans les écoles de nécromancie.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Heigan l’Impur dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Graines de poison
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   Détruit tous les serviteurs et les remplace par des tréants 2/2.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe druide de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   La baguette tradition aux graines de poison est le produit le moins demandé de la boulangerie druidique de McTiggin.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe druide de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01
+  </id>
+  <name>
+   Grande veuve Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01H
+  </id>
+  <name>
+   Grande veuve Faerlina
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01H
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Grouillement
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Invoque un nérubien 3/1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Grouillement
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Invoque un nérubien 4/4.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1h_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerrier spectral
+  </name>
+  <text>
+   Au début de votre tour, inflige 1 point de dégâts à votre héros.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerrier tenace
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque un guerrier spectral pour votre adversaire.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan l’Impur
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan l’Impur
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01H
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Horreb
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Cri de guerre :&lt;/b&gt; les sorts adverses coûtent (5) cristaux de plus au prochain tour.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier de la Peste.
+  </howtogetgold>
+  <flavor>
+   Au départ, Horreb n’était qu’une simple créature des marais. C’est la raison pour laquelle il faut réglementer davantage l’utilisation des pesticides dans l’agriculture.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_030
+  </id>
+ </item>
+ <item>
+  <health>
+   75
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01
+  </id>
+  <name>
+   Horreb
+  </name>
+ </item>
+ <item>
+  <health>
+   99
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01H
+  </id>
+  <name>
+   Horreb
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Implorateur du Vide
+  </name>
+  <artist>
+   Robb Shoberg
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; place un démon aléatoire de votre main sur le champ de bataille.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe démoniste de Naxxramas.
+  </howtogetgold>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Demon
+  </race>
+  <flavor>
+   « Vide ! Allez, Vide ! S’il te plaît... »
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe démoniste de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_022
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   +4/+4 et &lt;b&gt;Provocation&lt;/b&gt;.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX11_04e
+  </id>
+  <name>
+   Injection mutante
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Injection mutante
+  </name>
+  <text>
+   Confère à un serviteur +4/+4 et &lt;b&gt;Provocation&lt;/b&gt;.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX11_04
+  </id>
+ </item>
+ <item>
+  <health>
+   55
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01H
+  </id>
+  <name>
+   Instructeur Razuvious
+  </name>
+ </item>
+ <item>
+  <health>
+   40
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01
+  </id>
+  <name>
+   Instructeur Razuvious
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01e
+  </id>
+  <name>
+   Intrus !
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01He
+  </id>
+  <name>
+   Intrus !
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Jeune recrue spectrale
+  </name>
+  <text>
+   Au début de votre tour, inflige 1 point de dégâts à votre héros.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Jeune recrue tenace
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque une jeune recrue spectrale pour votre adversaire.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Kel’Thuzad
+  </name>
+  <artist>
+   Chris Robinson
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   À la fin de chaque tour, invoque tous les serviteurs alliés qui sont morts pendant ce tour.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu chacun des boss de Naxxramas !
+  </howtogetgold>
+  <flavor>
+   Kel’Thuzad n’a pas pu résister à l’appel du roi-liche. Même si ce n’était qu’un appel automatique avec un message pré-enregistré vantant les vertus de son auteur.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre chacun des boss de Naxxramas !
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_013
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01H
+  </id>
+  <name>
+   Kel’Thuzad
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01
+  </id>
+  <name>
+   Kel’Thuzad
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lame runique
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   A +6 ATQ si les autres cavaliers sont morts.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lame runique
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   A +3 ATQ si les autres cavaliers sont morts.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lame runique massive
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Inflige des dégâts doublés aux héros.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lame runique massive
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Inflige des dégâts doublés aux héros.
+  </text>
+  <attack>
+   10
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04H
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01H
+  </id>
+  <name>
+   Le Recousu
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01
+  </id>
+  <name>
+   Le Recousu
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Limon résonnant
+  </name>
+  <artist>
+   Eric Browning
+  </artist>
+  <text>
+   &lt;b&gt;Cri de guerre :&lt;/b&gt; invoque une copie conforme de ce serviteur à la fin du tour.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Saphiron dans l’antre du Wyrm de givre.
+  </howtogetgold>
+  <flavor>
+   LIMON… Limon… limon… mon…
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Saphiron dans l’antre du Wyrm de givre.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   M. Bigglesworth
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;i&gt;Le chat-chat adoré de Kel’Thuzad.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mâchoires
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Gagne +2 ATQ chaque fois qu’un serviteur avec &lt;b&gt;Râle d’agonie&lt;/b&gt; meurt.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mâchoires
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Gagne +2 ATQ chaque fois qu’un serviteur avec &lt;b&gt;Râle d’agonie&lt;/b&gt; meurt.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03H
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Poisonous
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Maexxna
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Détruit tout serviteur blessé par ce serviteur.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Arachnides.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Rien n’énerve plus Maexxna que d’être appelée « Maxena » ou « Maxxy ».
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_010
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01H
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Marque des cavaliers
+  </name>
+  <text>
+   Confère +1/+1 à vos serviteurs et à votre arme.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX9_07
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX9_07e
+  </id>
+  <name>
+   Marque des cavaliers
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Moisson
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Vous piochez une carte et gagnez un cristal de mana.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Moisson
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Pioche une carte.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Morsure de la mort
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; inflige 1 point de dégâts à tous les serviteurs.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe guerrier de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   « Venez prendre un avant-goût de la Mort. » - Seigneur de la mort McScruff
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe guerrier de Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mortelle floraison
+  </name>
+  <text>
+   Inflige $5 |4(point,points) de dégâts à un serviteur. Invoque une spore.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nécro-chevalier
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; détruit les serviteurs adjacents.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_001
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nérubien
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1h_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nérubien
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nérubien
+  </name>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth le Porte-Peste
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth le Porte-Peste
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01H
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuage empoisonné
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 1 point de dégâts à
+ tous les serviteurs. Invoque une gelée si l’un d’eux meurt.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuage empoisonné
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 2 points de dégâts à
+ tous les adversaires. Invoque une gelée si l’un d’eux meurt.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nuée de sauterelles
+  </name>
+  <text>
+   Inflige $3 |4(point,points) de dégâts à tous les serviteurs ennemis. Rend #3 |4(point,points) de vie à votre héros.
+  </text>
+  <cost>
+   7
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX1_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Œuf de nérubien
+  </name>
+  <artist>
+   Justin Thavirat
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque un nérubien 4/4.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Maexxna dans le quartier des Arachnides.
+  </howtogetgold>
+  <flavor>
+   Les œufs sont une excellente source de protéines et de nérubiens.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Maexxna dans le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ombre de Naxxramas
+  </name>
+  <artist>
+   Ittoku Seta
+  </artist>
+  <text>
+   &lt;b&gt;Camouflage&lt;/b&gt;
+Gagne +1/+1 au début de votre tour.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Kel’Thuzad dans l’antre du Wyrm de givre.
+  </howtogetgold>
+  <flavor>
+   Regardez vers la lumière, les ombres resteront derrière vous !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Kel’Thuzad dans l’antre du Wyrm de givre.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ombre impie
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Pioche deux cartes.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX9_06
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Peste
+  </name>
+  <text>
+   Détruit tous les serviteurs sauf les squelettes.
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX4_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pluie de feu
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Tire un missile pour chaque
+ carte dans la main de votre adversaire.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pluie de feu
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Tire un missile pour chaque
+ carte dans la main de votre adversaire.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Poison nécrotique
+  </name>
+  <text>
+   Détruit un serviteur.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX3_03
+  </id>
+ </item>
+ <item>
+  <text>
+   Attaque et vie inversées.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_02e
+  </id>
+  <name>
+   Polarité
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Puissance de la ziggourat
+  </name>
+  <text>
+   +3 PV.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_023e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rampante hantée
+  </name>
+  <artist>
+   Jeremy Cranford
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque deux araignées spectrales 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir battu Anub’Rekhan dans le quartier des Arachnides.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Arachnofauxbie : peur des araignées en mousse.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Anub’Rekhan dans le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Réanimation morbide
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque passif&lt;/b&gt;
+Chaque fois qu’un ennemi meurt, un squelette 5/5 se lève.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Réanimation morbide
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque passif&lt;/b&gt;
+Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Réincarnation
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Détruit un serviteur, puis le ramène à la vie avec tous ses PV.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe chaman de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Pan, t’es même pas mort !
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe chaman de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01H
+  </id>
+  <name>
+   Saphiron
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01
+  </id>
+  <name>
+   Saphiron
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Savant fou
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; place un &lt;b&gt;Secret&lt;/b&gt; de votre deck sur le champ de bataille.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu Grobbulus dans le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Sa môman voulait qu’il devienne mage ou démoniste, mais non, il a fallu qu’il soit savant fou comme son papa.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Grobbulus dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Seigneur de la mort
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Provocation. Râle d’agonie :&lt;/b&gt; votre adversaire place un serviteur de son deck sur le champ de bataille.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu les quatre cavaliers dans le quartier Militaire.
+  </howtogetgold>
+  <flavor>
+   « Lève-toi de ta tombe ! » - Kel’Thuzad
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre les quatre cavaliers dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Seigneur de la toile nérub’ar
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   Les serviteurs avec &lt;b&gt;Cri de guerre&lt;/b&gt; coûtent (2) cristaux de plus.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir battu la grande veuve Faerlina dans le quartier des Arachnides.
+  </howtogetgold>
+  <flavor>
+   Les seigneurs de la toile passent leur journée à tisser des trampolines géants. Vous parlez d’un boulot…
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre la grande veuve Faerlina dans le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sire Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sire Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sombre sectateur
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; confère +3 PV à un serviteur allié aléatoire.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe prêtre de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Le culte des Damnés s’est rendu compte qu’il valait mieux rester anonyme lors du recrutement de nouveaux sectateurs.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe prêtre de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Souffle de givre
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Détruit tous les serviteurs
+ adverses qui ne sont pas &lt;b&gt;gelés&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX14_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Spore
+  </name>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; donne +8 ATQ à tous les serviteurs adverses.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX6_03t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Squelette
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Squelette
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; si Feugen est aussi mort pendant cette partie, invoque Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Stalagg voulait écrire sur sa carte : « STALAGG MEILLEUR ! »
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Supercharge
+  </name>
+  <text>
+   Confère +2 PV à vos serviteurs.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX13_03
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01H
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thaddius
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   11
+  </attack>
+  <cost>
+   10
+  </cost>
+  <health>
+   11
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth’azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth’azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Tisseuse
+  </name>
+  <artist>
+   Dan Brereton
+  </artist>
+  <text>
+   &lt;b&gt;Râle d’agonie :&lt;/b&gt; ajoute une carte Bête aléatoire dans votre main.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe chasseur de Naxxramas.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Les cocons d’araignée, c’est comme les boîtes de chocolats : on ne sait jamais sur quoi on va tomber !
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe chasseur de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_011
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Trait de givre
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 2 points de dégâts au héros ennemi et le &lt;b&gt;gèle&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Trait de givre
+  </name>
+  <text>
+   &lt;b&gt;Pouvoir héroïque&lt;/b&gt;
+Inflige 3 points de dégâts au héros ennemi et le &lt;b&gt;gèle&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Tréant
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_019t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vengeance
+  </name>
+  <text>
+   +3/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_020e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Venger
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Secret :&lt;/b&gt; quand l’un de vos serviteurs meurt, donne +3/+2 à un serviteur allié aléatoire.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe paladin de Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Un jour, plusieurs paladins se sont ligués pour rendre la justice. Au moment de choisir un nom, leur avocat les a convaincus de se faire appeler la Digue des justiciers. On n’est jamais trop prudent.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe paladin de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+</cards>

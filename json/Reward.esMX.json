@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Loro del capitán","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Grito de batalla:</b> pon un Pirata aleatorio de tu mazo en tu mano.","flavor":"Los loros son a los piratas lo que las zanahorias son a los mures.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Se desbloquea cuando tienes a todos los piratas del kit experto.","howToGetGold":"Se desbloquea cuando tienes a todos los piratas dorados del kit experto.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Viejo Ojosombrío","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Carga</b>. Tiene +1 de Ataque por cada otro múrloc en el campo de batalla.","inPlayText":"","flavor":"Es una leyenda entre los múrlocs. \"¡Mrghllghghllghg!\", dicen todos.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Se desbloquea cuando tienes a todos los múrlocs del kit experto.","howToGetGold":"Se desbloquea cuando tienes a todos los múrlocs dorados de los kits experto y básico.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Los loros son a los piratas lo que las zanahorias son a los mures.",
+        "health": 1,
+        "howToGet": "Se desbloquea cuando tienes a todos los piratas del kit experto.",
+        "howToGetGold": "Se desbloquea cuando tienes a todos los piratas dorados del kit experto.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Loro del capit\u00e1n",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Grito de batalla:</b> pon un Pirata aleatorio de tu mazo en tu mano.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "Es una leyenda entre los m\u00farlocs. \"\u00a1Mrghllghghllghg!\", dicen todos.",
+        "health": 4,
+        "howToGet": "Se desbloquea cuando tienes a todos los m\u00farlocs del kit experto.",
+        "howToGetGold": "Se desbloquea cuando tienes a todos los m\u00farlocs dorados de los kits experto y b\u00e1sico.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Viejo Ojosombr\u00edo",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Carga</b>. Tiene +1 de Ataque por cada otro m\u00farloc en el campo de batalla.",
+        "type": "Minion"
+    }
+]

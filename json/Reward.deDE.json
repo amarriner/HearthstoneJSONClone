@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Papagei des Kapitäns","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Kampfschrei:</b> Fügt Eurer Hand einen zufälligen Piraten aus Eurem Deck hinzu.","flavor":"Papageien und Piraten sind einfach füreinander geschaffen.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Wird freigeschaltet, wenn Ihr alle Piraten des Profisets besitzt.","howToGetGold":"Wird freigeschaltet, wenn Ihr alle goldenen Piraten des Basis- und des Profisets besitzt.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Trübauge der Alte","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Ansturm</b>. Hat +1 Angriff für jeden anderen Murloc auf dem Schlachtfeld.","inPlayText":"","flavor":"Ein Murloc, den sie „Mrghllghghllghg!“ nannten.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Wird freigeschaltet, wenn Ihr alle Murlocs des Profisets besitzt.","howToGetGold":"Wird freigeschaltet, wenn Ihr alle goldenen Murlocs des Basis- und des Profisets besitzt.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Papageien und Piraten sind einfach f\u00fcreinander geschaffen.",
+        "health": 1,
+        "howToGet": "Wird freigeschaltet, wenn Ihr alle Piraten des Profisets besitzt.",
+        "howToGetGold": "Wird freigeschaltet, wenn Ihr alle goldenen Piraten des Basis- und des Profisets besitzt.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Papagei des Kapit\u00e4ns",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Kampfschrei:</b> F\u00fcgt Eurer Hand einen zuf\u00e4lligen Piraten aus Eurem Deck hinzu.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "Ein Murloc, den sie \u201eMrghllghghllghg!\u201c nannten.",
+        "health": 4,
+        "howToGet": "Wird freigeschaltet, wenn Ihr alle Murlocs des Profisets besitzt.",
+        "howToGetGold": "Wird freigeschaltet, wenn Ihr alle goldenen Murlocs des Basis- und des Profisets besitzt.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Tr\u00fcbauge der Alte",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Ansturm</b>. Hat +1 Angriff f\u00fcr jeden anderen Murloc auf dem Schlachtfeld.",
+        "type": "Minion"
+    }
+]

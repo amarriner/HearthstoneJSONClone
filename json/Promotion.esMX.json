@@ -1,1 +1,159 @@
-[{"id":"Mekka3e","name":"¡Fortalecido!","set":"Promotion","type":"Enchantment","text":"Estadísticas aumentadas."},{"id":"PRO_001","name":"Elite Tauren Chieftain","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Grito de batalla:</b> Otorga a ambos jugadores el poder del ROCK (con una carta Acorde Potente)","flavor":"Está buscando baterista. Sus candidatos son: Ingeniera novicia, Sen'jin Maestro de escudos y Ragnaros el Señor del Fuego.","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Otorgada en la BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"Mekka3","name":"Fortalecedor 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"Al final de tu turno, otorga +1/+1 a un esbirro aleatorio.","inPlayText":"","race":"Mech"},{"id":"EX1_112","name":"Gelbin Mekkatorque","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Grito de batalla:</b> invoca una invención INCREÍBLE.","flavor":"Es el líder de los gnomos y un inventor increíble. Además, ha mejorado mucho: ahora convierte cosas en pollos MUCHO menos que antes.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Esta carta se otorgó como recompensa a los jugadores que ayudaron a probar la Tienda durante la beta.","mechanics":["Battlecry"]},{"id":"PRO_001a","name":"I Am Murloc","set":"Promotion","type":"Spell","cost":4,"text":"Invoca tres, cuatro o cinco múrlocs 1/1."},{"id":"PRO_001at","name":"Múrloc","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4t","name":"Pollo","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>¡Ey, pollo!</i>","race":"Beast"},{"id":"Mekka1","name":"Pollo buscador","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"Al comienzo de tu turno, destruye a este esbirro y roba 3 cartas.","inPlayText":"","race":"Mech"},{"id":"Mekka4","name":"Pollotizador","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Al comienzo de tu turno, transforma a un esbirro aleatorio en un Pollo 1/1.","inPlayText":"","race":"Mech"},{"id":"PRO_001c","name":"Power of the Horde","set":"Promotion","type":"Spell","cost":4,"text":"Invoca un guerrero de la Horda aleatorio."},{"id":"Mekka2","name":"Robot de reparación","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Al final de tu turno, restaura 6 de Salud a un personaje dañado.","inPlayText":"","race":"Mech"},{"id":"PRO_001b","name":"Rogues Do It...","set":"Promotion","type":"Spell","cost":4,"text":"Inflige $4 de daño. Roba una carta."},{"id":"Mekka4e","name":"Transformado","set":"Promotion","type":"Enchantment","text":"¡Ha sido transformado en un pollo!","mechanics":["Morph"]}]
+[
+    {
+        "id": "Mekka3e",
+        "name": "\u00a1Fortalecido!",
+        "set": "Promotion",
+        "text": "Estad\u00edsticas aumentadas.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Est\u00e1 buscando baterista. Sus candidatos son: Ingeniera novicia, Sen'jin Maestro de escudos y Ragnaros el Se\u00f1or del Fuego.",
+        "health": 5,
+        "howToGetGold": "Otorgada en la BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Elite Tauren Chieftain",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de batalla:</b> Otorga a ambos jugadores el poder del ROCK (con una carta Acorde Potente)",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "Fortalecedor 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al final de tu turno, otorga +1/+1 a un esbirro aleatorio.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "Es el l\u00edder de los gnomos y un inventor incre\u00edble. Adem\u00e1s, ha mejorado mucho: ahora convierte cosas en pollos MUCHO menos que antes.",
+        "health": 6,
+        "howToGetGold": "Esta carta se otorg\u00f3 como recompensa a los jugadores que ayudaron a probar la Tienda durante la beta.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekkatorque",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de batalla:</b> invoca una invenci\u00f3n INCRE\u00cdBLE.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "I Am Murloc",
+        "set": "Promotion",
+        "text": "Invoca tres, cuatro o cinco m\u00farlocs 1/1.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "M\u00farloc",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Pollo",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>\u00a1Ey, pollo!</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "Pollo buscador",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al comienzo de tu turno, destruye a este esbirro y roba 3 cartas.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "Pollotizador",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al comienzo de tu turno, transforma a un esbirro aleatorio en un Pollo 1/1.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Power of the Horde",
+        "set": "Promotion",
+        "text": "Invoca un guerrero de la Horda aleatorio.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "Robot de reparaci\u00f3n",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al final de tu turno, restaura 6 de Salud a un personaje da\u00f1ado.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "Rogues Do It...",
+        "set": "Promotion",
+        "text": "Inflige $4 de da\u00f1o. Roba una carta.",
+        "type": "Spell"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transformado",
+        "set": "Promotion",
+        "text": "\u00a1Ha sido transformado en un pollo!",
+        "type": "Enchantment"
+    }
+]

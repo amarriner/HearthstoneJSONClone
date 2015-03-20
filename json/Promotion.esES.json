@@ -1,1 +1,159 @@
-[{"id":"Mekka3e","name":"¡Corajizado!","set":"Promotion","type":"Enchantment","text":"Estadísticas aumentadas."},{"id":"Mekka3","name":"Corajizador 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"Al final de tu turno, otorga +1/+1 a un esbirro aleatorio.","inPlayText":"","race":"Mech"},{"id":"PRO_001","name":"Elite Tauren Chieftain","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Grito de batalla:</b> ¡Otorga a ambos jugadores el poder del ROCK! (con una carta de acorde)","flavor":"¡Muuuuévete!","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Se entregó en la BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"EX1_112","name":"Gelbin Mekkatorque","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Grito de batalla:</b> Invoca un invento GENIAL.","flavor":"Abres la guía de mazmorras y sale una planta mustia. ¿Cómo se llama la estancia? ¡Gnomerriegan!","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Esta carta fue una recompensa para los jugadores que ayudaron a probar la tienda durante la beta.","mechanics":["Battlecry"]},{"id":"PRO_001a","name":"I Am Murloc","set":"Promotion","type":"Spell","cost":4,"text":"Invoca tres, cuatro o cinco múrlocs 1/1."},{"id":"PRO_001at","name":"Múrloc","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4","name":"Pollificador","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Al comienzo de tu turno, transforma a un esbirro aleatorio en un pollo 1/1.","inPlayText":"","race":"Mech"},{"id":"Mekka4t","name":"Pollo","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>¡Hola, pollo!</i>","race":"Beast"},{"id":"Mekka1","name":"Pollo buscador","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"Al comienzo de tu turno, destruye a este esbirro y roba 3 cartas.","inPlayText":"","race":"Mech"},{"id":"PRO_001c","name":"Power of the Horde","set":"Promotion","type":"Spell","cost":4,"text":"Invoca a un guerrero de la Horda aleatorio."},{"id":"Mekka2","name":"Robot de reparación","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Al final de tu turno, restaura 6 p. de salud a un personaje dañado.","inPlayText":"","race":"Mech"},{"id":"PRO_001b","name":"Rogues Do It...","set":"Promotion","type":"Spell","cost":4,"text":"Inflige $4 p. de daño. Roba una carta."},{"id":"Mekka4e","name":"Transformado","set":"Promotion","type":"Enchantment","text":"¡Se ha transformado en un pollo!","mechanics":["Morph"]}]
+[
+    {
+        "id": "Mekka3e",
+        "name": "\u00a1Corajizado!",
+        "set": "Promotion",
+        "text": "Estad\u00edsticas aumentadas.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "Corajizador 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al final de tu turno, otorga +1/+1 a un esbirro aleatorio.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u00a1Muuuu\u00e9vete!",
+        "health": 5,
+        "howToGetGold": "Se entreg\u00f3 en la BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Elite Tauren Chieftain",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de batalla:</b> \u00a1Otorga a ambos jugadores el poder del ROCK! (con una carta de acorde)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "Abres la gu\u00eda de mazmorras y sale una planta mustia. \u00bfC\u00f3mo se llama la estancia? \u00a1Gnomerriegan!",
+        "health": 6,
+        "howToGetGold": "Esta carta fue una recompensa para los jugadores que ayudaron a probar la tienda durante la beta.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekkatorque",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de batalla:</b> Invoca un invento GENIAL.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "I Am Murloc",
+        "set": "Promotion",
+        "text": "Invoca tres, cuatro o cinco m\u00farlocs 1/1.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "M\u00farloc",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "Pollificador",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al comienzo de tu turno, transforma a un esbirro aleatorio en un pollo 1/1.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Pollo",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>\u00a1Hola, pollo!</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "Pollo buscador",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al comienzo de tu turno, destruye a este esbirro y roba 3 cartas.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Power of the Horde",
+        "set": "Promotion",
+        "text": "Invoca a un guerrero de la Horda aleatorio.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "Robot de reparaci\u00f3n",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Al final de tu turno, restaura 6 p. de salud a un personaje da\u00f1ado.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "Rogues Do It...",
+        "set": "Promotion",
+        "text": "Inflige $4 p. de da\u00f1o. Roba una carta.",
+        "type": "Spell"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transformado",
+        "set": "Promotion",
+        "text": "\u00a1Se ha transformado en un pollo!",
+        "type": "Enchantment"
+    }
+]

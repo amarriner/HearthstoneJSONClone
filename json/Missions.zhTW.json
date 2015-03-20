@@ -1,1 +1,347 @@
-[{"id":"TU4e_001","name":"伊利丹·怒風","set":"Missions","type":"Hero","health":30,"playerClass":"Hunter"},{"id":"TU4f_001","name":"博學行者阿洲","set":"Missions","type":"Hero","health":25},{"id":"TU4e_004","name":"埃辛諾斯戰刃","set":"Missions","type":"Weapon","rarity":"Common","cost":2,"attack":2,"durability":2},{"id":"TU4e_002","name":"埃辛諾斯火焰","set":"Missions","type":"Hero Power","cost":2,"text":"<b>英雄能力</b>\n召喚兩個2/1手下"},{"id":"TU4e_002t","name":"埃辛諾斯火焰","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4a_005","name":"巨大的豺狼人","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":2},{"id":"TU4f_003","name":"影潘武僧","set":"Missions","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2},{"id":"TU4f_004","name":"御傳心法","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"賦予你的手下+2/+2。<i>(+2攻擊力/+2生命值)</i>"},{"id":"TU4f_004o","name":"御傳心法","set":"Missions","type":"Enchantment","text":"擁有+2/+2。<i>(+2攻擊力/+2生命值)</i>"},{"id":"TU4c_002","name":"擲桶","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"造成2點傷害"},{"id":"TU4c_003","name":"桶子","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":0,"health":2,"text":"這個桶子裡面有東西嗎?","inPlayText":"","mechanics":["Deathrattle"]},{"id":"TU4a_002","name":"河爪豺狼人","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4e_005","name":"烈焰爆擊","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"發射5顆飛彈攻擊隨機敵人，每一顆造成$1點傷害"},{"id":"TU4f_002","name":"熊貓人斥候","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4d_002","name":"狂獵人","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4d_003","name":"獵槍衝擊","set":"Missions","type":"Hero Power","rarity":"Common","cost":2,"text":"<b>英雄能力</b>\n造成1點傷害","playerClass":"Hunter"},{"id":"TU4a_006","name":"珍娜·普勞德摩爾","set":"Missions","type":"Hero","rarity":"Common","health":27,"playerClass":"Mage"},{"id":"TU4f_007","name":"瘋狂的猴子","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"<b>戰吼:</b>丟香蕉","mechanics":["Battlecry"]},{"id":"TU4c_001","name":"穆克拉","set":"Missions","type":"Hero","rarity":"Common","health":26},{"id":"TU4c_008e","name":"穆克拉的力量","set":"Missions","type":"Enchantment","text":"穆克拉本回合+8攻擊力","mechanics":["OneTurnEffect"]},{"id":"TU4c_007","name":"穆克拉的大哥","set":"Missions","type":"Minion","rarity":"Common","cost":6,"attack":10,"health":10,"text":"好強!而且只消耗6點法力?!"},{"id":"TU4c_008","name":"穆克拉的意志","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"恢復8點生命值"},{"id":"TU4b_001","name":"米歐浩斯·曼納斯頓","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Mage"},{"id":"TU4e_003","name":"納迦部屬","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1,"text":"<b></b>"},{"id":"TU4a_003","name":"豺狼人","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4d_001","name":"赫米特·奈辛瓦里","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Hunter"},{"id":"TU4f_006o","name":"超凡入聖","set":"Missions","type":"Enchantment","text":"除非你先殺死阿洲的手下，你無法攻擊他"},{"id":"TU4f_006","name":"超凡入聖","set":"Missions","type":"Spell","rarity":"Common","cost":1,"text":"在你殺死阿洲的手下之前，你無法攻擊他"},{"id":"TU4c_004","name":"踐踏","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":2,"text":"對全部敵人造成2點傷害"},{"id":"TU4f_005","name":"釀酒大師","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":4},{"id":"TU4c_005","name":"隱藏的地精","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":2,"attack":1,"health":3,"text":"原本躲在桶子裡!"},{"id":"TU4e_007","name":"雙戰刃","set":"Missions","type":"Weapon","rarity":"Common","cost":6,"attack":4,"durability":2},{"id":"TU4a_001","name":"霍格","set":"Missions","type":"Hero","rarity":"Common","health":10},{"id":"TU4a_004","name":"霍格打打!","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"造成4點傷害"},{"id":"TU4c_006","name":"香蕉","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"賦予一個友方手下+1/+1。<i>(+1攻擊力/+1生命值)</i>"},{"id":"TU4c_006e","name":"香蕉","set":"Missions","type":"Enchantment","text":"這個手下獲得+1/+1。<i>(+1攻擊力/+1生命值)</i>"}]
+[
+    {
+        "health": 30,
+        "id": "TU4e_001",
+        "name": "\u4f0a\u5229\u4e39\u00b7\u6012\u98a8",
+        "playerClass": "Hunter",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "health": 25,
+        "id": "TU4f_001",
+        "name": "\u535a\u5b78\u884c\u8005\u963f\u6d32",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "durability": 2,
+        "id": "TU4e_004",
+        "name": "\u57c3\u8f9b\u8afe\u65af\u6230\u5203",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "cost": 2,
+        "id": "TU4e_002",
+        "name": "\u57c3\u8f9b\u8afe\u65af\u706b\u7130",
+        "set": "Missions",
+        "text": "<b>\u82f1\u96c4\u80fd\u529b</b>\n\u53ec\u559a\u5169\u500b2/1\u624b\u4e0b",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_002t",
+        "name": "\u57c3\u8f9b\u8afe\u65af\u706b\u7130",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 2,
+        "id": "TU4a_005",
+        "name": "\u5de8\u5927\u7684\u8c7a\u72fc\u4eba",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "health": 2,
+        "id": "TU4f_003",
+        "name": "\u5f71\u6f58\u6b66\u50e7",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "TU4f_004",
+        "name": "\u5fa1\u50b3\u5fc3\u6cd5",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u8ce6\u4e88\u4f60\u7684\u624b\u4e0b+2/+2\u3002<i>(+2\u653b\u64ca\u529b/+2\u751f\u547d\u503c)</i>",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4f_004o",
+        "name": "\u5fa1\u50b3\u5fc3\u6cd5",
+        "set": "Missions",
+        "text": "\u64c1\u6709+2/+2\u3002<i>(+2\u653b\u64ca\u529b/+2\u751f\u547d\u503c)</i>",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_002",
+        "name": "\u64f2\u6876",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "faction": "Neutral",
+        "health": 2,
+        "id": "TU4c_003",
+        "inPlayText": "",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u6876\u5b50",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u9019\u500b\u6876\u5b50\u88e1\u9762\u6709\u6771\u897f\u55ce?",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_002",
+        "name": "\u6cb3\u722a\u8c7a\u72fc\u4eba",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "TU4e_005",
+        "name": "\u70c8\u7130\u7206\u64ca",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u767c\u5c045\u9846\u98db\u5f48\u653b\u64ca\u96a8\u6a5f\u6575\u4eba\uff0c\u6bcf\u4e00\u9846\u9020\u6210$1\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4f_002",
+        "name": "\u718a\u8c93\u4eba\u65a5\u5019",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4d_002",
+        "name": "\u72c2\u7375\u4eba",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "TU4d_003",
+        "name": "\u7375\u69cd\u885d\u64ca",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>\u82f1\u96c4\u80fd\u529b</b>\n\u9020\u62101\u9ede\u50b7\u5bb3",
+        "type": "Hero Power"
+    },
+    {
+        "health": 27,
+        "id": "TU4a_006",
+        "name": "\u73cd\u5a1c\u00b7\u666e\u52de\u5fb7\u6469\u723e",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 2,
+        "id": "TU4f_007",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u760b\u72c2\u7684\u7334\u5b50",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>\u6230\u543c:</b>\u4e1f\u9999\u8549",
+        "type": "Minion"
+    },
+    {
+        "health": 26,
+        "id": "TU4c_001",
+        "name": "\u7a46\u514b\u62c9",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "id": "TU4c_008e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "\u7a46\u514b\u62c9\u7684\u529b\u91cf",
+        "set": "Missions",
+        "text": "\u7a46\u514b\u62c9\u672c\u56de\u5408+8\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 10,
+        "cost": 6,
+        "health": 10,
+        "id": "TU4c_007",
+        "name": "\u7a46\u514b\u62c9\u7684\u5927\u54e5",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u597d\u5f37!\u800c\u4e14\u53ea\u6d88\u80176\u9ede\u6cd5\u529b?!",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "TU4c_008",
+        "name": "\u7a46\u514b\u62c9\u7684\u610f\u5fd7",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u6062\u5fa98\u9ede\u751f\u547d\u503c",
+        "type": "Spell"
+    },
+    {
+        "health": 20,
+        "id": "TU4b_001",
+        "name": "\u7c73\u6b50\u6d69\u65af\u00b7\u66fc\u7d0d\u65af\u9813",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_003",
+        "name": "\u7d0d\u8fe6\u90e8\u5c6c",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b></b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_003",
+        "name": "\u8c7a\u72fc\u4eba",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "health": 20,
+        "id": "TU4d_001",
+        "name": "\u8d6b\u7c73\u7279\u00b7\u5948\u8f9b\u74e6\u91cc",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "id": "TU4f_006o",
+        "name": "\u8d85\u51e1\u5165\u8056",
+        "set": "Missions",
+        "text": "\u9664\u975e\u4f60\u5148\u6bba\u6b7b\u963f\u6d32\u7684\u624b\u4e0b\uff0c\u4f60\u7121\u6cd5\u653b\u64ca\u4ed6",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 1,
+        "id": "TU4f_006",
+        "name": "\u8d85\u51e1\u5165\u8056",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u5728\u4f60\u6bba\u6b7b\u963f\u6d32\u7684\u624b\u4e0b\u4e4b\u524d\uff0c\u4f60\u7121\u6cd5\u653b\u64ca\u4ed6",
+        "type": "Spell"
+    },
+    {
+        "cost": 2,
+        "faction": "Neutral",
+        "id": "TU4c_004",
+        "name": "\u8e10\u8e0f",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u5c0d\u5168\u90e8\u6575\u4eba\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "attack": 4,
+        "cost": 4,
+        "health": 4,
+        "id": "TU4f_005",
+        "name": "\u91c0\u9152\u5927\u5e2b",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 2,
+        "faction": "Neutral",
+        "health": 3,
+        "id": "TU4c_005",
+        "name": "\u96b1\u85cf\u7684\u5730\u7cbe",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u539f\u672c\u8eb2\u5728\u6876\u5b50\u88e1!",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 6,
+        "durability": 2,
+        "id": "TU4e_007",
+        "name": "\u96d9\u6230\u5203",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "health": 10,
+        "id": "TU4a_001",
+        "name": "\u970d\u683c",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 3,
+        "id": "TU4a_004",
+        "name": "\u970d\u683c\u6253\u6253!",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u9020\u62104\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_006",
+        "name": "\u9999\u8549",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u53cb\u65b9\u624b\u4e0b+1/+1\u3002<i>(+1\u653b\u64ca\u529b/+1\u751f\u547d\u503c)</i>",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4c_006e",
+        "name": "\u9999\u8549",
+        "set": "Missions",
+        "text": "\u9019\u500b\u624b\u4e0b\u7372\u5f97+1/+1\u3002<i>(+1\u653b\u64ca\u529b/+1\u751f\u547d\u503c)</i>",
+        "type": "Enchantment"
+    }
+]

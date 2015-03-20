@@ -1,1 +1,45 @@
-[{"id":"EX1_062","name":"老瞎眼","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>冲锋</b>，在战场上每有一个其他鱼人便获得+1攻击力。","inPlayText":"","flavor":"他是鱼人中的传奇。“姆咯啦咯咯啦呵嘎哈咯！”他们都这么说他。","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"集齐所有经典鱼人牌后解锁。","howToGetGold":"集齐所有金色经典和基本鱼人牌后解锁。","mechanics":["Charge"]},{"id":"NEW1_016","name":"船长的鹦鹉","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>战吼：</b>随机从你的牌库中将一张海盗牌置入你的手牌。","flavor":"海盗和鹦鹉形影不离，就像兔妖和胡萝卜。","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"集齐所有经典海盗牌后解锁。","howToGetGold":"集齐所有金色经典海盗牌后解锁。","mechanics":["Battlecry"]}]
+[
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "\u4ed6\u662f\u9c7c\u4eba\u4e2d\u7684\u4f20\u5947\u3002\u201c\u59c6\u54af\u5566\u54af\u54af\u5566\u5475\u560e\u54c8\u54af\uff01\u201d\u4ed6\u4eec\u90fd\u8fd9\u4e48\u8bf4\u4ed6\u3002",
+        "health": 4,
+        "howToGet": "\u96c6\u9f50\u6240\u6709\u7ecf\u5178\u9c7c\u4eba\u724c\u540e\u89e3\u9501\u3002",
+        "howToGetGold": "\u96c6\u9f50\u6240\u6709\u91d1\u8272\u7ecf\u5178\u548c\u57fa\u672c\u9c7c\u4eba\u724c\u540e\u89e3\u9501\u3002",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "\u8001\u778e\u773c",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>\u51b2\u950b</b>\uff0c\u5728\u6218\u573a\u4e0a\u6bcf\u6709\u4e00\u4e2a\u5176\u4ed6\u9c7c\u4eba\u4fbf\u83b7\u5f97+1\u653b\u51fb\u529b\u3002",
+        "type": "Minion"
+    },
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u6d77\u76d7\u548c\u9e66\u9e49\u5f62\u5f71\u4e0d\u79bb\uff0c\u5c31\u50cf\u5154\u5996\u548c\u80e1\u841d\u535c\u3002",
+        "health": 1,
+        "howToGet": "\u96c6\u9f50\u6240\u6709\u7ecf\u5178\u6d77\u76d7\u724c\u540e\u89e3\u9501\u3002",
+        "howToGetGold": "\u96c6\u9f50\u6240\u6709\u91d1\u8272\u7ecf\u5178\u6d77\u76d7\u724c\u540e\u89e3\u9501\u3002",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u8239\u957f\u7684\u9e66\u9e49",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>\u6218\u543c\uff1a</b>\u968f\u673a\u4ece\u4f60\u7684\u724c\u5e93\u4e2d\u5c06\u4e00\u5f20\u6d77\u76d7\u724c\u7f6e\u5165\u4f60\u7684\u624b\u724c\u3002",
+        "type": "Minion"
+    }
+]

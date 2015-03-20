@@ -1,1 +1,159 @@
-[{"id":"Mekka3","name":"강화 구슬 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"내 턴이 끝날 때, 무작위 하수인 하나에게 +1/+1을 부여합니다.","inPlayText":"","race":"Mech"},{"id":"Mekka3e","name":"강화됨!","set":"Promotion","type":"Enchantment","text":"능력치 증가"},{"id":"EX1_112","name":"겔빈 멕카토크","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>전투의 함성:</b> 끝내주는 발명품을 1개 소환합니다.","flavor":"노움의 지도자이자 엄청난 발명가입니다. 게다가 실력도 조금씩 나아지고 있죠. 뭐든 닭으로 만들어버리는 빈도가 <b>많이</b> 줄었으니까요.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"베타 때 상점 테스트를 도와주신 플레이어들께 드리는 보상","mechanics":["Battlecry"]},{"id":"Mekka4","name":"꼬꼬댁 변신장치","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"내 턴이 시작될 때, 무작위 하수인 하나를 1/1 닭으로 변신시킵니다.","inPlayText":"","race":"Mech"},{"id":"PRO_001a","name":"나는야 멀록","set":"Promotion","type":"Spell","cost":4,"text":"3마리, 4마리, 또는 5마리 1/1 멀록을 소환합니다."},{"id":"Mekka4t","name":"닭","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>오, 닭이다!</i>","race":"Beast"},{"id":"PRO_001b","name":"도적은 뒤를 치지...","set":"Promotion","type":"Spell","cost":4,"text":"피해를 $4 줍니다. 카드를 1장 뽑습니다."},{"id":"PRO_001at","name":"멀록","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4e","name":"변신","set":"Promotion","type":"Enchantment","text":"닭으로 변신!","mechanics":["Morph"]},{"id":"Mekka2","name":"수리로봇","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"내 턴이 끝날 때, 피해를 입은 캐릭터 하나의 생명력을 6 회복시킵니다.","inPlayText":"","race":"Mech"},{"id":"Mekka1","name":"유도 닭","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"내 턴이 시작될 때, 이 하수인을 파괴하고 카드를 세 장 뽑습니다.","inPlayText":"","race":"Mech"},{"id":"PRO_001","name":"정예 타우렌 족장","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>전투의 함성:</b> 두 플레이어 모두 파워 코드 카드를 1장 뽑고 <b>로큰롤</b>에 흠뻑 취합니다!","flavor":"현재 드러머를 구하는 중입니다. 풋내기 기술자, 센진 방패대가, 불의 군주 라그나로스가 후보라네요.","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"블리즈컨 2013 참가 보상","mechanics":["Battlecry"]},{"id":"PRO_001c","name":"호드의 힘","set":"Promotion","type":"Spell","cost":4,"text":"무작위 호드 전사 하나를 소환합니다."}]
+[
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "\uac15\ud654 \uad6c\uc2ac 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\ub0b4 \ud134\uc774 \ub05d\ub0a0 \ub54c, \ubb34\uc791\uc704 \ud558\uc218\uc778 \ud558\ub098\uc5d0\uac8c +1/+1\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "\uac15\ud654\ub428!",
+        "set": "Promotion",
+        "text": "\ub2a5\ub825\uce58 \uc99d\uac00",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "\ub178\uc6c0\uc758 \uc9c0\ub3c4\uc790\uc774\uc790 \uc5c4\uccad\ub09c \ubc1c\uba85\uac00\uc785\ub2c8\ub2e4. \uac8c\ub2e4\uac00 \uc2e4\ub825\ub3c4 \uc870\uae08\uc529 \ub098\uc544\uc9c0\uace0 \uc788\uc8e0. \ubb50\ub4e0 \ub2ed\uc73c\ub85c \ub9cc\ub4e4\uc5b4\ubc84\ub9ac\ub294 \ube48\ub3c4\uac00 <b>\ub9ce\uc774</b> \uc904\uc5c8\uc73c\ub2c8\uae4c\uc694.",
+        "health": 6,
+        "howToGetGold": "\ubca0\ud0c0 \ub54c \uc0c1\uc810 \ud14c\uc2a4\ud2b8\ub97c \ub3c4\uc640\uc8fc\uc2e0 \ud50c\ub808\uc774\uc5b4\ub4e4\uaed8 \ub4dc\ub9ac\ub294 \ubcf4\uc0c1",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\uac94\ube48 \uba55\uce74\ud1a0\ud06c",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ub05d\ub0b4\uc8fc\ub294 \ubc1c\uba85\ud488\uc744 1\uac1c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "\uaf2c\uaf2c\ub301 \ubcc0\uc2e0\uc7a5\uce58",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \ubb34\uc791\uc704 \ud558\uc218\uc778 \ud558\ub098\ub97c 1/1 \ub2ed\uc73c\ub85c \ubcc0\uc2e0\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "\ub098\ub294\uc57c \uba40\ub85d",
+        "set": "Promotion",
+        "text": "3\ub9c8\ub9ac, 4\ub9c8\ub9ac, \ub610\ub294 5\ub9c8\ub9ac 1/1 \uba40\ub85d\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "\ub2ed",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>\uc624, \ub2ed\uc774\ub2e4!</i>",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "\ub3c4\uc801\uc740 \ub4a4\ub97c \uce58\uc9c0...",
+        "set": "Promotion",
+        "text": "\ud53c\ud574\ub97c $4 \uc90d\ub2c8\ub2e4. \uce74\ub4dc\ub97c 1\uc7a5 \ubf51\uc2b5\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "\uba40\ub85d",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "\ubcc0\uc2e0",
+        "set": "Promotion",
+        "text": "\ub2ed\uc73c\ub85c \ubcc0\uc2e0!",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "\uc218\ub9ac\ub85c\ubd07",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\ub0b4 \ud134\uc774 \ub05d\ub0a0 \ub54c, \ud53c\ud574\ub97c \uc785\uc740 \uce90\ub9ad\ud130 \ud558\ub098\uc758 \uc0dd\uba85\ub825\uc744 6 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "\uc720\ub3c4 \ub2ed",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \uc774 \ud558\uc218\uc778\uc744 \ud30c\uad34\ud558\uace0 \uce74\ub4dc\ub97c \uc138 \uc7a5 \ubf51\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\ud604\uc7ac \ub4dc\ub7ec\uba38\ub97c \uad6c\ud558\ub294 \uc911\uc785\ub2c8\ub2e4. \ud48b\ub0b4\uae30 \uae30\uc220\uc790, \uc13c\uc9c4 \ubc29\ud328\ub300\uac00, \ubd88\uc758 \uad70\uc8fc \ub77c\uadf8\ub098\ub85c\uc2a4\uac00 \ud6c4\ubcf4\ub77c\ub124\uc694.",
+        "health": 5,
+        "howToGetGold": "\ube14\ub9ac\uc988\ucee8 2013 \ucc38\uac00 \ubcf4\uc0c1",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\uc815\uc608 \ud0c0\uc6b0\ub80c \uc871\uc7a5",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ub450 \ud50c\ub808\uc774\uc5b4 \ubaa8\ub450 \ud30c\uc6cc \ucf54\ub4dc \uce74\ub4dc\ub97c 1\uc7a5 \ubf51\uace0 <b>\ub85c\ud070\ub864</b>\uc5d0 \ud760\ubed1 \ucde8\ud569\ub2c8\ub2e4!",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "\ud638\ub4dc\uc758 \ud798",
+        "set": "Promotion",
+        "text": "\ubb34\uc791\uc704 \ud638\ub4dc \uc804\uc0ac \ud558\ub098\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    }
+]

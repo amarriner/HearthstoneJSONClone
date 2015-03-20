@@ -1,1 +1,159 @@
-[{"id":"PRO_001a","name":"«I Am Murloc»","set":"Promotion","type":"Spell","cost":4,"text":"Призывает на поле боя три, четыре или пять мурлоков 1/1."},{"id":"PRO_001c","name":"«Power of the Horde»","set":"Promotion","type":"Spell","cost":4,"text":"Призывает на поле боя случайного воина Орды."},{"id":"PRO_001b","name":"«Rogues Do It...»","set":"Promotion","type":"Spell","cost":4,"text":"Наносит $4 ед. урона. Вы берете карту."},{"id":"PRO_001","name":"E.T.C.","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Боевой клич:</b> оба игрока получают силу РОКА! (а также одну из карт серии «Мощный аккорд»)","flavor":"Внимание! Группе требуется барабанщик! Текущие кандидаты: инженер-новичок, щитоносец Сен'джин и Рагнарос.","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Награда за посещение или приобретение виртуального билета BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"Mekka3","name":"Воодушевитель 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"В конце вашего хода случайное существо получает +1/+1.","inPlayText":"","race":"Mech"},{"id":"Mekka3e","name":"Воодушевление!","set":"Promotion","type":"Enchantment","text":"Характеристики увеличены."},{"id":"EX1_112","name":"Гелбин Меггакрут","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Боевой клич:</b> призывает на поле боя удивительное изобретение.","flavor":"Предводитель гномов и выдающийся изобретатель. Надо заметить, теперь он гораздо реже превращает предметы в куриц.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Награда игрокам, помогавшим в тестировании магазина на стадии бета-тестирования.","mechanics":["Battlecry"]},{"id":"Mekka4t","name":"Курица","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>Эй, цыпа!</i>","race":"Beast"},{"id":"PRO_001at","name":"Мурлок","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4e","name":"Превращение","set":"Promotion","type":"Enchantment","text":"Превращение в курицу!","mechanics":["Morph"]},{"id":"Mekka4","name":"Птицефикатор","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"В начале вашего хода случайное существо превращается в курицу 1/1.","inPlayText":"","race":"Mech"},{"id":"Mekka2","name":"Ремонтный робот","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"В конце вашего хода восстанавливает 6 ед. здоровья персонажу с неполным здоровьем.","inPlayText":"","race":"Mech"},{"id":"Mekka1","name":"Самонаводящаяся курица","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"В начале вашего хода это существо будет уничтожено. Вы берете 3 карты.","inPlayText":"","race":"Mech"}]
+[
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "\u00abI Am Murloc\u00bb",
+        "set": "Promotion",
+        "text": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f \u0442\u0440\u0438, \u0447\u0435\u0442\u044b\u0440\u0435 \u0438\u043b\u0438 \u043f\u044f\u0442\u044c \u043c\u0443\u0440\u043b\u043e\u043a\u043e\u0432 1/1.",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "\u00abPower of the Horde\u00bb",
+        "set": "Promotion",
+        "text": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u0432\u043e\u0438\u043d\u0430 \u041e\u0440\u0434\u044b.",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "\u00abRogues Do It...\u00bb",
+        "set": "Promotion",
+        "text": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 $4 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u0412\u044b \u0431\u0435\u0440\u0435\u0442\u0435 \u043a\u0430\u0440\u0442\u0443.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435! \u0413\u0440\u0443\u043f\u043f\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0431\u0430\u0440\u0430\u0431\u0430\u043d\u0449\u0438\u043a! \u0422\u0435\u043a\u0443\u0449\u0438\u0435 \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442\u044b: \u0438\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u043e\u0432\u0438\u0447\u043e\u043a, \u0449\u0438\u0442\u043e\u043d\u043e\u0441\u0435\u0446 \u0421\u0435\u043d'\u0434\u0436\u0438\u043d \u0438 \u0420\u0430\u0433\u043d\u0430\u0440\u043e\u0441.",
+        "health": 5,
+        "howToGetGold": "\u041d\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u043f\u043e\u0441\u0435\u0449\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0438\u043b\u0435\u0442\u0430 BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "E.T.C.",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\u0411\u043e\u0435\u0432\u043e\u0439 \u043a\u043b\u0438\u0447:</b> \u043e\u0431\u0430 \u0438\u0433\u0440\u043e\u043a\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0441\u0438\u043b\u0443 \u0420\u041e\u041a\u0410! (\u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0434\u043d\u0443 \u0438\u0437 \u043a\u0430\u0440\u0442 \u0441\u0435\u0440\u0438\u0438 \u00ab\u041c\u043e\u0449\u043d\u044b\u0439 \u0430\u043a\u043a\u043e\u0440\u0434\u00bb)",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "\u0412\u043e\u043e\u0434\u0443\u0448\u0435\u0432\u0438\u0442\u0435\u043b\u044c 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u0412 \u043a\u043e\u043d\u0446\u0435 \u0432\u0430\u0448\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 +1/+1.",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "\u0412\u043e\u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0435\u043d\u0438\u0435!",
+        "set": "Promotion",
+        "text": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u044b.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "\u041f\u0440\u0435\u0434\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0433\u043d\u043e\u043c\u043e\u0432 \u0438 \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c. \u041d\u0430\u0434\u043e \u0437\u0430\u043c\u0435\u0442\u0438\u0442\u044c, \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u043d \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0440\u0435\u0436\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u0432 \u043a\u0443\u0440\u0438\u0446.",
+        "health": 6,
+        "howToGetGold": "\u041d\u0430\u0433\u0440\u0430\u0434\u0430 \u0438\u0433\u0440\u043e\u043a\u0430\u043c, \u043f\u043e\u043c\u043e\u0433\u0430\u0432\u0448\u0438\u043c \u0432 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 \u043d\u0430 \u0441\u0442\u0430\u0434\u0438\u0438 \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u0413\u0435\u043b\u0431\u0438\u043d \u041c\u0435\u0433\u0433\u0430\u043a\u0440\u0443\u0442",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\u0411\u043e\u0435\u0432\u043e\u0439 \u043a\u043b\u0438\u0447:</b> \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "\u041a\u0443\u0440\u0438\u0446\u0430",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>\u042d\u0439, \u0446\u044b\u043f\u0430!</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "\u041c\u0443\u0440\u043b\u043e\u043a",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435",
+        "set": "Promotion",
+        "text": "\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0432 \u043a\u0443\u0440\u0438\u0446\u0443!",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "\u041f\u0442\u0438\u0446\u0435\u0444\u0438\u043a\u0430\u0442\u043e\u0440",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u0412 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u0430\u0448\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043a\u0443\u0440\u0438\u0446\u0443 1/1.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "\u0420\u0435\u043c\u043e\u043d\u0442\u043d\u044b\u0439 \u0440\u043e\u0431\u043e\u0442",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u0412 \u043a\u043e\u043d\u0446\u0435 \u0432\u0430\u0448\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 6 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0443 \u0441 \u043d\u0435\u043f\u043e\u043b\u043d\u044b\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435\u043c.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "\u0421\u0430\u043c\u043e\u043d\u0430\u0432\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u043a\u0443\u0440\u0438\u0446\u0430",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u0412 \u043d\u0430\u0447\u0430\u043b\u0435 \u0432\u0430\u0448\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u044d\u0442\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0431\u0443\u0434\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u043e. \u0412\u044b \u0431\u0435\u0440\u0435\u0442\u0435 3 \u043a\u0430\u0440\u0442\u044b.",
+        "type": "Minion"
+    }
+]

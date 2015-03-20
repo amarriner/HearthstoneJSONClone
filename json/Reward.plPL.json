@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Papuga kapitana","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Okrzyk bojowy:</b> Umieść w ręce losowego Pirata z twojej talii.","flavor":"Te niezwykłe ptaki często zastygają bez ruchu po długim i wyczerpującym skrzeczeniu. Przypuszczalnie usychają z tęsknoty za fiordami.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Odblokowane kiedy zdobędziesz wszystkich piratów z zestawu eksperckiego.","howToGetGold":"Odblokowane kiedy zdobędziesz wszystkich złotych piratów z zestawu eksperckiego.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Stary Mętnooki","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Szarża</b>. Otrzymuje +1 do ataku za każdego innego Murloka na polu bitwy.","inPlayText":"","flavor":"To prawdziwa legenda wśród murloków. „Mrghllghghllghg!”, powiadają.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Odblokowane kiedy zdobędziesz wszystkie murloki z zestawu eksperckiego.","howToGetGold":"Odblokowane kiedy zdobędziesz wszystkie złote murloki z zestawu eksperckiego.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Te niezwyk\u0142e ptaki cz\u0119sto zastygaj\u0105 bez ruchu po d\u0142ugim i wyczerpuj\u0105cym skrzeczeniu. Przypuszczalnie usychaj\u0105 z t\u0119sknoty za fiordami.",
+        "health": 1,
+        "howToGet": "Odblokowane kiedy zdob\u0119dziesz wszystkich pirat\u00f3w z zestawu eksperckiego.",
+        "howToGetGold": "Odblokowane kiedy zdob\u0119dziesz wszystkich z\u0142otych pirat\u00f3w z zestawu eksperckiego.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Papuga kapitana",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Okrzyk bojowy:</b> Umie\u015b\u0107 w r\u0119ce losowego Pirata z twojej talii.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "To prawdziwa legenda w\u015br\u00f3d murlok\u00f3w. \u201eMrghllghghllghg!\u201d, powiadaj\u0105.",
+        "health": 4,
+        "howToGet": "Odblokowane kiedy zdob\u0119dziesz wszystkie murloki z zestawu eksperckiego.",
+        "howToGetGold": "Odblokowane kiedy zdob\u0119dziesz wszystkie z\u0142ote murloki z zestawu eksperckiego.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Stary M\u0119tnooki",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Szar\u017ca</b>. Otrzymuje +1 do ataku za ka\u017cdego innego Murloka na polu bitwy.",
+        "type": "Minion"
+    }
+]

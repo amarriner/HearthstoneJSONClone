@@ -1,1 +1,347 @@
-[{"id":"TU4a_004","name":"¡Hogger APLASTA!","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Inflige 4 de daño."},{"id":"TU4c_006e","name":"Bananas","set":"Missions","type":"Enchantment","text":"Este esbirro tiene +1/+1. <i>(+1 de Ataque/+1 de Salud)</i>"},{"id":"TU4c_006","name":"Bananas","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"Otorga +1/+1 a un esbirro aliado. <i>(+1 de Ataque/+1 de Salud)</i>"},{"id":"TU4c_003","name":"Barril","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":0,"health":2,"text":"¿Hay algo en este barril?","inPlayText":"","mechanics":["Deathrattle"]},{"id":"TU4d_002","name":"Cazador enloquecido","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4d_003","name":"Disparo de escopeta","set":"Missions","type":"Hero Power","rarity":"Common","cost":2,"text":"<b>Poder de héroe</b>\nInflige 1 de daño.","playerClass":"Hunter"},{"id":"TU4f_001","name":"Eremita Cho","set":"Missions","type":"Hero","health":25},{"id":"TU4f_002","name":"Explorador pandaren","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4a_003","name":"Gnoll","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1},{"id":"TU4a_005","name":"Gnoll gigante","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":2},{"id":"TU4a_002","name":"Gnoll zarparrío","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4c_005","name":"Gnomo oculto","set":"Missions","type":"Minion","faction":"Neutral","rarity":"Common","cost":2,"attack":1,"health":3,"text":"¡Estaba escondido en un barril!"},{"id":"TU4e_004","name":"Guja de guerra de Azzinoth","set":"Missions","type":"Weapon","rarity":"Common","cost":2,"attack":2,"durability":2},{"id":"TU4e_007","name":"Gujas de guerra dobles","set":"Missions","type":"Weapon","rarity":"Common","cost":6,"attack":4,"durability":2},{"id":"TU4d_001","name":"Hemet Nesingwary","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Hunter"},{"id":"TU4c_007","name":"Hermano mayor de Mukla","set":"Missions","type":"Minion","rarity":"Common","cost":6,"attack":10,"health":10,"text":"¡¿Tan poderoso y solo cuesta 6 de maná?!"},{"id":"TU4a_001","name":"Hogger","set":"Missions","type":"Hero","rarity":"Common","health":10},{"id":"TU4e_001","name":"Illidan Tempestira","set":"Missions","type":"Hero","health":30,"playerClass":"Hunter"},{"id":"TU4a_006","name":"Jaina Valiente","set":"Missions","type":"Hero","rarity":"Common","health":27,"playerClass":"Mage"},{"id":"TU4c_002","name":"Lanzar barril","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":1,"text":"Inflige 2 de daño."},{"id":"TU4f_004","name":"Legado del Emperador","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Otorga +2/+2 a tus esbirros. <i>(+2 de Ataque/+2 de Salud)</i>"},{"id":"TU4f_004o","name":"Legado del Emperador","set":"Missions","type":"Enchantment","text":"Tiene +2/+2. <i>(+2 de Ataque/+2 de Salud)</i>"},{"id":"TU4e_002t","name":"Llama de Azzinoth","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1},{"id":"TU4e_002","name":"Llamas de Azzinoth","set":"Missions","type":"Hero Power","cost":2,"text":"<b>Poder de héroe</b>\nInvoca dos esbirros 2/1."},{"id":"TU4f_005","name":"Maestro cervecero","set":"Missions","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":4},{"id":"TU4e_003","name":"Mirmidón naga","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1,"text":"<b></b>"},{"id":"TU4b_001","name":"Molino Tormenta de Maná","set":"Missions","type":"Hero","rarity":"Common","health":20,"playerClass":"Mage"},{"id":"TU4f_003","name":"Monje del Shadopan","set":"Missions","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2},{"id":"TU4f_007","name":"Mono chiflado","set":"Missions","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"<b>Grito de batalla:</b> arroja Bananas.","mechanics":["Battlecry"]},{"id":"TU4c_004","name":"Pisotón","set":"Missions","type":"Spell","faction":"Neutral","rarity":"Common","cost":2,"text":"Inflige 2 de daño a todos los enemigos."},{"id":"TU4c_008e","name":"Poderío de Mukla","set":"Missions","type":"Enchantment","text":"El Rey Mukla tiene +8 de Ataque en este turno.","mechanics":["OneTurnEffect"]},{"id":"TU4e_005","name":"Ráfaga de llamas","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Dispara 5 misiles a enemigos aleatorios que infligen $1 de daño a cada uno."},{"id":"TU4c_001","name":"Rey Mukla","set":"Missions","type":"Hero","rarity":"Common","health":26},{"id":"TU4f_006","name":"Trascendencia","set":"Missions","type":"Spell","rarity":"Common","cost":1,"text":"Hasta que no mates a los esbirros de Cho, no podrás atacarlo."},{"id":"TU4f_006o","name":"Trascendencia","set":"Missions","type":"Enchantment","text":"Hasta que no mates a los esbirros de Cho, no podrás atacarlo."},{"id":"TU4c_008","name":"Voluntad de Mukla","set":"Missions","type":"Spell","rarity":"Common","cost":3,"text":"Restaura 8 de Salud."}]
+[
+    {
+        "cost": 3,
+        "id": "TU4a_004",
+        "name": "\u00a1Hogger APLASTA!",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 4 de da\u00f1o.",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4c_006e",
+        "name": "Bananas",
+        "set": "Missions",
+        "text": "Este esbirro tiene +1/+1. <i>(+1 de Ataque/+1 de Salud)</i>",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_006",
+        "name": "Bananas",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Otorga +1/+1 a un esbirro aliado. <i>(+1 de Ataque/+1 de Salud)</i>",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "faction": "Neutral",
+        "health": 2,
+        "id": "TU4c_003",
+        "inPlayText": "",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Barril",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u00bfHay algo en este barril?",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4d_002",
+        "name": "Cazador enloquecido",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "TU4d_003",
+        "name": "Disparo de escopeta",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>Poder de h\u00e9roe</b>\nInflige 1 de da\u00f1o.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 25,
+        "id": "TU4f_001",
+        "name": "Eremita Cho",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4f_002",
+        "name": "Explorador pandaren",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_003",
+        "name": "Gnoll",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 2,
+        "id": "TU4a_005",
+        "name": "Gnoll gigante",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4a_002",
+        "name": "Gnoll zarparr\u00edo",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 2,
+        "faction": "Neutral",
+        "health": 3,
+        "id": "TU4c_005",
+        "name": "Gnomo oculto",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u00a1Estaba escondido en un barril!",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "durability": 2,
+        "id": "TU4e_004",
+        "name": "Guja de guerra de Azzinoth",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "attack": 4,
+        "cost": 6,
+        "durability": 2,
+        "id": "TU4e_007",
+        "name": "Gujas de guerra dobles",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Weapon"
+    },
+    {
+        "health": 20,
+        "id": "TU4d_001",
+        "name": "Hemet Nesingwary",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 10,
+        "cost": 6,
+        "health": 10,
+        "id": "TU4c_007",
+        "name": "Hermano mayor de Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "\u00a1\u00bfTan poderoso y solo cuesta 6 de man\u00e1?!",
+        "type": "Minion"
+    },
+    {
+        "health": 10,
+        "id": "TU4a_001",
+        "name": "Hogger",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "TU4e_001",
+        "name": "Illidan Tempestira",
+        "playerClass": "Hunter",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "health": 27,
+        "id": "TU4a_006",
+        "name": "Jaina Valiente",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 1,
+        "faction": "Neutral",
+        "id": "TU4c_002",
+        "name": "Lanzar barril",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 2 de da\u00f1o.",
+        "type": "Spell"
+    },
+    {
+        "cost": 3,
+        "id": "TU4f_004",
+        "name": "Legado del Emperador",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Otorga +2/+2 a tus esbirros. <i>(+2 de Ataque/+2 de Salud)</i>",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4f_004o",
+        "name": "Legado del Emperador",
+        "set": "Missions",
+        "text": "Tiene +2/+2. <i>(+2 de Ataque/+2 de Salud)</i>",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_002t",
+        "name": "Llama de Azzinoth",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "TU4e_002",
+        "name": "Llamas de Azzinoth",
+        "set": "Missions",
+        "text": "<b>Poder de h\u00e9roe</b>\nInvoca dos esbirros 2/1.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 4,
+        "cost": 4,
+        "health": 4,
+        "id": "TU4f_005",
+        "name": "Maestro cervecero",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "TU4e_003",
+        "name": "Mirmid\u00f3n naga",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b></b>",
+        "type": "Minion"
+    },
+    {
+        "health": 20,
+        "id": "TU4b_001",
+        "name": "Molino Tormenta de Man\u00e1",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "attack": 2,
+        "cost": 2,
+        "health": 2,
+        "id": "TU4f_003",
+        "name": "Monje del Shadopan",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 2,
+        "id": "TU4f_007",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Mono chiflado",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "<b>Grito de batalla:</b> arroja Bananas.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "faction": "Neutral",
+        "id": "TU4c_004",
+        "name": "Pisot\u00f3n",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Inflige 2 de da\u00f1o a todos los enemigos.",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4c_008e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Poder\u00edo de Mukla",
+        "set": "Missions",
+        "text": "El Rey Mukla tiene +8 de Ataque en este turno.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 3,
+        "id": "TU4e_005",
+        "name": "R\u00e1faga de llamas",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Dispara 5 misiles a enemigos aleatorios que infligen $1 de da\u00f1o a cada uno.",
+        "type": "Spell"
+    },
+    {
+        "health": 26,
+        "id": "TU4c_001",
+        "name": "Rey Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "type": "Hero"
+    },
+    {
+        "cost": 1,
+        "id": "TU4f_006",
+        "name": "Trascendencia",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Hasta que no mates a los esbirros de Cho, no podr\u00e1s atacarlo.",
+        "type": "Spell"
+    },
+    {
+        "id": "TU4f_006o",
+        "name": "Trascendencia",
+        "set": "Missions",
+        "text": "Hasta que no mates a los esbirros de Cho, no podr\u00e1s atacarlo.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 3,
+        "id": "TU4c_008",
+        "name": "Voluntad de Mukla",
+        "rarity": "Common",
+        "set": "Missions",
+        "text": "Restaura 8 de Salud.",
+        "type": "Spell"
+    }
+]

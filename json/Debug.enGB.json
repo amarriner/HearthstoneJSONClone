@@ -1,1 +1,536 @@
-[{"id":"XXX_048","name":"-1 Durability","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Give a player's weapon -1 Durability."},{"id":"XXX_055","name":"1000 Stats","set":"Debug","type":"Spell","cost":0,"text":"Give a Minion +1000/+1000"},{"id":"XXX_055e","name":"1000 Stats Enchant","set":"Debug","type":"Enchantment"},{"id":"XXX_095","name":"AI Buddy - All Charge!","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"text":"Spawn into play to give all minions <b>Charge</b>."},{"id":"XXX_094","name":"AI Buddy - Blank Slate","set":"Debug","type":"Minion","attack":1,"health":1,"text":"Spawn into play to clear the entire board, both hands, both decks, all mana and all secrets.","cost":0},{"id":"XXX_096","name":"AI Buddy - Damage Own Hero 5","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"text":"Spawn into play to smack your own hero for 5."},{"id":"XXX_097","name":"AI Buddy - Destroy Minions","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":"Spawn into play to destroy all minions."},{"id":"XXX_098","name":"AI Buddy - No Deck/Hand","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":"Spawn into play to destroy the AI's Hand and Deck."},{"id":"XXX_099","name":"AI Helper Buddy","set":"Debug","type":"Minion","cost":0,"attack":1,"health":1,"durability":0,"text":"Get the AI ready for testing.","elite":false},{"id":"XXX_053","name":"Armor","set":"Debug","type":"Spell","cost":0,"text":"Give your Hero +100 Armor"},{"id":"XXX_039","name":"Become Hogger","set":"Debug","type":"Spell","cost":0,"text":"Become Hogger for Video Recording."},{"id":"XXX_012","name":"Bounce","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Return a minion to its owner's hand."},{"id":"XXX_006","name":"Break Weapon","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy a hero's weapon."},{"id":"XXX_015","name":"Crash","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Crash the game."},{"id":"XXX_001","name":"Damage 1","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Deal 1 damage.","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_002","name":"Damage 5","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Deal 5 damage.","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_020","name":"Damage all but 1","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Set the Health of a character to 1.","mechanics":["ImmuneToSpellpower"]},{"id":"XXX_024","name":"Damage Reflector","set":"Debug","type":"Minion","rarity":"Common","cost":0,"attack":3,"health":10,"text":"Whenever this minion takes damage, deal 1 damage to ALL other characters."},{"id":"XXX_005","name":"Destroy","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy a minion or hero."},{"id":"XXX_050","name":"Destroy a Mana Crystal","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Pick a player and destroy one of his Mana Crystals."},{"id":"XXX_023","name":"Destroy All Heroes","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy all heroes."},{"id":"XXX_049","name":"Destroy all Mana","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy all of a player's Mana Crystals."},{"id":"XXX_018","name":"Destroy All Minions","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy all minions."},{"id":"XXX_047","name":"Destroy Deck","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Delete an opponent's deck"},{"id":"XXX_041","name":"Destroy Hero Power","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Destroy a player's Hero Power."},{"id":"XXX_057","name":"Destroy Secrets","set":"Debug","type":"Spell","cost":0,"text":"Choose a hero. Destroy all <b>Secrets</b> controlled by that hero."},{"id":"XXX_013","name":"Discard","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Choose a hero.  That hero's controller discards his hand."},{"id":"XXX_025","name":"Do Nothing","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"This does nothing."},{"id":"XXX_017","name":"Draw 3 Cards","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Draw 3 cards."},{"id":"XXX_009e","name":"Empty Enchant","set":"Debug","type":"Enchantment","rarity":"Common","text":"This enchantment does nothing."},{"id":"XXX_026","name":"Enable Emotes","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Enable emotes for your VS.AI game. (not in tutorials, though)"},{"id":"XXX_007","name":"Enable for Attack","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Give a character Charge and make him able to attack!"},{"id":"XXX_009","name":"Enchant","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Enchant a minion with an empty enchant."},{"id":"XXX_046","name":"Force AI to Use Hero Power","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Force the AI to use their Hero Power every turn from now on."},{"id":"XXX_022","name":"Free Cards","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Your cards cost (0) for the rest of the game."},{"id":"XXX_022e","name":"Free Cards","set":"Debug","type":"Enchantment","text":"Your cards cost (0) for the rest of the game."},{"id":"XXX_008","name":"Freeze","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"<b>Freeze</b> a character.","mechanics":["Freeze"]},{"id":"XXX_052","name":"Grant Mega-Windfury","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Give a minion <b>Mega-Windfury</b>."},{"id":"XXX_044","name":"Hand Swapper Minion","set":"Debug","type":"Minion","rarity":"Common","cost":0,"attack":5,"health":5,"text":"<b>Battlecry:</b> Discard 3 cards, then draw 3 cards."},{"id":"XXX_042","name":"Hand to Deck","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Shuffle a player's hand into his deck."},{"id":"XXX_040","name":"Hogger","set":"Debug","type":"Hero","health":10,"playerClass":"Warrior"},{"id":"XXX_051","name":"Make Immune","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Permanently make a character <b>Immune</b>."},{"id":"XXX_014","name":"Mill 10","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Put 10 cards from a hero's deck into his graveyard."},{"id":"XXX_043","name":"Mill 30","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Put 30 cards from a hero's deck into his graveyard."},{"id":"XXX_019","name":"Molasses","set":"Debug","type":"Spell","rarity":"Common","text":"You can take as long as you want on your turn."},{"id":"XXX_029","name":"Opponent Concede","set":"Debug","type":"Spell","cost":0,"text":"Force your opponent to concede."},{"id":"XXX_030","name":"Opponent Disconnect","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Force your opponnet to disconnect."},{"id":"XXX_003","name":"Restore 1","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Restore 1 Health to a character."},{"id":"XXX_004","name":"Restore 5","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Restore 5 Health to a character."},{"id":"XXX_021","name":"Restore All Health","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Restore all Health to a character."},{"id":"XXX_028","name":"Reveal Hand","set":"Debug","type":"Spell","rarity":"Common"},{"id":"XXX_027","name":"Server Crash","set":"Debug","type":"Spell","text":"Crash the Server.  DON'T BE A FOOL."},{"id":"XXX_010","name":"Silence - debug","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Remove all enchantments and powers from a minion."},{"id":"XXX_056","name":"Silence Destroy","set":"Debug","type":"Spell","cost":0,"text":"Silence and Destroy ALL Minions."},{"id":"XXX_016","name":"Snake Ball","set":"Debug","type":"Spell","cost":0,"text":"Summon five 1/1 snakes."},{"id":"XXX_045","name":"Steal Card","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Steal a random card from your opponent."},{"id":"XXX_011","name":"Summon a random Secret","set":"Debug","type":"Spell","rarity":"Common","cost":0,"text":"Summon a secret from your deck."},{"id":"XXX_054","name":"Weapon Buff","set":"Debug","type":"Spell","cost":0,"text":"Give your Weapon +100/+100"},{"id":"XXX_054e","name":"Weapon Buff Enchant","set":"Debug","type":"Enchantment"}]
+[
+    {
+        "cost": 0,
+        "id": "XXX_048",
+        "name": "-1 Durability",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Give a player's weapon -1 Durability.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_055",
+        "name": "1000 Stats",
+        "set": "Debug",
+        "text": "Give a Minion +1000/+1000",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_055e",
+        "name": "1000 Stats Enchant",
+        "set": "Debug",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_095",
+        "name": "AI Buddy - All Charge!",
+        "set": "Debug",
+        "text": "Spawn into play to give all minions <b>Charge</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_094",
+        "name": "AI Buddy - Blank Slate",
+        "set": "Debug",
+        "text": "Spawn into play to clear the entire board, both hands, both decks, all mana and all secrets.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "XXX_096",
+        "name": "AI Buddy - Damage Own Hero 5",
+        "set": "Debug",
+        "text": "Spawn into play to smack your own hero for 5.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "health": 1,
+        "id": "XXX_097",
+        "name": "AI Buddy - Destroy Minions",
+        "set": "Debug",
+        "text": "Spawn into play to destroy all minions.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "health": 1,
+        "id": "XXX_098",
+        "name": "AI Buddy - No Deck/Hand",
+        "set": "Debug",
+        "text": "Spawn into play to destroy the AI's Hand and Deck.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "durability": 0,
+        "elite": false,
+        "health": 1,
+        "id": "XXX_099",
+        "name": "AI Helper Buddy",
+        "set": "Debug",
+        "text": "Get the AI ready for testing.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_053",
+        "name": "Armor",
+        "set": "Debug",
+        "text": "Give your Hero +100 Armor",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_039",
+        "name": "Become Hogger",
+        "set": "Debug",
+        "text": "Become Hogger for Video Recording.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_012",
+        "name": "Bounce",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Return a minion to its owner's hand.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_006",
+        "name": "Break Weapon",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy a hero's weapon.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_015",
+        "name": "Crash",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Crash the game.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_001",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Damage 1",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Deal 1 damage.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_002",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Damage 5",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Deal 5 damage.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_020",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Damage all but 1",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Set the Health of a character to 1.",
+        "type": "Spell"
+    },
+    {
+        "attack": 3,
+        "cost": 0,
+        "health": 10,
+        "id": "XXX_024",
+        "name": "Damage Reflector",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Whenever this minion takes damage, deal 1 damage to ALL other characters.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_005",
+        "name": "Destroy",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy a minion or hero.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_050",
+        "name": "Destroy a Mana Crystal",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Pick a player and destroy one of his Mana Crystals.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_023",
+        "name": "Destroy All Heroes",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy all heroes.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_049",
+        "name": "Destroy all Mana",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy all of a player's Mana Crystals.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_018",
+        "name": "Destroy All Minions",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy all minions.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_047",
+        "name": "Destroy Deck",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Delete an opponent's deck",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_041",
+        "name": "Destroy Hero Power",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Destroy a player's Hero Power.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_057",
+        "name": "Destroy Secrets",
+        "set": "Debug",
+        "text": "Choose a hero. Destroy all <b>Secrets</b> controlled by that hero.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_013",
+        "name": "Discard",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Choose a hero.  That hero's controller discards his hand.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_025",
+        "name": "Do Nothing",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "This does nothing.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_017",
+        "name": "Draw 3 Cards",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Draw 3 cards.",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_009e",
+        "name": "Empty Enchant",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "This enchantment does nothing.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_026",
+        "name": "Enable Emotes",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Enable emotes for your VS.AI game. (not in tutorials, though)",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_007",
+        "name": "Enable for Attack",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Give a character Charge and make him able to attack!",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_009",
+        "name": "Enchant",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Enchant a minion with an empty enchant.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_046",
+        "name": "Force AI to Use Hero Power",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Force the AI to use their Hero Power every turn from now on.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_022",
+        "name": "Free Cards",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Your cards cost (0) for the rest of the game.",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_022e",
+        "name": "Free Cards",
+        "set": "Debug",
+        "text": "Your cards cost (0) for the rest of the game.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_008",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Freeze",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "<b>Freeze</b> a character.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_052",
+        "name": "Grant Mega-Windfury",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Give a minion <b>Mega-Windfury</b>.",
+        "type": "Spell"
+    },
+    {
+        "attack": 5,
+        "cost": 0,
+        "health": 5,
+        "id": "XXX_044",
+        "name": "Hand Swapper Minion",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "<b>Battlecry:</b> Discard 3 cards, then draw 3 cards.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_042",
+        "name": "Hand to Deck",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Shuffle a player's hand into his deck.",
+        "type": "Spell"
+    },
+    {
+        "health": 10,
+        "id": "XXX_040",
+        "name": "Hogger",
+        "playerClass": "Warrior",
+        "set": "Debug",
+        "type": "Hero"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_051",
+        "name": "Make Immune",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Permanently make a character <b>Immune</b>.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_014",
+        "name": "Mill 10",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Put 10 cards from a hero's deck into his graveyard.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_043",
+        "name": "Mill 30",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Put 30 cards from a hero's deck into his graveyard.",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_019",
+        "name": "Molasses",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "You can take as long as you want on your turn.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_029",
+        "name": "Opponent Concede",
+        "set": "Debug",
+        "text": "Force your opponent to concede.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_030",
+        "name": "Opponent Disconnect",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Force your opponnet to disconnect.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_003",
+        "name": "Restore 1",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Restore 1 Health to a character.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_004",
+        "name": "Restore 5",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Restore 5 Health to a character.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_021",
+        "name": "Restore All Health",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Restore all Health to a character.",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_028",
+        "name": "Reveal Hand",
+        "rarity": "Common",
+        "set": "Debug",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_027",
+        "name": "Server Crash",
+        "set": "Debug",
+        "text": "Crash the Server.  DON'T BE A FOOL.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_010",
+        "name": "Silence - debug",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Remove all enchantments and powers from a minion.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_056",
+        "name": "Silence Destroy",
+        "set": "Debug",
+        "text": "Silence and Destroy ALL Minions.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_016",
+        "name": "Snake Ball",
+        "set": "Debug",
+        "text": "Summon five 1/1 snakes.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_045",
+        "name": "Steal Card",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Steal a random card from your opponent.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_011",
+        "name": "Summon a random Secret",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Summon a secret from your deck.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_054",
+        "name": "Weapon Buff",
+        "set": "Debug",
+        "text": "Give your Weapon +100/+100",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_054e",
+        "name": "Weapon Buff Enchant",
+        "set": "Debug",
+        "type": "Enchantment"
+    }
+]

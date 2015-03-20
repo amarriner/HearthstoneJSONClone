@@ -1,1 +1,159 @@
-[{"id":"Mekka4t","name":"Chicken","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>Hey Chicken!</i>","race":"Beast"},{"id":"PRO_001","name":"Elite Tauren Chieftain","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Battlecry:</b> Give both players the power to ROCK! (with a Power Chord card)","flavor":"He's looking for a drummer.  The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord.","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Awarded at BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"Mekka3e","name":"Emboldened!","set":"Promotion","type":"Enchantment","text":"Increased Stats."},{"id":"Mekka3","name":"Emboldener 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"At the end of your turn, give a random minion +1/+1.","inPlayText":"Emboldening","race":"Mech"},{"id":"EX1_112","name":"Gelbin Mekkatorque","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Battlecry:</b> Summon an AWESOME invention.","flavor":"He's the leader of the gnomes, and an incredible inventor.  He's getting better, too; He turns things into chickens WAY less than he used to.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"This was rewarded to players who helped test the Store during the Beta.","mechanics":["Battlecry"]},{"id":"Mekka1","name":"Homing Chicken","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"At the start of your turn, destroy this minion and draw 3 cards.","inPlayText":"Pecking","race":"Mech"},{"id":"PRO_001a","name":"I Am Murloc","set":"Promotion","type":"Spell","cost":4,"text":"Summon three, four, or five 1/1 Murlocs."},{"id":"PRO_001at","name":"Murloc","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4","name":"Poultryizer","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"At the start of your turn, transform a random minion into a 1/1 Chicken.","inPlayText":"Poultryizing","race":"Mech"},{"id":"PRO_001c","name":"Power of the Horde","set":"Promotion","type":"Spell","cost":4,"text":"Summon a random Horde Warrior."},{"id":"Mekka2","name":"Repair Bot","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"At the end of your turn, restore 6 Health to a damaged character.","inPlayText":"Repairin'","race":"Mech"},{"id":"PRO_001b","name":"Rogues Do It...","set":"Promotion","type":"Spell","cost":4,"text":"Deal $4 damage. Draw a card."},{"id":"Mekka4e","name":"Transformed","set":"Promotion","type":"Enchantment","text":"Has been transformed into a chicken!","mechanics":["Morph"]}]
+[
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Chicken",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>Hey Chicken!</i>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "He's looking for a drummer.  The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord.",
+        "health": 5,
+        "howToGetGold": "Awarded at BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Elite Tauren Chieftain",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Battlecry:</b> Give both players the power to ROCK! (with a Power Chord card)",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "Emboldened!",
+        "set": "Promotion",
+        "text": "Increased Stats.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "Emboldening",
+        "name": "Emboldener 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "At the end of your turn, give a random minion +1/+1.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "He's the leader of the gnomes, and an incredible inventor.  He's getting better, too; He turns things into chickens WAY less than he used to.",
+        "health": 6,
+        "howToGetGold": "This was rewarded to players who helped test the Store during the Beta.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekkatorque",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Battlecry:</b> Summon an AWESOME invention.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "Pecking",
+        "name": "Homing Chicken",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "At the start of your turn, destroy this minion and draw 3 cards.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "I Am Murloc",
+        "set": "Promotion",
+        "text": "Summon three, four, or five 1/1 Murlocs.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "Murloc",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "Poultryizing",
+        "name": "Poultryizer",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "At the start of your turn, transform a random minion into a 1/1 Chicken.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Power of the Horde",
+        "set": "Promotion",
+        "text": "Summon a random Horde Warrior.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "Repairin'",
+        "name": "Repair Bot",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "At the end of your turn, restore 6 Health to a damaged character.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "Rogues Do It...",
+        "set": "Promotion",
+        "text": "Deal $4 damage. Draw a card.",
+        "type": "Spell"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transformed",
+        "set": "Promotion",
+        "text": "Has been transformed into a chicken!",
+        "type": "Enchantment"
+    }
+]

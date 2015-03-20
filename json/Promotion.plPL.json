@@ -1,1 +1,159 @@
-[{"id":"Mekka3e","name":"Doping!","set":"Promotion","type":"Enchantment","text":"Zwiększone statystyki."},{"id":"Mekka3","name":"Dopingator 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"Na koniec twojej tury daj losowemu stronnikowi +1/+1.","inPlayText":"","race":"Mech"},{"id":"Mekka4","name":"Drobiozator","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Na początku twojej tury przemień losowego stronnika w kurczaka 1/1.","inPlayText":"","race":"Mech"},{"id":"PRO_001","name":"Elitarny Taureński Czempion","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Okrzyk bojowy:</b> Daj obu graczom moc metalu! (oraz kartę „Odjazdowy riff”)","flavor":"Największe hity ETC to: „I Am a Murloc” (Jestem murlokiem), „Rogues Do It...” (Łotrzy robią to...) oraz „Power of the Horde” (Potęga Hordy).","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Nagroda za BlizzCon 2013","mechanics":["Battlecry"]},{"id":"EX1_112","name":"Gelbin Mekanownik","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Okrzyk bojowy:</b> Przyzwij NIESAMOWITY wynalazek.","flavor":"Jest przywódcą gnomów i wspaniałym wynalazcą. Z każdym dniem coraz mniej rzeczy zamienia w kurczaki.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Nagroda dla graczy, którzy pomogli testować sklep podczas bety.","mechanics":["Battlecry"]},{"id":"PRO_001a","name":"Jestem murlokiem","set":"Promotion","type":"Spell","cost":4,"text":"Przyzwij trzy, cztery albo pięć Murloków 1/1."},{"id":"Mekka4t","name":"Kurczak","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>Hej, kurczaku!</i>","race":"Beast"},{"id":"PRO_001b","name":"Łotrzy robią to...","set":"Promotion","type":"Spell","cost":4,"text":"Zadaj $4 pkt. obrażeń. Dobierz kartę."},{"id":"PRO_001at","name":"Murlok","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"PRO_001c","name":"Potęga Hordy","set":"Promotion","type":"Spell","cost":4,"text":"Przyzwij losowego wojownika Hordy."},{"id":"Mekka2","name":"Reperobot","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Na koniec twojej tury przywróć 6 pkt. zdrowia rannej postaci.","inPlayText":"","race":"Mech"},{"id":"Mekka1","name":"Samonaprowadzany kurczak","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"Na początku twojej tury zniszcz tego stronnika i dobierz 3 karty.","inPlayText":"","race":"Mech"},{"id":"Mekka4e","name":"Transformacja","set":"Promotion","type":"Enchantment","text":"Ten stronnik został zamieniony w kurczaka!","mechanics":["Morph"]}]
+[
+    {
+        "id": "Mekka3e",
+        "name": "Doping!",
+        "set": "Promotion",
+        "text": "Zwi\u0119kszone statystyki.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "Dopingator 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Na koniec twojej tury daj losowemu stronnikowi +1/+1.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "Drobiozator",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Na pocz\u0105tku twojej tury przemie\u0144 losowego stronnika w kurczaka 1/1.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Najwi\u0119ksze hity ETC to: \u201eI Am a Murloc\u201d (Jestem murlokiem), \u201eRogues Do It...\u201d (\u0141otrzy robi\u0105 to...) oraz \u201ePower of the Horde\u201d (Pot\u0119ga Hordy).",
+        "health": 5,
+        "howToGetGold": "Nagroda za BlizzCon 2013",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Elitarny Taure\u0144ski Czempion",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Okrzyk bojowy:</b> Daj obu graczom moc metalu! (oraz kart\u0119 \u201eOdjazdowy riff\u201d)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "Jest przyw\u00f3dc\u0105 gnom\u00f3w i wspania\u0142ym wynalazc\u0105. Z ka\u017cdym dniem coraz mniej rzeczy zamienia w kurczaki.",
+        "health": 6,
+        "howToGetGold": "Nagroda dla graczy, kt\u00f3rzy pomogli testowa\u0107 sklep podczas bety.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekanownik",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Okrzyk bojowy:</b> Przyzwij NIESAMOWITY wynalazek.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "Jestem murlokiem",
+        "set": "Promotion",
+        "text": "Przyzwij trzy, cztery albo pi\u0119\u0107 Murlok\u00f3w 1/1.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Kurczak",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>Hej, kurczaku!</i>",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "\u0141otrzy robi\u0105 to...",
+        "set": "Promotion",
+        "text": "Zadaj $4 pkt. obra\u017ce\u0144. Dobierz kart\u0119.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "Murlok",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Pot\u0119ga Hordy",
+        "set": "Promotion",
+        "text": "Przyzwij losowego wojownika Hordy.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "Reperobot",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Na koniec twojej tury przywr\u00f3\u0107 6 pkt. zdrowia rannej postaci.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "Samonaprowadzany kurczak",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Na pocz\u0105tku twojej tury zniszcz tego stronnika i dobierz 3 karty.",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transformacja",
+        "set": "Promotion",
+        "text": "Ten stronnik zosta\u0142 zamieniony w kurczaka!",
+        "type": "Enchantment"
+    }
+]

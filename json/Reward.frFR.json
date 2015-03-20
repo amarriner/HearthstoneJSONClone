@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Perroquet du capitaine","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Cri de guerre :</b> place un pirate aléatoire de votre deck dans votre main.","flavor":"T’es un pirate et t’as pas de perroquet, non mais à l’eau, quoi !","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Débloquée lorsque vous avez tous les pirates du jeu Expert.","howToGetGold":"Débloquée lorsque vous avez tous les pirates dorés du jeu Expert.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Vieux Troublœil","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Charge</b>. A +1 ATQ pour chaque autre murloc sur le champ de bataille.","inPlayText":"","flavor":"C’est une légende chez les murlocs. « Mrghllghghllghg ! », disent-ils.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Débloquée lorsque vous avez tous les murlocs du jeu Expert.","howToGetGold":"Débloquée lorsque vous avez tous les murlocs dorés du jeu Expert et du jeu de base.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "T\u2019es un pirate et t\u2019as pas de perroquet, non mais \u00e0 l\u2019eau, quoi\u00a0!",
+        "health": 1,
+        "howToGet": "D\u00e9bloqu\u00e9e lorsque vous avez tous les pirates du jeu Expert.",
+        "howToGetGold": "D\u00e9bloqu\u00e9e lorsque vous avez tous les pirates dor\u00e9s du jeu Expert.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Perroquet du capitaine",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Cri de guerre\u00a0:</b> place un pirate al\u00e9atoire de votre deck dans votre main.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "C\u2019est une l\u00e9gende chez les murlocs. \u00ab\u00a0Mrghllghghllghg\u00a0!\u00a0\u00bb, disent-ils.",
+        "health": 4,
+        "howToGet": "D\u00e9bloqu\u00e9e lorsque vous avez tous les murlocs du jeu Expert.",
+        "howToGetGold": "D\u00e9bloqu\u00e9e lorsque vous avez tous les murlocs dor\u00e9s du jeu Expert et du jeu de base.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Vieux Troubl\u0153il",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Charge</b>. A +1 ATQ pour chaque autre murloc sur le champ de bataille.",
+        "type": "Minion"
+    }
+]

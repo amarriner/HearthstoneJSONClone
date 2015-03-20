@@ -1,1 +1,2505 @@
-[{"id":"GVG_081","name":"Akwoblin tropiciel","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"<b>Ukrycie</b>","flavor":"„Patrzcie! Płynie do nas jakaś duża rybka!” – ostatnie słowa jednego z uczestników (nieudanej) wyprawy wędkarskiej u wschodnich wybrzeży Azeroth.","artist":"Seamus Gallagher","collectible":true,"mechanics":["Stealth"]},{"id":"GVG_030","name":"Anodowany robocik","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>Prowokacja</b>.\n<b>Wybierz jedno:</b> \n+1 do ataku; lub +1 do zdrowia.","flavor":"Jaki uroczy malec! RATUNKU ZARAZ ZEŻRE MI TWARZ!","artist":"Eva Widermann","collectible":true,"elite":false,"race":"Mech","playerClass":"Druid","mechanics":["Taunt"]},{"id":"GVG_069","name":"Antyczny medibot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":3,"health":3,"text":"<b>Okrzyk bojowy:</b> Przywróć 8 pkt. zdrowia twojemu bohaterowi.","flavor":"Teraz, panie, to już takich nie robią! (Zapewne dlatego, że większość wybuchła).","artist":"Jesper Esjing","collectible":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_093","name":"Atrapa","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":0,"attack":0,"health":2,"text":"<b>Prowokacja</b>","flavor":"Cały czas coś ją trapi.","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Taunt"]},{"id":"PART_005","name":"Awaryjne chłodziwo","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"<b>Zamroź</b> stronnika.","artist":"Peerasak Senalai","mechanics":["Freeze"]},{"id":"GVG_119","name":"Błyskotron 3000","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":3,"health":4,"text":"<b>Okrzyk bojowy:</b> Wyposaż każdego z graczy w losową broń.","flavor":"Błyszczy niczym tron.","artist":"Jomaro Kindred","collectible":true,"elite":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_072","name":"Bokser cienia","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":2,"health":3,"text":"Za każdym razem gdy jakaś postać zostanie uleczona, zadaj 1 pkt. obrażeń losowemu wrogowi.","flavor":"Jego funkcja podstawowa to prawy sierpowy. Funkcja wspomagająca to lewy sierpowy.","artist":"Dan Scott","collectible":true,"race":"Mech","playerClass":"Priest"},{"id":"GVG_063","name":"Bolvar Fordragon","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":1,"health":7,"text":"Gdy masz tę kartę w ręce, otrzymuje +1 do ataku za każdym razem, gdy zginie przyjazny stronnik.","flavor":"Uwaga, zdradzamy zakończenie: Bolvar ginie! Ale nie całkiem, ponieważ zostaje zamieniony w żywy ogarek, a potem zasiada na tronie z lodu i wszyscy o nim zapominają.","artist":"Tooth","collectible":true,"elite":true,"playerClass":"Paladin"},{"id":"GVG_015","name":"Bomba cieni","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"Zadaj $3 pkt. obrażeń.","flavor":"Nie wiem jak dla państwa, ale dla mnie - bomba!","artist":"Jeff Haynie","collectible":true,"playerClass":"Warlock"},{"id":"GVG_008","name":"Bomba światła","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":6,"text":"Każdemu stronnikowi zadaj obrażenia równe jego atakowi.","flavor":"Tak to jest, jak się pozwoli goblinom na zostanie kapłanami.","artist":"Luca Zontini","collectible":true,"playerClass":"Priest","mechanics":["AffectedBySpellPower"]},{"id":"GVG_099","name":"Bombardier","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":3,"health":3,"text":"<b>Okrzyk bojowy:</b> Zadaj 4 pkt. obrażeń losowemu wrogiemu stronnikowi.","flavor":"Przez dziesięć lat z rzędu zdobywał tytuł mistrza okręgu w rzucie bombą, pchnięciu bombą oraz toczeniu bomby na czas.","artist":"Luca Zontini","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_045t","name":"Chochlik","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_045","name":"Chochlikoza","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":4,"text":"Zadaj $2-$4 pkt. obrażeń stronnikowi. Przyzwij Chochlika 1/1 za każdy zadany punkt obrażeń.","flavor":"Wbrew pozorom zaklęcie to nie przywołuje kozy z chochlą.","artist":"Jaemin Kim","collectible":true,"playerClass":"Warlock"},{"id":"GVG_009","name":"Cieniomantka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":1,"attack":2,"health":1,"text":"<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń każdemu bohaterowi.","flavor":"Wykonuje swoją pracę bez cienia entuzjazmu.","artist":"Matt Dixon","collectible":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_031","name":"Cykl życia","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":6,"text":"Wtasuj wrogiego stronnika do talii przeciwnika.","flavor":"Nie mylić z „Cyklinowaniem życia”!","artist":"Brandon Kitkouski","collectible":true,"playerClass":"Druid"},{"id":"PART_002","name":"Czasoprzewijacz","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Cofnij przyjaznego stronnika na twoją rękę.","artist":"Nutthapon Petthai"},{"id":"GVG_079","name":"Czołg wspomagany MAKS","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":8,"attack":7,"health":7,"text":"<b>Boska tarcza</b>","flavor":"Ma promień skrętu jak czołg, ale przynajmniej niestraszne mu korki.","artist":"Nutchapol Thitinunthakorn","collectible":true,"race":"Mech","mechanics":["Divine Shield"]},{"id":"GVG_101e","name":"Czystość","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększone statystyki.","playerClass":"Paladin"},{"id":"GVG_032b","name":"Dar kart","set":"Goblins vs Gnomes","type":"Spell","text":"Każdy z graczy dobiera kartę.","playerClass":"Druid"},{"id":"GVG_032a","name":"Dar many","set":"Goblins vs Gnomes","type":"Spell","text":"Daj każdemu z graczy po krysztale many.","playerClass":"Druid"},{"id":"GVG_110","name":"Doktor Huk","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"<b>Okrzyk bojowy:</b> Przyzwij dwa Hukoboty 1/1. <i>UWAGA: Hukoboty mogą huknąć.</i>","flavor":"Szef najskuteczniejszej (a na pewno najszybszej) ekipy rozbiórkowej w całym Azeroth.","artist":"Alex Garner","collectible":true,"elite":true,"mechanics":["Battlecry"]},{"id":"GVG_113","name":"Dożynkarz 4000","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":6,"health":9,"text":"Zadaj również obrażenia stronnikom znajdującym się obok celu ataku.","flavor":"Doskonały na dożynki i dorzynki.","artist":"James Ryman","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_080","name":"Druid Kłów","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":4,"text":"<b>Okrzyk bojowy:</b> Jeśli kontrolujesz Bestię, przemień tego stronnika w 7/7.","flavor":"Druidzi Kła piszą wyłącznie wężykiem.","artist":"Brandon Kitkouski","collectible":true,"playerClass":"Druid","mechanics":["Battlecry"]},{"id":"GVG_080t","name":"Druid Kłów","set":"Goblins vs Gnomes","type":"Minion","cost":5,"attack":7,"health":7,"artist":"Massive Black","race":"Beast","playerClass":"Druid"},{"id":"GVG_033","name":"Drzewo Życia","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":9,"text":"Przywróć wszystkie postaci do pełni zdrowia.","flavor":"Dotyk drzewa leczy całe życie!","artist":"Steve Prescott","collectible":true,"playerClass":"Druid"},{"id":"GVG_075","name":"Działo okrętowe","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"Za każdym razem gdy przyzwiesz Pirata, zadaj 2 pkt. obrażeń losowemu wrogowi.","flavor":"Kiedy w powietrzu zaczynają świszczeć kule armatnie, najwyższy czas zabrać się za klecenie tratwy.","artist":"Warren Mahy","collectible":true},{"id":"GVG_020","name":"Działo Spaczenia","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":3,"health":5,"text":"Na koniec twojej tury zadaj 2 pkt. obrażeń losowemu stronnikowi niebędącemu Mechem.","flavor":"Na opakowaniu napisano: „Zupełna nowość! 200% więcej Spaczenia!”","artist":"Matt Gaser","collectible":true,"race":"Mech","playerClass":"Warlock"},{"id":"GVG_005","name":"Echo Medivha","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"Umieść w twojej ręce kopię każdego przyjaznego stronnika.","flavor":"Echo Medivha nawiedza Karazhan, wiecznie oszukując podczas gry w szachy oraz <i>Hearthstone</i>.","artist":"Alex Garner","collectible":true,"playerClass":"Mage"},{"id":"GVG_058","name":"Ekranowany minibot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>Boska tarcza</b>","flavor":"Święcie wierzy w jeden, powszechny i międzyrobotowy program.","artist":"Raymond Swanland","collectible":true,"race":"Mech","playerClass":"Paladin","mechanics":["Divine Shield"]},{"id":"GVG_036","name":"Elektrobuława","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Rare","cost":3,"attack":3,"durability":2,"text":"<b>Agonia:</b> Daj losowemu przyjaznemu Mechowi +2/+2.","flavor":"Wszyscy myślą, że szamani rozkazują żywiołom, a tak naprawdę muszą o wszystko grzecznie prosić.","artist":"Zoltan and Gabor","collectible":true,"playerClass":"Shaman","mechanics":["Deathrattle"]},{"id":"GVG_084","name":"Fruwająca maszyna","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"<b>Furia wichru</b>","flavor":"Aby to ustrojstwo działało prawidłowo, należy posmarować je maścią latania i użyć magicznych słów: „Pole, las, woda, wieś, nadszedł czas, maszyno leć”.","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Windfury"]},{"id":"GVG_049","name":"Gahz'rilla","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":6,"health":9,"text":"Za każdym razem gdy ten stronnik zostanie zraniony, podwaja wartość swojego ataku.","flavor":"Co trzy głowy, to nie jedna.","artist":"Raymond Swanland","collectible":true,"elite":true,"race":"Beast","playerClass":"Hunter"},{"id":"GVG_117","name":"Gazol","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":3,"health":6,"text":"Za każdym razem gdy rzucasz zaklęcie za 1 many, umieść w ręce losowego Mecha.","flavor":"W szkole Gazolowi nie pozwalano wykonywać doświadczeń po tym, jak niechcący wysadził w powietrze kantorek chemików.","artist":"Luke Mancini","collectible":true,"elite":true},{"id":"GVG_043e","name":"Glewiozuka","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do ataku.","playerClass":"Hunter"},{"id":"GVG_043","name":"Glewiozuka","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Common","cost":2,"attack":2,"durability":2,"text":"<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi +1 do ataku.","flavor":"Przydaje się w sytuacjach, w których normalna bazuka nie wystarcza.","artist":"Gino Whitehall","collectible":true,"playerClass":"Hunter","mechanics":["Battlecry"]},{"id":"GVG_111","name":"Głowa Mimirona","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":5,"text":"Jeśli na początku twojej tury kontrolujesz co najmniej 3 Mechy, niszczysz je i tworzysz V-07-TR-0Na.","flavor":"Naciskanie wielkiego czerwonego guzika surowo wzbronione!","artist":"Trent Kaniuga","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_092","name":"Gnom eksperymentator","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":2,"text":"<b>Okrzyk bojowy:</b> Dobierz kartę. Jeśli to stronnik, zamieni się w Kurczaka.","flavor":"A gdyby tak skrzyżować smoka z wiewiórką? Czy otrzymalibyśmy smokowiewiórkę?","artist":"Jesper Esjing","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_004","name":"Goblin grzmotnik","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":5,"health":4,"text":"<b>Okrzyk bojowy:</b> Jeśli kontrolujesz Mecha, zadaj 4 punkty obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.","flavor":"Jeśli nie masz na podorędziu żadnej bomby, wystarczy dowolny inny gobliński wynalazek.","artist":"Glenn Rane","collectible":true,"playerClass":"Mage","mechanics":["Battlecry"]},{"id":"GVG_023","name":"Gobliński fryzuromat","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>Okrzyk bojowy</b>: Daj twojej broni +1 do ataku.","flavor":"Przytnie twoją fryzurę lub ciebie – korzystasz na własne ryzyko.","artist":"Zolton Boros","collectible":true,"race":"Mech","playerClass":"Rogue","mechanics":["Battlecry"]},{"id":"GVG_095","name":"Gobliński saper","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"Ma +4 do ataku, kiedy twój przeciwnik ma w ręce 6 lub więcej kart.","flavor":"Kiedyś detonował nałogowo. Teraz eksploduje tylko dla towarzystwa.","artist":"Jesper Esjing","collectible":true,"mechanics":["Aura"]},{"id":"GVG_077","name":"Golem Animusa","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":6,"attack":9,"health":9,"text":"Na końcu każdej tury zniszcz tego stronnika, jeśli nie posiadasz innych w grze.","flavor":"Golem Animusa ma niezły animusz!","artist":"Josh Harris","collectible":true,"race":"Mech","playerClass":"Warlock"},{"id":"GVG_016","name":"Grabieżca Spaczenia","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":8,"health":8,"text":"Za każdym razem gdy przeciwnik zagra kartę, odrzuć 3 górne karty z twojej talii.","flavor":"Tyle grabienia. Takie spaczenie. Łał.","artist":"Zoltan & Gabor","collectible":true,"race":"Mech"},{"id":"GVG_120","name":"Hemet Nesingwary","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":6,"health":3,"text":"<b>Okrzyk bojowy:</b> Zniszcz Bestię.","flavor":"Nigdy nie żegna się z bronią.","artist":"Ralph Horsley","collectible":true,"elite":true,"mechanics":["Battlecry"]},{"id":"GVG_104","name":"Hobgoblin","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":3,"attack":2,"health":3,"text":"Za każdym razem gdy zagrywasz stronnika z atakiem 1, daj mu +2/+2.","flavor":"Podczas najbliższego walnego zebrania związek zawodowy hobgoblinów zajmie stanowisko w sprawie planów przedłużenia wieku emerytalnego do siedmiu lat.","artist":"Laurel D. Austin","collectible":true},{"id":"GVG_104a","name":"Hobomoc!","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2."},{"id":"GVG_110t","name":"Hukobot","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"text":"<b>Agonia:</b> Zadaj 1-4 pkt. obrażeń losowemu wrogowi.","race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_094","name":"Jan","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":1,"health":4,"text":"Każdy gracz kończący turę musi dobrać karty, aż będzie mieć ich 3 na ręce.","flavor":"W profesji lokaja najbardziej ceni sobie dobieranie opon.","artist":"Matt Dixon","collectible":true,"race":"Mech"},{"id":"GVG_025","name":"Jednooki szubrawiec","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":4,"health":1,"text":"Otrzymuje <b>Ukrycie</b> za każdym razem, gdy przyzwiesz Pirata.","flavor":"Jest groźniejszy od jednorękiego bandyty.","artist":"Danny Beck","collectible":true,"race":"Pirate","playerClass":"Rogue"},{"id":"GVG_089","name":"Jutrzenka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"Jeśli na koniec twojej tury kontrolujesz <b>Sekret</b>, przywróć 4 pkt. zdrowia twojemu bohaterowi.","flavor":"„LUMOS!” – nie należy do ich repertuaru zawołań. Nie jesteśmy w Hogwarcie.","artist":"Jim Nelson","collectible":true},{"id":"GVG_064","name":"Kałużniak","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"flavor":"Żyje w zbiorniku wodnym o znikomym znaczeniu strategicznym, ale nie spędza mu to snu z powiek.","artist":"Jaemin Kim","collectible":true,"race":"Murloc"},{"id":"PART_004e","name":"Kamuflaż","set":"Goblins vs Gnomes","type":"Enchantment","text":"Ukrycie trwa do następnej tury."},{"id":"GVG_055","name":"Klekotnik Wyśrubny","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":2,"health":5,"text":"<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +2/+2.","flavor":"Zawodowo zajmuje się klekotacją i wyśrubowywaniem.","artist":"Jesper Esjing","collectible":true,"race":"Mech","playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"GVG_062","name":"Kobaltowy strażnik","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":6,"health":3,"text":"Otrzymuje <b>Boską tarczę</b> za każdym razem, gdy przyzywasz Mecha.","flavor":"Dawniej strażników robiono z adamantium, ale produkcję przeniesiono do Gadżetonu, gdzie kobalt był po taniości.","artist":"Jim Nelson","collectible":true,"race":"Mech","playerClass":"Paladin"},{"id":"GVG_056t","name":"Krecia mina","set":"Goblins vs Gnomes","type":"Spell","cost":0,"text":"Kiedy dobierasz tę kartę, eksploduje. Otrzymujesz 10 pkt. obrażeń i dobierasz kartę.","artist":"Chris Seaman","playerClass":"Warrior","mechanics":["ImmuneToSpellpower"]},{"id":"GVG_046e","name":"Król","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak.","playerClass":"Hunter"},{"id":"GVG_046","name":"Król bestii","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":2,"health":6,"text":"<b>Prowokacja</b>. <b>Okrzyk bojowy:</b> Otrzymuje +1 do ataku za każdą Bestię, którą kontrolujesz.","flavor":"Na ciebie czekam lwie. Bo hiena chyba nie zżarła cię.","artist":"Seamus Gallagher","collectible":true,"race":"Beast","playerClass":"Hunter","mechanics":["Battlecry","Taunt"]},{"id":"GVG_028","name":"Kupiecki Książę Galiwiasz","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":5,"health":8,"text":"Za każdym razem gdy przeciwnik rzuci zaklęcie, otrzymujesz jego kopię, zaś on dostaje Monetę.","flavor":"Galiwiasz potrafi doskonale liczyć, dlatego liczy wyłącznie na siebie.","artist":"Wei Wang","collectible":true,"elite":true,"playerClass":"Rogue"},{"id":"GVG_092t","name":"Kurczak","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"race":"Beast"},{"id":"GVG_060","name":"Kwatermistrz","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":2,"health":5,"text":"<b>Okrzyk bojowy:</b> Daj twoim Rekrutom Srebrnej Dłoni +2/+2.","flavor":"Jego specjalność? Wolne kwatery nad morzem.","artist":"Phroilan Gardner","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]},{"id":"GVG_100","name":"Lewitujący obserwator","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":4,"text":"Otrzymuje +2/+2 za każdym razem,  gdy twój bohater otrzymuje obrażenia w twojej turze.","flavor":"Na początku nazywał się Złe Oko Pewnej Zguby, ale nazwa odstraszała potencjalnych stronników.","artist":"Todd Lockwood","collectible":true,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_051","name":"Łomotobot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":3,"text":"<b>Szał:</b> +1 do ataku.","flavor":"Miał być „robotobotem”, ale jego projektant seplenił.","artist":"Tyler Walpole","collectible":true,"race":"Mech","playerClass":"Warrior","mechanics":["Enrage"]},{"id":"GVG_086","name":"Machina oblężnicza","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":5,"text":"Za każdym razem gdy otrzymujesz pancerz, daj temu stronnikowi +1 do ataku.","flavor":"Nieźle się prezentuje na polu bitwy, ale czy ma jakieś zastosowanie praktyczne?","artist":"Zero Yue","collectible":true,"race":"Mech","playerClass":"Warrior"},{"id":"GVG_021","name":"Mal'Ganis","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":9,"attack":9,"health":7,"text":"Twoje pozostałe Demony otrzymują +2/+2.\nTwój bohater posiada <b>Niewrażliwość</b>.","flavor":"Gdy się Mal'Ganisa gani, ten okrutnie wszystkich rani!","artist":"Wayne Reynolds","collectible":true,"elite":true,"race":"Demon","playerClass":"Warlock","mechanics":["Aura"]},{"id":"GVG_097","name":"Mała egzorcystka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":3,"text":"<b>Prowokacja</b>\n <b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za każdego wrogiego stronnika z <b>Agonią</b>.","flavor":"Potrafi zamienić agonię w pelargonię!","artist":"Jim Nelson","collectible":true,"mechanics":["Battlecry","Taunt"]},{"id":"GVG_035","name":"Malorn","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":9,"health":7,"text":"<b>Agonia:</b> Wtasuj tego stronnika do twojej talii.","flavor":"Od czasu pamiętnego pojedynku z Archimondem, Malorn nie pozwala się już wyjelenić.","artist":"Oliver Chipping","collectible":true,"elite":true,"race":"Beast","playerClass":"Druid","mechanics":["Deathrattle"]},{"id":"GVG_078","name":"Mechaniczny yeti","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":5,"text":"<b>Agonia:</b> Daj każdemu z graczy po karcie <b>Części zamiennej</b>.","flavor":"Yeti z Zimnych Wichrów są źródłem inspiracji dla wielu wynalazców – kiedy akurat nie ścigają ich w celach konsumpcji.","artist":"Chris Seaman","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_107","name":"Mechano Wzmacniano","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":3,"health":2,"text":"<b>Okrzyk bojowy:</b> Twoi pozostali stronnicy otrzymują <b>Furię wichru</b>, <b>Prowokację</b> lub <b>Boską tarczę</b>.\n<i>(losowo)</i>","flavor":"Jego dopalacze są zakazane w niektórych krajach.","artist":"Zoltan Boros","collectible":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_116","name":"Mechinżynier Termowtyk","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":9,"attack":9,"health":7,"text":"Za każdym razem gdy ginie wrogi stronnik, przyzywasz Trędowatego gnoma.","flavor":"Chciał przejąć kontrolę nad Gnomoreganem, ale wszyscy wiemy, jak na tym wyszedł.","artist":"Trent Kaniuga","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_034","name":"Mecho-koto-dźwiedź","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":6,"attack":7,"health":6,"text":"Za każdym razem gdy ten stronnik otrzyma obrażenia, dodaj kartę <b>Części zamiennej</b> do twojej ręki.","flavor":"Jego najlepszym kumplem jest Zwierzo-człeko-upiór.","artist":"Trent Kaniuga","collectible":true,"race":"Mech","playerClass":"Druid"},{"id":"GVG_048e","name":"Metalowe zęby","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2 do ataku.","playerClass":"Hunter"},{"id":"GVG_103","name":"Mikromaszyna","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"Na początku każdej tury otrzymuje +1 do ataku.","flavor":"Jest w związku z mikrokomputerem.","artist":"Skan Srisuwan","collectible":true,"race":"Mech"},{"id":"GVG_109","name":"Minimag","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":4,"health":1,"text":"<b>Ukrycie</b>\n<b>Obrażenia zaklęć +1</b>","flavor":"Czasem ukrywa się w kufrze ze skarbami na Arenie Gurubaszi.","artist":"Ben Olson","collectible":true,"mechanics":["Spellpower","Stealth"]},{"id":"GVG_074","name":"Mistyczka z Kezanu","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":4,"health":3,"text":"<b>Okrzyk bojowy:</b> Przejmij kontrolę nad losowym <b>Sekretem</b> przeciwnika.","flavor":"Doznała oświecenia, kontemplując kwiat lotosu unoszący się na przezroczystej tafli jeziora.","artist":"Jakub Kasper","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_028t","name":"Moneta Galiwiasza","set":"Goblins vs Gnomes","type":"Spell","cost":0,"text":"Otrzymujesz 1 kryształ many w tej turze.\n<i>(Nie uaktywnia to Galiwiasza.)</i>"},{"id":"GVG_006","name":"Naganiacz mechów","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"Twoje Mechy kosztują (1) mniej.","flavor":"Mechy, które przywołują mechy? A potem co? Pączkujące pączki? Hmm, w sumie...","artist":"Phil Saunders","collectible":true,"race":"Mech","mechanics":["Aura"]},{"id":"GVG_082","name":"Nakręcany gnom","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1,"text":"<b>Agonia:</b> Dodaj kartę <b>Części zamiennej</b> do twojej ręki.","flavor":"Może i jest powolny, ale jak się rozkręci…","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_121","name":"Nakręcany olbrzym","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":12,"attack":8,"health":8,"text":"Kosztuje (1) mniej za każdą kartę w ręce przeciwnika.","flavor":"Nie może znaleźć wspólnego języka z resztą olbrzymów.","artist":"Dan Scott","collectible":true,"race":"Mech"},{"id":"GVG_069a","name":"Naprawa!","set":"Goblins vs Gnomes","type":"Enchantment","text":"+4 do zdrowia.","playerClass":"Priest"},{"id":"GVG_042","name":"Neptulon","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"<b>Okrzyk bojowy:</b> Dodaj 4 losowe Murloki do twojej ręki. <b>Przeciążenie:</b> (3)","flavor":"Neptulon nie ogarnia murloków, bo ostatnio coraz częściej jest zalany.","artist":"Ruan Jia","collectible":true,"elite":true,"playerClass":"Shaman","mechanics":["Battlecry"]},{"id":"PART_004","name":"Niestabilny kamuflaż","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Daj przyjaznemu stronnikowi <b>Ukrycie</b> do twojej następnej tury.","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_003","name":"Niestabilny portal","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":2,"text":"Dodaj losowego stronnika do twojej ręki. Kosztuje (3) mniej.","flavor":"Mieszkańcy Azeroth nie zdają sobie sprawy, ile kosztuje stabilizacja portali. Na ich utrzymanie leci jakieś 30% PKB!","artist":"Sean O'Daniels","collectible":true,"playerClass":"Mage"},{"id":"GVG_090","name":"Obłąkany bombiarz","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":4,"text":"<b>Okrzyk bojowy:</b> Zadaj 6 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi innymi postaciami.","flavor":"Bombiarz ma bardzo wybuchowy charakter.","artist":"Alex Horley Orlandelli","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_091","name":"Odmagiczniacz X-21","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":2,"health":5,"text":"<b>Prowokacja</b>\nNie może zostać wybrany jako cel zaklęć lub mocy specjalnych.","flavor":"Gnomi magowie odbyli na temat tego mecha kilka bardzo poważnych rozmów z gnomimi inżynierami.","artist":"Zero Yue","collectible":true,"race":"Mech","mechanics":["Taunt"]},{"id":"GVG_041","name":"Ogniki błędniki","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":6,"text":"<b>Wybierz jedno:</b> Przyzwij 5 Ogników; lub daj stronnikowi +5/+5 oraz <b>Prowokację</b>.","flavor":"Nad nazwą tej karty pracowały najtęższe umysły!","artist":"Trent Kaniuga","collectible":true,"playerClass":"Druid"},{"id":"GVG_041c","name":"Ogniki błędniki","set":"Goblins vs Gnomes","type":"Enchantment","text":"+5/+5 oraz <b>Prowokacja</b>.","playerClass":"Druid"},{"id":"GVG_041b","name":"Ogniki błędniki","set":"Goblins vs Gnomes","type":"Spell","text":"Przyzwij 5 Ogników.","playerClass":"Druid"},{"id":"GVG_041a","name":"Ogniki błędniki","set":"Goblins vs Gnomes","type":"Spell","text":"+5/+5 oraz <b>Prowokacja</b>.","playerClass":"Druid"},{"id":"GVG_001","name":"Ogniste działo","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"Zadaj $4 pkt. obrażeń losowemu wrogiemu stronnikowi.","flavor":"Ogniste działo doskonale wpisuje się w długą tradycję zabójczych goblińskich wynalazków.","artist":"Mauricio Herrera","collectible":true,"playerClass":"Mage"},{"id":"GVG_065","name":"Ogr mięśniak","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":4,"health":4,"text":"50% szans na zaatakowanie niewłaściwego\nwroga.","flavor":"„JA MIEĆ LEPSZE STATY ZA NIŻSZOM CENE!”","artist":"Vinod Rams","collectible":true},{"id":"GVG_112","name":"Ogr Mogor","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":7,"health":6,"text":"Wszyscy stronnicy mają 50% szans na zaatakowanie niewłaściwego wroga.","flavor":"Mogor uczestniczył w ponownym otwarciu Mrocznego Portalu. Jeśli o pomoc w tak odpowiedzialnym zadaniu musisz prosić ogra, to wiedz, że jesteś w poważnych tarapatach.","artist":"Michal Ivan","collectible":true,"elite":true},{"id":"GVG_088","name":"Ogr ninja","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":6,"health":6,"text":"<b>Ukrycie</b>\n50% szans na zaatakowanie niewłaściwego wroga.","flavor":"Co prawda nie zdał egzaminu wstępnego do akademii ninja, ale załapał się na dodatkowy nabór.","artist":"Samwise","collectible":true,"playerClass":"Rogue","mechanics":["Stealth"]},{"id":"GVG_054","name":"Ogrzy Haratacz","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Common","cost":3,"attack":4,"durability":2,"text":"50% szans na zaatakowanie niewłaściwego\nwroga.","flavor":"Brutalnie prosty – jak większość przejawów kultury ogrów.","artist":"Richard Wright","collectible":true,"playerClass":"Warrior"},{"id":"GVG_022a","name":"Olejek osełkowy","set":"Goblins vs Gnomes","type":"Enchantment","text":"+3 do ataku."},{"id":"GVG_022","name":"Olejek osełkowy","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":4,"text":"Daj twojej broni +3 do ataku. <b>Kombinacja:</b> Daj losowemu przyjaznemu stronnikowi +3 do ataku.","flavor":"„Gotowi do smarowania!” - okrzyk bojowy łapówkarzy.","artist":"Den","collectible":true,"playerClass":"Rogue","mechanics":["Combo"]},{"id":"GVG_022b","name":"Olejek osełkowy","set":"Goblins vs Gnomes","type":"Enchantment","text":"+3 do ataku."},{"id":"PART_001e","name":"Opancerzenie","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do zdrowia."},{"id":"GVG_044","name":"Pajęczy czołg","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":4,"flavor":"„A może by tak zamontować na nim takie wielgachne działa?” – inżynier Migbłysk podczas odbioru Pajęczego Transportera Kroczącego.","artist":"Dany Orizio","collectible":true,"race":"Mech"},{"id":"GVG_018","name":"Pani Bólu","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":1,"health":4,"text":"Za każdym razem gdy ten stronnik zadaje obrażenia, przywraca tyle samo zdrowia twojemu bohaterowi.","flavor":"Jej siostra, Pani Bulu, zsyła cierpienie na władców królestwa Beznadzieji.","artist":"Carl Critchlow","collectible":true,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_060e","name":"Pełne wyposażenie","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2.","playerClass":"Paladin"},{"id":"GVG_032","name":"Piastunka Gaju","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"<b>Wybierz jedno:</b> Daj każdemu z graczy kryształ many; lub każdy z graczy dobiera kartę.","flavor":"Lubi piesze wycieczki w leśnej głuszy. Nie lubi goblińskich szatkowników i sandałów (żadne na nią nie pasują).","artist":"Chris Rahn","collectible":true,"playerClass":"Druid"},{"id":"GVG_098","name":"Piechota Gnomoreganu","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"<b>Szarża</b>\n<b>Prowokacja</b>","flavor":"Szarżuje, prowokuje, wrogów rozgnomuje!","artist":"Zoltan & Gabor","collectible":true,"mechanics":["Charge","Taunt"]},{"id":"GVG_057","name":"Pieczęć Światłości","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"Przywróć #4 pkt. zdrowia twojemu bohaterowi i zyskaj +2 do ataku w tej turze.","flavor":"A Pieczeń Światłości ponoć przywraca aż OSIEM punktów zdrowia!","artist":"Jason Chan","collectible":true,"playerClass":"Paladin","mechanics":["ImmuneToSpellpower"]},{"id":"GVG_057a","name":"Pieczęć Światłości","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2 do ataku w tej turze.","mechanics":["OneTurnEffect"]},{"id":"GVG_007","name":"Płomienny Lewiatan","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"Gdy dobierzesz tę kartę, zadaj $2 pkt. obrażeń wszystkim postaciom.","flavor":"Mimiron często zabiera Płomiennego Lewiatana na szalone przejażdżki po Ulduarze.","artist":"Aleksi Briclot","collectible":true,"elite":true,"race":"Mech","playerClass":"Mage"},{"id":"GVG_123e","name":"Podkręcenie","set":"Goblins vs Gnomes","type":"Enchantment","text":"Obrażenia zaklęć +2.","playerClass":"Mage","mechanics":["Spellpower"]},{"id":"GVG_063a","name":"Pomsta","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak"},{"id":"GVG_086e","name":"Poszycie","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak.","playerClass":"Warrior"},{"id":"PART_001","name":"Poszycie","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Daj stronnikowi +1 do zdrowia.","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_102e","name":"Potęga Majsterkowa","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1/+1."},{"id":"GVG_049e","name":"Potęga Zul'Farrak","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwielokrotnienie ataku.","playerClass":"Hunter"},{"id":"GVG_026","name":"Pozorowanie śmierci","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":2,"text":"Aktywuj <b>Agonię</b> u wszystkich twoich stronników.","flavor":"Pozorując śmierć, najtrudniej jest wydzielać odpowiedni zapach – wymaga to wielkiego poświęcenia (lub pomocy niedźwiedzia).","artist":"Luca Zontini","collectible":true,"playerClass":"Hunter"},{"id":"GVG_011a","name":"Promień skurczający","set":"Goblins vs Gnomes","type":"Enchantment","text":"-2 do ataku w tej turze.","mechanics":["OneTurnEffect"]},{"id":"PART_003","name":"Przerdzewiały klakson","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Daj stronnikowi <b>Prowokację</b>.","artist":"Peerasak Senalai"},{"id":"GVG_068a","name":"Przetrawiona magia","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak.","mechanics":["Aura"]},{"id":"GVG_067a","name":"Przetrawiona magia","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak.","mechanics":["Aura"]},{"id":"GVG_017","name":"Przyzwanie zwierza","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":2,"text":"Dobierz kartę.\nJeśli jest to Bestia, kosztuje (4) mniej.","flavor":"Prawdziwi łowcy potrafią nawet wpaść na trop owcy!","artist":"E.M. Gist","collectible":true,"playerClass":"Hunter"},{"id":"GVG_108","name":"Rekombobulator","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":2,"attack":3,"health":2,"text":"<b>Okrzyk bojowy:</b> Przemień przyjaznego stronnika w losowego stronnika o takim samym koszcie.","flavor":"Ponieważ czasami kombobulacja udaje się dopiero za drugim razem.","artist":"Ben Olson","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_123","name":"Rozpylacz sadzy","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":3,"text":"<b>Obrażenia zaklęć +1</b>","flavor":"Wynalazcy rozpylacza sadzy i goblińskiego szatkownika od lat ciągają się po sądach z powodu drobnego sporu o prawa patentowe.","artist":"Phil Saunders","collectible":true,"race":"Mech","playerClass":"Mage","mechanics":["Spellpower"]},{"id":"GVG_047","name":"Sabotaż","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"Zniszcz losowego wrogiego stronnika. <b>Kombinacja</b>: Oraz broń przeciwnika.","flavor":"„Kto pod kim dołki kopie, ten ma dobrą łopatę” – z Vademecum młodego sabotażysty.","artist":"Dave Allsop","collectible":true,"playerClass":"Rogue","mechanics":["Combo"]},{"id":"GVG_019","name":"Serce demona","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":5,"text":"Zadaj $5 pkt. obrażeń stronnikowi. Jeśli jest przyjaznym Demonem, daj mu zamiast tego +5/+5.","flavor":"Właściwie wszyscy członkowie Koła na Rzecz Demonów to czarnoksiężnicy. Przypadek? Nie sądzę.","artist":"Kerem Beyit","collectible":true,"playerClass":"Warlock"},{"id":"GVG_019e","name":"Serce demona","set":"Goblins vs Gnomes","type":"Enchantment","text":"+5/+5.","playerClass":"Warlock"},{"id":"GVG_050","name":"Skaczące ostrze","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":3,"text":"Zadaj $1 pkt. obrażeń losowemu stronnikowi. Powtarzaj, aż zginie jakiś stronnik.","flavor":"„Kosi kosi łapci. Pojedziem do babci. Babcia skosi gości. I obgryzie kości”. - popularna goblińska wyliczanka","artist":"Andrew Hou","collectible":true,"playerClass":"Warrior"},{"id":"GVG_011","name":"Skurczmajster","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>Okrzyk bojowy:</b> Daj stronnikowi -2 do ataku w tej turze.","flavor":"Po katastrofie wywołanej przez Światopowiększator gnomy bardzo nieufnie odnoszą się do wynalazków manipulujących rozmiarami przedmiotów i osób.","artist":"Jim Nelson","collectible":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_087","name":"Snajper Parochlebców","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":2,"attack":2,"health":3,"text":"Moc specjalna twojego bohatera może być stosowana wobec stronników.","flavor":"Gobliny najczęściej rozwiązują problemy za pomocą bomb, dlatego nieczęsto trafiają się wśród nich snajperzy.","artist":"Jun Kang","collectible":true,"playerClass":"Hunter"},{"id":"GVG_002","name":"Śniegoczłap","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"<b>Zamroź</b> każdą postać zranioną przez tego stronnika.","flavor":"Zaczłapuje przeciwników na śmierć.","artist":"Gabor Szikszai","collectible":true,"race":"Mech","playerClass":"Mage","mechanics":["Freeze"]},{"id":"GVG_073","name":"Strzał kobry","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":5,"text":"Zadaj $3 pkt. obrażeń stronnikowi oraz wrogiemu bohaterowi.","flavor":"Strzał kobry jest dużo łatwiej opanować niż szał kobry.","artist":"Howard Lyon","collectible":true,"playerClass":"Hunter"},{"id":"GVG_023a","name":"Super ostre!","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do ataku."},{"id":"GVG_012","name":"Światło Naaru","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":1,"text":"Przywróć #3 pkt. zdrowia. Jeśli cel wciąż jest ranny, przyzwij Strażniczkę Światłości.","flavor":"Światła takiej jakości to ze świecą szukać.","artist":"Jesper Ejsing","collectible":true,"playerClass":"Priest"},{"id":"GVG_066","name":"Szaman Kafardunów","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":5,"health":4,"text":"<b>Furia wichru,\nPrzeciążenie:</b> (1)\n50% szans na zaatakowanie niewłaściwego wroga.","flavor":"Zamyka oczy i daje się ponieść pierwotnym instynktom.","artist":"José Ladrönn","collectible":true,"playerClass":"Shaman","mechanics":["Windfury"]},{"id":"GVG_114","name":"Szatkownik Szmondaka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":5,"health":7,"text":"<b>Agonia:</b> Przyzwij losowego legendarnego stronnika.","flavor":"Kiedy Szmondak został pokonany, jego szatkownik odkupił anonimowy nabywca. (Najprawdopodobniej był to Wyżer).","artist":"Christopher Moeller","collectible":true,"elite":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_101","name":"Szkarłatny czyściciel","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":4,"health":3,"text":"<b>Okrzyk bojowy:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom z <b>Agonią</b>.","flavor":"Kierownictwo Szkarłatnej Krucjaty rozważa zmianę nazwy na „Fuksjowa Krucjata” celem złagodzenia wizerunku tej organizacji.","artist":"Anton Zemskov","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]},{"id":"GVG_040","name":"Szlamior Duchobieżca","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":2,"health":5,"text":"Dobierz kartę za każdym razem, gdy zginie przyjazny Murlok. <b>Przeciążenie:</b> (1)","flavor":"Żywioły przybywają z pomocą każdemu, kto wzywa je w słusznej sprawie – nawet jeśli ów ktoś czyni to, gulgocząc niezrozumiale.","artist":"Clint Langley","collectible":true,"race":"Murloc","playerClass":"Shaman"},{"id":"GVG_053","name":"Tarczowniczka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":6,"attack":5,"health":5,"text":"<b>Okrzyk bojowy:</b> Otrzymujesz 5 pkt. pancerza.","flavor":"Zawsze ma pod ręką kilka zapasowych tarcz – tak na wszelki wypadek.","artist":"Alex Horley Orlandelli","collectible":true,"playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"GVG_102","name":"Technik z Majsterkowa","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":3,"text":"<b>Okrzyk bojowy:</b> Otrzymuje +1/+1 oraz dodajesz kartę <b>Części zamiennej</b> do twojej ręki, jeśli kontrolujesz Mecha.","flavor":"Jak przygoda to tylko w Majsterkowie!","artist":"Gabor Szikszai","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_076a","name":"Tłoki","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększony atak."},{"id":"GVG_115","name":"Toshley","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":5,"health":7,"text":"<b>Okrzyk bojowy oraz Agonia:</b> Dodaj kartę <b>Części zamiennej</b> do twojej ręki.","flavor":"Marzył o mieczu świetlnym, ale miał za mało mocy.","artist":"Zoltan & Gabor","collectible":true,"elite":true,"mechanics":["Battlecry","Deathrattle"]},{"id":"GVG_067","name":"Trogg kruszyskalny","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"Otrzymuje +1 do ataku za każdym razem, gdy przeciwnik rzuci zaklęcie.","flavor":"Jedyna rzecz gorsza od wąchania trogga to słuchanie jego poezji.","artist":"Peet Cooper","collectible":true},{"id":"GVG_068","name":"Trogg twardopaszczy","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":3,"health":5,"text":"Otrzymuje +2 do ataku za każdym razem, gdy przeciwnik rzuci zaklęcie.","flavor":"Mimo twardej paszczy lubi jajka na miękko.","artist":"Chris Rahn","collectible":true},{"id":"GVG_118","name":"Troggzor Zieminator","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":6,"health":6,"text":"Za każdym razem gdy przeciwnik rzuci zaklęcie, przyzywasz Trogga twardopaszczego.","flavor":"Jeszcze tu wróci.","artist":"Mike Sass","collectible":true,"elite":true},{"id":"GVG_030a","name":"Tryb bojowy","set":"Goblins vs Gnomes","type":"Spell","text":"+1 do ataku.","playerClass":"Druid"},{"id":"GVG_030ae","name":"Tryb bojowy","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do ataku.","playerClass":"Druid"},{"id":"GVG_030be","name":"Tryb obronny","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do zdrowia.","playerClass":"Druid"},{"id":"GVG_030b","name":"Tryb obronny","set":"Goblins vs Gnomes","type":"Spell","text":"+1 do zdrowia.","playerClass":"Druid"},{"id":"GVG_059","name":"Trybomłot","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Epic","cost":3,"attack":2,"durability":3,"text":"<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi <b>Boską tarczę</b> oraz <b>Prowokację</b>.","flavor":"Kawał złomu wyrwany z jakiegoś ustrojstwa, wetknięty na patyk i pomazany starożytnymi runami – broń tak niezawodna, jak wskazuje na to jej opis.","artist":"Danny Orizio","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]},{"id":"GVG_038","name":"Trzask","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"Zadaj $3-$6 pkt. obrażeń.\n<b>Przeciążenie:</b> (1)","flavor":"Słyszysz trzask i wydajesz wrzask!","artist":"Warren Mahy","collectible":true,"playerClass":"Shaman"},{"id":"GVG_122","name":"Tycia wyklinaczka","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":2,"health":5,"text":"Sąsiedni stronnicy nie mogą zostać wybrani jako cel zaklęć lub mocy specjalnych.","flavor":"Zacięcie wyklina każde zaklęcie.","artist":"Jonboy Meyers","collectible":true,"playerClass":"Mage","mechanics":["Aura"]},{"id":"GVG_048","name":"Tygrys metalozębny","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":3,"text":"<b>Okrzyk bojowy:</b> Daj twoim innym Mechom +2 do ataku.","flavor":"Nie zostawiaj ich na deszczu. W kraterze Un'goro jest cała kolonia tygrysów rdzawozębnych.","artist":"Hideaki Takamura","collectible":true,"race":"Mech","playerClass":"Hunter","mechanics":["Battlecry"]},{"id":"GVG_083","name":"Ulepszony reperobot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":5,"text":"<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +4 do zdrowia.","flavor":"Ten model nie różni się niczym od poprzedniego – po prostu ma w nazwie słowo „ulepszony” i jest z tego powodu dwukrotnie droższy.","artist":"Nutchapol Thitinunthakorn","collectible":true,"race":"Mech","playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_021e","name":"Uścisk Mal'Ganisa","set":"Goblins vs Gnomes","type":"Enchantment","text":"Mal'Ganis zapewnia +2/+2.","playerClass":"Warlock"},{"id":"GVG_111t","name":"V-07-TR-0N","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":4,"health":8,"text":"<b>Szarża</b>\n<b>Mega furia wichru</b> <i>(Może atakować cztery razy w ciągu tury).</i>","artist":"Chris Seaman","elite":true,"race":"Mech","mechanics":["Charge"]},{"id":"GVG_014","name":"Vol'jin","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":6,"health":2,"text":"<b>Okrzyk bojowy:</b> Zamień punkty zdrowia z innym stronnikiem.","flavor":"Vol'jin jest łowcą cienia, czyli takim jakby kapłanem cienia, ale z większym nastawieniem na wudowanie.","artist":"Raymond Swanland","collectible":true,"elite":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_024","name":"Wajcha Wihajmistrza","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Epic","cost":3,"attack":1,"durability":3,"text":"Ma +2 do ataku, gdy kontrolujesz Mecha.","flavor":"Do tentegowania i łbów rozwalania!","artist":"Richard Wright","collectible":true,"playerClass":"Rogue","mechanics":["Aura"]},{"id":"GVG_061","name":"Werbunek","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":3,"text":"Przyzwij trzech Rekrutów Srebrnej Dłoni 1/1. Wyposaż bohatera w broń 1/4.","flavor":"„Dwóch synów matka miała - mądry został na roli, a drugi poszedł do Srebrnej Dłoni”. – tekst przyśpiewki rekrutów.","artist":"Mike Hayes","collectible":true,"playerClass":"Paladin"},{"id":"GVG_013","name":"Wihajmistrz","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"Ma +2 do ataku, gdy kontrolujesz Mecha.","flavor":"W końcu się przyzwyczajasz. Ja już nawet nie zauważam sprężyn i kółek zębatych. Widzę robota, pajęczy czołg, promień śmierci...","artist":"Trent Kaniuga","collectible":true,"mechanics":["Aura"]},{"id":"GVG_070","name":"Wilk morski","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":7,"health":4,"flavor":"Przez pewien czas był wilkiem podmorskim, ale w końcu go wyłowiono.","artist":"Alex Horley Orlandelli","collectible":true,"race":"Pirate"},{"id":"PART_007e","name":"Wirujące ostrza","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1 do ataku."},{"id":"PART_007","name":"Wirujące ostrza","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Daj stronnikowi +1 do ataku.","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_037","name":"Wirujący iskrobot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>Furia wichru</b>","flavor":"Należy go trzymać z dala od beczek z prochem.","artist":"Jim Nelson","collectible":true,"race":"Mech","playerClass":"Shaman","mechanics":["Windfury"]},{"id":"GVG_085","name":"Wkurzotron","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"<b>Prowokacja</b>\n<b>Boska tarcza</b>","flavor":"Wynalazcę Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstrów, później z Majsterkowa, aż w końcu wygnano go ze Wschodnich Królestw i zakazano powrotu.","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Divine Shield","Taunt"]},{"id":"GVG_010b","name":"Wybraniec Velena","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+4 oraz <b>Obrażenia zaklęć +1</b>."},{"id":"GVG_010","name":"Wybraniec Velena","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":3,"text":"Daj stronnikowi +2/+4 oraz <b>Obrażenia zaklęć +1</b>.","flavor":"Jak Velen kogoś wybierze, to nie ma zmiłuj!","artist":"Alex Horley Orlandelli","collectible":true,"playerClass":"Priest"},{"id":"GVG_076","name":"Wybuchowa owca","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":1,"text":"<b>Agonia:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom.","flavor":"Modę na wybuchowe owce zapoczątkował niejaki szewczyk Skuba z czworaków pod Wichrogrodem.","artist":"Ralph Horsley","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_055e","name":"Wyśrubnik","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2.","playerClass":"Warrior"},{"id":"GVG_036e","name":"Wzmocnienie","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2.","playerClass":"Shaman"},{"id":"GVG_014a","name":"Zacienienie","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zamienione zdrowie.","playerClass":"Priest"},{"id":"GVG_071","name":"Zagubiony biegus","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":4,"flavor":"Na zadku ma wytatuowaną wiadomość: „Znalazcę prosimy o zwrot zguby do Mulgoru”.","artist":"Benjamin Zhang","collectible":true,"race":"Beast"},{"id":"GVG_105","name":"Załogowy podniebny golem","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":6,"attack":6,"health":4,"text":"<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 4.","flavor":"To szczytowe osiągnięcie goblińskiej technologii jest wyposażone w skórzaną tapicerkę, ekspres do kawy i podgrzewane siedzenia.","artist":"Michael Phillippi","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_096","name":"Załogowy szatkownik","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":3,"text":"<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 2.","flavor":"Kiedyś tylko gobliny mogły siadać za sterami szatkowników. Dzisiaj produkują nawet modele dla taurenów.","artist":"Dan Scott","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"PART_006a","name":"Zamiana","set":"Goblins vs Gnomes","type":"Enchantment","text":"Atak i zdrowie zostały zamienione przez Zmiano-odwracacz."},{"id":"GVG_027e","name":"Żelazna postać","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększone statystyki.","playerClass":"Rogue"},{"id":"GVG_056","name":"Żelazny moloch","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":6,"health":5,"text":"<b>Okrzyk bojowy:</b> Wtasuj Minę do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 10 pkt. obrażeń.","flavor":"Żelazny moloch niestrudzenie strzeże Orgrimmaru. Jest tak skuteczny, że właśnie udało mu się zostać pracownikiem miesiąca!","artist":"Raymond Swanland","collectible":true,"elite":true,"race":"Mech","playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"GVG_027","name":"Żelazny sensei","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":2,"text":"Na koniec twojej tury daj innemu przyjaznemu Mechowi +2/+2.","flavor":"Jest jednym z nielicznych pedagogów, który znajduje wspólny język z mechami.\n\n01000111101001001","artist":"Brian Despain","collectible":true,"race":"Mech","playerClass":"Rogue"},{"id":"GVG_029","name":"Zew przodków","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"Umieść po jednym, losowym stronniku z ręki każdego z graczy na polu bitwy.","flavor":"Poprzednia wersja tej karty nazywała się „Zlew przodków”, ale przodkowie się obrazili.","artist":"Dan Scott","collectible":true,"playerClass":"Shaman"},{"id":"GVG_106e","name":"Zezłomowanie","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększone statystyki."},{"id":"GVG_106","name":"Złomobot","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":1,"health":5,"text":"Otrzymuje +2/+2 za każdym razem, gdy zginie przyjazny Mech.","flavor":"To złomobot wszystko skrawa, bez różnicy, stal czy trawa. I w ogóle jest zabawa!","artist":"Zoltan Boros","collectible":true,"race":"Mech"},{"id":"GVG_100e","name":"Zmarszczenie brwi","set":"Goblins vs Gnomes","type":"Enchantment","text":"Zwiększone statystyki.","playerClass":"Warlock"},{"id":"PART_006","name":"Zmiano-odwracacz","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"Zamień atak i zdrowie stronnika.","artist":"Nutthapon Petthai"},{"id":"GVG_052","name":"Zmiażdżenie","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":7,"text":"Zniszcz stronnika. Jeśli kontrolujesz rannego stronnika, koszt tej karty jest mniejszy o (4) pkt.","flavor":"Pewna wojowniczka imieniem Jagienka często używała tej karty na orzechach.","artist":"Michael Sutfin","collectible":true,"playerClass":"Warrior"},{"id":"GVG_039","name":"Życiodajny totem","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":0,"health":3,"text":"Na koniec twojej tury przywraca 4 pkt. zdrowia twojemu bohaterowi.","flavor":"Przed użyciem zapoznaj się z treścią ulotki dołączonej do opakowania, bądź skonsultuj się z szamanem lub duchami przodków.","artist":"Guangjian Huang","collectible":true,"race":"Totem","playerClass":"Shaman"}]
+[
+    {
+        "artist": "Seamus Gallagher",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u201ePatrzcie! P\u0142ynie do nas jaka\u015b du\u017ca rybka!\u201d \u2013 ostatnie s\u0142owa jednego z uczestnik\u00f3w (nieudanej) wyprawy w\u0119dkarskiej u wschodnich wybrze\u017cy Azeroth.",
+        "health": 3,
+        "id": "GVG_081",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "Akwoblin tropiciel",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Ukrycie</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Eva Widermann",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "elite": false,
+        "flavor": "Jaki uroczy malec! RATUNKU ZARAZ ZE\u017bRE MI TWARZ!",
+        "health": 2,
+        "id": "GVG_030",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Anodowany robocik",
+        "playerClass": "Druid",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>.\n<b>Wybierz jedno:</b> \n+1 do ataku; lub +1 do zdrowia.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Teraz, panie, to ju\u017c takich nie robi\u0105! (Zapewne dlatego, \u017ce wi\u0119kszo\u015b\u0107 wybuch\u0142a).",
+        "health": 3,
+        "id": "GVG_069",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Antyczny medibot",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Przywr\u00f3\u0107 8 pkt. zdrowia twojemu bohaterowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 0,
+        "collectible": true,
+        "cost": 0,
+        "flavor": "Ca\u0142y czas co\u015b j\u0105 trapi.",
+        "health": 2,
+        "id": "GVG_093",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Atrapa",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Peerasak Senalai",
+        "cost": 1,
+        "id": "PART_005",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Awaryjne ch\u0142odziwo",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Zamro\u017a</b> stronnika.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jomaro Kindred",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "B\u0142yszczy niczym tron.",
+        "health": 4,
+        "id": "GVG_119",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "B\u0142yskotron 3000",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Wyposa\u017c ka\u017cdego z graczy w losow\u0105 bro\u0144.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Jego funkcja podstawowa to prawy sierpowy. Funkcja wspomagaj\u0105ca to lewy sierpowy.",
+        "health": 3,
+        "id": "GVG_072",
+        "name": "Bokser cienia",
+        "playerClass": "Priest",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy jaka\u015b posta\u0107 zostanie uleczona, zadaj 1 pkt. obra\u017ce\u0144 losowemu wrogowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Tooth",
+        "attack": 1,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Uwaga, zdradzamy zako\u0144czenie: Bolvar ginie! Ale nie ca\u0142kiem, poniewa\u017c zostaje zamieniony w \u017cywy ogarek, a potem zasiada na tronie z lodu i wszyscy o nim zapominaj\u0105.",
+        "health": 7,
+        "id": "GVG_063",
+        "name": "Bolvar Fordragon",
+        "playerClass": "Paladin",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Gdy masz t\u0119 kart\u0119 w r\u0119ce, otrzymuje +1 do ataku za ka\u017cdym razem, gdy zginie przyjazny stronnik.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jeff Haynie",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Nie wiem jak dla pa\u0144stwa, ale dla mnie - bomba!",
+        "id": "GVG_015",
+        "name": "Bomba cieni",
+        "playerClass": "Warlock",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $3 pkt. obra\u017ce\u0144.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Luca Zontini",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Tak to jest, jak si\u0119 pozwoli goblinom na zostanie kap\u0142anami.",
+        "id": "GVG_008",
+        "mechanics": [
+            "AffectedBySpellPower"
+        ],
+        "name": "Bomba \u015bwiat\u0142a",
+        "playerClass": "Priest",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Ka\u017cdemu stronnikowi zadaj obra\u017cenia r\u00f3wne jego atakowi.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Luca Zontini",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Przez dziesi\u0119\u0107 lat z rz\u0119du zdobywa\u0142 tytu\u0142 mistrza okr\u0119gu w rzucie bomb\u0105, pchni\u0119ciu bomb\u0105 oraz toczeniu bomby na czas.",
+        "health": 3,
+        "id": "GVG_099",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Bombardier",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zadaj 4 pkt. obra\u017ce\u0144 losowemu wrogiemu stronnikowi.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_045t",
+        "name": "Chochlik",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jaemin Kim",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Wbrew pozorom zakl\u0119cie to nie przywo\u0142uje kozy z chochl\u0105.",
+        "id": "GVG_045",
+        "name": "Chochlikoza",
+        "playerClass": "Warlock",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $2-$4 pkt. obra\u017ce\u0144 stronnikowi. Przyzwij Chochlika 1/1 za ka\u017cdy zadany punkt obra\u017ce\u0144.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Wykonuje swoj\u0105 prac\u0119 bez cienia entuzjazmu.",
+        "health": 1,
+        "id": "GVG_009",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Cieniomantka",
+        "playerClass": "Priest",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obra\u017ce\u0144 ka\u017cdemu bohaterowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brandon Kitkouski",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Nie myli\u0107 z \u201eCyklinowaniem \u017cycia\u201d!",
+        "id": "GVG_031",
+        "name": "Cykl \u017cycia",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Wtasuj wrogiego stronnika do talii przeciwnika.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Nutthapon Petthai",
+        "cost": 1,
+        "id": "PART_002",
+        "name": "Czasoprzewijacz",
+        "set": "Goblins vs Gnomes",
+        "text": "Cofnij przyjaznego stronnika na twoj\u0105 r\u0119k\u0119.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "attack": 7,
+        "collectible": true,
+        "cost": 8,
+        "flavor": "Ma promie\u0144 skr\u0119tu jak czo\u0142g, ale przynajmniej niestraszne mu korki.",
+        "health": 7,
+        "id": "GVG_079",
+        "mechanics": [
+            "Divine Shield"
+        ],
+        "name": "Czo\u0142g wspomagany MAKS",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Boska tarcza</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_101e",
+        "name": "Czysto\u015b\u0107",
+        "playerClass": "Paladin",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszone statystyki.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_032b",
+        "name": "Dar kart",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "Ka\u017cdy z graczy dobiera kart\u0119.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_032a",
+        "name": "Dar many",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj ka\u017cdemu z graczy po krysztale many.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Alex Garner",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Szef najskuteczniejszej (a na pewno najszybszej) ekipy rozbi\u00f3rkowej w ca\u0142ym Azeroth.",
+        "health": 7,
+        "id": "GVG_110",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Doktor Huk",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Przyzwij dwa Hukoboty 1/1. <i>UWAGA: Hukoboty mog\u0105 hukn\u0105\u0107.</i>",
+        "type": "Minion"
+    },
+    {
+        "artist": "James Ryman",
+        "attack": 6,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "Doskona\u0142y na do\u017cynki i dorzynki.",
+        "health": 9,
+        "id": "GVG_113",
+        "name": "Do\u017cynkarz 4000",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj r\u00f3wnie\u017c obra\u017cenia stronnikom znajduj\u0105cym si\u0119 obok celu ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brandon Kitkouski",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Druidzi K\u0142a pisz\u0105 wy\u0142\u0105cznie w\u0119\u017cykiem.",
+        "health": 4,
+        "id": "GVG_080",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Druid K\u0142\u00f3w",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Je\u015bli kontrolujesz Besti\u0119, przemie\u0144 tego stronnika w 7/7.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Massive Black",
+        "attack": 7,
+        "cost": 5,
+        "health": 7,
+        "id": "GVG_080t",
+        "name": "Druid K\u0142\u00f3w",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Steve Prescott",
+        "collectible": true,
+        "cost": 9,
+        "flavor": "Dotyk drzewa leczy ca\u0142e \u017cycie!",
+        "id": "GVG_033",
+        "name": "Drzewo \u017bycia",
+        "playerClass": "Druid",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Przywr\u00f3\u0107 wszystkie postaci do pe\u0142ni zdrowia.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Warren Mahy",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Kiedy w powietrzu zaczynaj\u0105 \u015bwiszcze\u0107 kule armatnie, najwy\u017cszy czas zabra\u0107 si\u0119 za klecenie tratwy.",
+        "health": 3,
+        "id": "GVG_075",
+        "name": "Dzia\u0142o okr\u0119towe",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy przyzwiesz Pirata, zadaj 2 pkt. obra\u017ce\u0144 losowemu wrogowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Gaser",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Na opakowaniu napisano: \u201eZupe\u0142na nowo\u015b\u0107! 200% wi\u0119cej Spaczenia!\u201d",
+        "health": 5,
+        "id": "GVG_020",
+        "name": "Dzia\u0142o Spaczenia",
+        "playerClass": "Warlock",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Na koniec twojej tury zadaj 2 pkt. obra\u017ce\u0144 losowemu stronnikowi nieb\u0119d\u0105cemu Mechem.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Garner",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Echo Medivha nawiedza Karazhan, wiecznie oszukuj\u0105c podczas gry w szachy oraz <i>Hearthstone</i>.",
+        "id": "GVG_005",
+        "name": "Echo Medivha",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Umie\u015b\u0107 w twojej r\u0119ce kopi\u0119 ka\u017cdego przyjaznego stronnika.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u015awi\u0119cie wierzy w jeden, powszechny i mi\u0119dzyrobotowy program.",
+        "health": 2,
+        "id": "GVG_058",
+        "mechanics": [
+            "Divine Shield"
+        ],
+        "name": "Ekranowany minibot",
+        "playerClass": "Paladin",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Boska tarcza</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan and Gabor",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "durability": 2,
+        "flavor": "Wszyscy my\u015bl\u0105, \u017ce szamani rozkazuj\u0105 \u017cywio\u0142om, a tak naprawd\u0119 musz\u0105 o wszystko grzecznie prosi\u0107.",
+        "id": "GVG_036",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Elektrobu\u0142awa",
+        "playerClass": "Shaman",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Daj losowemu przyjaznemu Mechowi +2/+2.",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Aby to ustrojstwo dzia\u0142a\u0142o prawid\u0142owo, nale\u017cy posmarowa\u0107 je ma\u015bci\u0105 latania i u\u017cy\u0107 magicznych s\u0142\u00f3w: \u201ePole, las, woda, wie\u015b, nadszed\u0142 czas, maszyno le\u0107\u201d.",
+        "health": 4,
+        "id": "GVG_084",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "Fruwaj\u0105ca maszyna",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Furia wichru</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Co trzy g\u0142owy, to nie jedna.",
+        "health": 9,
+        "id": "GVG_049",
+        "name": "Gahz'rilla",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy ten stronnik zostanie zraniony, podwaja warto\u015b\u0107 swojego ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Luke Mancini",
+        "attack": 3,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "W szkole Gazolowi nie pozwalano wykonywa\u0107 do\u015bwiadcze\u0144 po tym, jak niechc\u0105cy wysadzi\u0142 w powietrze kantorek chemik\u00f3w.",
+        "health": 6,
+        "id": "GVG_117",
+        "name": "Gazol",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy rzucasz zakl\u0119cie za 1 many, umie\u015b\u0107 w r\u0119ce losowego Mecha.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_043e",
+        "name": "Glewiozuka",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Gino Whitehall",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "durability": 2,
+        "flavor": "Przydaje si\u0119 w sytuacjach, w kt\u00f3rych normalna bazuka nie wystarcza.",
+        "id": "GVG_043",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Glewiozuka",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi +1 do ataku.",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Naciskanie wielkiego czerwonego guzika surowo wzbronione!",
+        "health": 5,
+        "id": "GVG_111",
+        "name": "G\u0142owa Mimirona",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Je\u015bli na pocz\u0105tku twojej tury kontrolujesz co najmniej 3 Mechy, niszczysz je i tworzysz V-07-TR-0Na.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "A gdyby tak skrzy\u017cowa\u0107 smoka z wiewi\u00f3rk\u0105? Czy otrzymaliby\u015bmy smokowiewi\u00f3rk\u0119?",
+        "health": 2,
+        "id": "GVG_092",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gnom eksperymentator",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Dobierz kart\u0119. Je\u015bli to stronnik, zamieni si\u0119 w Kurczaka.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Glenn Rane",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Je\u015bli nie masz na podor\u0119dziu \u017cadnej bomby, wystarczy dowolny inny gobli\u0144ski wynalazek.",
+        "health": 4,
+        "id": "GVG_004",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Goblin grzmotnik",
+        "playerClass": "Mage",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Je\u015bli kontrolujesz Mecha, zadaj 4 punkty obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wszystkimi wrogami.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zolton Boros",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Przytnie twoj\u0105 fryzur\u0119 lub ciebie \u2013 korzystasz na w\u0142asne ryzyko.",
+        "health": 2,
+        "id": "GVG_023",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gobli\u0144ski fryzuromat",
+        "playerClass": "Rogue",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy</b>: Daj twojej broni +1 do ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Kiedy\u015b detonowa\u0142 na\u0142ogowo. Teraz eksploduje tylko dla towarzystwa.",
+        "health": 4,
+        "id": "GVG_095",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Gobli\u0144ski saper",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Ma +4 do ataku, kiedy tw\u00f3j przeciwnik ma w r\u0119ce 6 lub wi\u0119cej kart.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Josh Harris",
+        "attack": 9,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Golem Animusa ma niez\u0142y animusz!",
+        "health": 9,
+        "id": "GVG_077",
+        "name": "Golem Animusa",
+        "playerClass": "Warlock",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Na ko\u0144cu ka\u017cdej tury zniszcz tego stronnika, je\u015bli nie posiadasz innych w grze.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 8,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Tyle grabienia. Takie spaczenie. \u0141a\u0142.",
+        "health": 8,
+        "id": "GVG_016",
+        "name": "Grabie\u017cca Spaczenia",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy przeciwnik zagra kart\u0119, odrzu\u0107 3 g\u00f3rne karty z twojej talii.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Nigdy nie \u017cegna si\u0119 z broni\u0105.",
+        "health": 3,
+        "id": "GVG_120",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Hemet Nesingwary",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zniszcz Besti\u0119.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Laurel D. Austin",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Podczas najbli\u017cszego walnego zebrania zwi\u0105zek zawodowy hobgoblin\u00f3w zajmie stanowisko w sprawie plan\u00f3w przed\u0142u\u017cenia wieku emerytalnego do siedmiu lat.",
+        "health": 3,
+        "id": "GVG_104",
+        "name": "Hobgoblin",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy zagrywasz stronnika z atakiem 1, daj mu +2/+2.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_104a",
+        "name": "Hobomoc!",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_110t",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Hukobot",
+        "race": "Mech",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Zadaj 1-4 pkt. obra\u017ce\u0144 losowemu wrogowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "W profesji lokaja najbardziej ceni sobie dobieranie opon.",
+        "health": 4,
+        "id": "GVG_094",
+        "name": "Jan",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Ka\u017cdy gracz ko\u0144cz\u0105cy tur\u0119 musi dobra\u0107 karty, a\u017c b\u0119dzie mie\u0107 ich 3 na r\u0119ce.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Danny Beck",
+        "attack": 4,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Jest gro\u017aniejszy od jednor\u0119kiego bandyty.",
+        "health": 1,
+        "id": "GVG_025",
+        "name": "Jednooki szubrawiec",
+        "playerClass": "Rogue",
+        "race": "Pirate",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje <b>Ukrycie</b> za ka\u017cdym razem, gdy przyzwiesz Pirata.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u201eLUMOS!\u201d \u2013 nie nale\u017cy do ich repertuaru zawo\u0142a\u0144. Nie jeste\u015bmy w Hogwarcie.",
+        "health": 4,
+        "id": "GVG_089",
+        "name": "Jutrzenka",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Je\u015bli na koniec twojej tury kontrolujesz <b>Sekret</b>, przywr\u00f3\u0107 4 pkt. zdrowia twojemu bohaterowi.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jaemin Kim",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u017byje w zbiorniku wodnym o znikomym znaczeniu strategicznym, ale nie sp\u0119dza mu to snu z powiek.",
+        "health": 2,
+        "id": "GVG_064",
+        "name": "Ka\u0142u\u017cniak",
+        "race": "Murloc",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_004e",
+        "name": "Kamufla\u017c",
+        "set": "Goblins vs Gnomes",
+        "text": "Ukrycie trwa do nast\u0119pnej tury.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Zawodowo zajmuje si\u0119 klekotacj\u0105 i wy\u015brubowywaniem.",
+        "health": 5,
+        "id": "GVG_055",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Klekotnik Wy\u015brubny",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +2/+2.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Dawniej stra\u017cnik\u00f3w robiono z adamantium, ale produkcj\u0119 przeniesiono do Gad\u017cetonu, gdzie kobalt by\u0142 po tanio\u015bci.",
+        "health": 3,
+        "id": "GVG_062",
+        "name": "Kobaltowy stra\u017cnik",
+        "playerClass": "Paladin",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje <b>Bosk\u0105 tarcz\u0119</b> za ka\u017cdym razem, gdy przyzywasz Mecha.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Seaman",
+        "cost": 0,
+        "id": "GVG_056t",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Krecia mina",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "Kiedy dobierasz t\u0119 kart\u0119, eksploduje. Otrzymujesz 10 pkt. obra\u017ce\u0144 i dobierasz kart\u0119.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_046e",
+        "name": "Kr\u00f3l",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Seamus Gallagher",
+        "attack": 2,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Na ciebie czekam lwie. Bo hiena chyba nie z\u017car\u0142a ci\u0119.",
+        "health": 6,
+        "id": "GVG_046",
+        "mechanics": [
+            "Battlecry",
+            "Taunt"
+        ],
+        "name": "Kr\u00f3l bestii",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>. <b>Okrzyk bojowy:</b> Otrzymuje +1 do ataku za ka\u017cd\u0105 Besti\u0119, kt\u00f3r\u0105 kontrolujesz.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Wei Wang",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "Galiwiasz potrafi doskonale liczy\u0107, dlatego liczy wy\u0142\u0105cznie na siebie.",
+        "health": 8,
+        "id": "GVG_028",
+        "name": "Kupiecki Ksi\u0105\u017c\u0119 Galiwiasz",
+        "playerClass": "Rogue",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy przeciwnik rzuci zakl\u0119cie, otrzymujesz jego kopi\u0119, za\u015b on dostaje Monet\u0119.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_092t",
+        "name": "Kurczak",
+        "race": "Beast",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Phroilan Gardner",
+        "attack": 2,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Jego specjalno\u015b\u0107? Wolne kwatery nad morzem.",
+        "health": 5,
+        "id": "GVG_060",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Kwatermistrz",
+        "playerClass": "Paladin",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj twoim Rekrutom Srebrnej D\u0142oni +2/+2.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Todd Lockwood",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Na pocz\u0105tku nazywa\u0142 si\u0119 Z\u0142e Oko Pewnej Zguby, ale nazwa odstrasza\u0142a potencjalnych stronnik\u00f3w.",
+        "health": 4,
+        "id": "GVG_100",
+        "name": "Lewituj\u0105cy obserwator",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje +2/+2 za ka\u017cdym razem,  gdy tw\u00f3j bohater otrzymuje obra\u017cenia w twojej turze.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Tyler Walpole",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Mia\u0142 by\u0107 \u201erobotobotem\u201d, ale jego projektant sepleni\u0142.",
+        "health": 3,
+        "id": "GVG_051",
+        "mechanics": [
+            "Enrage"
+        ],
+        "name": "\u0141omotobot",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Sza\u0142:</b> +1 do ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zero Yue",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Nie\u017ale si\u0119 prezentuje na polu bitwy, ale czy ma jakie\u015b zastosowanie praktyczne?",
+        "health": 5,
+        "id": "GVG_086",
+        "name": "Machina obl\u0119\u017cnicza",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy otrzymujesz pancerz, daj temu stronnikowi +1 do ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Wayne Reynolds",
+        "attack": 9,
+        "collectible": true,
+        "cost": 9,
+        "elite": true,
+        "flavor": "Gdy si\u0119 Mal'Ganisa gani, ten okrutnie wszystkich rani!",
+        "health": 7,
+        "id": "GVG_021",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Mal'Ganis",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Twoje pozosta\u0142e Demony otrzymuj\u0105 +2/+2.\nTw\u00f3j bohater posiada <b>Niewra\u017cliwo\u015b\u0107</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Potrafi zamieni\u0107 agoni\u0119 w pelargoni\u0119!",
+        "health": 3,
+        "id": "GVG_097",
+        "mechanics": [
+            "Battlecry",
+            "Taunt"
+        ],
+        "name": "Ma\u0142a egzorcystka",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>\n <b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za ka\u017cdego wrogiego stronnika z <b>Agoni\u0105</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Oliver Chipping",
+        "attack": 9,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Od czasu pami\u0119tnego pojedynku z Archimondem, Malorn nie pozwala si\u0119 ju\u017c wyjeleni\u0107.",
+        "health": 7,
+        "id": "GVG_035",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Malorn",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Wtasuj tego stronnika do twojej talii.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Seaman",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Yeti z Zimnych Wichr\u00f3w s\u0105 \u017ar\u00f3d\u0142em inspiracji dla wielu wynalazc\u00f3w \u2013 kiedy akurat nie \u015bcigaj\u0105 ich w celach konsumpcji.",
+        "health": 5,
+        "id": "GVG_078",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Mechaniczny yeti",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Daj ka\u017cdemu z graczy po karcie <b>Cz\u0119\u015bci zamiennej</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan Boros",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Jego dopalacze s\u0105 zakazane w niekt\u00f3rych krajach.",
+        "health": 2,
+        "id": "GVG_107",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Mechano Wzmacniano",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Twoi pozostali stronnicy otrzymuj\u0105 <b>Furi\u0119 wichru</b>, <b>Prowokacj\u0119</b> lub <b>Bosk\u0105 tarcz\u0119</b>.\n<i>(losowo)</i>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 9,
+        "collectible": true,
+        "cost": 9,
+        "elite": true,
+        "flavor": "Chcia\u0142 przej\u0105\u0107 kontrol\u0119 nad Gnomoreganem, ale wszyscy wiemy, jak na tym wyszed\u0142.",
+        "health": 7,
+        "id": "GVG_116",
+        "name": "Mechin\u017cynier Termowtyk",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy ginie wrogi stronnik, przyzywasz Tr\u0119dowatego gnoma.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 7,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Jego najlepszym kumplem jest Zwierzo-cz\u0142eko-upi\u00f3r.",
+        "health": 6,
+        "id": "GVG_034",
+        "name": "Mecho-koto-d\u017awied\u017a",
+        "playerClass": "Druid",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy ten stronnik otrzyma obra\u017cenia, dodaj kart\u0119 <b>Cz\u0119\u015bci zamiennej</b> do twojej r\u0119ki.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_048e",
+        "name": "Metalowe z\u0119by",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "+2 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Skan Srisuwan",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Jest w zwi\u0105zku z mikrokomputerem.",
+        "health": 2,
+        "id": "GVG_103",
+        "name": "Mikromaszyna",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Na pocz\u0105tku ka\u017cdej tury otrzymuje +1 do ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Czasem ukrywa si\u0119 w kufrze ze skarbami na Arenie Gurubaszi.",
+        "health": 1,
+        "id": "GVG_109",
+        "mechanics": [
+            "Spellpower",
+            "Stealth"
+        ],
+        "name": "Minimag",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Ukrycie</b>\n<b>Obra\u017cenia zakl\u0119\u0107 +1</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jakub Kasper",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Dozna\u0142a o\u015bwiecenia, kontempluj\u0105c kwiat lotosu unosz\u0105cy si\u0119 na przezroczystej tafli jeziora.",
+        "health": 3,
+        "id": "GVG_074",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Mistyczka z Kezanu",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Przejmij kontrol\u0119 nad losowym <b>Sekretem</b> przeciwnika.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "GVG_028t",
+        "name": "Moneta Galiwiasza",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymujesz 1 kryszta\u0142 many w tej turze.\n<i>(Nie uaktywnia to Galiwiasza.)</i>",
+        "type": "Spell"
+    },
+    {
+        "artist": "Phil Saunders",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Mechy, kt\u00f3re przywo\u0142uj\u0105 mechy? A potem co? P\u0105czkuj\u0105ce p\u0105czki? Hmm, w sumie...",
+        "health": 3,
+        "id": "GVG_006",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Naganiacz mech\u00f3w",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Twoje Mechy kosztuj\u0105 (1) mniej.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Mo\u017ce i jest powolny, ale jak si\u0119 rozkr\u0119ci\u2026",
+        "health": 1,
+        "id": "GVG_082",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Nakr\u0119cany gnom",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Dodaj kart\u0119 <b>Cz\u0119\u015bci zamiennej</b> do twojej r\u0119ki.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 8,
+        "collectible": true,
+        "cost": 12,
+        "flavor": "Nie mo\u017ce znale\u017a\u0107 wsp\u00f3lnego j\u0119zyka z reszt\u0105 olbrzym\u00f3w.",
+        "health": 8,
+        "id": "GVG_121",
+        "name": "Nakr\u0119cany olbrzym",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Kosztuje (1) mniej za ka\u017cd\u0105 kart\u0119 w r\u0119ce przeciwnika.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_069a",
+        "name": "Naprawa!",
+        "playerClass": "Priest",
+        "set": "Goblins vs Gnomes",
+        "text": "+4 do zdrowia.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Ruan Jia",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Neptulon nie ogarnia murlok\u00f3w, bo ostatnio coraz cz\u0119\u015bciej jest zalany.",
+        "health": 7,
+        "id": "GVG_042",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Neptulon",
+        "playerClass": "Shaman",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Dodaj 4 losowe Murloki do twojej r\u0119ki. <b>Przeci\u0105\u017cenie:</b> (3)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_004",
+        "name": "Niestabilny kamufla\u017c",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj przyjaznemu stronnikowi <b>Ukrycie</b> do twojej nast\u0119pnej tury.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Sean O'Daniels",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Mieszka\u0144cy Azeroth nie zdaj\u0105 sobie sprawy, ile kosztuje stabilizacja portali. Na ich utrzymanie leci jakie\u015b 30% PKB!",
+        "id": "GVG_003",
+        "name": "Niestabilny portal",
+        "playerClass": "Mage",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Dodaj losowego stronnika do twojej r\u0119ki. Kosztuje (3) mniej.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Bombiarz ma bardzo wybuchowy charakter.",
+        "health": 4,
+        "id": "GVG_090",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Ob\u0142\u0105kany bombiarz",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zadaj 6 pkt. obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wszystkimi innymi postaciami.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zero Yue",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Gnomi magowie odbyli na temat tego mecha kilka bardzo powa\u017cnych rozm\u00f3w z gnomimi in\u017cynierami.",
+        "health": 5,
+        "id": "GVG_091",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Odmagiczniacz X-21",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>\nNie mo\u017ce zosta\u0107 wybrany jako cel zakl\u0119\u0107 lub mocy specjalnych.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Nad nazw\u0105 tej karty pracowa\u0142y najt\u0119\u017csze umys\u0142y!",
+        "id": "GVG_041",
+        "name": "Ogniki b\u0142\u0119dniki",
+        "playerClass": "Druid",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Wybierz jedno:</b> Przyzwij 5 Ognik\u00f3w; lub daj stronnikowi +5/+5 oraz <b>Prowokacj\u0119</b>.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_041c",
+        "name": "Ogniki b\u0142\u0119dniki",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5 oraz <b>Prowokacja</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_041b",
+        "name": "Ogniki b\u0142\u0119dniki",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "Przyzwij 5 Ognik\u00f3w.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_041a",
+        "name": "Ogniki b\u0142\u0119dniki",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5 oraz <b>Prowokacja</b>.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Mauricio Herrera",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Ogniste dzia\u0142o doskonale wpisuje si\u0119 w d\u0142ug\u0105 tradycj\u0119 zab\u00f3jczych gobli\u0144skich wynalazk\u00f3w.",
+        "id": "GVG_001",
+        "name": "Ogniste dzia\u0142o",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $4 pkt. obra\u017ce\u0144 losowemu wrogiemu stronnikowi.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Vinod Rams",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u201eJA MIE\u0106 LEPSZE STATY ZA NI\u017bSZOM CENE!\u201d",
+        "health": 4,
+        "id": "GVG_065",
+        "name": "Ogr mi\u0119\u015bniak",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "50% szans na zaatakowanie niew\u0142a\u015bciwego\nwroga.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Michal Ivan",
+        "attack": 7,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "Mogor uczestniczy\u0142 w ponownym otwarciu Mrocznego Portalu. Je\u015bli o pomoc w tak odpowiedzialnym zadaniu musisz prosi\u0107 ogra, to wiedz, \u017ce jeste\u015b w powa\u017cnych tarapatach.",
+        "health": 6,
+        "id": "GVG_112",
+        "name": "Ogr Mogor",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Wszyscy stronnicy maj\u0105 50% szans na zaatakowanie niew\u0142a\u015bciwego wroga.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Co prawda nie zda\u0142 egzaminu wst\u0119pnego do akademii ninja, ale za\u0142apa\u0142 si\u0119 na dodatkowy nab\u00f3r.",
+        "health": 6,
+        "id": "GVG_088",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "Ogr ninja",
+        "playerClass": "Rogue",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Ukrycie</b>\n50% szans na zaatakowanie niew\u0142a\u015bciwego wroga.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Richard Wright",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "durability": 2,
+        "flavor": "Brutalnie prosty \u2013 jak wi\u0119kszo\u015b\u0107 przejaw\u00f3w kultury ogr\u00f3w.",
+        "id": "GVG_054",
+        "name": "Ogrzy Haratacz",
+        "playerClass": "Warrior",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "50% szans na zaatakowanie niew\u0142a\u015bciwego\nwroga.",
+        "type": "Weapon"
+    },
+    {
+        "id": "GVG_022a",
+        "name": "Olejek ose\u0142kowy",
+        "set": "Goblins vs Gnomes",
+        "text": "+3 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Den",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u201eGotowi do smarowania!\u201d - okrzyk bojowy \u0142ap\u00f3wkarzy.",
+        "id": "GVG_022",
+        "mechanics": [
+            "Combo"
+        ],
+        "name": "Olejek ose\u0142kowy",
+        "playerClass": "Rogue",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj twojej broni +3 do ataku. <b>Kombinacja:</b> Daj losowemu przyjaznemu stronnikowi +3 do ataku.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_022b",
+        "name": "Olejek ose\u0142kowy",
+        "set": "Goblins vs Gnomes",
+        "text": "+3 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "PART_001e",
+        "name": "Opancerzenie",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do zdrowia.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u201eA mo\u017ce by tak zamontowa\u0107 na nim takie wielgachne dzia\u0142a?\u201d \u2013 in\u017cynier Migb\u0142ysk podczas odbioru Paj\u0119czego Transportera Krocz\u0105cego.",
+        "health": 4,
+        "id": "GVG_044",
+        "name": "Paj\u0119czy czo\u0142g",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Carl Critchlow",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Jej siostra, Pani Bulu, zsy\u0142a cierpienie na w\u0142adc\u00f3w kr\u00f3lestwa Beznadzieji.",
+        "health": 4,
+        "id": "GVG_018",
+        "name": "Pani B\u00f3lu",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy ten stronnik zadaje obra\u017cenia, przywraca tyle samo zdrowia twojemu bohaterowi.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_060e",
+        "name": "Pe\u0142ne wyposa\u017cenie",
+        "playerClass": "Paladin",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Lubi piesze wycieczki w le\u015bnej g\u0142uszy. Nie lubi gobli\u0144skich szatkownik\u00f3w i sanda\u0142\u00f3w (\u017cadne na ni\u0105 nie pasuj\u0105).",
+        "health": 4,
+        "id": "GVG_032",
+        "name": "Piastunka Gaju",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Wybierz jedno:</b> Daj ka\u017cdemu z graczy kryszta\u0142 many; lub ka\u017cdy z graczy dobiera kart\u0119.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Szar\u017cuje, prowokuje, wrog\u00f3w rozgnomuje!",
+        "health": 4,
+        "id": "GVG_098",
+        "mechanics": [
+            "Charge",
+            "Taunt"
+        ],
+        "name": "Piechota Gnomoreganu",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Szar\u017ca</b>\n<b>Prowokacja</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jason Chan",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "A Piecze\u0144 \u015awiat\u0142o\u015bci pono\u0107 przywraca a\u017c OSIEM punkt\u00f3w zdrowia!",
+        "id": "GVG_057",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Piecz\u0119\u0107 \u015awiat\u0142o\u015bci",
+        "playerClass": "Paladin",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Przywr\u00f3\u0107 #4 pkt. zdrowia twojemu bohaterowi i zyskaj +2 do ataku w tej turze.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_057a",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Piecz\u0119\u0107 \u015awiat\u0142o\u015bci",
+        "set": "Goblins vs Gnomes",
+        "text": "+2 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Aleksi Briclot",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Mimiron cz\u0119sto zabiera P\u0142omiennego Lewiatana na szalone przeja\u017cd\u017cki po Ulduarze.",
+        "health": 7,
+        "id": "GVG_007",
+        "name": "P\u0142omienny Lewiatan",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Gdy dobierzesz t\u0119 kart\u0119, zadaj $2 pkt. obra\u017ce\u0144 wszystkim postaciom.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_123e",
+        "mechanics": [
+            "Spellpower"
+        ],
+        "name": "Podkr\u0119cenie",
+        "playerClass": "Mage",
+        "set": "Goblins vs Gnomes",
+        "text": "Obra\u017cenia zakl\u0119\u0107 +2.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_063a",
+        "name": "Pomsta",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_086e",
+        "name": "Poszycie",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_001",
+        "name": "Poszycie",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj stronnikowi +1 do zdrowia.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_102e",
+        "name": "Pot\u0119ga Majsterkowa",
+        "set": "Goblins vs Gnomes",
+        "text": "+1/+1.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_049e",
+        "name": "Pot\u0119ga Zul'Farrak",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwielokrotnienie ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Luca Zontini",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Pozoruj\u0105c \u015bmier\u0107, najtrudniej jest wydziela\u0107 odpowiedni zapach \u2013 wymaga to wielkiego po\u015bwi\u0119cenia (lub pomocy nied\u017awiedzia).",
+        "id": "GVG_026",
+        "name": "Pozorowanie \u015bmierci",
+        "playerClass": "Hunter",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Aktywuj <b>Agoni\u0119</b> u wszystkich twoich stronnik\u00f3w.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_011a",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Promie\u0144 skurczaj\u0105cy",
+        "set": "Goblins vs Gnomes",
+        "text": "-2 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Peerasak Senalai",
+        "cost": 1,
+        "id": "PART_003",
+        "name": "Przerdzewia\u0142y klakson",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj stronnikowi <b>Prowokacj\u0119</b>.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_068a",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Przetrawiona magia",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_067a",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Przetrawiona magia",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "E.M. Gist",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Prawdziwi \u0142owcy potrafi\u0105 nawet wpa\u015b\u0107 na trop owcy!",
+        "id": "GVG_017",
+        "name": "Przyzwanie zwierza",
+        "playerClass": "Hunter",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Dobierz kart\u0119.\nJe\u015bli jest to Bestia, kosztuje (4) mniej.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Poniewa\u017c czasami kombobulacja udaje si\u0119 dopiero za drugim razem.",
+        "health": 2,
+        "id": "GVG_108",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Rekombobulator",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Przemie\u0144 przyjaznego stronnika w losowego stronnika o takim samym koszcie.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Phil Saunders",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Wynalazcy rozpylacza sadzy i gobli\u0144skiego szatkownika od lat ci\u0105gaj\u0105 si\u0119 po s\u0105dach z powodu drobnego sporu o prawa patentowe.",
+        "health": 3,
+        "id": "GVG_123",
+        "mechanics": [
+            "Spellpower"
+        ],
+        "name": "Rozpylacz sadzy",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Obra\u017cenia zakl\u0119\u0107 +1</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dave Allsop",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u201eKto pod kim do\u0142ki kopie, ten ma dobr\u0105 \u0142opat\u0119\u201d \u2013 z Vademecum m\u0142odego sabota\u017cysty.",
+        "id": "GVG_047",
+        "mechanics": [
+            "Combo"
+        ],
+        "name": "Sabota\u017c",
+        "playerClass": "Rogue",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Zniszcz losowego wrogiego stronnika. <b>Kombinacja</b>: Oraz bro\u0144 przeciwnika.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Kerem Beyit",
+        "collectible": true,
+        "cost": 5,
+        "flavor": "W\u0142a\u015bciwie wszyscy cz\u0142onkowie Ko\u0142a na Rzecz Demon\u00f3w to czarnoksi\u0119\u017cnicy. Przypadek? Nie s\u0105dz\u0119.",
+        "id": "GVG_019",
+        "name": "Serce demona",
+        "playerClass": "Warlock",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $5 pkt. obra\u017ce\u0144 stronnikowi. Je\u015bli jest przyjaznym Demonem, daj mu zamiast tego +5/+5.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_019e",
+        "name": "Serce demona",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Andrew Hou",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u201eKosi kosi \u0142apci. Pojedziem do babci. Babcia skosi go\u015bci. I obgryzie ko\u015bci\u201d. - popularna gobli\u0144ska wyliczanka",
+        "id": "GVG_050",
+        "name": "Skacz\u0105ce ostrze",
+        "playerClass": "Warrior",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $1 pkt. obra\u017ce\u0144 losowemu stronnikowi. Powtarzaj, a\u017c zginie jaki\u015b stronnik.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Po katastrofie wywo\u0142anej przez \u015awiatopowi\u0119kszator gnomy bardzo nieufnie odnosz\u0105 si\u0119 do wynalazk\u00f3w manipuluj\u0105cych rozmiarami przedmiot\u00f3w i os\u00f3b.",
+        "health": 2,
+        "id": "GVG_011",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Skurczmajster",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj stronnikowi -2 do ataku w tej turze.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jun Kang",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Gobliny najcz\u0119\u015bciej rozwi\u0105zuj\u0105 problemy za pomoc\u0105 bomb, dlatego niecz\u0119sto trafiaj\u0105 si\u0119 w\u015br\u00f3d nich snajperzy.",
+        "health": 3,
+        "id": "GVG_087",
+        "name": "Snajper Parochlebc\u00f3w",
+        "playerClass": "Hunter",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Moc specjalna twojego bohatera mo\u017ce by\u0107 stosowana wobec stronnik\u00f3w.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Gabor Szikszai",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Zacz\u0142apuje przeciwnik\u00f3w na \u015bmier\u0107.",
+        "health": 3,
+        "id": "GVG_002",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\u015aniegocz\u0142ap",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Zamro\u017a</b> ka\u017cd\u0105 posta\u0107 zranion\u0105 przez tego stronnika.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Howard Lyon",
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Strza\u0142 kobry jest du\u017co \u0142atwiej opanowa\u0107 ni\u017c sza\u0142 kobry.",
+        "id": "GVG_073",
+        "name": "Strza\u0142 kobry",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $3 pkt. obra\u017ce\u0144 stronnikowi oraz wrogiemu bohaterowi.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_023a",
+        "name": "Super ostre!",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jesper Ejsing",
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u015awiat\u0142a takiej jako\u015bci to ze \u015bwiec\u0105 szuka\u0107.",
+        "id": "GVG_012",
+        "name": "\u015awiat\u0142o Naaru",
+        "playerClass": "Priest",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Przywr\u00f3\u0107 #3 pkt. zdrowia. Je\u015bli cel wci\u0105\u017c jest ranny, przyzwij Stra\u017cniczk\u0119 \u015awiat\u0142o\u015bci.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jos\u00e9 Ladr\u00f6nn",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Zamyka oczy i daje si\u0119 ponie\u015b\u0107 pierwotnym instynktom.",
+        "health": 4,
+        "id": "GVG_066",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "Szaman Kafardun\u00f3w",
+        "playerClass": "Shaman",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Furia wichru,\nPrzeci\u0105\u017cenie:</b> (1)\n50% szans na zaatakowanie niew\u0142a\u015bciwego wroga.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Christopher Moeller",
+        "attack": 5,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "Kiedy Szmondak zosta\u0142 pokonany, jego szatkownik odkupi\u0142 anonimowy nabywca. (Najprawdopodobniej by\u0142 to Wy\u017cer).",
+        "health": 7,
+        "id": "GVG_114",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Szatkownik Szmondaka",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Przyzwij losowego legendarnego stronnika.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Anton Zemskov",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Kierownictwo Szkar\u0142atnej Krucjaty rozwa\u017ca zmian\u0119 nazwy na \u201eFuksjowa Krucjata\u201d celem z\u0142agodzenia wizerunku tej organizacji.",
+        "health": 3,
+        "id": "GVG_101",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Szkar\u0142atny czy\u015bciciel",
+        "playerClass": "Paladin",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zadaj 2 pkt. obra\u017ce\u0144 wszystkim stronnikom z <b>Agoni\u0105</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Clint Langley",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u017bywio\u0142y przybywaj\u0105 z pomoc\u0105 ka\u017cdemu, kto wzywa je w s\u0142usznej sprawie \u2013 nawet je\u015bli \u00f3w kto\u015b czyni to, gulgocz\u0105c niezrozumiale.",
+        "health": 5,
+        "id": "GVG_040",
+        "name": "Szlamior Duchobie\u017cca",
+        "playerClass": "Shaman",
+        "race": "Murloc",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Dobierz kart\u0119 za ka\u017cdym razem, gdy zginie przyjazny Murlok. <b>Przeci\u0105\u017cenie:</b> (1)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "Zawsze ma pod r\u0119k\u0105 kilka zapasowych tarcz \u2013 tak na wszelki wypadek.",
+        "health": 5,
+        "id": "GVG_053",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Tarczowniczka",
+        "playerClass": "Warrior",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Otrzymujesz 5 pkt. pancerza.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Gabor Szikszai",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Jak przygoda to tylko w Majsterkowie!",
+        "health": 3,
+        "id": "GVG_102",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Technik z Majsterkowa",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Otrzymuje +1/+1 oraz dodajesz kart\u0119 <b>Cz\u0119\u015bci zamiennej</b> do twojej r\u0119ki, je\u015bli kontrolujesz Mecha.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_076a",
+        "name": "T\u0142oki",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszony atak.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "Marzy\u0142 o mieczu \u015bwietlnym, ale mia\u0142 za ma\u0142o mocy.",
+        "health": 7,
+        "id": "GVG_115",
+        "mechanics": [
+            "Battlecry",
+            "Deathrattle"
+        ],
+        "name": "Toshley",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy oraz Agonia:</b> Dodaj kart\u0119 <b>Cz\u0119\u015bci zamiennej</b> do twojej r\u0119ki.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Peet Cooper",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Jedyna rzecz gorsza od w\u0105chania trogga to s\u0142uchanie jego poezji.",
+        "health": 3,
+        "id": "GVG_067",
+        "name": "Trogg kruszyskalny",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje +1 do ataku za ka\u017cdym razem, gdy przeciwnik rzuci zakl\u0119cie.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Mimo twardej paszczy lubi jajka na mi\u0119kko.",
+        "health": 5,
+        "id": "GVG_068",
+        "name": "Trogg twardopaszczy",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje +2 do ataku za ka\u017cdym razem, gdy przeciwnik rzuci zakl\u0119cie.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Mike Sass",
+        "attack": 6,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "Jeszcze tu wr\u00f3ci.",
+        "health": 6,
+        "id": "GVG_118",
+        "name": "Troggzor Zieminator",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "Za ka\u017cdym razem gdy przeciwnik rzuci zakl\u0119cie, przyzywasz Trogga twardopaszczego.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_030a",
+        "name": "Tryb bojowy",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do ataku.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_030ae",
+        "name": "Tryb bojowy",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_030be",
+        "name": "Tryb obronny",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do zdrowia.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_030b",
+        "name": "Tryb obronny",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do zdrowia.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Danny Orizio",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "durability": 3,
+        "flavor": "Kawa\u0142 z\u0142omu wyrwany z jakiego\u015b ustrojstwa, wetkni\u0119ty na patyk i pomazany staro\u017cytnymi runami \u2013 bro\u0144 tak niezawodna, jak wskazuje na to jej opis.",
+        "id": "GVG_059",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Trybom\u0142ot",
+        "playerClass": "Paladin",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi <b>Bosk\u0105 tarcz\u0119</b> oraz <b>Prowokacj\u0119</b>.",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Warren Mahy",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "S\u0142yszysz trzask i wydajesz wrzask!",
+        "id": "GVG_038",
+        "name": "Trzask",
+        "playerClass": "Shaman",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Zadaj $3-$6 pkt. obra\u017ce\u0144.\n<b>Przeci\u0105\u017cenie:</b> (1)",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jonboy Meyers",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Zaci\u0119cie wyklina ka\u017cde zakl\u0119cie.",
+        "health": 5,
+        "id": "GVG_122",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Tycia wyklinaczka",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "S\u0105siedni stronnicy nie mog\u0105 zosta\u0107 wybrani jako cel zakl\u0119\u0107 lub mocy specjalnych.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Hideaki Takamura",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Nie zostawiaj ich na deszczu. W kraterze Un'goro jest ca\u0142a kolonia tygrys\u00f3w rdzawoz\u0119bnych.",
+        "health": 3,
+        "id": "GVG_048",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Tygrys metaloz\u0119bny",
+        "playerClass": "Hunter",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj twoim innym Mechom +2 do ataku.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Ten model nie r\u00f3\u017cni si\u0119 niczym od poprzedniego \u2013 po prostu ma w nazwie s\u0142owo \u201eulepszony\u201d i jest z tego powodu dwukrotnie dro\u017cszy.",
+        "health": 5,
+        "id": "GVG_083",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Ulepszony reperobot",
+        "playerClass": "Priest",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +4 do zdrowia.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_021e",
+        "name": "U\u015bcisk Mal'Ganisa",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "Mal'Ganis zapewnia +2/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Chris Seaman",
+        "attack": 4,
+        "cost": 8,
+        "elite": true,
+        "health": 8,
+        "id": "GVG_111t",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "V-07-TR-0N",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Szar\u017ca</b>\n<b>Mega furia wichru</b> <i>(Mo\u017ce atakowa\u0107 cztery razy w ci\u0105gu tury).</i>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Vol'jin jest \u0142owc\u0105 cienia, czyli takim jakby kap\u0142anem cienia, ale z wi\u0119kszym nastawieniem na wudowanie.",
+        "health": 2,
+        "id": "GVG_014",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Vol'jin",
+        "playerClass": "Priest",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Zamie\u0144 punkty zdrowia z innym stronnikiem.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Richard Wright",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "durability": 3,
+        "flavor": "Do tentegowania i \u0142b\u00f3w rozwalania!",
+        "id": "GVG_024",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Wajcha Wihajmistrza",
+        "playerClass": "Rogue",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Ma +2 do ataku, gdy kontrolujesz Mecha.",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Mike Hayes",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u201eDw\u00f3ch syn\u00f3w matka mia\u0142a - m\u0105dry zosta\u0142 na roli, a drugi poszed\u0142 do Srebrnej D\u0142oni\u201d. \u2013 tekst przy\u015bpiewki rekrut\u00f3w.",
+        "id": "GVG_061",
+        "name": "Werbunek",
+        "playerClass": "Paladin",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Przyzwij trzech Rekrut\u00f3w Srebrnej D\u0142oni 1/1. Wyposa\u017c bohatera w bro\u0144 1/4.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "W ko\u0144cu si\u0119 przyzwyczajasz. Ja ju\u017c nawet nie zauwa\u017cam spr\u0119\u017cyn i k\u00f3\u0142ek z\u0119batych. Widz\u0119 robota, paj\u0119czy czo\u0142g, promie\u0144 \u015bmierci...",
+        "health": 2,
+        "id": "GVG_013",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Wihajmistrz",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Ma +2 do ataku, gdy kontrolujesz Mecha.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 7,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Przez pewien czas by\u0142 wilkiem podmorskim, ale w ko\u0144cu go wy\u0142owiono.",
+        "health": 4,
+        "id": "GVG_070",
+        "name": "Wilk morski",
+        "race": "Pirate",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_007e",
+        "name": "Wiruj\u0105ce ostrza",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_007",
+        "name": "Wiruj\u0105ce ostrza",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj stronnikowi +1 do ataku.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Nale\u017cy go trzyma\u0107 z dala od beczek z prochem.",
+        "health": 2,
+        "id": "GVG_037",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "Wiruj\u0105cy iskrobot",
+        "playerClass": "Shaman",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Furia wichru</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Wynalazc\u0119 Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstr\u00f3w, p\u00f3\u017aniej z Majsterkowa, a\u017c w ko\u0144cu wygnano go ze Wschodnich Kr\u00f3lestw i zakazano powrotu.",
+        "health": 2,
+        "id": "GVG_085",
+        "mechanics": [
+            "Divine Shield",
+            "Taunt"
+        ],
+        "name": "Wkurzotron",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Prowokacja</b>\n<b>Boska tarcza</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_010b",
+        "name": "Wybraniec Velena",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+4 oraz <b>Obra\u017cenia zakl\u0119\u0107 +1</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Jak Velen kogo\u015b wybierze, to nie ma zmi\u0142uj!",
+        "id": "GVG_010",
+        "name": "Wybraniec Velena",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "Daj stronnikowi +2/+4 oraz <b>Obra\u017cenia zakl\u0119\u0107 +1</b>.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Mod\u0119 na wybuchowe owce zapocz\u0105tkowa\u0142 niejaki szewczyk Skuba z czworak\u00f3w pod Wichrogrodem.",
+        "health": 1,
+        "id": "GVG_076",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Wybuchowa owca",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Zadaj 2 pkt. obra\u017ce\u0144 wszystkim stronnikom.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_055e",
+        "name": "Wy\u015brubnik",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_036e",
+        "name": "Wzmocnienie",
+        "playerClass": "Shaman",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_014a",
+        "name": "Zacienienie",
+        "playerClass": "Priest",
+        "set": "Goblins vs Gnomes",
+        "text": "Zamienione zdrowie.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Benjamin Zhang",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Na zadku ma wytatuowan\u0105 wiadomo\u015b\u0107: \u201eZnalazc\u0119 prosimy o zwrot zguby do Mulgoru\u201d.",
+        "health": 4,
+        "id": "GVG_071",
+        "name": "Zagubiony biegus",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Michael Phillippi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "To szczytowe osi\u0105gni\u0119cie gobli\u0144skiej technologii jest wyposa\u017cone w sk\u00f3rzan\u0105 tapicerk\u0119, ekspres do kawy i podgrzewane siedzenia.",
+        "health": 4,
+        "id": "GVG_105",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Za\u0142ogowy podniebny golem",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Kiedy\u015b tylko gobliny mog\u0142y siada\u0107 za sterami szatkownik\u00f3w. Dzisiaj produkuj\u0105 nawet modele dla tauren\u00f3w.",
+        "health": 3,
+        "id": "GVG_096",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Za\u0142ogowy szatkownik",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 2.",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_006a",
+        "name": "Zamiana",
+        "set": "Goblins vs Gnomes",
+        "text": "Atak i zdrowie zosta\u0142y zamienione przez Zmiano-odwracacz.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_027e",
+        "name": "\u017belazna posta\u0107",
+        "playerClass": "Rogue",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszone statystyki.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u017belazny moloch niestrudzenie strze\u017ce Orgrimmaru. Jest tak skuteczny, \u017ce w\u0142a\u015bnie uda\u0142o mu si\u0119 zosta\u0107 pracownikiem miesi\u0105ca!",
+        "health": 5,
+        "id": "GVG_056",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u017belazny moloch",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>Okrzyk bojowy:</b> Wtasuj Min\u0119 do talii przeciwnika. Je\u015bli zostanie dobrana, eksploduje, zadaj\u0105c 10 pkt. obra\u017ce\u0144.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brian Despain",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Jest jednym z nielicznych pedagog\u00f3w, kt\u00f3ry znajduje wsp\u00f3lny j\u0119zyk z mechami.\n\n01000111101001001",
+        "health": 2,
+        "id": "GVG_027",
+        "name": "\u017belazny sensei",
+        "playerClass": "Rogue",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Na koniec twojej tury daj innemu przyjaznemu Mechowi +2/+2.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Poprzednia wersja tej karty nazywa\u0142a si\u0119 \u201eZlew przodk\u00f3w\u201d, ale przodkowie si\u0119 obrazili.",
+        "id": "GVG_029",
+        "name": "Zew przodk\u00f3w",
+        "playerClass": "Shaman",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Umie\u015b\u0107 po jednym, losowym stronniku z r\u0119ki ka\u017cdego z graczy na polu bitwy.",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_106e",
+        "name": "Zez\u0142omowanie",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszone statystyki.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zoltan Boros",
+        "attack": 1,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "To z\u0142omobot wszystko skrawa, bez r\u00f3\u017cnicy, stal czy trawa. I w og\u00f3le jest zabawa!",
+        "health": 5,
+        "id": "GVG_106",
+        "name": "Z\u0142omobot",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Otrzymuje +2/+2 za ka\u017cdym razem, gdy zginie przyjazny Mech.",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_100e",
+        "name": "Zmarszczenie brwi",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "Zwi\u0119kszone statystyki.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutthapon Petthai",
+        "cost": 1,
+        "id": "PART_006",
+        "name": "Zmiano-odwracacz",
+        "set": "Goblins vs Gnomes",
+        "text": "Zamie\u0144 atak i zdrowie stronnika.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Michael Sutfin",
+        "collectible": true,
+        "cost": 7,
+        "flavor": "Pewna wojowniczka imieniem Jagienka cz\u0119sto u\u017cywa\u0142a tej karty na orzechach.",
+        "id": "GVG_052",
+        "name": "Zmia\u017cd\u017cenie",
+        "playerClass": "Warrior",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "Zniszcz stronnika. Je\u015bli kontrolujesz rannego stronnika, koszt tej karty jest mniejszy o (4) pkt.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Guangjian Huang",
+        "attack": 0,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Przed u\u017cyciem zapoznaj si\u0119 z tre\u015bci\u0105 ulotki do\u0142\u0105czonej do opakowania, b\u0105d\u017a skonsultuj si\u0119 z szamanem lub duchami przodk\u00f3w.",
+        "health": 3,
+        "id": "GVG_039",
+        "name": "\u017byciodajny totem",
+        "playerClass": "Shaman",
+        "race": "Totem",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "Na koniec twojej tury przywraca 4 pkt. zdrowia twojemu bohaterowi.",
+        "type": "Minion"
+    }
+]

@@ -1,0 +1,4380 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adoratore
+  </name>
+  <text>
+   +1 Attacco al tuo eroe durante il tuo turno.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Adoratore
+  </name>
+  <text>
+   +3 Attacco al tuo eroe durante il tuo turno.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX2_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aggressore di Anub&amp;apos;ar
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; fa tornare un altro tuo servitore casuale nella tua mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Ladro a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Il nome originale della carta era "Scagnozzo di Anub&amp;apos;ar che fa tornare un altro tizio in mano", ma gli mancava un po&amp;apos; di mordente.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Ladro a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Allievo
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX7_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Allievo Inarrestabile
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Allievo Spettrale sotto il controllo dell&amp;apos;avversario.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Allievo Spettrale
+  </name>
+  <text>
+   All&amp;apos;inizio del tuo turno, infligge 1 danno al tuo eroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Anima Lamentosa
+  </name>
+  <artist>
+   Glenn Rane
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia: Silenzia&lt;/b&gt; tutti gli altri tuoi servitori.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Thaddius nell&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Una delle tante anime che popolano i forum su Internet.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Thaddius nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1_01
+  </id>
+  <name>
+   Anub&amp;apos;rekhan
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX1h_01
+  </id>
+  <name>
+   Anub&amp;apos;rekhan
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Apocalisse Mentale
+  </name>
+  <text>
+   Ogni giocatore pesca 2 carte e ottiene un Cristallo di Mana.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX5_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Assalto Perfido
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Distrugge un servitore.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Assalto Perfido
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Distrugge un servitore.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX10_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Assalto Sbilanciante
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 4 danni.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Assalto Sbilanciante
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 3 danni.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX7_03
+  </id>
+ </item>
+ <item>
+  <text>
+   Le tue Magie costano (5) Mana in più.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_030e
+  </id>
+  <name>
+   Aura Necrotica
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura Necrotica
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 3 danni all&amp;apos;eroe nemico.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Aura Necrotica
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 3 danni all&amp;apos;eroe nemico.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX6_02H
+  </id>
+ </item>
+ <item>
+  <health>
+   14
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01H
+  </id>
+  <name>
+   Barone Fieramorte
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Barone Fieramorte
+  </name>
+  <artist>
+   Ralph Horsley
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   I tuoi servitori attivano due volte il proprio &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Combattenti.
+  </howtogetgold>
+  <flavor>
+   Ha il mal di testa dopo tutte le lamentele di Dama Blaumeux, che avrebbe voluto si chiamassero i "Cavalieri e la Dama dell&amp;apos;Apocalisse".
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_031
+  </id>
+ </item>
+ <item>
+  <health>
+   7
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX9_01
+  </id>
+  <name>
+   Barone Fieramorte
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Becchino
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   Ottiene +1 Attacco quando evochi un servitore con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Pezzacarne nell&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   In un mondo dove basta parlare con uno Spirito Guaritore per tornare in vita, i becchini fanno scarsi affari.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Pezzacarne nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cambio di Polarità
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Scambia Attacco e Salute di TUTTI i servitori.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX13_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Campione Congelato
+  </name>
+  <text>
+   Permanentemente &lt;b&gt;Congelato&lt;/b&gt;. I servitori adiacenti sono &lt;b&gt;Immuni&lt;/b&gt; a Soffio di Ghiaccio.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   10
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX14_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Catene
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Prende il controllo di un servitore nemico casuale fino alla fine del turno.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Catene
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Prende il controllo di un servitore nemico casuale.
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavaliere Inarrestabile
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Cavaliere Spettrale sotto il controllo dell&amp;apos;avversario.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cavaliere Spettrale
+  </name>
+  <text>
+   All&amp;apos;inizio del tuo turno, infligge 1 danno al tuo eroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_05t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Comandante Spettrale
+  </name>
+  <artist>
+   Chris Rahn
+  </artist>
+  <text>
+   Non può essere il bersaglio di Magie o Poteri Eroe.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Gothik il Falciatore nell&amp;apos;Ala dei Combattenti.
+  </howtogetgold>
+  <flavor>
+   Che cos&amp;apos;hanno in comune i Draghi Fatati e i Comandanti Spettrali? Entrambi adorano il sushi!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Gothik il Falciatore nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
+ </item>
+ <item>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_005e
+  </id>
+  <name>
+   Consumo
+  </name>
+ </item>
+ <item>
+  <text>
+   Attacco aumentato.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX6_03te
+  </id>
+  <name>
+   Crescita Fungina
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Cultista Oscuro
+  </name>
+  <artist>
+   Phroilan Gardner
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; +3 Salute a un altro tuo servitore casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Sacerdote a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Il Culto dei Dannati ha scoperto che è più semplice reclutare proseliti se non si menziona il nome della loro organizzazione.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Sacerdote a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dama Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Dama Blaumeux
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Decimazione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+La Salute di TUTTI i servitori diventa pari a 1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Decimazione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+La Salute di tutti i servitori nemici diventa pari a 1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX12_02H
+  </id>
+ </item>
+ <item>
+  <text>
+   Salute pari a 1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_02e
+  </id>
+  <name>
+   Decimazione
+  </name>
+ </item>
+ <item>
+  <text>
+   Attacco aumentato.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_03e
+  </id>
+  <name>
+   Denti Aggiuntivi
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Detonazione del Gelo
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 2 danni all&amp;apos;eroe nemico e lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Detonazione del Gelo
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 3 danni all&amp;apos;eroe nemico e lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX15_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Duplicazione
+  </name>
+  <artist>
+   Alex Garner
+  </artist>
+  <text>
+   &lt;b&gt;Segreto:&lt;/b&gt; quando un tuo servitore muore, ne ottieni 2 copie in mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Mago a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   L&amp;apos;unico modo per duplicare le tue carte senza rischiare la sospensione dell&amp;apos;account!
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Mago a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Eruzione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 2 danni al servitore nemico più a sinistra.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Eruzione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 3 danni al servitore nemico più a sinistra.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX5_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Esplosione di Spore
+  </name>
+  <text>
+   Infligge $1 |4(danno,danni) a tutti i servitori nemici. Evoca una Spora.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fabbro Scheletrico
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; distrugge l&amp;apos;arma dell&amp;apos;avversario.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_002
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01
+  </id>
+  <name>
+   Faerlina la Vedova Nera
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX2_01H
+  </id>
+  <name>
+   Faerlina la Vedova Nera
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fanghiglia Tossica
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX11_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_04H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Feugen
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; se anche Stalagg è morto in questa partita, evoca Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Feugen è triste perché tutti preferiscono Stalagg.
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_015
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Fiore Mortale
+  </name>
+  <text>
+   Infligge $5 danni a un servitore nemico. Evoca una Spora.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX6_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancio
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Furia del Vento&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; torna nella tua mano.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gancio
+  </name>
+  <durability>
+   8
+  </durability>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; torna nella tua mano.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX10_02
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gargoyle Pellepietrosa
+  </name>
+  <artist>
+   Matt Smith
+  </artist>
+  <text>
+   All&amp;apos;inizio del tuo turno, rigenera la sua Salute al massimo.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Noth l&amp;apos;Araldo della Piaga nell&amp;apos;Ala della Pestilenza.
+  </howtogetgold>
+  <flavor>
+   I Gargoyle Pellepietrosa adorano giocare a "Un, due, tre, stella"!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Noth l&amp;apos;Araldo della Piaga nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Gelo Puro
+  </name>
+  <text>
+   Infligge $8 danni all&amp;apos;eroe nemico e lo &lt;b&gt;Congela&lt;/b&gt;.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX14_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ghoul Instabile
+  </name>
+  <artist>
+   Mike Nicholson
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge 1 danno a TUTTI i servitori.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Heigan l&amp;apos;Impuro nell&amp;apos;Ala della Pestilenza.
+  </howtogetgold>
+  <flavor>
+   Riempire i Ghoul con carburante per razzi va molto di moda nella scuola per Negromanti.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Heigan l&amp;apos;Impuro nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01H
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX12_01
+  </id>
+  <name>
+   Gluth
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01H
+  </id>
+  <name>
+   Gothik il Falciatore
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX8_01
+  </id>
+  <name>
+   Gothik il Falciatore
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01H
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX11_01
+  </id>
+  <name>
+   Grobbulus
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardiano del Gelo
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guardiano del Gelo
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_03n
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerriero Inarrestabile
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Guerriero Spettrale sotto il controllo dell&amp;apos;avversario.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Guerriero Spettrale
+  </name>
+  <text>
+   All&amp;apos;inizio del tuo turno, infligge 1 danno al tuo eroe.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX8_04t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan l&amp;apos;Impuro
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01H
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Heigan l&amp;apos;Impuro
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX5_01
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Iniezione Mutante
+  </name>
+  <text>
+   +4/+4 e &lt;b&gt;Provocazione&lt;/b&gt; a un servitore.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX11_04
+  </id>
+ </item>
+ <item>
+  <text>
+   +4/+4 e &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX11_04e
+  </id>
+  <name>
+   Iniezione Mutante
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01e
+  </id>
+  <name>
+   Intruso!
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_01He
+  </id>
+  <name>
+   Intruso!
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Invocatore del Vuoto
+  </name>
+  <artist>
+   Robb Shoberg
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette sul campo di battaglia un Demone casuale dalla tua mano.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe dello Stregone a Naxxramas.
+  </howtogetgold>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Demon
+  </race>
+  <flavor>
+   "Vuoto! Ehi, Vuoto! Vieni qui, bello!"
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe dello Stregone a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_022
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   40
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01
+  </id>
+  <name>
+   Istruttore Razuvious
+  </name>
+ </item>
+ <item>
+  <health>
+   55
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX7_01H
+  </id>
+  <name>
+   Istruttore Razuvious
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+  <artist>
+   Chris Robinson
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Alla fine di ogni turno, evoca tutti i tuoi servitori morti durante quel turno.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto tutti i boss di Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad non ha potuto resistere alla chiamata del Re dei Lich, anche se era un&amp;apos;intercontinentale a carico del destinatario.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo tutti i boss di Naxxramas!
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_013
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX15_01H
+  </id>
+  <name>
+   Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lama Runica
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   +6 Attacco se gli altri Cavalieri dell&amp;apos;Apocalisse sono morti.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lama Runica
+  </name>
+  <durability>
+   3
+  </durability>
+  <text>
+   +3 Attacco se gli altri Cavalieri dell&amp;apos;Apocalisse sono morti.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX9_05
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lama Runica Massiccia
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Infligge il doppio dei danni agli eroi.
+  </text>
+  <attack>
+   10
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Lama Runica Massiccia
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   Infligge il doppio dei danni agli eroi.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX7_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Loatheb
+  </name>
+  <artist>
+   Samwise
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; nel turno successivo le Magie del nemico costano (5) Mana in più.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala della Pestilenza.
+  </howtogetgold>
+  <flavor>
+   Loatheb un tempo era una Bestia della Palude. È per questo che sono richieste regole più severe sull&amp;apos;estrazione e l&amp;apos;agricoltura.
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_030
+  </id>
+ </item>
+ <item>
+  <health>
+   75
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01
+  </id>
+  <name>
+   Loatheb
+  </name>
+ </item>
+ <item>
+  <health>
+   99
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX6_01H
+  </id>
+  <name>
+   Loatheb
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Poisonous
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Maexxna
+  </name>
+  <artist>
+   Howard Lyon
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Distrugge qualsiasi servitore danneggiato da questo servitore.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna si arrabbia quando la chiamano "Maxina" o "Maxxy".
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_010
+  </id>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01H
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX3_01
+  </id>
+  <name>
+   Maexxna
+  </name>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX9_07e
+  </id>
+  <name>
+   Marchio dell&amp;apos;Apocalisse
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Marchio dell&amp;apos;Apocalisse
+  </name>
+  <text>
+   +1/+1 ai tuoi servitori e alla tua arma.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX9_07
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mascelle
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Ottiene +2 Attacco quando muore un servitore con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mascelle
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Ottiene +2 Attacco quando muore un servitore con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   NAX12_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Masticatore Zombi
+  </name>
+  <artist>
+   E. M. Gist
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; rigenera 5 Salute all&amp;apos;eroe nemico.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Gluth nell&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Zombi. Il piatto del giorno.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Gluth nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Melma
+  </name>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Melma Echeggiante
+  </name>
+  <artist>
+   Eric Browning
+  </artist>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; alla fine del turno, evoca una copia esatta di questo servitore.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Zaffirion nell&amp;apos;Antro del Gelo.
+  </howtogetgold>
+  <flavor>
+   MELMA... melma... melma... (melma...)
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Zaffirion nell&amp;apos;Antro del Gelo.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mietitura
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Pesca una carta.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Mietitura
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Pesca una carta e ottiene 1 Cristallo di Mana.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX8_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Morso della Morte
+  </name>
+  <durability>
+   2
+  </durability>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge 1 danno a TUTTI i servitori.
+  </text>
+  <artist>
+   Jim Nelson
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Guerriero a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Quasi terribile quanto il Morso della Fame...
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Guerriero a Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Necrocavaliere
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; distrugge i servitori adiacenti.
+  </text>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAXM_001
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerodestriero
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge 3 danni al tuo eroe.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_006
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX1h_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nerubiano
+  </name>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth l&amp;apos;Araldo della Piaga
+  </name>
+  <health>
+   45
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01H
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Noth l&amp;apos;Araldo della Piaga
+  </name>
+  <health>
+   30
+  </health>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX4_01
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nube di Veleno
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 2 danni a tutti i nemici ed evoca una Fanghiglia per ogni servitore morto.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Nube di Veleno
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 1 danno a TUTTI i servitori ed evoca una Fanghiglia per ogni servitore morto.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX11_02
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Stealth
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ombra di Naxxramas
+  </name>
+  <artist>
+   Ittoku Seta
+  </artist>
+  <text>
+   &lt;b&gt;Furtività&lt;/b&gt;. All&amp;apos;inizio del tuo turno, ottiene +1/+1.
+  </text>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Kel&amp;apos;Thuzad nell&amp;apos;Antro del Gelo.
+  </howtogetgold>
+  <flavor>
+   Le Ombre di Naxxramas &lt;i&gt;odiano&lt;/i&gt; i vivi. Hanno perfino coniato un termine dispregiativo per riferirsi a essi: &lt;i&gt;vividi&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Kel&amp;apos;Thuzad nell&amp;apos;Antro del Gelo.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ombra Empia
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Pesca 2 carte.
+  </text>
+  <cost>
+   5
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX9_06
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pestilenza
+  </name>
+  <text>
+   Distrugge TUTTI i servitori che non sono Scheletri.
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX4_05
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01
+  </id>
+  <name>
+   Pezzacarne
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX10_01H
+  </id>
+  <name>
+   Pezzacarne
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pietra del Controllo
+  </name>
+  <text>
+   Prendi il controllo degli Allievi.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX7_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pioggia di Fuoco
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 1 danno a un nemico casuale per ogni carta nella mano dell&amp;apos;avversario.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Pioggia di Fuoco
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Infligge 1 danno a un nemico casuale per ogni carta nella mano dell&amp;apos;avversario.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX2_03H
+  </id>
+ </item>
+ <item>
+  <text>
+   Attacco e Salute scambiati.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_02e
+  </id>
+  <name>
+   Polarità
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Potere della Ziggurat
+  </name>
+  <text>
+   +3 Salute.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_023e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Proliferazione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Evoca un Nerubiano 4/4.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1h_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Proliferazione
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Evoca un Nerubiano 3/1.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX1_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rabbia
+  </name>
+  <text>
+   +6 Attacco al tuo eroe per questo turno.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX12_04
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rabbia
+  </name>
+  <text>
+   +6 Attacco per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX12_04e
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ragnatela Avvolgente
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Fa tornare un servitore nemico casuale nella mano dell&amp;apos;avversario.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ragnatela Avvolgente
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Fa tornare due servitori nemici casuali nella mano dell&amp;apos;avversario.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX3_02H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ragno Infestato
+  </name>
+  <artist>
+   Jeremy Cranford
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca due Ragni Spettrali 1/1.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Aracnophasmofobia: paura dei ragni fantasma.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ragno Spettrale
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_002t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Reincarnazione
+  </name>
+  <artist>
+   Dan Scott
+  </artist>
+  <text>
+   Distrugge un servitore e lo riporta in vita con la Salute al massimo.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe dello Sciamano a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Spera solo di non reincarnarti in uno scarafaggio.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe dello Sciamano a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rianima Cadavere
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe Passivo&lt;/b&gt;
+Quando un servitore nemico muore, evoca uno Scheletro 1/1.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Rianima Cadavere
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe Passivo&lt;/b&gt;
+Quando un servitore nemico muore, evoca uno Scheletro 5/5.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX4_04H
+  </id>
+ </item>
+ <item>
+  <text>
+   Statistiche aumentate.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_028e
+  </id>
+  <name>
+   Richiamo Oscuro
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Secret
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ritorsione
+  </name>
+  <artist>
+   Zoltan &amp; Gabor
+  </artist>
+  <text>
+   &lt;b&gt;Segreto:&lt;/b&gt; quando un tuo servitore muore, fornisce +3/+2 a un altro tuo servitore casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Paladino a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   La vendetta è un piatto che va servito... subito!
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Paladino a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Scheletro
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Scheletro
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX4_03H
+  </id>
+ </item>
+ <item>
+  <text>
+   MIO!
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX15_04a
+  </id>
+  <name>
+   Schiavo di Kel&amp;apos;Thuzad
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sciame di Locuste
+  </name>
+  <text>
+   Infligge $3 danni a tutti i servitori nemici. Rigenera #3 Salute al tuo eroe.
+  </text>
+  <cost>
+   7
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX1_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Scienziato Pazzo
+  </name>
+  <artist>
+   James Ryman
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette in gioco un &lt;b&gt;Segreto&lt;/b&gt; dal tuo mazzo.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Grobbulus nell&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Sua madre voleva che diventasse un Mago o uno Stregone, ma no... è voluto diventare uno scienziato come suo padre.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Grobbulus nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Semi Venefici
+  </name>
+  <artist>
+   Brian Despain
+  </artist>
+  <text>
+   Distrugge TUTTI i servitori ed evoca al loro posto dei Treant 2/2.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   4
+  </cost>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Druido a Naxxramas.
+  </howtogetgold>
+  <flavor>
+   Incredibile a dirsi, ma i panini ai Semi Venefici vanno a ruba a Naxxramas.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Druido a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ser Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Ser Zeliek
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_04H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Signor Bigolo
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;i&gt;Questo è il gatto di Kel&amp;apos;Thuzad.&lt;/i&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX15_05
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Signore della Morte
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; l&amp;apos;avversario mette sul campo di battaglia un servitore casuale dal suo mazzo.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto i Cavalieri dell&amp;apos;Apocalisse nell&amp;apos;Ala dei Combattenti.
+  </howtogetgold>
+  <flavor>
+   "Risorgi dalla fossa!" - Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo i Cavalieri dell&amp;apos;Apocalisse nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Signore delle Tele
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   I servitori con &lt;b&gt;Grido di Battaglia&lt;/b&gt; costano (2) Mana in più.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Faerlina la Vedova Nera nell&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
+  <flavor>
+   Può sembrare strano, ma l&amp;apos;hobby preferito dei Signori delle Tele è dipingere...
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Faerlina la Vedova Nera nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Soffio di Ghiaccio
+  </name>
+  <text>
+   &lt;b&gt;Potere Eroe&lt;/b&gt;
+Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   NAX14_02
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sovraccarico
+  </name>
+  <text>
+   +2 Salute ai tuoi servitori.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX13_03
+  </id>
+ </item>
+ <item>
+  <text>
+   +2 Salute.
+  </text>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NAX13_03e
+  </id>
+  <name>
+   Sovraccarico
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Spade Danzanti
+  </name>
+  <artist>
+   Jon McConnell
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; l&amp;apos;avversario pesca una carta.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto l&amp;apos;Istruttore Razuvious nell&amp;apos;Ala dei Combattenti.
+  </howtogetgold>
+  <flavor>
+   C&amp;apos;è una sola cosa che diciamo alla morte: non oggi!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo l&amp;apos;Istruttore Razuvious nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Spora
+  </name>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; +8 Attacco a tutti i servitori nemici.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX6_03t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Sputafango
+  </name>
+  <artist>
+   Nate Bowden
+  </artist>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca una Melma 1/2 con &lt;b&gt;Provocazione&lt;/b&gt;.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Loatheb nell&amp;apos;Ala della Pestilenza.
+  </howtogetgold>
+  <flavor>
+   Guai a infangare il loro nome!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Loatheb nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <artist>
+   Dany Orizio
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; se anche Feugen è morto in questa partita, evoca Thaddius.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Stalagg ha voluto scrivere la sua descrizione: "STALAGG FORTISSIMO!"
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Stalagg
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX13_05H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Tessitela
+  </name>
+  <artist>
+   Dan Brereton
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette nella tua mano una Bestia casuale.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Cacciatore a Naxxramas.
+  </howtogetgold>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   I bozzoli dei ragni sono come piccole piñata!
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Cacciatore a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_011
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01H
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX13_01
+  </id>
+  <name>
+   Thaddius
+  </name>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thaddius
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   11
+  </attack>
+  <cost>
+   10
+  </cost>
+  <health>
+   11
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_014t
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03H
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Thane Korth&amp;apos;azz
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   NAX9_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Treant
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_019t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Uovo di Nerubiano
+  </name>
+  <artist>
+   Justin Thavirat
+  </artist>
+  <text>
+   &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Nerubiano 4/4.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Maexxna nell&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
+  <flavor>
+   Le uova sono un&amp;apos;ottima fonte di proteine... e di Nerubiani.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Maexxna nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Veleno Necrotico
+  </name>
+  <text>
+   Distrugge un servitore.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   NAX3_03
+  </id>
+ </item>
+ <item>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <name>
+   Vendetta
+  </name>
+  <text>
+   +3/+2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   FP1_020e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01
+  </id>
+  <name>
+   Zaffirion
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   NAX14_01H
+  </id>
+  <name>
+   Zaffirion
+  </name>
+ </item>
+</cards>

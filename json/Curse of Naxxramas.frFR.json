@@ -1,1 +1,1726 @@
-[{"id":"NAX12_04","name":"Accès de rage","set":"Curse of Naxxramas","type":"Spell","cost":3,"text":"Confère +6 ATQ à votre héros pendant ce tour."},{"id":"NAX12_04e","name":"Accès de rage","set":"Curse of Naxxramas","type":"Enchantment","text":"+6 ATQ pendant ce tour.","mechanics":["OneTurnEffect"]},{"id":"NAX2_05H","name":"Adorateur","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":4,"text":"Votre héros a +3 ATQ pendant votre tour.","mechanics":["Aura"]},{"id":"NAX2_05","name":"Adorateur","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":4,"text":"Votre héros a +1 ATQ pendant votre tour.","mechanics":["Aura"]},{"id":"FP1_016","name":"Âme gémissante","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":4,"attack":3,"health":5,"text":"<b>Cri de guerre :</b> réduit au <b>Silence</b> vos autres serviteurs.","flavor":"Cette âme n’arrête pas de se plaindre en <i>gémissant</i> auprès de sa hiérarchie, c’est-à-dire vous !","artist":"Glenn Rane","collectible":true,"howToGet":"Obtenue en gagnant contre Thaddius dans le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir battu Thaddius dans le quartier des Assemblages.","mechanics":["Battlecry"]},{"id":"NAX1h_01","name":"Anub’Rekhan","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX1_01","name":"Anub’Rekhan","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_028e","name":"Appel des ténèbres","set":"Curse of Naxxramas","type":"Enchantment","text":"Caractéristiques augmentées."},{"id":"FP1_002t","name":"Araignée spectrale","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":1},{"id":"NAX6_02H","name":"Aura nécrotique","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nInflige 3 points de dégâts au héros adverse."},{"id":"FP1_030e","name":"Aura nécrotique","set":"Curse of Naxxramas","type":"Enchantment","text":"Vos sorts coûtent (5) cristaux de plus au prochain tour."},{"id":"NAX6_02","name":"Aura nécrotique","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInflige 3 points de dégâts au héros adverse."},{"id":"NAX9_01H","name":"Baron Vaillefendre","set":"Curse of Naxxramas","type":"Hero","health":14},{"id":"FP1_031","name":"Baron Vaillefendre","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":4,"attack":1,"health":7,"text":"Vos serviteurs déclenchent deux fois leur <b>Râle d’agonie</b>.","flavor":"Dame Blaumeux préférerait qu’on dise « la cavalière et les trois cavaliers ».","artist":"Ralph Horsley","collectible":true,"elite":true,"howToGet":"Obtenue en terminant le quartier Militaire.","howToGetGold":"Peut être créée après avoir terminé le quartier Militaire.","mechanics":["Aura"]},{"id":"NAX9_01","name":"Baron Vaillefendre","set":"Curse of Naxxramas","type":"Hero","health":7},{"id":"NAX8_05t","name":"Cavalier spectral","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":0,"health":6,"text":"Au début de votre tour, inflige 1 point de dégâts à votre héros."},{"id":"NAX8_05","name":"Cavalier tenace","set":"Curse of Naxxramas","type":"Minion","cost":6,"attack":5,"health":6,"text":"<b>Râle d’agonie :</b> invoque un cavalier spectral pour votre adversaire.","mechanics":["Deathrattle"]},{"id":"NAX5_03","name":"Cervocalypse","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"Les deux joueurs piochent 2 cartes et gagnent un cristal de mana."},{"id":"NAX15_04","name":"Chaînes","set":"Curse of Naxxramas","type":"Hero Power","cost":8,"text":"<b>Pouvoir héroïque</b>\nPrend le contrôle d’un serviteur adverse aléatoire jusqu’à la fin du tour."},{"id":"NAX15_04H","name":"Chaînes","set":"Curse of Naxxramas","type":"Hero Power","cost":8,"text":"<b>Pouvoir héroïque</b>\nPrend le contrôle d’un serviteur adverse aléatoire."},{"id":"NAX14_03","name":"Champion gelé","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":2,"health":10,"text":"Gelé pour toute la partie. Les serviteurs adjacents sont immunisés contre Souffle de givre.","mechanics":["Aura"]},{"id":"NAX13_02","name":"Changement de polarité","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nÉchange l’Attaque et la Vie de tous les serviteurs."},{"id":"FP1_008","name":"Chevalier de la mort spectral","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":6,"text":"Ne peut pas être la cible de sorts ou de pouvoirs héroïques.","flavor":"Qu’ont en commun les dragons féeriques et les chevaliers de la mort spectraux ? Ils adorent les pâtes !","artist":"Chris Rahn","collectible":true,"howToGet":"Obtenue en gagnant contre Gothik le Moissonneur dans le quartier Militaire.","howToGetGold":"Peut être créée après avoir battu Gothik le Moissonneur dans le quartier Militaire."},{"id":"FP1_005e","name":"Consumer","set":"Curse of Naxxramas","type":"Enchantment","text":"Caractéristiques augmentées."},{"id":"FP1_012","name":"Crache-vase","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":5,"attack":3,"health":5,"text":"<b>Provocation.\nRâle d’agonie :</b> invoque une gelée 1/2 avec <b>Provocation</b>.","flavor":"Ne vous lancez pas dans un concours de rots avec lui, c’est perdu d’avance.","artist":"Nate Bowden","collectible":true,"howToGet":"Obtenue en gagnant contre Horreb dans le quartier de la Peste.","howToGetGold":"Peut être créée après avoir battu Horreb dans le quartier de la Peste.","mechanics":["Deathrattle","Taunt"]},{"id":"NAX7_05","name":"Cristal de contrôle mental","set":"Curse of Naxxramas","type":"Spell","cost":1,"text":"Active le cristal pour prendre le contrôle des doublures !"},{"id":"NAX10_02","name":"Crochet","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":5,"durability":8,"text":"<b>Râle d’agonie :</b> place cette arme dans votre main.","mechanics":["Deathrattle"]},{"id":"NAX10_02H","name":"Crochet","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":4,"durability":8,"text":"<b>Furie des vents</b>\n<b>Râle d’agonie :</b> place cette arme dans votre main.","mechanics":["Deathrattle","Windfury"]},{"id":"NAX6_03te","name":"Croissance fongique","set":"Curse of Naxxramas","type":"Enchantment","text":"Attaque augmentée."},{"id":"FP1_001","name":"Croq’zombie","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":3,"text":"<b>Râle d’agonie :</b> rend 5 PV au héros adverse.","flavor":"Au menu ce soir, le chef vous propose… du zombie.","artist":"E. M. Gist","collectible":true,"howToGet":"Obtenue en gagnant contre Gluth dans le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir battu Gluth dans le quartier des Assemblages.","mechanics":["Deathrattle"]},{"id":"NAX9_02H","name":"Dame Blaumeux","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"NAX9_02","name":"Dame Blaumeux","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"NAX12_02","name":"Décimer","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nFait passer les points de vie de tous les serviteurs à 1."},{"id":"NAX12_02H","name":"Décimer","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nFait passer les points de vie des serviteurs adverses à 1."},{"id":"NAX12_02e","name":"Décimer","set":"Curse of Naxxramas","type":"Enchantment","text":"Les points de vie sont passés à 1."},{"id":"FP1_006","name":"Destrier de la mort","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":3,"text":"<b>Charge. Râle d’agonie :</b> inflige 3 points de dégâts à votre héros.","mechanics":["Charge","Deathrattle"]},{"id":"NAX12_03e","name":"Double rangée de dents","set":"Curse of Naxxramas","type":"Enchantment","text":"Attaque augmentée."},{"id":"NAX7_02","name":"Doublure","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":0,"health":7,"text":"<b>Provocation</b>","mechanics":["Taunt"]},{"id":"FP1_018","name":"Dupliquer","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":3,"text":"<b>Secret :</b> quand un serviteur allié meurt, en place 2 copies dans votre main.","flavor":"C’est bien la seule fois où vous pourrez copier des cartes sans vous faire bannir votre compte !","artist":"Alex Garner","collectible":true,"playerClass":"Mage","howToGet":"Obtenue en terminant le défi de la classe mage de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe mage de Naxxramas.","mechanics":["Secret"]},{"id":"FP1_026","name":"Embusqué anub’ar","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":5,"text":"<b>Râle d’agonie :</b> renvoie un serviteur allié aléatoire dans votre main.","flavor":"Autrefois, on l’appelait l’anub’ar-qui-renvoie-un-serviteur-dans-votre-main, mais c’était un peu dur à dire.","artist":"Nate Bowden","collectible":true,"playerClass":"Rogue","howToGet":"Obtenue en terminant le défi de la classe voleur de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe voleur de Naxxramas.","mechanics":["Deathrattle"]},{"id":"NAX3_02","name":"Entoilage","set":"Curse of Naxxramas","type":"Hero Power","cost":3,"text":"<b>Pouvoir héroïque</b>\nRenvoie un serviteur ennemi aléatoire dans la main de votre adversaire."},{"id":"NAX3_02H","name":"Entoilage","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nRenvoie 2 serviteurs ennemis aléatoires dans la main de votre adversaire."},{"id":"FP1_029","name":"Épées dansantes","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":4,"health":4,"text":"<b>Râle d’agonie :</b> votre adversaire pioche une carte.","flavor":"Leur chanson préférée, c’est « Alors on danse ».","artist":"Jon McConnell","collectible":true,"howToGet":"Obtenue en gagnant contre l’instructeur Razuvious dans le quartier Militaire.","howToGetGold":"Peut être créée après avoir battu l’instructeur Razuvious dans le quartier Militaire.","mechanics":["Deathrattle"]},{"id":"NAX5_02","name":"Éruption","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>Pouvoir héroïque</b>\nInflige 2 points de dégâts au serviteur adverse tout à gauche."},{"id":"NAX5_02H","name":"Éruption","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nInflige 3 points de dégâts au serviteur adverse tout à gauche."},{"id":"NAX15_04a","name":"Esclave de Kel’Thuzad","set":"Curse of Naxxramas","type":"Enchantment","text":"À MOI !"},{"id":"NAX13_03e","name":"État de supercharge","set":"Curse of Naxxramas","type":"Enchantment","text":"+2 PV."},{"id":"NAX6_04","name":"Explosion de spores","set":"Curse of Naxxramas","type":"Spell","cost":1,"text":"Inflige $1 |4(point,points) de dégâts à tous les serviteurs adverses. Invoque une spore."},{"id":"FP1_015","name":"Feugen","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":7,"text":"<b>Râle d’agonie :</b> si Stalagg est aussi mort pendant cette partie, invoque Thaddius.","flavor":"Feugen est tristounet parce que tout le monde préfère Stalagg.","artist":"Dany Orizio","collectible":true,"elite":true,"howToGet":"Obtenue en terminant le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir terminé le quartier des Assemblages.","mechanics":["Deathrattle"]},{"id":"NAX13_04H","name":"Feugen","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":7,"elite":true},{"id":"NAXM_002","name":"Forgeron squelettique","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":4,"health":3,"text":"<b>Râle d’agonie :</b> détruit l’arme de votre adversaire.","mechanics":["Deathrattle"]},{"id":"FP1_028","name":"Fossoyeur","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"Gagne +1 ATQ chaque fois que vous invoquez un serviteur avec <b>Râle d’agonie</b>.","flavor":"Dans un monde où il suffit de s’adresser à un gardien des âmes pour ressusciter, fossoyeur n’est pas considéré comme un métier porteur.","artist":"Jonboy Meyers","collectible":true,"howToGet":"Obtenue en gagnant contre le Recousu dans le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir battu le Recousu dans le quartier des Assemblages."},{"id":"NAX7_03","name":"Frappe déséquilibrante","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInflige 3 points de dégâts."},{"id":"NAX7_03H","name":"Frappe déséquilibrante","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>Pouvoir héroïque</b>\nInflige 4 points de dégâts."},{"id":"NAX10_03","name":"Frappe haineuse","set":"Curse of Naxxramas","type":"Hero Power","cost":4,"text":"<b>Pouvoir héroïque</b>\nDétruit un serviteur."},{"id":"NAX10_03H","name":"Frappe haineuse","set":"Curse of Naxxramas","type":"Hero Power","cost":4,"text":"<b>Pouvoir héroïque</b>\nDétruit un serviteur."},{"id":"NAX14_04","name":"Froid absolu","set":"Curse of Naxxramas","type":"Spell","cost":5,"text":"Inflige $8 |4(point,points) de dégâts au héros adverse, et le <b>gèle</b>.","mechanics":["Freeze"]},{"id":"NAX15_03t","name":"Garde de la Couronne de glace","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":5,"health":5,"text":"<b>Provocation</b>","mechanics":["Taunt"]},{"id":"NAX15_03n","name":"Garde de la Couronne de glace","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":3,"health":3,"text":"<b>Provocation</b>","mechanics":["Taunt"]},{"id":"FP1_027","name":"Gargouille peau-de-pierre","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"Au début de votre tour, rend tous ses points de vie à ce serviteur.","flavor":"Quel est le jeu préféré des gargouilles peau-de-pierre ? 1, 2, 3, soleil !","artist":"Matt Smith","collectible":true,"howToGet":"Obtenue en gagnant contre Noth le Porte-Peste dans le quartier de la Peste.","howToGetGold":"Peut être créée après avoir battu Noth le Porte-Peste dans le quartier de la Peste."},{"id":"FP1_012t","name":"Gelée","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":2,"text":"<b>Provocation</b>","mechanics":["Taunt"]},{"id":"NAX11_03","name":"Gelée polluée","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2},{"id":"NAX12_01","name":"Gluth","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX12_01H","name":"Gluth","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX8_01","name":"Gothik le Moissonneur","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX8_01H","name":"Gothik le Moissonneur","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"FP1_024","name":"Goule instable","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":3,"text":"<b>Provocation</b>\n<b>Râle d’agonie :</b> inflige 1 point de dégâts à tous les serviteurs.","flavor":"Remplir ses goules de carburant pour fusée, ça fait fureur dans les écoles de nécromancie.","artist":"Mike Nicholson","collectible":true,"howToGet":"Obtenue en gagnant contre Heigan l’Impur dans le quartier de la Peste.","howToGetGold":"Peut être créée après avoir battu Heigan l’Impur dans le quartier de la Peste.","mechanics":["Deathrattle","Taunt"]},{"id":"FP1_019","name":"Graines de poison","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":4,"text":"Détruit tous les serviteurs et les remplace par des tréants 2/2.","flavor":"La baguette tradition aux graines de poison est le produit le moins demandé de la boulangerie druidique de McTiggin.","artist":"Brian Despain","collectible":true,"playerClass":"Druid","howToGet":"Obtenue en terminant le défi de la classe druide de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe druide de Naxxramas."},{"id":"NAX2_01","name":"Grande veuve Faerlina","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX2_01H","name":"Grande veuve Faerlina","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX11_01","name":"Grobbulus","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX11_01H","name":"Grobbulus","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX1_04","name":"Grouillement","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInvoque un nérubien 3/1."},{"id":"NAX1h_04","name":"Grouillement","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInvoque un nérubien 4/4."},{"id":"NAX8_04t","name":"Guerrier spectral","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":0,"health":4,"text":"Au début de votre tour, inflige 1 point de dégâts à votre héros."},{"id":"NAX8_04","name":"Guerrier tenace","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":3,"health":4,"text":"<b>Râle d’agonie :</b> invoque un guerrier spectral pour votre adversaire.","mechanics":["Deathrattle"]},{"id":"NAX5_01","name":"Heigan l’Impur","set":"Curse of Naxxramas","type":"Hero","health":30,"playerClass":"Warlock"},{"id":"NAX5_01H","name":"Heigan l’Impur","set":"Curse of Naxxramas","type":"Hero","health":45,"playerClass":"Warlock"},{"id":"FP1_030","name":"Horreb","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Cri de guerre :</b> les sorts adverses coûtent (5) cristaux de plus au prochain tour.","flavor":"Au départ, Horreb n’était qu’une simple créature des marais. C’est la raison pour laquelle il faut réglementer davantage l’utilisation des pesticides dans l’agriculture.","artist":"Samwise","collectible":true,"elite":true,"howToGet":"Obtenue en terminant le quartier de la Peste.","howToGetGold":"Peut être créée après avoir terminé le quartier de la Peste.","mechanics":["Battlecry"]},{"id":"NAX6_01","name":"Horreb","set":"Curse of Naxxramas","type":"Hero","health":75},{"id":"NAX6_01H","name":"Horreb","set":"Curse of Naxxramas","type":"Hero","health":99},{"id":"FP1_022","name":"Implorateur du Vide","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":4,"attack":3,"health":4,"text":"<b>Râle d’agonie :</b> place un démon aléatoire de votre main sur le champ de bataille.","flavor":"« Vide ! Allez, Vide ! S’il te plaît... »","artist":"Robb Shoberg","collectible":true,"race":"Demon","playerClass":"Warlock","howToGet":"Obtenue en terminant le défi de la classe démoniste de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe démoniste de Naxxramas.","mechanics":["Deathrattle"]},{"id":"NAX11_04e","name":"Injection mutante","set":"Curse of Naxxramas","type":"Enchantment","text":"+4/+4 et <b>Provocation</b>."},{"id":"NAX11_04","name":"Injection mutante","set":"Curse of Naxxramas","type":"Spell","cost":3,"text":"Confère à un serviteur +4/+4 et <b>Provocation</b>."},{"id":"NAX7_01H","name":"Instructeur Razuvious","set":"Curse of Naxxramas","type":"Hero","health":55},{"id":"NAX7_01","name":"Instructeur Razuvious","set":"Curse of Naxxramas","type":"Hero","health":40},{"id":"NAX15_01e","name":"Intrus !","set":"Curse of Naxxramas","type":"Enchantment"},{"id":"NAX15_01He","name":"Intrus !","set":"Curse of Naxxramas","type":"Enchantment"},{"id":"NAX8_03t","name":"Jeune recrue spectrale","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":0,"health":2,"text":"Au début de votre tour, inflige 1 point de dégâts à votre héros."},{"id":"NAX8_03","name":"Jeune recrue tenace","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2,"text":"<b>Râle d’agonie :</b> invoque une jeune recrue spectrale pour votre adversaire.","mechanics":["Deathrattle"]},{"id":"FP1_013","name":"Kel’Thuzad","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":8,"attack":6,"health":8,"text":"À la fin de chaque tour, invoque tous les serviteurs alliés qui sont morts pendant ce tour.","flavor":"Kel’Thuzad n’a pas pu résister à l’appel du roi-liche. Même si ce n’était qu’un appel automatique avec un message pré-enregistré vantant les vertus de son auteur.","artist":"Chris Robinson","collectible":true,"elite":true,"howToGet":"Obtenue en gagnant contre chacun des boss de Naxxramas !","howToGetGold":"Peut être créée après avoir battu chacun des boss de Naxxramas !"},{"id":"NAX15_01H","name":"Kel’Thuzad","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX15_01","name":"Kel’Thuzad","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX9_05H","name":"Lame runique","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":2,"durability":3,"text":"A +6 ATQ si les autres cavaliers sont morts."},{"id":"NAX9_05","name":"Lame runique","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":1,"durability":3,"text":"A +3 ATQ si les autres cavaliers sont morts."},{"id":"NAX7_04","name":"Lame runique massive","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":5,"durability":2,"text":"Inflige des dégâts doublés aux héros."},{"id":"NAX7_04H","name":"Lame runique massive","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":10,"durability":2,"text":"Inflige des dégâts doublés aux héros."},{"id":"NAX10_01H","name":"Le Recousu","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX10_01","name":"Le Recousu","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_003","name":"Limon résonnant","set":"Curse of Naxxramas","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":2,"text":"<b>Cri de guerre :</b> invoque une copie conforme de ce serviteur à la fin du tour.","flavor":"LIMON… Limon… limon… mon…","artist":"Eric Browning","collectible":true,"howToGet":"Obtenue en gagnant contre Saphiron dans l’antre du Wyrm de givre.","howToGetGold":"Peut être créée après avoir battu Saphiron dans l’antre du Wyrm de givre.","mechanics":["Battlecry"]},{"id":"NAX15_05","name":"M. Bigglesworth","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":0,"attack":1,"health":1,"text":"<i>Le chat-chat adoré de Kel’Thuzad.</i>","elite":true,"race":"Beast"},{"id":"NAX12_03","name":"Mâchoires","set":"Curse of Naxxramas","type":"Weapon","cost":1,"attack":1,"durability":5,"text":"Gagne +2 ATQ chaque fois qu’un serviteur avec <b>Râle d’agonie</b> meurt."},{"id":"NAX12_03H","name":"Mâchoires","set":"Curse of Naxxramas","type":"Weapon","cost":1,"attack":3,"durability":5,"text":"Gagne +2 ATQ chaque fois qu’un serviteur avec <b>Râle d’agonie</b> meurt."},{"id":"NAX3_01","name":"Maexxna","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_010","name":"Maexxna","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":6,"attack":2,"health":8,"text":"Détruit tout serviteur blessé par ce serviteur.","flavor":"Rien n’énerve plus Maexxna que d’être appelée « Maxena » ou « Maxxy ».","artist":"Howard Lyon","collectible":true,"elite":true,"race":"Beast","howToGet":"Obtenue en terminant le quartier des Arachnides.","howToGetGold":"Peut être créée après avoir terminé le quartier des Arachnides.","mechanics":["Poisonous"]},{"id":"NAX3_01H","name":"Maexxna","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX9_07","name":"Marque des cavaliers","set":"Curse of Naxxramas","type":"Spell","cost":5,"text":"Confère +1/+1 à vos serviteurs et à votre arme."},{"id":"NAX9_07e","name":"Marque des cavaliers","set":"Curse of Naxxramas","type":"Enchantment","text":"+1/+1."},{"id":"NAX8_02H","name":"Moisson","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>Pouvoir héroïque</b>\nVous piochez une carte et gagnez un cristal de mana."},{"id":"NAX8_02","name":"Moisson","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nPioche une carte."},{"id":"FP1_021","name":"Morsure de la mort","set":"Curse of Naxxramas","type":"Weapon","rarity":"Common","cost":4,"attack":4,"durability":2,"text":"<b>Râle d’agonie :</b> inflige 1 point de dégâts à tous les serviteurs.","flavor":"« Venez prendre un avant-goût de la Mort. » - Seigneur de la mort McScruff","artist":"Jim Nelson","collectible":true,"playerClass":"Warrior","howToGet":"Obtenue en terminant le défi de la classe guerrier de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe guerrier de Naxxramas.","mechanics":["Deathrattle"]},{"id":"NAX6_03","name":"Mortelle floraison","set":"Curse of Naxxramas","type":"Spell","cost":4,"text":"Inflige $5 |4(point,points) de dégâts à un serviteur. Invoque une spore."},{"id":"NAXM_001","name":"Nécro-chevalier","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":5,"health":6,"text":"<b>Râle d’agonie :</b> détruit les serviteurs adjacents.","mechanics":["Deathrattle"]},{"id":"NAX1h_03","name":"Nérubien","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":4,"health":4},{"id":"NAX1_03","name":"Nérubien","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":3,"health":1},{"id":"FP1_007t","name":"Nérubien","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":3,"attack":4,"health":4},{"id":"NAX4_01","name":"Noth le Porte-Peste","set":"Curse of Naxxramas","type":"Hero","health":30,"playerClass":"Mage"},{"id":"NAX4_01H","name":"Noth le Porte-Peste","set":"Curse of Naxxramas","type":"Hero","health":45,"playerClass":"Mage"},{"id":"NAX11_02","name":"Nuage empoisonné","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nInflige 1 point de dégâts à\n tous les serviteurs. Invoque une gelée si l’un d’eux meurt."},{"id":"NAX11_02H","name":"Nuage empoisonné","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nInflige 2 points de dégâts à\n tous les adversaires. Invoque une gelée si l’un d’eux meurt."},{"id":"NAX1_05","name":"Nuée de sauterelles","set":"Curse of Naxxramas","type":"Spell","cost":7,"text":"Inflige $3 |4(point,points) de dégâts à tous les serviteurs ennemis. Rend #3 |4(point,points) de vie à votre héros."},{"id":"FP1_007","name":"Œuf de nérubien","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":2,"attack":0,"health":2,"text":"<b>Râle d’agonie :</b> invoque un nérubien 4/4.","flavor":"Les œufs sont une excellente source de protéines et de nérubiens.","artist":"Justin Thavirat","collectible":true,"howToGet":"Obtenue en gagnant contre Maexxna dans le quartier des Arachnides.","howToGetGold":"Peut être créée après avoir battu Maexxna dans le quartier des Arachnides.","mechanics":["Deathrattle"]},{"id":"FP1_005","name":"Ombre de Naxxramas","set":"Curse of Naxxramas","type":"Minion","rarity":"Epic","cost":3,"attack":2,"health":2,"text":"<b>Camouflage</b>\nGagne +1/+1 au début de votre tour.","flavor":"Regardez vers la lumière, les ombres resteront derrière vous !","artist":"Ittoku Seta","collectible":true,"howToGet":"Obtenue en gagnant contre Kel’Thuzad dans l’antre du Wyrm de givre.","howToGetGold":"Peut être créée après avoir battu Kel’Thuzad dans l’antre du Wyrm de givre.","mechanics":["Stealth"]},{"id":"NAX9_06","name":"Ombre impie","set":"Curse of Naxxramas","type":"Hero Power","cost":5,"text":"<b>Pouvoir héroïque</b>\nPioche deux cartes."},{"id":"NAX4_05","name":"Peste","set":"Curse of Naxxramas","type":"Spell","cost":6,"text":"Détruit tous les serviteurs sauf les squelettes."},{"id":"NAX2_03","name":"Pluie de feu","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>Pouvoir héroïque</b>\nTire un missile pour chaque\n carte dans la main de votre adversaire.","mechanics":["ImmuneToSpellpower"]},{"id":"NAX2_03H","name":"Pluie de feu","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>Pouvoir héroïque</b>\nTire un missile pour chaque\n carte dans la main de votre adversaire.","mechanics":["ImmuneToSpellpower"]},{"id":"NAX3_03","name":"Poison nécrotique","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"Détruit un serviteur."},{"id":"NAX13_02e","name":"Polarité","set":"Curse of Naxxramas","type":"Enchantment","text":"Attaque et vie inversées."},{"id":"FP1_023e","name":"Puissance de la ziggourat","set":"Curse of Naxxramas","type":"Enchantment","text":"+3 PV.","playerClass":"Priest"},{"id":"FP1_002","name":"Rampante hantée","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"<b>Râle d’agonie :</b> invoque deux araignées spectrales 1/1.","flavor":"Arachnofauxbie : peur des araignées en mousse.","artist":"Jeremy Cranford","collectible":true,"race":"Beast","howToGet":"Obtenue en gagnant contre Anub’Rekhan dans le quartier des Arachnides.","howToGetGold":"Peut être créée après avoir battu Anub’Rekhan dans le quartier des Arachnides.","mechanics":["Deathrattle"]},{"id":"NAX4_04H","name":"Réanimation morbide","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque passif</b>\nChaque fois qu’un ennemi meurt, un squelette 5/5 se lève."},{"id":"NAX4_04","name":"Réanimation morbide","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque passif</b>\nChaque fois qu’un ennemi meurt, un squelette 1/1 se lève."},{"id":"FP1_025","name":"Réincarnation","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":2,"text":"Détruit un serviteur, puis le ramène à la vie avec tous ses PV.","flavor":"Pan, t’es même pas mort !","artist":"Dan Scott","collectible":true,"playerClass":"Shaman","howToGet":"Obtenue en terminant le défi de la classe chaman de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe chaman de Naxxramas."},{"id":"NAX14_01H","name":"Saphiron","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX14_01","name":"Saphiron","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_004","name":"Savant fou","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>Râle d’agonie :</b> place un <b>Secret</b> de votre deck sur le champ de bataille.","flavor":"Sa môman voulait qu’il devienne mage ou démoniste, mais non, il a fallu qu’il soit savant fou comme son papa.","artist":"James Ryman","collectible":true,"howToGet":"Obtenue en gagnant contre Grobbulus dans le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir battu Grobbulus dans le quartier des Assemblages.","mechanics":["Deathrattle"]},{"id":"FP1_009","name":"Seigneur de la mort","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":8,"text":"<b>Provocation. Râle d’agonie :</b> votre adversaire place un serviteur de son deck sur le champ de bataille.","flavor":"« Lève-toi de ta tombe ! » - Kel’Thuzad","artist":"Ben Olson","collectible":true,"howToGet":"Obtenue en gagnant contre les quatre cavaliers dans le quartier Militaire.","howToGetGold":"Peut être créée après avoir battu les quatre cavaliers dans le quartier Militaire.","mechanics":["Deathrattle","Taunt"]},{"id":"FP1_017","name":"Seigneur de la toile nérub’ar","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":4,"text":"Les serviteurs avec <b>Cri de guerre</b> coûtent (2) cristaux de plus.","flavor":"Les seigneurs de la toile passent leur journée à tisser des trampolines géants. Vous parlez d’un boulot…","artist":"Alex Horley Orlandelli","collectible":true,"howToGet":"Obtenue en gagnant contre la grande veuve Faerlina dans le quartier des Arachnides.","howToGetGold":"Peut être créée après avoir battu la grande veuve Faerlina dans le quartier des Arachnides.","mechanics":["Aura"]},{"id":"NAX9_04H","name":"Sire Zeliek","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"NAX9_04","name":"Sire Zeliek","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"FP1_023","name":"Sombre sectateur","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":4,"text":"<b>Râle d’agonie :</b> confère +3 PV à un serviteur allié aléatoire.","flavor":"Le culte des Damnés s’est rendu compte qu’il valait mieux rester anonyme lors du recrutement de nouveaux sectateurs.","artist":"Phroilan Gardner","collectible":true,"playerClass":"Priest","howToGet":"Obtenue en terminant le défi de la classe prêtre de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe prêtre de Naxxramas.","mechanics":["Deathrattle"]},{"id":"NAX14_02","name":"Souffle de givre","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nDétruit tous les serviteurs\n adverses qui ne sont pas <b>gelés</b>."},{"id":"NAX6_03t","name":"Spore","set":"Curse of Naxxramas","type":"Minion","cost":0,"attack":0,"health":1,"text":"<b>Râle d’agonie :</b> donne +8 ATQ à tous les serviteurs adverses.","mechanics":["Deathrattle"]},{"id":"NAX4_03","name":"Squelette","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":1},{"id":"NAX4_03H","name":"Squelette","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":5,"health":5},{"id":"NAX13_05H","name":"Stalagg","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":7,"health":4,"elite":true},{"id":"FP1_014","name":"Stalagg","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":7,"health":4,"text":"<b>Râle d’agonie :</b> si Feugen est aussi mort pendant cette partie, invoque Thaddius.","flavor":"Stalagg voulait écrire sur sa carte : « STALAGG MEILLEUR ! »","artist":"Dany Orizio","collectible":true,"elite":true,"howToGet":"Obtenue en terminant le quartier des Assemblages.","howToGetGold":"Peut être créée après avoir terminé le quartier des Assemblages.","mechanics":["Deathrattle"]},{"id":"NAX13_03","name":"Supercharge","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"Confère +2 PV à vos serviteurs."},{"id":"NAX13_01","name":"Thaddius","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX13_01H","name":"Thaddius","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"FP1_014t","name":"Thaddius","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":10,"attack":11,"health":11,"elite":true},{"id":"NAX9_03H","name":"Thane Korth’azz","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"NAX9_03","name":"Thane Korth’azz","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"Votre héros est <b>Insensible</b>.","elite":true},{"id":"FP1_011","name":"Tisseuse","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1,"text":"<b>Râle d’agonie :</b> ajoute une carte Bête aléatoire dans votre main.","flavor":"Les cocons d’araignée, c’est comme les boîtes de chocolats : on ne sait jamais sur quoi on va tomber !","artist":"Dan Brereton","collectible":true,"race":"Beast","playerClass":"Hunter","howToGet":"Obtenue en terminant le défi de la classe chasseur de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe chasseur de Naxxramas.","mechanics":["Deathrattle"]},{"id":"NAX15_02","name":"Trait de givre","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nInflige 2 points de dégâts au héros ennemi et le <b>gèle</b>.","mechanics":["Freeze"]},{"id":"NAX15_02H","name":"Trait de givre","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>Pouvoir héroïque</b>\nInflige 3 points de dégâts au héros ennemi et le <b>gèle</b>.","mechanics":["Freeze"]},{"id":"FP1_019t","name":"Tréant","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2,"playerClass":"Druid"},{"id":"FP1_020e","name":"Vengeance","set":"Curse of Naxxramas","type":"Enchantment","text":"+3/+2.","playerClass":"Paladin"},{"id":"FP1_020","name":"Venger","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":1,"text":"<b>Secret :</b> quand l’un de vos serviteurs meurt, donne +3/+2 à un serviteur allié aléatoire.","flavor":"Un jour, plusieurs paladins se sont ligués pour rendre la justice. Au moment de choisir un nom, leur avocat les a convaincus de se faire appeler la Digue des justiciers. On n’est jamais trop prudent.","artist":"Zoltan & Gabor","collectible":true,"playerClass":"Paladin","howToGet":"Obtenue en terminant le défi de la classe paladin de Naxxramas.","howToGetGold":"Peut être créée après avoir terminé le défi de la classe paladin de Naxxramas.","mechanics":["Secret"]}]
+[
+    {
+        "cost": 3,
+        "id": "NAX12_04",
+        "name": "Acc\u00e8s de rage",
+        "set": "Curse of Naxxramas",
+        "text": "Conf\u00e8re +6 ATQ \u00e0 votre h\u00e9ros pendant ce tour.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX12_04e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Acc\u00e8s de rage",
+        "set": "Curse of Naxxramas",
+        "text": "+6 ATQ pendant ce tour.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX2_05H",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Adorateur",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros a +3 ATQ pendant votre tour.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX2_05",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Adorateur",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros a +1 ATQ pendant votre tour.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Glenn Rane",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Cette \u00e2me n\u2019arr\u00eate pas de se plaindre en <i>g\u00e9missant</i> aupr\u00e8s de sa hi\u00e9rarchie, c\u2019est-\u00e0-dire vous\u00a0!",
+        "health": 5,
+        "howToGet": "Obtenue en gagnant contre Thaddius dans le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Thaddius dans le quartier des Assemblages.",
+        "id": "FP1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u00c2me g\u00e9missante",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Cri de guerre\u00a0:</b> r\u00e9duit au <b>Silence</b> vos autres serviteurs.",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX1h_01",
+        "name": "Anub\u2019Rekhan",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX1_01",
+        "name": "Anub\u2019Rekhan",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "id": "FP1_028e",
+        "name": "Appel des t\u00e9n\u00e8bres",
+        "set": "Curse of Naxxramas",
+        "text": "Caract\u00e9ristiques augment\u00e9es.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "FP1_002t",
+        "name": "Araign\u00e9e spectrale",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX6_02H",
+        "name": "Aura n\u00e9crotique",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 3 points de d\u00e9g\u00e2ts au h\u00e9ros adverse.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "FP1_030e",
+        "name": "Aura n\u00e9crotique",
+        "set": "Curse of Naxxramas",
+        "text": "Vos sorts co\u00fbtent (5) cristaux de plus au prochain tour.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 2,
+        "id": "NAX6_02",
+        "name": "Aura n\u00e9crotique",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 3 points de d\u00e9g\u00e2ts au h\u00e9ros adverse.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 14,
+        "id": "NAX9_01H",
+        "name": "Baron Vaillefendre",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 1,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "flavor": "Dame Blaumeux pr\u00e9f\u00e9rerait qu\u2019on dise \u00ab\u00a0la cavali\u00e8re et les trois cavaliers\u00a0\u00bb.",
+        "health": 7,
+        "howToGet": "Obtenue en terminant le quartier Militaire.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le quartier Militaire.",
+        "id": "FP1_031",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Baron Vaillefendre",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "Vos serviteurs d\u00e9clenchent deux fois leur <b>R\u00e2le d\u2019agonie</b>.",
+        "type": "Minion"
+    },
+    {
+        "health": 7,
+        "id": "NAX9_01",
+        "name": "Baron Vaillefendre",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 0,
+        "cost": 5,
+        "health": 6,
+        "id": "NAX8_05t",
+        "name": "Cavalier spectral",
+        "set": "Curse of Naxxramas",
+        "text": "Au d\u00e9but de votre tour, inflige 1 point de d\u00e9g\u00e2ts \u00e0 votre h\u00e9ros.",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 6,
+        "health": 6,
+        "id": "NAX8_05",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Cavalier tenace",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> invoque un cavalier spectral pour votre adversaire.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX5_03",
+        "name": "Cervocalypse",
+        "set": "Curse of Naxxramas",
+        "text": "Les deux joueurs piochent 2 cartes et gagnent un cristal de mana.",
+        "type": "Spell"
+    },
+    {
+        "cost": 8,
+        "id": "NAX15_04",
+        "name": "Cha\u00eenes",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nPrend le contr\u00f4le d\u2019un serviteur adverse al\u00e9atoire jusqu\u2019\u00e0 la fin du tour.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 8,
+        "id": "NAX15_04H",
+        "name": "Cha\u00eenes",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nPrend le contr\u00f4le d\u2019un serviteur adverse al\u00e9atoire.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 2,
+        "cost": 5,
+        "health": 10,
+        "id": "NAX14_03",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Champion gel\u00e9",
+        "set": "Curse of Naxxramas",
+        "text": "Gel\u00e9 pour toute la partie. Les serviteurs adjacents sont immunis\u00e9s contre Souffle de givre.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX13_02",
+        "name": "Changement de polarit\u00e9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\n\u00c9change l\u2019Attaque et la Vie de tous les serviteurs.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Qu\u2019ont en commun les dragons f\u00e9eriques et les chevaliers de la mort spectraux\u00a0? Ils adorent les p\u00e2tes\u00a0!",
+        "health": 6,
+        "howToGet": "Obtenue en gagnant contre Gothik le Moissonneur dans le quartier Militaire.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Gothik le Moissonneur dans le quartier Militaire.",
+        "id": "FP1_008",
+        "name": "Chevalier de la mort spectral",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "Ne peut pas \u00eatre la cible de sorts ou de pouvoirs h\u00e9ro\u00efques.",
+        "type": "Minion"
+    },
+    {
+        "id": "FP1_005e",
+        "name": "Consumer",
+        "set": "Curse of Naxxramas",
+        "text": "Caract\u00e9ristiques augment\u00e9es.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nate Bowden",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "Ne vous lancez pas dans un concours de rots avec lui, c\u2019est perdu d\u2019avance.",
+        "health": 5,
+        "howToGet": "Obtenue en gagnant contre Horreb dans le quartier de la Peste.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Horreb dans le quartier de la Peste.",
+        "id": "FP1_012",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "Crache-vase",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation.\nR\u00e2le d\u2019agonie\u00a0:</b> invoque une gel\u00e9e 1/2 avec <b>Provocation</b>.",
+        "type": "Minion"
+    },
+    {
+        "cost": 1,
+        "id": "NAX7_05",
+        "name": "Cristal de contr\u00f4le mental",
+        "set": "Curse of Naxxramas",
+        "text": "Active le cristal pour prendre le contr\u00f4le des doublures\u00a0!",
+        "type": "Spell"
+    },
+    {
+        "attack": 5,
+        "cost": 3,
+        "durability": 8,
+        "id": "NAX10_02",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Crochet",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> place cette arme dans votre main.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "durability": 8,
+        "id": "NAX10_02H",
+        "mechanics": [
+            "Deathrattle",
+            "Windfury"
+        ],
+        "name": "Crochet",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Furie des vents</b>\n<b>R\u00e2le d\u2019agonie\u00a0:</b> place cette arme dans votre main.",
+        "type": "Weapon"
+    },
+    {
+        "id": "NAX6_03te",
+        "name": "Croissance fongique",
+        "set": "Curse of Naxxramas",
+        "text": "Attaque augment\u00e9e.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "E. M. Gist",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Au menu ce soir, le chef vous propose\u2026 du zombie.",
+        "health": 3,
+        "howToGet": "Obtenue en gagnant contre Gluth dans le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Gluth dans le quartier des Assemblages.",
+        "id": "FP1_001",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Croq\u2019zombie",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> rend 5 PV au h\u00e9ros adverse.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_02H",
+        "name": "Dame Blaumeux",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_02",
+        "name": "Dame Blaumeux",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX12_02",
+        "name": "D\u00e9cimer",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nFait passer les points de vie de tous les serviteurs \u00e0 1.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX12_02H",
+        "name": "D\u00e9cimer",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nFait passer les points de vie des serviteurs adverses \u00e0 1.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "NAX12_02e",
+        "name": "D\u00e9cimer",
+        "set": "Curse of Naxxramas",
+        "text": "Les points de vie sont pass\u00e9s \u00e0 1.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 3,
+        "id": "FP1_006",
+        "mechanics": [
+            "Charge",
+            "Deathrattle"
+        ],
+        "name": "Destrier de la mort",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Charge. R\u00e2le d\u2019agonie\u00a0:</b> inflige 3 points de d\u00e9g\u00e2ts \u00e0 votre h\u00e9ros.",
+        "type": "Minion"
+    },
+    {
+        "id": "NAX12_03e",
+        "name": "Double rang\u00e9e de dents",
+        "set": "Curse of Naxxramas",
+        "text": "Attaque augment\u00e9e.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 2,
+        "health": 7,
+        "id": "NAX7_02",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Doublure",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Garner",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "C\u2019est bien la seule fois o\u00f9 vous pourrez copier des cartes sans vous faire bannir votre compte\u00a0!",
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe mage de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe mage de Naxxramas.",
+        "id": "FP1_018",
+        "mechanics": [
+            "Secret"
+        ],
+        "name": "Dupliquer",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Secret\u00a0:</b> quand un serviteur alli\u00e9 meurt, en place 2 copies dans votre main.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Nate Bowden",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "Autrefois, on l\u2019appelait l\u2019anub\u2019ar-qui-renvoie-un-serviteur-dans-votre-main, mais c\u2019\u00e9tait un peu dur \u00e0 dire.",
+        "health": 5,
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe voleur de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe voleur de Naxxramas.",
+        "id": "FP1_026",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Embusqu\u00e9 anub\u2019ar",
+        "playerClass": "Rogue",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> renvoie un serviteur alli\u00e9 al\u00e9atoire dans votre main.",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "NAX3_02",
+        "name": "Entoilage",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nRenvoie un serviteur ennemi al\u00e9atoire dans la main de votre adversaire.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX3_02H",
+        "name": "Entoilage",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nRenvoie 2 serviteurs ennemis al\u00e9atoires dans la main de votre adversaire.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Jon McConnell",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Leur chanson pr\u00e9f\u00e9r\u00e9e, c\u2019est \u00ab\u00a0Alors on danse\u00a0\u00bb.",
+        "health": 4,
+        "howToGet": "Obtenue en gagnant contre l\u2019instructeur Razuvious dans le quartier Militaire.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu l\u2019instructeur Razuvious dans le quartier Militaire.",
+        "id": "FP1_029",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u00c9p\u00e9es dansantes",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> votre adversaire pioche une carte.",
+        "type": "Minion"
+    },
+    {
+        "cost": 1,
+        "id": "NAX5_02",
+        "name": "\u00c9ruption",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 2 points de d\u00e9g\u00e2ts au serviteur adverse tout \u00e0 gauche.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX5_02H",
+        "name": "\u00c9ruption",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 3 points de d\u00e9g\u00e2ts au serviteur adverse tout \u00e0 gauche.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "NAX15_04a",
+        "name": "Esclave de Kel\u2019Thuzad",
+        "set": "Curse of Naxxramas",
+        "text": "\u00c0 MOI\u00a0!",
+        "type": "Enchantment"
+    },
+    {
+        "id": "NAX13_03e",
+        "name": "\u00c9tat de supercharge",
+        "set": "Curse of Naxxramas",
+        "text": "+2 PV.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 1,
+        "id": "NAX6_04",
+        "name": "Explosion de spores",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 tous les serviteurs adverses. Invoque une spore.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Feugen est tristounet parce que tout le monde pr\u00e9f\u00e8re Stalagg.",
+        "health": 7,
+        "howToGet": "Obtenue en terminant le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le quartier des Assemblages.",
+        "id": "FP1_015",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Feugen",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> si Stalagg est aussi mort pendant cette partie, invoque Thaddius.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 5,
+        "elite": true,
+        "health": 7,
+        "id": "NAX13_04H",
+        "name": "Feugen",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "health": 3,
+        "id": "NAXM_002",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Forgeron squelettique",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> d\u00e9truit l\u2019arme de votre adversaire.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jonboy Meyers",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Dans un monde o\u00f9 il suffit de s\u2019adresser \u00e0 un gardien des \u00e2mes pour ressusciter, fossoyeur n\u2019est pas consid\u00e9r\u00e9 comme un m\u00e9tier porteur.",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre le Recousu dans le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu le Recousu dans le quartier des Assemblages.",
+        "id": "FP1_028",
+        "name": "Fossoyeur",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "Gagne +1 ATQ chaque fois que vous invoquez un serviteur avec <b>R\u00e2le d\u2019agonie</b>.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX7_03",
+        "name": "Frappe d\u00e9s\u00e9quilibrante",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 3 points de d\u00e9g\u00e2ts.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX7_03H",
+        "name": "Frappe d\u00e9s\u00e9quilibrante",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 4 points de d\u00e9g\u00e2ts.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 4,
+        "id": "NAX10_03",
+        "name": "Frappe haineuse",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nD\u00e9truit un serviteur.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 4,
+        "id": "NAX10_03H",
+        "name": "Frappe haineuse",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nD\u00e9truit un serviteur.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 5,
+        "id": "NAX14_04",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Froid absolu",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige $8 |4(point,points) de d\u00e9g\u00e2ts au h\u00e9ros adverse, et le <b>g\u00e8le</b>.",
+        "type": "Spell"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 5,
+        "id": "NAX15_03t",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Garde de la Couronne de glace",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 4,
+        "health": 3,
+        "id": "NAX15_03n",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Garde de la Couronne de glace",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Smith",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Quel est le jeu pr\u00e9f\u00e9r\u00e9 des gargouilles peau-de-pierre\u00a0? 1, 2, 3, soleil\u00a0!",
+        "health": 4,
+        "howToGet": "Obtenue en gagnant contre Noth le Porte-Peste dans le quartier de la Peste.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Noth le Porte-Peste dans le quartier de la Peste.",
+        "id": "FP1_027",
+        "name": "Gargouille peau-de-pierre",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "Au d\u00e9but de votre tour, rend tous ses points de vie \u00e0 ce serviteur.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 2,
+        "id": "FP1_012t",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Gel\u00e9e",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX11_03",
+        "name": "Gel\u00e9e pollu\u00e9e",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "health": 30,
+        "id": "NAX12_01",
+        "name": "Gluth",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX12_01H",
+        "name": "Gluth",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX8_01",
+        "name": "Gothik le Moissonneur",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX8_01H",
+        "name": "Gothik le Moissonneur",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Mike Nicholson",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Remplir ses goules de carburant pour fus\u00e9e, \u00e7a fait fureur dans les \u00e9coles de n\u00e9cromancie.",
+        "health": 3,
+        "howToGet": "Obtenue en gagnant contre Heigan l\u2019Impur dans le quartier de la Peste.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Heigan l\u2019Impur dans le quartier de la Peste.",
+        "id": "FP1_024",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "Goule instable",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation</b>\n<b>R\u00e2le d\u2019agonie\u00a0:</b> inflige 1 point de d\u00e9g\u00e2ts \u00e0 tous les serviteurs.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brian Despain",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "La baguette tradition aux graines de poison est le produit le moins demand\u00e9 de la boulangerie druidique de McTiggin.",
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe druide de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe druide de Naxxramas.",
+        "id": "FP1_019",
+        "name": "Graines de poison",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "D\u00e9truit tous les serviteurs et les remplace par des tr\u00e9ants 2/2.",
+        "type": "Spell"
+    },
+    {
+        "health": 30,
+        "id": "NAX2_01",
+        "name": "Grande veuve Faerlina",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX2_01H",
+        "name": "Grande veuve Faerlina",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX11_01",
+        "name": "Grobbulus",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX11_01H",
+        "name": "Grobbulus",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 2,
+        "id": "NAX1_04",
+        "name": "Grouillement",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInvoque un n\u00e9rubien 3/1.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX1h_04",
+        "name": "Grouillement",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInvoque un n\u00e9rubien 4/4.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 0,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX8_04t",
+        "name": "Guerrier spectral",
+        "set": "Curse of Naxxramas",
+        "text": "Au d\u00e9but de votre tour, inflige 1 point de d\u00e9g\u00e2ts \u00e0 votre h\u00e9ros.",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX8_04",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Guerrier tenace",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> invoque un guerrier spectral pour votre adversaire.",
+        "type": "Minion"
+    },
+    {
+        "health": 30,
+        "id": "NAX5_01",
+        "name": "Heigan l\u2019Impur",
+        "playerClass": "Warlock",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX5_01H",
+        "name": "Heigan l\u2019Impur",
+        "playerClass": "Warlock",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Samwise",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Au d\u00e9part, Horreb n\u2019\u00e9tait qu\u2019une simple cr\u00e9ature des marais. C\u2019est la raison pour laquelle il faut r\u00e9glementer davantage l\u2019utilisation des pesticides dans l\u2019agriculture.",
+        "health": 5,
+        "howToGet": "Obtenue en terminant le quartier de la Peste.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le quartier de la Peste.",
+        "id": "FP1_030",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Horreb",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Cri de guerre\u00a0:</b> les sorts adverses co\u00fbtent (5) cristaux de plus au prochain tour.",
+        "type": "Minion"
+    },
+    {
+        "health": 75,
+        "id": "NAX6_01",
+        "name": "Horreb",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 99,
+        "id": "NAX6_01H",
+        "name": "Horreb",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Robb Shoberg",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u00ab\u00a0Vide\u00a0! Allez, Vide\u00a0! S\u2019il te pla\u00eet...\u00a0\u00bb",
+        "health": 4,
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe d\u00e9moniste de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe d\u00e9moniste de Naxxramas.",
+        "id": "FP1_022",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Implorateur du Vide",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> place un d\u00e9mon al\u00e9atoire de votre main sur le champ de bataille.",
+        "type": "Minion"
+    },
+    {
+        "id": "NAX11_04e",
+        "name": "Injection mutante",
+        "set": "Curse of Naxxramas",
+        "text": "+4/+4 et <b>Provocation</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 3,
+        "id": "NAX11_04",
+        "name": "Injection mutante",
+        "set": "Curse of Naxxramas",
+        "text": "Conf\u00e8re \u00e0 un serviteur +4/+4 et <b>Provocation</b>.",
+        "type": "Spell"
+    },
+    {
+        "health": 55,
+        "id": "NAX7_01H",
+        "name": "Instructeur Razuvious",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 40,
+        "id": "NAX7_01",
+        "name": "Instructeur Razuvious",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "id": "NAX15_01e",
+        "name": "Intrus\u00a0!",
+        "set": "Curse of Naxxramas",
+        "type": "Enchantment"
+    },
+    {
+        "id": "NAX15_01He",
+        "name": "Intrus\u00a0!",
+        "set": "Curse of Naxxramas",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX8_03t",
+        "name": "Jeune recrue spectrale",
+        "set": "Curse of Naxxramas",
+        "text": "Au d\u00e9but de votre tour, inflige 1 point de d\u00e9g\u00e2ts \u00e0 votre h\u00e9ros.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX8_03",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Jeune recrue tenace",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> invoque une jeune recrue spectrale pour votre adversaire.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Robinson",
+        "attack": 6,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "Kel\u2019Thuzad n\u2019a pas pu r\u00e9sister \u00e0 l\u2019appel du roi-liche. M\u00eame si ce n\u2019\u00e9tait qu\u2019un appel automatique avec un message pr\u00e9-enregistr\u00e9 vantant les vertus de son auteur.",
+        "health": 8,
+        "howToGet": "Obtenue en gagnant contre chacun des boss de Naxxramas\u00a0!",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu chacun des boss de Naxxramas\u00a0!",
+        "id": "FP1_013",
+        "name": "Kel\u2019Thuzad",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "\u00c0 la fin de chaque tour, invoque tous les serviteurs alli\u00e9s qui sont morts pendant ce tour.",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX15_01H",
+        "name": "Kel\u2019Thuzad",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX15_01",
+        "name": "Kel\u2019Thuzad",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "durability": 3,
+        "id": "NAX9_05H",
+        "name": "Lame runique",
+        "set": "Curse of Naxxramas",
+        "text": "A +6 ATQ si les autres cavaliers sont morts.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "durability": 3,
+        "id": "NAX9_05",
+        "name": "Lame runique",
+        "set": "Curse of Naxxramas",
+        "text": "A +3 ATQ si les autres cavaliers sont morts.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 5,
+        "cost": 3,
+        "durability": 2,
+        "id": "NAX7_04",
+        "name": "Lame runique massive",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige des d\u00e9g\u00e2ts doubl\u00e9s aux h\u00e9ros.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 10,
+        "cost": 3,
+        "durability": 2,
+        "id": "NAX7_04H",
+        "name": "Lame runique massive",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige des d\u00e9g\u00e2ts doubl\u00e9s aux h\u00e9ros.",
+        "type": "Weapon"
+    },
+    {
+        "health": 45,
+        "id": "NAX10_01H",
+        "name": "Le Recousu",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX10_01",
+        "name": "Le Recousu",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Eric Browning",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "LIMON\u2026 Limon\u2026 limon\u2026 mon\u2026",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre Saphiron dans l\u2019antre du Wyrm de givre.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Saphiron dans l\u2019antre du Wyrm de givre.",
+        "id": "FP1_003",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Limon r\u00e9sonnant",
+        "rarity": "Epic",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Cri de guerre\u00a0:</b> invoque une copie conforme de ce serviteur \u00e0 la fin du tour.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "elite": true,
+        "health": 1,
+        "id": "NAX15_05",
+        "name": "M. Bigglesworth",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<i>Le chat-chat ador\u00e9 de Kel\u2019Thuzad.</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "durability": 5,
+        "id": "NAX12_03",
+        "name": "M\u00e2choires",
+        "set": "Curse of Naxxramas",
+        "text": "Gagne +2 ATQ chaque fois qu\u2019un serviteur avec <b>R\u00e2le d\u2019agonie</b> meurt.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 3,
+        "cost": 1,
+        "durability": 5,
+        "id": "NAX12_03H",
+        "name": "M\u00e2choires",
+        "set": "Curse of Naxxramas",
+        "text": "Gagne +2 ATQ chaque fois qu\u2019un serviteur avec <b>R\u00e2le d\u2019agonie</b> meurt.",
+        "type": "Weapon"
+    },
+    {
+        "health": 30,
+        "id": "NAX3_01",
+        "name": "Maexxna",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Howard Lyon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "Rien n\u2019\u00e9nerve plus Maexxna que d\u2019\u00eatre appel\u00e9e \u00ab\u00a0Maxena\u00a0\u00bb ou \u00ab\u00a0Maxxy\u00a0\u00bb.",
+        "health": 8,
+        "howToGet": "Obtenue en terminant le quartier des Arachnides.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le quartier des Arachnides.",
+        "id": "FP1_010",
+        "mechanics": [
+            "Poisonous"
+        ],
+        "name": "Maexxna",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "D\u00e9truit tout serviteur bless\u00e9 par ce serviteur.",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX3_01H",
+        "name": "Maexxna",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 5,
+        "id": "NAX9_07",
+        "name": "Marque des cavaliers",
+        "set": "Curse of Naxxramas",
+        "text": "Conf\u00e8re +1/+1 \u00e0 vos serviteurs et \u00e0 votre arme.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX9_07e",
+        "name": "Marque des cavaliers",
+        "set": "Curse of Naxxramas",
+        "text": "+1/+1.",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 1,
+        "id": "NAX8_02H",
+        "name": "Moisson",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nVous piochez une carte et gagnez un cristal de mana.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX8_02",
+        "name": "Moisson",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nPioche une carte.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "durability": 2,
+        "flavor": "\u00ab\u00a0Venez prendre un avant-go\u00fbt de la Mort.\u00a0\u00bb - Seigneur de la mort McScruff",
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe guerrier de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe guerrier de Naxxramas.",
+        "id": "FP1_021",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Morsure de la mort",
+        "playerClass": "Warrior",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> inflige 1 point de d\u00e9g\u00e2ts \u00e0 tous les serviteurs.",
+        "type": "Weapon"
+    },
+    {
+        "cost": 4,
+        "id": "NAX6_03",
+        "name": "Mortelle floraison",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige $5 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur. Invoque une spore.",
+        "type": "Spell"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 6,
+        "id": "NAXM_001",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "N\u00e9cro-chevalier",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> d\u00e9truit les serviteurs adjacents.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 2,
+        "health": 4,
+        "id": "NAX1h_03",
+        "name": "N\u00e9rubien",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 2,
+        "health": 1,
+        "id": "NAX1_03",
+        "name": "N\u00e9rubien",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "health": 4,
+        "id": "FP1_007t",
+        "name": "N\u00e9rubien",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "health": 30,
+        "id": "NAX4_01",
+        "name": "Noth le Porte-Peste",
+        "playerClass": "Mage",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX4_01H",
+        "name": "Noth le Porte-Peste",
+        "playerClass": "Mage",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 2,
+        "id": "NAX11_02",
+        "name": "Nuage empoisonn\u00e9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 1 point de d\u00e9g\u00e2ts \u00e0\n tous les serviteurs. Invoque une gel\u00e9e si l\u2019un d\u2019eux meurt.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX11_02H",
+        "name": "Nuage empoisonn\u00e9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 2 points de d\u00e9g\u00e2ts \u00e0\n tous les adversaires. Invoque une gel\u00e9e si l\u2019un d\u2019eux meurt.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 7,
+        "id": "NAX1_05",
+        "name": "Nu\u00e9e de sauterelles",
+        "set": "Curse of Naxxramas",
+        "text": "Inflige $3 |4(point,points) de d\u00e9g\u00e2ts \u00e0 tous les serviteurs ennemis. Rend #3 |4(point,points) de vie \u00e0 votre h\u00e9ros.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Justin Thavirat",
+        "attack": 0,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Les \u0153ufs sont une excellente source de prot\u00e9ines et de n\u00e9rubiens.",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre Maexxna dans le quartier des Arachnides.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Maexxna dans le quartier des Arachnides.",
+        "id": "FP1_007",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u0152uf de n\u00e9rubien",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> invoque un n\u00e9rubien 4/4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ittoku Seta",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Regardez vers la lumi\u00e8re, les ombres resteront derri\u00e8re vous\u00a0!",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre Kel\u2019Thuzad dans l\u2019antre du Wyrm de givre.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Kel\u2019Thuzad dans l\u2019antre du Wyrm de givre.",
+        "id": "FP1_005",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "Ombre de Naxxramas",
+        "rarity": "Epic",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Camouflage</b>\nGagne +1/+1 au d\u00e9but de votre tour.",
+        "type": "Minion"
+    },
+    {
+        "cost": 5,
+        "id": "NAX9_06",
+        "name": "Ombre impie",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nPioche deux cartes.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 6,
+        "id": "NAX4_05",
+        "name": "Peste",
+        "set": "Curse of Naxxramas",
+        "text": "D\u00e9truit tous les serviteurs sauf les squelettes.",
+        "type": "Spell"
+    },
+    {
+        "cost": 2,
+        "id": "NAX2_03",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Pluie de feu",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nTire un missile pour chaque\n carte dans la main de votre adversaire.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX2_03H",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Pluie de feu",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nTire un missile pour chaque\n carte dans la main de votre adversaire.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX3_03",
+        "name": "Poison n\u00e9crotique",
+        "set": "Curse of Naxxramas",
+        "text": "D\u00e9truit un serviteur.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX13_02e",
+        "name": "Polarit\u00e9",
+        "set": "Curse of Naxxramas",
+        "text": "Attaque et vie invers\u00e9es.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "FP1_023e",
+        "name": "Puissance de la ziggourat",
+        "playerClass": "Priest",
+        "set": "Curse of Naxxramas",
+        "text": "+3 PV.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jeremy Cranford",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Arachnofauxbie\u00a0: peur des araign\u00e9es en mousse.",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre Anub\u2019Rekhan dans le quartier des Arachnides.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Anub\u2019Rekhan dans le quartier des Arachnides.",
+        "id": "FP1_002",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Rampante hant\u00e9e",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> invoque deux araign\u00e9es spectrales 1/1.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX4_04H",
+        "name": "R\u00e9animation morbide",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque passif</b>\nChaque fois qu\u2019un ennemi meurt, un squelette 5/5 se l\u00e8ve.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX4_04",
+        "name": "R\u00e9animation morbide",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque passif</b>\nChaque fois qu\u2019un ennemi meurt, un squelette 1/1 se l\u00e8ve.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Dan Scott",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Pan, t\u2019es m\u00eame pas mort\u00a0!",
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe chaman de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe chaman de Naxxramas.",
+        "id": "FP1_025",
+        "name": "R\u00e9incarnation",
+        "playerClass": "Shaman",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "D\u00e9truit un serviteur, puis le ram\u00e8ne \u00e0 la vie avec tous ses PV.",
+        "type": "Spell"
+    },
+    {
+        "health": 45,
+        "id": "NAX14_01H",
+        "name": "Saphiron",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX14_01",
+        "name": "Saphiron",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "James Ryman",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Sa m\u00f4man voulait qu\u2019il devienne mage ou d\u00e9moniste, mais non, il a fallu qu\u2019il soit savant fou comme son papa.",
+        "health": 2,
+        "howToGet": "Obtenue en gagnant contre Grobbulus dans le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu Grobbulus dans le quartier des Assemblages.",
+        "id": "FP1_004",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Savant fou",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> place un <b>Secret</b> de votre deck sur le champ de bataille.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u00ab\u00a0L\u00e8ve-toi de ta tombe\u00a0!\u00a0\u00bb - Kel\u2019Thuzad",
+        "health": 8,
+        "howToGet": "Obtenue en gagnant contre les quatre cavaliers dans le quartier Militaire.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu les quatre cavaliers dans le quartier Militaire.",
+        "id": "FP1_009",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "Seigneur de la mort",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Provocation. R\u00e2le d\u2019agonie\u00a0:</b> votre adversaire place un serviteur de son deck sur le champ de bataille.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Les seigneurs de la toile passent leur journ\u00e9e \u00e0 tisser des trampolines g\u00e9ants. Vous parlez d\u2019un boulot\u2026",
+        "health": 4,
+        "howToGet": "Obtenue en gagnant contre la grande veuve Faerlina dans le quartier des Arachnides.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir battu la grande veuve Faerlina dans le quartier des Arachnides.",
+        "id": "FP1_017",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "Seigneur de la toile n\u00e9rub\u2019ar",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "Les serviteurs avec <b>Cri de guerre</b> co\u00fbtent (2) cristaux de plus.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_04H",
+        "name": "Sire Zeliek",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_04",
+        "name": "Sire Zeliek",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Phroilan Gardner",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "Le culte des Damn\u00e9s s\u2019est rendu compte qu\u2019il valait mieux rester anonyme lors du recrutement de nouveaux sectateurs.",
+        "health": 4,
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe pr\u00eatre de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe pr\u00eatre de Naxxramas.",
+        "id": "FP1_023",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Sombre sectateur",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> conf\u00e8re +3 PV \u00e0 un serviteur alli\u00e9 al\u00e9atoire.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX14_02",
+        "name": "Souffle de givre",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nD\u00e9truit tous les serviteurs\n adverses qui ne sont pas <b>gel\u00e9s</b>.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 0,
+        "cost": 0,
+        "health": 1,
+        "id": "NAX6_03t",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Spore",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> donne +8 ATQ \u00e0 tous les serviteurs adverses.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "NAX4_03",
+        "name": "Squelette",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 5,
+        "health": 5,
+        "id": "NAX4_03H",
+        "name": "Squelette",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 7,
+        "cost": 5,
+        "elite": true,
+        "health": 4,
+        "id": "NAX13_05H",
+        "name": "Stalagg",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 7,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Stalagg voulait \u00e9crire sur sa carte\u00a0: \u00ab\u00a0STALAGG MEILLEUR\u00a0!\u00a0\u00bb",
+        "health": 4,
+        "howToGet": "Obtenue en terminant le quartier des Assemblages.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le quartier des Assemblages.",
+        "id": "FP1_014",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Stalagg",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> si Feugen est aussi mort pendant cette partie, invoque Thaddius.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX13_03",
+        "name": "Supercharge",
+        "set": "Curse of Naxxramas",
+        "text": "Conf\u00e8re +2 PV \u00e0 vos serviteurs.",
+        "type": "Spell"
+    },
+    {
+        "health": 30,
+        "id": "NAX13_01",
+        "name": "Thaddius",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX13_01H",
+        "name": "Thaddius",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 11,
+        "cost": 10,
+        "elite": true,
+        "health": 11,
+        "id": "FP1_014t",
+        "name": "Thaddius",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_03H",
+        "name": "Thane Korth\u2019azz",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_03",
+        "name": "Thane Korth\u2019azz",
+        "set": "Curse of Naxxramas",
+        "text": "Votre h\u00e9ros est <b>Insensible</b>.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Brereton",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Les cocons d\u2019araign\u00e9e, c\u2019est comme les bo\u00eetes de chocolats\u00a0: on ne sait jamais sur quoi on va tomber\u00a0!",
+        "health": 1,
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe chasseur de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe chasseur de Naxxramas.",
+        "id": "FP1_011",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "Tisseuse",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>R\u00e2le d\u2019agonie\u00a0:</b> ajoute une carte B\u00eate al\u00e9atoire dans votre main.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX15_02",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Trait de givre",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 2 points de d\u00e9g\u00e2ts au h\u00e9ros ennemi et le <b>g\u00e8le</b>.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX15_02H",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Trait de givre",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Pouvoir h\u00e9ro\u00efque</b>\nInflige 3 points de d\u00e9g\u00e2ts au h\u00e9ros ennemi et le <b>g\u00e8le</b>.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "FP1_019t",
+        "name": "Tr\u00e9ant",
+        "playerClass": "Druid",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "id": "FP1_020e",
+        "name": "Vengeance",
+        "playerClass": "Paladin",
+        "set": "Curse of Naxxramas",
+        "text": "+3/+2.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Un jour, plusieurs paladins se sont ligu\u00e9s pour rendre la justice. Au moment de choisir un nom, leur avocat les a convaincus de se faire appeler la Digue des justiciers. On n\u2019est jamais trop prudent.",
+        "howToGet": "Obtenue en terminant le d\u00e9fi de la classe paladin de Naxxramas.",
+        "howToGetGold": "Peut \u00eatre cr\u00e9\u00e9e apr\u00e8s avoir termin\u00e9 le d\u00e9fi de la classe paladin de Naxxramas.",
+        "id": "FP1_020",
+        "mechanics": [
+            "Secret"
+        ],
+        "name": "Venger",
+        "playerClass": "Paladin",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>Secret\u00a0:</b> quand l\u2019un de vos serviteurs meurt, donne +3/+2 \u00e0 un serviteur alli\u00e9 al\u00e9atoire.",
+        "type": "Spell"
+    }
+]

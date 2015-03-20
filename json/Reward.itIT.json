@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Pappagallo del Pirata","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Grido di Battaglia:</b> pesca un Pirata casuale dal tuo mazzo.","flavor":"Pirati e pappagalli sono inseparabili quanto Leproratti e carote.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Sbloccata ottenendo tutti i Pirati del set Avanzato.","howToGetGold":"Sbloccata ottenendo tutti i Pirati Dorati del set Avanzato.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Vecchio Occhiobuio","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Carica</b>. Ha +1 Attacco per ogni altro Murloc sul campo di battaglia.","inPlayText":"","flavor":"È una leggenda tra i Murloc. Di lui dicono \"Mrghllghghllghg!\".","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Sbloccata ottenendo tutti i Murloc del set Avanzato.","howToGetGold":"Sbloccata ottenendo tutti i Murloc Dorati dei set Base e Avanzato.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Pirati e pappagalli sono inseparabili quanto Leproratti e carote.",
+        "health": 1,
+        "howToGet": "Sbloccata ottenendo tutti i Pirati del set Avanzato.",
+        "howToGetGold": "Sbloccata ottenendo tutti i Pirati Dorati del set Avanzato.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Pappagallo del Pirata",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Grido di Battaglia:</b> pesca un Pirata casuale dal tuo mazzo.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "\u00c8 una leggenda tra i Murloc. Di lui dicono \"Mrghllghghllghg!\".",
+        "health": 4,
+        "howToGet": "Sbloccata ottenendo tutti i Murloc del set Avanzato.",
+        "howToGetGold": "Sbloccata ottenendo tutti i Murloc Dorati dei set Base e Avanzato.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Vecchio Occhiobuio",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Carica</b>. Ha +1 Attacco per ogni altro Murloc sul campo di battaglia.",
+        "type": "Minion"
+    }
+]

@@ -1,1 +1,159 @@
-[{"id":"PRO_001","name":"Elite Tauren Chieftain","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Cri de guerre :</b> confère aux deux joueurs la puissance du ROCK ! (grâce à une carte au riff dément !)","flavor":"« Si je dois être détruit par le rock'n roll, je m’assurerai que le rock'n roll soit détruit en même temps que moi ! »","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Obtenue à la BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"Mekka3e","name":"Encouragé !","set":"Promotion","type":"Enchantment","text":"Caractéristiques augmentées."},{"id":"Mekka3","name":"Encourageur 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"À la fin de votre tour, confère +1/+1 à un serviteur aléatoire.","inPlayText":"","race":"Mech"},{"id":"EX1_112","name":"Gelbin Mekkanivelle","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Cri de guerre :</b> invoque une invention GÉNIALE.","flavor":"C’est le chef des gnomes, et un formidable inventeur. Mais il y a mieux : il transforme beaucoup MOINS souvent les choses en poulet.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Cette récompense a été attribuée aux joueurs qui ont participé au test de la boutique lors de la bêta.","mechanics":["Battlecry"]},{"id":"PRO_001a","name":"Je suis murloc","set":"Promotion","type":"Spell","cost":4,"text":"Invoque trois, quatre ou cinq murlocs 1/1."},{"id":"PRO_001b","name":"Les voleurs, ça vous prend...","set":"Promotion","type":"Spell","cost":4,"text":"Inflige $4 |4(point,points) de dégâts. Vous piochez une carte."},{"id":"PRO_001at","name":"Murloc","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"Mekka4t","name":"Poulet","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>Viens mon poulet !</i>","race":"Beast"},{"id":"Mekka1","name":"Poulet à tête chercheuse","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"Au début de votre tour, ce serviteur est détruit et vous piochez 3 cartes.","inPlayText":"","race":"Mech"},{"id":"Mekka4","name":"Pouletisateur","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"Au début de votre tour, transforme un serviteur aléatoire en poulet 1/1.","inPlayText":"","race":"Mech"},{"id":"PRO_001c","name":"Puissance de la Horde","set":"Promotion","type":"Spell","cost":4,"text":"Invoque un guerrier de la Horde aléatoire."},{"id":"Mekka2","name":"Robot réparateur","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"À la fin de votre tour, rend 6 PV à un personnage blessé.","inPlayText":"","race":"Mech"},{"id":"Mekka4e","name":"Transformé","set":"Promotion","type":"Enchantment","text":"A été transformé en poulet !","mechanics":["Morph"]}]
+[
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u00ab\u00a0Si je dois \u00eatre d\u00e9truit par le rock'n roll, je m\u2019assurerai que le rock'n roll soit d\u00e9truit en m\u00eame temps que moi\u00a0!\u00a0\u00bb",
+        "health": 5,
+        "howToGetGold": "Obtenue \u00e0 la BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Elite Tauren Chieftain",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Cri de guerre :</b> conf\u00e8re aux deux joueurs la puissance du ROCK\u00a0! (gr\u00e2ce \u00e0 une carte au riff d\u00e9ment\u00a0!)",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "Encourag\u00e9\u00a0!",
+        "set": "Promotion",
+        "text": "Caract\u00e9ristiques augment\u00e9es.",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "Encourageur 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u00c0 la fin de votre tour, conf\u00e8re +1/+1 \u00e0 un serviteur al\u00e9atoire.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "C\u2019est le chef des gnomes, et un formidable inventeur. Mais il y a mieux\u00a0: il transforme beaucoup MOINS souvent les choses en poulet.",
+        "health": 6,
+        "howToGetGold": "Cette r\u00e9compense a \u00e9t\u00e9 attribu\u00e9e aux joueurs qui ont particip\u00e9 au test de la boutique lors de la b\u00eata.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekkanivelle",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Cri de guerre\u00a0:</b> invoque une invention G\u00c9NIALE.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "Je suis murloc",
+        "set": "Promotion",
+        "text": "Invoque trois, quatre ou cinq murlocs 1/1.",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "Les voleurs, \u00e7a vous prend...",
+        "set": "Promotion",
+        "text": "Inflige $4 |4(point,points) de d\u00e9g\u00e2ts. Vous piochez une carte.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "Murloc",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Poulet",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>Viens mon poulet\u00a0!</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "Poulet \u00e0 t\u00eate chercheuse",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Au d\u00e9but de votre tour, ce serviteur est d\u00e9truit et vous piochez 3 cartes.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "Pouletisateur",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "Au d\u00e9but de votre tour, transforme un serviteur al\u00e9atoire en poulet 1/1.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Puissance de la Horde",
+        "set": "Promotion",
+        "text": "Invoque un guerrier de la Horde al\u00e9atoire.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "Robot r\u00e9parateur",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u00c0 la fin de votre tour, rend 6 PV \u00e0 un personnage bless\u00e9.",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transform\u00e9",
+        "set": "Promotion",
+        "text": "A \u00e9t\u00e9 transform\u00e9 en poulet\u00a0!",
+        "type": "Enchantment"
+    }
+]

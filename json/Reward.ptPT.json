@@ -1,1 +1,45 @@
-[{"id":"NEW1_016","name":"Papagaio do Capitão","set":"Reward","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":1,"text":"<b>Grito de Guerra:</b> Coloque um Pirata aleatório do seu deck na sua mão.","flavor":"Piratas e Papagaios combinam tão bem quanto Vermingues e Cenouras.","artist":"Daren Bader","collectible":true,"race":"Beast","howToGet":"Disponível ao colecionar todos os Piratas do Conjunto de Perito.","howToGetGold":"Disponível ao colecionar todos os Piratas Dourados do Conjunto de Perito.","mechanics":["Battlecry"]},{"id":"EX1_062","name":"Velho Olho-turvo","set":"Reward","type":"Minion","faction":"Neutral","rarity":"Legendary","cost":4,"attack":2,"health":4,"text":"<b>Investida</b>. Ganha +1 de Ataque para cada um dos demais Murlocs no campo de batalha.","inPlayText":"","flavor":"Ele é uma lenda entre os murlocs. \"Mrghllghghllghg!\", dizem eles.","artist":"Dan Scott","collectible":true,"elite":true,"race":"Murloc","howToGet":"Disponível ao colecionar todos os Murlocs do Conjunto de Perito.","howToGetGold":"Disponível ao colecionar todos os Murlocs Dourados do Conjunto de Perito.","mechanics":["Charge"]}]
+[
+    {
+        "artist": "Daren Bader",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Piratas e Papagaios combinam t\u00e3o bem quanto Vermingues e Cenouras.",
+        "health": 1,
+        "howToGet": "Dispon\u00edvel ao colecionar todos os Piratas do Conjunto de Perito.",
+        "howToGetGold": "Dispon\u00edvel ao colecionar todos os Piratas Dourados do Conjunto de Perito.",
+        "id": "NEW1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Papagaio do Capit\u00e3o",
+        "race": "Beast",
+        "rarity": "Epic",
+        "set": "Reward",
+        "text": "<b>Grito de Guerra:</b> Coloque um Pirata aleat\u00f3rio do seu deck na sua m\u00e3o.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "faction": "Neutral",
+        "flavor": "Ele \u00e9 uma lenda entre os murlocs. \"Mrghllghghllghg!\", dizem eles.",
+        "health": 4,
+        "howToGet": "Dispon\u00edvel ao colecionar todos os Murlocs do Conjunto de Perito.",
+        "howToGetGold": "Dispon\u00edvel ao colecionar todos os Murlocs Dourados do Conjunto de Perito.",
+        "id": "EX1_062",
+        "inPlayText": "",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Velho Olho-turvo",
+        "race": "Murloc",
+        "rarity": "Legendary",
+        "set": "Reward",
+        "text": "<b>Investida</b>. Ganha +1 de Ataque para cada um dos demais Murlocs no campo de batalha.",
+        "type": "Minion"
+    }
+]

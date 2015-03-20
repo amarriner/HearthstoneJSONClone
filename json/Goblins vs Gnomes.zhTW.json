@@ -1,1 +1,2505 @@
-[{"id":"GVG_111t","name":"V-07-TR-0N","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":4,"health":8,"text":"<b>衝鋒</b>\n<b>超級風怒</b> (每回合可攻擊4次)","artist":"Chris Seaman","elite":true,"race":"Mech","mechanics":["Charge"]},{"id":"GVG_003","name":"不穩定的傳送門","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":2,"text":"放一張隨機手下到你的手牌中。它的消耗減少(3)點","flavor":"艾澤拉斯的居民完全不知道要穩定傳送門得花上多少功夫。傳送門的維護費用佔了我們百分之三十的GDP。","artist":"Sean O'Daniels","collectible":true,"playerClass":"Mage"},{"id":"GVG_063","name":"伯瓦爾·弗塔根","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":1,"health":7,"text":"若這張牌在你手牌中，每當友方手下死掉時，便獲得+1攻擊力","flavor":"劇透:伯瓦爾後來被火烤了一頓，然後坐在一個寒冰的王座上，接著就被所有人遺忘了。","artist":"Tooth","collectible":true,"elite":true,"playerClass":"Paladin"},{"id":"GVG_104a","name":"來，給你加一個。","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2"},{"id":"GVG_069a","name":"修理!","set":"Goblins vs Gnomes","type":"Enchantment","text":"+4生命值","playerClass":"Priest"},{"id":"GVG_026","name":"假死","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":2,"text":"觸發你所有手下的<b>死亡之聲</b>","flavor":"假死要裝得像，最難的就是連味道都要聞起來像是真的死掉一樣。千萬不要在家練習這個。","artist":"Luca Zontini","collectible":true,"playerClass":"Hunter"},{"id":"GVG_029","name":"先祖之喚","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"從雙方玩家的手牌中各挑選一個隨機手下並放到戰場","flavor":"「哈囉先祖!你們好啊!」","artist":"Dan Scott","collectible":true,"playerClass":"Shaman"},{"id":"GVG_089","name":"光明引路者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"若在你的回合結束時你控制著<b>秘密</b>，為你的英雄恢復4點生命值","flavor":"他們不是喊「路摸思」啦。你以為這裡是霍格華茲學院?","artist":"Jim Nelson","collectible":true},{"id":"GVG_057","name":"光明聖印","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"為你的英雄恢復#4點生命值，並在本回合內賦予+2攻擊力","flavor":"有時候你不禁會猜想，如果有黑暗聖印，效果會是怎樣?","artist":"Jason Chan","collectible":true,"playerClass":"Paladin","mechanics":["ImmuneToSpellpower"]},{"id":"GVG_057a","name":"光明聖印","set":"Goblins vs Gnomes","type":"Enchantment","text":"本回合+2攻擊力","mechanics":["OneTurnEffect"]},{"id":"GVG_074","name":"凱贊秘術使","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":4,"health":3,"text":"<b>戰吼:</b>控制一個隨機的敵方<b>秘密</b>","flavor":"他們假裝很有智慧又高深莫測，但其實他們超八卦的，打聽秘密是他們最愛的活動。","artist":"Jakub Kasper","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_002","name":"剷雪機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"<b>凍結</b>任何被此手下傷害的角色","flavor":"在他經過時跟著喊:剷剷剷!","artist":"Gabor Szikszai","collectible":true,"race":"Mech","playerClass":"Mage","mechanics":["Freeze"]},{"id":"GVG_049","name":"加茲瑞拉","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":6,"health":9,"text":"每當此手下受到傷害，使其攻擊力加倍","flavor":"森金高中的足球隊就是叫「加茲瑞拉隊」。","artist":"Raymond Swanland","collectible":true,"elite":true,"race":"Beast","playerClass":"Hunter"},{"id":"GVG_117","name":"加茲魯維","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":3,"health":6,"text":"每當你施放1點消耗的法術，就放一個隨機的機械到你的手牌中","flavor":"上高中時，加茲魯維以最高票當選「最有可能爆炸死亡的人」。","artist":"Luke Mancini","collectible":true,"elite":true},{"id":"GVG_028t","name":"加里維克斯的硬幣","set":"Goblins vs Gnomes","type":"Spell","cost":0,"text":"在本回合內獲得額外一顆法力水晶。\n(不會觸發加里維克斯的能力)"},{"id":"GVG_036e","name":"動力強化","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2","playerClass":"Shaman"},{"id":"GVG_036","name":"動力戰錘","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Rare","cost":3,"attack":3,"durability":2,"text":"<b>死亡之聲:</b>賦予一個隨機友方機械+2/+2","flavor":"人們以為薩滿能控制元素，但其實他們只是問元素說可不可以這樣那樣，然後元素回答說，噢好啊。","artist":"Zoltan and Gabor","collectible":true,"playerClass":"Shaman","mechanics":["Deathrattle"]},{"id":"GVG_083","name":"升級版修理機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":5,"text":"<b>戰吼:</b>賦予一個友方機械+4生命值","flavor":"其實這一代跟上一代一模一樣，他們只是在上面多刻了「升級版」三個字，然後把標價加倍。","artist":"Nutchapol Thitinunthakorn","collectible":true,"race":"Mech","playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_032b","name":"卡片之賜","set":"Goblins vs Gnomes","type":"Spell","text":"每個玩家抽一張牌","playerClass":"Druid"},{"id":"GVG_069","name":"古董治療機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":3,"health":3,"text":"<b>戰吼:</b>使你的英雄恢復8點生命值","flavor":"這個型號已經停產了!(因為發生了幾起爆炸事故)","artist":"Jesper Esjing","collectible":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_017","name":"召喚寵物","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":2,"text":"抽一張牌。\n若是野獸卡片，其消耗減少(4)點","flavor":"真正的獵人都抓飢餓的螃蟹。","artist":"E.M. Gist","collectible":true,"playerClass":"Hunter"},{"id":"GVG_081","name":"吉爾布林潛獵者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"<b>潛行</b>","flavor":"「等等!我聽到怪聲。」\n\n「啊，大概是我聽錯了。」-很多守衛死前的最後一句話。","artist":"Seamus Gallagher","collectible":true,"mechanics":["Stealth"]},{"id":"GVG_094","name":"吉福斯","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":1,"health":4,"text":"在每一個玩家回合結束時，替該玩家抽牌直到手上至少有3張牌","flavor":"這個管家機器人最大的問題就是 - 管太多。","artist":"Matt Dixon","collectible":true,"race":"Mech"},{"id":"GVG_095","name":"哥布林工兵","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"若你的對手有6張以上的手牌，便獲得+4攻擊力","flavor":"拆雷、爆破他都會。比較需要擔心的是他一邊拆，一邊爆。","artist":"Jesper Esjing","collectible":true,"mechanics":["Aura"]},{"id":"GVG_023","name":"哥布林自動理髮師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>戰吼:</b>賦予你的武器+1攻擊力","flavor":"自動修整你的髮型，或者身高。","artist":"Zolton Boros","collectible":true,"race":"Mech","playerClass":"Rogue","mechanics":["Battlecry"]},{"id":"GVG_004","name":"哥布林轟炸法師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":5,"health":4,"text":"<b>戰吼:</b>若你有機械，造成4點傷害，隨機分給敵方角色","flavor":"如果你手頭上沒有炸彈可以丟，隨便拿起一個哥布林的發明扔出去就對了。","artist":"Glenn Rane","collectible":true,"playerClass":"Mage","mechanics":["Battlecry"]},{"id":"GVG_031","name":"回收","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":6,"text":"將一個敵方手下洗回你對手的牌堆中","flavor":"德魯伊的回收方式是把塑膠分類在一袋，敵方手下分類在另一袋。","artist":"Brandon Kitkouski","collectible":true,"playerClass":"Druid"},{"id":"GVG_106e","name":"回收升級","set":"Goblins vs Gnomes","type":"Enchantment","text":"屬性提高"},{"id":"GVG_102e","name":"地精區之力","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1/+1"},{"id":"GVG_102","name":"地精區技師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":3,"text":"<b>戰吼:</b>若你有機械，獲得+1/+1並放一張<b>備用零件</b>到你的手牌中","flavor":"他經常夾帶零件回家。事實上，幾乎每個技師都這麼做。","artist":"Gabor Szikszai","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_092","name":"地精實驗家","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":2,"text":"<b>戰吼:</b>抽一張牌。若抽到手下，將它變形為一隻雞","flavor":"哈哈，我怎麼可能把自己變成...咕咕!咕咕!","artist":"Jesper Esjing","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_056t","name":"地雷","set":"Goblins vs Gnomes","type":"Spell","cost":0,"text":"當你抽到它時會爆炸。你會受到10點傷害並抽一張牌","artist":"Chris Seaman","playerClass":"Warrior","mechanics":["ImmuneToSpellpower"]},{"id":"GVG_030b","name":"坦克模式","set":"Goblins vs Gnomes","type":"Spell","text":"+1生命值","playerClass":"Druid"},{"id":"GVG_030be","name":"坦克模式","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1生命值","playerClass":"Druid"},{"id":"GVG_104","name":"大哥布林","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":3,"attack":2,"health":3,"text":"每當你打出攻擊力為1的手下，賦予該手下+2/+2","flavor":"大哥布林下個星期要聚會討論公會福利。在清單上的第一個項目是:牙醫津貼。","artist":"Laurel D. Austin","collectible":true},{"id":"GVG_042","name":"奈普圖隆","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"<b>戰吼:</b>放4張隨機的魚人到你的手牌中。<b>超載:</b>(3)","flavor":"奈普圖隆是「獵潮者」，他是四大元素領主之一。他和拉格納羅斯共同舉辦的桑拿活動無人能比。","artist":"Ruan Jia","collectible":true,"elite":true,"playerClass":"Shaman","mechanics":["Battlecry"]},{"id":"GVG_053","name":"女盾侍","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":6,"attack":5,"health":5,"text":"<b>戰吼:</b>獲得5點護甲值","flavor":"她通常會帶著三個負盾兵跟班，這樣盾牌只要快壞了就能馬上換新的。","artist":"Alex Horley Orlandelli","collectible":true,"playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"GVG_122","name":"嬌小的法術干擾師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":2,"health":5,"text":"兩側的手下無法被法術或英雄能力指定","flavor":"聽說法師都恨她恨得牙癢癢的。","artist":"Jonboy Meyers","collectible":true,"playerClass":"Mage","mechanics":["Aura"]},{"id":"PART_006a","name":"對調","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力和生命值被逆向開關所對調"},{"id":"GVG_097","name":"小小驅魔者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":3,"text":"<b>嘲諷</b>\n<b>戰吼:</b>戰場上每一個有<b>死亡之聲</b>的敵方手下都使其+1/+1","flavor":"很多術士都把她的電話號碼背了起來，以免叫錯惡魔時求救無門。","artist":"Jim Nelson","collectible":true,"mechanics":["Battlecry","Taunt"]},{"id":"GVG_045t","name":"小鬼","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_045","name":"小鬼爆破","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":4,"text":"對一個手下造成$2點到$4點傷害。每造成一點傷害，便召喚一個1/1的小鬼","flavor":"爆炸後的裂片，比爆炸本身還要糟多了。","artist":"Jaemin Kim","collectible":true,"playerClass":"Warlock"},{"id":"GVG_080","name":"尖牙德魯伊","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":4,"text":"<b>戰吼:</b>若你有野獸，將此手下變形為7/7","flavor":"為什麼尖牙德魯伊都住在哀嚎洞穴?因為他們出門以後就不叫尖牙德魯伊了。","artist":"Brandon Kitkouski","collectible":true,"playerClass":"Druid","mechanics":["Battlecry"]},{"id":"GVG_080t","name":"尖牙德魯伊","set":"Goblins vs Gnomes","type":"Minion","cost":5,"attack":7,"health":7,"artist":"Massive Black","race":"Beast","playerClass":"Druid"},{"id":"GVG_088","name":"巨魔忍者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":6,"health":6,"text":"<b>潛行</b>\n有50%機率攻擊錯誤的敵人","flavor":"他原本不符合進入忍者學校的條件。是他爸爸通過關係把他送進去的。","artist":"Samwise","collectible":true,"playerClass":"Rogue","mechanics":["Stealth"]},{"id":"GVG_054","name":"巨魔戰槌","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Common","cost":3,"attack":4,"durability":2,"text":"有50%機率攻擊錯誤的敵人","flavor":"簡單，粗暴，異常危險。你懂的，就跟大部分的巨魔武器一樣。","artist":"Richard Wright","collectible":true,"playerClass":"Warrior"},{"id":"GVG_112","name":"巨魔莫古","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":7,"health":6,"text":"全部的手下都有50%機率攻擊錯誤的敵人","flavor":"莫古曾經幫忙重新開啟黑暗之門。你也知道需要依賴巨魔幫忙的後果。","artist":"Michal Ivan","collectible":true,"elite":true},{"id":"GVG_065","name":"巨魔蠻卒","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":4,"health":4,"text":"有50%機率攻擊錯誤的敵人","flavor":"有一個學說主張，要不是巨魔有這種嚴重的問題，他們早就統治全世界了。","artist":"Vinod Rams","collectible":true},{"id":"GVG_119","name":"布靈登3000型","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":3,"health":4,"text":"<b>戰吼:</b>替每一個玩家裝備一把隨機武器","flavor":"立刻執行派對準備指令。","artist":"Jomaro Kindred","collectible":true,"elite":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_107","name":"強化機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":3,"health":2,"text":"<b>戰吼:</b>隨機賦予你其他手下<b>風怒</b>、<b>嘲諷</b>或<b>聖盾術</b>","flavor":"他的強化可以賒帳，不收利息，可以說是人人都愛!","artist":"Zoltan Boros","collectible":true,"race":"Mech","mechanics":["Battlecry"]},{"id":"GVG_050","name":"彈跳鋒刃","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":3,"text":"對一個隨機手下造成$1點傷害。反覆彈跳直到一個手下死亡為止","flavor":"只有哥布林會覺得這是個好主意。現在，就連他們自己也開始產生疑慮了。","artist":"Andrew Hou","collectible":true,"playerClass":"Warrior"},{"id":"GVG_111","name":"彌米倫之首","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":5,"text":"在你的回合開始時，若你擁有至少3個機械，將它們全部摧毀並組成V-07-TR-0N","flavor":"千萬別按那個最大的紅色按鈕!","artist":"Trent Kaniuga","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_027e","name":"得到啟發","set":"Goblins vs Gnomes","type":"Enchantment","text":"屬性提高","playerClass":"Rogue"},{"id":"GVG_103","name":"微型裝甲","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"在每個回合開始時獲得+1攻擊力","flavor":"沒有人敢小覷它的威力。","artist":"Skan Srisuwan","collectible":true,"race":"Mech"},{"id":"GVG_019e","name":"惡魔之心","set":"Goblins vs Gnomes","type":"Enchantment","text":"+5/+5","playerClass":"Warlock"},{"id":"GVG_019","name":"惡魔之心","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":5,"text":"對一個手下造成$5點傷害。若目標是友方惡魔，賦予它+5/+5","flavor":"幾乎每個贊成通過惡魔使用法案的人都是術士。怪了。","artist":"Kerem Beyit","collectible":true,"playerClass":"Warlock"},{"id":"GVG_016","name":"惡魔劫奪者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":8,"health":8,"text":"每當你的對手出一張牌，捨棄你牌堆最上面的三張牌","flavor":"反正只要夠大隻就行了!","artist":"Zoltan & Gabor","collectible":true,"race":"Mech"},{"id":"GVG_020","name":"惡魔火砲","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":3,"health":5,"text":"在你的回合結束時，對一個非機械的手下造成2點傷害","flavor":"使用說明書上寫著:「最新升級版，保證多打1點!」","artist":"Matt Gaser","collectible":true,"race":"Mech","playerClass":"Warlock"},{"id":"GVG_077","name":"憎惡魔像","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":6,"attack":9,"health":9,"text":"每個回合結束時，若此手下是你唯一在場上的手下，摧毀它","flavor":"黑暗憎惡魔像很邪惡、神秘、巨大，而且一個句子都寫不完整。","artist":"Josh Harris","collectible":true,"race":"Mech","playerClass":"Warlock"},{"id":"GVG_063a","name":"懲戒","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高"},{"id":"GVG_051","name":"戰爭機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":3,"text":"<b>狂怒:</b>+1攻擊力","flavor":"戰爭機器人的量產在突然發現尺寸輸出成樣品版後喊停。結果達拉然的神奇玩具屋忽然就被數以千計的戰爭機器人玩具塞爆了。","artist":"Tyler Walpole","collectible":true,"race":"Mech","playerClass":"Warrior","mechanics":["Enrage"]},{"id":"GVG_115","name":"托斯利","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":5,"health":7,"text":"<b>戰吼及死亡之聲:</b>放一張<b>備用零件</b>到你的手牌中","flavor":"他似乎跟能量轉換器之類的東西有點關聯。","artist":"Zoltan & Gabor","collectible":true,"elite":true,"mechanics":["Battlecry","Deathrattle"]},{"id":"GVG_022","name":"技工的磨刀油","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":4,"text":"賦予你的武器+3攻擊力。<b>連擊:</b>賦予一個隨機友方手下+3攻擊力","flavor":"「加油!加油!加油!」-超老套的加油方式","artist":"Den","collectible":true,"playerClass":"Rogue","mechanics":["Combo"]},{"id":"GVG_022a","name":"技工的磨刀油","set":"Goblins vs Gnomes","type":"Enchantment","text":"+3攻擊力"},{"id":"GVG_022b","name":"技工的磨刀油","set":"Goblins vs Gnomes","type":"Enchantment","text":"+3攻擊力"},{"id":"GVG_099","name":"投彈手","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":3,"health":3,"text":"<b>戰吼:</b>對一個隨機敵方手下造成4點傷害","flavor":"最近上頭對他因誤炸而收到的帳單金額感到很不滿意。","artist":"Luca Zontini","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_106","name":"拾荒機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":1,"health":5,"text":"每當一隻友方機械死亡，獲得+2/+2","flavor":"一個機器人的垃圾零件，對另一個機器人來說可是超讚的升級零件!","artist":"Zoltan Boros","collectible":true,"race":"Mech"},{"id":"PART_004e","name":"掩蔽","set":"Goblins vs Gnomes","type":"Enchantment","text":"潛行，直到你的下一回合為止"},{"id":"GVG_086","name":"攻城機具","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":5,"text":"每當你獲得護甲值，賦予此手下+1攻擊力","flavor":"冬握湖要塞唯一的弱點!","artist":"Zero Yue","collectible":true,"race":"Mech","playerClass":"Warrior"},{"id":"GVG_030a","name":"攻擊模式","set":"Goblins vs Gnomes","type":"Spell","text":"+1攻擊力","playerClass":"Druid"},{"id":"GVG_030ae","name":"攻擊模式","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1攻擊力","playerClass":"Druid"},{"id":"GVG_061","name":"整裝備戰","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":3,"text":"召喚三個1/1的白銀之手新兵。裝備一把1/4的武器","flavor":"「披薩來了!」 -目前效果最棒的白銀之手戰吼","artist":"Mike Hayes","collectible":true,"playerClass":"Paladin"},{"id":"GVG_113","name":"敵人收割者4000","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":6,"health":9,"text":"同時也會對他目標身邊的手下造成傷害","flavor":"收割敵人跟收割農作物其實沒什麼兩樣。","artist":"James Ryman","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_114","name":"斯尼德的伐木機","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":8,"attack":5,"health":7,"text":"<b>死亡之聲:</b>召喚一個隨機的傳說手下","flavor":"斯尼德在死亡礦坑被擊敗後，他的伐木機就被一個不知名的買家從拍賣場買走了。(大概是霍格。)","artist":"Christopher Moeller","collectible":true,"elite":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_043","name":"旋刃火箭筒","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Common","cost":2,"attack":2,"durability":2,"text":"<b>戰吼:</b>賦予一個隨機的友方手下+1攻擊力","flavor":"當一般的火箭筒不夠力時，用這個就對了。","artist":"Gino Whitehall","collectible":true,"playerClass":"Hunter","mechanics":["Battlecry"]},{"id":"GVG_043e","name":"旋刃火箭筒","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1攻擊力","playerClass":"Hunter"},{"id":"PART_002","name":"時光回溯器","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"使一個友方手下返回你的手上","artist":"Nutthapon Petthai"},{"id":"GVG_072","name":"暗影拳擊手","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":2,"health":3,"text":"每當有角色受到治療，對一個隨機敵人造成1點傷害","flavor":"它的主要功能是直拳攻擊。它的次要功能...也是直拳攻擊。","artist":"Dan Scott","collectible":true,"race":"Mech","playerClass":"Priest"},{"id":"GVG_009","name":"暗影炸彈手","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":1,"attack":2,"health":1,"text":"<b>戰吼:</b>對雙方英雄造成3點傷害","flavor":"暗影炸彈手會達成目標，但是她的工作態度有點隨便就是了。","artist":"Matt Dixon","collectible":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_014a","name":"暗影獵殺","set":"Goblins vs Gnomes","type":"Enchantment","text":"生命值被對調","playerClass":"Priest"},{"id":"GVG_090","name":"更瘋狂的炸彈客","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":5,"health":4,"text":"<b>戰吼:</b>造成6點傷害，隨機分給其他角色","flavor":"你說瘋狂炸彈客很機車?來，看看這一位。","artist":"Alex Horley Orlandelli","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_096","name":"有駕駛的伐木機","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":3,"text":"<b>死亡之聲:</b>召喚一個法力消耗為2點的隨機手下","flavor":"以前只有哥布林會駕駛伐木機。現在?連末日預言者跟博學行者阿洲都開了一台在跑。","artist":"Dan Scott","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_105","name":"有駕駛的飛天魔像","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":6,"attack":6,"health":4,"text":"<b>死亡之聲:</b>召喚一個法力消耗為4點的隨機手下","flavor":"哥布林工程學的巔峰成就。內建義式咖啡機及腳底按摩功能。","artist":"Michael Phillippi","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_032","name":"林地看管者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":4,"text":"<b>二選一:</b>賦予每個玩家一顆法力水晶，或每個玩家各抽一張牌","flavor":"喜歡:爬山、大自然。不喜歡:哥布林伐木機、拖鞋。(因為找不到合腳的!)","artist":"Chris Rahn","collectible":true,"playerClass":"Druid"},{"id":"GVG_055e","name":"栓緊螺絲","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2","playerClass":"Warrior"},{"id":"GVG_006","name":"機械召喚師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"你的機械消耗減少(1)點","flavor":"會召喚機械的機械?接下來呢?會召喚甜甜圈的甜甜圈嗎?嗯...聽起來不錯。","artist":"Phil Saunders","collectible":true,"race":"Mech","mechanics":["Aura"]},{"id":"GVG_034","name":"機械熊-貓","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":6,"attack":7,"health":6,"text":"每當此手下受到傷害，就放一張<b>備用零件</b>到你的手牌中","flavor":"牠徒手拆建築物的效率讓怪手望塵莫及。","artist":"Trent Kaniuga","collectible":true,"race":"Mech","playerClass":"Druid"},{"id":"GVG_078","name":"機械雪人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":4,"health":5,"text":"<b>死亡之聲:</b>給與每個玩家一張<b>備用零件</b>","flavor":"冰風崗哨的雪人經常在聯盟與部落之間的爭鬥中遭到池魚之殃。","artist":"Chris Seaman","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_116","name":"機電師瑟瑪普拉格","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":9,"attack":9,"health":7,"text":"每當有敵方手下死亡，召喚一個麻瘋地精","flavor":"他以前是炸藥偏執狂，直到他愛上針織毛衣。現在他逢人就喊:「毛衣!更多的毛衣!」","artist":"Trent Kaniuga","collectible":true,"elite":true,"race":"Mech"},{"id":"GVG_014","name":"沃金","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":6,"health":2,"text":"<b>戰吼:</b>與另一個手下對調生命值","flavor":"沃金是個暗影獵手。跟暗影牧師差不多意思，只是更巫毒了點。","artist":"Raymond Swanland","collectible":true,"elite":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_040","name":"沙鰭靈行者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":2,"health":5,"text":"每當另一個友方魚人死亡，抽一張牌。<b>超載:</b>(1)","flavor":"不要以為魚人語就不能跟元素溝通。你看看他。","artist":"Clint Langley","collectible":true,"race":"Murloc","playerClass":"Shaman"},{"id":"GVG_032a","name":"法力之賜","set":"Goblins vs Gnomes","type":"Spell","text":"賦予每個玩家一顆法力水晶","playerClass":"Druid"},{"id":"GVG_039","name":"活力圖騰","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":0,"health":3,"text":"你的回合結束時，為你的英雄恢復4點生命值","flavor":"這些圖騰在週六的跳蚤市場上都可以找得到。","artist":"Guangjian Huang","collectible":true,"race":"Totem","playerClass":"Shaman"},{"id":"GVG_076a","name":"活塞","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高"},{"id":"GVG_064","name":"淤泥踐踏者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"flavor":"他最愛假裝自己是魚斯拉。","artist":"Jaemin Kim","collectible":true,"race":"Murloc"},{"id":"GVG_100","name":"漂浮看守者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":4,"text":"每當你的英雄在你的回合中受到傷害，獲得+2/+2","flavor":"一開始他的名字是「邪惡之眼末日看守者」，後來行銷部門的人覺得這個名字太有侵略性，怕影響到銷售，就改了。","artist":"Todd Lockwood","collectible":true,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_037","name":"漩渦打擊裝置","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>風怒</b>","flavor":"原本這個是拿來打蛋用的。","artist":"Jim Nelson","collectible":true,"race":"Mech","playerClass":"Shaman","mechanics":["Windfury"]},{"id":"GVG_007","name":"烈焰戰輪","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"當你抽到這張牌，對全部角色造成2點傷害","flavor":"彌米倫喜歡開著烈焰戰輪出去兜風。","artist":"Aleksi Briclot","collectible":true,"elite":true,"race":"Mech","playerClass":"Mage"},{"id":"GVG_001","name":"烈焰火砲","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"對一個隨機敵方手下造成$4點傷害","flavor":"稱它為烈焰火砲，說實在的，並不能把它跟其他的哥布林裝置做出什麼區隔。反正都會冒火!!!","artist":"Mauricio Herrera","collectible":true,"playerClass":"Mage"},{"id":"GVG_123","name":"煤煙噴吐機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":3,"text":"<b>法術傷害+1</b>","flavor":"據說哥布林伐木機的發明者跟煤煙噴吐機器人的發明者有好幾件官司正在打。","artist":"Phil Saunders","collectible":true,"race":"Mech","playerClass":"Mage","mechanics":["Spellpower"]},{"id":"GVG_085","name":"煩人機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"<b>嘲諷</b>\n<b>聖盾術</b>","flavor":"煩人機器人的發明者被技工學校立即退學，然後被趕出地精區，最後整個被踢出東部王國。","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Divine Shield","Taunt"]},{"id":"GVG_087","name":"熱砂狙擊手","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":2,"attack":2,"health":3,"text":"你的英雄能力能夠以手下為目標","flavor":"難得有哥布林有耐心當狙擊手。他們大部分都喜歡衝上去丟手榴彈。","artist":"Jun Kang","collectible":true,"playerClass":"Hunter"},{"id":"GVG_110","name":"爆爆博士","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":7,"health":7,"text":"<b>戰吼:</b>召喚兩個1/1的爆爆機器人。警告:它們有爆炸之虞","flavor":"讚嘆他的力量!","artist":"Alex Garner","collectible":true,"elite":true,"mechanics":["Battlecry"]},{"id":"GVG_110t","name":"爆爆機器人","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"text":"<b>死亡之聲:</b>對一個隨機敵人造成1點到4點傷害","race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_023a","name":"特別銳利","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1攻擊力"},{"id":"GVG_118","name":"特洛格佐爾","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":6,"health":6,"text":"每當你的對手施放法術，召喚一個魁梧的石顎穴居怪","flavor":"不要小看穴居怪。不信，你讓特洛格佐爾砸一下試試。","artist":"Mike Sass","collectible":true,"elite":true},{"id":"GVG_025","name":"獨眼騙子","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":4,"health":1,"text":"每當你召喚海盜，獲得<b>潛行</b>","flavor":"海盜都會騙人，但他連海盜都能騙得死死的。","artist":"Danny Beck","collectible":true,"race":"Pirate","playerClass":"Rogue"},{"id":"GVG_035","name":"瑪洛尼","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":7,"attack":9,"health":7,"text":"<b>死亡之聲:</b>將此手下洗入牌堆中","flavor":"我不是馴鹿!我不認識什麼聖誕老人!","artist":"Oliver Chipping","collectible":true,"elite":true,"race":"Beast","playerClass":"Druid","mechanics":["Deathrattle"]},{"id":"GVG_021","name":"瑪爾加尼斯","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":9,"attack":9,"health":7,"text":"你的其他惡魔擁有+2/+2。\n你的英雄<b>免疫</b>","flavor":"瑪爾加尼斯不喜歡被背叛，所以如果你把他捨棄，最好把皮繃緊一點。","artist":"Wayne Reynolds","collectible":true,"elite":true,"race":"Demon","playerClass":"Warlock","mechanics":["Aura"]},{"id":"GVG_021e","name":"瑪爾加尼斯之握","set":"Goblins vs Gnomes","type":"Enchantment","text":"瑪爾加尼斯賦予了+2/+2","playerClass":"Warlock"},{"id":"GVG_033","name":"生命之樹","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":9,"text":"將全部角色恢復到最大生命值","flavor":"治療，是會長在樹上的!","artist":"Steve Prescott","collectible":true,"playerClass":"Druid"},{"id":"PART_003","name":"生鏽的號角","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"賦予一個手下<b>嘲諷</b>","artist":"Peerasak Senalai"},{"id":"GVG_082","name":"發條地精","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":1,"text":"<b>死亡之聲:</b>放一張<b>備用零件</b>到你的手牌中","flavor":"發條地精最常問的問題就是現在幾點鐘。","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_121","name":"發條巨人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":12,"attack":8,"health":8,"text":"你對手的每一張手牌使消耗減少(1)點","flavor":"他跟山嶺巨人不和。","artist":"Dan Scott","collectible":true,"race":"Mech"},{"id":"GVG_100e","name":"皺眉","set":"Goblins vs Gnomes","type":"Enchantment","text":"屬性提高","playerClass":"Warlock"},{"id":"GVG_073","name":"眼鏡蛇射擊","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":5,"text":"對一個手下及敵方英雄造成$3點傷害","flavor":"比較蹩腳的獵人通常會用青竹絲或龜殼花的蛇毒來蒙混過去。","artist":"Howard Lyon","collectible":true,"playerClass":"Hunter"},{"id":"GVG_067","name":"石裂穴居怪","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"每當你的對手施放法術，獲得+1攻擊力","flavor":"傳說跟穴居怪關在一起的臭味足以讓最強硬的嫌犯在三天內把一切都招了。","artist":"Peet Cooper","collectible":true},{"id":"GVG_066","name":"砂槌薩滿","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":5,"health":4,"text":"<b>風怒，超載:</b>(1)\n有50%機率攻擊錯誤的敵人","flavor":"他通常都閉上眼睛亂敲一通。吼吼!","artist":"José Ladrönn","collectible":true,"playerClass":"Shaman","mechanics":["Windfury"]},{"id":"GVG_047","name":"破壞工作","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"摧毀一個隨機敵方手下。<b>連擊:</b>也摧毀對手的武器","flavor":"殺人放火金腰帶。所以殺完人，當然要順便放火，才叫完美的破壞工作。","artist":"Dave Allsop","collectible":true,"playerClass":"Rogue","mechanics":["Combo"]},{"id":"GVG_055","name":"破舊的維修機甲","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":2,"health":5,"text":"<b>戰吼:</b>賦予一個友方機械+2/+2","flavor":"如果出現故障，從屁股下面45度角踢它幾下通常可以修好。","artist":"Jesper Esjing","collectible":true,"race":"Mech","playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"GVG_049e","name":"祖爾法拉克之力","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力加倍","playerClass":"Hunter"},{"id":"GVG_046","name":"萬獸之王","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":2,"health":6,"text":"<b>嘲諷</b>。<b>戰吼:</b>每擁有一隻其他野獸，便獲得+1攻擊力","flavor":"獅子是萬獸之王。所以獅子王是萬獸之王之王。這樣說對吧?好，把剛才那句話很快的唸十次看看。","artist":"Seamus Gallagher","collectible":true,"race":"Beast","playerClass":"Hunter","mechanics":["Battlecry","Taunt"]},{"id":"GVG_046e","name":"萬獸之王","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高","playerClass":"Hunter"},{"id":"GVG_091","name":"秘法剋星X-21","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":4,"attack":2,"health":5,"text":"<b>嘲諷</b>\n無法被法術或英雄能力指定","flavor":"為了這個新發明，地精法師跟地精工程師差點翻臉打起來。","artist":"Zero Yue","collectible":true,"race":"Mech","mechanics":["Taunt"]},{"id":"GVG_052","name":"粉碎","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":7,"text":"摧毀一個手下。若你有受傷的手下在場上，消耗減少(4)點","flavor":"很多野蠻人都說，使用這張牌的感覺令他們畢生難忘。","artist":"Michael Sutfin","collectible":true,"playerClass":"Warrior"},{"id":"GVG_101e","name":"純淨","set":"Goblins vs Gnomes","type":"Enchantment","text":"屬性提高","playerClass":"Paladin"},{"id":"PART_005","name":"緊急冷卻劑","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"<b>凍結</b>一個手下","artist":"Peerasak Senalai","mechanics":["Freeze"]},{"id":"GVG_011a","name":"縮小射線","set":"Goblins vs Gnomes","type":"Enchantment","text":"本回合-2攻擊力","mechanics":["OneTurnEffect"]},{"id":"GVG_011","name":"縮小射線工程師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":3,"health":2,"text":"<b>戰吼:</b>本回合賦予一個手下-2攻擊力","flavor":"在地精世界放大器的那場災難過後，地精現在對改變大小的發明都很有戒心。","artist":"Jim Nelson","collectible":true,"playerClass":"Priest","mechanics":["Battlecry"]},{"id":"GVG_070","name":"老水手","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":5,"attack":7,"health":4,"flavor":"他終於擺脫「那個菜鳥」的稱謂了。","artist":"Alex Horley Orlandelli","collectible":true,"race":"Pirate"},{"id":"GVG_008","name":"聖光炸彈","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":6,"text":"對每個手下造成相當於其攻擊力的傷害","flavor":"這就是讓哥布林當牧師的下場。","artist":"Luca Zontini","collectible":true,"playerClass":"Priest","mechanics":["AffectedBySpellPower"]},{"id":"GVG_076","name":"自爆綿羊","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":1,"text":"<b>死亡之聲:</b>對全部手下造成2點傷害","flavor":"這玩意兒怎麼使用呢?你以為你的敵人會說:「唉呀，好可愛的羊啊!」然後跑過去抱它起來玩嗎?","artist":"Ralph Horsley","collectible":true,"race":"Mech","mechanics":["Deathrattle"]},{"id":"GVG_075","name":"船艦主砲","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":3,"text":"每當你召喚海盜，對一個隨機敵人造成2點傷害","flavor":"等你聽到有人喊「砲擊!」時，通常不是沒事，就是已經太晚了。","artist":"Warren Mahy","collectible":true},{"id":"GVG_018","name":"苦痛仕女","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":2,"attack":1,"health":4,"text":"每當此手下造成傷害，使你的英雄恢復等量的生命值","flavor":"她特別討厭人家拿她跟苦痛侍僧相提並論。據說苦痛侍僧已經因為這樣挨了好幾頓打。","artist":"Carl Critchlow","collectible":true,"race":"Demon","playerClass":"Warlock"},{"id":"GVG_044","name":"蜘蛛坦克","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":4,"flavor":"「如果我們把槍砲裝上去會怎樣?」-菲茲布里茨對著蜘蛛型運輸工具如是說。","artist":"Dany Orizio","collectible":true,"race":"Mech"},{"id":"GVG_101","name":"血色淨化者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":4,"health":3,"text":"<b>戰吼:</b>對全部有<b>死亡之聲</b>的手下造成2點傷害","flavor":"最近血色十字軍在做市場調查，看看換個顏色能不能更容易招人。","artist":"Anton Zemskov","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]},{"id":"GVG_060e","name":"裝備精良","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+2","playerClass":"Paladin"},{"id":"GVG_093","name":"訓練假人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":0,"attack":0,"health":2,"text":"<b>嘲諷</b>","flavor":"這個假人的頭上貼著一張紙條，上面寫著:「打我啊!」","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Taunt"]},{"id":"GVG_098","name":"諾姆瑞根步兵","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"<b>衝鋒</b>\n<b>嘲諷</b>","flavor":"這些英勇的地精士兵們已經準備好要回到他們被輻射汙染、排水系統差勁的家園了!","artist":"Zoltan & Gabor","collectible":true,"mechanics":["Charge","Taunt"]},{"id":"PART_001e","name":"護甲強化","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1生命值"},{"id":"PART_001","name":"護甲片","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"賦予一個手下+1生命值","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_058","name":"護盾小機器人","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>聖盾術</b>","flavor":"它只相信它的程式碼中要它相信的事情!","artist":"Raymond Swanland","collectible":true,"race":"Mech","playerClass":"Paladin","mechanics":["Divine Shield"]},{"id":"GVG_010","name":"費倫的祝福","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":3,"text":"賦予一個手下+2/+4及<b>法術傷害+1</b>","flavor":"據說費倫每天要收到幾百封希望他的祝福能做成護身符的請求。","artist":"Alex Horley Orlandelli","collectible":true,"playerClass":"Priest"},{"id":"GVG_010b","name":"費倫的祝福","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2/+4及<b>法術傷害+1</b>"},{"id":"GVG_028","name":"貿易親王加里維克斯","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":5,"health":8,"text":"每當你的對手施放法術，便獲得一張同樣的法術並給他一枚硬幣","flavor":"加里維克斯相信供需法則。他提供一頓飽打，但需要你支付他車馬費!","artist":"Wei Wang","collectible":true,"elite":true,"playerClass":"Rogue"},{"id":"GVG_120","name":"赫米特·奈辛瓦里","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":5,"attack":6,"health":3,"text":"<b>戰吼:</b>摧毀一隻野獸","flavor":"在一個野獸被殺死後沒幾分鐘就重新出現的世界當獵人，真不知道該說幸還是不幸。","artist":"Ralph Horsley","collectible":true,"elite":true,"mechanics":["Battlecry"]},{"id":"GVG_079","name":"超能坦克麥克斯","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":8,"attack":7,"health":7,"text":"<b>聖盾術</b>","flavor":"在塔納利斯有一間專門製造超能坦克的軍工廠，只製造出兩台就因為嚴重超支而停產了。","artist":"Nutchapol Thitinunthakorn","collectible":true,"race":"Mech","mechanics":["Divine Shield"]},{"id":"GVG_123e","name":"超頻","set":"Goblins vs Gnomes","type":"Enchantment","text":"法術傷害+2","playerClass":"Mage","mechanics":["Spellpower"]},{"id":"GVG_060","name":"軍需官","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":5,"attack":2,"health":5,"text":"<b>戰吼:</b>賦予你的白銀之手新兵+2/+2","flavor":"他很享受新兵誠惶誠恐來跟他拿裝備的感覺。事實上，是有點享受過頭了。","artist":"Phroilan Gardner","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]},{"id":"GVG_038","name":"轟雷","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"造成$3點到$6點傷害。<b>超載:</b>(1)","flavor":"要發天打雷劈的毒誓之前，想想這張牌。","artist":"Warren Mahy","collectible":true,"playerClass":"Shaman"},{"id":"PART_007e","name":"迴旋刀刃","set":"Goblins vs Gnomes","type":"Enchantment","text":"+1攻擊力"},{"id":"PART_007","name":"迴旋刀刃","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"賦予一個手下+1攻擊力","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_109","name":"迷你法師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":4,"attack":4,"health":1,"text":"<b>潛行</b>\n<b>法術傷害+1</b>","flavor":"有時候在古拉巴什競技場的寶箱裡可以找到他。","artist":"Ben Olson","collectible":true,"mechanics":["Spellpower","Stealth"]},{"id":"GVG_071","name":"迷路的陸行鳥","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":4,"flavor":"牠的屁股上有著刺青，寫著:若看到牠，請送回莫高雷。","artist":"Benjamin Zhang","collectible":true,"race":"Beast"},{"id":"PART_006","name":"逆向開關","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"把一個手下的攻擊力及生命值互相對調","artist":"Nutthapon Petthai"},{"id":"GVG_012","name":"那魯之光","set":"Goblins vs Gnomes","type":"Spell","rarity":"Rare","cost":1,"text":"恢復#3點生命值。若目標仍然受傷，召喚一個護光者","flavor":"「妳跟過來做什麼?」","artist":"Jesper Ejsing","collectible":true,"playerClass":"Priest"},{"id":"GVG_108","name":"重組轉化師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Epic","cost":2,"attack":3,"health":2,"text":"<b>戰吼:</b>將一個友方手下變形為另一個法力消耗相等的隨機手下","flavor":"上場前記得先禱告一下。","artist":"Ben Olson","collectible":true,"mechanics":["Battlecry"]},{"id":"GVG_086e","name":"重裝上陣","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高","playerClass":"Warrior"},{"id":"GVG_062","name":"鈷藍守護者","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":5,"attack":6,"health":3,"text":"每當你召喚機械，獲得<b>聖盾術</b>","flavor":"原本它們的材料是昂貴的源質礦，後來工廠遷到加基森，不知怎地就換成了便宜的鈷藍礦。","artist":"Jim Nelson","collectible":true,"race":"Mech","playerClass":"Paladin"},{"id":"GVG_048e","name":"鋼牙","set":"Goblins vs Gnomes","type":"Enchantment","text":"+2攻擊力","playerClass":"Hunter"},{"id":"GVG_048","name":"鋼牙獸","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":3,"health":3,"text":"<b>戰吼:</b>賦予你其他的機械+2攻擊力","flavor":"不要讓牠們淋雨。在安戈洛環形山那邊，鏽牙獸已經多到無法控制了。","artist":"Hideaki Takamura","collectible":true,"race":"Mech","playerClass":"Hunter","mechanics":["Battlecry"]},{"id":"GVG_027","name":"鋼鐵師尊","set":"Goblins vs Gnomes","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":2,"text":"在你的回合結束時，賦予另一個友方機械+2/+2","flavor":"機械很喜歡向他學習，因為他真的會說機械語言。\n\n01000111101001001","artist":"Brian Despain","collectible":true,"race":"Mech","playerClass":"Rogue"},{"id":"GVG_056","name":"鋼鐵破滅邪神","set":"Goblins vs Gnomes","type":"Minion","rarity":"Legendary","cost":6,"attack":6,"health":5,"text":"<b>戰吼:</b>放一張地雷到你對手的牌堆中。當他抽到地雷，會爆炸並對他造成10點傷害","flavor":"鋼鐵破滅邪神守護著奧格瑪，而且才剛剛獲得「本月最佳員工」獎項!","artist":"Raymond Swanland","collectible":true,"elite":true,"race":"Mech","playerClass":"Warrior","mechanics":["Battlecry"]},{"id":"PART_004","name":"隱形力場","set":"Goblins vs Gnomes","type":"Spell","cost":1,"text":"賦予一個友方手下<b>潛行</b>直到你的下一個回合","artist":"Nutchapol Thitinunthakorn"},{"id":"GVG_092t","name":"雞","set":"Goblins vs Gnomes","type":"Minion","cost":1,"attack":1,"health":1,"race":"Beast"},{"id":"GVG_030","name":"電鍍機械小熊","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>嘲諷</b>。<b>二選一:</b>\n+1攻擊力或+1生命值","flavor":"噢，好可愛呀!呃，天啊，牠為什麼要啃我的臉?!","artist":"Eva Widermann","collectible":true,"elite":false,"race":"Mech","playerClass":"Druid","mechanics":["Taunt"]},{"id":"GVG_084","name":"飛行器","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"<b>風怒</b>","flavor":"不會飛的飛行器叫什麼?下一個資料片再告訴你。","artist":"Matt Dixon","collectible":true,"race":"Mech","mechanics":["Windfury"]},{"id":"GVG_068","name":"魁梧的石顎穴居怪","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":4,"attack":3,"health":5,"text":"每當你的對手施放法術，獲得+2攻擊力","flavor":"魁梧是相對穴居怪來說。你的話，當然可以叫他矮冬瓜。","artist":"Chris Rahn","collectible":true},{"id":"GVG_068a","name":"魔法代謝","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高","mechanics":["Aura"]},{"id":"GVG_067a","name":"魔法代謝","set":"Goblins vs Gnomes","type":"Enchantment","text":"攻擊力提高","mechanics":["Aura"]},{"id":"GVG_005","name":"麥迪文的回音","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":4,"text":"複製場上的每一個友方手下，放到你的手牌裡","flavor":"麥迪文的回音仍在卡拉贊作祟，永恆地在西洋棋跟爐石戰記中作弊。","artist":"Alex Garner","collectible":true,"playerClass":"Mage"},{"id":"GVG_041c","name":"黑暗幽光","set":"Goblins vs Gnomes","type":"Enchantment","text":"+5/+5及<b>嘲諷</b>","playerClass":"Druid"},{"id":"GVG_041b","name":"黑暗幽光","set":"Goblins vs Gnomes","type":"Spell","text":"召喚5個幽光","playerClass":"Druid"},{"id":"GVG_041a","name":"黑暗幽光","set":"Goblins vs Gnomes","type":"Spell","text":"+5/+5及<b>嘲諷</b>","playerClass":"Druid"},{"id":"GVG_041","name":"黑暗幽光","set":"Goblins vs Gnomes","type":"Spell","rarity":"Epic","cost":6,"text":"<b>二選一:</b>召喚5個幽光，或賦予一個手下+5/+5及<b>嘲諷</b>","flavor":"不用擔心，我們把替這張卡片命名的人開除了。","artist":"Trent Kaniuga","collectible":true,"playerClass":"Druid"},{"id":"GVG_015","name":"黑暗炸彈","set":"Goblins vs Gnomes","type":"Spell","rarity":"Common","cost":2,"text":"造成$3點傷害","flavor":"如果你想要組一副自殺套牌，這張卡片超好用的!","artist":"Jeff Haynie","collectible":true,"playerClass":"Warlock"},{"id":"GVG_013","name":"齒輪大師","set":"Goblins vs Gnomes","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"若你有機械則獲得+2攻擊力","flavor":"過一陣子，你看到的就不是齒輪跟扣鏈，而是機器人、蜘蛛坦克、死亡射線槍等等各式各樣的怪東西...","artist":"Trent Kaniuga","collectible":true,"mechanics":["Aura"]},{"id":"GVG_024","name":"齒輪大師的扳手","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Epic","cost":3,"attack":1,"durability":3,"text":"若你有機械則獲得+2攻擊力","flavor":"拿來鎖齒輪跟敲穴居怪都同樣好用!","artist":"Richard Wright","collectible":true,"playerClass":"Rogue","mechanics":["Aura"]},{"id":"GVG_059","name":"齒輪巨錘","set":"Goblins vs Gnomes","type":"Weapon","rarity":"Epic","cost":3,"attack":2,"durability":3,"text":"<b>戰吼:</b>賦予一個隨機的友方手下<b>聖盾術</b>及<b>嘲諷</b>","flavor":"你說，把這個東西從機器裡扯出來，雕上一些符文，裝上把手，就變成了強大的神聖武器?嗯，聽起來還不賴。","artist":"Danny Orizio","collectible":true,"playerClass":"Paladin","mechanics":["Battlecry"]}]
+[
+    {
+        "artist": "Chris Seaman",
+        "attack": 4,
+        "cost": 8,
+        "elite": true,
+        "health": 8,
+        "id": "GVG_111t",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "V-07-TR-0N",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u885d\u92d2</b>\n<b>\u8d85\u7d1a\u98a8\u6012</b> (\u6bcf\u56de\u5408\u53ef\u653b\u64ca4\u6b21)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Sean O'Daniels",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u827e\u6fa4\u62c9\u65af\u7684\u5c45\u6c11\u5b8c\u5168\u4e0d\u77e5\u9053\u8981\u7a69\u5b9a\u50b3\u9001\u9580\u5f97\u82b1\u4e0a\u591a\u5c11\u529f\u592b\u3002\u50b3\u9001\u9580\u7684\u7dad\u8b77\u8cbb\u7528\u4f54\u4e86\u6211\u5011\u767e\u5206\u4e4b\u4e09\u5341\u7684GDP\u3002",
+        "id": "GVG_003",
+        "name": "\u4e0d\u7a69\u5b9a\u7684\u50b3\u9001\u9580",
+        "playerClass": "Mage",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653e\u4e00\u5f35\u96a8\u6a5f\u624b\u4e0b\u5230\u4f60\u7684\u624b\u724c\u4e2d\u3002\u5b83\u7684\u6d88\u8017\u6e1b\u5c11(3)\u9ede",
+        "type": "Spell"
+    },
+    {
+        "artist": "Tooth",
+        "attack": 1,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u5287\u900f:\u4f2f\u74e6\u723e\u5f8c\u4f86\u88ab\u706b\u70e4\u4e86\u4e00\u9813\uff0c\u7136\u5f8c\u5750\u5728\u4e00\u500b\u5bd2\u51b0\u7684\u738b\u5ea7\u4e0a\uff0c\u63a5\u8457\u5c31\u88ab\u6240\u6709\u4eba\u907a\u5fd8\u4e86\u3002",
+        "health": 7,
+        "id": "GVG_063",
+        "name": "\u4f2f\u74e6\u723e\u00b7\u5f17\u5854\u6839",
+        "playerClass": "Paladin",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u82e5\u9019\u5f35\u724c\u5728\u4f60\u624b\u724c\u4e2d\uff0c\u6bcf\u7576\u53cb\u65b9\u624b\u4e0b\u6b7b\u6389\u6642\uff0c\u4fbf\u7372\u5f97+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_104a",
+        "name": "\u4f86\uff0c\u7d66\u4f60\u52a0\u4e00\u500b\u3002",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_069a",
+        "name": "\u4fee\u7406!",
+        "playerClass": "Priest",
+        "set": "Goblins vs Gnomes",
+        "text": "+4\u751f\u547d\u503c",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Luca Zontini",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5047\u6b7b\u8981\u88dd\u5f97\u50cf\uff0c\u6700\u96e3\u7684\u5c31\u662f\u9023\u5473\u9053\u90fd\u8981\u805e\u8d77\u4f86\u50cf\u662f\u771f\u7684\u6b7b\u6389\u4e00\u6a23\u3002\u5343\u842c\u4e0d\u8981\u5728\u5bb6\u7df4\u7fd2\u9019\u500b\u3002",
+        "id": "GVG_026",
+        "name": "\u5047\u6b7b",
+        "playerClass": "Hunter",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u89f8\u767c\u4f60\u6240\u6709\u624b\u4e0b\u7684<b>\u6b7b\u4ea1\u4e4b\u8072</b>",
+        "type": "Spell"
+    },
+    {
+        "artist": "Dan Scott",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u300c\u54c8\u56c9\u5148\u7956!\u4f60\u5011\u597d\u554a!\u300d",
+        "id": "GVG_029",
+        "name": "\u5148\u7956\u4e4b\u559a",
+        "playerClass": "Shaman",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5f9e\u96d9\u65b9\u73a9\u5bb6\u7684\u624b\u724c\u4e2d\u5404\u6311\u9078\u4e00\u500b\u96a8\u6a5f\u624b\u4e0b\u4e26\u653e\u5230\u6230\u5834",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u4ed6\u5011\u4e0d\u662f\u558a\u300c\u8def\u6478\u601d\u300d\u5566\u3002\u4f60\u4ee5\u70ba\u9019\u88e1\u662f\u970d\u683c\u83ef\u8332\u5b78\u9662?",
+        "health": 4,
+        "id": "GVG_089",
+        "name": "\u5149\u660e\u5f15\u8def\u8005",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u82e5\u5728\u4f60\u7684\u56de\u5408\u7d50\u675f\u6642\u4f60\u63a7\u5236\u8457<b>\u79d8\u5bc6</b>\uff0c\u70ba\u4f60\u7684\u82f1\u96c4\u6062\u5fa94\u9ede\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jason Chan",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u6709\u6642\u5019\u4f60\u4e0d\u7981\u6703\u731c\u60f3\uff0c\u5982\u679c\u6709\u9ed1\u6697\u8056\u5370\uff0c\u6548\u679c\u6703\u662f\u600e\u6a23?",
+        "id": "GVG_057",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "\u5149\u660e\u8056\u5370",
+        "playerClass": "Paladin",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u70ba\u4f60\u7684\u82f1\u96c4\u6062\u5fa9#4\u9ede\u751f\u547d\u503c\uff0c\u4e26\u5728\u672c\u56de\u5408\u5167\u8ce6\u4e88+2\u653b\u64ca\u529b",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_057a",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "\u5149\u660e\u8056\u5370",
+        "set": "Goblins vs Gnomes",
+        "text": "\u672c\u56de\u5408+2\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jakub Kasper",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4ed6\u5011\u5047\u88dd\u5f88\u6709\u667a\u6167\u53c8\u9ad8\u6df1\u83ab\u6e2c\uff0c\u4f46\u5176\u5be6\u4ed6\u5011\u8d85\u516b\u5366\u7684\uff0c\u6253\u807d\u79d8\u5bc6\u662f\u4ed6\u5011\u6700\u611b\u7684\u6d3b\u52d5\u3002",
+        "health": 3,
+        "id": "GVG_074",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u51f1\u8d0a\u79d8\u8853\u4f7f",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u63a7\u5236\u4e00\u500b\u96a8\u6a5f\u7684\u6575\u65b9<b>\u79d8\u5bc6</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Gabor Szikszai",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5728\u4ed6\u7d93\u904e\u6642\u8ddf\u8457\u558a:\u5277\u5277\u5277!",
+        "health": 3,
+        "id": "GVG_002",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\u5277\u96ea\u6a5f\u5668\u4eba",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u51cd\u7d50</b>\u4efb\u4f55\u88ab\u6b64\u624b\u4e0b\u50b7\u5bb3\u7684\u89d2\u8272",
+        "type": "Minion"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u68ee\u91d1\u9ad8\u4e2d\u7684\u8db3\u7403\u968a\u5c31\u662f\u53eb\u300c\u52a0\u8332\u745e\u62c9\u968a\u300d\u3002",
+        "health": 9,
+        "id": "GVG_049",
+        "name": "\u52a0\u8332\u745e\u62c9",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u6b64\u624b\u4e0b\u53d7\u5230\u50b7\u5bb3\uff0c\u4f7f\u5176\u653b\u64ca\u529b\u52a0\u500d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Luke Mancini",
+        "attack": 3,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u4e0a\u9ad8\u4e2d\u6642\uff0c\u52a0\u8332\u9b6f\u7dad\u4ee5\u6700\u9ad8\u7968\u7576\u9078\u300c\u6700\u6709\u53ef\u80fd\u7206\u70b8\u6b7b\u4ea1\u7684\u4eba\u300d\u3002",
+        "health": 6,
+        "id": "GVG_117",
+        "name": "\u52a0\u8332\u9b6f\u7dad",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u65bd\u653e1\u9ede\u6d88\u8017\u7684\u6cd5\u8853\uff0c\u5c31\u653e\u4e00\u500b\u96a8\u6a5f\u7684\u6a5f\u68b0\u5230\u4f60\u7684\u624b\u724c\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "GVG_028t",
+        "name": "\u52a0\u91cc\u7dad\u514b\u65af\u7684\u786c\u5e63",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u672c\u56de\u5408\u5167\u7372\u5f97\u984d\u5916\u4e00\u9846\u6cd5\u529b\u6c34\u6676\u3002\n(\u4e0d\u6703\u89f8\u767c\u52a0\u91cc\u7dad\u514b\u65af\u7684\u80fd\u529b)",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_036e",
+        "name": "\u52d5\u529b\u5f37\u5316",
+        "playerClass": "Shaman",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zoltan and Gabor",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "durability": 2,
+        "flavor": "\u4eba\u5011\u4ee5\u70ba\u85a9\u6eff\u80fd\u63a7\u5236\u5143\u7d20\uff0c\u4f46\u5176\u5be6\u4ed6\u5011\u53ea\u662f\u554f\u5143\u7d20\u8aaa\u53ef\u4e0d\u53ef\u4ee5\u9019\u6a23\u90a3\u6a23\uff0c\u7136\u5f8c\u5143\u7d20\u56de\u7b54\u8aaa\uff0c\u5662\u597d\u554a\u3002",
+        "id": "GVG_036",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u52d5\u529b\u6230\u9318",
+        "playerClass": "Shaman",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u8ce6\u4e88\u4e00\u500b\u96a8\u6a5f\u53cb\u65b9\u6a5f\u68b0+2/+2",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u5176\u5be6\u9019\u4e00\u4ee3\u8ddf\u4e0a\u4e00\u4ee3\u4e00\u6a21\u4e00\u6a23\uff0c\u4ed6\u5011\u53ea\u662f\u5728\u4e0a\u9762\u591a\u523b\u4e86\u300c\u5347\u7d1a\u7248\u300d\u4e09\u500b\u5b57\uff0c\u7136\u5f8c\u628a\u6a19\u50f9\u52a0\u500d\u3002",
+        "health": 5,
+        "id": "GVG_083",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5347\u7d1a\u7248\u4fee\u7406\u6a5f\u5668\u4eba",
+        "playerClass": "Priest",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4e00\u500b\u53cb\u65b9\u6a5f\u68b0+4\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_032b",
+        "name": "\u5361\u7247\u4e4b\u8cdc",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u500b\u73a9\u5bb6\u62bd\u4e00\u5f35\u724c",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u9019\u500b\u578b\u865f\u5df2\u7d93\u505c\u7522\u4e86!(\u56e0\u70ba\u767c\u751f\u4e86\u5e7e\u8d77\u7206\u70b8\u4e8b\u6545)",
+        "health": 3,
+        "id": "GVG_069",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u53e4\u8463\u6cbb\u7642\u6a5f\u5668\u4eba",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u4f7f\u4f60\u7684\u82f1\u96c4\u6062\u5fa98\u9ede\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "E.M. Gist",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u771f\u6b63\u7684\u7375\u4eba\u90fd\u6293\u98e2\u9913\u7684\u8783\u87f9\u3002",
+        "id": "GVG_017",
+        "name": "\u53ec\u559a\u5bf5\u7269",
+        "playerClass": "Hunter",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u62bd\u4e00\u5f35\u724c\u3002\n\u82e5\u662f\u91ce\u7378\u5361\u7247\uff0c\u5176\u6d88\u8017\u6e1b\u5c11(4)\u9ede",
+        "type": "Spell"
+    },
+    {
+        "artist": "Seamus Gallagher",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u300c\u7b49\u7b49!\u6211\u807d\u5230\u602a\u8072\u3002\u300d\n\n\u300c\u554a\uff0c\u5927\u6982\u662f\u6211\u807d\u932f\u4e86\u3002\u300d-\u5f88\u591a\u5b88\u885b\u6b7b\u524d\u7684\u6700\u5f8c\u4e00\u53e5\u8a71\u3002",
+        "health": 3,
+        "id": "GVG_081",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "\u5409\u723e\u5e03\u6797\u6f5b\u7375\u8005",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6f5b\u884c</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u9019\u500b\u7ba1\u5bb6\u6a5f\u5668\u4eba\u6700\u5927\u7684\u554f\u984c\u5c31\u662f - \u7ba1\u592a\u591a\u3002",
+        "health": 4,
+        "id": "GVG_094",
+        "name": "\u5409\u798f\u65af",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u6bcf\u4e00\u500b\u73a9\u5bb6\u56de\u5408\u7d50\u675f\u6642\uff0c\u66ff\u8a72\u73a9\u5bb6\u62bd\u724c\u76f4\u5230\u624b\u4e0a\u81f3\u5c11\u67093\u5f35\u724c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u62c6\u96f7\u3001\u7206\u7834\u4ed6\u90fd\u6703\u3002\u6bd4\u8f03\u9700\u8981\u64d4\u5fc3\u7684\u662f\u4ed6\u4e00\u908a\u62c6\uff0c\u4e00\u908a\u7206\u3002",
+        "health": 4,
+        "id": "GVG_095",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u54e5\u5e03\u6797\u5de5\u5175",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u82e5\u4f60\u7684\u5c0d\u624b\u67096\u5f35\u4ee5\u4e0a\u7684\u624b\u724c\uff0c\u4fbf\u7372\u5f97+4\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zolton Boros",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u81ea\u52d5\u4fee\u6574\u4f60\u7684\u9aee\u578b\uff0c\u6216\u8005\u8eab\u9ad8\u3002",
+        "health": 2,
+        "id": "GVG_023",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u54e5\u5e03\u6797\u81ea\u52d5\u7406\u9aee\u5e2b",
+        "playerClass": "Rogue",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4f60\u7684\u6b66\u5668+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Glenn Rane",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u5982\u679c\u4f60\u624b\u982d\u4e0a\u6c92\u6709\u70b8\u5f48\u53ef\u4ee5\u4e1f\uff0c\u96a8\u4fbf\u62ff\u8d77\u4e00\u500b\u54e5\u5e03\u6797\u7684\u767c\u660e\u6254\u51fa\u53bb\u5c31\u5c0d\u4e86\u3002",
+        "health": 4,
+        "id": "GVG_004",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u54e5\u5e03\u6797\u8f5f\u70b8\u6cd5\u5e2b",
+        "playerClass": "Mage",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u82e5\u4f60\u6709\u6a5f\u68b0\uff0c\u9020\u62104\u9ede\u50b7\u5bb3\uff0c\u96a8\u6a5f\u5206\u7d66\u6575\u65b9\u89d2\u8272",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brandon Kitkouski",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u5fb7\u9b6f\u4f0a\u7684\u56de\u6536\u65b9\u5f0f\u662f\u628a\u5851\u81a0\u5206\u985e\u5728\u4e00\u888b\uff0c\u6575\u65b9\u624b\u4e0b\u5206\u985e\u5728\u53e6\u4e00\u888b\u3002",
+        "id": "GVG_031",
+        "name": "\u56de\u6536",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c07\u4e00\u500b\u6575\u65b9\u624b\u4e0b\u6d17\u56de\u4f60\u5c0d\u624b\u7684\u724c\u5806\u4e2d",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_106e",
+        "name": "\u56de\u6536\u5347\u7d1a",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c6c\u6027\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_102e",
+        "name": "\u5730\u7cbe\u5340\u4e4b\u529b",
+        "set": "Goblins vs Gnomes",
+        "text": "+1/+1",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Gabor Szikszai",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u4ed6\u7d93\u5e38\u593e\u5e36\u96f6\u4ef6\u56de\u5bb6\u3002\u4e8b\u5be6\u4e0a\uff0c\u5e7e\u4e4e\u6bcf\u500b\u6280\u5e2b\u90fd\u9019\u9ebc\u505a\u3002",
+        "health": 3,
+        "id": "GVG_102",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5730\u7cbe\u5340\u6280\u5e2b",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u82e5\u4f60\u6709\u6a5f\u68b0\uff0c\u7372\u5f97+1/+1\u4e26\u653e\u4e00\u5f35<b>\u5099\u7528\u96f6\u4ef6</b>\u5230\u4f60\u7684\u624b\u724c\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u54c8\u54c8\uff0c\u6211\u600e\u9ebc\u53ef\u80fd\u628a\u81ea\u5df1\u8b8a\u6210...\u5495\u5495!\u5495\u5495!",
+        "health": 2,
+        "id": "GVG_092",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5730\u7cbe\u5be6\u9a57\u5bb6",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u62bd\u4e00\u5f35\u724c\u3002\u82e5\u62bd\u5230\u624b\u4e0b\uff0c\u5c07\u5b83\u8b8a\u5f62\u70ba\u4e00\u96bb\u96de",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Seaman",
+        "cost": 0,
+        "id": "GVG_056t",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "\u5730\u96f7",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "\u7576\u4f60\u62bd\u5230\u5b83\u6642\u6703\u7206\u70b8\u3002\u4f60\u6703\u53d7\u523010\u9ede\u50b7\u5bb3\u4e26\u62bd\u4e00\u5f35\u724c",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_030b",
+        "name": "\u5766\u514b\u6a21\u5f0f",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u751f\u547d\u503c",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_030be",
+        "name": "\u5766\u514b\u6a21\u5f0f",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u751f\u547d\u503c",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Laurel D. Austin",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u5927\u54e5\u5e03\u6797\u4e0b\u500b\u661f\u671f\u8981\u805a\u6703\u8a0e\u8ad6\u516c\u6703\u798f\u5229\u3002\u5728\u6e05\u55ae\u4e0a\u7684\u7b2c\u4e00\u500b\u9805\u76ee\u662f:\u7259\u91ab\u6d25\u8cbc\u3002",
+        "health": 3,
+        "id": "GVG_104",
+        "name": "\u5927\u54e5\u5e03\u6797",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u6253\u51fa\u653b\u64ca\u529b\u70ba1\u7684\u624b\u4e0b\uff0c\u8ce6\u4e88\u8a72\u624b\u4e0b+2/+2",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ruan Jia",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u5948\u666e\u5716\u9686\u662f\u300c\u7375\u6f6e\u8005\u300d\uff0c\u4ed6\u662f\u56db\u5927\u5143\u7d20\u9818\u4e3b\u4e4b\u4e00\u3002\u4ed6\u548c\u62c9\u683c\u7d0d\u7f85\u65af\u5171\u540c\u8209\u8fa6\u7684\u6851\u62ff\u6d3b\u52d5\u7121\u4eba\u80fd\u6bd4\u3002",
+        "health": 7,
+        "id": "GVG_042",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5948\u666e\u5716\u9686",
+        "playerClass": "Shaman",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u653e4\u5f35\u96a8\u6a5f\u7684\u9b5a\u4eba\u5230\u4f60\u7684\u624b\u724c\u4e2d\u3002<b>\u8d85\u8f09:</b>(3)",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u5979\u901a\u5e38\u6703\u5e36\u8457\u4e09\u500b\u8ca0\u76fe\u5175\u8ddf\u73ed\uff0c\u9019\u6a23\u76fe\u724c\u53ea\u8981\u5feb\u58de\u4e86\u5c31\u80fd\u99ac\u4e0a\u63db\u65b0\u7684\u3002",
+        "health": 5,
+        "id": "GVG_053",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5973\u76fe\u4f8d",
+        "playerClass": "Warrior",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u7372\u5f975\u9ede\u8b77\u7532\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jonboy Meyers",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u807d\u8aaa\u6cd5\u5e2b\u90fd\u6068\u5979\u6068\u5f97\u7259\u7662\u7662\u7684\u3002",
+        "health": 5,
+        "id": "GVG_122",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u5b0c\u5c0f\u7684\u6cd5\u8853\u5e72\u64fe\u5e2b",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5169\u5074\u7684\u624b\u4e0b\u7121\u6cd5\u88ab\u6cd5\u8853\u6216\u82f1\u96c4\u80fd\u529b\u6307\u5b9a",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_006a",
+        "name": "\u5c0d\u8abf",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u548c\u751f\u547d\u503c\u88ab\u9006\u5411\u958b\u95dc\u6240\u5c0d\u8abf",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u5f88\u591a\u8853\u58eb\u90fd\u628a\u5979\u7684\u96fb\u8a71\u865f\u78bc\u80cc\u4e86\u8d77\u4f86\uff0c\u4ee5\u514d\u53eb\u932f\u60e1\u9b54\u6642\u6c42\u6551\u7121\u9580\u3002",
+        "health": 3,
+        "id": "GVG_097",
+        "mechanics": [
+            "Battlecry",
+            "Taunt"
+        ],
+        "name": "\u5c0f\u5c0f\u9a45\u9b54\u8005",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>\n<b>\u6230\u543c:</b>\u6230\u5834\u4e0a\u6bcf\u4e00\u500b\u6709<b>\u6b7b\u4ea1\u4e4b\u8072</b>\u7684\u6575\u65b9\u624b\u4e0b\u90fd\u4f7f\u5176+1/+1",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_045t",
+        "name": "\u5c0f\u9b3c",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jaemin Kim",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u7206\u70b8\u5f8c\u7684\u88c2\u7247\uff0c\u6bd4\u7206\u70b8\u672c\u8eab\u9084\u8981\u7cdf\u591a\u4e86\u3002",
+        "id": "GVG_045",
+        "name": "\u5c0f\u9b3c\u7206\u7834",
+        "playerClass": "Warlock",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u4e00\u500b\u624b\u4e0b\u9020\u6210$2\u9ede\u5230$4\u9ede\u50b7\u5bb3\u3002\u6bcf\u9020\u6210\u4e00\u9ede\u50b7\u5bb3\uff0c\u4fbf\u53ec\u559a\u4e00\u500b1/1\u7684\u5c0f\u9b3c",
+        "type": "Spell"
+    },
+    {
+        "artist": "Brandon Kitkouski",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u70ba\u4ec0\u9ebc\u5c16\u7259\u5fb7\u9b6f\u4f0a\u90fd\u4f4f\u5728\u54c0\u568e\u6d1e\u7a74?\u56e0\u70ba\u4ed6\u5011\u51fa\u9580\u4ee5\u5f8c\u5c31\u4e0d\u53eb\u5c16\u7259\u5fb7\u9b6f\u4f0a\u4e86\u3002",
+        "health": 4,
+        "id": "GVG_080",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5c16\u7259\u5fb7\u9b6f\u4f0a",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u82e5\u4f60\u6709\u91ce\u7378\uff0c\u5c07\u6b64\u624b\u4e0b\u8b8a\u5f62\u70ba7/7",
+        "type": "Minion"
+    },
+    {
+        "artist": "Massive Black",
+        "attack": 7,
+        "cost": 5,
+        "health": 7,
+        "id": "GVG_080t",
+        "name": "\u5c16\u7259\u5fb7\u9b6f\u4f0a",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Samwise",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4ed6\u539f\u672c\u4e0d\u7b26\u5408\u9032\u5165\u5fcd\u8005\u5b78\u6821\u7684\u689d\u4ef6\u3002\u662f\u4ed6\u7238\u7238\u901a\u904e\u95dc\u4fc2\u628a\u4ed6\u9001\u9032\u53bb\u7684\u3002",
+        "health": 6,
+        "id": "GVG_088",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "\u5de8\u9b54\u5fcd\u8005",
+        "playerClass": "Rogue",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6f5b\u884c</b>\n\u670950%\u6a5f\u7387\u653b\u64ca\u932f\u8aa4\u7684\u6575\u4eba",
+        "type": "Minion"
+    },
+    {
+        "artist": "Richard Wright",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "durability": 2,
+        "flavor": "\u7c21\u55ae\uff0c\u7c97\u66b4\uff0c\u7570\u5e38\u5371\u96aa\u3002\u4f60\u61c2\u7684\uff0c\u5c31\u8ddf\u5927\u90e8\u5206\u7684\u5de8\u9b54\u6b66\u5668\u4e00\u6a23\u3002",
+        "id": "GVG_054",
+        "name": "\u5de8\u9b54\u6230\u69cc",
+        "playerClass": "Warrior",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u670950%\u6a5f\u7387\u653b\u64ca\u932f\u8aa4\u7684\u6575\u4eba",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Michal Ivan",
+        "attack": 7,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u83ab\u53e4\u66fe\u7d93\u5e6b\u5fd9\u91cd\u65b0\u958b\u555f\u9ed1\u6697\u4e4b\u9580\u3002\u4f60\u4e5f\u77e5\u9053\u9700\u8981\u4f9d\u8cf4\u5de8\u9b54\u5e6b\u5fd9\u7684\u5f8c\u679c\u3002",
+        "health": 6,
+        "id": "GVG_112",
+        "name": "\u5de8\u9b54\u83ab\u53e4",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5168\u90e8\u7684\u624b\u4e0b\u90fd\u670950%\u6a5f\u7387\u653b\u64ca\u932f\u8aa4\u7684\u6575\u4eba",
+        "type": "Minion"
+    },
+    {
+        "artist": "Vinod Rams",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u6709\u4e00\u500b\u5b78\u8aaa\u4e3b\u5f35\uff0c\u8981\u4e0d\u662f\u5de8\u9b54\u6709\u9019\u7a2e\u56b4\u91cd\u7684\u554f\u984c\uff0c\u4ed6\u5011\u65e9\u5c31\u7d71\u6cbb\u5168\u4e16\u754c\u4e86\u3002",
+        "health": 4,
+        "id": "GVG_065",
+        "name": "\u5de8\u9b54\u883b\u5352",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u670950%\u6a5f\u7387\u653b\u64ca\u932f\u8aa4\u7684\u6575\u4eba",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jomaro Kindred",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u7acb\u523b\u57f7\u884c\u6d3e\u5c0d\u6e96\u5099\u6307\u4ee4\u3002",
+        "health": 4,
+        "id": "GVG_119",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5e03\u9748\u767b3000\u578b",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u66ff\u6bcf\u4e00\u500b\u73a9\u5bb6\u88dd\u5099\u4e00\u628a\u96a8\u6a5f\u6b66\u5668",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan Boros",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4ed6\u7684\u5f37\u5316\u53ef\u4ee5\u8cd2\u5e33\uff0c\u4e0d\u6536\u5229\u606f\uff0c\u53ef\u4ee5\u8aaa\u662f\u4eba\u4eba\u90fd\u611b!",
+        "health": 2,
+        "id": "GVG_107",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u5f37\u5316\u6a5f\u5668\u4eba",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u96a8\u6a5f\u8ce6\u4e88\u4f60\u5176\u4ed6\u624b\u4e0b<b>\u98a8\u6012</b>\u3001<b>\u5632\u8af7</b>\u6216<b>\u8056\u76fe\u8853</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Andrew Hou",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u53ea\u6709\u54e5\u5e03\u6797\u6703\u89ba\u5f97\u9019\u662f\u500b\u597d\u4e3b\u610f\u3002\u73fe\u5728\uff0c\u5c31\u9023\u4ed6\u5011\u81ea\u5df1\u4e5f\u958b\u59cb\u7522\u751f\u7591\u616e\u4e86\u3002",
+        "id": "GVG_050",
+        "name": "\u5f48\u8df3\u92d2\u5203",
+        "playerClass": "Warrior",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u4e00\u500b\u96a8\u6a5f\u624b\u4e0b\u9020\u6210$1\u9ede\u50b7\u5bb3\u3002\u53cd\u8986\u5f48\u8df3\u76f4\u5230\u4e00\u500b\u624b\u4e0b\u6b7b\u4ea1\u70ba\u6b62",
+        "type": "Spell"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u5343\u842c\u5225\u6309\u90a3\u500b\u6700\u5927\u7684\u7d05\u8272\u6309\u9215!",
+        "health": 5,
+        "id": "GVG_111",
+        "name": "\u5f4c\u7c73\u502b\u4e4b\u9996",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u958b\u59cb\u6642\uff0c\u82e5\u4f60\u64c1\u6709\u81f3\u5c113\u500b\u6a5f\u68b0\uff0c\u5c07\u5b83\u5011\u5168\u90e8\u6467\u6bc0\u4e26\u7d44\u6210V-07-TR-0N",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_027e",
+        "name": "\u5f97\u5230\u555f\u767c",
+        "playerClass": "Rogue",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c6c\u6027\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Skan Srisuwan",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u6c92\u6709\u4eba\u6562\u5c0f\u89b7\u5b83\u7684\u5a01\u529b\u3002",
+        "health": 2,
+        "id": "GVG_103",
+        "name": "\u5fae\u578b\u88dd\u7532",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u6bcf\u500b\u56de\u5408\u958b\u59cb\u6642\u7372\u5f97+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_019e",
+        "name": "\u60e1\u9b54\u4e4b\u5fc3",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Kerem Beyit",
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u5e7e\u4e4e\u6bcf\u500b\u8d0a\u6210\u901a\u904e\u60e1\u9b54\u4f7f\u7528\u6cd5\u6848\u7684\u4eba\u90fd\u662f\u8853\u58eb\u3002\u602a\u4e86\u3002",
+        "id": "GVG_019",
+        "name": "\u60e1\u9b54\u4e4b\u5fc3",
+        "playerClass": "Warlock",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u4e00\u500b\u624b\u4e0b\u9020\u6210$5\u9ede\u50b7\u5bb3\u3002\u82e5\u76ee\u6a19\u662f\u53cb\u65b9\u60e1\u9b54\uff0c\u8ce6\u4e88\u5b83+5/+5",
+        "type": "Spell"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 8,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u53cd\u6b63\u53ea\u8981\u5920\u5927\u96bb\u5c31\u884c\u4e86!",
+        "health": 8,
+        "id": "GVG_016",
+        "name": "\u60e1\u9b54\u52ab\u596a\u8005",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u5c0d\u624b\u51fa\u4e00\u5f35\u724c\uff0c\u6368\u68c4\u4f60\u724c\u5806\u6700\u4e0a\u9762\u7684\u4e09\u5f35\u724c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Gaser",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4f7f\u7528\u8aaa\u660e\u66f8\u4e0a\u5beb\u8457:\u300c\u6700\u65b0\u5347\u7d1a\u7248\uff0c\u4fdd\u8b49\u591a\u62531\u9ede!\u300d",
+        "health": 5,
+        "id": "GVG_020",
+        "name": "\u60e1\u9b54\u706b\u7832",
+        "playerClass": "Warlock",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u7d50\u675f\u6642\uff0c\u5c0d\u4e00\u500b\u975e\u6a5f\u68b0\u7684\u624b\u4e0b\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Josh Harris",
+        "attack": 9,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u9ed1\u6697\u618e\u60e1\u9b54\u50cf\u5f88\u90aa\u60e1\u3001\u795e\u79d8\u3001\u5de8\u5927\uff0c\u800c\u4e14\u4e00\u500b\u53e5\u5b50\u90fd\u5beb\u4e0d\u5b8c\u6574\u3002",
+        "health": 9,
+        "id": "GVG_077",
+        "name": "\u618e\u60e1\u9b54\u50cf",
+        "playerClass": "Warlock",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u500b\u56de\u5408\u7d50\u675f\u6642\uff0c\u82e5\u6b64\u624b\u4e0b\u662f\u4f60\u552f\u4e00\u5728\u5834\u4e0a\u7684\u624b\u4e0b\uff0c\u6467\u6bc0\u5b83",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_063a",
+        "name": "\u61f2\u6212",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Tyler Walpole",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u6230\u722d\u6a5f\u5668\u4eba\u7684\u91cf\u7522\u5728\u7a81\u7136\u767c\u73fe\u5c3a\u5bf8\u8f38\u51fa\u6210\u6a23\u54c1\u7248\u5f8c\u558a\u505c\u3002\u7d50\u679c\u9054\u62c9\u7136\u7684\u795e\u5947\u73a9\u5177\u5c4b\u5ffd\u7136\u5c31\u88ab\u6578\u4ee5\u5343\u8a08\u7684\u6230\u722d\u6a5f\u5668\u4eba\u73a9\u5177\u585e\u7206\u4e86\u3002",
+        "health": 3,
+        "id": "GVG_051",
+        "mechanics": [
+            "Enrage"
+        ],
+        "name": "\u6230\u722d\u6a5f\u5668\u4eba",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u72c2\u6012:</b>+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u4ed6\u4f3c\u4e4e\u8ddf\u80fd\u91cf\u8f49\u63db\u5668\u4e4b\u985e\u7684\u6771\u897f\u6709\u9ede\u95dc\u806f\u3002",
+        "health": 7,
+        "id": "GVG_115",
+        "mechanics": [
+            "Battlecry",
+            "Deathrattle"
+        ],
+        "name": "\u6258\u65af\u5229",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c\u53ca\u6b7b\u4ea1\u4e4b\u8072:</b>\u653e\u4e00\u5f35<b>\u5099\u7528\u96f6\u4ef6</b>\u5230\u4f60\u7684\u624b\u724c\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Den",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u300c\u52a0\u6cb9!\u52a0\u6cb9!\u52a0\u6cb9!\u300d-\u8d85\u8001\u5957\u7684\u52a0\u6cb9\u65b9\u5f0f",
+        "id": "GVG_022",
+        "mechanics": [
+            "Combo"
+        ],
+        "name": "\u6280\u5de5\u7684\u78e8\u5200\u6cb9",
+        "playerClass": "Rogue",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4f60\u7684\u6b66\u5668+3\u653b\u64ca\u529b\u3002<b>\u9023\u64ca:</b>\u8ce6\u4e88\u4e00\u500b\u96a8\u6a5f\u53cb\u65b9\u624b\u4e0b+3\u653b\u64ca\u529b",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_022a",
+        "name": "\u6280\u5de5\u7684\u78e8\u5200\u6cb9",
+        "set": "Goblins vs Gnomes",
+        "text": "+3\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_022b",
+        "name": "\u6280\u5de5\u7684\u78e8\u5200\u6cb9",
+        "set": "Goblins vs Gnomes",
+        "text": "+3\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Luca Zontini",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u6700\u8fd1\u4e0a\u982d\u5c0d\u4ed6\u56e0\u8aa4\u70b8\u800c\u6536\u5230\u7684\u5e33\u55ae\u91d1\u984d\u611f\u5230\u5f88\u4e0d\u6eff\u610f\u3002",
+        "health": 3,
+        "id": "GVG_099",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u6295\u5f48\u624b",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u5c0d\u4e00\u500b\u96a8\u6a5f\u6575\u65b9\u624b\u4e0b\u9020\u62104\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan Boros",
+        "attack": 1,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4e00\u500b\u6a5f\u5668\u4eba\u7684\u5783\u573e\u96f6\u4ef6\uff0c\u5c0d\u53e6\u4e00\u500b\u6a5f\u5668\u4eba\u4f86\u8aaa\u53ef\u662f\u8d85\u8b9a\u7684\u5347\u7d1a\u96f6\u4ef6!",
+        "health": 5,
+        "id": "GVG_106",
+        "name": "\u62fe\u8352\u6a5f\u5668\u4eba",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4e00\u96bb\u53cb\u65b9\u6a5f\u68b0\u6b7b\u4ea1\uff0c\u7372\u5f97+2/+2",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_004e",
+        "name": "\u63a9\u853d",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6f5b\u884c\uff0c\u76f4\u5230\u4f60\u7684\u4e0b\u4e00\u56de\u5408\u70ba\u6b62",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zero Yue",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u51ac\u63e1\u6e56\u8981\u585e\u552f\u4e00\u7684\u5f31\u9ede!",
+        "health": 5,
+        "id": "GVG_086",
+        "name": "\u653b\u57ce\u6a5f\u5177",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7372\u5f97\u8b77\u7532\u503c\uff0c\u8ce6\u4e88\u6b64\u624b\u4e0b+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_030a",
+        "name": "\u653b\u64ca\u6a21\u5f0f",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u653b\u64ca\u529b",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_030ae",
+        "name": "\u653b\u64ca\u6a21\u5f0f",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Mike Hayes",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u300c\u62ab\u85a9\u4f86\u4e86!\u300d -\u76ee\u524d\u6548\u679c\u6700\u68d2\u7684\u767d\u9280\u4e4b\u624b\u6230\u543c",
+        "id": "GVG_061",
+        "name": "\u6574\u88dd\u5099\u6230",
+        "playerClass": "Paladin",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u53ec\u559a\u4e09\u500b1/1\u7684\u767d\u9280\u4e4b\u624b\u65b0\u5175\u3002\u88dd\u5099\u4e00\u628a1/4\u7684\u6b66\u5668",
+        "type": "Spell"
+    },
+    {
+        "artist": "James Ryman",
+        "attack": 6,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "\u6536\u5272\u6575\u4eba\u8ddf\u6536\u5272\u8fb2\u4f5c\u7269\u5176\u5be6\u6c92\u4ec0\u9ebc\u5169\u6a23\u3002",
+        "health": 9,
+        "id": "GVG_113",
+        "name": "\u6575\u4eba\u6536\u5272\u80054000",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u540c\u6642\u4e5f\u6703\u5c0d\u4ed6\u76ee\u6a19\u8eab\u908a\u7684\u624b\u4e0b\u9020\u6210\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Christopher Moeller",
+        "attack": 5,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "\u65af\u5c3c\u5fb7\u5728\u6b7b\u4ea1\u7926\u5751\u88ab\u64ca\u6557\u5f8c\uff0c\u4ed6\u7684\u4f10\u6728\u6a5f\u5c31\u88ab\u4e00\u500b\u4e0d\u77e5\u540d\u7684\u8cb7\u5bb6\u5f9e\u62cd\u8ce3\u5834\u8cb7\u8d70\u4e86\u3002(\u5927\u6982\u662f\u970d\u683c\u3002)",
+        "health": 7,
+        "id": "GVG_114",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u65af\u5c3c\u5fb7\u7684\u4f10\u6728\u6a5f",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u53ec\u559a\u4e00\u500b\u96a8\u6a5f\u7684\u50b3\u8aaa\u624b\u4e0b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Gino Whitehall",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "durability": 2,
+        "flavor": "\u7576\u4e00\u822c\u7684\u706b\u7bad\u7b52\u4e0d\u5920\u529b\u6642\uff0c\u7528\u9019\u500b\u5c31\u5c0d\u4e86\u3002",
+        "id": "GVG_043",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u65cb\u5203\u706b\u7bad\u7b52",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4e00\u500b\u96a8\u6a5f\u7684\u53cb\u65b9\u624b\u4e0b+1\u653b\u64ca\u529b",
+        "type": "Weapon"
+    },
+    {
+        "id": "GVG_043e",
+        "name": "\u65cb\u5203\u706b\u7bad\u7b52",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutthapon Petthai",
+        "cost": 1,
+        "id": "PART_002",
+        "name": "\u6642\u5149\u56de\u6eaf\u5668",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f7f\u4e00\u500b\u53cb\u65b9\u624b\u4e0b\u8fd4\u56de\u4f60\u7684\u624b\u4e0a",
+        "type": "Spell"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5b83\u7684\u4e3b\u8981\u529f\u80fd\u662f\u76f4\u62f3\u653b\u64ca\u3002\u5b83\u7684\u6b21\u8981\u529f\u80fd...\u4e5f\u662f\u76f4\u62f3\u653b\u64ca\u3002",
+        "health": 3,
+        "id": "GVG_072",
+        "name": "\u6697\u5f71\u62f3\u64ca\u624b",
+        "playerClass": "Priest",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u6709\u89d2\u8272\u53d7\u5230\u6cbb\u7642\uff0c\u5c0d\u4e00\u500b\u96a8\u6a5f\u6575\u4eba\u9020\u62101\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u6697\u5f71\u70b8\u5f48\u624b\u6703\u9054\u6210\u76ee\u6a19\uff0c\u4f46\u662f\u5979\u7684\u5de5\u4f5c\u614b\u5ea6\u6709\u9ede\u96a8\u4fbf\u5c31\u662f\u4e86\u3002",
+        "health": 1,
+        "id": "GVG_009",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u6697\u5f71\u70b8\u5f48\u624b",
+        "playerClass": "Priest",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u5c0d\u96d9\u65b9\u82f1\u96c4\u9020\u62103\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_014a",
+        "name": "\u6697\u5f71\u7375\u6bba",
+        "playerClass": "Priest",
+        "set": "Goblins vs Gnomes",
+        "text": "\u751f\u547d\u503c\u88ab\u5c0d\u8abf",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4f60\u8aaa\u760b\u72c2\u70b8\u5f48\u5ba2\u5f88\u6a5f\u8eca?\u4f86\uff0c\u770b\u770b\u9019\u4e00\u4f4d\u3002",
+        "health": 4,
+        "id": "GVG_090",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u66f4\u760b\u72c2\u7684\u70b8\u5f48\u5ba2",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u9020\u62106\u9ede\u50b7\u5bb3\uff0c\u96a8\u6a5f\u5206\u7d66\u5176\u4ed6\u89d2\u8272",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4ee5\u524d\u53ea\u6709\u54e5\u5e03\u6797\u6703\u99d5\u99db\u4f10\u6728\u6a5f\u3002\u73fe\u5728?\u9023\u672b\u65e5\u9810\u8a00\u8005\u8ddf\u535a\u5b78\u884c\u8005\u963f\u6d32\u90fd\u958b\u4e86\u4e00\u53f0\u5728\u8dd1\u3002",
+        "health": 3,
+        "id": "GVG_096",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u6709\u99d5\u99db\u7684\u4f10\u6728\u6a5f",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u53ec\u559a\u4e00\u500b\u6cd5\u529b\u6d88\u8017\u70ba2\u9ede\u7684\u96a8\u6a5f\u624b\u4e0b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Michael Phillippi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u54e5\u5e03\u6797\u5de5\u7a0b\u5b78\u7684\u5dd4\u5cf0\u6210\u5c31\u3002\u5167\u5efa\u7fa9\u5f0f\u5496\u5561\u6a5f\u53ca\u8173\u5e95\u6309\u6469\u529f\u80fd\u3002",
+        "health": 4,
+        "id": "GVG_105",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u6709\u99d5\u99db\u7684\u98db\u5929\u9b54\u50cf",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u53ec\u559a\u4e00\u500b\u6cd5\u529b\u6d88\u8017\u70ba4\u9ede\u7684\u96a8\u6a5f\u624b\u4e0b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u559c\u6b61:\u722c\u5c71\u3001\u5927\u81ea\u7136\u3002\u4e0d\u559c\u6b61:\u54e5\u5e03\u6797\u4f10\u6728\u6a5f\u3001\u62d6\u978b\u3002(\u56e0\u70ba\u627e\u4e0d\u5230\u5408\u8173\u7684!)",
+        "health": 4,
+        "id": "GVG_032",
+        "name": "\u6797\u5730\u770b\u7ba1\u8005",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u4e8c\u9078\u4e00:</b>\u8ce6\u4e88\u6bcf\u500b\u73a9\u5bb6\u4e00\u9846\u6cd5\u529b\u6c34\u6676\uff0c\u6216\u6bcf\u500b\u73a9\u5bb6\u5404\u62bd\u4e00\u5f35\u724c",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_055e",
+        "name": "\u6813\u7dca\u87ba\u7d72",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Phil Saunders",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u6703\u53ec\u559a\u6a5f\u68b0\u7684\u6a5f\u68b0?\u63a5\u4e0b\u4f86\u5462?\u6703\u53ec\u559a\u751c\u751c\u5708\u7684\u751c\u751c\u5708\u55ce?\u55ef...\u807d\u8d77\u4f86\u4e0d\u932f\u3002",
+        "health": 3,
+        "id": "GVG_006",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u6a5f\u68b0\u53ec\u559a\u5e2b",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f60\u7684\u6a5f\u68b0\u6d88\u8017\u6e1b\u5c11(1)\u9ede",
+        "type": "Minion"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 7,
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u7260\u5f92\u624b\u62c6\u5efa\u7bc9\u7269\u7684\u6548\u7387\u8b93\u602a\u624b\u671b\u5875\u83ab\u53ca\u3002",
+        "health": 6,
+        "id": "GVG_034",
+        "name": "\u6a5f\u68b0\u718a-\u8c93",
+        "playerClass": "Druid",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u6b64\u624b\u4e0b\u53d7\u5230\u50b7\u5bb3\uff0c\u5c31\u653e\u4e00\u5f35<b>\u5099\u7528\u96f6\u4ef6</b>\u5230\u4f60\u7684\u624b\u724c\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Seaman",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u51b0\u98a8\u5d17\u54e8\u7684\u96ea\u4eba\u7d93\u5e38\u5728\u806f\u76df\u8207\u90e8\u843d\u4e4b\u9593\u7684\u722d\u9b25\u4e2d\u906d\u5230\u6c60\u9b5a\u4e4b\u6b83\u3002",
+        "health": 5,
+        "id": "GVG_078",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u6a5f\u68b0\u96ea\u4eba",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u7d66\u8207\u6bcf\u500b\u73a9\u5bb6\u4e00\u5f35<b>\u5099\u7528\u96f6\u4ef6</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 9,
+        "collectible": true,
+        "cost": 9,
+        "elite": true,
+        "flavor": "\u4ed6\u4ee5\u524d\u662f\u70b8\u85e5\u504f\u57f7\u72c2\uff0c\u76f4\u5230\u4ed6\u611b\u4e0a\u91dd\u7e54\u6bdb\u8863\u3002\u73fe\u5728\u4ed6\u9022\u4eba\u5c31\u558a:\u300c\u6bdb\u8863!\u66f4\u591a\u7684\u6bdb\u8863!\u300d",
+        "health": 7,
+        "id": "GVG_116",
+        "name": "\u6a5f\u96fb\u5e2b\u745f\u746a\u666e\u62c9\u683c",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u6709\u6575\u65b9\u624b\u4e0b\u6b7b\u4ea1\uff0c\u53ec\u559a\u4e00\u500b\u9ebb\u760b\u5730\u7cbe",
+        "type": "Minion"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u6c83\u91d1\u662f\u500b\u6697\u5f71\u7375\u624b\u3002\u8ddf\u6697\u5f71\u7267\u5e2b\u5dee\u4e0d\u591a\u610f\u601d\uff0c\u53ea\u662f\u66f4\u5deb\u6bd2\u4e86\u9ede\u3002",
+        "health": 2,
+        "id": "GVG_014",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u6c83\u91d1",
+        "playerClass": "Priest",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8207\u53e6\u4e00\u500b\u624b\u4e0b\u5c0d\u8abf\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Clint Langley",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4e0d\u8981\u4ee5\u70ba\u9b5a\u4eba\u8a9e\u5c31\u4e0d\u80fd\u8ddf\u5143\u7d20\u6e9d\u901a\u3002\u4f60\u770b\u770b\u4ed6\u3002",
+        "health": 5,
+        "id": "GVG_040",
+        "name": "\u6c99\u9c2d\u9748\u884c\u8005",
+        "playerClass": "Shaman",
+        "race": "Murloc",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u53e6\u4e00\u500b\u53cb\u65b9\u9b5a\u4eba\u6b7b\u4ea1\uff0c\u62bd\u4e00\u5f35\u724c\u3002<b>\u8d85\u8f09:</b>(1)",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_032a",
+        "name": "\u6cd5\u529b\u4e4b\u8cdc",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u6bcf\u500b\u73a9\u5bb6\u4e00\u9846\u6cd5\u529b\u6c34\u6676",
+        "type": "Spell"
+    },
+    {
+        "artist": "Guangjian Huang",
+        "attack": 0,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u9019\u4e9b\u5716\u9a30\u5728\u9031\u516d\u7684\u8df3\u86a4\u5e02\u5834\u4e0a\u90fd\u53ef\u4ee5\u627e\u5f97\u5230\u3002",
+        "health": 3,
+        "id": "GVG_039",
+        "name": "\u6d3b\u529b\u5716\u9a30",
+        "playerClass": "Shaman",
+        "race": "Totem",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f60\u7684\u56de\u5408\u7d50\u675f\u6642\uff0c\u70ba\u4f60\u7684\u82f1\u96c4\u6062\u5fa94\u9ede\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_076a",
+        "name": "\u6d3b\u585e",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jaemin Kim",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u4ed6\u6700\u611b\u5047\u88dd\u81ea\u5df1\u662f\u9b5a\u65af\u62c9\u3002",
+        "health": 2,
+        "id": "GVG_064",
+        "name": "\u6de4\u6ce5\u8e10\u8e0f\u8005",
+        "race": "Murloc",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Todd Lockwood",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4e00\u958b\u59cb\u4ed6\u7684\u540d\u5b57\u662f\u300c\u90aa\u60e1\u4e4b\u773c\u672b\u65e5\u770b\u5b88\u8005\u300d\uff0c\u5f8c\u4f86\u884c\u92b7\u90e8\u9580\u7684\u4eba\u89ba\u5f97\u9019\u500b\u540d\u5b57\u592a\u6709\u4fb5\u7565\u6027\uff0c\u6015\u5f71\u97ff\u5230\u92b7\u552e\uff0c\u5c31\u6539\u4e86\u3002",
+        "health": 4,
+        "id": "GVG_100",
+        "name": "\u6f02\u6d6e\u770b\u5b88\u8005",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u82f1\u96c4\u5728\u4f60\u7684\u56de\u5408\u4e2d\u53d7\u5230\u50b7\u5bb3\uff0c\u7372\u5f97+2/+2",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u539f\u672c\u9019\u500b\u662f\u62ff\u4f86\u6253\u86cb\u7528\u7684\u3002",
+        "health": 2,
+        "id": "GVG_037",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "\u6f29\u6e26\u6253\u64ca\u88dd\u7f6e",
+        "playerClass": "Shaman",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u98a8\u6012</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Aleksi Briclot",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u5f4c\u7c73\u502b\u559c\u6b61\u958b\u8457\u70c8\u7130\u6230\u8f2a\u51fa\u53bb\u515c\u98a8\u3002",
+        "health": 7,
+        "id": "GVG_007",
+        "name": "\u70c8\u7130\u6230\u8f2a",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u7576\u4f60\u62bd\u5230\u9019\u5f35\u724c\uff0c\u5c0d\u5168\u90e8\u89d2\u8272\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Mauricio Herrera",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u7a31\u5b83\u70ba\u70c8\u7130\u706b\u7832\uff0c\u8aaa\u5be6\u5728\u7684\uff0c\u4e26\u4e0d\u80fd\u628a\u5b83\u8ddf\u5176\u4ed6\u7684\u54e5\u5e03\u6797\u88dd\u7f6e\u505a\u51fa\u4ec0\u9ebc\u5340\u9694\u3002\u53cd\u6b63\u90fd\u6703\u5192\u706b!!!",
+        "id": "GVG_001",
+        "name": "\u70c8\u7130\u706b\u7832",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u4e00\u500b\u96a8\u6a5f\u6575\u65b9\u624b\u4e0b\u9020\u6210$4\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "artist": "Phil Saunders",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u64da\u8aaa\u54e5\u5e03\u6797\u4f10\u6728\u6a5f\u7684\u767c\u660e\u8005\u8ddf\u7164\u7159\u5674\u5410\u6a5f\u5668\u4eba\u7684\u767c\u660e\u8005\u6709\u597d\u5e7e\u4ef6\u5b98\u53f8\u6b63\u5728\u6253\u3002",
+        "health": 3,
+        "id": "GVG_123",
+        "mechanics": [
+            "Spellpower"
+        ],
+        "name": "\u7164\u7159\u5674\u5410\u6a5f\u5668\u4eba",
+        "playerClass": "Mage",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6cd5\u8853\u50b7\u5bb3+1</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u7169\u4eba\u6a5f\u5668\u4eba\u7684\u767c\u660e\u8005\u88ab\u6280\u5de5\u5b78\u6821\u7acb\u5373\u9000\u5b78\uff0c\u7136\u5f8c\u88ab\u8d95\u51fa\u5730\u7cbe\u5340\uff0c\u6700\u5f8c\u6574\u500b\u88ab\u8e22\u51fa\u6771\u90e8\u738b\u570b\u3002",
+        "health": 2,
+        "id": "GVG_085",
+        "mechanics": [
+            "Divine Shield",
+            "Taunt"
+        ],
+        "name": "\u7169\u4eba\u6a5f\u5668\u4eba",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>\n<b>\u8056\u76fe\u8853</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jun Kang",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u96e3\u5f97\u6709\u54e5\u5e03\u6797\u6709\u8010\u5fc3\u7576\u72d9\u64ca\u624b\u3002\u4ed6\u5011\u5927\u90e8\u5206\u90fd\u559c\u6b61\u885d\u4e0a\u53bb\u4e1f\u624b\u69b4\u5f48\u3002",
+        "health": 3,
+        "id": "GVG_087",
+        "name": "\u71b1\u7802\u72d9\u64ca\u624b",
+        "playerClass": "Hunter",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f60\u7684\u82f1\u96c4\u80fd\u529b\u80fd\u5920\u4ee5\u624b\u4e0b\u70ba\u76ee\u6a19",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Garner",
+        "attack": 7,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u8b9a\u5606\u4ed6\u7684\u529b\u91cf!",
+        "health": 7,
+        "id": "GVG_110",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u7206\u7206\u535a\u58eb",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u53ec\u559a\u5169\u500b1/1\u7684\u7206\u7206\u6a5f\u5668\u4eba\u3002\u8b66\u544a:\u5b83\u5011\u6709\u7206\u70b8\u4e4b\u865e",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_110t",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u7206\u7206\u6a5f\u5668\u4eba",
+        "race": "Mech",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u5c0d\u4e00\u500b\u96a8\u6a5f\u6575\u4eba\u9020\u62101\u9ede\u52304\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_023a",
+        "name": "\u7279\u5225\u92b3\u5229",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Mike Sass",
+        "attack": 6,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u4e0d\u8981\u5c0f\u770b\u7a74\u5c45\u602a\u3002\u4e0d\u4fe1\uff0c\u4f60\u8b93\u7279\u6d1b\u683c\u4f50\u723e\u7838\u4e00\u4e0b\u8a66\u8a66\u3002",
+        "health": 6,
+        "id": "GVG_118",
+        "name": "\u7279\u6d1b\u683c\u4f50\u723e",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u5c0d\u624b\u65bd\u653e\u6cd5\u8853\uff0c\u53ec\u559a\u4e00\u500b\u9b41\u68a7\u7684\u77f3\u984e\u7a74\u5c45\u602a",
+        "type": "Minion"
+    },
+    {
+        "artist": "Danny Beck",
+        "attack": 4,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u6d77\u76dc\u90fd\u6703\u9a19\u4eba\uff0c\u4f46\u4ed6\u9023\u6d77\u76dc\u90fd\u80fd\u9a19\u5f97\u6b7b\u6b7b\u7684\u3002",
+        "health": 1,
+        "id": "GVG_025",
+        "name": "\u7368\u773c\u9a19\u5b50",
+        "playerClass": "Rogue",
+        "race": "Pirate",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u53ec\u559a\u6d77\u76dc\uff0c\u7372\u5f97<b>\u6f5b\u884c</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Oliver Chipping",
+        "attack": 9,
+        "collectible": true,
+        "cost": 7,
+        "elite": true,
+        "flavor": "\u6211\u4e0d\u662f\u99b4\u9e7f!\u6211\u4e0d\u8a8d\u8b58\u4ec0\u9ebc\u8056\u8a95\u8001\u4eba!",
+        "health": 7,
+        "id": "GVG_035",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u746a\u6d1b\u5c3c",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u5c07\u6b64\u624b\u4e0b\u6d17\u5165\u724c\u5806\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Wayne Reynolds",
+        "attack": 9,
+        "collectible": true,
+        "cost": 9,
+        "elite": true,
+        "flavor": "\u746a\u723e\u52a0\u5c3c\u65af\u4e0d\u559c\u6b61\u88ab\u80cc\u53db\uff0c\u6240\u4ee5\u5982\u679c\u4f60\u628a\u4ed6\u6368\u68c4\uff0c\u6700\u597d\u628a\u76ae\u7e43\u7dca\u4e00\u9ede\u3002",
+        "health": 7,
+        "id": "GVG_021",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u746a\u723e\u52a0\u5c3c\u65af",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f60\u7684\u5176\u4ed6\u60e1\u9b54\u64c1\u6709+2/+2\u3002\n\u4f60\u7684\u82f1\u96c4<b>\u514d\u75ab</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_021e",
+        "name": "\u746a\u723e\u52a0\u5c3c\u65af\u4e4b\u63e1",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "\u746a\u723e\u52a0\u5c3c\u65af\u8ce6\u4e88\u4e86+2/+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Steve Prescott",
+        "collectible": true,
+        "cost": 9,
+        "flavor": "\u6cbb\u7642\uff0c\u662f\u6703\u9577\u5728\u6a39\u4e0a\u7684!",
+        "id": "GVG_033",
+        "name": "\u751f\u547d\u4e4b\u6a39",
+        "playerClass": "Druid",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c07\u5168\u90e8\u89d2\u8272\u6062\u5fa9\u5230\u6700\u5927\u751f\u547d\u503c",
+        "type": "Spell"
+    },
+    {
+        "artist": "Peerasak Senalai",
+        "cost": 1,
+        "id": "PART_003",
+        "name": "\u751f\u93fd\u7684\u865f\u89d2",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b<b>\u5632\u8af7</b>",
+        "type": "Spell"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u767c\u689d\u5730\u7cbe\u6700\u5e38\u554f\u7684\u554f\u984c\u5c31\u662f\u73fe\u5728\u5e7e\u9ede\u9418\u3002",
+        "health": 1,
+        "id": "GVG_082",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u767c\u689d\u5730\u7cbe",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u653e\u4e00\u5f35<b>\u5099\u7528\u96f6\u4ef6</b>\u5230\u4f60\u7684\u624b\u724c\u4e2d",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "attack": 8,
+        "collectible": true,
+        "cost": 12,
+        "flavor": "\u4ed6\u8ddf\u5c71\u5dba\u5de8\u4eba\u4e0d\u548c\u3002",
+        "health": 8,
+        "id": "GVG_121",
+        "name": "\u767c\u689d\u5de8\u4eba",
+        "race": "Mech",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u4f60\u5c0d\u624b\u7684\u6bcf\u4e00\u5f35\u624b\u724c\u4f7f\u6d88\u8017\u6e1b\u5c11(1)\u9ede",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_100e",
+        "name": "\u76ba\u7709",
+        "playerClass": "Warlock",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c6c\u6027\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Howard Lyon",
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u6bd4\u8f03\u8e69\u8173\u7684\u7375\u4eba\u901a\u5e38\u6703\u7528\u9752\u7af9\u7d72\u6216\u9f9c\u6bbc\u82b1\u7684\u86c7\u6bd2\u4f86\u8499\u6df7\u904e\u53bb\u3002",
+        "id": "GVG_073",
+        "name": "\u773c\u93e1\u86c7\u5c04\u64ca",
+        "playerClass": "Hunter",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u4e00\u500b\u624b\u4e0b\u53ca\u6575\u65b9\u82f1\u96c4\u9020\u6210$3\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "artist": "Peet Cooper",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u50b3\u8aaa\u8ddf\u7a74\u5c45\u602a\u95dc\u5728\u4e00\u8d77\u7684\u81ed\u5473\u8db3\u4ee5\u8b93\u6700\u5f37\u786c\u7684\u5acc\u72af\u5728\u4e09\u5929\u5167\u628a\u4e00\u5207\u90fd\u62db\u4e86\u3002",
+        "health": 3,
+        "id": "GVG_067",
+        "name": "\u77f3\u88c2\u7a74\u5c45\u602a",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u5c0d\u624b\u65bd\u653e\u6cd5\u8853\uff0c\u7372\u5f97+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jos\u00e9 Ladr\u00f6nn",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u4ed6\u901a\u5e38\u90fd\u9589\u4e0a\u773c\u775b\u4e82\u6572\u4e00\u901a\u3002\u543c\u543c!",
+        "health": 4,
+        "id": "GVG_066",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "\u7802\u69cc\u85a9\u6eff",
+        "playerClass": "Shaman",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u98a8\u6012\uff0c\u8d85\u8f09:</b>(1)\n\u670950%\u6a5f\u7387\u653b\u64ca\u932f\u8aa4\u7684\u6575\u4eba",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dave Allsop",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u6bba\u4eba\u653e\u706b\u91d1\u8170\u5e36\u3002\u6240\u4ee5\u6bba\u5b8c\u4eba\uff0c\u7576\u7136\u8981\u9806\u4fbf\u653e\u706b\uff0c\u624d\u53eb\u5b8c\u7f8e\u7684\u7834\u58de\u5de5\u4f5c\u3002",
+        "id": "GVG_047",
+        "mechanics": [
+            "Combo"
+        ],
+        "name": "\u7834\u58de\u5de5\u4f5c",
+        "playerClass": "Rogue",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6467\u6bc0\u4e00\u500b\u96a8\u6a5f\u6575\u65b9\u624b\u4e0b\u3002<b>\u9023\u64ca:</b>\u4e5f\u6467\u6bc0\u5c0d\u624b\u7684\u6b66\u5668",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jesper Esjing",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u5982\u679c\u51fa\u73fe\u6545\u969c\uff0c\u5f9e\u5c41\u80a1\u4e0b\u976245\u5ea6\u89d2\u8e22\u5b83\u5e7e\u4e0b\u901a\u5e38\u53ef\u4ee5\u4fee\u597d\u3002",
+        "health": 5,
+        "id": "GVG_055",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u7834\u820a\u7684\u7dad\u4fee\u6a5f\u7532",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4e00\u500b\u53cb\u65b9\u6a5f\u68b0+2/+2",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_049e",
+        "name": "\u7956\u723e\u6cd5\u62c9\u514b\u4e4b\u529b",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u52a0\u500d",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Seamus Gallagher",
+        "attack": 2,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u7345\u5b50\u662f\u842c\u7378\u4e4b\u738b\u3002\u6240\u4ee5\u7345\u5b50\u738b\u662f\u842c\u7378\u4e4b\u738b\u4e4b\u738b\u3002\u9019\u6a23\u8aaa\u5c0d\u5427?\u597d\uff0c\u628a\u525b\u624d\u90a3\u53e5\u8a71\u5f88\u5feb\u7684\u5538\u5341\u6b21\u770b\u770b\u3002",
+        "health": 6,
+        "id": "GVG_046",
+        "mechanics": [
+            "Battlecry",
+            "Taunt"
+        ],
+        "name": "\u842c\u7378\u4e4b\u738b",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>\u3002<b>\u6230\u543c:</b>\u6bcf\u64c1\u6709\u4e00\u96bb\u5176\u4ed6\u91ce\u7378\uff0c\u4fbf\u7372\u5f97+1\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_046e",
+        "name": "\u842c\u7378\u4e4b\u738b",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Zero Yue",
+        "attack": 2,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u70ba\u4e86\u9019\u500b\u65b0\u767c\u660e\uff0c\u5730\u7cbe\u6cd5\u5e2b\u8ddf\u5730\u7cbe\u5de5\u7a0b\u5e2b\u5dee\u9ede\u7ffb\u81c9\u6253\u8d77\u4f86\u3002",
+        "health": 5,
+        "id": "GVG_091",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\u79d8\u6cd5\u524b\u661fX-21",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>\n\u7121\u6cd5\u88ab\u6cd5\u8853\u6216\u82f1\u96c4\u80fd\u529b\u6307\u5b9a",
+        "type": "Minion"
+    },
+    {
+        "artist": "Michael Sutfin",
+        "collectible": true,
+        "cost": 7,
+        "flavor": "\u5f88\u591a\u91ce\u883b\u4eba\u90fd\u8aaa\uff0c\u4f7f\u7528\u9019\u5f35\u724c\u7684\u611f\u89ba\u4ee4\u4ed6\u5011\u7562\u751f\u96e3\u5fd8\u3002",
+        "id": "GVG_052",
+        "name": "\u7c89\u788e",
+        "playerClass": "Warrior",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6467\u6bc0\u4e00\u500b\u624b\u4e0b\u3002\u82e5\u4f60\u6709\u53d7\u50b7\u7684\u624b\u4e0b\u5728\u5834\u4e0a\uff0c\u6d88\u8017\u6e1b\u5c11(4)\u9ede",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_101e",
+        "name": "\u7d14\u6de8",
+        "playerClass": "Paladin",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c6c\u6027\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Peerasak Senalai",
+        "cost": 1,
+        "id": "PART_005",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\u7dca\u6025\u51b7\u537b\u5291",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u51cd\u7d50</b>\u4e00\u500b\u624b\u4e0b",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_011a",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "\u7e2e\u5c0f\u5c04\u7dda",
+        "set": "Goblins vs Gnomes",
+        "text": "\u672c\u56de\u5408-2\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5728\u5730\u7cbe\u4e16\u754c\u653e\u5927\u5668\u7684\u90a3\u5834\u707d\u96e3\u904e\u5f8c\uff0c\u5730\u7cbe\u73fe\u5728\u5c0d\u6539\u8b8a\u5927\u5c0f\u7684\u767c\u660e\u90fd\u5f88\u6709\u6212\u5fc3\u3002",
+        "health": 2,
+        "id": "GVG_011",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u7e2e\u5c0f\u5c04\u7dda\u5de5\u7a0b\u5e2b",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u672c\u56de\u5408\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b-2\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 7,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4ed6\u7d42\u65bc\u64fa\u812b\u300c\u90a3\u500b\u83dc\u9ce5\u300d\u7684\u7a31\u8b02\u4e86\u3002",
+        "health": 4,
+        "id": "GVG_070",
+        "name": "\u8001\u6c34\u624b",
+        "race": "Pirate",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Luca Zontini",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u9019\u5c31\u662f\u8b93\u54e5\u5e03\u6797\u7576\u7267\u5e2b\u7684\u4e0b\u5834\u3002",
+        "id": "GVG_008",
+        "mechanics": [
+            "AffectedBySpellPower"
+        ],
+        "name": "\u8056\u5149\u70b8\u5f48",
+        "playerClass": "Priest",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5c0d\u6bcf\u500b\u624b\u4e0b\u9020\u6210\u76f8\u7576\u65bc\u5176\u653b\u64ca\u529b\u7684\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u9019\u73a9\u610f\u5152\u600e\u9ebc\u4f7f\u7528\u5462?\u4f60\u4ee5\u70ba\u4f60\u7684\u6575\u4eba\u6703\u8aaa:\u300c\u5509\u5440\uff0c\u597d\u53ef\u611b\u7684\u7f8a\u554a!\u300d\u7136\u5f8c\u8dd1\u904e\u53bb\u62b1\u5b83\u8d77\u4f86\u73a9\u55ce?",
+        "health": 1,
+        "id": "GVG_076",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\u81ea\u7206\u7dbf\u7f8a",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6b7b\u4ea1\u4e4b\u8072:</b>\u5c0d\u5168\u90e8\u624b\u4e0b\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Warren Mahy",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u7b49\u4f60\u807d\u5230\u6709\u4eba\u558a\u300c\u7832\u64ca!\u300d\u6642\uff0c\u901a\u5e38\u4e0d\u662f\u6c92\u4e8b\uff0c\u5c31\u662f\u5df2\u7d93\u592a\u665a\u4e86\u3002",
+        "health": 3,
+        "id": "GVG_075",
+        "name": "\u8239\u8266\u4e3b\u7832",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u53ec\u559a\u6d77\u76dc\uff0c\u5c0d\u4e00\u500b\u96a8\u6a5f\u6575\u4eba\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Carl Critchlow",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5979\u7279\u5225\u8a0e\u53ad\u4eba\u5bb6\u62ff\u5979\u8ddf\u82e6\u75db\u4f8d\u50e7\u76f8\u63d0\u4e26\u8ad6\u3002\u64da\u8aaa\u82e6\u75db\u4f8d\u50e7\u5df2\u7d93\u56e0\u70ba\u9019\u6a23\u6328\u4e86\u597d\u5e7e\u9813\u6253\u3002",
+        "health": 4,
+        "id": "GVG_018",
+        "name": "\u82e6\u75db\u4ed5\u5973",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u6b64\u624b\u4e0b\u9020\u6210\u50b7\u5bb3\uff0c\u4f7f\u4f60\u7684\u82f1\u96c4\u6062\u5fa9\u7b49\u91cf\u7684\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u300c\u5982\u679c\u6211\u5011\u628a\u69cd\u7832\u88dd\u4e0a\u53bb\u6703\u600e\u6a23?\u300d-\u83f2\u8332\u5e03\u91cc\u8328\u5c0d\u8457\u8718\u86db\u578b\u904b\u8f38\u5de5\u5177\u5982\u662f\u8aaa\u3002",
+        "health": 4,
+        "id": "GVG_044",
+        "name": "\u8718\u86db\u5766\u514b",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Anton Zemskov",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u6700\u8fd1\u8840\u8272\u5341\u5b57\u8ecd\u5728\u505a\u5e02\u5834\u8abf\u67e5\uff0c\u770b\u770b\u63db\u500b\u984f\u8272\u80fd\u4e0d\u80fd\u66f4\u5bb9\u6613\u62db\u4eba\u3002",
+        "health": 3,
+        "id": "GVG_101",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u8840\u8272\u6de8\u5316\u8005",
+        "playerClass": "Paladin",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u5c0d\u5168\u90e8\u6709<b>\u6b7b\u4ea1\u4e4b\u8072</b>\u7684\u624b\u4e0b\u9020\u62102\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_060e",
+        "name": "\u88dd\u5099\u7cbe\u826f",
+        "playerClass": "Paladin",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 0,
+        "collectible": true,
+        "cost": 0,
+        "flavor": "\u9019\u500b\u5047\u4eba\u7684\u982d\u4e0a\u8cbc\u8457\u4e00\u5f35\u7d19\u689d\uff0c\u4e0a\u9762\u5beb\u8457:\u300c\u6253\u6211\u554a!\u300d",
+        "health": 2,
+        "id": "GVG_093",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\u8a13\u7df4\u5047\u4eba",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u9019\u4e9b\u82f1\u52c7\u7684\u5730\u7cbe\u58eb\u5175\u5011\u5df2\u7d93\u6e96\u5099\u597d\u8981\u56de\u5230\u4ed6\u5011\u88ab\u8f3b\u5c04\u6c59\u67d3\u3001\u6392\u6c34\u7cfb\u7d71\u5dee\u52c1\u7684\u5bb6\u5712\u4e86!",
+        "health": 4,
+        "id": "GVG_098",
+        "mechanics": [
+            "Charge",
+            "Taunt"
+        ],
+        "name": "\u8afe\u59c6\u745e\u6839\u6b65\u5175",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u885d\u92d2</b>\n<b>\u5632\u8af7</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "PART_001e",
+        "name": "\u8b77\u7532\u5f37\u5316",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u751f\u547d\u503c",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_001",
+        "name": "\u8b77\u7532\u7247",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b+1\u751f\u547d\u503c",
+        "type": "Spell"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5b83\u53ea\u76f8\u4fe1\u5b83\u7684\u7a0b\u5f0f\u78bc\u4e2d\u8981\u5b83\u76f8\u4fe1\u7684\u4e8b\u60c5!",
+        "health": 2,
+        "id": "GVG_058",
+        "mechanics": [
+            "Divine Shield"
+        ],
+        "name": "\u8b77\u76fe\u5c0f\u6a5f\u5668\u4eba",
+        "playerClass": "Paladin",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u8056\u76fe\u8853</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u64da\u8aaa\u8cbb\u502b\u6bcf\u5929\u8981\u6536\u5230\u5e7e\u767e\u5c01\u5e0c\u671b\u4ed6\u7684\u795d\u798f\u80fd\u505a\u6210\u8b77\u8eab\u7b26\u7684\u8acb\u6c42\u3002",
+        "id": "GVG_010",
+        "name": "\u8cbb\u502b\u7684\u795d\u798f",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b+2/+4\u53ca<b>\u6cd5\u8853\u50b7\u5bb3+1</b>",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_010b",
+        "name": "\u8cbb\u502b\u7684\u795d\u798f",
+        "set": "Goblins vs Gnomes",
+        "text": "+2/+4\u53ca<b>\u6cd5\u8853\u50b7\u5bb3+1</b>",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Wei Wang",
+        "attack": 5,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u52a0\u91cc\u7dad\u514b\u65af\u76f8\u4fe1\u4f9b\u9700\u6cd5\u5247\u3002\u4ed6\u63d0\u4f9b\u4e00\u9813\u98fd\u6253\uff0c\u4f46\u9700\u8981\u4f60\u652f\u4ed8\u4ed6\u8eca\u99ac\u8cbb!",
+        "health": 8,
+        "id": "GVG_028",
+        "name": "\u8cbf\u6613\u89aa\u738b\u52a0\u91cc\u7dad\u514b\u65af",
+        "playerClass": "Rogue",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u5c0d\u624b\u65bd\u653e\u6cd5\u8853\uff0c\u4fbf\u7372\u5f97\u4e00\u5f35\u540c\u6a23\u7684\u6cd5\u8853\u4e26\u7d66\u4ed6\u4e00\u679a\u786c\u5e63",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u5728\u4e00\u500b\u91ce\u7378\u88ab\u6bba\u6b7b\u5f8c\u6c92\u5e7e\u5206\u9418\u5c31\u91cd\u65b0\u51fa\u73fe\u7684\u4e16\u754c\u7576\u7375\u4eba\uff0c\u771f\u4e0d\u77e5\u9053\u8a72\u8aaa\u5e78\u9084\u662f\u4e0d\u5e78\u3002",
+        "health": 3,
+        "id": "GVG_120",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u8d6b\u7c73\u7279\u00b7\u5948\u8f9b\u74e6\u91cc",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u6467\u6bc0\u4e00\u96bb\u91ce\u7378",
+        "type": "Minion"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "attack": 7,
+        "collectible": true,
+        "cost": 8,
+        "flavor": "\u5728\u5854\u7d0d\u5229\u65af\u6709\u4e00\u9593\u5c08\u9580\u88fd\u9020\u8d85\u80fd\u5766\u514b\u7684\u8ecd\u5de5\u5ee0\uff0c\u53ea\u88fd\u9020\u51fa\u5169\u53f0\u5c31\u56e0\u70ba\u56b4\u91cd\u8d85\u652f\u800c\u505c\u7522\u4e86\u3002",
+        "health": 7,
+        "id": "GVG_079",
+        "mechanics": [
+            "Divine Shield"
+        ],
+        "name": "\u8d85\u80fd\u5766\u514b\u9ea5\u514b\u65af",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u8056\u76fe\u8853</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_123e",
+        "mechanics": [
+            "Spellpower"
+        ],
+        "name": "\u8d85\u983b",
+        "playerClass": "Mage",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6cd5\u8853\u50b7\u5bb3+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Phroilan Gardner",
+        "attack": 2,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u4ed6\u5f88\u4eab\u53d7\u65b0\u5175\u8aa0\u60f6\u8aa0\u6050\u4f86\u8ddf\u4ed6\u62ff\u88dd\u5099\u7684\u611f\u89ba\u3002\u4e8b\u5be6\u4e0a\uff0c\u662f\u6709\u9ede\u4eab\u53d7\u904e\u982d\u4e86\u3002",
+        "health": 5,
+        "id": "GVG_060",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u8ecd\u9700\u5b98",
+        "playerClass": "Paladin",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4f60\u7684\u767d\u9280\u4e4b\u624b\u65b0\u5175+2/+2",
+        "type": "Minion"
+    },
+    {
+        "artist": "Warren Mahy",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u8981\u767c\u5929\u6253\u96f7\u5288\u7684\u6bd2\u8a93\u4e4b\u524d\uff0c\u60f3\u60f3\u9019\u5f35\u724c\u3002",
+        "id": "GVG_038",
+        "name": "\u8f5f\u96f7",
+        "playerClass": "Shaman",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u9020\u6210$3\u9ede\u5230$6\u9ede\u50b7\u5bb3\u3002<b>\u8d85\u8f09:</b>(1)",
+        "type": "Spell"
+    },
+    {
+        "id": "PART_007e",
+        "name": "\u8ff4\u65cb\u5200\u5203",
+        "set": "Goblins vs Gnomes",
+        "text": "+1\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_007",
+        "name": "\u8ff4\u65cb\u5200\u5203",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b+1\u653b\u64ca\u529b",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u6709\u6642\u5019\u5728\u53e4\u62c9\u5df4\u4ec0\u7af6\u6280\u5834\u7684\u5bf6\u7bb1\u88e1\u53ef\u4ee5\u627e\u5230\u4ed6\u3002",
+        "health": 1,
+        "id": "GVG_109",
+        "mechanics": [
+            "Spellpower",
+            "Stealth"
+        ],
+        "name": "\u8ff7\u4f60\u6cd5\u5e2b",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6f5b\u884c</b>\n<b>\u6cd5\u8853\u50b7\u5bb3+1</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Benjamin Zhang",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u7260\u7684\u5c41\u80a1\u4e0a\u6709\u8457\u523a\u9752\uff0c\u5beb\u8457:\u82e5\u770b\u5230\u7260\uff0c\u8acb\u9001\u56de\u83ab\u9ad8\u96f7\u3002",
+        "health": 4,
+        "id": "GVG_071",
+        "name": "\u8ff7\u8def\u7684\u9678\u884c\u9ce5",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Nutthapon Petthai",
+        "cost": 1,
+        "id": "PART_006",
+        "name": "\u9006\u5411\u958b\u95dc",
+        "set": "Goblins vs Gnomes",
+        "text": "\u628a\u4e00\u500b\u624b\u4e0b\u7684\u653b\u64ca\u529b\u53ca\u751f\u547d\u503c\u4e92\u76f8\u5c0d\u8abf",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jesper Ejsing",
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u300c\u59b3\u8ddf\u904e\u4f86\u505a\u4ec0\u9ebc?\u300d",
+        "id": "GVG_012",
+        "name": "\u90a3\u9b6f\u4e4b\u5149",
+        "playerClass": "Priest",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6062\u5fa9#3\u9ede\u751f\u547d\u503c\u3002\u82e5\u76ee\u6a19\u4ecd\u7136\u53d7\u50b7\uff0c\u53ec\u559a\u4e00\u500b\u8b77\u5149\u8005",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 3,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u4e0a\u5834\u524d\u8a18\u5f97\u5148\u79b1\u544a\u4e00\u4e0b\u3002",
+        "health": 2,
+        "id": "GVG_108",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u91cd\u7d44\u8f49\u5316\u5e2b",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u5c07\u4e00\u500b\u53cb\u65b9\u624b\u4e0b\u8b8a\u5f62\u70ba\u53e6\u4e00\u500b\u6cd5\u529b\u6d88\u8017\u76f8\u7b49\u7684\u96a8\u6a5f\u624b\u4e0b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_086e",
+        "name": "\u91cd\u88dd\u4e0a\u9663",
+        "playerClass": "Warrior",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 6,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u539f\u672c\u5b83\u5011\u7684\u6750\u6599\u662f\u6602\u8cb4\u7684\u6e90\u8cea\u7926\uff0c\u5f8c\u4f86\u5de5\u5ee0\u9077\u5230\u52a0\u57fa\u68ee\uff0c\u4e0d\u77e5\u600e\u5730\u5c31\u63db\u6210\u4e86\u4fbf\u5b9c\u7684\u9237\u85cd\u7926\u3002",
+        "health": 3,
+        "id": "GVG_062",
+        "name": "\u9237\u85cd\u5b88\u8b77\u8005",
+        "playerClass": "Paladin",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u53ec\u559a\u6a5f\u68b0\uff0c\u7372\u5f97<b>\u8056\u76fe\u8853</b>",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_048e",
+        "name": "\u92fc\u7259",
+        "playerClass": "Hunter",
+        "set": "Goblins vs Gnomes",
+        "text": "+2\u653b\u64ca\u529b",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Hideaki Takamura",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u4e0d\u8981\u8b93\u7260\u5011\u6dcb\u96e8\u3002\u5728\u5b89\u6208\u6d1b\u74b0\u5f62\u5c71\u90a3\u908a\uff0c\u93fd\u7259\u7378\u5df2\u7d93\u591a\u5230\u7121\u6cd5\u63a7\u5236\u4e86\u3002",
+        "health": 3,
+        "id": "GVG_048",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u92fc\u7259\u7378",
+        "playerClass": "Hunter",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4f60\u5176\u4ed6\u7684\u6a5f\u68b0+2\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Brian Despain",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u6a5f\u68b0\u5f88\u559c\u6b61\u5411\u4ed6\u5b78\u7fd2\uff0c\u56e0\u70ba\u4ed6\u771f\u7684\u6703\u8aaa\u6a5f\u68b0\u8a9e\u8a00\u3002\n\n01000111101001001",
+        "health": 2,
+        "id": "GVG_027",
+        "name": "\u92fc\u9435\u5e2b\u5c0a",
+        "playerClass": "Rogue",
+        "race": "Mech",
+        "rarity": "Rare",
+        "set": "Goblins vs Gnomes",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u7d50\u675f\u6642\uff0c\u8ce6\u4e88\u53e6\u4e00\u500b\u53cb\u65b9\u6a5f\u68b0+2/+2",
+        "type": "Minion"
+    },
+    {
+        "artist": "Raymond Swanland",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\u92fc\u9435\u7834\u6ec5\u90aa\u795e\u5b88\u8b77\u8457\u5967\u683c\u746a\uff0c\u800c\u4e14\u624d\u525b\u525b\u7372\u5f97\u300c\u672c\u6708\u6700\u4f73\u54e1\u5de5\u300d\u734e\u9805!",
+        "health": 5,
+        "id": "GVG_056",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u92fc\u9435\u7834\u6ec5\u90aa\u795e",
+        "playerClass": "Warrior",
+        "race": "Mech",
+        "rarity": "Legendary",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u653e\u4e00\u5f35\u5730\u96f7\u5230\u4f60\u5c0d\u624b\u7684\u724c\u5806\u4e2d\u3002\u7576\u4ed6\u62bd\u5230\u5730\u96f7\uff0c\u6703\u7206\u70b8\u4e26\u5c0d\u4ed6\u9020\u621010\u9ede\u50b7\u5bb3",
+        "type": "Minion"
+    },
+    {
+        "artist": "Nutchapol Thitinunthakorn",
+        "cost": 1,
+        "id": "PART_004",
+        "name": "\u96b1\u5f62\u529b\u5834",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8ce6\u4e88\u4e00\u500b\u53cb\u65b9\u624b\u4e0b<b>\u6f5b\u884c</b>\u76f4\u5230\u4f60\u7684\u4e0b\u4e00\u500b\u56de\u5408",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "GVG_092t",
+        "name": "\u96de",
+        "race": "Beast",
+        "set": "Goblins vs Gnomes",
+        "type": "Minion"
+    },
+    {
+        "artist": "Eva Widermann",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "elite": false,
+        "flavor": "\u5662\uff0c\u597d\u53ef\u611b\u5440!\u5443\uff0c\u5929\u554a\uff0c\u7260\u70ba\u4ec0\u9ebc\u8981\u5543\u6211\u7684\u81c9?!",
+        "health": 2,
+        "id": "GVG_030",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\u96fb\u934d\u6a5f\u68b0\u5c0f\u718a",
+        "playerClass": "Druid",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u5632\u8af7</b>\u3002<b>\u4e8c\u9078\u4e00:</b>\n+1\u653b\u64ca\u529b\u6216+1\u751f\u547d\u503c",
+        "type": "Minion"
+    },
+    {
+        "artist": "Matt Dixon",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\u4e0d\u6703\u98db\u7684\u98db\u884c\u5668\u53eb\u4ec0\u9ebc?\u4e0b\u4e00\u500b\u8cc7\u6599\u7247\u518d\u544a\u8a34\u4f60\u3002",
+        "health": 4,
+        "id": "GVG_084",
+        "mechanics": [
+            "Windfury"
+        ],
+        "name": "\u98db\u884c\u5668",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u98a8\u6012</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u9b41\u68a7\u662f\u76f8\u5c0d\u7a74\u5c45\u602a\u4f86\u8aaa\u3002\u4f60\u7684\u8a71\uff0c\u7576\u7136\u53ef\u4ee5\u53eb\u4ed6\u77ee\u51ac\u74dc\u3002",
+        "health": 5,
+        "id": "GVG_068",
+        "name": "\u9b41\u68a7\u7684\u77f3\u984e\u7a74\u5c45\u602a",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u6bcf\u7576\u4f60\u7684\u5c0d\u624b\u65bd\u653e\u6cd5\u8853\uff0c\u7372\u5f97+2\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "id": "GVG_068a",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u9b54\u6cd5\u4ee3\u8b1d",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_067a",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u9b54\u6cd5\u4ee3\u8b1d",
+        "set": "Goblins vs Gnomes",
+        "text": "\u653b\u64ca\u529b\u63d0\u9ad8",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Alex Garner",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\u9ea5\u8fea\u6587\u7684\u56de\u97f3\u4ecd\u5728\u5361\u62c9\u8d0a\u4f5c\u795f\uff0c\u6c38\u6046\u5730\u5728\u897f\u6d0b\u68cb\u8ddf\u7210\u77f3\u6230\u8a18\u4e2d\u4f5c\u5f0a\u3002",
+        "id": "GVG_005",
+        "name": "\u9ea5\u8fea\u6587\u7684\u56de\u97f3",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u8907\u88fd\u5834\u4e0a\u7684\u6bcf\u4e00\u500b\u53cb\u65b9\u624b\u4e0b\uff0c\u653e\u5230\u4f60\u7684\u624b\u724c\u88e1",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_041c",
+        "name": "\u9ed1\u6697\u5e7d\u5149",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5\u53ca<b>\u5632\u8af7</b>",
+        "type": "Enchantment"
+    },
+    {
+        "id": "GVG_041b",
+        "name": "\u9ed1\u6697\u5e7d\u5149",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "\u53ec\u559a5\u500b\u5e7d\u5149",
+        "type": "Spell"
+    },
+    {
+        "id": "GVG_041a",
+        "name": "\u9ed1\u6697\u5e7d\u5149",
+        "playerClass": "Druid",
+        "set": "Goblins vs Gnomes",
+        "text": "+5/+5\u53ca<b>\u5632\u8af7</b>",
+        "type": "Spell"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "collectible": true,
+        "cost": 6,
+        "flavor": "\u4e0d\u7528\u64d4\u5fc3\uff0c\u6211\u5011\u628a\u66ff\u9019\u5f35\u5361\u7247\u547d\u540d\u7684\u4eba\u958b\u9664\u4e86\u3002",
+        "id": "GVG_041",
+        "name": "\u9ed1\u6697\u5e7d\u5149",
+        "playerClass": "Druid",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u4e8c\u9078\u4e00:</b>\u53ec\u559a5\u500b\u5e7d\u5149\uff0c\u6216\u8ce6\u4e88\u4e00\u500b\u624b\u4e0b+5/+5\u53ca<b>\u5632\u8af7</b>",
+        "type": "Spell"
+    },
+    {
+        "artist": "Jeff Haynie",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\u5982\u679c\u4f60\u60f3\u8981\u7d44\u4e00\u526f\u81ea\u6bba\u5957\u724c\uff0c\u9019\u5f35\u5361\u7247\u8d85\u597d\u7528\u7684!",
+        "id": "GVG_015",
+        "name": "\u9ed1\u6697\u70b8\u5f48",
+        "playerClass": "Warlock",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u9020\u6210$3\u9ede\u50b7\u5bb3",
+        "type": "Spell"
+    },
+    {
+        "artist": "Trent Kaniuga",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\u904e\u4e00\u9663\u5b50\uff0c\u4f60\u770b\u5230\u7684\u5c31\u4e0d\u662f\u9f52\u8f2a\u8ddf\u6263\u93c8\uff0c\u800c\u662f\u6a5f\u5668\u4eba\u3001\u8718\u86db\u5766\u514b\u3001\u6b7b\u4ea1\u5c04\u7dda\u69cd\u7b49\u7b49\u5404\u5f0f\u5404\u6a23\u7684\u602a\u6771\u897f...",
+        "health": 2,
+        "id": "GVG_013",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u9f52\u8f2a\u5927\u5e2b",
+        "rarity": "Common",
+        "set": "Goblins vs Gnomes",
+        "text": "\u82e5\u4f60\u6709\u6a5f\u68b0\u5247\u7372\u5f97+2\u653b\u64ca\u529b",
+        "type": "Minion"
+    },
+    {
+        "artist": "Richard Wright",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "durability": 3,
+        "flavor": "\u62ff\u4f86\u9396\u9f52\u8f2a\u8ddf\u6572\u7a74\u5c45\u602a\u90fd\u540c\u6a23\u597d\u7528!",
+        "id": "GVG_024",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\u9f52\u8f2a\u5927\u5e2b\u7684\u6273\u624b",
+        "playerClass": "Rogue",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "\u82e5\u4f60\u6709\u6a5f\u68b0\u5247\u7372\u5f97+2\u653b\u64ca\u529b",
+        "type": "Weapon"
+    },
+    {
+        "artist": "Danny Orizio",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "durability": 3,
+        "flavor": "\u4f60\u8aaa\uff0c\u628a\u9019\u500b\u6771\u897f\u5f9e\u6a5f\u5668\u88e1\u626f\u51fa\u4f86\uff0c\u96d5\u4e0a\u4e00\u4e9b\u7b26\u6587\uff0c\u88dd\u4e0a\u628a\u624b\uff0c\u5c31\u8b8a\u6210\u4e86\u5f37\u5927\u7684\u795e\u8056\u6b66\u5668?\u55ef\uff0c\u807d\u8d77\u4f86\u9084\u4e0d\u8cf4\u3002",
+        "id": "GVG_059",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u9f52\u8f2a\u5de8\u9318",
+        "playerClass": "Paladin",
+        "rarity": "Epic",
+        "set": "Goblins vs Gnomes",
+        "text": "<b>\u6230\u543c:</b>\u8ce6\u4e88\u4e00\u500b\u96a8\u6a5f\u7684\u53cb\u65b9\u624b\u4e0b<b>\u8056\u76fe\u8853</b>\u53ca<b>\u5632\u8af7</b>",
+        "type": "Weapon"
+    }
+]

@@ -1,1 +1,159 @@
-[{"id":"PRO_001","name":"Chefe Tauren Elite","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>Grito de Guerra:</b> Dê aos dois jogadores o poder do ROCK! (com um card de Acorde Poderoso)","flavor":"Ele está procurando um baterista. Os canditatos até agora são: Engenheira Novata, Mestre Escudeiro de Sen'jin e Ragnaros, o Senhor do Fogo.","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"Concedido na BlizzCon 2013.","mechanics":["Battlecry"]},{"id":"PRO_001b","name":"Coisa de Ladino","set":"Promotion","type":"Spell","cost":4,"text":"Cause $4 de dano. Compre um card."},{"id":"Mekka3e","name":"Encorajado!","set":"Promotion","type":"Enchantment","text":"Atributos aumentados"},{"id":"Mekka3","name":"Encorajador 3000","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"No final do seu turno, conceda +1/+1 a um lacaio aleatório.","inPlayText":"","race":"Mech"},{"id":"PRO_001a","name":"Eu Sou Murloc","set":"Promotion","type":"Spell","cost":4,"text":"Evoca três, quatro ou cinco Murlocs 1/1."},{"id":"Mekka4t","name":"Galinha","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>Frangote!</i>","race":"Beast"},{"id":"Mekka1","name":"Galinha Teleguiada","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"No início do seu turno, destrua este lacaio e compre 3 cards.","inPlayText":"","race":"Mech"},{"id":"Mekka4","name":"Galinhaitor","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"No início do seu turno, transforme um lacaio aleatório em uma Galinha 1/1.","inPlayText":"","race":"Mech"},{"id":"EX1_112","name":"Gelbin Mekkatorque","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>Grito de Guerra:</b> Evoque uma invenção FABULOSA.","flavor":"Ele é o líder dos gnomos e um inventor incrível. E também está melhorando: ele transforma BEM menos coisas em galinhas hoje em dia.","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"Este card foi dado como recompensa aos jogadores que ajudaram a testar a Loja durante o Beta.","mechanics":["Battlecry"]},{"id":"PRO_001at","name":"Murloc","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"},{"id":"PRO_001c","name":"Poder da Horda","set":"Promotion","type":"Spell","cost":4,"text":"Evoque um Guerreiro da Horda aleatório."},{"id":"Mekka2","name":"Robô de Reparos","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"No fim do seu turno, restaure 6 de Vida de um personagem ferido.","inPlayText":"","race":"Mech"},{"id":"Mekka4e","name":"Transformado","set":"Promotion","type":"Enchantment","text":"Foi transformado em galinha!","mechanics":["Morph"]}]
+[
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "Ele est\u00e1 procurando um baterista. Os canditatos at\u00e9 agora s\u00e3o: Engenheira Novata, Mestre Escudeiro de Sen'jin e Ragnaros, o Senhor do Fogo.",
+        "health": 5,
+        "howToGetGold": "Concedido na BlizzCon 2013.",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Chefe Tauren Elite",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de Guerra:</b> D\u00ea aos dois jogadores o poder do ROCK! (com um card de Acorde Poderoso)",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "Coisa de Ladino",
+        "set": "Promotion",
+        "text": "Cause $4 de dano. Compre um card.",
+        "type": "Spell"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "Encorajado!",
+        "set": "Promotion",
+        "text": "Atributos aumentados",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "Encorajador 3000",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "No final do seu turno, conceda +1/+1 a um lacaio aleat\u00f3rio.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "Eu Sou Murloc",
+        "set": "Promotion",
+        "text": "Evoca tr\u00eas, quatro ou cinco Murlocs 1/1.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "Galinha",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>Frangote!</i>",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "Galinha Teleguiada",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "No in\u00edcio do seu turno, destrua este lacaio e compre 3 cards.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "Galinhaitor",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "No in\u00edcio do seu turno, transforme um lacaio aleat\u00f3rio em uma Galinha 1/1.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "Ele \u00e9 o l\u00edder dos gnomos e um inventor incr\u00edvel. E tamb\u00e9m est\u00e1 melhorando: ele transforma BEM menos coisas em galinhas hoje em dia.",
+        "health": 6,
+        "howToGetGold": "Este card foi dado como recompensa aos jogadores que ajudaram a testar a Loja durante o Beta.",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "Gelbin Mekkatorque",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>Grito de Guerra:</b> Evoque uma inven\u00e7\u00e3o FABULOSA.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "Murloc",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "Poder da Horda",
+        "set": "Promotion",
+        "text": "Evoque um Guerreiro da Horda aleat\u00f3rio.",
+        "type": "Spell"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "Rob\u00f4 de Reparos",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "No fim do seu turno, restaure 6 de Vida de um personagem ferido.",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Transformado",
+        "set": "Promotion",
+        "text": "Foi transformado em galinha!",
+        "type": "Enchantment"
+    }
+]

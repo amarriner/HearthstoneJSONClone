@@ -1,1 +1,1726 @@
-[{"id":"FP1_001","name":"간식용 좀비","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":2,"health":3,"text":"<b>죽음의 메아리:</b> 적 영웅의 생명력을 5 회복시킵니다.","flavor":"오늘은 내가 좀비 요리사!","artist":"E. M. Gist","collectible":true,"howToGet":"피조물 지구의 글루스를 쓰러뜨려 잠금 해제","howToGetGold":"피조물 지구의 글루스를 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX10_02H","name":"갈고리","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":4,"durability":8,"text":"<b>질풍</b>\n<b>죽음의 메아리:</b> 이 무기 카드를 내 손으로 가져옵니다.","mechanics":["Deathrattle","Windfury"]},{"id":"NAX10_02","name":"갈고리","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":5,"durability":8,"text":"<b>죽음의 메아리:</b> 이 무기 카드를 내 손으로 가져옵니다.","mechanics":["Deathrattle"]},{"id":"NAX6_02H","name":"강령술의 오라","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적 영웅에게 피해를 3 줍니다."},{"id":"FP1_030e","name":"강령술의 오라","set":"Curse of Naxxramas","type":"Enchantment","text":"이번 턴에 주문의 비용이 (5) 증가"},{"id":"NAX6_02","name":"강령술의 오라","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n적 영웅에게 피해를 3 줍니다."},{"id":"NAX7_04H","name":"거대한 룬검","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":10,"durability":2,"text":"영웅에게 피해를 2배 줍니다."},{"id":"NAX7_04","name":"거대한 룬검","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":5,"durability":2,"text":"영웅에게 피해를 2배 줍니다."},{"id":"NAX3_02","name":"거미줄 감싸기","set":"Curse of Naxxramas","type":"Hero Power","cost":3,"text":"<b>영웅 능력</b>\n무작위 적 하수인 하나를 상대편의 손으로 돌려보냅니다."},{"id":"NAX3_02H","name":"거미줄 감싸기","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n무작위 적 하수인 둘을 상대편의 손으로 돌려보냅니다."},{"id":"NAX12_04e","name":"격노","set":"Curse of Naxxramas","type":"Enchantment","text":"이번 턴에 공격력 +6","mechanics":["OneTurnEffect"]},{"id":"NAX12_04","name":"격노","set":"Curse of Naxxramas","type":"Spell","cost":3,"text":"이번 턴에 내 영웅에게 공격력을 +6 부여합니다."},{"id":"FP1_003","name":"고동치는 수액괴물","set":"Curse of Naxxramas","type":"Minion","rarity":"Epic","cost":2,"attack":1,"health":2,"text":"<b>전투의 함성:</b> 턴이 끝날 때, 이 하수인을 복사합니다.","flavor":"끈적... 끈적... 끈적...","artist":"Eric Browning","collectible":true,"howToGet":"서리고룡 둥지의 사피론을 쓰러뜨려 잠금 해제","howToGetGold":"서리고룡 둥지의 사피론을 쓰러뜨린 후 제작 가능","mechanics":["Battlecry"]},{"id":"FP1_022","name":"공허소환사","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":4,"attack":3,"health":4,"text":"<b>죽음의 메아리:</b> 내 손의 무작위 악마 하나를 전장에 놓습니다.","flavor":"산 자와 죽은 자들의 세계를 이어줍니다.","artist":"Robb Shoberg","collectible":true,"race":"Demon","playerClass":"Warlock","howToGet":"낙스라마스의 흑마법사 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 흑마법사 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX2_01","name":"귀부인 팰리나","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX2_01H","name":"귀부인 팰리나","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX11_01H","name":"그라불루스","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX11_01","name":"그라불루스","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_011","name":"그물거미","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":1,"text":"<b>죽음의 메아리:</b> 무작위 야수 카드 1장을 손으로 가져옵니다.","flavor":"거미 고치는 마치 작은 피냐타 같습니다! 귀여워라!","artist":"Dan Brereton","collectible":true,"race":"Beast","playerClass":"Hunter","howToGet":"낙스라마스의 사냥꾼 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 사냥꾼 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX13_02e","name":"극성","set":"Curse of Naxxramas","type":"Enchantment","text":"공격력과 생명력 바뀜"},{"id":"NAX13_02","name":"극성 변환","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n<b>모든</b> 하수인의 공격력과 생명력을 바꿉니다."},{"id":"NAX12_01H","name":"글루스","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX12_01","name":"글루스","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX9_07","name":"기사단의 징표","set":"Curse of Naxxramas","type":"Spell","cost":5,"text":"내 하수인들과 무기에 +1/+1을 부여합니다."},{"id":"NAX9_07e","name":"기사단의 징표","set":"Curse of Naxxramas","type":"Enchantment","text":"+1/+1"},{"id":"FP1_019t","name":"나무정령","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2,"playerClass":"Druid"},{"id":"FP1_005","name":"낙스라마스의 망령","set":"Curse of Naxxramas","type":"Minion","rarity":"Epic","cost":3,"attack":2,"health":2,"text":"<b>은신.</b> 내 턴이 시작될 때, +1/+1을 얻습니다.","flavor":"전설도 아니면서 그룰보다 높은 생존력을 자랑합니다.","artist":"Ittoku Seta","collectible":true,"howToGet":"서리고룡 둥지의 켈투자드를 쓰러뜨려 잠금 해제","howToGetGold":"서리고룡 둥지의 켈투자드를 쓰러뜨린 후 제작 가능","mechanics":["Stealth"]},{"id":"NAX9_01H","name":"남작 리븐데어","set":"Curse of Naxxramas","type":"Hero","health":14},{"id":"NAX9_01","name":"남작 리븐데어","set":"Curse of Naxxramas","type":"Hero","health":7},{"id":"FP1_031","name":"남작 리븐데어","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":4,"attack":1,"health":7,"text":"내 하수인들의 <b>죽음의 메아리</b> 능력이 2번 발동됩니다.","flavor":"원래 켈투자드를 지키는 건 5인 기사단이었지만, 한 명은 밤낮 없는 격무에 진절머리를 내며 근무 시간과 복지 혜택이 좋은 죽음의 폐광 경비병으로 이직했습니다.","artist":"Ralph Horsley","collectible":true,"elite":true,"howToGet":"군사 지구를 완료하여 잠금 해제","howToGetGold":"군사 지구를 완료한 후 제작 가능","mechanics":["Aura"]},{"id":"NAX14_02","name":"냉기 숨결","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n<b>빙결</b> 상태가 아닌 모든 적 하수인을 처치합니다."},{"id":"NAX15_02","name":"냉기 작렬","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적 영웅에게 피해를 2 주고 <b>빙결</b>시킵니다.","mechanics":["Freeze"]},{"id":"NAX15_02H","name":"냉기 작렬","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적 영웅에게 피해를 3 주고 <b>빙결</b>시킵니다.","mechanics":["Freeze"]},{"id":"NAX1_03","name":"네루비안","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":3,"health":1},{"id":"FP1_007t","name":"네루비안","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":3,"attack":4,"health":4},{"id":"NAX1h_03","name":"네루비안","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":4,"health":4},{"id":"FP1_007","name":"네루비안 알","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":2,"attack":0,"health":2,"text":"<b>죽음의 메아리:</b> 4/4 네루비안을 하나 소환합니다.","flavor":"네루비안 알은 좋은 단백질 공급원이죠.","artist":"Justin Thavirat","collectible":true,"howToGet":"거미 지구의 맥스나를 쓰러뜨려 잠금 해제","howToGetGold":"거미 지구의 맥스나를 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle"]},{"id":"FP1_017","name":"네룹아르 그물군주","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":4,"text":"<b>전투의 함성</b> 능력을 가진 하수인의 비용이 (2) 증가합니다.","flavor":"그물군주들은 하루 종일 거대한 트램펄린을 만들며 시간을 보낸답니다.","artist":"Alex Horley Orlandelli","collectible":true,"howToGet":"거미 지구의 귀부인 팰리나를 쓰러뜨려 잠금 해제","howToGetGold":"거미 지구의 귀부인 팰리나를 쓰러뜨린 후 제작 가능","mechanics":["Aura"]},{"id":"NAX11_02H","name":"독구름","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n 모든 적에게 피해를 2 줍니다. 만약 하나라도 죽으면 독액괴물을 소환합니다."},{"id":"NAX11_02","name":"독구름","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n<b>모든</b> 하수인에게 피해를 1 줍니다. 만약 하나라도 죽으면 독액괴물을 소환합니다."},{"id":"FP1_019","name":"독성 씨앗","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":4,"text":"<b>모든</b> 하수인을 처치하고 2/2 나무정령으로 교체합니다.","flavor":"우리 아제로스 푸르게 푸르게","artist":"Brian Despain","collectible":true,"playerClass":"Druid","howToGet":"낙스라마스의 드루이드 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스 드루이드 직업 도전 과제를 완료한 후 제작 가능"},{"id":"FP1_027","name":"돌가죽 가고일","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":1,"health":4,"text":"내 턴이 시작될 때, 이 하수인은 생명력을 모두 회복합니다.","flavor":"특기: 얼음땡","artist":"Matt Smith","collectible":true,"howToGet":"역병 지구의 역병술사 노스를 쓰러뜨려 잠금 해제","howToGetGold":"역병 지구의 역병술사 노스를 쓰러뜨린 후 제작 가능"},{"id":"NAX11_04","name":"돌연변이 유발","set":"Curse of Naxxramas","type":"Spell","cost":3,"text":"하수인 하나에게 <b>도발</b>과 +4/+4를 부여합니다."},{"id":"NAX11_04e","name":"돌연변이 유발","set":"Curse of Naxxramas","type":"Enchantment","text":"<b>도발</b>, +4/+4"},{"id":"NAX1_04","name":"땅거미","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n3/1 네루비안 하나를 소환합니다."},{"id":"NAX1h_04","name":"땅거미","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n4/4 네루비안 하나를 소환합니다."},{"id":"FP1_030","name":"로데브","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>전투의 함성:</b> 다음 턴에 적이 쓰는 주문의 비용이 (5) 증가합니다.","flavor":"평범한 수렁 괴물 로데브, 몸에서 버섯 재배 수확 '충격'","artist":"Samwise","collectible":true,"elite":true,"howToGet":"역병 지구를 완료하여 잠금 해제","howToGetGold":"역병 지구를 완료한 후 제작 가능","mechanics":["Battlecry"]},{"id":"NAX6_01H","name":"로데브","set":"Curse of Naxxramas","type":"Hero","health":99},{"id":"NAX6_01","name":"로데브","set":"Curse of Naxxramas","type":"Hero","health":75},{"id":"NAX9_05H","name":"룬검","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":2,"durability":3,"text":"다른 기사들이 모두 죽으면 공격력을 +6 얻습니다."},{"id":"NAX9_05","name":"룬검","set":"Curse of Naxxramas","type":"Weapon","cost":3,"attack":1,"durability":3,"text":"다른 기사들이 모두 죽으면 공격력을 +3 얻습니다."},{"id":"NAX3_01","name":"맥스나","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_010","name":"맥스나","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":6,"attack":2,"health":8,"text":"이 하수인에게 피해를 입은 하수인은 무조건 죽습니다.","flavor":"맥스나는 사람들이 자신을 \"맵시나\"라고 부르는 걸 싫어합니다.","artist":"Howard Lyon","collectible":true,"elite":true,"race":"Beast","howToGet":"거미 지구를 완료하여 잠금 해제","howToGetGold":"거미 지구를 완료한 후 제작 가능","mechanics":["Poisonous"]},{"id":"NAX3_01H","name":"맥스나","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX1_05","name":"메뚜기 떼","set":"Curse of Naxxramas","type":"Spell","cost":7,"text":"모든 적 하수인에게 피해를 $3 줍니다. 내 영웅의 생명력을 #3 회복시킵니다."},{"id":"NAX8_03","name":"무자비한 수련생","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2,"text":"<b>죽음의 메아리:</b> 상대편에게 유령 수련생 하나를 소환해 줍니다.","mechanics":["Deathrattle"]},{"id":"NAX8_04","name":"무자비한 전사","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":3,"health":4,"text":"<b>죽음의 메아리:</b> 상대편에게 유령 전사 하나를 소환해 줍니다.","mechanics":["Deathrattle"]},{"id":"NAX8_05","name":"무자비한 죽음의 기병","set":"Curse of Naxxramas","type":"Minion","cost":6,"attack":5,"health":6,"text":"<b>죽음의 메아리:</b> 상대편에게 유령 기병 하나를 소환해 줍니다.","mechanics":["Deathrattle"]},{"id":"FP1_004","name":"미치광이 과학자","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":2,"health":2,"text":"<b>죽음의 메아리:</b> 덱에 있는 <b>비밀</b> 카드 1장을 사용합니다.","flavor":"어머니는 마법사나 흑마법사가 되길 바랐지만, 그는 결국 아버지의 뒤를 이어 과학자가 되었답니다.","artist":"James Ryman","collectible":true,"howToGet":"피조물 지구의 그라불루스를 쓰러뜨려 잠금 해제","howToGetGold":"피조물 지구의 그라불루스를 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle"]},{"id":"FP1_020e","name":"복수","set":"Curse of Naxxramas","type":"Enchantment","text":"+3/+2","playerClass":"Paladin"},{"id":"FP1_018","name":"복제","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":3,"text":"<b>비밀:</b> 아군 하수인이 죽으면, 그 하수인 카드 2장을 내 손으로 가져옵니다.","flavor":"카드를 복사해도 계정 정지를 피할 수 있는 유일한 기회입니다!","artist":"Alex Garner","collectible":true,"playerClass":"Mage","howToGet":"낙스라마스의 마법사 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 마법사 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Secret"]},{"id":"NAX9_06","name":"부정의 그림자","set":"Curse of Naxxramas","type":"Hero Power","cost":5,"text":"<b>영웅 능력</b>\n카드를 2장 뽑습니다."},{"id":"NAX5_01H","name":"부정의 헤이건","set":"Curse of Naxxramas","type":"Hero","health":45,"playerClass":"Warlock"},{"id":"NAX5_01","name":"부정의 헤이건","set":"Curse of Naxxramas","type":"Hero","health":30,"playerClass":"Warlock"},{"id":"NAX3_03","name":"부패의 독","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"하수인 하나를 처치합니다."},{"id":"NAX5_02H","name":"분출","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n가장 왼쪽에 있는 적 하수인에게 피해를 3 줍니다."},{"id":"NAX5_02","name":"분출","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>영웅 능력</b>\n가장 왼쪽에 있는 적 하수인에게 피해를 2 줍니다."},{"id":"FP1_024","name":"불안정한 구울","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":3,"text":"<b>도발</b>. <b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 1 줍니다.","flavor":"요즘 강령술사 학교에서 잘 나가는 애들은 자신의 구울을 로켓 연료로 채우곤 한답니다.","artist":"Mike Nicholson","collectible":true,"howToGet":"역병 지구의 부정의 헤이건을 쓰러뜨려 잠금 해제","howToGetGold":"역병 지구의 부정의 헤이건을 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle","Taunt"]},{"id":"NAX2_03","name":"불의 비","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n상대편의 손에 있는 카드 수만큼 화살을 발사합니다.","mechanics":["ImmuneToSpellpower"]},{"id":"NAX2_03H","name":"불의 비","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>영웅 능력</b>\n상대편의 손에 있는 카드 수만큼 화살을 발사합니다.","mechanics":["ImmuneToSpellpower"]},{"id":"NAX15_05","name":"비글스워스 씨","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":0,"attack":1,"health":1,"text":"<i>켈투자드가 기르는 고양이입니다.</i>","elite":true,"race":"Beast"},{"id":"NAX15_04H","name":"사슬","set":"Curse of Naxxramas","type":"Hero Power","cost":8,"text":"<b>영웅 능력</b>\n무작위 적 하수인 하나를 우리편으로 만듭니다."},{"id":"NAX15_04","name":"사슬","set":"Curse of Naxxramas","type":"Hero Power","cost":8,"text":"<b>영웅 능력</b>\n무작위 적 하수인 하나를 이번 턴에만 우리편으로 만듭니다."},{"id":"NAX14_01","name":"사피론","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX14_01H","name":"사피론","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX7_02","name":"수습생","set":"Curse of Naxxramas","type":"Minion","cost":2,"attack":0,"health":7,"text":"<b>도발</b>","mechanics":["Taunt"]},{"id":"FP1_012t","name":"수액괴물","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":2,"text":"<b>도발</b>","mechanics":["Taunt"]},{"id":"NAX14_04","name":"순수한 추위","set":"Curse of Naxxramas","type":"Spell","cost":5,"text":"적 영웅에게 피해를 $8 주고 <b>빙결</b>시킵니다.","mechanics":["Freeze"]},{"id":"NAX2_05","name":"숭배자","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":4,"text":"내 턴에 내 영웅의 공격력이 +1 증가합니다.","mechanics":["Aura"]},{"id":"NAX2_05H","name":"숭배자","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":4,"text":"내 턴에 내 영웅의 공격력이 +3 증가합니다.","mechanics":["Aura"]},{"id":"FP1_014","name":"스탈라그","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":7,"health":4,"text":"<b>죽음의 메아리:</b> 만약 퓨진이 죽은 상태라면 타디우스를 소환합니다.","flavor":"\"스탈라그 잘생겼다!\" (스탈라그가 쓴 거 아님)","artist":"Dany Orizio","collectible":true,"elite":true,"howToGet":"피조물 지구를 완료하여 잠금 해제","howToGetGold":"피조물 지구를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX13_05H","name":"스탈라그","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":7,"health":4,"elite":true},{"id":"NAX4_04H","name":"시체 되살리기","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적이 죽을 때마다 5/5 해골을 하나 소환합니다."},{"id":"NAX4_04","name":"시체 되살리기","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적이 죽을 때마다 1/1 해골을 하나 소환합니다."},{"id":"FP1_012","name":"썩은위액 누더기골렘","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":5,"attack":3,"health":5,"text":"<b>도발.\n죽음의 메아리:</b> <b>도발</b> 능력을 가진 1/2 수액괴물을 1마리 소환합니다.","flavor":"주의: 맥주를 주지 마시오.","artist":"Nate Bowden","collectible":true,"howToGet":"역병 지구의 로데브를 쓰러뜨려 잠금 해제","howToGetGold":"역병 지구의 로데브를 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle","Taunt"]},{"id":"NAX12_03H","name":"아귀","set":"Curse of Naxxramas","type":"Weapon","cost":1,"attack":3,"durability":5,"text":"<b>죽음의 메아리</b> 능력을 가진 하수인이 죽을 때마다 공격력을 +2 얻습니다."},{"id":"NAX12_03","name":"아귀","set":"Curse of Naxxramas","type":"Weapon","cost":1,"attack":1,"durability":5,"text":"<b>죽음의 메아리</b> 능력을 가진 하수인이 죽을 때마다 공격력을 +2 얻습니다."},{"id":"NAX1h_01","name":"아눕레칸","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX1_01","name":"아눕레칸","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_026","name":"아눕아르 복병","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":4,"attack":5,"health":5,"text":"<b>죽음의 메아리:</b> 무작위 아군 하수인 하나를 내 손으로 다시 가져옵니다.","flavor":"본래 이름은 \"하수인을 손으로 가져오는 아눕아르 뭐시기\"였습니다.","artist":"Nate Bowden","collectible":true,"playerClass":"Rogue","howToGet":"낙스라마스의 도적 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 도적 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"FP1_020","name":"앙갚음","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":1,"text":"<b>비밀:</b> 내 하수인 중 하나가 죽으면, 무작위 아군 하수인 하나에게 +3/+2를 부여합니다.","flavor":"어쩐지 성기사의 하수인들은 서로 더 친한 것 같더니만...","artist":"Zoltan & Gabor","collectible":true,"playerClass":"Paladin","howToGet":"낙스라마스의 성기사 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 성기사 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Secret"]},{"id":"FP1_028e","name":"어둠의 부름","set":"Curse of Naxxramas","type":"Enchantment","text":"능력치 증가"},{"id":"FP1_023","name":"어둠의 이교도","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":3,"health":4,"text":"<b>죽음의 메아리:</b> 무작위 아군 하수인 하나에게 생명력을 +3 부여합니다.","flavor":"저주받은 자들의 교단은 새로운 이교도를 모집할 때 교단의 이름을 밝히지 않는 편이 낫다는 걸 깨달았습니다.","artist":"Phroilan Gardner","collectible":true,"playerClass":"Priest","howToGet":"낙스라마스의 사제 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스에서 사제 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX14_03","name":"얼어붙은 용사","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":2,"health":10,"text":"영구 빙결. 양옆의 하수인들이 냉기 숨결에 면역이 됩니다.","mechanics":["Aura"]},{"id":"NAX15_03t","name":"얼음왕관의 수호자","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":5,"health":5,"text":"<b>도발</b>","mechanics":["Taunt"]},{"id":"NAX15_03n","name":"얼음왕관의 수호자","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":3,"health":3,"text":"<b>도발</b>","mechanics":["Taunt"]},{"id":"NAX9_02H","name":"여군주 블라미우스","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"NAX9_02","name":"여군주 블라미우스","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"NAX4_05","name":"역병","set":"Curse of Naxxramas","type":"Spell","cost":6,"text":"해골을 제외한 <b>모든</b> 하수인을 처치합니다."},{"id":"NAX4_01","name":"역병술사 노스","set":"Curse of Naxxramas","type":"Hero","health":30,"playerClass":"Mage"},{"id":"NAX4_01H","name":"역병술사 노스","set":"Curse of Naxxramas","type":"Hero","health":45,"playerClass":"Mage"},{"id":"NAX9_03","name":"영주 코스아즈","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"NAX9_03H","name":"영주 코스아즈","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"NAX8_01H","name":"영혼 착취자 고딕","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX8_01","name":"영혼 착취자 고딕","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_016","name":"울부짖는 영혼","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":4,"attack":3,"health":5,"text":"<b>전투의 함성:</b> 내 다른 하수인들을 <b>침묵</b>시킵니다.","flavor":"정말 쉬지도 않고 계속 울부짖네요. 영혼아. 밥은 먹고 다니니?","artist":"Glenn Rane","collectible":true,"howToGet":"피조물 지구의 타디우스를 쓰러뜨려 잠금 해제","howToGetGold":"피조물 지구의 타디우스를 쓰러뜨린 후 제작 가능","mechanics":["Battlecry"]},{"id":"FP1_002t","name":"유령 거미","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":1},{"id":"NAX8_05t","name":"유령 기병","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":0,"health":6,"text":"내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다."},{"id":"FP1_008","name":"유령 기사","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":5,"attack":4,"health":6,"text":"이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다.","flavor":"요정용과 유령 기사의 공통점이 뭐냐고요? 음... 둘 다 파스타를 좋아한다는 거?","artist":"Chris Rahn","collectible":true,"howToGet":"군사 지구의 영혼 착취자 고딕을 쓰러뜨려 잠금 해제","howToGetGold":"군사 지구의 영혼 수확자 고딕을 쓰러뜨린 후 제작 가능"},{"id":"FP1_002","name":"유령 들린 거미","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":2,"attack":1,"health":2,"text":"<b>죽음의 메아리:</b> 1/1 유령 거미를 2마리 소환합니다.","flavor":"여기에 쓸 거미에 대한 내용을 찾다보니 거미 공포증에 걸린 것 같습니다...","artist":"Jeremy Cranford","collectible":true,"race":"Beast","howToGet":"거미 지구의 아눕레칸을 쓰러뜨려 잠금 해제","howToGetGold":"거미 지구의 아눕레칸을 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX8_03t","name":"유령 수련생","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":0,"health":2,"text":"내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다."},{"id":"NAX8_04t","name":"유령 전사","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":0,"health":4,"text":"내 턴이 시작될 때, 내 영웅에게 피해를 1 줍니다."},{"id":"FP1_025","name":"윤회","set":"Curse of Naxxramas","type":"Spell","rarity":"Common","cost":2,"text":"하수인을 하나 처치하고, 그 하수인을 최대 생명력으로 부활시킵니다.","flavor":"여러분, 술사님 윤회 있으시답니다. 뛰지 마세요.","artist":"Dan Scott","collectible":true,"playerClass":"Shaman","howToGet":"낙스라마스의 주술사 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 주술사 직업 도전 과제를 완료한 후 제작 가능"},{"id":"NAX12_03e","name":"이빨 추가","set":"Curse of Naxxramas","type":"Enchantment","text":"공격력 증가"},{"id":"FP1_028","name":"장의사","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":1,"attack":1,"health":2,"text":"내가 <b>죽음의 메아리</b> 능력을 가진 하수인을 소환할 때마다 공격력을 +1 얻습니다.","flavor":"영혼의 치유사에게 뛰어가서 바로 부활할 수 있는 아제로스에서 장의사들은 별로 할 일이 없답니다.","artist":"Jonboy Meyers","collectible":true,"howToGet":"피조물 지구의 패치워크를 쓰러뜨려 잠금 해제","howToGetGold":"피조물 지구의 패치워크를 쓰러뜨린 후 제작 가능"},{"id":"NAX5_03","name":"정신 대재앙","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"두 플레이어 모두 카드를 2장 뽑고 마나 수정을 하나 획득합니다."},{"id":"NAX7_05","name":"정신 지배 수정","set":"Curse of Naxxramas","type":"Spell","cost":1,"text":"수정을 조작하여 수습생을 조종하십시오!"},{"id":"NAX9_04H","name":"젤리에크 경","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":2,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"NAX9_04","name":"젤리에크 경","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":1,"health":7,"text":"내 영웅이 <b>피해 면역</b> 상태가 됩니다.","elite":true},{"id":"FP1_006","name":"죽음의 군마","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":3,"text":"<b>돌진. 죽음의 메아리:</b> 내 영웅에게 피해를 3 줍니다.","mechanics":["Charge","Deathrattle"]},{"id":"FP1_009","name":"죽음의 군주","set":"Curse of Naxxramas","type":"Minion","rarity":"Rare","cost":3,"attack":2,"health":8,"text":"<b>도발. 죽음의 메아리:</b> 상대편이 덱에 있는 하수인 하나를 전장에 놓습니다.","flavor":"\"무덤에서 일어나라!\" - 켈투자드","artist":"Ben Olson","collectible":true,"howToGet":"군사 지구의 4인 기사단을 쓰러뜨려 잠금 해제","howToGetGold":"군사 지구의 4인 기사단을 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle","Taunt"]},{"id":"NAX6_03","name":"죽음의 꽃","set":"Curse of Naxxramas","type":"Spell","cost":4,"text":"하수인 하나에게 피해를 5 줍니다. 포자를 하나 소환합니다."},{"id":"NAX11_03","name":"죽음의 독액괴물","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":2,"health":2},{"id":"FP1_021","name":"죽음의 이빨","set":"Curse of Naxxramas","type":"Weapon","rarity":"Common","cost":4,"attack":4,"durability":2,"text":"<b>죽음의 메아리:</b> 이 무기가 파괴될 때, <b>모든</b> 하수인에게 피해를 1 줍니다.","flavor":"이를 닦을 때는 반드시 혀도 닦으세요!!","artist":"Jim Nelson","collectible":true,"playerClass":"Warrior","howToGet":"낙스라마스의 전사 직업 도전 과제를 완료하여 잠금 해제","howToGetGold":"낙스라마스의 전사 직업 도전 과제를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX10_03","name":"증오의 일격","set":"Curse of Naxxramas","type":"Hero Power","cost":4,"text":"<b>영웅 능력</b>\n하수인을 하나 처치합니다."},{"id":"NAX10_03H","name":"증오의 일격","set":"Curse of Naxxramas","type":"Hero Power","cost":4,"text":"<b>영웅 능력</b>\n하수인을 하나 처치합니다."},{"id":"FP1_023e","name":"지구라트의 힘","set":"Curse of Naxxramas","type":"Enchantment","text":"생명력 +3","playerClass":"Priest"},{"id":"NAX6_03te","name":"진균 번식","set":"Curse of Naxxramas","type":"Enchantment","text":"공격력 증가"},{"id":"NAX8_02","name":"착취","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n카드를 1장 뽑습니다."},{"id":"NAX8_02H","name":"착취","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>영웅 능력</b>\n카드를 1장 뽑고, 마나 수정을 1개 획득합니다."},{"id":"NAX12_02H","name":"척살","set":"Curse of Naxxramas","type":"Hero Power","cost":0,"text":"<b>영웅 능력</b>\n적 하수인들의 생명력을 1로 바꿉니다."},{"id":"NAX12_02e","name":"척살","set":"Curse of Naxxramas","type":"Enchantment","text":"생명력 1로 바뀜"},{"id":"NAX12_02","name":"척살","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n<b>모든</b> 하수인의 생명력을 1로 바꿉니다."},{"id":"NAX13_03","name":"초자력 충전","set":"Curse of Naxxramas","type":"Spell","cost":2,"text":"내 하수인들에게 생명력을 +2 부여합니다."},{"id":"NAX13_03e","name":"초자력 충전","set":"Curse of Naxxramas","type":"Enchantment","text":"생명력 +2"},{"id":"FP1_029","name":"춤추는 검","set":"Curse of Naxxramas","type":"Minion","rarity":"Common","cost":3,"attack":4,"health":4,"text":"<b>죽음의 메아리:</b> 상대편이 카드를 1장 뽑습니다.","flavor":"본래 이름은 \"(레게 음악에 맞춰) 춤추는 검\"입니다.","artist":"Jon McConnell","collectible":true,"howToGet":"군사 지구의 훈련교관 라주비어스를 쓰러뜨려 잠금 해제","howToGetGold":"군사 지구의 훈련교관 라주비어스를 쓰러뜨린 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX15_01e","name":"침입자!","set":"Curse of Naxxramas","type":"Enchantment"},{"id":"NAX15_01He","name":"침입자!","set":"Curse of Naxxramas","type":"Enchantment"},{"id":"NAX15_01H","name":"켈투자드","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX15_01","name":"켈투자드","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_013","name":"켈투자드","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":8,"attack":6,"health":8,"text":"각 턴이 끝날 때, 이번 턴에 죽은 모든 아군 하수인을 소환합니다.","flavor":"켈투자드는 리치 왕의 부름에 저항할 수 없었습니다. 리치 왕의 덕을 찬양하는 자동 녹음 전화가 계속해서 걸려왔거든요.","artist":"Chris Robinson","collectible":true,"elite":true,"howToGet":"낙스라마스의 모든 우두머리를 쓰러뜨려 잠금 해제","howToGetGold":"낙스라마스의 모든 우두머리를 쓰러뜨린 후 제작 가능"},{"id":"NAX15_04a","name":"켈투자드의 노예","set":"Curse of Naxxramas","type":"Enchantment","text":"내 거야!"},{"id":"NAX13_01","name":"타디우스","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"FP1_014t","name":"타디우스","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":10,"attack":11,"health":11,"elite":true},{"id":"NAX13_01H","name":"타디우스","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX10_01","name":"패치워크","set":"Curse of Naxxramas","type":"Hero","health":30},{"id":"NAX10_01H","name":"패치워크","set":"Curse of Naxxramas","type":"Hero","health":45},{"id":"NAX6_03t","name":"포자","set":"Curse of Naxxramas","type":"Minion","cost":0,"attack":0,"health":1,"text":"<b>죽음의 메아리:</b> 모든 적 하수인에게 공격력을 +8 부여합니다.","mechanics":["Deathrattle"]},{"id":"NAX6_04","name":"포자 폭발","set":"Curse of Naxxramas","type":"Spell","cost":1,"text":"모든 적 하수인에게 피해를 $1 줍니다. 포자를 하나 소환합니다."},{"id":"NAX13_04H","name":"퓨진","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":7,"elite":true},{"id":"FP1_015","name":"퓨진","set":"Curse of Naxxramas","type":"Minion","rarity":"Legendary","cost":5,"attack":4,"health":7,"text":"<b>죽음의 메아리:</b> 만약 스탈라그가 죽은 상태라면 타디우스를 소환합니다.","flavor":"퓨진은 슬픕니다. 스탈라그가 잘생겨서요.","artist":"Dany Orizio","collectible":true,"elite":true,"howToGet":"피조물 지구를 완료하여 잠금 해제","howToGetGold":"피조물 지구를 완료한 후 제작 가능","mechanics":["Deathrattle"]},{"id":"NAX4_03","name":"해골","set":"Curse of Naxxramas","type":"Minion","cost":1,"attack":1,"health":1},{"id":"NAX4_03H","name":"해골","set":"Curse of Naxxramas","type":"Minion","cost":5,"attack":5,"health":5},{"id":"NAXM_001","name":"해골 기사","set":"Curse of Naxxramas","type":"Minion","cost":4,"attack":5,"health":6,"text":"<b>죽음의 메아리:</b> 양옆에 있는 하수인들을 처치합니다.","mechanics":["Deathrattle"]},{"id":"NAXM_002","name":"해골 대장장이","set":"Curse of Naxxramas","type":"Minion","cost":3,"attack":4,"health":3,"text":"<b>죽음의 메아리:</b> 상대편의 무기를 파괴합니다.","mechanics":["Deathrattle"]},{"id":"NAX7_03","name":"혼란의 일격","set":"Curse of Naxxramas","type":"Hero Power","cost":2,"text":"<b>영웅 능력</b>\n피해를 3 줍니다."},{"id":"NAX7_03H","name":"혼란의 일격","set":"Curse of Naxxramas","type":"Hero Power","cost":1,"text":"<b>영웅 능력</b>\n피해를 4 줍니다."},{"id":"NAX7_01","name":"훈련교관 라주비어스","set":"Curse of Naxxramas","type":"Hero","health":40},{"id":"NAX7_01H","name":"훈련교관 라주비어스","set":"Curse of Naxxramas","type":"Hero","health":55},{"id":"FP1_005e","name":"흡수","set":"Curse of Naxxramas","type":"Enchantment","text":"능력치 증가"}]
+[
+    {
+        "artist": "E. M. Gist",
+        "attack": 2,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\uc624\ub298\uc740 \ub0b4\uac00 \uc880\ube44 \uc694\ub9ac\uc0ac!",
+        "health": 3,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \uae00\ub8e8\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \uae00\ub8e8\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_001",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uac04\uc2dd\uc6a9 \uc880\ube44",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc801 \uc601\uc6c5\uc758 \uc0dd\uba85\ub825\uc744 5 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "durability": 8,
+        "id": "NAX10_02H",
+        "mechanics": [
+            "Deathrattle",
+            "Windfury"
+        ],
+        "name": "\uac08\uace0\ub9ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc9c8\ud48d</b>\n<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc774 \ubb34\uae30 \uce74\ub4dc\ub97c \ub0b4 \uc190\uc73c\ub85c \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 5,
+        "cost": 3,
+        "durability": 8,
+        "id": "NAX10_02",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uac08\uace0\ub9ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc774 \ubb34\uae30 \uce74\ub4dc\ub97c \ub0b4 \uc190\uc73c\ub85c \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "cost": 0,
+        "id": "NAX6_02H",
+        "name": "\uac15\ub839\uc220\uc758 \uc624\ub77c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 3 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "FP1_030e",
+        "name": "\uac15\ub839\uc220\uc758 \uc624\ub77c",
+        "set": "Curse of Naxxramas",
+        "text": "\uc774\ubc88 \ud134\uc5d0 \uc8fc\ubb38\uc758 \ube44\uc6a9\uc774 (5) \uc99d\uac00",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 2,
+        "id": "NAX6_02",
+        "name": "\uac15\ub839\uc220\uc758 \uc624\ub77c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 3 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 10,
+        "cost": 3,
+        "durability": 2,
+        "id": "NAX7_04H",
+        "name": "\uac70\ub300\ud55c \ub8ec\uac80",
+        "set": "Curse of Naxxramas",
+        "text": "\uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 2\ubc30 \uc90d\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 5,
+        "cost": 3,
+        "durability": 2,
+        "id": "NAX7_04",
+        "name": "\uac70\ub300\ud55c \ub8ec\uac80",
+        "set": "Curse of Naxxramas",
+        "text": "\uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 2\ubc30 \uc90d\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "cost": 3,
+        "id": "NAX3_02",
+        "name": "\uac70\ubbf8\uc904 \uac10\uc2f8\uae30",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ubb34\uc791\uc704 \uc801 \ud558\uc218\uc778 \ud558\ub098\ub97c \uc0c1\ub300\ud3b8\uc758 \uc190\uc73c\ub85c \ub3cc\ub824\ubcf4\ub0c5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX3_02H",
+        "name": "\uac70\ubbf8\uc904 \uac10\uc2f8\uae30",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ubb34\uc791\uc704 \uc801 \ud558\uc218\uc778 \ub458\uc744 \uc0c1\ub300\ud3b8\uc758 \uc190\uc73c\ub85c \ub3cc\ub824\ubcf4\ub0c5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "NAX12_04e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "\uaca9\ub178",
+        "set": "Curse of Naxxramas",
+        "text": "\uc774\ubc88 \ud134\uc5d0 \uacf5\uaca9\ub825 +6",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 3,
+        "id": "NAX12_04",
+        "name": "\uaca9\ub178",
+        "set": "Curse of Naxxramas",
+        "text": "\uc774\ubc88 \ud134\uc5d0 \ub0b4 \uc601\uc6c5\uc5d0\uac8c \uacf5\uaca9\ub825\uc744 +6 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Eric Browning",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\ub048\uc801... \ub048\uc801... \ub048\uc801...",
+        "health": 2,
+        "howToGet": "\uc11c\ub9ac\uace0\ub8e1 \ub465\uc9c0\uc758 \uc0ac\ud53c\ub860\uc744 \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc11c\ub9ac\uace0\ub8e1 \ub465\uc9c0\uc758 \uc0ac\ud53c\ub860\uc744 \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_003",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\uace0\ub3d9\uce58\ub294 \uc218\uc561\uad34\ubb3c",
+        "rarity": "Epic",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ud134\uc774 \ub05d\ub0a0 \ub54c, \uc774 \ud558\uc218\uc778\uc744 \ubcf5\uc0ac\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Robb Shoberg",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\uc0b0 \uc790\uc640 \uc8fd\uc740 \uc790\ub4e4\uc758 \uc138\uacc4\ub97c \uc774\uc5b4\uc90d\ub2c8\ub2e4.",
+        "health": 4,
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ud751\ub9c8\ubc95\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ud751\ub9c8\ubc95\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_022",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uacf5\ud5c8\uc18c\ud658\uc0ac",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ub0b4 \uc190\uc758 \ubb34\uc791\uc704 \uc545\ub9c8 \ud558\ub098\ub97c \uc804\uc7a5\uc5d0 \ub193\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "health": 30,
+        "id": "NAX2_01",
+        "name": "\uadc0\ubd80\uc778 \ud330\ub9ac\ub098",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX2_01H",
+        "name": "\uadc0\ubd80\uc778 \ud330\ub9ac\ub098",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX11_01H",
+        "name": "\uadf8\ub77c\ubd88\ub8e8\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX11_01",
+        "name": "\uadf8\ub77c\ubd88\ub8e8\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Dan Brereton",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\uac70\ubbf8 \uace0\uce58\ub294 \ub9c8\uce58 \uc791\uc740 \ud53c\ub0d0\ud0c0 \uac19\uc2b5\ub2c8\ub2e4! \uadc0\uc5ec\uc6cc\ub77c!",
+        "health": 1,
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc0ac\ub0e5\uafbc \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc0ac\ub0e5\uafbc \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_011",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uadf8\ubb3c\uac70\ubbf8",
+        "playerClass": "Hunter",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ubb34\uc791\uc704 \uc57c\uc218 \uce74\ub4dc 1\uc7a5\uc744 \uc190\uc73c\ub85c \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "id": "NAX13_02e",
+        "name": "\uadf9\uc131",
+        "set": "Curse of Naxxramas",
+        "text": "\uacf5\uaca9\ub825\uacfc \uc0dd\uba85\ub825 \ubc14\ub01c",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "NAX13_02",
+        "name": "\uadf9\uc131 \ubcc0\ud658",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n<b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc758 \uacf5\uaca9\ub825\uacfc \uc0dd\uba85\ub825\uc744 \ubc14\uafc9\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 45,
+        "id": "NAX12_01H",
+        "name": "\uae00\ub8e8\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX12_01",
+        "name": "\uae00\ub8e8\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 5,
+        "id": "NAX9_07",
+        "name": "\uae30\uc0ac\ub2e8\uc758 \uc9d5\ud45c",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud558\uc218\uc778\ub4e4\uacfc \ubb34\uae30\uc5d0 +1/+1\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX9_07e",
+        "name": "\uae30\uc0ac\ub2e8\uc758 \uc9d5\ud45c",
+        "set": "Curse of Naxxramas",
+        "text": "+1/+1",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "FP1_019t",
+        "name": "\ub098\ubb34\uc815\ub839",
+        "playerClass": "Druid",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ittoku Seta",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\uc804\uc124\ub3c4 \uc544\ub2c8\uba74\uc11c \uadf8\ub8f0\ubcf4\ub2e4 \ub192\uc740 \uc0dd\uc874\ub825\uc744 \uc790\ub791\ud569\ub2c8\ub2e4.",
+        "health": 2,
+        "howToGet": "\uc11c\ub9ac\uace0\ub8e1 \ub465\uc9c0\uc758 \ucf08\ud22c\uc790\ub4dc\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc11c\ub9ac\uace0\ub8e1 \ub465\uc9c0\uc758 \ucf08\ud22c\uc790\ub4dc\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_005",
+        "mechanics": [
+            "Stealth"
+        ],
+        "name": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub9dd\ub839",
+        "rarity": "Epic",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc740\uc2e0.</b> \ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, +1/+1\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "health": 14,
+        "id": "NAX9_01H",
+        "name": "\ub0a8\uc791 \ub9ac\ube10\ub370\uc5b4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 7,
+        "id": "NAX9_01",
+        "name": "\ub0a8\uc791 \ub9ac\ube10\ub370\uc5b4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Ralph Horsley",
+        "attack": 1,
+        "collectible": true,
+        "cost": 4,
+        "elite": true,
+        "flavor": "\uc6d0\ub798 \ucf08\ud22c\uc790\ub4dc\ub97c \uc9c0\ud0a4\ub294 \uac74 5\uc778 \uae30\uc0ac\ub2e8\uc774\uc5c8\uc9c0\ub9cc, \ud55c \uba85\uc740 \ubc24\ub0ae \uc5c6\ub294 \uaca9\ubb34\uc5d0 \uc9c4\uc808\uba38\ub9ac\ub97c \ub0b4\uba70 \uadfc\ubb34 \uc2dc\uac04\uacfc \ubcf5\uc9c0 \ud61c\ud0dd\uc774 \uc88b\uc740 \uc8fd\uc74c\uc758 \ud3d0\uad11 \uacbd\ube44\ubcd1\uc73c\ub85c \uc774\uc9c1\ud588\uc2b5\ub2c8\ub2e4.",
+        "health": 7,
+        "howToGet": "\uad70\uc0ac \uc9c0\uad6c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uad70\uc0ac \uc9c0\uad6c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_031",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\ub0a8\uc791 \ub9ac\ube10\ub370\uc5b4",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud558\uc218\uc778\ub4e4\uc758 <b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac</b> \ub2a5\ub825\uc774 2\ubc88 \ubc1c\ub3d9\ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX14_02",
+        "name": "\ub0c9\uae30 \uc228\uacb0",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n<b>\ube59\uacb0</b> \uc0c1\ud0dc\uac00 \uc544\ub2cc \ubaa8\ub4e0 \uc801 \ud558\uc218\uc778\uc744 \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX15_02",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\ub0c9\uae30 \uc791\ub82c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 2 \uc8fc\uace0 <b>\ube59\uacb0</b>\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX15_02H",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\ub0c9\uae30 \uc791\ub82c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 3 \uc8fc\uace0 <b>\ube59\uacb0</b>\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 3,
+        "cost": 2,
+        "health": 1,
+        "id": "NAX1_03",
+        "name": "\ub124\ub8e8\ube44\uc548",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "health": 4,
+        "id": "FP1_007t",
+        "name": "\ub124\ub8e8\ube44\uc548",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 2,
+        "health": 4,
+        "id": "NAX1h_03",
+        "name": "\ub124\ub8e8\ube44\uc548",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "artist": "Justin Thavirat",
+        "attack": 0,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\ub124\ub8e8\ube44\uc548 \uc54c\uc740 \uc88b\uc740 \ub2e8\ubc31\uc9c8 \uacf5\uae09\uc6d0\uc774\uc8e0.",
+        "health": 2,
+        "howToGet": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \ub9e5\uc2a4\ub098\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \ub9e5\uc2a4\ub098\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_007",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ub124\ub8e8\ube44\uc548 \uc54c",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> 4/4 \ub124\ub8e8\ube44\uc548\uc744 \ud558\ub098 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Alex Horley Orlandelli",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\uadf8\ubb3c\uad70\uc8fc\ub4e4\uc740 \ud558\ub8e8 \uc885\uc77c \uac70\ub300\ud55c \ud2b8\ub7a8\ud384\ub9b0\uc744 \ub9cc\ub4e4\uba70 \uc2dc\uac04\uc744 \ubcf4\ub0b8\ub2f5\ub2c8\ub2e4.",
+        "health": 4,
+        "howToGet": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \uadc0\ubd80\uc778 \ud330\ub9ac\ub098\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \uadc0\ubd80\uc778 \ud330\ub9ac\ub098\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_017",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\ub124\ub8f9\uc544\ub974 \uadf8\ubb3c\uad70\uc8fc",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131</b> \ub2a5\ub825\uc744 \uac00\uc9c4 \ud558\uc218\uc778\uc758 \ube44\uc6a9\uc774 (2) \uc99d\uac00\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX11_02H",
+        "name": "\ub3c5\uad6c\ub984",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n \ubaa8\ub4e0 \uc801\uc5d0\uac8c \ud53c\ud574\ub97c 2 \uc90d\ub2c8\ub2e4. \ub9cc\uc57d \ud558\ub098\ub77c\ub3c4 \uc8fd\uc73c\uba74 \ub3c5\uc561\uad34\ubb3c\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX11_02",
+        "name": "\ub3c5\uad6c\ub984",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n<b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4. \ub9cc\uc57d \ud558\ub098\ub77c\ub3c4 \uc8fd\uc73c\uba74 \ub3c5\uc561\uad34\ubb3c\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Brian Despain",
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\uc6b0\ub9ac \uc544\uc81c\ub85c\uc2a4 \ud478\ub974\uac8c \ud478\ub974\uac8c",
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub4dc\ub8e8\uc774\ub4dc \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4 \ub4dc\ub8e8\uc774\ub4dc \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_019",
+        "name": "\ub3c5\uc131 \uc528\uc557",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc744 \ucc98\uce58\ud558\uace0 2/2 \ub098\ubb34\uc815\ub839\uc73c\ub85c \uad50\uccb4\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Matt Smith",
+        "attack": 1,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\ud2b9\uae30: \uc5bc\uc74c\ub561",
+        "health": 4,
+        "howToGet": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \uc5ed\ubcd1\uc220\uc0ac \ub178\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \uc5ed\ubcd1\uc220\uc0ac \ub178\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_027",
+        "name": "\ub3cc\uac00\uc8fd \uac00\uace0\uc77c",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \uc774 \ud558\uc218\uc778\uc740 \uc0dd\uba85\ub825\uc744 \ubaa8\ub450 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 3,
+        "id": "NAX11_04",
+        "name": "\ub3cc\uc5f0\ubcc0\uc774 \uc720\ubc1c",
+        "set": "Curse of Naxxramas",
+        "text": "\ud558\uc218\uc778 \ud558\ub098\uc5d0\uac8c <b>\ub3c4\ubc1c</b>\uacfc +4/+4\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX11_04e",
+        "name": "\ub3cc\uc5f0\ubcc0\uc774 \uc720\ubc1c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>, +4/+4",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 2,
+        "id": "NAX1_04",
+        "name": "\ub545\uac70\ubbf8",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n3/1 \ub124\ub8e8\ube44\uc548 \ud558\ub098\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX1h_04",
+        "name": "\ub545\uac70\ubbf8",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n4/4 \ub124\ub8e8\ube44\uc548 \ud558\ub098\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Samwise",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\ud3c9\ubc94\ud55c \uc218\ub801 \uad34\ubb3c \ub85c\ub370\ube0c, \ubab8\uc5d0\uc11c \ubc84\uc12f \uc7ac\ubc30 \uc218\ud655 '\ucda9\uaca9'",
+        "health": 5,
+        "howToGet": "\uc5ed\ubcd1 \uc9c0\uad6c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc5ed\ubcd1 \uc9c0\uad6c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_030",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\ub85c\ub370\ube0c",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ub2e4\uc74c \ud134\uc5d0 \uc801\uc774 \uc4f0\ub294 \uc8fc\ubb38\uc758 \ube44\uc6a9\uc774 (5) \uc99d\uac00\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "health": 99,
+        "id": "NAX6_01H",
+        "name": "\ub85c\ub370\ube0c",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 75,
+        "id": "NAX6_01",
+        "name": "\ub85c\ub370\ube0c",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "durability": 3,
+        "id": "NAX9_05H",
+        "name": "\ub8ec\uac80",
+        "set": "Curse of Naxxramas",
+        "text": "\ub2e4\ub978 \uae30\uc0ac\ub4e4\uc774 \ubaa8\ub450 \uc8fd\uc73c\uba74 \uacf5\uaca9\ub825\uc744 +6 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "durability": 3,
+        "id": "NAX9_05",
+        "name": "\ub8ec\uac80",
+        "set": "Curse of Naxxramas",
+        "text": "\ub2e4\ub978 \uae30\uc0ac\ub4e4\uc774 \ubaa8\ub450 \uc8fd\uc73c\uba74 \uacf5\uaca9\ub825\uc744 +3 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "health": 30,
+        "id": "NAX3_01",
+        "name": "\ub9e5\uc2a4\ub098",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Howard Lyon",
+        "attack": 2,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "flavor": "\ub9e5\uc2a4\ub098\ub294 \uc0ac\ub78c\ub4e4\uc774 \uc790\uc2e0\uc744 \"\ub9f5\uc2dc\ub098\"\ub77c\uace0 \ubd80\ub974\ub294 \uac78 \uc2eb\uc5b4\ud569\ub2c8\ub2e4.",
+        "health": 8,
+        "howToGet": "\uac70\ubbf8 \uc9c0\uad6c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uac70\ubbf8 \uc9c0\uad6c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_010",
+        "mechanics": [
+            "Poisonous"
+        ],
+        "name": "\ub9e5\uc2a4\ub098",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "\uc774 \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\uc740 \ud558\uc218\uc778\uc740 \ubb34\uc870\uac74 \uc8fd\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX3_01H",
+        "name": "\ub9e5\uc2a4\ub098",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 7,
+        "id": "NAX1_05",
+        "name": "\uba54\ub69c\uae30 \ub5bc",
+        "set": "Curse of Naxxramas",
+        "text": "\ubaa8\ub4e0 \uc801 \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c $3 \uc90d\ub2c8\ub2e4. \ub0b4 \uc601\uc6c5\uc758 \uc0dd\uba85\ub825\uc744 #3 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX8_03",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ubb34\uc790\ube44\ud55c \uc218\ub828\uc0dd",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc5d0\uac8c \uc720\ub839 \uc218\ub828\uc0dd \ud558\ub098\ub97c \uc18c\ud658\ud574 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX8_04",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ubb34\uc790\ube44\ud55c \uc804\uc0ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc5d0\uac8c \uc720\ub839 \uc804\uc0ac \ud558\ub098\ub97c \uc18c\ud658\ud574 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 6,
+        "health": 6,
+        "id": "NAX8_05",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ubb34\uc790\ube44\ud55c \uc8fd\uc74c\uc758 \uae30\ubcd1",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc5d0\uac8c \uc720\ub839 \uae30\ubcd1 \ud558\ub098\ub97c \uc18c\ud658\ud574 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "James Ryman",
+        "attack": 2,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\uc5b4\uba38\ub2c8\ub294 \ub9c8\ubc95\uc0ac\ub098 \ud751\ub9c8\ubc95\uc0ac\uac00 \ub418\uae38 \ubc14\ub790\uc9c0\ub9cc, \uadf8\ub294 \uacb0\uad6d \uc544\ubc84\uc9c0\uc758 \ub4a4\ub97c \uc774\uc5b4 \uacfc\ud559\uc790\uac00 \ub418\uc5c8\ub2f5\ub2c8\ub2e4.",
+        "health": 2,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \uadf8\ub77c\ubd88\ub8e8\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \uadf8\ub77c\ubd88\ub8e8\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_004",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ubbf8\uce58\uad11\uc774 \uacfc\ud559\uc790",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ub371\uc5d0 \uc788\ub294 <b>\ube44\ubc00</b> \uce74\ub4dc 1\uc7a5\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "id": "FP1_020e",
+        "name": "\ubcf5\uc218",
+        "playerClass": "Paladin",
+        "set": "Curse of Naxxramas",
+        "text": "+3/+2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Alex Garner",
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\uce74\ub4dc\ub97c \ubcf5\uc0ac\ud574\ub3c4 \uacc4\uc815 \uc815\uc9c0\ub97c \ud53c\ud560 \uc218 \uc788\ub294 \uc720\uc77c\ud55c \uae30\ud68c\uc785\ub2c8\ub2e4!",
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub9c8\ubc95\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub9c8\ubc95\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_018",
+        "mechanics": [
+            "Secret"
+        ],
+        "name": "\ubcf5\uc81c",
+        "playerClass": "Mage",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ube44\ubc00:</b> \uc544\uad70 \ud558\uc218\uc778\uc774 \uc8fd\uc73c\uba74, \uadf8 \ud558\uc218\uc778 \uce74\ub4dc 2\uc7a5\uc744 \ub0b4 \uc190\uc73c\ub85c \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "cost": 5,
+        "id": "NAX9_06",
+        "name": "\ubd80\uc815\uc758 \uadf8\ub9bc\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uce74\ub4dc\ub97c 2\uc7a5 \ubf51\uc2b5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 45,
+        "id": "NAX5_01H",
+        "name": "\ubd80\uc815\uc758 \ud5e4\uc774\uac74",
+        "playerClass": "Warlock",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX5_01",
+        "name": "\ubd80\uc815\uc758 \ud5e4\uc774\uac74",
+        "playerClass": "Warlock",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "cost": 2,
+        "id": "NAX3_03",
+        "name": "\ubd80\ud328\uc758 \ub3c5",
+        "set": "Curse of Naxxramas",
+        "text": "\ud558\uc218\uc778 \ud558\ub098\ub97c \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "NAX5_02H",
+        "name": "\ubd84\ucd9c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uac00\uc7a5 \uc67c\ucabd\uc5d0 \uc788\ub294 \uc801 \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c 3 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX5_02",
+        "name": "\ubd84\ucd9c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uac00\uc7a5 \uc67c\ucabd\uc5d0 \uc788\ub294 \uc801 \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c 2 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Mike Nicholson",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\uc694\uc998 \uac15\ub839\uc220\uc0ac \ud559\uad50\uc5d0\uc11c \uc798 \ub098\uac00\ub294 \uc560\ub4e4\uc740 \uc790\uc2e0\uc758 \uad6c\uc6b8\uc744 \ub85c\ucf13 \uc5f0\ub8cc\ub85c \ucc44\uc6b0\uace4 \ud55c\ub2f5\ub2c8\ub2e4.",
+        "health": 3,
+        "howToGet": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \ubd80\uc815\uc758 \ud5e4\uc774\uac74\uc744 \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \ubd80\uc815\uc758 \ud5e4\uc774\uac74\uc744 \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_024",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "\ubd88\uc548\uc815\ud55c \uad6c\uc6b8",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>. <b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> <b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX2_03",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "\ubd88\uc758 \ube44",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc0c1\ub300\ud3b8\uc758 \uc190\uc5d0 \uc788\ub294 \uce74\ub4dc \uc218\ub9cc\ud07c \ud654\uc0b4\uc744 \ubc1c\uc0ac\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX2_03H",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "\ubd88\uc758 \ube44",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc0c1\ub300\ud3b8\uc758 \uc190\uc5d0 \uc788\ub294 \uce74\ub4dc \uc218\ub9cc\ud07c \ud654\uc0b4\uc744 \ubc1c\uc0ac\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "elite": true,
+        "health": 1,
+        "id": "NAX15_05",
+        "name": "\ube44\uae00\uc2a4\uc6cc\uc2a4 \uc528",
+        "race": "Beast",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<i>\ucf08\ud22c\uc790\ub4dc\uac00 \uae30\ub974\ub294 \uace0\uc591\uc774\uc785\ub2c8\ub2e4.</i>",
+        "type": "Minion"
+    },
+    {
+        "cost": 8,
+        "id": "NAX15_04H",
+        "name": "\uc0ac\uc2ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ubb34\uc791\uc704 \uc801 \ud558\uc218\uc778 \ud558\ub098\ub97c \uc6b0\ub9ac\ud3b8\uc73c\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 8,
+        "id": "NAX15_04",
+        "name": "\uc0ac\uc2ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ubb34\uc791\uc704 \uc801 \ud558\uc218\uc778 \ud558\ub098\ub97c \uc774\ubc88 \ud134\uc5d0\ub9cc \uc6b0\ub9ac\ud3b8\uc73c\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 30,
+        "id": "NAX14_01",
+        "name": "\uc0ac\ud53c\ub860",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX14_01H",
+        "name": "\uc0ac\ud53c\ub860",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 0,
+        "cost": 2,
+        "health": 7,
+        "id": "NAX7_02",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\uc218\uc2b5\uc0dd",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 2,
+        "id": "FP1_012t",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\uc218\uc561\uad34\ubb3c",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>",
+        "type": "Minion"
+    },
+    {
+        "cost": 5,
+        "id": "NAX14_04",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "\uc21c\uc218\ud55c \ucd94\uc704",
+        "set": "Curse of Naxxramas",
+        "text": "\uc801 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c $8 \uc8fc\uace0 <b>\ube59\uacb0</b>\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX2_05",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\uc22d\ubc30\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc5d0 \ub0b4 \uc601\uc6c5\uc758 \uacf5\uaca9\ub825\uc774 +1 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX2_05H",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\uc22d\ubc30\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc5d0 \ub0b4 \uc601\uc6c5\uc758 \uacf5\uaca9\ub825\uc774 +3 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 7,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\"\uc2a4\ud0c8\ub77c\uadf8 \uc798\uc0dd\uacbc\ub2e4!\" (\uc2a4\ud0c8\ub77c\uadf8\uac00 \uc4f4 \uac70 \uc544\ub2d8)",
+        "health": 4,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_014",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uc2a4\ud0c8\ub77c\uadf8",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ub9cc\uc57d \ud4e8\uc9c4\uc774 \uc8fd\uc740 \uc0c1\ud0dc\ub77c\uba74 \ud0c0\ub514\uc6b0\uc2a4\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 7,
+        "cost": 5,
+        "elite": true,
+        "health": 4,
+        "id": "NAX13_05H",
+        "name": "\uc2a4\ud0c8\ub77c\uadf8",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "cost": 0,
+        "id": "NAX4_04H",
+        "name": "\uc2dc\uccb4 \ub418\uc0b4\ub9ac\uae30",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801\uc774 \uc8fd\uc744 \ub54c\ub9c8\ub2e4 5/5 \ud574\uace8\uc744 \ud558\ub098 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX4_04",
+        "name": "\uc2dc\uccb4 \ub418\uc0b4\ub9ac\uae30",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801\uc774 \uc8fd\uc744 \ub54c\ub9c8\ub2e4 1/1 \ud574\uace8\uc744 \ud558\ub098 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "artist": "Nate Bowden",
+        "attack": 3,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\uc8fc\uc758: \ub9e5\uc8fc\ub97c \uc8fc\uc9c0 \ub9c8\uc2dc\uc624.",
+        "health": 5,
+        "howToGet": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \ub85c\ub370\ube0c\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uc5ed\ubcd1 \uc9c0\uad6c\uc758 \ub85c\ub370\ube0c\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_012",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "\uc369\uc740\uc704\uc561 \ub204\ub354\uae30\uace8\ub818",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c.\n\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> <b>\ub3c4\ubc1c</b> \ub2a5\ub825\uc744 \uac00\uc9c4 1/2 \uc218\uc561\uad34\ubb3c\uc744 1\ub9c8\ub9ac \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 1,
+        "durability": 5,
+        "id": "NAX12_03H",
+        "name": "\uc544\uadc0",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac</b> \ub2a5\ub825\uc744 \uac00\uc9c4 \ud558\uc218\uc778\uc774 \uc8fd\uc744 \ub54c\ub9c8\ub2e4 \uacf5\uaca9\ub825\uc744 +2 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "durability": 5,
+        "id": "NAX12_03",
+        "name": "\uc544\uadc0",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac</b> \ub2a5\ub825\uc744 \uac00\uc9c4 \ud558\uc218\uc778\uc774 \uc8fd\uc744 \ub54c\ub9c8\ub2e4 \uacf5\uaca9\ub825\uc744 +2 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "health": 45,
+        "id": "NAX1h_01",
+        "name": "\uc544\ub215\ub808\uce78",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX1_01",
+        "name": "\uc544\ub215\ub808\uce78",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Nate Bowden",
+        "attack": 5,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\ubcf8\ub798 \uc774\ub984\uc740 \"\ud558\uc218\uc778\uc744 \uc190\uc73c\ub85c \uac00\uc838\uc624\ub294 \uc544\ub215\uc544\ub974 \ubb50\uc2dc\uae30\"\uc600\uc2b5\ub2c8\ub2e4.",
+        "health": 5,
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub3c4\uc801 \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ub3c4\uc801 \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_026",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uc544\ub215\uc544\ub974 \ubcf5\ubcd1",
+        "playerClass": "Rogue",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ubb34\uc791\uc704 \uc544\uad70 \ud558\uc218\uc778 \ud558\ub098\ub97c \ub0b4 \uc190\uc73c\ub85c \ub2e4\uc2dc \uac00\uc838\uc635\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Zoltan & Gabor",
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\uc5b4\uca50\uc9c0 \uc131\uae30\uc0ac\uc758 \ud558\uc218\uc778\ub4e4\uc740 \uc11c\ub85c \ub354 \uce5c\ud55c \uac83 \uac19\ub354\ub2c8\ub9cc...",
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc131\uae30\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc131\uae30\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_020",
+        "mechanics": [
+            "Secret"
+        ],
+        "name": "\uc559\uac1a\uc74c",
+        "playerClass": "Paladin",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ube44\ubc00:</b> \ub0b4 \ud558\uc218\uc778 \uc911 \ud558\ub098\uac00 \uc8fd\uc73c\uba74, \ubb34\uc791\uc704 \uc544\uad70 \ud558\uc218\uc778 \ud558\ub098\uc5d0\uac8c +3/+2\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "id": "FP1_028e",
+        "name": "\uc5b4\ub460\uc758 \ubd80\ub984",
+        "set": "Curse of Naxxramas",
+        "text": "\ub2a5\ub825\uce58 \uc99d\uac00",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Phroilan Gardner",
+        "attack": 3,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\uc800\uc8fc\ubc1b\uc740 \uc790\ub4e4\uc758 \uad50\ub2e8\uc740 \uc0c8\ub85c\uc6b4 \uc774\uad50\ub3c4\ub97c \ubaa8\uc9d1\ud560 \ub54c \uad50\ub2e8\uc758 \uc774\ub984\uc744 \ubc1d\ud788\uc9c0 \uc54a\ub294 \ud3b8\uc774 \ub0ab\ub2e4\ub294 \uac78 \uae68\ub2ec\uc558\uc2b5\ub2c8\ub2e4.",
+        "health": 4,
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc0ac\uc81c \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc5d0\uc11c \uc0ac\uc81c \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_023",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uc5b4\ub460\uc758 \uc774\uad50\ub3c4",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ubb34\uc791\uc704 \uc544\uad70 \ud558\uc218\uc778 \ud558\ub098\uc5d0\uac8c \uc0dd\uba85\ub825\uc744 +3 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 5,
+        "health": 10,
+        "id": "NAX14_03",
+        "mechanics": [
+            "Aura"
+        ],
+        "name": "\uc5bc\uc5b4\ubd99\uc740 \uc6a9\uc0ac",
+        "set": "Curse of Naxxramas",
+        "text": "\uc601\uad6c \ube59\uacb0. \uc591\uc606\uc758 \ud558\uc218\uc778\ub4e4\uc774 \ub0c9\uae30 \uc228\uacb0\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 5,
+        "id": "NAX15_03t",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\uc5bc\uc74c\uc655\uad00\uc758 \uc218\ud638\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 3,
+        "cost": 4,
+        "health": 3,
+        "id": "NAX15_03n",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "\uc5bc\uc74c\uc655\uad00\uc758 \uc218\ud638\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_02H",
+        "name": "\uc5ec\uad70\uc8fc \ube14\ub77c\ubbf8\uc6b0\uc2a4",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_02",
+        "name": "\uc5ec\uad70\uc8fc \ube14\ub77c\ubbf8\uc6b0\uc2a4",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 6,
+        "id": "NAX4_05",
+        "name": "\uc5ed\ubcd1",
+        "set": "Curse of Naxxramas",
+        "text": "\ud574\uace8\uc744 \uc81c\uc678\ud55c <b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc744 \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "health": 30,
+        "id": "NAX4_01",
+        "name": "\uc5ed\ubcd1\uc220\uc0ac \ub178\uc2a4",
+        "playerClass": "Mage",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX4_01H",
+        "name": "\uc5ed\ubcd1\uc220\uc0ac \ub178\uc2a4",
+        "playerClass": "Mage",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_03",
+        "name": "\uc601\uc8fc \ucf54\uc2a4\uc544\uc988",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_03H",
+        "name": "\uc601\uc8fc \ucf54\uc2a4\uc544\uc988",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX8_01H",
+        "name": "\uc601\ud63c \ucc29\ucde8\uc790 \uace0\ub515",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX8_01",
+        "name": "\uc601\ud63c \ucc29\ucde8\uc790 \uace0\ub515",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Glenn Rane",
+        "attack": 3,
+        "collectible": true,
+        "cost": 4,
+        "flavor": "\uc815\ub9d0 \uc26c\uc9c0\ub3c4 \uc54a\uace0 \uacc4\uc18d \uc6b8\ubd80\uc9d6\ub124\uc694. \uc601\ud63c\uc544. \ubc25\uc740 \uba39\uace0 \ub2e4\ub2c8\ub2c8?",
+        "health": 5,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \ud0c0\ub514\uc6b0\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \ud0c0\ub514\uc6b0\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_016",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\uc6b8\ubd80\uc9d6\ub294 \uc601\ud63c",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc804\ud22c\uc758 \ud568\uc131:</b> \ub0b4 \ub2e4\ub978 \ud558\uc218\uc778\ub4e4\uc744 <b>\uce68\ubb35</b>\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "FP1_002t",
+        "name": "\uc720\ub839 \uac70\ubbf8",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 5,
+        "health": 6,
+        "id": "NAX8_05t",
+        "name": "\uc720\ub839 \uae30\ubcd1",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \ub0b4 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Chris Rahn",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\uc694\uc815\uc6a9\uacfc \uc720\ub839 \uae30\uc0ac\uc758 \uacf5\ud1b5\uc810\uc774 \ubb50\ub0d0\uace0\uc694? \uc74c... \ub458 \ub2e4 \ud30c\uc2a4\ud0c0\ub97c \uc88b\uc544\ud55c\ub2e4\ub294 \uac70?",
+        "health": 6,
+        "howToGet": "\uad70\uc0ac \uc9c0\uad6c\uc758 \uc601\ud63c \ucc29\ucde8\uc790 \uace0\ub515\uc744 \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uad70\uc0ac \uc9c0\uad6c\uc758 \uc601\ud63c \uc218\ud655\uc790 \uace0\ub515\uc744 \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_008",
+        "name": "\uc720\ub839 \uae30\uc0ac",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "\uc774 \ud558\uc218\uc778\uc740 \uc8fc\ubb38\uc774\ub098 \uc601\uc6c5 \ub2a5\ub825\uc758 \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jeremy Cranford",
+        "attack": 1,
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\uc5ec\uae30\uc5d0 \uc4f8 \uac70\ubbf8\uc5d0 \ub300\ud55c \ub0b4\uc6a9\uc744 \ucc3e\ub2e4\ubcf4\ub2c8 \uac70\ubbf8 \uacf5\ud3ec\uc99d\uc5d0 \uac78\ub9b0 \uac83 \uac19\uc2b5\ub2c8\ub2e4...",
+        "health": 2,
+        "howToGet": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \uc544\ub215\ub808\uce78\uc744 \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uac70\ubbf8 \uc9c0\uad6c\uc758 \uc544\ub215\ub808\uce78\uc744 \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_002",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uc720\ub839 \ub4e4\ub9b0 \uac70\ubbf8",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> 1/1 \uc720\ub839 \uac70\ubbf8\ub97c 2\ub9c8\ub9ac \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX8_03t",
+        "name": "\uc720\ub839 \uc218\ub828\uc0dd",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \ub0b4 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 3,
+        "health": 4,
+        "id": "NAX8_04t",
+        "name": "\uc720\ub839 \uc804\uc0ac",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud134\uc774 \uc2dc\uc791\ub420 \ub54c, \ub0b4 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dan Scott",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\uc5ec\ub7ec\ubd84, \uc220\uc0ac\ub2d8 \uc724\ud68c \uc788\uc73c\uc2dc\ub2f5\ub2c8\ub2e4. \ub6f0\uc9c0 \ub9c8\uc138\uc694.",
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc8fc\uc220\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc8fc\uc220\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_025",
+        "name": "\uc724\ud68c",
+        "playerClass": "Shaman",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "\ud558\uc218\uc778\uc744 \ud558\ub098 \ucc98\uce58\ud558\uace0, \uadf8 \ud558\uc218\uc778\uc744 \ucd5c\ub300 \uc0dd\uba85\ub825\uc73c\ub85c \ubd80\ud65c\uc2dc\ud0b5\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX12_03e",
+        "name": "\uc774\ube68 \ucd94\uac00",
+        "set": "Curse of Naxxramas",
+        "text": "\uacf5\uaca9\ub825 \uc99d\uac00",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jonboy Meyers",
+        "attack": 1,
+        "collectible": true,
+        "cost": 1,
+        "flavor": "\uc601\ud63c\uc758 \uce58\uc720\uc0ac\uc5d0\uac8c \ub6f0\uc5b4\uac00\uc11c \ubc14\ub85c \ubd80\ud65c\ud560 \uc218 \uc788\ub294 \uc544\uc81c\ub85c\uc2a4\uc5d0\uc11c \uc7a5\uc758\uc0ac\ub4e4\uc740 \ubcc4\ub85c \ud560 \uc77c\uc774 \uc5c6\ub2f5\ub2c8\ub2e4.",
+        "health": 2,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \ud328\uce58\uc6cc\ud06c\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\uc758 \ud328\uce58\uc6cc\ud06c\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_028",
+        "name": "\uc7a5\uc758\uc0ac",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4\uac00 <b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac</b> \ub2a5\ub825\uc744 \uac00\uc9c4 \ud558\uc218\uc778\uc744 \uc18c\ud658\ud560 \ub54c\ub9c8\ub2e4 \uacf5\uaca9\ub825\uc744 +1 \uc5bb\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX5_03",
+        "name": "\uc815\uc2e0 \ub300\uc7ac\uc559",
+        "set": "Curse of Naxxramas",
+        "text": "\ub450 \ud50c\ub808\uc774\uc5b4 \ubaa8\ub450 \uce74\ub4dc\ub97c 2\uc7a5 \ubf51\uace0 \ub9c8\ub098 \uc218\uc815\uc744 \ud558\ub098 \ud68d\ub4dd\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "cost": 1,
+        "id": "NAX7_05",
+        "name": "\uc815\uc2e0 \uc9c0\ubc30 \uc218\uc815",
+        "set": "Curse of Naxxramas",
+        "text": "\uc218\uc815\uc744 \uc870\uc791\ud558\uc5ec \uc218\uc2b5\uc0dd\uc744 \uc870\uc885\ud558\uc2ed\uc2dc\uc624!",
+        "type": "Spell"
+    },
+    {
+        "attack": 2,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_04H",
+        "name": "\uc824\ub9ac\uc5d0\ud06c \uacbd",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 3,
+        "elite": true,
+        "health": 7,
+        "id": "NAX9_04",
+        "name": "\uc824\ub9ac\uc5d0\ud06c \uacbd",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uc601\uc6c5\uc774 <b>\ud53c\ud574 \uba74\uc5ed</b> \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 3,
+        "id": "FP1_006",
+        "mechanics": [
+            "Charge",
+            "Deathrattle"
+        ],
+        "name": "\uc8fd\uc74c\uc758 \uad70\ub9c8",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3cc\uc9c4. \uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ub0b4 \uc601\uc6c5\uc5d0\uac8c \ud53c\ud574\ub97c 3 \uc90d\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "artist": "Ben Olson",
+        "attack": 2,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\"\ubb34\ub364\uc5d0\uc11c \uc77c\uc5b4\ub098\ub77c!\" - \ucf08\ud22c\uc790\ub4dc",
+        "health": 8,
+        "howToGet": "\uad70\uc0ac \uc9c0\uad6c\uc758 4\uc778 \uae30\uc0ac\ub2e8\uc744 \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uad70\uc0ac \uc9c0\uad6c\uc758 4\uc778 \uae30\uc0ac\ub2e8\uc744 \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_009",
+        "mechanics": [
+            "Deathrattle",
+            "Taunt"
+        ],
+        "name": "\uc8fd\uc74c\uc758 \uad70\uc8fc",
+        "rarity": "Rare",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\ub3c4\ubc1c. \uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc774 \ub371\uc5d0 \uc788\ub294 \ud558\uc218\uc778 \ud558\ub098\ub97c \uc804\uc7a5\uc5d0 \ub193\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "NAX6_03",
+        "name": "\uc8fd\uc74c\uc758 \uaf43",
+        "set": "Curse of Naxxramas",
+        "text": "\ud558\uc218\uc778 \ud558\ub098\uc5d0\uac8c \ud53c\ud574\ub97c 5 \uc90d\ub2c8\ub2e4. \ud3ec\uc790\ub97c \ud558\ub098 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "health": 2,
+        "id": "NAX11_03",
+        "name": "\uc8fd\uc74c\uc758 \ub3c5\uc561\uad34\ubb3c",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "artist": "Jim Nelson",
+        "attack": 4,
+        "collectible": true,
+        "cost": 4,
+        "durability": 2,
+        "flavor": "\uc774\ub97c \ub2e6\uc744 \ub54c\ub294 \ubc18\ub4dc\uc2dc \ud600\ub3c4 \ub2e6\uc73c\uc138\uc694!!",
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc804\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \uc804\uc0ac \uc9c1\uc5c5 \ub3c4\uc804 \uacfc\uc81c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_021",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\uc8fd\uc74c\uc758 \uc774\ube68",
+        "playerClass": "Warrior",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc774 \ubb34\uae30\uac00 \ud30c\uad34\ub420 \ub54c, <b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c 1 \uc90d\ub2c8\ub2e4.",
+        "type": "Weapon"
+    },
+    {
+        "cost": 4,
+        "id": "NAX10_03",
+        "name": "\uc99d\uc624\uc758 \uc77c\uaca9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ud558\uc218\uc778\uc744 \ud558\ub098 \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 4,
+        "id": "NAX10_03H",
+        "name": "\uc99d\uc624\uc758 \uc77c\uaca9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ud558\uc218\uc778\uc744 \ud558\ub098 \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "FP1_023e",
+        "name": "\uc9c0\uad6c\ub77c\ud2b8\uc758 \ud798",
+        "playerClass": "Priest",
+        "set": "Curse of Naxxramas",
+        "text": "\uc0dd\uba85\ub825 +3",
+        "type": "Enchantment"
+    },
+    {
+        "id": "NAX6_03te",
+        "name": "\uc9c4\uade0 \ubc88\uc2dd",
+        "set": "Curse of Naxxramas",
+        "text": "\uacf5\uaca9\ub825 \uc99d\uac00",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 2,
+        "id": "NAX8_02",
+        "name": "\ucc29\ucde8",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uce74\ub4dc\ub97c 1\uc7a5 \ubf51\uc2b5\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX8_02H",
+        "name": "\ucc29\ucde8",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uce74\ub4dc\ub97c 1\uc7a5 \ubf51\uace0, \ub9c8\ub098 \uc218\uc815\uc744 1\uac1c \ud68d\ub4dd\ud569\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 0,
+        "id": "NAX12_02H",
+        "name": "\ucc99\uc0b4",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\uc801 \ud558\uc218\uc778\ub4e4\uc758 \uc0dd\uba85\ub825\uc744 1\ub85c \ubc14\uafc9\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "id": "NAX12_02e",
+        "name": "\ucc99\uc0b4",
+        "set": "Curse of Naxxramas",
+        "text": "\uc0dd\uba85\ub825 1\ub85c \ubc14\ub01c",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 2,
+        "id": "NAX12_02",
+        "name": "\ucc99\uc0b4",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n<b>\ubaa8\ub4e0</b> \ud558\uc218\uc778\uc758 \uc0dd\uba85\ub825\uc744 1\ub85c \ubc14\uafc9\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 2,
+        "id": "NAX13_03",
+        "name": "\ucd08\uc790\ub825 \ucda9\uc804",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \ud558\uc218\uc778\ub4e4\uc5d0\uac8c \uc0dd\uba85\ub825\uc744 +2 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "id": "NAX13_03e",
+        "name": "\ucd08\uc790\ub825 \ucda9\uc804",
+        "set": "Curse of Naxxramas",
+        "text": "\uc0dd\uba85\ub825 +2",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Jon McConnell",
+        "attack": 4,
+        "collectible": true,
+        "cost": 3,
+        "flavor": "\ubcf8\ub798 \uc774\ub984\uc740 \"(\ub808\uac8c \uc74c\uc545\uc5d0 \ub9de\ucdb0) \ucda4\ucd94\ub294 \uac80\"\uc785\ub2c8\ub2e4.",
+        "health": 4,
+        "howToGet": "\uad70\uc0ac \uc9c0\uad6c\uc758 \ud6c8\ub828\uad50\uad00 \ub77c\uc8fc\ube44\uc5b4\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\uad70\uc0ac \uc9c0\uad6c\uc758 \ud6c8\ub828\uad50\uad00 \ub77c\uc8fc\ube44\uc5b4\uc2a4\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_029",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ucda4\ucd94\ub294 \uac80",
+        "rarity": "Common",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc774 \uce74\ub4dc\ub97c 1\uc7a5 \ubf51\uc2b5\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "id": "NAX15_01e",
+        "name": "\uce68\uc785\uc790!",
+        "set": "Curse of Naxxramas",
+        "type": "Enchantment"
+    },
+    {
+        "id": "NAX15_01He",
+        "name": "\uce68\uc785\uc790!",
+        "set": "Curse of Naxxramas",
+        "type": "Enchantment"
+    },
+    {
+        "health": 45,
+        "id": "NAX15_01H",
+        "name": "\ucf08\ud22c\uc790\ub4dc",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX15_01",
+        "name": "\ucf08\ud22c\uc790\ub4dc",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "artist": "Chris Robinson",
+        "attack": 6,
+        "collectible": true,
+        "cost": 8,
+        "elite": true,
+        "flavor": "\ucf08\ud22c\uc790\ub4dc\ub294 \ub9ac\uce58 \uc655\uc758 \ubd80\ub984\uc5d0 \uc800\ud56d\ud560 \uc218 \uc5c6\uc5c8\uc2b5\ub2c8\ub2e4. \ub9ac\uce58 \uc655\uc758 \ub355\uc744 \ucc2c\uc591\ud558\ub294 \uc790\ub3d9 \ub179\uc74c \uc804\ud654\uac00 \uacc4\uc18d\ud574\uc11c \uac78\ub824\uc654\uac70\ub4e0\uc694.",
+        "health": 8,
+        "howToGet": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ubaa8\ub4e0 \uc6b0\ub450\uba38\ub9ac\ub97c \uc4f0\ub7ec\ub728\ub824 \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ub099\uc2a4\ub77c\ub9c8\uc2a4\uc758 \ubaa8\ub4e0 \uc6b0\ub450\uba38\ub9ac\ub97c \uc4f0\ub7ec\ub728\ub9b0 \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_013",
+        "name": "\ucf08\ud22c\uc790\ub4dc",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "\uac01 \ud134\uc774 \ub05d\ub0a0 \ub54c, \uc774\ubc88 \ud134\uc5d0 \uc8fd\uc740 \ubaa8\ub4e0 \uc544\uad70 \ud558\uc218\uc778\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "id": "NAX15_04a",
+        "name": "\ucf08\ud22c\uc790\ub4dc\uc758 \ub178\uc608",
+        "set": "Curse of Naxxramas",
+        "text": "\ub0b4 \uac70\uc57c!",
+        "type": "Enchantment"
+    },
+    {
+        "health": 30,
+        "id": "NAX13_01",
+        "name": "\ud0c0\ub514\uc6b0\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 11,
+        "cost": 10,
+        "elite": true,
+        "health": 11,
+        "id": "FP1_014t",
+        "name": "\ud0c0\ub514\uc6b0\uc2a4",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "health": 45,
+        "id": "NAX13_01H",
+        "name": "\ud0c0\ub514\uc6b0\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 30,
+        "id": "NAX10_01",
+        "name": "\ud328\uce58\uc6cc\ud06c",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 45,
+        "id": "NAX10_01H",
+        "name": "\ud328\uce58\uc6cc\ud06c",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "attack": 0,
+        "cost": 0,
+        "health": 1,
+        "id": "NAX6_03t",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ud3ec\uc790",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ubaa8\ub4e0 \uc801 \ud558\uc218\uc778\uc5d0\uac8c \uacf5\uaca9\ub825\uc744 +8 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 1,
+        "id": "NAX6_04",
+        "name": "\ud3ec\uc790 \ud3ed\ubc1c",
+        "set": "Curse of Naxxramas",
+        "text": "\ubaa8\ub4e0 \uc801 \ud558\uc218\uc778\uc5d0\uac8c \ud53c\ud574\ub97c $1 \uc90d\ub2c8\ub2e4. \ud3ec\uc790\ub97c \ud558\ub098 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Spell"
+    },
+    {
+        "attack": 4,
+        "cost": 5,
+        "elite": true,
+        "health": 7,
+        "id": "NAX13_04H",
+        "name": "\ud4e8\uc9c4",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "artist": "Dany Orizio",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\ud4e8\uc9c4\uc740 \uc2ac\ud515\ub2c8\ub2e4. \uc2a4\ud0c8\ub77c\uadf8\uac00 \uc798\uc0dd\uaca8\uc11c\uc694.",
+        "health": 7,
+        "howToGet": "\ud53c\uc870\ubb3c \uc9c0\uad6c\ub97c \uc644\ub8cc\ud558\uc5ec \uc7a0\uae08 \ud574\uc81c",
+        "howToGetGold": "\ud53c\uc870\ubb3c \uc9c0\uad6c\ub97c \uc644\ub8cc\ud55c \ud6c4 \uc81c\uc791 \uac00\ub2a5",
+        "id": "FP1_015",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ud4e8\uc9c4",
+        "rarity": "Legendary",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \ub9cc\uc57d \uc2a4\ud0c8\ub77c\uadf8\uac00 \uc8fd\uc740 \uc0c1\ud0dc\ub77c\uba74 \ud0c0\ub514\uc6b0\uc2a4\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "NAX4_03",
+        "name": "\ud574\uace8",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 5,
+        "health": 5,
+        "id": "NAX4_03H",
+        "name": "\ud574\uace8",
+        "set": "Curse of Naxxramas",
+        "type": "Minion"
+    },
+    {
+        "attack": 5,
+        "cost": 4,
+        "health": 6,
+        "id": "NAXM_001",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ud574\uace8 \uae30\uc0ac",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc591\uc606\uc5d0 \uc788\ub294 \ud558\uc218\uc778\ub4e4\uc744 \ucc98\uce58\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 3,
+        "health": 3,
+        "id": "NAXM_002",
+        "mechanics": [
+            "Deathrattle"
+        ],
+        "name": "\ud574\uace8 \ub300\uc7a5\uc7a5\uc774",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc8fd\uc74c\uc758 \uba54\uc544\ub9ac:</b> \uc0c1\ub300\ud3b8\uc758 \ubb34\uae30\ub97c \ud30c\uad34\ud569\ub2c8\ub2e4.",
+        "type": "Minion"
+    },
+    {
+        "cost": 2,
+        "id": "NAX7_03",
+        "name": "\ud63c\ub780\uc758 \uc77c\uaca9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ud53c\ud574\ub97c 3 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "cost": 1,
+        "id": "NAX7_03H",
+        "name": "\ud63c\ub780\uc758 \uc77c\uaca9",
+        "set": "Curse of Naxxramas",
+        "text": "<b>\uc601\uc6c5 \ub2a5\ub825</b>\n\ud53c\ud574\ub97c 4 \uc90d\ub2c8\ub2e4.",
+        "type": "Hero Power"
+    },
+    {
+        "health": 40,
+        "id": "NAX7_01",
+        "name": "\ud6c8\ub828\uad50\uad00 \ub77c\uc8fc\ube44\uc5b4\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "health": 55,
+        "id": "NAX7_01H",
+        "name": "\ud6c8\ub828\uad50\uad00 \ub77c\uc8fc\ube44\uc5b4\uc2a4",
+        "set": "Curse of Naxxramas",
+        "type": "Hero"
+    },
+    {
+        "id": "FP1_005e",
+        "name": "\ud761\uc218",
+        "set": "Curse of Naxxramas",
+        "text": "\ub2a5\ub825\uce58 \uc99d\uac00",
+        "type": "Enchantment"
+    }
+]

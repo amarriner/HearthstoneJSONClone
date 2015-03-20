@@ -1,1 +1,159 @@
-[{"id":"Mekka2","name":"修理机器人","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"在你的回合结束时，为一个受伤的角色恢复6点生命值。","inPlayText":"","race":"Mech"},{"id":"Mekka4e","name":"变形","set":"Promotion","type":"Enchantment","text":"被变形为小鸡。","mechanics":["Morph"]},{"id":"Mekka4","name":"变鸡器","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":3,"text":"在你的回合开始时，随机将另一个随从变为1/1的小鸡。","inPlayText":"","race":"Mech"},{"id":"Mekka3e","name":"壮胆！","set":"Promotion","type":"Enchantment","text":"属性值提高。"},{"id":"Mekka3","name":"壮胆机器人3000型","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":4,"text":"在你的回合结束时，使一个随机随从获得+1/+1。","inPlayText":"","race":"Mech"},{"id":"Mekka1","name":"导航小鸡","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Common","cost":1,"attack":0,"health":1,"text":"在你的回合开始时，消灭该随从，并抽三张牌。","inPlayText":"","race":"Mech"},{"id":"Mekka4t","name":"小鸡","set":"Promotion","type":"Minion","cost":0,"attack":1,"health":1,"text":"<i>小鸡快跑！</i>","race":"Beast"},{"id":"PRO_001a","name":"我是鱼人","set":"Promotion","type":"Spell","cost":4,"text":"召唤三只、四只或者五只1/1的鱼人。"},{"id":"EX1_112","name":"格尔宾·梅卡托克","set":"Promotion","type":"Minion","faction":"Alliance","rarity":"Legendary","cost":6,"attack":6,"health":6,"text":"<b>战吼：</b>进行一次惊人的发明。","flavor":"他是侏儒的领袖，无与伦比的发明家。而且他变得越来越像个领袖了；相比他只是个发明家的时候，他已经不那么经常把人变成小鸡了。","artist":"Ludo Lullabi","collectible":true,"elite":true,"howToGetGold":"所有在测试阶段参与测试牌店功能的玩家都能获得此项奖励。","mechanics":["Battlecry"]},{"id":"PRO_001b","name":"潜行者的伎俩","set":"Promotion","type":"Spell","cost":4,"text":"造成$4点伤害。抽一张牌。"},{"id":"PRO_001","name":"精英牛头人酋长","set":"Promotion","type":"Minion","rarity":"Legendary","cost":5,"attack":5,"health":5,"text":"<b>战吼：</b>让两位玩家都具有摇滚的能力！（双方各获得一张强力和弦牌）","flavor":"他正在物色一名鼓手。目前的候选人包括：工程师学徒，森金持盾卫士，还有炎魔之王拉格纳罗斯。","artist":"Samwise Didier","collectible":true,"elite":true,"howToGetGold":"2013年暴雪嘉年华参与奖励。","mechanics":["Battlecry"]},{"id":"PRO_001c","name":"部落的力量","set":"Promotion","type":"Spell","cost":4,"text":"随机召唤一名部落勇士。"},{"id":"PRO_001at","name":"鱼人","set":"Promotion","type":"Minion","cost":1,"attack":1,"health":1,"race":"Murloc"}]
+[
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka2",
+        "inPlayText": "",
+        "name": "\u4fee\u7406\u673a\u5668\u4eba",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u7ed3\u675f\u65f6\uff0c\u4e3a\u4e00\u4e2a\u53d7\u4f24\u7684\u89d2\u8272\u6062\u590d6\u70b9\u751f\u547d\u503c\u3002",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka4e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "\u53d8\u5f62",
+        "set": "Promotion",
+        "text": "\u88ab\u53d8\u5f62\u4e3a\u5c0f\u9e21\u3002",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 3,
+        "id": "Mekka4",
+        "inPlayText": "",
+        "name": "\u53d8\u9e21\u5668",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u5f00\u59cb\u65f6\uff0c\u968f\u673a\u5c06\u53e6\u4e00\u4e2a\u968f\u4ece\u53d8\u4e3a1/1\u7684\u5c0f\u9e21\u3002",
+        "type": "Minion"
+    },
+    {
+        "id": "Mekka3e",
+        "name": "\u58ee\u80c6\uff01",
+        "set": "Promotion",
+        "text": "\u5c5e\u6027\u503c\u63d0\u9ad8\u3002",
+        "type": "Enchantment"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 4,
+        "id": "Mekka3",
+        "inPlayText": "",
+        "name": "\u58ee\u80c6\u673a\u5668\u4eba3000\u578b",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u7ed3\u675f\u65f6\uff0c\u4f7f\u4e00\u4e2a\u968f\u673a\u968f\u4ece\u83b7\u5f97+1/+1\u3002",
+        "type": "Minion"
+    },
+    {
+        "attack": 0,
+        "cost": 1,
+        "faction": "Alliance",
+        "health": 1,
+        "id": "Mekka1",
+        "inPlayText": "",
+        "name": "\u5bfc\u822a\u5c0f\u9e21",
+        "race": "Mech",
+        "rarity": "Common",
+        "set": "Promotion",
+        "text": "\u5728\u4f60\u7684\u56de\u5408\u5f00\u59cb\u65f6\uff0c\u6d88\u706d\u8be5\u968f\u4ece\uff0c\u5e76\u62bd\u4e09\u5f20\u724c\u3002",
+        "type": "Minion"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 1,
+        "id": "Mekka4t",
+        "name": "\u5c0f\u9e21",
+        "race": "Beast",
+        "set": "Promotion",
+        "text": "<i>\u5c0f\u9e21\u5feb\u8dd1\uff01</i>",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001a",
+        "name": "\u6211\u662f\u9c7c\u4eba",
+        "set": "Promotion",
+        "text": "\u53ec\u5524\u4e09\u53ea\u3001\u56db\u53ea\u6216\u8005\u4e94\u53ea1/1\u7684\u9c7c\u4eba\u3002",
+        "type": "Spell"
+    },
+    {
+        "artist": "Ludo Lullabi",
+        "attack": 6,
+        "collectible": true,
+        "cost": 6,
+        "elite": true,
+        "faction": "Alliance",
+        "flavor": "\u4ed6\u662f\u4f8f\u5112\u7684\u9886\u8896\uff0c\u65e0\u4e0e\u4f26\u6bd4\u7684\u53d1\u660e\u5bb6\u3002\u800c\u4e14\u4ed6\u53d8\u5f97\u8d8a\u6765\u8d8a\u50cf\u4e2a\u9886\u8896\u4e86\uff1b\u76f8\u6bd4\u4ed6\u53ea\u662f\u4e2a\u53d1\u660e\u5bb6\u7684\u65f6\u5019\uff0c\u4ed6\u5df2\u7ecf\u4e0d\u90a3\u4e48\u7ecf\u5e38\u628a\u4eba\u53d8\u6210\u5c0f\u9e21\u4e86\u3002",
+        "health": 6,
+        "howToGetGold": "\u6240\u6709\u5728\u6d4b\u8bd5\u9636\u6bb5\u53c2\u4e0e\u6d4b\u8bd5\u724c\u5e97\u529f\u80fd\u7684\u73a9\u5bb6\u90fd\u80fd\u83b7\u5f97\u6b64\u9879\u5956\u52b1\u3002",
+        "id": "EX1_112",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u683c\u5c14\u5bbe\u00b7\u6885\u5361\u6258\u514b",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\u6218\u543c\uff1a</b>\u8fdb\u884c\u4e00\u6b21\u60ca\u4eba\u7684\u53d1\u660e\u3002",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001b",
+        "name": "\u6f5c\u884c\u8005\u7684\u4f0e\u4fe9",
+        "set": "Promotion",
+        "text": "\u9020\u6210$4\u70b9\u4f24\u5bb3\u3002\u62bd\u4e00\u5f20\u724c\u3002",
+        "type": "Spell"
+    },
+    {
+        "artist": "Samwise Didier",
+        "attack": 5,
+        "collectible": true,
+        "cost": 5,
+        "elite": true,
+        "flavor": "\u4ed6\u6b63\u5728\u7269\u8272\u4e00\u540d\u9f13\u624b\u3002\u76ee\u524d\u7684\u5019\u9009\u4eba\u5305\u62ec\uff1a\u5de5\u7a0b\u5e08\u5b66\u5f92\uff0c\u68ee\u91d1\u6301\u76fe\u536b\u58eb\uff0c\u8fd8\u6709\u708e\u9b54\u4e4b\u738b\u62c9\u683c\u7eb3\u7f57\u65af\u3002",
+        "health": 5,
+        "howToGetGold": "2013\u5e74\u66b4\u96ea\u5609\u5e74\u534e\u53c2\u4e0e\u5956\u52b1\u3002",
+        "id": "PRO_001",
+        "mechanics": [
+            "Battlecry"
+        ],
+        "name": "\u7cbe\u82f1\u725b\u5934\u4eba\u914b\u957f",
+        "rarity": "Legendary",
+        "set": "Promotion",
+        "text": "<b>\u6218\u543c\uff1a</b>\u8ba9\u4e24\u4f4d\u73a9\u5bb6\u90fd\u5177\u6709\u6447\u6eda\u7684\u80fd\u529b\uff01\uff08\u53cc\u65b9\u5404\u83b7\u5f97\u4e00\u5f20\u5f3a\u529b\u548c\u5f26\u724c\uff09",
+        "type": "Minion"
+    },
+    {
+        "cost": 4,
+        "id": "PRO_001c",
+        "name": "\u90e8\u843d\u7684\u529b\u91cf",
+        "set": "Promotion",
+        "text": "\u968f\u673a\u53ec\u5524\u4e00\u540d\u90e8\u843d\u52c7\u58eb\u3002",
+        "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 1,
+        "health": 1,
+        "id": "PRO_001at",
+        "name": "\u9c7c\u4eba",
+        "race": "Murloc",
+        "set": "Promotion",
+        "type": "Minion"
+    }
+]
