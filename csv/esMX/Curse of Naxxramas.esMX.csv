@@ -1,0 +1,192 @@
+SET,TYPE,ID,NAME,TEXT,COST,MECHANICS,COLLECTIBLE,ARTIST,RARITY,ATTACK,HEALTH,HOWTOGETGOLD,FLAVOR,HOWTOGET,PLAYERCLASS,ELITE,RACE,DURABILITY
+"Curse of Naxxramas","Enchantment","NAX15_01He","¡Intruso!",,,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX15_01e","¡Intruso!",,,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX14_02","Aliento de escarcha","<b>Poder de héroe</b>
+Destruye a todos los esbirros enemigos que no están <b>Congelados</b>.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_016","Alma gemebunda","<b>Grito de batalla: Silencia</b> a tus otros esbirros.",4,Battlecry,True,"Glenn Rane","Rare",3,5,"Se puede crear luego de derrotar a Thaddius en el Arrabal de los Ensamblajes.","Esta alma no deja de lamentarse por las noches. ¡Ya déjanos dormir por favor!","Desbloqueada por derrotar a Thaddius en el Arrabal de los Ensamblajes.",,,,
+"Curse of Naxxramas","Minion","FP1_019t","Antárbol",,1,,,,,2,2,,,,"Druid",,,
+"Curse of Naxxramas","Hero","NAX1h_01","Anub'Rekhan",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero","NAX1_01","Anub'Rekhan",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Spell","NAX5_03","Apocalípticamente","Ambos jugadores roban 2 cartas y obtienen un Cristal de maná.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX1_04","Arácnido","<b>Poder de héroe</b>
+Invoca un Nerubiano 3/1.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX1h_04","Arácnido","<b>Poder de héroe</b>
+Invoca un Nerubiano 4/4.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_002t","Araña espectral",,1,,,,,1,1,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX6_02","Aura necrótica","<b>Poder de héroe</b>
+Inflige 3 de daño al héroe enemigo.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX6_02H","Aura necrótica","<b>Poder de héroe</b>
+Inflige 3 de daño al héroe enemigo.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","FP1_030e","Aura necrótica","Tus hechizos cuestan (5) más este turno.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_012t","Babosa","<b>Provocación</b>",1,Taunt,,,,1,2,,,,,,,
+"Curse of Naxxramas","Minion","NAX11_03","Babosa radiactiva",,1,,,,,2,2,,,,,,,
+"Curse of Naxxramas","Minion","NAX15_05","Baldomero","<i>Este es el minino de Kel'Thuzad.</i>",0,,,,"Legendary",1,1,,,,,True,"Beast",
+"Curse of Naxxramas","Hero","NAX9_01H","Barón Osahendido",,,,,,,,14,,,,,,,
+"Curse of Naxxramas","Hero","NAX9_01","Barón Osahendido",,,,,,,,7,,,,,,,
+"Curse of Naxxramas","Minion","FP1_031","Barón Osahendido","Tus esbirros activan su <b>Estertor</b> dos veces.",4,Aura,True,"Ralph Horsley","Legendary",1,7,"Se puede crear luego de completar el Arrabal Militar.","Se dice que antes había cinco jinetes pero uno decidió irse a trabajar a las Minas de la Muerte. Parece que le ofrecían mejores prestaciones.","Desbloqueada por completar el Arrabal Militar.",,True,,
+"Curse of Naxxramas","Minion","FP1_008","Caballero espectral","No puede ser objetivo de Hechizos ni Poderes de héroe.",5,,True,"Chris Rahn","Common",4,6,"Se puede crear luego de derrotar a Gothik el Cosechador en el Arrabal Militar.","¿Qué tienen en común los Dragones feéricos y los Caballeros espectrales? ¡Que los dos adoran los tallarines!","Desbloqueada por derrotar a Gothik el Cosechador en el Arrabal Militar.",,,,
+"Curse of Naxxramas","Hero Power","NAX15_04","Cadenas","<b>Poder de héroe</b>
+Toma el control de un esbirro enemigo aleatorio hasta el final del turno.",8,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX15_04H","Cadenas","<b>Poder de héroe</b>
+Toma el control de un esbirro enemigo aleatorio.",8,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX13_02","Cambio de polaridad","<b>Poder de héroe</b>
+Intercambia el Ataque y la Salud de todos los esbirros.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX14_03","Campeón congelado","Congelado de forma permanente. Los esbirros adyacentes son inmunes a Aliento de escarcha.",5,Aura,,,,2,10,,,,,,,
+"Curse of Naxxramas","Minion","FP1_004","Científico loco","<b>Estertor:</b> pon un <b>Secreto</b> de tu mazo en el campo de batalla.",2,Deathrattle,True,"James Ryman","Common",2,2,"Se puede crear luego de derrotar a Grobbulus en el Arrabal de los Ensamblajes.","Su madre quería que fuera mago o brujo. Pero... noooooooo... el tipo tenía que seguir los pasos de su padre y hacerse científico.","Desbloqueada por derrotar a Grobbulus en el Arrabal de los Ensamblajes.",,,,
+"Curse of Naxxramas","Minion","FP1_022","Clamavacío","<b>Estertor:</b> pon un Demonio aleatorio de tu mano en el campo de batalla.",4,Deathrattle,True,"Robb Shoberg","Common",3,4,"Se puede crear luego de completar el desafío clase Brujo en Naxxramas.",""¡Vacío! ¡Aquí vacío! ¡Vamos ven aquí amiguito!".","Desbloqueada por completar el desafío clase Brujo en Naxxramas.","Warlock",,"Demon",
+"Curse of Naxxramas","Enchantment","FP1_005e","Consumir","Estadísticas aumentadas.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX8_02H","Cosecha","<b>Poder de héroe</b>
+Roba una carta. Obtiene un Cristal de maná.",1,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX8_02","Cosecha","<b>Poder de héroe</b>
+Roba una carta.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX6_03te","Crecimiento fúngico","Ataque aumentado.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","NAX7_05","Cristal de control mental","¡Activa el cristal para controlar a los Suplentes!",1,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_023","Cultor oscuro","<b>Estertor:</b> otorga +3 de Salud a un esbirro aliado aleatorio.",3,Deathrattle,True,"Phroilan Gardner","Common",3,4,"Se puede crear luego de completar el desafío clase Sacerdote en Naxxramas.","El Culto de los Malditos ha descubierto que es mejor no mencionar su nombre cuando reclutan cultores nuevos.","Desbloqueada por completar el desafío clase Sacerdote en Naxxramas.","Priest",,,
+"Curse of Naxxramas","Minion","FP1_006","Destrero de la Muerte","<b>Carga. Estertor:</b> inflige 3 de daño a tu héroe.",1,Charge|Deathrattle,,,,2,3,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX12_03e","Dientes sobrantes","Ataque aumentado.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX12_02","Diezmar","<b>Poder de héroe</b>
+Cambia la Salud de todos los esbirros a 1.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX12_02e","Diezmar","Salud cambiada a 1.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX12_02H","Diezmar","<b>Poder de héroe</b>
+Cambia la Salud de todos los esbirros enemigos a 1.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","FP1_018","Duplicar","<b>Secreto:</b> cuando un esbirro aliado muere pon 2 copias de él en tu mano.",3,Secret,True,"Alex Garner","Common",,,"Se puede crear luego de completar el desafío clase Mago en Naxxramas.","¡Al fin puedes duplicar cartas sin que te clausuren la cuenta!","Desbloqueada por completar el desafío clase Mago en Naxxramas.","Mage",,,
+"Curse of Naxxramas","Minion","FP1_026","Emboscador Anub'ar","<b>Estertor:</b> devuelve un esbirro aliado aleatorio a tu mano.",4,Deathrattle,True,"Nate Bowden","Common",5,5,"Se puede crear luego de completar el desafío clase Pícaro en Naxxramas.","El nombre original era "El tipo de Anub'ar que devuelve un fulano a tu mano" pero le faltaba un poco de chispa...","Desbloqueada por completar el desafío clase Pícaro en Naxxramas.","Rogue",,,
+"Curse of Naxxramas","Spell","NAX12_04","Enfurecer","Otorga +6 de Ataque a tu héroe en este turno.",3,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX12_04e","Enfurecer","+6 de Ataque en este turno.",,OneTurnEffect,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","NAX1_05","Enjambre de langostas","Inflige $3 de daño a todos los esbirros enemigos. Restaura #3 de Salud a tu héroe.",7,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_028","Enterrador","Cada vez que invocas un esbirro con <b>Estertor</b> obtiene +1 de Ataque.",1,,True,"Jonboy Meyers","Common",1,2,"Se puede crear luego de derrotar a Remendejo en el Arrabal de los Ensamblajes.","En un mundo en el que puedes recurrir a un Ángel de la Resurrección para volver a la vida el negocio de los Enterradores está muerto.","Desbloqueada por derrotar a Remendejo en el Arrabal de los Ensamblajes.",,,,
+"Curse of Naxxramas","Minion","FP1_012","Eructador de lodo","<b>Provocación.
+Estertor:</b> invoca una Babosa 1/2 con <b>Provocación</b>.",5,Deathrattle|Taunt,True,"Nate Bowden","Rare",3,5,"Se puede crear luego de derrotar a Loatheb en el Arrabal de la Peste.","NO LE DES CERVEZA DE RAÍZ.","Desbloqueada por derrotar a Loatheb en el Arrabal de la Peste.",,,,
+"Curse of Naxxramas","Hero Power","NAX5_02","Erupción","<b>Poder de héroe</b>
+Inflige 2 de daño al último esbirro enemigo a la izquierda.",1,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX5_02H","Erupción","<b>Poder de héroe</b>
+Inflige 3 de daño al último esbirro enemigo a la izquierda.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_029","Espadas bailarinas","<b>Estertor:</b> tu oponente roba una carta.",3,Deathrattle,True,"Jon McConnell","Common",4,4,"Se puede crear luego de derrotar al Instructor Razuvious en el Arrabal Militar.","Les gusta bailar reggae.","Desbloqueada por derrotar al Instructor Razuvious en el Arrabal Militar.",,,,
+"Curse of Naxxramas","Minion","NAX6_03t","Espora","<b>Estertor:</b> otorga +8 de Ataque a todos los esbirros enemigos.",0,Deathrattle,,,,0,1,,,,,,,
+"Curse of Naxxramas","Minion","NAX4_03","Esqueleto",,1,,,,,1,1,,,,,,,
+"Curse of Naxxramas","Minion","NAX4_03H","Esqueleto",,5,,,,,5,5,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX15_02H","Explosión de escarcha","<b>Poder de héroe</b>
+Inflige 3 de daño al héroe enemigo y lo <b>Congela</b>.",0,Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX15_02","Explosión de escarcha","<b>Poder de héroe</b>
+Inflige 2 de daño al héroe enemigo y lo <b>Congela</b>.",0,Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Weapon","NAX12_03","Fauces","Cuando un esbirro con <b>Estertor</b> muere obtiene +2 de Ataque.",1,,,,,1,,,,,,,,5
+"Curse of Naxxramas","Weapon","NAX12_03H","Fauces","Cuando un esbirro con <b>Estertor</b> muere obtiene +2 de Ataque.",1,,,,,3,,,,,,,,5
+"Curse of Naxxramas","Minion","FP1_015","Feugen","<b>Estertor:</b> si Stalagg también murió en esta partida invoca a Thaddius.",5,Deathrattle,True,"Dany Orizio","Legendary",4,7,"Se puede crear luego de completar el Arrabal de los Ensamblajes.","Feugen está muy triste porque todos quieren más a Stalagg.","Desbloqueada por completar el Arrabal de los Ensamblajes.",,True,,
+"Curse of Naxxramas","Minion","NAX13_04H","Feugen",,5,,,,"Legendary",4,7,,,,,True,,
+"Curse of Naxxramas","Spell","NAX6_03","Flor de muerte","Inflige $5 de daño a un esbirro. Invoca una Espora.",4,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","NAX14_04","Frío crudo","Inflige $8 de daño al héroe enemigo y lo <b>Congela</b>.",5,Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Weapon","NAX10_02","Gancho","<b>Estertor:</b> pon esta arma en tu mano.",3,Deathrattle,,,,5,,,,,,,,8
+"Curse of Naxxramas","Weapon","NAX10_02H","Gancho","<b>Viento furioso</b>
+<b>Estertor:</b> pon esta arma en tu mano.",3,Deathrattle|Windfury,,,,4,,,,,,,,8
+"Curse of Naxxramas","Minion","FP1_027","Gárgola piel de piedra","Al comienzo de tu turno restaura toda la Salud de este esbirro.",3,,True,"Matt Smith","Common",1,4,"Se puede crear luego de derrotar a Noth el Pesteador en el Arrabal de la Peste.","A los Gárgola piel de piedra les gusta jugar a la mancha estatua.","Desbloqueada por derrotar a Noth el Pesteador en el Arrabal de la Peste.",,,,
+"Curse of Naxxramas","Hero","NAX12_01","Gluth",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX12_01H","Gluth",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX10_03","Golpe de odio","<b>Poder de héroe</b>
+Destruye un esbirro.",4,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX10_03H","Golpe de odio","<b>Poder de héroe</b>
+Destruye un esbirro.",4,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX7_03","Golpe desequilibrante","<b>Poder de héroe</b>
+Inflige 3 de daño.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX7_03H","Golpe desequilibrante","<b>Poder de héroe</b>
+Inflige 4 de daño.",1,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero","NAX8_01","Gothik el Cosechador",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX8_01H","Gothik el Cosechador",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero","NAX2_01H","Gran Viuda Faerlina",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero","NAX2_01","Gran Viuda Faerlina",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX11_01","Grobbulus",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX11_01H","Grobbulus",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Minion","NAX15_03n","Guardián de Corona de hielo","<b>Provocación</b>",4,Taunt,,,,3,3,,,,,,,
+"Curse of Naxxramas","Minion","NAX15_03t","Guardián de Corona de hielo","<b>Provocación</b>",4,Taunt,,,,5,5,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_04t","Guerrero espectral","Al comienzo de tu turno inflige 1 de daño a tu héroe.",3,,,,,0,4,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_04","Guerrero inexorable","<b>Estertor:</b> invoca un Guerrero espectral para tu adversario.",3,Deathrattle,,,,3,4,,,,,,,
+"Curse of Naxxramas","Hero","NAX5_01H","Heigan el Impuro",,,,,,,,45,,,,"Warlock",,,
+"Curse of Naxxramas","Hero","NAX5_01","Heigan el Impuro",,,,,,,,30,,,,"Warlock",,,
+"Curse of Naxxramas","Minion","NAXM_002","Herrero esquelético","<b>Estertor:</b> destruye el arma de tu adversario.",3,Deathrattle,,,,4,3,,,,,,,
+"Curse of Naxxramas","Weapon","NAX9_05","Hojarruna","Tiene +3 de Ataque si los otros Jinetes están muertos.",3,,,,,1,,,,,,,,3
+"Curse of Naxxramas","Weapon","NAX9_05H","Hojarruna","Tiene +6 de Ataque si los otros Jinetes están muertos.",3,,,,,2,,,,,,,,3
+"Curse of Naxxramas","Weapon","NAX7_04","Hojarruna gigante","Inflige el doble de daño a los héroes.",3,,,,,5,,,,,,,,2
+"Curse of Naxxramas","Weapon","NAX7_04H","Hojarruna gigante","Inflige el doble de daño a los héroes.",3,,,,,10,,,,,,,,2
+"Curse of Naxxramas","Minion","FP1_007","Huevo nerubiano","<b>Estertor:</b> invoca un Nerubiano 4/4.",2,Deathrattle,True,"Justin Thavirat","Rare",0,2,"Se puede crear luego de derrotar a Maexxna en el Arrabal Arácnido.","Los huevos son una fuente importante de proteínas y nerubianos.","Desbloqueada por derrotar a Maexxna en el Arrabal Arácnido.",,,,
+"Curse of Naxxramas","Hero","NAX7_01H","Instructor Razuvious",,,,,,,,55,,,,,,,
+"Curse of Naxxramas","Hero","NAX7_01","Instructor Razuvious",,,,,,,,40,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX11_04e","Inyección mutante","+4/+4 y <b>Provocación</b>.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","NAX11_04","Inyección mutante","Otorga +4/+4 y <b>Provocación</b> a un esbirro.",3,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_05t","Jinete espectral","Al comienzo de tu turno inflige 1 de daño a tu héroe.",5,,,,,0,6,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_05","Jinete inflexible","<b>Estertor:</b> invoca un Jinete espectral para tu adversario.",6,Deathrattle,,,,5,6,,,,,,,
+"Curse of Naxxramas","Hero","NAX15_01H","Kel'Thuzad",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero","NAX15_01","Kel'Thuzad",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Minion","FP1_013","Kel'Thuzad","Al final de cada turno invoca a todos los esbirros aliados que murieron en este turno.",8,,True,"Chris Robinson","Legendary",6,8,"Se puede crear luego de derrotar a todos los jefes de Naxxramas.","Kel'Thuzad no pudo resistirse al llamado del Rey Exánime. Y eso que era solo un mensaje grabado.","¡Desbloqueada por derrotar a todos los jefes de Naxxramas!",,True,,
+"Curse of Naxxramas","Minion","NAX9_02","Lady Blaumeux","Tu héroe es <b>Inmune</b>.",3,,,,,1,7,,,,,True,,
+"Curse of Naxxramas","Minion","NAX9_02H","Lady Blaumeux","Tu héroe es <b>Inmune</b>.",3,,,,,2,7,,,,,True,,
+"Curse of Naxxramas","Hero Power","NAX4_04H","Levantamuertos","<b>Poder de héroe pasivo</b>
+Cuando un enemigo muere invoca un esqueleto 5/5.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX4_04","Levantamuertos","<b>Poder de héroe pasivo</b>
+Cuando un enemigo muere invoca un esqueleto 1/1.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","FP1_028e","Llamado de la oscuridad","Estadísticas aumentadas.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX2_03","Lluvia de fuego","<b>Poder de héroe</b>
+Dispara un misil por cada carta que haya en la mano de tu adversario.",2,ImmuneToSpellpower,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX2_03H","Lluvia de Fuego","<b>Poder de héroe</b>
+Dispara un misil por cada carta que haya en la mano de tu adversario.",1,ImmuneToSpellpower,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_030","Loatheb","<b>Grito de batalla:</b> los hechizos enemigos cuestan (5) más el próximo turno.",5,Battlecry,True,"Samwise","Legendary",5,5,"Se puede crear luego de completar el Arrabal de la Peste.","Loatheb era una simple bestia de la ciénaga. Necesitamos leyes de protección ambiental más estrictas.","Desbloqueada por completar el Arrabal de la Peste.",,True,,
+"Curse of Naxxramas","Hero","NAX6_01H","Loatheb",,,,,,,,99,,,,,,,
+"Curse of Naxxramas","Hero","NAX6_01","Loatheb",,,,,,,,75,,,,,,,
+"Curse of Naxxramas","Minion","FP1_010","Maexxna","Destruye cualquier esbirro dañado por este esbirro.",6,Poisonous,True,"Howard Lyon","Legendary",2,8,"Se puede crear luego de completar el Arrabal Arácnido.","Maexxna se enfurece cuando la gente le dice "Máxima" o "Maxi".","Desbloqueada por completar el Arrabal Arácnido.",,True,"Beast",
+"Curse of Naxxramas","Hero","NAX3_01","Maexxna",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX3_01H","Maexxna",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Spell","NAX9_07","Marca de los Jinetes","Otorga +1/+1 a tus esbirros y a tu arma.",5,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX9_07e","Marca de los Jinetes","+1/+1.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_003","Moco resonante","<b>Grito de batalla:</b> invoca una copia exacta de este esbirro al final del turno.",2,Battlecry,True,"Eric Browning","Epic",1,2,"Se puede crear luego de derrotar a Sapphiron en la Guarida de la Vermis.","MOCO... OCo... Oco... (oco...)","Desbloqueada por derrotar a Sapphiron en la Guarida de la Vermis.",,,,
+"Curse of Naxxramas","Minion","NAXM_001","Necrocaballero","<b>Estertor:</b> también destruye los esbirros adyacentes.",4,Deathrattle,,,,5,6,,,,,,,
+"Curse of Naxxramas","Minion","FP1_024","Necrófago inestable","<b>Provocación</b>. <b>Estertor:</b> inflige 1 de daño a todos los esbirros.",2,Deathrattle|Taunt,True,"Mike Nicholson","Common",1,3,"Se puede crear luego de derrotar a Heigan el Impuro en el Arrabal de la Peste.","Cargar tus necrófagos con combustible de cohetes es furor en la escuela de nigromantes.","Desbloqueada por derrotar a Heigan el Impuro en el Arrabal de la Peste.",,,,
+"Curse of Naxxramas","Minion","NAX1_03","Nerubiano",,2,,,,,3,1,,,,,,,
+"Curse of Naxxramas","Minion","NAX1h_03","Nerubiano",,2,,,,,4,4,,,,,,,
+"Curse of Naxxramas","Minion","FP1_007t","Nerubiano",,3,,,,"Rare",4,4,,,,,,,
+"Curse of Naxxramas","Hero","NAX4_01H","Noth el Pesteador",,,,,,,,45,,,,"Mage",,,
+"Curse of Naxxramas","Hero","NAX4_01","Noth el Pesteador",,,,,,,,30,,,,"Mage",,,
+"Curse of Naxxramas","Hero Power","NAX11_02","Nube venenosa","<b>Poder de héroe</b>
+Inflige 1 de daño a todos los esbirros. Si alguno muere invoca una babosa.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX11_02H","Nube venenosa","<b>Poder de héroe</b>
+Inflige 2 de daño a todos los enemigos. Si alguno muere invoca una babosa.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","NAX4_05","Peste","Destruye a todos los esbirros que no son Esqueletos.",6,,,,,,,,,,,,,
+"Curse of Naxxramas","Weapon","FP1_021","Picadura de la Muerte","<b>Estertor:</b> inflige 1 de daño a todos los esbirros.",4,Deathrattle,True,"Jim Nelson","Common",4,,"Se puede crear luego de completar el desafío clase Guerrero en Naxxramas.",""Muerte con gusto no pica". —McScruff el Señor de la muerte","Desbloqueada por completar el desafío clase Guerrero en Naxxramas.","Warrior",,,2
+"Curse of Naxxramas","Enchantment","FP1_023e","Poder del zigurat","+3 de Salud.",,,,,,,,,,,"Priest",,,
+"Curse of Naxxramas","Enchantment","NAX13_02e","Polaridad","Ataque y Salud intercambiados.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_03t","Practicante espectral","Al comienzo de tu turno inflige 1 de daño a tu héroe.",1,,,,,0,2,,,,,,,
+"Curse of Naxxramas","Minion","NAX8_03","Practicante inflexible","<b>Estertor:</b> invoca un Practicante espectral para tu adversario.",1,Deathrattle,,,,2,2,,,,,,,
+"Curse of Naxxramas","Spell","NAX6_04","Ráfaga de esporas","Inflige $1 de daño a todos los esbirros enemigos. Invoca una Espora.",1,,,,,,,,,,,,,
+"Curse of Naxxramas","Spell","FP1_025","Reencarnación","Destruye un esbirro y luego devuélvelo a la vida con toda la Salud.",2,,True,"Dan Scott","Common",,,"Se puede crear luego de completar el desafío clase Chamán en Naxxramas.","Es como nacer salvo que eres adulto y hasta hace un segundo estabas muerto.","Desbloqueada por completar el desafío clase Chamán en Naxxramas.","Shaman",,,
+"Curse of Naxxramas","Hero","NAX10_01H","Remendejo",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero","NAX10_01","Remendejo",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX14_01","Sapphiron",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Hero","NAX14_01H","Sapphiron",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Spell","FP1_019","Semillas venenosas","Destruye a todos los esbirros e invoca Antárboles 2/2 para reemplazarlos.",4,,True,"Brian Despain","Common",,,"Se puede crear luego de completar el desafío clase Druida en Naxxramas.","El "Vensemillado" es el plato menos pedido en el Emporio del guiso druida.","Desbloqueada por completar el desafío clase Druida en Naxxramas.","Druid",,,
+"Curse of Naxxramas","Minion","FP1_009","Señor de la muerte","<b>Provocación. Estertor:</b> tu adversario pone un esbirro de su mazo en el campo de batalla.",3,Deathrattle|Taunt,True,"Ben Olson","Rare",2,8,"Se puede crear luego de derrotar a Los cuatro jinetes en el Arrabal Militar.",""¡Levántate de tu tumba!" —Kel'Thuzad","Desbloqueada por derrotar a Los cuatro jinetes en el Arrabal Militar.",,,,
+"Curse of Naxxramas","Minion","NAX9_03H","Señor feudal Korth'azz","Tu héroe es <b>Inmune</b>.",3,,,,,2,7,,,,,True,,
+"Curse of Naxxramas","Minion","NAX9_03","Señor feudal Korth'azz","Tu héroe es <b>Inmune</b>.",3,,,,,1,7,,,,,True,,
+"Curse of Naxxramas","Minion","FP1_017","Señor telaraña Nerub'ar","Los esbirros con <b>Grito de batalla</b> cuestan (2) más.",2,Aura,True,"Alex Horley Orlandelli","Common",1,4,"Se puede crear luego de derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.","Los Señores telaraña pasan el día armando camas elásticas gigantes.","Desbloqueada por derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.",,,,
+"Curse of Naxxramas","Enchantment","NAX15_04a","Siervo de Kel'Thuzad","¡MÍO!",,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX9_04H","Sir Zeliek","Tu héroe es <b>Inmune</b>.",3,,,,,2,7,,,,,True,,
+"Curse of Naxxramas","Minion","NAX9_04","Sir Zeliek","Tu héroe es <b>Inmune</b>.",3,,,,,1,7,,,,,True,,
+"Curse of Naxxramas","Minion","FP1_005","Sombra de Naxxramas","<b>Sigilo.</b> Al comienzo de tu turno obtiene +1/+1.",3,Stealth,True,"Ittoku Seta","Epic",2,2,"Se puede crear luego de derrotar a Kel'Thuzad en la Guarida de la Vermis.","Dicen que en Naxxramas faltan 50 sombras porque se fueron con Grey.","Desbloqueada por derrotar a Kel'Thuzad en la Guarida de la Vermis.",,,,
+"Curse of Naxxramas","Hero Power","NAX9_06","Sombra impía","<b>Poder de héroe</b>
+Roba 2 cartas.",5,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_014","Stalagg","<b>Estertor:</b> si Feugen también murió en esta partida invoca a Thaddius.",5,Deathrattle,True,"Dany Orizio","Legendary",7,4,"Se puede crear luego de completar el Arrabal de los Ensamblajes.","Stalagg escribe su propia frase sin ayuda. "¡STALAGG GENIO!".","Desbloqueada por completar el Arrabal de los Ensamblajes.",,True,,
+"Curse of Naxxramas","Minion","NAX13_05H","Stalagg",,5,,,,"Legendary",7,4,,,,,True,,
+"Curse of Naxxramas","Spell","NAX13_03","Supercarga","Otorga +2 de Salud a tus esbirros.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Enchantment","NAX13_03e","Supercargado","+2 de Salud.",,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX7_02","Suplente","<b>Provocación</b>",2,Taunt,,,,0,7,,,,,,,
+"Curse of Naxxramas","Minion","FP1_011","Tejerred","<b>Estertor:</b> agrega una Bestia aleatoria a tu mano.",1,Deathrattle,True,"Dan Brereton","Common",1,1,"Se puede crear luego de completar el desafío clase Cazador en Naxxramas.","¡Los capullos de arañas son como minipiñatas!","Desbloqueada por completar el desafío clase Cazador en Naxxramas.","Hunter",,"Beast",
+"Curse of Naxxramas","Hero","NAX13_01","Thaddius",,,,,,,,30,,,,,,,
+"Curse of Naxxramas","Minion","FP1_014t","Thaddius",,10,,,,"Legendary",11,11,,,,,True,,
+"Curse of Naxxramas","Hero","NAX13_01H","Thaddius",,,,,,,,45,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX3_02H","Trampa arácnida","<b>Poder de héroe</b>
+Devuelve 2 esbirros enemigos aleatorios a la mano de tu adversario.",0,,,,,,,,,,,,,
+"Curse of Naxxramas","Hero Power","NAX3_02","Trampa arácnida","<b>Poder de héroe</b>
+Devuelve un esbirro enemigo aleatorio a la mano de tu adversario.",3,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","FP1_002","Trepador embrujado","<b>Estertor:</b> invoca dos Arañas espectrales 1/1.",2,Deathrattle,True,"Jeremy Cranford","Common",1,2,"Se puede crear luego de derrotar a Anub'Rekhan en el Arrabal Arácnido.","Aracnofalsofobia: temor a las arañas falsas.","Desbloqueada por derrotar a Anub'Rekhan en el Arrabal Arácnido.",,,"Beast",
+"Curse of Naxxramas","Spell","NAX3_03","Veneno necrótico","Destruye un esbirro.",2,,,,,,,,,,,,,
+"Curse of Naxxramas","Minion","NAX2_05H","Venerador","Tu héroe tiene +3 de Ataque en tu turno.",3,Aura,,,,2,4,,,,,,,
+"Curse of Naxxramas","Minion","NAX2_05","Venerador","Tu héroe tiene +1 de Ataque en tu turno.",3,Aura,,,,1,4,,,,,,,
+"Curse of Naxxramas","Enchantment","FP1_020e","Venganza","+3/+2.",,,,,,,,,,,"Paladin",,,
+"Curse of Naxxramas","Spell","FP1_020","Vengar","<b>Secreto:</b> cuando uno de tus esbirros muere otorga +3/+2 a un esbirro aliado aleatorio.",1,Secret,True,"Zoltan & Gabor","Common",,,"Se puede crear luego de completar el desafío clase Paladín en Naxxramas.","Varios paladines se han unido con el nombre "Fuerza de la Justicia". El abogado los convenció de que "Liga de la Justicia" no era la mejor opción.","Desbloqueada por completar el desafío clase Paladín en Naxxramas.","Paladin",,,
+"Curse of Naxxramas","Minion","FP1_001","Zombi destripado","<b>Estertor:</b> restaura 5 de Salud al héroe enemigo.",1,Deathrattle,True,"E. M. Gist","Common",2,3,"Se puede crear luego de derrotar a Gluth en el Arrabal de los Ensamblajes.","Zombi. Nuestro plato del día.","Desbloqueada por derrotar a Gluth en el Arrabal de los Ensamblajes.",,,,

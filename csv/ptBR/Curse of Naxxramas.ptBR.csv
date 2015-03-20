@@ -1,0 +1,192 @@
+MECHANICS,SET,NAME,TEXT,ATTACK,COST,HEALTH,TYPE,ID,COLLECTIBLE,ARTIST,RARITY,HOWTOGETGOLD,FLAVOR,HOWTOGET,RACE,PLAYERCLASS,ELITE,DURABILITY
+Aura,"Curse of Naxxramas","Adorador","Seu herói tem +1 de Ataque no seu turno.",1,3,4,"Minion","NAX2_05",,,,,,,,,,
+Aura,"Curse of Naxxramas","Adorador","Seu herói tem +3 de Ataque no seu turno.",2,3,4,"Minion","NAX2_05H",,,,,,,,,,
+Battlecry,"Curse of Naxxramas","Alma Ululante","<b>Grito de Guerra: Silencie</b> seus outros lacaios.",3,4,5,"Minion","FP1_016",True,"Glenn Rane","Rare","Pode ser criado após derrotar Thaddius no Distrito dos Constructos.","Esta alma fica <i>se lamentando</i> com você. Sai alma me deixa!","Desbloqueado ao derrotar Thaddius no Distrito dos Constructos.",,,,
+,"Curse of Naxxramas","Alteração de Polaridade","<b>Poder Heroico</b>
+Troque o Ataque com a Vida de todos os lacaios.",,0,,"Hero Power","NAX13_02",,,,,,,,,,
+,"Curse of Naxxramas","Anub'Rekhan",,,,30,"Hero","NAX1_01",,,,,,,,,,
+,"Curse of Naxxramas","Anub'Rekhan",,,,45,"Hero","NAX1h_01",,,,,,,,,,
+,"Curse of Naxxramas","Apocalipse Mental","Os dois jogadores compram 2 cards e recebem um Cristal de Mana.",,2,,"Spell","NAX5_03",,,,,,,,,,
+,"Curse of Naxxramas","Aprendiz Espectral","No início do seu turno cause 1 de dano ao seu herói.",0,1,2,"Minion","NAX8_03t",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Aprendiz Implacável","<b>Último Suspiro:</b> Evoque um Aprendiz Espectral para o seu oponente.",2,1,2,"Minion","NAX8_03",,,,,,,,,,
+,"Curse of Naxxramas","Aranha Espectral",,1,1,1,"Minion","FP1_002t",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Arauto do Caos","<b>Último Suspiro:</b> Coloque um Demônio aleatório da sua mão no campo de batalha.",3,4,4,"Minion","FP1_022",True,"Robb Shoberg","Common","Pode ser criado após completar o Desafio de Bruxo em Naxxramas.",""Caos! Aqui caos! Aqui amigão!"","Desbloqueado ao completar o Desafio de Bruxo em Naxxramas.","Demon","Warlock",,
+Deathrattle|Taunt,"Curse of Naxxramas","Arrota-Lodo","<b>Provocar.
+Último Suspiro:</b> Evoque um Visgo 1/2 com <b>Provocar</b>.",3,5,5,"Minion","FP1_012",True,"Nate Bowden","Rare","Pode ser criado após derrotar Repugnaz no Distrito da Peste.","NÃO DÊ A ELE UMA GARRAFA DE CERVEJA.","Desbloqueado ao derrotar Repugnaz no Distrito da Peste.",,,,
+,"Curse of Naxxramas","Arvoroso",,2,1,2,"Minion","FP1_019t",,,,,,,,"Druid",,
+Taunt,"Curse of Naxxramas","Aspirante","<b>Provocar</b>",0,2,7,"Minion","NAX7_02",,,,,,,,,,
+,"Curse of Naxxramas","Aura Necrótica","<b>Poder Heroico</b>
+Cause 3 de dano ao herói inimigo.",,0,,"Hero Power","NAX6_02H",,,,,,,,,,
+,"Curse of Naxxramas","Aura Necrótica","<b>Poder Heroico</b>
+Cause 3 de dano ao herói inimigo.",,2,,"Hero Power","NAX6_02",,,,,,,,,,
+,"Curse of Naxxramas","Aura Necrótica","Seus feitiços custam (5) a mais neste turno!",,,,"Enchantment","FP1_030e",,,,,,,,,,
+,"Curse of Naxxramas","Barão Rivendare",,,,14,"Hero","NAX9_01H",,,,,,,,,,
+Aura,"Curse of Naxxramas","Barão Rivendare","Seus lacaios ativam os <b>Últimos Suspiros</b> duas vezes.",1,4,7,"Minion","FP1_031",True,"Ralph Horsley","Legendary","Pode ser criado após completar o Distrito Militar.","Antes eram cinco Cavaleiros mas um saiu porque apareceu uma vaga nas Minas Mortas com mais benefícios.","Desbloqueado ao completar o Distrito Militar.",,,True,
+,"Curse of Naxxramas","Barão Rivendare",,,,7,"Hero","NAX9_01",,,,,,,,,,
+Aura,"Curse of Naxxramas","Campeão Congelado","Congelado permanentemente. Os lacaios adjacentes ficam imunes a Sopro Gélido.",2,5,10,"Minion","NAX14_03",,,,,,,,,,
+Deathrattle|Taunt,"Curse of Naxxramas","Carniçal Instável","<b>Provocar</b>. <b>Último Suspiro:</b> Cause 1 de dano a todos os lacaios.",1,2,3,"Minion","FP1_024",True,"Mike Nicholson","Common","Pode ser criado após derrotar Heigan o Sujo no Distrito da Peste.","Encher seus Carniçais com Combustível de Foguete é a maior diversão na escola de Necromantes.","Desbloqueado ao derrotar Heigan o Sujo no Distrito da Peste.",,,,
+,"Curse of Naxxramas","Cavaleiro Espectral","Não pode ser alvo de feitiços nem de Poderes Heroicos.",4,5,6,"Minion","FP1_008",True,"Chris Rahn","Common","Pode ser criado após derrotar Gothik o Ceifador no Distrito Militar.","O que as Dragoletas e os Calaveiros Espectrais têm em comum? Os dois gostam de macarrão!","Desbloqueado ao derrotar Gothik o Ceifador no Distrito Militar.",,,,
+,"Curse of Naxxramas","Cavalgante Espectral","No início do seu turno cause 1 de dano ao seu herói.",0,5,6,"Minion","NAX8_05t",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Cavalgante Implacável","<b>Último Suspiro:</b> Evoque um Cavalgante Espectral para o seu oponente.",5,6,6,"Minion","NAX8_05",,,,,,,,,,
+,"Curse of Naxxramas","Ceifar","<b>Poder Heroico</b>
+Compre um card. Receba um Cristal de Mana.",,1,,"Hero Power","NAX8_02H",,,,,,,,,,
+,"Curse of Naxxramas","Ceifar","<b>Poder Heroico</b>
+Compre um card.",,2,,"Hero Power","NAX8_02",,,,,,,,,,
+,"Curse of Naxxramas","Chamado da Escuridão","Atributos aumentados.",,,,"Enchantment","FP1_028e",,,,,,,,,,
+ImmuneToSpellpower,"Curse of Naxxramas","Chuva de Fogo","<b>Poder Heroico</b>
+Dispare um míssil para cada card na mão de seu oponente.",,1,,"Hero Power","NAX2_03H",,,,,,,,,,
+ImmuneToSpellpower,"Curse of Naxxramas","Chuva de Fogo","<b>Poder Heroico</b>
+Dispare um míssil para cada card na mão de seu oponente.",,2,,"Hero Power","NAX2_03",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Cientista Louco","<b>Último Suspiro:</b> Coloque um <b>Segredo</b> do seu deck no campo de batalha.",2,2,2,"Minion","FP1_004",True,"James Ryman","Common","Pode ser criado após derrotar Grobbulus no Distrito dos Constructos.","A mãe dele queria que ele fosse um mago ou bruxo mas nãaaaaaaaaao ele tinha que ser cientista como o pai.","Desbloqueado ao derrotar Grobbulus no Distrito dos Constructos.",,,,
+,"Curse of Naxxramas","Consumir","Atributos aumentados.",,,,"Enchantment","FP1_005e",,,,,,,,,,
+Charge|Deathrattle,"Curse of Naxxramas","Corcel da Morte","<b>Investida. Último Suspiro:</b> Cause 3 de dano ao seu herói.",2,1,3,"Minion","FP1_006",,,,,,,,,,
+,"Curse of Naxxramas","Correntes","<b>Poder Heroico</b>
+Assuma o controle de um lacaio inimigo aleatório até o final do turno.",,8,,"Hero Power","NAX15_04",,,,,,,,,,
+,"Curse of Naxxramas","Correntes","<b>Poder Heroico</b>
+Assuma o controle de um lacaio inimigo aleatório.",,8,,"Hero Power","NAX15_04H",,,,,,,,,,
+,"Curse of Naxxramas","Coveiro","Toda vez que evocar um lacaio com <b>Último Suspiro</b> receba +1 de ataque.",1,1,2,"Minion","FP1_028",True,"Jonboy Meyers","Common","Pode ser criado após derrotar Retalhoso no Distrito dos Constructos.","Em um mundo onde você pode ir até um anjo da cura e ressuscitar os Coveiros têm pouquíssimo trabalho.","Desbloqueado ao derrotar Retalhoso no Distrito dos Constructos.",,,,
+,"Curse of Naxxramas","Crescimento Fúngico","Ataque aumentado.",,,,"Enchantment","NAX6_03te",,,,,,,,,,
+,"Curse of Naxxramas","Cristal de Controle Mental","Ative o Cristal para controlar os Aspirantes!",,1,,"Spell","NAX7_05",,,,,,,,,,
+,"Curse of Naxxramas","Dentes Extras","Ataque aumentado.",,,,"Enchantment","NAX12_03e",,,,,,,,,,
+,"Curse of Naxxramas","Deslizar","<b>Poder Heroico</b>
+Evoque um Nerubiano 3/1.",,2,,"Hero Power","NAX1_04",,,,,,,,,,
+,"Curse of Naxxramas","Deslizar","<b>Poder Heroico</b>
+Evoque um Nerubiano 4/4.",,2,,"Hero Power","NAX1h_04",,,,,,,,,,
+,"Curse of Naxxramas","Dizimar","Vida mudada para 1.",,,,"Enchantment","NAX12_02e",,,,,,,,,,
+,"Curse of Naxxramas","Dizimar","<b>Poder Heroico</b>
+Mude a Vida de todos os lacaios para 1.",,2,,"Hero Power","NAX12_02",,,,,,,,,,
+,"Curse of Naxxramas","Dizimar","<b>Poder Heroico</b>
+Mude a Vida dos lacaios inimigos para 1.",,0,,"Hero Power","NAX12_02H",,,,,,,,,,
+Secret,"Curse of Naxxramas","Duplicar","<b>Segredo:</b> Quando um lacaio aliado morrer coloque 2 cópias dele na sua mão.",,3,,"Spell","FP1_018",True,"Alex Garner","Common","Pode ser criado após completar o Desafio de Mago em Naxxramas.","A única vez em que duplicar cards não vai fazer você ser banido!","Desbloqueado ao completar o Desafio de Mago em Naxxramas.",,"Mage",,
+Deathrattle,"Curse of Naxxramas","Emboscador Anub'ar","<b>Último Suspiro:</b> Devolva um lacaio aliado aleatório à sua mão.",5,4,5,"Minion","FP1_026",True,"Nate Bowden","Common","Pode ser criado após completar o Desafio de Ladino em Naxxramas.","No comecinho ele era chamado de "Carinha Abub'ar que manda um carinha de volta pra sua mão" mas faltava aquele tchan.","Desbloqueado ao completar o Desafio de Ladino em Naxxramas.",,"Rogue",,
+OneTurnEffect,"Curse of Naxxramas","Enfurecer","+6 de Ataque neste turno.",,,,"Enchantment","NAX12_04e",,,,,,,,,,
+,"Curse of Naxxramas","Enfurecer","Conceda +6 de Ataque ao seu herói neste turno.",,3,,"Spell","NAX12_04",,,,,,,,,,
+,"Curse of Naxxramas","Erupção","<b>Poder Heroico</b>
+Cause 2 de dano ao lacaio inimigo mais à esquerda.",,1,,"Hero Power","NAX5_02",,,,,,,,,,
+,"Curse of Naxxramas","Erupção","<b>Poder Heroico</b>
+Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.",,0,,"Hero Power","NAX5_02H",,,,,,,,,,
+,"Curse of Naxxramas","Escravo de Kel'Thuzad","SAI QUE É MEU!",,,,"Enchantment","NAX15_04a",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Espadas Dançantes","<b>Último Suspiro:</b> Seu oponente compra um card.",4,3,4,"Minion","FP1_029",True,"Jon McConnell","Common","Pode ser criado após derrotar o Instrutor Razúvio no Distrito Militar.","Elas gostam de dançar reggae.","Desbloqueado ao derrotar o Instrutor Razúvio no Distrito Militar.",,,,
+Deathrattle,"Curse of Naxxramas","Esporo","<b>Último Suspiro:</b> Conceda +8 de Ataque a todos os lacaios inimigos.",0,0,1,"Minion","NAX6_03t",,,,,,,,,,
+,"Curse of Naxxramas","Esqueleto",,5,5,5,"Minion","NAX4_03H",,,,,,,,,,
+,"Curse of Naxxramas","Esqueleto",,1,1,1,"Minion","NAX4_03",,,,,,,,,,
+,"Curse of Naxxramas","Explosão de Esporos","Cause $1 de dano a todos os lacaios inimigos. Evoque um Esporo.",,1,,"Spell","NAX6_04",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Ferreiro Descarnado","<b>Último Suspiro:</b> Destrua a arma do seu oponente.",4,3,3,"Minion","NAXM_002",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Feugen","<b>Último Suspiro:</b> Se Stalagg também morreu nesta partida evoque Thaddius.",4,5,7,"Minion","FP1_015",True,"Dany Orizio","Legendary","Pode ser criado após completar o Distrito dos Constructos.","Feugen está triste porque todo mundo gosta mais do Stalagg.","Desbloqueado ao completar o Distrito dos Constructos.",,,True,
+,"Curse of Naxxramas","Feugen",,4,5,7,"Minion","NAX13_04H",,,"Legendary",,,,,,True,
+,"Curse of Naxxramas","Florescer da Morte","Cause $5 de dano a um lacaio. Evoque um Esporo.",,4,,"Spell","NAX6_03",,,,,,,,,,
+Freeze,"Curse of Naxxramas","Frio Puro","Cause $8 de dano ao herói inimigo e <b>Congele</b>-o.",,5,,"Spell","NAX14_04",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Gancho","<b>Último Suspiro:</b> Coloque esta arma na sua mão.",5,3,,"Weapon","NAX10_02",,,,,,,,,,8
+Deathrattle|Windfury,"Curse of Naxxramas","Gancho","<b>Fúria dos Ventos</b>
+<b>Último Suspiro:</b> Coloque esta arma na sua mão.",4,3,,"Weapon","NAX10_02H",,,,,,,,,,8
+,"Curse of Naxxramas","Gárgula Litopele","No início do seu turno restaure toda a Vida deste lacaio.",1,3,4,"Minion","FP1_027",True,"Matt Smith","Common","Pode ser criado após derrotar Noth o Pestífero no Distrito da Peste.","Gárgulas Litopele adoram brincar de estátua.","Desbloqueado ao derrotar Noth o Pestífero no Distrito da Peste.",,,,
+,"Curse of Naxxramas","Gluth",,,,45,"Hero","NAX12_01H",,,,,,,,,,
+,"Curse of Naxxramas","Gluth",,,,30,"Hero","NAX12_01",,,,,,,,,,
+,"Curse of Naxxramas","Golpe Desequilibrante","<b>Poder Heroico</b>
+Cause 4 de dano.",,1,,"Hero Power","NAX7_03H",,,,,,,,,,
+,"Curse of Naxxramas","Golpe Desequilibrante","<b>Poder Heroico</b>
+Cause 3 de dano.",,2,,"Hero Power","NAX7_03",,,,,,,,,,
+,"Curse of Naxxramas","Golpe Odioso","<b>Poder Heroico</b>
+Destrua um lacaio.",,4,,"Hero Power","NAX10_03",,,,,,,,,,
+,"Curse of Naxxramas","Golpe Odioso","<b>Poder Heroico</b>
+Destrua um lacaio.",,4,,"Hero Power","NAX10_03H",,,,,,,,,,
+Battlecry,"Curse of Naxxramas","Gosma Ecoante","<b>Grito de Guerra:</b> No final do turno evoque uma cópia exata deste lacaio.",1,2,2,"Minion","FP1_003",True,"Eric Browning","Epic","Pode ser criado após derrotar Sapphiron no Covil da Serpe Gélida.","GOSMA... Gosma... Gosma... (gosma...)","Desbloqueado ao derrotar Sapphiron no Covil da Serpe Gélida.",,,,
+,"Curse of Naxxramas","Gothik o Ceifador",,,,45,"Hero","NAX8_01H",,,,,,,,,,
+,"Curse of Naxxramas","Gothik o Ceifador",,,,30,"Hero","NAX8_01",,,,,,,,,,
+,"Curse of Naxxramas","Grã-viúva Faerlina",,,,45,"Hero","NAX2_01H",,,,,,,,,,
+,"Curse of Naxxramas","Grã-viúva Faerlina",,,,30,"Hero","NAX2_01",,,,,,,,,,
+,"Curse of Naxxramas","Grobbulus",,,,30,"Hero","NAX11_01",,,,,,,,,,
+,"Curse of Naxxramas","Grobbulus",,,,45,"Hero","NAX11_01H",,,,,,,,,,
+Taunt,"Curse of Naxxramas","Guardião da Coroa de Gelo","<b>Provocar</b>",5,4,5,"Minion","NAX15_03t",,,,,,,,,,
+Taunt,"Curse of Naxxramas","Guardião da Coroa de Gelo","<b>Provocar</b>",3,4,3,"Minion","NAX15_03n",,,,,,,,,,
+,"Curse of Naxxramas","Guerreiro Espectral","No início do seu turno cause 1 de dano ao seu herói.",0,3,4,"Minion","NAX8_04t",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Guerreiro Implacável","<b>Último Suspiro:</b> Evoque um Guerreiro Espectral para o seu oponente.",3,3,4,"Minion","NAX8_04",,,,,,,,,,
+,"Curse of Naxxramas","Heigan o Sujo",,,,45,"Hero","NAX5_01H",,,,,,,,"Warlock",,
+,"Curse of Naxxramas","Heigan o Sujo",,,,30,"Hero","NAX5_01",,,,,,,,"Warlock",,
+Freeze,"Curse of Naxxramas","Impacto Gélido","<b>Poder Heroico</b>
+Cause 2 de dano ao herói inimigo e <b>Congele</b>-o.",,0,,"Hero Power","NAX15_02",,,,,,,,,,
+Freeze,"Curse of Naxxramas","Impacto Gélido","<b>Poder Heroico</b>
+Cause 3 de dano ao herói inimigo e <b>Congele</b>-o.",,0,,"Hero Power","NAX15_02H",,,,,,,,,,
+,"Curse of Naxxramas","Injeção Mutante","Conceda +4/+4 e <b>Provocar</b> a um lacaio.",,3,,"Spell","NAX11_04",,,,,,,,,,
+,"Curse of Naxxramas","Injeção Mutante","+4/+4 e <b>Provocar</b>.",,,,"Enchantment","NAX11_04e",,,,,,,,,,
+,"Curse of Naxxramas","Instrutor Razúvio",,,,55,"Hero","NAX7_01H",,,,,,,,,,
+,"Curse of Naxxramas","Instrutor Razúvio",,,,40,"Hero","NAX7_01",,,,,,,,,,
+,"Curse of Naxxramas","Intruso!",,,,,"Enchantment","NAX15_01He",,,,,,,,,,
+,"Curse of Naxxramas","Intruso!",,,,,"Enchantment","NAX15_01e",,,,,,,,,,
+,"Curse of Naxxramas","Invólucro de Teia","<b>Poder Heroico</b>
+Devolva dois lacaios inimigos aleatórios à mão do seu oponente.",,0,,"Hero Power","NAX3_02H",,,,,,,,,,
+,"Curse of Naxxramas","Invólucro de Teia","<b>Poder Heroico</b>
+Devolva um lacaio inimigo aleatório à mão do seu oponente.",,3,,"Hero Power","NAX3_02",,,,,,,,,,
+,"Curse of Naxxramas","Kel'Thuzad",,,,45,"Hero","NAX15_01H",,,,,,,,,,
+,"Curse of Naxxramas","Kel'Thuzad",,,,30,"Hero","NAX15_01",,,,,,,,,,
+,"Curse of Naxxramas","Kel'Thuzad","No final de cada turno evoque todos os lacaios aliados que morreram neste turno.",6,8,8,"Minion","FP1_013",True,"Chris Robinson","Legendary","Pode ser criado após derrotar todos os chefes de Naxxramas!","Kel'Thuzad não resistiu ao chamado do Lich Rei. Mesmo sendo apenas uma gravação exaltando as qualidades do Lich Rei.","Desbloqueado ao derrotar todos os chefes de Naxxramas!",,,True,
+,"Curse of Naxxramas","Lady Blaumeux","Seu herói fica <b>Imune</b>.",2,3,7,"Minion","NAX9_02H",,,,,,,,,True,
+,"Curse of Naxxramas","Lady Blaumeux","Seu herói fica <b>Imune</b>.",1,3,7,"Minion","NAX9_02",,,,,,,,,True,
+,"Curse of Naxxramas","Lâmina Rúnica","Tem +6 de Ataque se os outros Cavaleiros estiverem mortos.",2,3,,"Weapon","NAX9_05H",,,,,,,,,,3
+,"Curse of Naxxramas","Lâmina Rúnica","Tem +3 de Ataque se os outros Cavaleiros estiverem mortos.",1,3,,"Weapon","NAX9_05",,,,,,,,,,3
+,"Curse of Naxxramas","Lâmina Rúnica Enorme","Causa o dobro de dano a heróis.",10,3,,"Weapon","NAX7_04H",,,,,,,,,,2
+,"Curse of Naxxramas","Lâmina Rúnica Enorme","Causa o dobro de dano a heróis.",5,3,,"Weapon","NAX7_04",,,,,,,,,,2
+,"Curse of Naxxramas","Maexxna",,,,30,"Hero","NAX3_01",,,,,,,,,,
+,"Curse of Naxxramas","Maexxna",,,,45,"Hero","NAX3_01H",,,,,,,,,,
+Poisonous,"Curse of Naxxramas","Maexxna","Destrua qualquer lacaio atingido por este lacaio.",2,6,8,"Minion","FP1_010",True,"Howard Lyon","Legendary","Pode ser criado após completar o Distrito dos Aracnídeos.","Maexxna fica passada quando a apresentam como "Maéquisna" ou "Maxxinha".","Desbloqueado ao completar o Distrito dos Aracnídeos.","Beast",,True,
+,"Curse of Naxxramas","Mandíbulas","Sempre que um lacaio com <b>Último Suspiro</b> morrer receba +2 de Ataque.",1,1,,"Weapon","NAX12_03",,,,,,,,,,5
+,"Curse of Naxxramas","Mandíbulas","Sempre que um lacaio com <b>Último Suspiro</b> morrer receba +2 de Ataque.",3,1,,"Weapon","NAX12_03H",,,,,,,,,,5
+,"Curse of Naxxramas","Marca dos Cavaleiros","Conceda +1/+1 aos seus lacaios e à sua arma.",,5,,"Spell","NAX9_07",,,,,,,,,,
+,"Curse of Naxxramas","Marca dos Cavaleiros","+1/+1.",,,,"Enchantment","NAX9_07e",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Mordida da Morte","<b>Último Suspiro:</b> Cause 1 de dano a todos os lacaios.",4,4,,"Weapon","FP1_021",True,"Jim Nelson","Common","Pode ser criado após completar o Desafio de Guerreiro em Naxxramas.",""Tire um pedacinho da morte." — McCangote o Necrolorde","Desbloqueado ao completar o Desafio de Guerreiro em Naxxramas.",,"Warrior",,2
+Deathrattle,"Curse of Naxxramas","Necro-cavaleiro","<b>Último Suspiro:</b> Destrua os lacaios próximos a este também.",5,4,6,"Minion","NAXM_001",,,,,,,,,,
+Deathrattle|Taunt,"Curse of Naxxramas","Necrolorde","<b>Provocar. Último Suspiro:</b> Seu oponente coloca um lacaio do próprio deck no campo de batalha.",2,3,8,"Minion","FP1_009",True,"Ben Olson","Rare","Pode ser criado após derrotar Os Quatro Cavaleiros no Distrito Militar.",""Erga-se de sua tumba!" — Kel'thuzad","Desbloqueado ao derrotar Os Quatro Cavaleiros no Distrito Militar.",,,,
+,"Curse of Naxxramas","Nerubiano",,3,2,1,"Minion","NAX1_03",,,,,,,,,,
+,"Curse of Naxxramas","Nerubiano",,4,3,4,"Minion","FP1_007t",,,"Rare",,,,,,,
+,"Curse of Naxxramas","Nerubiano",,4,2,4,"Minion","NAX1h_03",,,,,,,,,,
+,"Curse of Naxxramas","Noth o Pestífero",,,,45,"Hero","NAX4_01H",,,,,,,,"Mage",,
+,"Curse of Naxxramas","Noth o Pestífero",,,,30,"Hero","NAX4_01",,,,,,,,"Mage",,
+,"Curse of Naxxramas","Nuvem de Gafanhotos","Cause $3 de dano a todos os lacaios inimigos. Restaure #3 de Vida do seu herói.",,7,,"Spell","NAX1_05",,,,,,,,,,
+,"Curse of Naxxramas","Nuvem de Veneno","<b>Último Suspiro:</b>
+Cause 1 de dano a todos os lacaios. Se algum morrer evoque um visgo.",,2,,"Hero Power","NAX11_02",,,,,,,,,,
+,"Curse of Naxxramas","Nuvem de Veneno","<b>Último Suspiro:</b>
+Cause 2 de dano a todos os inimigos. Se algum morrer evoque um visgo.",,0,,"Hero Power","NAX11_02H",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Ovo Nerubiano","<b>Último Suspiro:</b> Evoque um Nerubiano 4/4.",0,2,2,"Minion","FP1_007",True,"Justin Thavirat","Rare","Pode ser criado após derrotar Maexxna no Distrito dos Aracnídeos.","Ovos são ótimas fontes de proteína e Nerubianos.","Desbloqueado ao derrotar Maexxna no Distrito dos Aracnídeos.",,,,
+,"Curse of Naxxramas","Peste","Destrua todos os lacaios que não são Esqueletos.",,6,,"Spell","NAX4_05",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Petisco Zumbi","<b>Último Suspiro:</b> Restaure 5 de Vida do Herói inimigo.",2,1,3,"Minion","FP1_001",True,"E. M. Gist","Common","Pode ser criado após derrotar Gluth no Distrito dos Constructos.","Zumbi. É isso que tem pra janta.","Desbloqueado ao derrotar Gluth no Distrito dos Constructos.",,,,
+,"Curse of Naxxramas","Poder do Zigurate","+3 de Vida.",,,,"Enchantment","FP1_023e",,,,,,,,"Priest",,
+,"Curse of Naxxramas","Polaridade","Ataque e Vida trocados.",,,,"Enchantment","NAX13_02e",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Rastejante Assombrado","<b>Último Suspiro:</b> Evoque duas Aranhas Espectrais 1/1.",1,2,2,"Minion","FP1_002",True,"Jeremy Cranford","Common","Pode ser criado após derrotar Anub'Rekhan no Distrito dos Aracnídeos.","Aracnofalsbia: Medo de aranhas falsas.","Desbloqueado ao derrotar Anub'Rekhan no Distrito dos Aracnídeos.","Beast",,,
+,"Curse of Naxxramas","Reencarnar","Destrua um lacaio depois ressuscite-o com a Vida completa.",,2,,"Spell","FP1_025",True,"Dan Scott","Common","Pode ser criado após completar o Desafio de Xamã em Naxxramas.","É como nascer mas você é um adulto e estava morto há um segundinho apenas.","Desbloqueado ao completar o Desafio de Xamã em Naxxramas.",,"Shaman",,
+,"Curse of Naxxramas","Repugnaz",,,,75,"Hero","NAX6_01",,,,,,,,,,
+,"Curse of Naxxramas","Repugnaz",,,,99,"Hero","NAX6_01H",,,,,,,,,,
+Battlecry,"Curse of Naxxramas","Repugnaz","<b>Grito de Guerra:</b> Feitiços inimigos custam (5) a mais no próximo turno.",5,5,5,"Minion","FP1_030",True,"Samwise","Legendary","Pode ser criado após completar o Distrito da Peste.","Repugnaz era uma Fera do Brejo. É por isso que precisamos de leis mais restritas sobre mineração e agricultura.","Desbloqueado ao completar o Distrito da Peste.",,,True,
+,"Curse of Naxxramas","Retalhoso",,,,30,"Hero","NAX10_01",,,,,,,,,,
+,"Curse of Naxxramas","Retalhoso",,,,45,"Hero","NAX10_01H",,,,,,,,,,
+,"Curse of Naxxramas","Reviver Morto","<b>Poder Heroico Passivo</b>
+Toda vez que um inimigo morrer levante um Esqueleto 5/5.",,0,,"Hero Power","NAX4_04H",,,,,,,,,,
+,"Curse of Naxxramas","Reviver Morto","<b>Poder Heroico Passivo</b>
+Toda vez que um inimigo morrer levante um Esqueleto 1/1.",,0,,"Hero Power","NAX4_04",,,,,,,,,,
+,"Curse of Naxxramas","Sapphiron",,,,45,"Hero","NAX14_01H",,,,,,,,,,
+,"Curse of Naxxramas","Sapphiron",,,,30,"Hero","NAX14_01",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Sectário Sombrio","<b>Último Suspiro:</b> Conceda +3 de Vida a um lacaio aliado aleatório.",3,3,4,"Minion","FP1_023",True,"Phroilan Gardner","Common","Pode ser criado após completar o Desafio de Sacerdote em Naxxramas.","A Seita dos Malditos acha melhor não mencionar o próprio nome quando está recrutando novos sectários.","Desbloqueado ao completar o Desafio de Sacerdote em Naxxramas.",,"Priest",,
+,"Curse of Naxxramas","Sementes de Veneno","Destrua todos os lacaios e evoque Arvorosos 2/2 para substituí-los.",,4,,"Spell","FP1_019",True,"Brian Despain","Common","Pode ser criado após completar o Desafio de Druida em Naxxramas.",""Bolinhos de sementes de veneno" são os bolinhos menos populares no Empório de Bolinhos Druídicos do McTiggin.","Desbloqueado ao completar o Desafio de Druida em Naxxramas.",,"Druid",,
+Aura,"Curse of Naxxramas","Senhor da Teia Nerub'ar","Lacaios com <b>Grito de Guerra</b> custam (2) a mais.",1,2,4,"Minion","FP1_017",True,"Alex Horley Orlandelli","Common","Pode ser criado após derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.","Os senhores da teia ficam o dia inteiro fazendo trampolins gigantes.","Desbloqueado ao derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.",,,,
+,"Curse of Naxxramas","Sir Zeliek","Seu herói fica <b>Imune</b>.",2,3,7,"Minion","NAX9_04H",,,,,,,,,True,
+,"Curse of Naxxramas","Sir Zeliek","Seu herói fica <b>Imune</b>.",1,3,7,"Minion","NAX9_04",,,,,,,,,True,
+,"Curse of Naxxramas","Sombra Profana","<b>Poder Heroico</b>
+Compre 2 cards.",,5,,"Hero Power","NAX9_06",,,,,,,,,,
+,"Curse of Naxxramas","Sopro Gélido","<b>Poder Heroico</b>
+Destrua todos os lacaios inimigos que não estejam <b>Congelados</b>.",,0,,"Hero Power","NAX14_02",,,,,,,,,,
+,"Curse of Naxxramas","Sr. Bigglesworth","<i>Este é o gatinho de Kel'Thuzad.</i>",1,0,1,"Minion","NAX15_05",,,"Legendary",,,,"Beast",,True,
+,"Curse of Naxxramas","Stalagg",,7,5,4,"Minion","NAX13_05H",,,"Legendary",,,,,,True,
+Deathrattle,"Curse of Naxxramas","Stalagg","<b>Último Suspiro:</b> Se Feugen também morreu nesta partida evoque Thaddius.",7,5,4,"Minion","FP1_014",True,"Dany Orizio","Legendary","Pode ser criado após completar o Distrito dos Constructos.","Stalagg quer escrever próprio texto. "STALAGG CABULOSO!"","Desbloqueado ao completar o Distrito dos Constructos.",,,True,
+,"Curse of Naxxramas","Supercarga","Conceda +2 de Vida aos seus lacaios.",,2,,"Spell","NAX13_03",,,,,,,,,,
+,"Curse of Naxxramas","Supercarregado","+2 de Vida.",,,,"Enchantment","NAX13_03e",,,,,,,,,,
+Deathrattle,"Curse of Naxxramas","Teceteia","<b>Último Suspiro:</b> Adicione um card de Fera aleatório à sua mão.",1,1,1,"Minion","FP1_011",True,"Dan Brereton","Common","Pode ser criado após completar o Desafio de Caçador em Naxxramas.","Casulos de aranhas são como pequenas pinhatas!","Desbloqueado ao completar o Desafio de Caçador em Naxxramas.","Beast","Hunter",,
+,"Curse of Naxxramas","Thaddius",,,,45,"Hero","NAX13_01H",,,,,,,,,,
+,"Curse of Naxxramas","Thaddius",,,,30,"Hero","NAX13_01",,,,,,,,,,
+,"Curse of Naxxramas","Thaddius",,11,10,11,"Minion","FP1_014t",,,"Legendary",,,,,,True,
+,"Curse of Naxxramas","Thane Korth'azz","Seu herói fica <b>Imune</b>.",1,3,7,"Minion","NAX9_03",,,,,,,,,True,
+,"Curse of Naxxramas","Thane Korth'azz","Seu herói fica <b>Imune</b>.",2,3,7,"Minion","NAX9_03H",,,,,,,,,True,
+,"Curse of Naxxramas","Veneno Necrótico","Destrua um lacaio.",,2,,"Spell","NAX3_03",,,,,,,,,,
+,"Curse of Naxxramas","Vingança","+3/+2.",,,,"Enchantment","FP1_020e",,,,,,,,"Paladin",,
+Secret,"Curse of Naxxramas","Vingar","<b>Segredo:</b> Quando um de seus lacaios morrer conceda +3/+2 a um lacaio aliado aleatório.",,1,,"Spell","FP1_020",True,"Zoltan & Gabor","Common","Pode ser criado após completar o Desafio de Paladino em Naxxramas.","Vários paladinos se reuniram para fazer justiça usando o nome "Força da Justiça". Os advogados os convenceram a não usar o nome "Liga da Justiça".","Desbloqueado ao completar o Desafio de Paladino em Naxxramas.",,"Paladin",,
+Taunt,"Curse of Naxxramas","Visgo","<b>Provocar</b>",1,1,2,"Minion","FP1_012t",,,,,,,,,,
+,"Curse of Naxxramas","Visgo Radioativo",,2,1,2,"Minion","NAX11_03",,,,,,,,,,
+Stealth,"Curse of Naxxramas","Vulto de Naxxramas","<b>Furtividade.</b> No início do seu turno receba +1/+1.",2,3,2,"Minion","FP1_005",True,"Ittoku Seta","Epic","Pode ser criado após derrotar Kel'thuzad no Covil da Serpe Gélida.","Os Vultos de Naxxramas <i>odeiam</i> os vivos. Eles têm até um termo pejorativo que usam para mencioná-los: <i>Viventes</i>.","Desbloqueado ao derrotar Kel'thuzad no Covil da Serpe Gélida.",,,,

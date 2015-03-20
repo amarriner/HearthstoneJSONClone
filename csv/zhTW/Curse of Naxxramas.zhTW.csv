@@ -1,0 +1,192 @@
+SET,NAME,HEALTH,TYPE,ID,PLAYERCLASS,MECHANICS,COLLECTIBLE,ARTIST,TEXT,RARITY,ATTACK,COST,HOWTOGETGOLD,FLAVOR,HOWTOGET,ELITE,DURABILITY,RACE
+"Curse of Naxxramas","『不潔者』海根",45,"Hero","NAX5_01H","Warlock",,,,,,,,,,,,,
+"Curse of Naxxramas","『不潔者』海根",30,"Hero","NAX5_01","Warlock",,,,,,,,,,,,,
+"Curse of Naxxramas","『收割者』高希",30,"Hero","NAX8_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","『收割者』高希",45,"Hero","NAX8_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","『瘟疫使者』諾斯",30,"Hero","NAX4_01","Mage",,,,,,,,,,,,,
+"Curse of Naxxramas","『瘟疫使者』諾斯",45,"Hero","NAX4_01H","Mage",,,,,,,,,,,,,
+"Curse of Naxxramas","不穩定的食屍鬼",3,"Minion","FP1_024",,Deathrattle|Taunt,True,"Mike Nicholson","<b>嘲諷</b>。<b>死亡之聲:</b>對全部手下造成1點傷害","Common",1,2,"在瘟疫區中擊敗『不潔者』海根即可合成。","死靈法師的學校喜歡教新手用火箭燃料餵食他們的食屍鬼。","在瘟疫區擊敗『不潔者』海根後解鎖。",,,
+"Curse of Naxxramas","亡域光環",,"Enchantment","FP1_030e",,,,,"你的法術本回合額外消耗(5)點法力。",,,,,,,,,
+"Curse of Naxxramas","亡域光環",,"Hero Power","NAX6_02",,,,,"<b>英雄能力</b>
+對敵方英雄造成3點傷害",,,2,,,,,,
+"Curse of Naxxramas","亡域光環",,"Hero Power","NAX6_02H",,,,,"<b>英雄能力</b>
+對敵方英雄造成3點傷害",,,0,,,,,,
+"Curse of Naxxramas","亡域毒",,"Spell","NAX3_03",,,,,"摧毀一個手下",,,2,,,,,,
+"Curse of Naxxramas","伏晨",7,"Minion","NAX13_04H",,,,,,"Legendary",4,5,,,,True,,
+"Curse of Naxxramas","伏晨",7,"Minion","FP1_015",,Deathrattle,True,"Dany Orizio","<b>死亡之聲:</b>如果斯塔拉格在這場賽局中也已經死亡，召喚泰迪斯","Legendary",4,5,"完成傀儡區即可合成。","伏晨心情一直不太好，因為大家都比較喜歡斯塔拉格。","完成傀儡區後解鎖。",True,,
+"Curse of Naxxramas","信奉者",4,"Minion","NAX2_05",,Aura,,,"你的英雄在你的回合時擁有+1攻擊力",,1,3,,,,,,
+"Curse of Naxxramas","信奉者",4,"Minion","NAX2_05H",,Aura,,,"你的英雄在你的回合時擁有+3攻擊力。",,2,3,,,,,,
+"Curse of Naxxramas","兩極移形",,"Hero Power","NAX13_02",,,,,"<b>英雄能力</b>
+對調全部手下的攻擊力及生命值",,,0,,,,,,
+"Curse of Naxxramas","冰息術",,"Hero Power","NAX14_02",,,,,"<b>英雄能力</b>
+摧毀全部沒有被<b>凍結</b>的敵方手下",,,0,,,,,,
+"Curse of Naxxramas","冰霜衝擊",,"Hero Power","NAX15_02",,Freeze,,,"<b>英雄能力</b>
+對敵方英雄造成2點傷害並使其<b>凍結</b>",,,0,,,,,,
+"Curse of Naxxramas","冰霜衝擊",,"Hero Power","NAX15_02H",,Freeze,,,"<b>英雄能力</b>
+對敵方英雄造成3點傷害並使其<b>凍結</b>",,,0,,,,,,
+"Curse of Naxxramas","劇毒種子",,"Spell","FP1_019","Druid",,True,"Brian Despain","摧毀全部手下並召喚2/2的樹人來取代它們","Common",,4,"在納克薩瑪斯中完成德魯伊職業挑戰即可合成。","劇毒種子風味的麵包通常乏人問津。","在納克薩瑪斯中完成德魯伊職業挑戰後解鎖。",,,
+"Curse of Naxxramas","古魯斯",45,"Hero","NAX12_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","古魯斯",30,"Hero","NAX12_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","召喚蟲群",,"Spell","NAX1_05",,,,,"對全部敵方手下造成$3點傷害。為你的英雄恢復#3點生命值",,,7,,,,,,
+"Curse of Naxxramas","吞噬",,"Enchantment","FP1_005e",,,,,"屬性提高",,,,,,,,,
+"Curse of Naxxramas","哀嚎的靈魂",5,"Minion","FP1_016",,Battlecry,True,"Glenn Rane","<b>戰吼:沉默</b>你的其他手下","Rare",3,4,"在傀儡區中擊敗泰迪斯即可合成。","這個靈魂超喜歡哀哀叫的。連朋友都希望能讓他閉嘴。","在傀儡區擊敗泰迪斯後解鎖。",,,
+"Curse of Naxxramas","噬咬",,"Weapon","NAX12_03H",,,,,"每當有<b>死亡之聲</b>的手下死亡，獲得+2攻擊力",,3,1,,,,,5,
+"Curse of Naxxramas","噬咬",,"Weapon","NAX12_03",,,,,"每當有<b>死亡之聲</b>的手下死亡，獲得+2攻擊力",,1,1,,,,,5,
+"Curse of Naxxramas","報復",,"Spell","FP1_020","Paladin",Secret,True,"Zoltan & Gabor","<b>秘密:</b>當你的其中一個手下死亡時，賦予一個隨機的友方手下+3/+2","Common",,1,"在納克薩瑪斯中完成聖騎士職業挑戰即可合成。","有一群聖騎士組成了一團「正義之師」。他們的律師說服了他們不要取「正義聯盟」這個名稱。","在納克薩瑪斯中完成聖騎士職業挑戰後解鎖。",,,
+"Curse of Naxxramas","大寡婦費琳娜",30,"Hero","NAX2_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","大寡婦費琳娜",45,"Hero","NAX2_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","失衡打擊",,"Hero Power","NAX7_03H",,,,,"<b>英雄能力</b>
+造成4點傷害",,,1,,,,,,
+"Curse of Naxxramas","失衡打擊",,"Hero Power","NAX7_03",,,,,"<b>英雄能力</b>
+造成3點傷害",,,2,,,,,,
+"Curse of Naxxramas","奈幽之卵",2,"Minion","FP1_007",,Deathrattle,True,"Justin Thavirat","<b>死亡之聲:</b>召喚一個4/4的奈幽蟲族","Rare",0,2,"在蜘蛛區中擊敗梅克絲娜即可合成。","裡頭除了蛋白質，還有奈幽蟲族。","在蜘蛛區擊敗梅克絲娜後解鎖。",,,
+"Curse of Naxxramas","奈幽巴蛛網領主",4,"Minion","FP1_017",,Aura,True,"Alex Horley Orlandelli","有著<b>戰吼</b>的手下消耗增加(2)點","Common",1,2,"在蜘蛛區中擊敗大寡婦費琳娜即可合成。","蛛網領主整天都在做彈簧墊。","在蜘蛛區擊敗大寡婦費琳娜後解鎖。",,,
+"Curse of Naxxramas","奈幽蟲族",1,"Minion","NAX1_03",,,,,,,3,2,,,,,,
+"Curse of Naxxramas","奈幽蟲族",4,"Minion","NAX1h_03",,,,,,,4,2,,,,,,
+"Curse of Naxxramas","奈幽蟲族",4,"Minion","FP1_007t",,,,,,"Rare",4,3,,,,,,
+"Curse of Naxxramas","孢子",1,"Minion","NAX6_03t",,Deathrattle,,,"<b>死亡之聲:</b>賦予全部敵方手下+8攻擊力",,0,0,,,,,,
+"Curse of Naxxramas","孢菌爆發",,"Spell","NAX6_04",,,,,"對全部敵方手下造成$1點傷害。召喚一個孢子",,,1,,,,,,
+"Curse of Naxxramas","寇斯艾茲族長",7,"Minion","NAX9_03H",,,,,"你的英雄<b>免疫</b>",,2,3,,,,True,,
+"Curse of Naxxramas","寇斯艾茲族長",7,"Minion","NAX9_03",,,,,"你的英雄<b>免疫</b>",,1,3,,,,True,,
+"Curse of Naxxramas","寒冰皇冠守護者",5,"Minion","NAX15_03t",,Taunt,,,"<b>嘲諷</b>",,5,4,,,,,,
+"Curse of Naxxramas","寒冰皇冠守護者",3,"Minion","NAX15_03n",,Taunt,,,"<b>嘲諷</b>",,3,4,,,,,,
+"Curse of Naxxramas","巨大的符文刃",,"Weapon","NAX7_04",,,,,"對英雄造成雙倍傷害",,5,3,,,,,2,
+"Curse of Naxxramas","巨大的符文刃",,"Weapon","NAX7_04H",,,,,"對英雄造成雙倍傷害",,10,3,,,,,2,
+"Curse of Naxxramas","布洛莫斯女士",7,"Minion","NAX9_02",,,,,"你的英雄<b>免疫</b>",,1,3,,,,True,,
+"Curse of Naxxramas","布洛莫斯女士",7,"Minion","NAX9_02H",,,,,"你的英雄<b>免疫</b>",,2,3,,,,True,,
+"Curse of Naxxramas","復仇",,"Enchantment","FP1_020e","Paladin",,,,"+3/+2",,,,,,,,,
+"Curse of Naxxramas","心靈末日風暴",,"Spell","NAX5_03",,,,,"雙方玩家各抽2張牌並獲得一顆法力水晶",,,2,,,,,,
+"Curse of Naxxramas","憎恨打擊",,"Hero Power","NAX10_03H",,,,,"<b>英雄能力</b>
+摧毀一個手下",,,4,,,,,,
+"Curse of Naxxramas","憎恨打擊",,"Hero Power","NAX10_03",,,,,"<b>英雄能力</b>
+摧毀一個手下",,,4,,,,,,
+"Curse of Naxxramas","憎恨者",75,"Hero","NAX6_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","憎恨者",5,"Minion","FP1_030",,Battlecry,True,"Samwise","<b>戰吼:</b>下回合敵方的法術額外消耗(5)點法力。","Legendary",5,5,"完成瘟疫區即可合成。","憎恨者原本只是一隻平凡的沼澤獸。為什麼我們需要更嚴格的礦業跟農業法案?牠就是活生生的例子。","完成瘟疫區後解鎖。",True,,
+"Curse of Naxxramas","憎恨者",99,"Hero","NAX6_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","收割",,"Hero Power","NAX8_02",,,,,"<b>英雄能力</b>
+抽一張牌",,,2,,,,,,
+"Curse of Naxxramas","收割",,"Hero Power","NAX8_02H",,,,,"<b>英雄能力</b>
+抽一張牌。獲得一顆法力水晶",,,1,,,,,,
+"Curse of Naxxramas","斯塔拉格",4,"Minion","NAX13_05H",,,,,,"Legendary",7,5,,,,True,,
+"Curse of Naxxramas","斯塔拉格",4,"Minion","FP1_014",,Deathrattle,True,"Dany Orizio","<b>死亡之聲:</b>如果伏晨在這場賽局中也已經死亡，召喚泰迪斯","Legendary",7,5,"完成傀儡區即可合成。","斯塔拉格想要自己寫這一段。「斯塔拉格最厲害!」","完成傀儡區後解鎖。",True,,
+"Curse of Naxxramas","札里克爵士",7,"Minion","NAX9_04",,,,,"你的英雄<b>免疫</b>",,1,3,,,,True,,
+"Curse of Naxxramas","札里克爵士",7,"Minion","NAX9_04H",,,,,"你的英雄<b>免疫</b>",,2,3,,,,True,,
+"Curse of Naxxramas","梅克絲娜",45,"Hero","NAX3_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","梅克絲娜",8,"Minion","FP1_010",,Poisonous,True,"Howard Lyon","摧毀被此手下傷害到的任何手下","Legendary",2,6,"完成蜘蛛區即可合成。","梅克絲娜超討厭有人介紹她時叫她「阿梅」或「娜娜」。","完成蜘蛛區後解鎖。",True,,"Beast"
+"Curse of Naxxramas","梅克絲娜",30,"Hero","NAX3_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","極寒",,"Spell","NAX14_04",,Freeze,,,"對敵方英雄造成$8點傷害並使其<b>凍結</b>",,,5,,,,,,
+"Curse of Naxxramas","極性",,"Enchantment","NAX13_02e",,,,,"攻擊力和生命值被對調",,,,,,,,,
+"Curse of Naxxramas","樹人",2,"Minion","FP1_019t","Druid",,,,,,2,1,,,,,,
+"Curse of Naxxramas","死亡之噬",,"Weapon","FP1_021","Warrior",Deathrattle,True,"Jim Nelson","<b>死亡之聲:</b>對全部手下造成1點傷害","Common",4,4,"在納克薩瑪斯中完成戰士職業挑戰即可合成。","「向死亡更邁進一步。」-死亡領主麥斯卡夫","在納克薩瑪斯中完成戰士職業挑戰後解鎖。",,2,
+"Curse of Naxxramas","死亡之花",,"Spell","NAX6_03",,,,,"對一個手下造成$5點傷害。召喚一個孢子",,,4,,,,,,
+"Curse of Naxxramas","死亡戰騎",3,"Minion","FP1_006",,Charge|Deathrattle,,,"<b>衝鋒</b>。<b>死亡之聲:</b>對你的英雄造成3點傷害",,2,1,,,,,,
+"Curse of Naxxramas","死亡領主",8,"Minion","FP1_009",,Deathrattle|Taunt,True,"Ben Olson","<b>嘲諷。死亡之聲:</b>你的對手將牌堆中的一個手下放進戰場","Rare",2,3,"在軍事區中擊敗四騎士即可合成。","「從墳墓中起身吧!」-科爾蘇加德","在軍事區擊敗四騎士後解鎖。",,,
+"Curse of Naxxramas","死者復生",,"Hero Power","NAX4_04H",,,,,"<b>被動英雄能力</b>
+每當有敵人死亡，召喚一個5/5骷髏",,,0,,,,,,
+"Curse of Naxxramas","死者復生",,"Hero Power","NAX4_04",,,,,"<b>被動英雄能力</b>
+每當有敵人死亡，召喚一個1/1骷髏",,,0,,,,,,
+"Curse of Naxxramas","死靈騎士",6,"Minion","NAXM_001",,Deathrattle,,,"<b>死亡之聲:</b>同時摧毀兩側的手下",,5,4,,,,,,
+"Curse of Naxxramas","殯葬管理員",2,"Minion","FP1_028",,,True,"Jonboy Meyers","每當你召喚有<b>死亡之聲</b>的手下，獲得+1攻擊力","Common",1,1,"在傀儡區中擊敗縫補者即可合成。","在一個可以跑去找靈魂醫者自己復活的世界裡，殯葬管理員的工作非常輕鬆愉快。","在傀儡區擊敗縫補者後解鎖。",,,
+"Curse of Naxxramas","毒雲",,"Hero Power","NAX11_02",,,,,"<b>英雄能力</b>
+對全部手下造成1點傷害。若有手下死亡，召喚一個泥漿怪",,,2,,,,,,
+"Curse of Naxxramas","毒雲",,"Hero Power","NAX11_02H",,,,,"<b>英雄能力</b>
+對全部敵人造成2點傷害。若有手下死亡，召喚一個泥漿怪",,,0,,,,,,
+"Curse of Naxxramas","泥漿怪",2,"Minion","FP1_012t",,Taunt,,,"<b>嘲諷</b>",,1,1,,,,,,
+"Curse of Naxxramas","泰迪斯",11,"Minion","FP1_014t",,,,,,"Legendary",11,10,,,,True,,
+"Curse of Naxxramas","泰迪斯",30,"Hero","NAX13_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","泰迪斯",45,"Hero","NAX13_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","淤泥噴射者",5,"Minion","FP1_012",,Deathrattle|Taunt,True,"Nate Bowden","<b>嘲諷。
+死亡之聲:</b>召喚一個有<b>嘲諷</b>的1/2軟泥怪","Rare",3,5,"在瘟疫區中擊敗憎恨者即可合成。","千萬不要讓他喝啤酒。","在瘟疫區擊敗憎恨者後解鎖。",,,
+"Curse of Naxxramas","滅殺",,"Hero Power","NAX12_02",,,,,"<b>英雄能力</b>
+將全部手下的生命值改為1點",,,2,,,,,,
+"Curse of Naxxramas","滅殺",,"Enchantment","NAX12_02e",,,,,"生命值改為1點",,,,,,,,,
+"Curse of Naxxramas","滅殺",,"Hero Power","NAX12_02H",,,,,"<b>英雄能力</b>
+將全部敵方手下的生命值改為1點",,,0,,,,,,
+"Curse of Naxxramas","火焰之雨",,"Hero Power","NAX2_03",,ImmuneToSpellpower,,,"<b>英雄能力</b>
+發射飛彈，數量相當於敵方的手牌數量",,,2,,,,,,
+"Curse of Naxxramas","火焰之雨",,"Hero Power","NAX2_03H",,ImmuneToSpellpower,,,"<b>英雄能力</b>
+發射飛彈，數量相當於敵方的手牌數量",,,1,,,,,,
+"Curse of Naxxramas","無情的受訓員",2,"Minion","NAX8_03",,Deathrattle,,,"<b>死亡之聲:</b>為你的對手召喚一個鬼靈受訓員",,2,1,,,,,,
+"Curse of Naxxramas","無情的戰士",4,"Minion","NAX8_04",,Deathrattle,,,"<b>死亡之聲:</b>為你的對手召喚一個鬼靈戰士",,3,3,,,,,,
+"Curse of Naxxramas","無情的騎兵",6,"Minion","NAX8_05",,Deathrattle,,,"<b>死亡之聲:</b>為你的對手召喚一個鬼靈騎兵",,5,6,,,,,,
+"Curse of Naxxramas","爆發",,"Hero Power","NAX5_02",,,,,"<b>英雄能力</b>
+對敵方最左邊的手下造成2點傷害",,,1,,,,,,
+"Curse of Naxxramas","爆發",,"Hero Power","NAX5_02H",,,,,"<b>英雄能力</b>
+對敵方最左邊的手下造成3點傷害",,,0,,,,,,
+"Curse of Naxxramas","狂怒",,"Enchantment","NAX12_04e",,OneTurnEffect,,,"本回合+6攻擊力",,,,,,,,,
+"Curse of Naxxramas","狂怒",,"Spell","NAX12_04",,,,,"本回合賦予你的英雄+6攻擊力",,,3,,,,,,
+"Curse of Naxxramas","瑞文戴爾男爵",14,"Hero","NAX9_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","瑞文戴爾男爵",7,"Minion","FP1_031",,Aura,True,"Ralph Horsley","你的手下觸發<b>死亡之聲</b>兩次","Legendary",1,4,"完成軍事區即可合成。","布洛莫斯女士堅持不肯讓人稱呼他們為「四死騎」，因為她覺得聽起來像是「死死去」。","完成軍事區後解鎖。",True,,
+"Curse of Naxxramas","瑞文戴爾男爵",7,"Hero","NAX9_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","畢勾沃斯先生",1,"Minion","NAX15_05",,,,,"這是科爾蘇加德養的小貓咪。","Legendary",1,0,,,,True,,"Beast"
+"Curse of Naxxramas","瘋狂科學家",2,"Minion","FP1_004",,Deathrattle,True,"James Ryman","<b>死亡之聲:</b>從你的牌堆取出一張<b>秘密</b>並放到戰場","Common",2,2,"在傀儡區中擊敗葛羅巴斯即可合成。","他的母親希望他能成為法師或術士，但他偏偏要像他父親一樣成為科學家。","在傀儡區擊敗葛羅巴斯後解鎖。",,,
+"Curse of Naxxramas","瘟疫",,"Spell","NAX4_05",,,,,"摧毀全部非骷髏的手下",,,6,,,,,,
+"Curse of Naxxramas","真菌增生",,"Enchantment","NAX6_03te",,,,,"攻擊力提高",,,,,,,,,
+"Curse of Naxxramas","石膚石像鬼",4,"Minion","FP1_027",,,True,"Matt Smith","在你的回合開始時，將這個手下的生命值恢復到全滿","Common",1,3,"在瘟疫區中擊敗『瘟疫使者』諾斯即可合成。","石膚石像鬼超愛捉迷藏的。","在瘟疫區擊敗『瘟疫使者』諾斯後解鎖。",,,
+"Curse of Naxxramas","科爾蘇加德",30,"Hero","NAX15_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","科爾蘇加德",45,"Hero","NAX15_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","科爾蘇加德",8,"Minion","FP1_013",,,True,"Chris Robinson","每個回合結束時，召喚全部在該回合內死亡的友方手下","Legendary",6,8,"在納克薩瑪斯中擊敗全部首領即可合成!","科爾蘇加德無法抗拒巫妖王的召喚。為此他還買了手機。","在納克薩瑪斯中擊敗全部首領即可解鎖!",True,,
+"Curse of Naxxramas","科爾蘇加德的奴隸",,"Enchantment","NAX15_04a",,,,,"我的!",,,,,,,,,
+"Curse of Naxxramas","突變注射",,"Enchantment","NAX11_04e",,,,,"+4/+4及<b>嘲諷</b>",,,,,,,,,
+"Curse of Naxxramas","突變注射",,"Spell","NAX11_04",,,,,"賦予一個手下+4/+4及<b>嘲諷</b>",,,3,,,,,,
+"Curse of Naxxramas","符文刃",,"Weapon","NAX9_05",,,,,"若其他騎士全部死亡則獲得+3攻擊力",,1,3,,,,,3,
+"Curse of Naxxramas","符文刃",,"Weapon","NAX9_05H",,,,,"若其他騎士全部死亡則獲得+6攻擊力",,2,3,,,,,3,
+"Curse of Naxxramas","精神控制水晶",,"Spell","NAX7_05",,,,,"啟動水晶來控制見習騎士!",,,1,,,,,,
+"Curse of Naxxramas","納克薩瑪斯幻影",2,"Minion","FP1_005",,Stealth,True,"Ittoku Seta","<b>潛行</b>。在你回合開始時，獲得+1/+1","Epic",2,3,"在冰霜巨龍巢穴中擊敗科爾蘇加德即可合成。","納克薩瑪斯幻影痛恨生者。他們非得把生者弄死，否則不會罷休。","在冰霜巨龍巢穴擊敗科爾蘇加德後解鎖。",,,
+"Curse of Naxxramas","縫補者",45,"Hero","NAX10_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","縫補者",30,"Hero","NAX10_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","織網者",1,"Minion","FP1_011","Hunter",Deathrattle,True,"Dan Brereton","<b>死亡之聲:</b>放一張隨機野獸牌到你的手牌中","Common",1,1,"在納克薩瑪斯中完成獵人職業挑戰即可合成。","只有我在把繭打開時會感覺像是在開獎嗎?","在納克薩瑪斯中完成獵人職業挑戰後解鎖。",,,"Beast"
+"Curse of Naxxramas","肉身殭屍",3,"Minion","FP1_001",,Deathrattle,True,"E. M. Gist","<b>死亡之聲:</b>敵方英雄恢復5點生命值","Common",2,1,"在傀儡區中擊敗古魯斯即可合成。","殭屍。晚餐就吃這個。","在傀儡區擊敗古魯斯後解鎖。",,,
+"Curse of Naxxramas","肉鉤",,"Weapon","NAX10_02",,Deathrattle,,,"<b>死亡之聲:</b>使這把武器回到手牌中",,5,3,,,,,8,
+"Curse of Naxxramas","肉鉤",,"Weapon","NAX10_02H",,Deathrattle|Windfury,,,"<b>風怒</b>
+<b>死亡之聲:</b>使這把武器回到手牌中",,4,3,,,,,8,
+"Curse of Naxxramas","舞動的劍",4,"Minion","FP1_029",,Deathrattle,True,"Jon McConnell","<b>死亡之聲:</b>你的對手抽一張牌","Common",4,3,"在軍事區中擊敗講師拉祖維斯即可合成。","它們喜歡跳雷鬼的音樂。","在軍事區擊敗講師拉祖維斯後解鎖。",,,
+"Curse of Naxxramas","葛羅巴斯",30,"Hero","NAX11_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","葛羅巴斯",45,"Hero","NAX11_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","薩菲隆",30,"Hero","NAX14_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","薩菲隆",45,"Hero","NAX14_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","虛無呼喚者",4,"Minion","FP1_022","Warlock",Deathrattle,True,"Robb Shoberg","<b>死亡之聲:</b>將你手上的一個隨機惡魔放到戰場","Common",3,4,"在納克薩瑪斯中完成術士職業挑戰即可合成。","虛無!虛無!虛無!","在納克薩瑪斯中完成術士職業挑戰後解鎖。",,,"Demon"
+"Curse of Naxxramas","蛛網纏繞",,"Hero Power","NAX3_02H",,,,,"<b>英雄能力</b>
+使2個隨機的敵方手下返回對手的手上",,,0,,,,,,
+"Curse of Naxxramas","蛛網纏繞",,"Hero Power","NAX3_02",,,,,"<b>英雄能力</b>
+使一個隨機的敵方手下返回對手的手上",,,3,,,,,,
+"Curse of Naxxramas","被凍結的勇士",10,"Minion","NAX14_03",,Aura,,,"永遠被凍結。兩側的手下對冰息術免疫",,2,5,,,,,,
+"Curse of Naxxramas","複製",,"Spell","FP1_018","Mage",Secret,True,"Alex Garner","<b>秘密:</b>當一個友方手下死亡時，放兩張該手下的卡片到你的手牌裡","Common",,3,"在納克薩瑪斯中完成法師職業挑戰即可合成。","這是唯一一次複製卡片不會讓你的帳號被封鎖喔!","在納克薩瑪斯中完成法師職業挑戰後解鎖。",,,
+"Curse of Naxxramas","見習騎士",7,"Minion","NAX7_02",,Taunt,,,"<b>嘲諷</b>",,0,2,,,,,,
+"Curse of Naxxramas","誘捕者",,"Hero Power","NAX1h_04",,,,,"<b>英雄能力</b>
+召喚一個4/4奈幽蟲族",,,2,,,,,,
+"Curse of Naxxramas","誘捕者",,"Hero Power","NAX1_04",,,,,"<b>英雄能力</b>
+召喚一個3/1奈幽蟲族",,,2,,,,,,
+"Curse of Naxxramas","講師拉祖維斯",40,"Hero","NAX7_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","講師拉祖維斯",55,"Hero","NAX7_01H",,,,,,,,,,,,,,
+"Curse of Naxxramas","超級充能",,"Enchantment","NAX13_03e",,,,,"+2生命值",,,,,,,,,
+"Curse of Naxxramas","超級充能",,"Spell","NAX13_03",,,,,"賦予你全部的手下+2生命值",,,2,,,,,,
+"Curse of Naxxramas","輻射泥漿怪",2,"Minion","NAX11_03",,,,,,,2,1,,,,,,
+"Curse of Naxxramas","迴音軟泥怪",2,"Minion","FP1_003",,Battlecry,True,"Eric Browning","<b>戰吼:</b>在回合結束時召喚一個與此手下一模一樣的複製品","Epic",1,2,"在冰霜巨龍巢穴中擊敗薩菲隆即可合成。","軟泥...軟泥...軟泥...怪...(迴音)","在冰霜巨龍巢穴擊敗薩菲隆後解鎖。",,,
+"Curse of Naxxramas","通靈塔之力",,"Enchantment","FP1_023e","Priest",,,,"+3生命值",,,,,,,,,
+"Curse of Naxxramas","邪惡暗影",,"Hero Power","NAX9_06",,,,,"<b>英雄能力</b>
+抽2張牌",,,5,,,,,,
+"Curse of Naxxramas","重生",,"Spell","FP1_025","Shaman",,True,"Dan Scott","摧毀一個手下，然後將它復活並使其生命值恢復到全滿","Common",,2,"在納克薩瑪斯中完成薩滿職業挑戰即可合成。","這就像出生一樣，只不過一出生就是成年，而且原本不久前才剛剛死掉。","在納克薩瑪斯中完成薩滿職業挑戰後解鎖。",,,
+"Curse of Naxxramas","鍊腕",,"Hero Power","NAX15_04H",,,,,"<b>英雄能力</b>
+控制一個隨機敵方手下",,,8,,,,,,
+"Curse of Naxxramas","鍊腕",,"Hero Power","NAX15_04",,,,,"<b>英雄能力</b>
+控制一個隨機敵方手下直到回合結束",,,8,,,,,,
+"Curse of Naxxramas","長新牙",,"Enchantment","NAX12_03e",,,,,"攻擊力提高",,,,,,,,,
+"Curse of Naxxramas","闖入者!",,"Enchantment","NAX15_01e",,,,,,,,,,,,,,
+"Curse of Naxxramas","闖入者!",,"Enchantment","NAX15_01He",,,,,,,,,,,,,,
+"Curse of Naxxramas","阿努巴伏擊者",5,"Minion","FP1_026","Rogue",Deathrattle,True,"Nate Bowden","<b>死亡之聲:</b>使一個隨機的友方手下返回你的手上","Common",5,4,"在納克薩瑪斯中完成盜賊職業挑戰即可合成。","他原本的名字是「那個會把一個傢伙弄回手上的阿努巴」。但是後來大家覺得還是得取個正式的名字才行。","在納克薩瑪斯中完成盜賊職業挑戰後解鎖。",,,
+"Curse of Naxxramas","阿努比瑞克漢",30,"Hero","NAX1_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","阿努比瑞克漢",45,"Hero","NAX1h_01",,,,,,,,,,,,,,
+"Curse of Naxxramas","騎士印記",,"Spell","NAX9_07",,,,,"賦予你的全部手下及武器+1/+1",,,5,,,,,,
+"Curse of Naxxramas","騎士印記",,"Enchantment","NAX9_07e",,,,,"+1/+1",,,,,,,,,
+"Curse of Naxxramas","骷髏",5,"Minion","NAX4_03H",,,,,,,5,5,,,,,,
+"Curse of Naxxramas","骷髏",1,"Minion","NAX4_03",,,,,,,1,1,,,,,,
+"Curse of Naxxramas","骷髏鐵匠",3,"Minion","NAXM_002",,Deathrattle,,,"<b>死亡之聲:</b>摧毀你對手的武器",,4,3,,,,,,
+"Curse of Naxxramas","鬼怪蠕行者",2,"Minion","FP1_002",,Deathrattle,True,"Jeremy Cranford","<b>死亡之聲:</b>召喚兩隻1/1的鬼靈蜘蛛","Common",1,2,"在蜘蛛區中擊敗阿努比瑞克漢即可合成。","連假蜘蛛都會怕。","在蜘蛛區擊敗阿努比瑞克漢後解鎖。",,,"Beast"
+"Curse of Naxxramas","鬼靈受訓員",2,"Minion","NAX8_03t",,,,,"在你的回合開始時，對你的英雄造成1點傷害",,0,1,,,,,,
+"Curse of Naxxramas","鬼靈戰士",4,"Minion","NAX8_04t",,,,,"在你的回合開始時，對你的英雄造成1點傷害",,0,3,,,,,,
+"Curse of Naxxramas","鬼靈蜘蛛",1,"Minion","FP1_002t",,,,,,,1,1,,,,,,
+"Curse of Naxxramas","鬼靈騎兵",6,"Minion","NAX8_05t",,,,,"在你的回合開始時，對你的英雄造成1點傷害",,0,5,,,,,,
+"Curse of Naxxramas","鬼靈騎士",6,"Minion","FP1_008",,,True,"Chris Rahn","無法被法術或英雄能力指定","Common",4,5,"在軍事區中擊敗『收割者』高希即可合成。","精靈龍跟鬼靈騎士有什麼共通點?他們都愛吃麵!","在軍事區擊敗『收割者』高希後解鎖。",,,
+"Curse of Naxxramas","黑暗呼喚",,"Enchantment","FP1_028e",,,,,"屬性提高",,,,,,,,,
+"Curse of Naxxramas","黑暗教徒",4,"Minion","FP1_023","Priest",Deathrattle,True,"Phroilan Gardner","<b>死亡之聲:</b>賦予一個隨機的友方手下+3生命值","Common",3,3,"在納克薩瑪斯中完成牧師職業挑戰即可合成。","詛咒神教發現在招募新教徒時最好不要提到他們這個教派的名字。","在納克薩瑪斯中完成牧師職業挑戰後解鎖。",,,

@@ -1,0 +1,225 @@
+SET,NAME,TEXT,COST,FLAVOR,TYPE,ID,COLLECTIBLE,FACTION,RARITY,HEALTH,PLAYERCLASS,ARTIST,ATTACK,HOWTOGETGOLD,MECHANICS,HOWTOGET,DURABILITY,INPLAYTEXT,RACE
+"Basic","不不不","出于某种原因，你曾经拥有的一张牌被删除了。拿着这张牌吧，它将成为那张牌的替代品！",2,"连它的卡牌描述都被删除了，真扫兴。","Spell","GAME_006",,,,,,,,,,,,,
+"Basic","乌瑟尔·光明使者",,,,"Hero","HERO_04",True,"Neutral","Free",30,"Paladin",,,,,,,,
+"Basic","作战傀儡",,7,"傀儡们从来不会胆怯，但是出于某种原因，当你对它们施放“恐惧”的时候，它们依然会逃跑。也许这就是天性？或是想要融入这个世界的渴望？","Minion","CS2_186",True,"Neutral","Common",7,,"Dave Kendall",7,"潜行者达到51级后解锁。",,,,,
+"Basic","侏儒发明家","<b>战吼：</b>抽一张牌。",4,"她从来不知道她想发明的是什么，她只知道要发明很棒的东西！","Minion","CS2_147",True,"Alliance","Common",4,,"Court Jones",2,"牧师达到57级后解锁。",Battlecry,,,,
+"Basic","保护之手","使一个随从获得<b>圣盾</b>。",1,"这个法术的名字已经被修改了太多次，导致连圣骑士们都不知道它应该叫什么了。","Spell","EX1_371",True,"Neutral","Free",,"Paladin","Clint Langley",,"达到23级后解锁。",,"达到1级后解锁。",,,
+"Basic","先祖治疗","为一个随从恢复所有生命值并使其获得<b>嘲讽</b>。",0,"你能在战斗中能够召唤祖先的灵魂！所以，出生在一个强大的家族是很重要的！","Spell","CS2_041",True,"Neutral","Free",,"Shaman","Dan Scott",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","先祖眷顾","嘲讽",,,"Enchantment","CS2_041e",,,,,"Shaman",,,,Taunt,,,,
+"Basic","全副武装！","<b>英雄技能</b>
+获得2点护甲值。",2,,"Hero Power","CS2_102",,"Neutral","Free",,"Warrior",,,,,,,,
+"Basic","冰霜新星","<b>冻结</b>所有敌方随从。",3,"嘿，伙计，这会冻死你的。我是说真的。","Spell","CS2_026",True,"Neutral","Common",,"Mage","Josh Tallman",,"达到23级后解锁。",Freeze,"达到6级后解锁。",,,
+"Basic","冰霜震击","对一个敌方角色造成$1点伤害，并使其<b>冻结</b>。",1,"年轻的萨满们可能没听说过《你与冰霜震击》这本书。","Spell","CS2_037",True,"Neutral","Free",,"Shaman","Alex Horley Orlandelli",,"达到32级后解锁。",Freeze,"达到1级后解锁。",,,
+"Basic","冰风雪人",,4,"他梦想着有一天能够下山开一间拉面店。但他没有那个勇气。","Minion","CS2_182",True,"Neutral","Common",5,,"Mauro Cascioli",4,"战士达到55级后解锁。",,,,,
+"Basic","冲锋","苔原犀牛使其获得<b>冲锋</b>。",,,"Enchantment","DS1_178e",,,,,"Hunter",,,,,,,,
+"Basic","冲锋","+2攻击力并获得<b>冲锋</b>。",,,"Enchantment","CS2_103e2",,,,,"Warrior",,,,,,,,
+"Basic","冲锋","使一个友方随从获得+2攻击力和<b>冲锋</b>。",3,"“伙计们！伙计们！你们稳着点儿！”——某些不属于战士的随从。","Spell","CS2_103",True,"Neutral","Free",,"Warrior","Alex Horley Orlandelli",,"达到23级后解锁。",,"达到1级后解锁。",,,
+"Basic","冲锋","该随从获得<b>冲锋</b>。",,,"Enchantment","EX1_084e",,,,,"Warrior",,,,,,,,
+"Basic","刀扇","对所有敌方随从造成$1点伤害，抽一张牌。",3,"转瞬即逝的寒光闪过，漫天飞舞的血花绽放。","Spell","EX1_129",True,"Neutral","Common",,"Rogue","Andrew Robinson",,"达到29级后解锁。",,"达到4级后解锁。",,,
+"Basic","列王守卫","<b>战吼：</b>为你的英雄恢复6点生命值。",7,"神圣的造物从天而降...真是老掉牙的剧情！","Minion","CS2_088",True,"Neutral","Common",6,"Paladin","E.M. Gist",5,"达到47级后解锁。",Battlecry,"达到8级后解锁。",,,
+"Basic","利爪","在本回合中，你的英雄获得+1攻击力。",,,"Enchantment","CS2_017o",,,,,"Druid",,,,OneTurnEffect,,,,
+"Basic","刺客之刃",,5,"只有真正的刺客才配拥有。如假包换。","Weapon","CS2_080",True,"Neutral","Common",,"Rogue","Brian Huang",3,"达到32级后解锁。",,"达到2级后解锁。",4,,
+"Basic","刺杀","消灭一个敌方随从。",5,"要是你不想被人暗杀，躲到贫瘠之地，然后隐姓埋名。祝你好运！","Spell","CS2_076",True,"Neutral","Free",,"Rogue","Glenn Rane",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","剃刀猎手","<b>战吼：</b>召唤一个1/1的野猪。",3,"有人曾经把塔丝克惹毛过一次。就一次。","Minion","CS2_196",True,"Horde","Common",3,,"Clint Langley",2,"猎人达到55级后解锁。",Battlecry,,,,
+"Basic","力量祝福","使一个随从获得+3攻击力。",1,"没有善，没有恶，也没有圣光。只有——力量！","Spell","CS2_087",True,"Neutral","Free",,"Paladin","Zoltan Boros",,"达到45级后解锁。",,"达到1级后解锁。",,,
+"Basic","力量祝福","+3攻击力。",,,"Enchantment","CS2_087e",,"Neutral",,,"Paladin",,,,,,,,
+"Basic","加尔鲁什·地狱咆哮",,,,"Hero","HERO_01",True,"Neutral","Free",30,"Warrior",,,,,,,,
+"Basic","动物伙伴","随机召唤一个野兽伙伴。",3,"你可以召唤米莎，雷欧克或是霍弗！霍弗又没用，又爱惹麻烦！","Spell","NEW1_031",True,,"Common",,"Hunter","Wei Wang",,"达到45级后解锁。",,"达到2级后解锁。",,,
+"Basic","匕首精通","<b>英雄技能</b>
+装备一把1/2的匕首。",2,,"Hero Power","CS2_083b",,"Neutral","Free",,"Rogue",,,,,,,,
+"Basic","北郡牧师","每当一个随从获得治疗时，抽一张牌。",1,"她们帮助被压迫和沮丧的人们。她们也卖饼干。","Minion","CS2_235",True,,"Free",3,"Priest","Terese Nielsen",1,"达到40级后解锁。",HealTarget,"达到1级后解锁。",,,
+"Basic","变形","<b>英雄技能</b>
+本回合+1攻击力。
++1护甲值。",2,,"Hero Power","CS2_017",,"Neutral","Free",,"Druid",,,,,,,,
+"Basic","变形术","该随从被变形成为1/1的绵羊。",,,"Enchantment","CS2_022e",,"Neutral","Common",,"Mage",,,,Morph,,,,
+"Basic","变形术","使一个随从变形成为1/1的绵羊。",4,"你能想象一个嗜血的兽人发出咩咩的叫声吗？","Spell","CS2_022",True,"Neutral","Free",,"Mage","Vance Kovacs",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","古尔丹",,,,"Hero","HERO_07",True,"Neutral","Free",30,"Warlock",,,,,,,,
+"Basic","古拉巴什狂暴者","每当该随从受到伤害，便获得+3攻击力。",5,"如果那些伤痛没能让你死掉，它们就会让你更强大。","Minion","EX1_399",True,"Neutral","Common",7,,"Alex Horley Orlandelli",2,"术士达到57级后解锁。",,,,,
+"Basic","吉安娜·普罗德摩尔",,,,"Hero","HERO_08",True,"Neutral","Free",30,"Mage",,,,,,,,
+"Basic","吸取生命","造成$2点伤害，为你的英雄恢复#2点生命值。",3,"“我只是减少了你一年的寿命而已。”","Spell","CS2_061",True,"Neutral","Free",,"Warlock","Alex Horley Orlandelli",,"达到45级后解锁。",,"达到1级后解锁。",,,
+"Basic","嗜血","在本回合中，使你的随从获得+3攻击力。",5,"呜啊哇哇哇哇哇！","Spell","CS2_046",True,"Neutral","Common",,"Shaman","Luca Zontini",,"达到40级后解锁。",,"达到2级后解锁。",,,
+"Basic","嗜血","在本回合中，获得+3攻击力。",,,"Enchantment","CS2_046e",,,,,"Shaman",,,,OneTurnEffect,,,,
+"Basic","团队领袖","你的其他随从获得+1攻击力。",3,"“谁再敢OT的，扣掉50DKP！”","Minion","CS2_122",True,,"Free",2,,"Phill Gonzales",2,"战士达到57级后解锁。",Aura,,,"",
+"Basic","图腾之力","+2生命值。",,,"Enchantment","EX1_244e",,,,,"Shaman",,,,,,,,
+"Basic","图腾之力","使你的图腾获得+2生命值。",0,"禁止踩踏图腾。","Spell","EX1_244",True,"Neutral","Common",,"Shaman","Trent Kaniuga",,"达到28级后解锁。",,"达到6级后解锁。",,,
+"Basic","图腾召唤","<b>英雄技能</b>
+随机召唤一个图腾。",2,,"Hero Power","CS2_049",,"Neutral","Free",,"Shaman",,,,,,,,
+"Basic","圣光术","恢复#6点生命值。",2,"如果你经常暴露于圣光之下，你应该考虑随身带着防晒霜。","Spell","CS2_089",True,"Neutral","Free",,"Paladin","Zoltan & Gabor",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","圣光的正义",,1,"玛克扎尔王子收集了不少稀有的武器，他赋予它们生命，并让它们为他起舞。","Weapon","CS2_091",True,"Neutral","Free",,"Paladin","Glenn Rane",1,"达到36级后解锁。",,"达到1级后解锁。",4,,
+"Basic","地狱烈焰","对所有角色造成$3点伤害。",4,"鸟尽弓藏，兔死狗烹，术士才不需要什么忠心耿耿的随从。","Spell","CS2_062",True,"Neutral","Free",,"Warlock","Chippy",,"达到49级后解锁。",,"达到1级后解锁。",,,
+"Basic","埃隆巴克保护者","<b>嘲讽</b>",8,"我打赌你一定不敢进攻达纳苏斯。","Minion","CS2_232",True,"Neutral","Common",8,"Druid","Dave Allsop",8,"达到49级后解锁。",Taunt,"达到10级后解锁。",,,
+"Basic","多重射击","对两个随机敌方随从造成$3点伤害。",4,"看见没，我完全可以“一心两用”。","Spell","DS1_183",True,"Neutral","Free",,"Hunter","Benjamin Zhang",,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","夜刃刺客","<b>战吼：</b>对敌方英雄造成3点伤害。",5,"你的脸可能是你最不希望被刀子碰到的地方，但却是潜行者们最喜欢下手的地方。","Minion","EX1_593",True,"Neutral","Free",4,,"Raymond Swanland",4,"德鲁伊达到53级后解锁。",Battlecry,,,,
+"Basic","大法师","<b>法术伤害+1</b>",6,"只要你能消灭任何质疑你的头衔的人，你就能获得“大法师”的头衔。","Minion","CS2_155",True,"Alliance","Common",7,,"Steve Ellis",4,"法师达到57级后解锁。",Spellpower,,,,
+"Basic","天空之眼","雷欧克使该随从获得+1攻击力。",,,"Enchantment","NEW1_033o",,,,,"Hunter",,,,,,,,
+"Basic","奉献","对所有敌人造成$2点伤害。",4,"神圣的能量从圣洁的大地涌出。但是，味道也有点熏人。","Spell","CS2_093",True,"Neutral","Common",,"Paladin","Vance Kovacs",,"达到43级后解锁。",,"达到4级后解锁。",,,
+"Basic","奥术射击","造成$2点伤害。",1,"法师们用奥术强化箭矢，然后出售给猎人；后来猎人们自己学会了足够的魔法之后便能够自给自足。不少法师因此失业，给暴风城的经济带来不小的冲击。","Spell","DS1_185",True,"Neutral","Free",,"Hunter","Luca Zontini",,"达到32级后解锁。",,"达到1级后解锁。",,,
+"Basic","奥术智慧","抽两张牌。",3,"使用这张牌能让你变得更聪明。面对现实吧：变聪明些对我们大家来说都是好事。","Spell","CS2_023",True,"Neutral","Free",,"Mage","Dave Berggren",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","奥术飞弹","造成$3点伤害，随机分配给敌方角色。",1,"既然你想要做一个超级厉害的法师，就必须得把奥术飞弹控制得好一些。","Spell","EX1_277",True,"Neutral","Free",,"Mage","Warren Mahy",,"达到32级后解锁。",ImmuneToSpellpower,"达到1级后解锁。",,,
+"Basic","奥金斧",,5,"“那个消失了的潜行者再也不曾出现过...”","Weapon","CS2_112",True,"Neutral","Common",,"Warrior","Stefan Kopinski",5,"达到51级后解锁。",,"达到10级后解锁。",2,,
+"Basic","妖术","使一个随从变形成为一个0/1并具有<b>嘲讽</b>的青蛙。",3,"如果你对一个鱼人使用妖术...其实结果也没什么变化，对不对？","Spell","EX1_246",True,"Neutral","Free",,"Shaman","Steve Hui",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","妖术变形","该随从被变形了！",,,"Enchantment","EX1_246e",,,,,"Shaman",,,,Morph,,,,
+"Basic","姆啦咯咯若啦咯啦啦哔！","该鱼人获得+1攻击力。",,,"Enchantment","EX1_508o",,,,,,,,,,,,,
+"Basic","安度因·乌瑞恩",,,,"Hero","HERO_09",True,"Neutral","Free",30,"Priest",,,,,,,,
+"Basic","寒冰箭","对一个角色造成$3点伤害，并使其<b>冻结</b>。",2,"在你用这张牌的时候，你可以随意喊出一些咒语，比如“冻住！”“冻结！”或者“结冰，结冰吧，宝贝儿！”","Spell","CS2_024",True,"Neutral","Common",,"Mage","Steve Ellis",,"达到40级后解锁。",Freeze,"达到2级后解锁。",,,
+"Basic","岩浆暴怒者",,3,"尽管现在每个人都能单刷熔火之心了，但他依然觉得自己很厉害。","Minion","CS2_118",True,,"Free",1,,"Matt Gaser",5,"萨满祭司达到51级后解锁。",,,,,
+"Basic","工程师学徒","<b>战吼：</b>抽一张牌。",2,"“班里的一半学生无法毕业...因为他们会被变成小鸡。”——工匠大师欧沃斯巴克，授课于齿轮101班","Minion","EX1_015",True,"Alliance","Free",1,,"Karl Richardson",1,"德鲁伊达到59级后解锁。",Battlecry,,,,
+"Basic","巫医","<b>战吼：</b>恢复2点生命值。",1,"别以为带上大坏蛋面具，再把两根筷子插在嘴里，你就是巫医了，伙计。","Minion","EX1_011",True,"Horde","Free",1,,"Karl Richardson",2,"潜行者达到55级后解锁。",Battlecry,,,,
+"Basic","幸运币",,,,"Enchantment","GAME_005e",,,,,,,,,,,,,
+"Basic","幸运币","在本回合中，获得一个法力水晶。",,,"Spell","GAME_005",,,,,,,,,,,,,
+"Basic","幸运币化身","<i>你失去了先手，但比赛依然掌握在你的手里。</i>",0,,"Minion","GAME_002",,,"Free",1,,,1,,,,,,
+"Basic","幸运币复仇","后手出牌会使你的第一个随从获得增强。",,,"Enchantment","GAME_003",,,,,,,,,,,,,
+"Basic","幸运币复仇","后手出牌会使你的第一个随从获得增强。",,,"Enchantment","GAME_003e",,,,,,,,,,,,,
+"Basic","幸运币祝福","后手出牌会使你的生命值提高。",,,"Enchantment","GAME_001",,,,,,,,,,,,,
+"Basic","库卡隆精英卫士","<b>冲锋</b>",4,"库卡隆就是加尔鲁什·地狱咆哮的精英部队。这么说吧，你最好不要穿着蓝色的战袍出现在这些壮汉面前。","Minion","NEW1_011",True,,"Common",3,"Warrior","Alex Horley Orlandelli",4,"达到44级后解锁。",Charge,"达到4级后解锁。",,,
+"Basic","强化","团队领袖使得该随从获得+1攻击力。",,,"Enchantment","CS2_122e",,,,,,,,,,,,,
+"Basic","影袭","对敌方英雄造成$3点伤害。",1,"尽管这个技能的名字已被改变，但这并不意味着它就不再“邪恶”。","Spell","CS2_075",True,"Neutral","Free",,"Rogue","Frank Cho",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","心灵视界","随机复制你的对手手牌中的一张牌，将其置入你的手牌。",1,"你刚才做的事情我都看见了。","Spell","CS2_003",True,"Neutral","Common",,"Priest","Michael Komarck",,"达到32级后解锁。",,"达到4级后解锁。",,,
+"Basic","心灵震爆","对敌方英雄造成$5点伤害。",2,"这个法术直接震爆你的心灵。","Spell","DS1_233",True,"Neutral","Free",,"Priest","Dave Allsop",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","恐惧地狱火","<b>战吼：</b>对所有其他角色造成1点伤害。",6,"“地狱火！”——加拉克苏斯，燃烧军团的艾瑞达之王","Minion","CS2_064",True,"Neutral","Common",6,"Warlock","Zoltan & Gabor",6,"达到23级后解锁。",Battlecry,"达到10级后解锁。",,,"Demon"
+"Basic","愤怒之锤","造成$3点伤害。
+抽一张牌。",4,"一个称职的圣骑士身上会携带很多工具。愤怒之锤、复仇之钳、正义之锯，等等。","Spell","CS2_094",True,"Neutral","Free",,"Paladin","Efrem Palacios",,"达到32级后解锁。",,"达到1级后解锁。",,,
+"Basic","战歌指挥官","每当你召唤一个攻击力小于或等于3的随从，使该随从获得<b>冲锋</b>。",3,"战歌氏族中闹剧不断，什么三教九流的人都能当上他们的指挥官。","Minion","EX1_084",True,"Neutral","Free",3,"Warrior","Wei Wang",2,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","打磨","这把武器本回合获得+1攻击力。",,,"Enchantment","CS2_083e",,,,,"Rogue",,,,OneTurnEffect,,,,
+"Basic","援军","<b>英雄技能</b>
+召唤一个1/1的白银之手新兵。",2,,"Hero Power","CS2_101",,"Neutral","Free",,"Paladin",,,,,,,,
+"Basic","斩杀","消灭一个受伤的敌方随从。",1,"这没什么，他罪有应得。","Spell","CS2_108",True,"Neutral","Free",,"Warrior","Dany Orizio",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","旋风斩","对所有随从造成$1点伤害。",1,"分辨资深战士和新手战士的最好办法：新手在用旋风斩时会喊“哇哇哇”。","Spell","EX1_400",True,"Neutral","Common",,"Warrior","Jonboy Meyers",,"达到32级后解锁。",,"达到6级后解锁。",,,
+"Basic","星火术","造成$5点伤害。
+抽一张牌。",6,"平衡对德鲁伊来说很重要。这张卡牌现在就很平衡了。","Spell","EX1_173",True,"Neutral","Common",,"Druid","Alex Horley Orlandelli",,"达到45级后解锁。",,"达到2级后解锁。",,,
+"Basic","暂离","你的回合时间减少。",,,"Enchantment","GAME_004",,,,,,,,,,,,,
+"Basic","暗影箭","对一个随从造成$4点伤害。",3,"黑暗中的威胁 —— 明枪易躲，暗箭难防。","Spell","CS2_057",True,"Neutral","Free",,"Warlock","Dave Allsop",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","暗言术：灭","消灭一个攻击力大于或等于5的随从。",3,"如果你的法术没有命中，那么你的目标身上会留下一道闪电形状的伤疤。","Spell","EX1_622",True,,"Common",,"Priest","Raymond Swanland",,"达到43级后解锁。",,"达到8级后解锁。",,,
+"Basic","暗言术：痛","消灭一个攻击力小于或等于3的随从。",2,"许多寺僧学徒都会施放：“暗言术：怒”，这个法术是它的进阶法术。","Spell","CS2_234",True,,"Free",,"Priest","Raymond Swanland",,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","暗鳞先知","所有其他鱼人获得+1攻击力。",1,"这些算是有头脑的鱼人。但仍然有些名不副实。","Minion","EX1_508",True,"Neutral","Common",1,,"Phil Saunders",1,"术士达到53级后解锁。",Aura,,,"","Murloc"
+"Basic","暗鳞治愈者","<b>战吼：</b>为所有友方角色恢复2点生命值。",5,"她只是在闲暇时间做一些治疗工作。这其实只不过是一个业余爱好罢了。","Minion","DS1_055",True,"Neutral","Common",5,,"Jesper Ejsing",4,"牧师达到55级后解锁。",Battlecry,,,,
+"Basic","暴风城之力","获得+1/+1。",,,"Enchantment","CS2_222o",,,,,,,,,,,,,
+"Basic","暴风城勇士","你的其他随从获得+1/+1。",7,"在死亡之翼攻击主城的时候，这个士兵是小队中唯一活下来的一个。现在，他已经变得忍辱负重，镇定自若了。","Minion","CS2_222",True,"Alliance","Common",6,,"Doug Alexander",6,"圣骑士达到59级后解锁。",Aura,,,"",
+"Basic","暴风城骑士","<b>冲锋</b>",4,"对于“死亡之翼毁城事件”，他仍然耿耿于怀。","Minion","CS2_131",True,"Alliance","Common",5,,"Ladronn",2,"圣骑士达到55级后解锁。",Charge,,,,
+"Basic","月火术","造成$1点伤害。",0,"“把月火术拖到每一个技能栏位上。”——《如何成为一名德鲁伊》，第五章，第三节","Spell","CS2_008",True,"Neutral","Common",,"Druid","Richard Wright",,"达到40级后解锁。",,"达到6级后解锁。",,,
+"Basic","机械幼龙",,1,,"Minion","EX1_025t",,"Neutral","Common",1,,,2,,,,,,"Mech"
+"Basic","机械幼龙技工","<b>战吼：</b>召唤一个2/1的机械幼龙。",4,"她依然在想办法为咬咬先生装上火箭发射器。","Minion","EX1_025",True,"Alliance","Common",4,,"Warren Mahy",2,"法师达到53级后解锁。",Battlecry,,,,
+"Basic","杀戮命令","造成$3点伤害。如果你控制任何野兽，则改为造成$5点伤害。",3,"“咬死他！”，他下达了命令。","Spell","EX1_539",True,"Neutral","Common",,"Hunter","Gabe from Penny Arcade",,"达到49级后解锁。",,"达到10级后解锁。",,,
+"Basic","森林狼","你的其他野兽获得+1攻击力。",1,"其他野兽最喜欢和森林狼一起外出打猎了。","Minion","DS1_175",True,"Neutral","Free",1,"Hunter","Malcolm Davis",1,"达到23级后解锁。",Aura,"达到1级后解锁。",,,"Beast"
+"Basic","森金持盾卫士","<b>嘲讽</b>",4,"如果你喜欢巨魔和沙尘的话，森金村还是个不错的地方。","Minion","CS2_179",True,"Horde","Free",5,,"Brian Despain",3,"潜行者达到59级后解锁。",Taunt,,,,
+"Basic","横扫","对一个敌人造成$4点伤害，并对所有其他敌人造成$1点伤害。",4,"当一只熊向后仰身张开它的前臂时，他就要横扫！...或者拥抱你了。","Spell","CS2_012",True,"Neutral","Common",,"Druid","Sean O’Daniels",,"达到47级后解锁。",,"达到8级后解锁。",,,
+"Basic","次级治疗术","<b>英雄技能</b>
+恢复2点生命值。",2,,"Hero Power","CS1h_001",,"Neutral","Free",,"Priest",,,,,,,,
+"Basic","死亡缠绕","对一个随从造成$1点伤害，如果死亡缠绕将其杀死，抽一张牌。",1,"很久以前，术士们发现只要在普通的法术中加入一点令人作呕的颜色，就能在伤害敌人的同时使其恐惧。真是一举两得。","Spell","EX1_302",True,"Neutral","Common",,"Warlock","Matt Gaser",,"达到43级后解锁。",,"达到4级后解锁。",,,
+"Basic","毒刃","造成$1点伤害，抽一张牌。",2,"毒如鹤顶，刃若清刚；图穷匕现，君命难长。","Spell","EX1_278",True,"Neutral","Common",,"Rogue","Alex Garner",,"达到45级后解锁。",,"达到6级后解锁。",,,
+"Basic","水元素","<b>冻结</b>任何受到该随从伤害的角色。",4,"千万别在晚会上召唤水元素。它会把一切都搞砸的。","Minion","CS2_033",True,"Neutral","Common",6,"Mage","John Avon",3,"达到49级后解锁。",Freeze,"达到8级后解锁。",,"",
+"Basic","治疗之触","恢复#8点生命值。",3,"见效快，疗效好，无毒副作用。","Spell","CS2_007",True,"Neutral","Free",,"Druid","Cyril Van Der Haegen",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","治疗图腾","在你的回合结束时，为所有友方随从恢复1点生命值。",1,,"Minion","NEW1_009",,,"Free",2,"Shaman",,0,,,,,,"Totem"
+"Basic","法力过剩","抽一张牌。<i>（你最多可以拥有10个法力水晶。）</i>",0,,"Spell","CS2_013t",,,,,"Druid",,,,,,,,
+"Basic","消失","将所有随从移回其拥有者的手牌。",6,,"Spell","NEW1_004",True,,"Common",,"Rogue","Sean O’Daniels",,"达到23级后解锁。",,"达到8级后解锁。",,,
+"Basic","淡水鳄",,2,"“左撇子”爱德华·史密斯曾经试着从一条淡水鳄的嘴里把行李夺回来。","Minion","CS2_120",True,,"Free",3,,"Daren Bader",2,"德鲁伊达到55级后解锁。",,,,,"Beast"
+"Basic","激活","仅在本回合中，获得两个法力水晶。",0,"有些德鲁伊做梦时都回响着陌生人的喊叫声：“给我个激活！”","Spell","EX1_169",True,"Neutral","Free",,"Druid","Doug Alexander",,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","火元素","<b>战吼：</b>造成3点伤害。",6,"他从来不洗澡。嗯...","Minion","CS2_042",True,"Neutral","Common",5,"Shaman","Ralph Horsley",6,"达到49级后解锁。",Battlecry,"达到10级后解锁。",,,
+"Basic","火焰冲击","<b>英雄技能</b>
+造成1点伤害。",2,,"Hero Power","CS2_034",,"Neutral","Free",,"Mage",,,,,,,,
+"Basic","火球术","造成$6点伤害。",4,"这个法术会让东西烧起来。如果你是在寻找能把东西烤熟，或者只是加热的法术，你就找错对象了。","Spell","CS2_029",True,"Neutral","Free",,"Mage","Ralph Horsley",,"达到44级后解锁。",,"达到1级后解锁。",,,
+"Basic","火舌","火舌图腾使其获得+2攻击力。",,,"Enchantment","EX1_565o",,,,,"Shaman",,,,,,,,
+"Basic","火舌图腾","相邻的随从获得+2攻击力。",2,"图腾制造师喜欢用最稀有的木材来打造图腾。甚至有传言说，这些图腾是由埃隆巴克保护者身上的树皮做的。","Minion","EX1_565",True,"Neutral","Common",3,"Shaman","Jonathan Ryder",0,"达到43级后解锁。",AdjacentBuff|Aura,"达到4级后解锁。",,"","Totem"
+"Basic","灵魂之火","造成$4点伤害，随机弃一张牌。",1,"是把别人的灵魂点燃？还是用自己的灵魂把别人点燃？这似乎是有很大区别的。","Spell","EX1_308",True,"Neutral","Common",,"Warlock","Raymond Swanland",,"达到28级后解锁。",,"达到6级后解锁。",,,
+"Basic","灼热图腾",,1,,"Minion","CS2_050",,"Neutral","Free",1,"Shaman",,1,,,,,,"Totem"
+"Basic","炽炎战斧",,2,"在安宁祥和的年代，人们用另一个不太流行的名字称呼这把武器，寒冰静谧战斧。","Weapon","CS2_106",True,"Neutral","Free",,"Warrior","Lucas Graciano",3,"达到49级后解锁。",,"达到1级后解锁。",2,,
+"Basic","烈焰风暴","对所有敌方随从造成$4点伤害。",7,"当地板着火的时候，无论你在地上怎么打滚，都是没用的。","Spell","CS2_032",True,"Neutral","Common",,"Mage","Romain De Santi",,"达到51级后解锁。",,"达到10级后解锁。",,,
+"Basic","熔火恶犬",,7,"你无法驯服一头熔火恶犬。你只能通过训练让它在吃掉你之前先吃掉其他人。","Minion","CS2_201",True,,"Common",5,,"E.M. Gist",9,"猎人达到51级后解锁。",,,,,"Beast"
+"Basic","爪击","使你的英雄获得2点护甲值，并在本回合中获得+2攻击力。",1,"谁去谁留，都由爪子决定。","Spell","CS2_005",True,"Neutral","Free",,"Druid","Dany Orizio",,"达到32级后解锁。",,"达到1级后解锁。",,,
+"Basic","爪击","在本回合中，获得+2攻击力。",,,"Enchantment","CS2_005o",,,,,"Druid",,,,OneTurnEffect,,,,
+"Basic","牺牲契约","牺牲一个恶魔，为你的英雄恢复#5点生命值。",0,"这就是为何恶魔不愿意和术士交朋友的原因。","Spell","NEW1_003",True,,"Common",,"Warlock","Jim Nelson",,"达到15级后解锁。",,"达到8级后解锁。",,,
+"Basic","狂怒之嚎","森林狼使得这只野兽获得+1攻击力。",,,"Enchantment","DS1_175o",,,,,"Hunter",,,,,,,,
+"Basic","狂暴","该随从的攻击力增加。",,,"Enchantment","EX1_399e",,,,,,,,,,,,,
+"Basic","狗头人地卜师","<b>法术伤害+1</b>",2,"在过去，狗头人是这片土地上最好的蜡烛交易商，直到它们被逼太甚...","Minion","CS2_142",True,"Horde","Common",2,,"Gabor Szikszai",2,"术士达到59级后解锁。",Spellpower,,,,
+"Basic","狼骑兵","<b>冲锋</b>",3,"兽人劫掠者们以狼作为坐骑是因为它们能够适应艰苦的环境，而且它们特别温顺，很会讨兽人喜欢。","Minion","CS2_124",True,"Horde","Free",1,,"Dany Orizio",3,"战士达到59级后解锁。",Charge,,,,
+"Basic","猎人印记","使一个随从的生命值变为1。",0,"千万不要和猎人玩捉迷藏的游戏。","Spell","CS2_084",True,"Neutral","Common",,"Hunter","Jimmy Lo",,"达到40级后解锁。",,"达到6级后解锁。",,,
+"Basic","猎人印记","该随从的生命值变为1。",,,"Enchantment","CS2_084e",,,,,"Hunter",,,,,,,,
+"Basic","王者祝福","使一个随从获得+4/+4。<i>（+4攻击力/+4生命值）</i>",4,"你知道世界上有多少所谓的“王者”被暗杀了吗？你确定还想要王者祝福吗？","Spell","CS2_092",True,"Neutral","Common",,"Paladin","Lucas Graciano",,"达到49级后解锁。",,"达到10级后解锁。",,,
+"Basic","王者祝福","+4/+4。",,,"Enchantment","CS2_092e",,,,,"Paladin",,,,,,,,
+"Basic","玛法里奥·怒风",,,,"Hero","HERO_06",True,"Neutral","Free",30,"Druid",,,,,,,,
+"Basic","瓦莉拉·萨古纳尔",,,,"Hero","HERO_03",True,"Neutral","Free",30,"Rogue",,,,,,,,
+"Basic","生命分流","<b>英雄技能</b>
+抽一张牌并受到2点伤害。",2,,"Hero Power","CS2_056",,"Neutral","Free",,"Warlock",,,,,,,,
+"Basic","疾跑","抽四张牌。",7,"潜行者们通常都不擅长慢跑。","Spell","CS2_077",True,"Neutral","Common",,"Rogue","James Zhang",,"达到49级后解锁。",,"达到10级后解锁。",,,
+"Basic","白银之手新兵",,1,,"Minion","CS2_101t",,,"Free",1,"Paladin",,1,,,,,,
+"Basic","盾牌格挡","获得5点护甲值。
+抽一张牌。",3,"光有面罩是不够的，所以人们发明了盾牌。","Spell","EX1_606",True,"Neutral","Common",,"Warrior","Michael Komarck",,"达到28级后解锁。",,"达到8级后解锁。",,,
+"Basic","真言术：盾","使一个随从获得+2生命值。
+抽一张牌。",1,"额外的保护自然不错，但是这护盾阻碍了视野。","Spell","CS2_004",True,"Neutral","Free",,"Priest","Jessica Jung",,"达到47级后解锁。",,"达到1级后解锁。",,,
+"Basic","真言术：盾","+2生命值。",,,"Enchantment","CS2_004e",,,,,"Priest",,,,,,,,
+"Basic","真银圣剑","每当你的英雄进攻，便为其恢复2点生命值。",4,"它能用来切片，也能切块。你还可以用它来开罐头。（但你不会这么做的。）","Weapon","CS2_097",True,"Neutral","Common",,"Paladin","Ryan Sook",4,"达到40级后解锁。",,"达到2级后解锁。",2,,
+"Basic","石化武器","在本回合中，使一个友方角色获得+3攻击力。",1,"如果你的敌人是石头做的，那就再好不过了。","Spell","CS2_045",True,"Neutral","Free",,"Shaman","Alex Horley Orlandelli",,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","石化武器","在本回合中，该角色获得+3攻击力。",,,"Enchantment","CS2_045e",,,,,"Shaman",,,,OneTurnEffect,,,,
+"Basic","石拳食人魔",,6,"“我非常厉害，绝对值这个价格！”","Minion","CS2_200",True,,"Free",7,,"Brian Despain",6,"术士达到51级后解锁。",,,,,
+"Basic","石爪图腾","<b>嘲讽</b>",1,,"Minion","CS2_051",,"Neutral","Free",2,"Shaman",,0,,Taunt,,,,"Totem"
+"Basic","石牙野猪","<b>冲锋</b>",1,"决斗的时候离它们远点儿。","Minion","CS2_171",True,"Neutral","Free",1,,"Howard Lyon",1,"猎人达到53级后解锁。",Charge,,,,"Beast"
+"Basic","破碎残阳祭司","<b>战吼：</b>使一个友方随从获得+1/+1。",3,"他们会随身带着一瓶太阳井能量饮料！","Minion","EX1_019",True,"Neutral","Common",2,,"Doug Alexander",3,"牧师达到53级后解锁。",Battlecry,,,,
+"Basic","神圣之灵","该随从的生命值翻倍。",,,"Enchantment","CS2_236e",,,,,"Priest",,,,,,,,
+"Basic","神圣之灵","使一个随从的生命值翻倍。",2,"加倍的付出会得到加倍的收获！","Spell","CS2_236",True,,"Common",,"Priest","Jim Pavelec",,"达到28级后解锁。",,"达到2级后解锁。",,,
+"Basic","神圣惩击","造成$2点伤害。",1,"这和多么虔诚没有关系，每个人都需要时不时有人鞭策一下。","Spell","CS1_130",True,"Neutral","Free",,"Priest","Steve Ellis",,"达到23级后解锁。",,"达到1级后解锁。",,,
+"Basic","神圣新星","对所有敌方角色造成$2点伤害，为所有友方角色恢复#2点生命值。",5,"没有得到圣光眷顾的人切忌使用这个法术，它滋润善者，惩罚恶徒。","Spell","CS1_112",True,"Neutral","Common",,"Priest","Luca Zontini",,"达到45级后解锁。",,"达到6级后解锁。",,,
+"Basic","祭司的祝福","+1/+1。",,,"Enchantment","EX1_019e",,,,,"Priest",,,,,,,,
+"Basic","稳固射击","<b>英雄技能</b>
+对敌方英雄造成2点伤害。",2,,"Hero Power","DS1h_292",,"Neutral","Free",,"Hunter",,,,,,,,
+"Basic","空气之怒图腾","<b>法术伤害+1</b>",1,,"Minion","CS2_052",,"Neutral","Free",2,"Shaman",,0,,Spellpower,,,,"Totem"
+"Basic","竞技场主宰","<b>嘲讽</b>",6,"他曾经是一个2100分段的竞技场高端玩家。但那已经是几年前的事情了，而且没人能阻止他继续吹嘘这件事。","Minion","CS2_162",True,"Alliance","Common",5,,"E.M. Gist",6,"牧师达到59级后解锁。",Taunt,,,,
+"Basic","米莎","<b>嘲讽</b>",3,,"Minion","NEW1_032",,,"Common",4,"Hunter",,4,,Taunt,,,,"Beast"
+"Basic","精灵弓箭手","<b>战吼：</b>造成1点伤害。",1,"媚眼如丝，轻盈如燕，致命如箭。","Minion","CS2_189",True,"Horde","Common",1,,"Steve Prescott",1,"德鲁伊达到57级后解锁。",Battlecry,,,,
+"Basic","精神控制","该随从的控制权发生了变化。",,,"Enchantment","CS1_113e",,"Neutral","Common",,"Priest",,,,,,,,
+"Basic","精神控制","获得一个敌方随从的控制权。",10,"被称为“最有可能让你的对手捶地撞墙的法术。”","Spell","CS1_113",True,"Neutral","Common",,"Priest","Sean O’Daniels",,"达到49级后解锁。",,"达到10级后解锁。",,,
+"Basic","绵羊",,0,,"Minion","CS2_tk1",,"Neutral","Common",1,,,1,,,,,,"Beast"
+"Basic","绿洲钳嘴龟",,4,"它的梦想是能够像它的偶像那样飞行和吐息火焰，但这样的梦想永远无法实现。","Minion","CS2_119",True,,"Free",7,,"Ittoku",2,"德鲁伊达到51级后解锁。",,,,,"Beast"
+"Basic","背刺","对一个未受伤的随从造成$2点伤害。",0,"大叫着“看那儿！”，然后让你的对手背对着你，这一招总是出奇地有效。","Spell","CS2_072",True,"Neutral","Free",,"Rogue","Michael Sutfin",,"达到36级后解锁。",,"达到1级后解锁。",,,
+"Basic","腐蚀术","选择一个敌方随从，在你的回合开始时，消灭该随从。",1,"心灵的腐蚀来自于最初的一些小偷小摸，而在你意识到它之前...嘭！一切化为乌有！","Spell","CS2_063",True,"Neutral","Common",,"Warlock","Wayne Reynolds",,"达到32级后解锁。",,"达到2级后解锁。",,,
+"Basic","腐蚀术","在施放腐蚀术的玩家的回合开始时，消灭该随从。",,,"Enchantment","CS2_063e",,,,,"Warlock",,,,,,,,
+"Basic","致命药膏","+2攻击力。",,,"Enchantment","CS2_074e",,,,,,,,,,,,,
+"Basic","致命药膏","使你的武器获得+2攻击力。",1,"潜行者们都小心翼翼地保守着制毒的秘密，唯恐法师们把毒药用在他们的法术之中。毒性箭？剧毒之雨？毒元素？听上去就很可怕。","Spell","CS2_074",True,"Neutral","Free",,"Rogue","Trevor Jacobs",,"达到43级后解锁。",,"达到1级后解锁。",,,
+"Basic","苔原犀牛","你的野兽获得<b>冲锋</b>。",5,"人们经常无法分清苔原犀牛和科多兽。这是一头苔原犀牛，对不对？","Minion","DS1_178",True,"Neutral","Common",5,"Hunter","Lars Grant-West",2,"达到43级后解锁。",,"达到8级后解锁。",,,"Beast"
+"Basic","英勇打击","在本回合中，+4攻击力。",,,"Enchantment","CS2_105e",,,,,"Warrior",,,,OneTurnEffect,,,,
+"Basic","英勇打击","在本回合中，使你的英雄获得+4攻击力。",2,"真英雄，必英勇，赶快使用英勇打击，做真英雄！","Spell","CS2_105",True,"Neutral","Free",,"Warrior","Jonboy Meyers",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","萨尔",,,,"Hero","HERO_02",True,"Neutral","Free",30,"Shaman",,,,,,,,
+"Basic","蓝腮战士","<b>冲锋</b>",2,"他只是想要一个拥抱。一个黏黏的...滑滑的...拥抱。","Minion","CS2_173",True,"Neutral","Common",1,,"Jakub Kasper",2,"圣骑士达到53级后解锁。",Charge,,,,"Murloc"
+"Basic","藏宝海湾保镖","<b>嘲讽</b>",5,"你可以雇佣他们为你效命...直到有人出更高的价钱来让他们对付你。","Minion","CS2_187",True,"Horde","Common",4,,"Matt Cavotta",5,"萨满祭司达到55级后解锁。",Taunt,,,,
+"Basic","虚空行者","<b>嘲讽</b>",1,"虽然他也拥有蓝色的，胖胖的身材，但他和某部动画片里的主角没关系。","Minion","CS2_065",True,"Neutral","Free",3,"Warlock","Alex Horley Orlandelli",1,"达到36级后解锁。",Taunt,"达到1级后解锁。",,,"Demon"
+"Basic","血沼迅猛龙",,2,"“去杀30条迅猛龙。”——赫米特·奈辛瓦里","Minion","CS2_172",True,"Horde","Free",2,,"Dan Brereton",3,"猎人达到57级后解锁。",,,,,"Beast"
+"Basic","谦逊","攻击力变为1。",,,"Enchantment","EX1_360e",,"Neutral",,,"Paladin",,,,,,,,
+"Basic","谦逊","使一个随从的攻击力变为1。",1,"这张牌真是会让人的心情很糟糕，就像潮湿阴冷的天气。","Spell","EX1_360",True,"Neutral","Common",,"Paladin","Daren Bader",,"达到28级后解锁。",,"达到6级后解锁。",,,
+"Basic","达拉然法师","<b>法术伤害+1</b>",3,"你肯定没见过达拉然战士。","Minion","EX1_582",True,"Neutral","Common",4,,"Jim Nelson",1,"法师达到59级后解锁。",Spellpower,,,,
+"Basic","追踪术","检视你的牌库顶的三张牌，将其中一张置入手牌，弃掉其余牌。",1,"为了那些不知道该把什么牌放入套牌的人准备的！","Spell","DS1_184",True,"Neutral","Free",,"Hunter","Mauro Cascioli",,"达到15级后解锁。",,"达到1级后解锁。",,,
+"Basic","邪恶短刀",,1,,"Weapon","CS2_082",,"Neutral","Free",,"Rogue",,1,,,,2,,
+"Basic","酸性沼泽软泥怪","<b>战吼：</b>摧毁对手的武器。",2,"软泥怪喜欢弗拉曼柯舞。别问为什么。","Minion","EX1_066",True,"Alliance","Common",2,,"Chris Rahn",3,"潜行者达到57级后解锁。",Battlecry,,,,
+"Basic","野性印记","使一个随从获得<b>嘲讽</b>和+2/+2。<i>（+2攻击力/+2生命值）</i>",2,"这种爪子形状的印记如果纹在身上，人们一定知道你是德鲁伊玩家。","Spell","CS2_009",True,"Neutral","Free",,"Druid","Brad Vancata",,"达到28级后解锁。",,"达到1级后解锁。",,,
+"Basic","野性印记","该随从获得+2/+2和<b>嘲讽</b>。",,,"Enchantment","CS2_009e",,,,,"Druid",,,,,,,,
+"Basic","野性成长","获得一个空的法力水晶。",2,"使用法力水晶增长装置增加你的法力值，只要399！","Spell","CS2_013",True,"Neutral","Free",,"Druid","James Ryman",,"达到23级后解锁。",,"达到1级后解锁。",,,
+"Basic","野猪",,1,,"Minion","CS2_boar",,"Neutral","Common",1,,,1,,,,,,"Beast"
+"Basic","野蛮咆哮","在本回合中，获得+2攻击力。",,,"Enchantment","CS2_011o",,,,,"Druid",,,,OneTurnEffect,,,,
+"Basic","野蛮咆哮","在本回合中，使你的所有角色获得+2攻击力。",3,"显然这对火元素和水元素也有作用。难道这说明元素也是长耳朵的吗？","Spell","CS2_011",True,"Neutral","Common",,"Druid","Grace Liu",,"达到43级后解锁。",,"达到4级后解锁。",,,
+"Basic","铁炉堡火枪手","<b>战吼：</b>造成1点伤害。",3,"“准备！瞄准！干杯！”","Minion","CS2_141",True,"Alliance","Common",2,,"Tooth",2,"法师达到55级后解锁。",Battlecry,,,,
+"Basic","铁鬃灰熊","<b>嘲讽</b>",3,"“瘦死的棕熊比兽人大。”","Minion","CS2_125",True,"Neutral","Common",3,,"Lars Grant-West",3,"猎人达到59级后解锁。",Taunt,,,,"Beast"
+"Basic","银背族长","<b>嘲讽</b>",3,"尽管他表现得像个领导者，但实际上银背母猩猩才是真正管事的人。","Minion","CS2_127",True,"Horde","Common",4,,"Daren Bader",1,"战士达到53级后解锁。",Taunt,,,,"Beast"
+"Basic","镜像","召唤两个0/2，并具有<b>嘲讽</b>的随从。",1,"哦，嘿，这是个镜像！！像镜个是这，嘿，哦","Spell","CS2_027",True,"Neutral","Common",,"Mage","Jim Nelson",,"达到36级后解锁。",,"达到4级后解锁。",,,
+"Basic","镜像","<b>嘲讽</b>",0,,"Minion","CS2_mirror",,"Neutral","Common",2,"Mage",,0,,Taunt,,,,
+"Basic","闪金镇步兵","<b>嘲讽</b>",1,"如果闪金镇都是由1/2的步兵把守的话，那它早在多年以前就被毁了。","Minion","CS1_042",True,"Alliance","Common",2,,"Donato Giancola",1,"圣骑士达到57级后解锁。",Taunt,,,,
+"Basic","闷棍","将一个敌方随从移回你的对手的手牌。",2,"“潜行者”的闷棍技术比“盗贼”好很多，他们不用天赋支持，就可以保证百分之百闷棍命中。","Spell","EX1_581",True,"Neutral","Free",,"Rogue","Scott Altmann",,"达到40级后解锁。",,"达到1级后解锁。",,,
+"Basic","雷克萨",,,,"Hero","HERO_05",True,"Neutral","Free",30,"Hunter",,,,,,,,
+"Basic","雷欧克","其他友方随从获得+1攻击力。",3,,"Minion","NEW1_033",,,"Common",4,"Hunter",,2,,,,,,"Beast"
+"Basic","雷矛特种兵","<b>战吼：</b>造成2点伤害。",5,"雷矛特种兵都是爆破专家。他们还会烘焙简易的蛋糕。","Minion","CS2_150",True,"Alliance","Common",2,,"Kev Walker",4,"圣骑士达到51级后解锁。",Battlecry,,,,
+"Basic","霍弗","<b>冲锋</b>",3,,"Minion","NEW1_034",,,"Common",2,"Hunter",,4,,Charge,,,,"Beast"
+"Basic","霜狼军旗","属性值提高。",,,"Enchantment","CS2_226e",,,,,,,,,,,,,
+"Basic","霜狼步兵","<b>嘲讽</b>",2,"他的祖祖辈辈都是步兵，这已经不仅仅是一份工作而已了。","Minion","CS2_121",True,"Neutral","Common",2,,"Richie Marella",2,"萨满祭司达到57级后解锁。",Taunt,,,,
+"Basic","霜狼督军","<b>战吼：</b>战场上每有一个其他友方随从，便获得+1/+1。",5,"为了争夺奥克兰特山谷的控制权，霜狼氏族和雷矛探险队打得不可开交。任何前来企图进行和平谈判的斡旋者都会被处死。","Minion","CS2_226",True,"Horde","Common",4,,"James Ryman",4,"萨满祭司达到53级后解锁。",Battlecry,,,"",
+"Basic","青蛙","<b>嘲讽</b>",0,,"Minion","hexfrog",,"Neutral","Common",1,,,0,,Taunt,,,,"Beast"
+"Basic","顺劈斩","对两个随机敌方随从造成$2点伤害。",2,"嘿，你们俩...你们能不能站在一起？就一会儿...","Spell","CS2_114",True,"Neutral","Common",,"Warrior","Phroilan Gardner",,"达到40级后解锁。",,"达到2级后解锁。",,,
+"Basic","风怒","使一个随从获得<b>风怒</b>。",2,"比起“地怒”或是“火怒”，萨满们更喜欢使用“风怒”，因为它更轻巧，更飘逸。","Spell","CS2_039",True,"Neutral","Free",,"Shaman","Justin Sweet",,"达到23级后解锁。",,"达到1级后解锁。",,,
+"Basic","风语者","<b>战吼：</b>使一个友方随从获得<b>风怒</b>。",4,"患有口臭的风语者...还有什么比这更糟糕的吗？","Minion","EX1_587",True,"Neutral","Common",3,"Shaman","Vance Kovacs",3,"达到45级后解锁。",Battlecry,"达到8级后解锁。",,,
+"Basic","食人魔法师","<b>法术伤害+1</b>",4,"教授食人魔如何施法是个值得商榷的决定。","Minion","CS2_197",True,"Neutral","Common",4,,"James Ryman",4,"术士达到55级后解锁。",Spellpower,,,,
+"Basic","饥饿的秃鹫","每当你召唤一个野兽，抽一张牌。",5,"如果你喂饱了它，它就名不副实了。","Minion","CS2_237",True,,"Common",2,"Hunter","Bernie Kang",3,"达到47级后解锁。",,"达到4级后解锁。",,"","Beast"
+"Basic","驯兽师","<b>战吼：</b>使一个友方野兽获得+2/+2并获得<b>嘲讽</b>。",4,"“是谁把狗放出来的？”他问。其实，这只是他的口头禅。","Minion","DS1_070",True,"Neutral","Free",3,"Hunter","Dan Brereton",4,"达到28级后解锁。",Battlecry,"达到1级后解锁。",,"",
+"Basic","驯兽师的训练","+2/+2并具有<b>嘲讽</b>。",,,"Enchantment","DS1_070o",,,,,"Hunter",,,,,,,,
+"Basic","骷髅","<b></b>",1,,"Minion","skele11",,"Neutral","Common",1,,,1,,,,,,
+"Basic","魅魔","<b>战吼：</b>随机弃一张牌。",2,"术士们的假期都很香艳。","Minion","EX1_306",True,"Neutral","Free",3,"Warlock","Matt Dixon",4,"达到40级后解锁。",Battlecry,"达到1级后解锁。",,,"Demon"
+"Basic","魔爆术","对所有敌方随从造成$1点伤害。",2,"魔爆术曾是让法师们区别于艾泽拉斯其他职业的技能之一。","Spell","CS2_025",True,"Neutral","Free",,"Mage","Howard Lyon",,"达到28级后解锁。",,"达到1级后解锁。",,,
+"Basic","鱼人斥候",,0,,"Minion","EX1_506a",,"Neutral","Common",1,,,1,,,,,,"Murloc"
+"Basic","鱼人猎潮者","<b>战吼：</b>召唤一个1/1的鱼人斥候。",2,"“死亡之潮升涌而起！”","Minion","EX1_506",True,"Neutral","Common",1,,"Dan Scott",2,"潜行者达到53级后解锁。",Battlecry,,,,"Murloc"
+"Basic","鱼人袭击者",,1,"姆啦啦咯哈姆噶啊啊嘎，姆啦嘎嘎咯，啵啦啦嗯嘞噶哈，姆啦嗝，咯啦哈哈吧啦咯。加尔鲁什咯嘛啦喝，嘛啦咯呵！","Minion","CS2_168",True,"Alliance","Free",1,,"Dan Scott",2,"牧师达到51级后解锁。",,,,,"Murloc"
+"Basic","鲁莽火箭兵","<b>冲锋</b>",6,"一个疯狂的火箭兵加上一个装满炸药的火箭。完美的组合。","Minion","CS2_213",True,"Horde","Free",2,,"John Polidora",5,"萨满祭司达到59级后解锁。",Charge,,,,

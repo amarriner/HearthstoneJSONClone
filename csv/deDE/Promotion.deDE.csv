@@ -1,0 +1,14 @@
+SET,NAME,TEXT,COST,TYPE,ID,MECHANICS,COLLECTIBLE,ARTIST,ELITE,RARITY,ATTACK,HEALTH,HOWTOGETGOLD,FLAVOR,FACTION,RACE,INPLAYTEXT
+"Promotion","„I Am Murloc“","Ruft drei vier oder fünf Murlocs herbei (1/1).",4,"Spell","PRO_001a",,,,,,,,,,,,
+"Promotion","„Power of the Horde“","Beschwört einen zufälligen Krieger der Horde.",4,"Spell","PRO_001c",,,,,,,,,,,,
+"Promotion","„Rogues Do It...“","Verursacht $4 Schaden. Zieht eine Karte.",4,"Spell","PRO_001b",,,,,,,,,,,,
+"Promotion","Elite Tauren Chieftain","<b>Kampfschrei:</b> Verleiht beiden Spielern die Macht des ROCK! (durch eine Powerakkordkarte)",5,"Minion","PRO_001",Battlecry,True,"Samwise Didier",True,"Legendary",5,5,"Belohnung für die Teilnahme an der BlizzCon 2013.","Schon als Kalb war er Fan von Muhtallica.",,,
+"Promotion","Geflügelisierer","Verwandelt zu Beginn Eures Zuges einen zufälligen Diener in ein Huhn (1/1).",1,"Minion","Mekka4",,,,,"Common",0,3,,,"Alliance","Mech",""
+"Promotion","Gelbin Mekkadrill","<b>Kampfschrei:</b> Konstruiert eine FANTASTISCHE Erfindung.",6,"Minion","EX1_112",Battlecry,True,"Ludo Lullabi",True,"Legendary",6,6,"Belohnung für Spieler die in der Betaphase dabei halfen den Shop zu testen.","Er ist der Anführer der Gnome und ein unglaublicher Erfinder. Außerdem lernt er immer noch dazu: Er verwandelt jetzt viel weniger Dinge in Hühner als früher.","Alliance",,
+"Promotion","Huhn","<i>Put put put!</i>",0,"Minion","Mekka4t",,,,,,1,1,,,,"Beast",
+"Promotion","Kraftverstärker 3000","Verleiht am Ende Eures Zuges einem zufälligen Diener +1/+1.",1,"Minion","Mekka3",,,,,"Common",0,4,,,"Alliance","Mech",""
+"Promotion","Murloc",,1,"Minion","PRO_001at",,,,,,1,1,,,,"Murloc",
+"Promotion","Reparaturbot","Stellt am Ende Eures Zuges bei einem verletzten Charakter 6 Leben wieder her.",1,"Minion","Mekka2",,,,,"Common",0,3,,,"Alliance","Mech",""
+"Promotion","Verstärkt!","Erhöhte Werte.",,"Enchantment","Mekka3e",,,,,,,,,,,,
+"Promotion","Verwandelt","Wurde in ein Huhn verwandelt!",,"Enchantment","Mekka4e",Morph,,,,,,,,,,,
+"Promotion","Zielsuchendes Huhn","Vernichtet zu Beginn Eures Zuges diesen Diener und zieht 3 Karten.",1,"Minion","Mekka1",,,,,"Common",0,1,,,"Alliance","Mech",""

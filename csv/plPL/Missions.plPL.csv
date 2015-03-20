@@ -1,0 +1,39 @@
+SET,NAME,FACTION,TEXT,RARITY,COST,TYPE,ID,MECHANICS,HEALTH,INPLAYTEXT,DURABILITY,ATTACK,PLAYERCLASS
+"Missions","Banany","Neutral","Daj przyjaznemu stronnikowi +1/+1. <i>(+1 do ataku/+1 do zdrowia)</i>","Common",1,"Spell","TU4c_006",,,,,,
+"Missions","Banany",,"Ten stronnik ma +1/+1. <i>(+1 do ataku/+1 do zdrowia)</i>",,,"Enchantment","TU4c_006e",,,,,,
+"Missions","Beczka","Neutral","Czy w tej beczce coś jest?","Common",0,"Minion","TU4c_003",Deathrattle,2,"",,,
+"Missions","Bojowa glewia Azzinotha",,,"Common",2,"Weapon","TU4e_004",,,,2,2,
+"Missions","Dziedzictwo Cesarza",,"Daj swoim stronnikom +2/+2. <i>(+2 do ataku/+2 do zdrowia)</i>","Common",3,"Spell","TU4f_004",,,,,,
+"Missions","Dziedzictwo Cesarza",,"Ma +2/+2. <i>(+2 do ataku/+2 do zdrowia)</i>",,,"Enchantment","TU4f_004o",,,,,,
+"Missions","Gnol",,,"Common",1,"Minion","TU4a_003",,1,,,1,
+"Missions","Gnol z Wodnołapych",,,"Common",1,"Minion","TU4a_002",,1,,,2,
+"Missions","Gorzelnik",,,"Common",4,"Minion","TU4f_005",,4,,,4,
+"Missions","Hemet Nesingwary",,,"Common",,"Hero","TU4d_001",,20,,,,"Hunter"
+"Missions","Illidan Burzogniewny",,,,,"Hero","TU4e_001",,30,,,,"Hunter"
+"Missions","Jaina Proudmoore",,,"Common",,"Hero","TU4a_006",,27,,,,"Mage"
+"Missions","Król Mukla",,,"Common",,"Hero","TU4c_001",,26,,,,
+"Missions","Mełko Gromiłło",,,"Common",,"Hero","TU4b_001",,20,,,,"Mage"
+"Missions","Mnich z Shado-Pan",,,"Common",2,"Minion","TU4f_003",,2,,,2,
+"Missions","Moc Mukli",,"Król Mukla ma +8 do ataku w tej turze.",,,"Enchantment","TU4c_008e",OneTurnEffect,,,,,
+"Missions","Naga siepacz",,"<b></b>","Common",1,"Minion","TU4e_003",,1,,,1,
+"Missions","Ogromny gnol",,,"Common",4,"Minion","TU4a_005",,2,,,5,
+"Missions","Pandaren zwiadowca",,,"Common",1,"Minion","TU4f_002",,1,,,1,
+"Missions","Płomień Azzinotha",,,"Common",1,"Minion","TU4e_002t",,1,,,2,
+"Missions","Płomienie Azzinotha",,"<b>Moc specjalna</b>
+Przyzwij dwóch stronników 2/1.",,2,"Hero Power","TU4e_002",,,,,,
+"Missions","Podwójne bojowe glewie",,,"Common",6,"Weapon","TU4e_007",,,,2,4,
+"Missions","Rzut beczką","Neutral","Zadaj 2 pkt. obrażeń.","Common",1,"Spell","TU4c_002",,,,,,
+"Missions","Stąpnięcie","Neutral","Zadaj 2 pkt. obrażeń wszystkim wrogom.","Common",2,"Spell","TU4c_004",,,,,,
+"Missions","Strzał z garłacza",,"<b>Moc specjalna</b>
+Zadaj 1 pkt. obrażeń.","Common",2,"Hero Power","TU4d_003",,,,,,"Hunter"
+"Missions","Szalona małpa",,"<b>Okrzyk bojowy:</b> Rzuć bananami.","Common",1,"Minion","TU4f_007",Battlecry,2,,,1,
+"Missions","Szalony łowca",,,"Common",1,"Minion","TU4d_002",,1,,,1,
+"Missions","Transcendencja",,"Nie możesz zaatakować Czo dopóki nie zabijesz jego stronników.","Common",1,"Spell","TU4f_006",,,,,,
+"Missions","Transcendencja",,"Nie możesz zaatakować Czo dopóki nie zabijesz jego stronników.",,,"Enchantment","TU4f_006o",,,,,,
+"Missions","Ukryty gnom","Neutral","Ukrywał się w beczce!","Common",2,"Minion","TU4c_005",,3,,,1,
+"Missions","Wiedziciel Czo",,,,,"Hero","TU4f_001",,25,,,,
+"Missions","Wielki brat Mukli",,"Ależ siłacz! I za jedyne 6 many?!","Common",6,"Minion","TU4c_007",,10,,,10,
+"Missions","Wola Mukli",,"Przywróć 8 pkt. zdrowia.","Common",3,"Spell","TU4c_008",,,,,,
+"Missions","Wybuch płomieni",,"Wystrzel 5 pocisków w losowych wrogów zadając każdemu $1 pkt. obrażeń.","Common",3,"Spell","TU4e_005",,,,,,
+"Missions","Wyżer",,,"Common",,"Hero","TU4a_001",,10,,,,
+"Missions","Wyżer MIAŻDŻYĆ!",,"Zadaj 4 pkt. obrażeń.","Common",3,"Spell","TU4a_004",,,,,,

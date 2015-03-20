@@ -1,0 +1,1144 @@
+SET,NAME,FACTION,TEXT,RARITY,COST,TYPE,ID,MECHANICS,HEALTH,INPLAYTEXT,DURABILITY,ATTACK,PLAYERCLASS,COLLECTIBLE,ARTIST,FLAVOR,ELITE,RACE,HOWTOGET,HOWTOGETGOLD
+"Missions","Banany","Neutral","Daj przyjaznemu stronnikowi +1/+1. <i>(+1 do ataku/+1 do zdrowia)</i>","Common",1,"Spell","TU4c_006",,,,,,,,,,,,,
+"Missions","Banany",,"Ten stronnik ma +1/+1. <i>(+1 do ataku/+1 do zdrowia)</i>",,,"Enchantment","TU4c_006e",,,,,,,,,,,,,
+"Missions","Beczka","Neutral","Czy w tej beczce coś jest?","Common",0,"Minion","TU4c_003",Deathrattle,2,"",,,,,,,,,,
+"Missions","Bojowa glewia Azzinotha",,,"Common",2,"Weapon","TU4e_004",,,,2,2,,,,,,,,
+"Missions","Dziedzictwo Cesarza",,"Daj swoim stronnikom +2/+2. <i>(+2 do ataku/+2 do zdrowia)</i>","Common",3,"Spell","TU4f_004",,,,,,,,,,,,,
+"Missions","Dziedzictwo Cesarza",,"Ma +2/+2. <i>(+2 do ataku/+2 do zdrowia)</i>",,,"Enchantment","TU4f_004o",,,,,,,,,,,,,
+"Missions","Gnol",,,"Common",1,"Minion","TU4a_003",,1,,,1,,,,,,,,
+"Missions","Gnol z Wodnołapych",,,"Common",1,"Minion","TU4a_002",,1,,,2,,,,,,,,
+"Missions","Gorzelnik",,,"Common",4,"Minion","TU4f_005",,4,,,4,,,,,,,,
+"Missions","Hemet Nesingwary",,,"Common",,"Hero","TU4d_001",,20,,,,"Hunter",,,,,,,
+"Missions","Illidan Burzogniewny",,,,,"Hero","TU4e_001",,30,,,,"Hunter",,,,,,,
+"Missions","Jaina Proudmoore",,,"Common",,"Hero","TU4a_006",,27,,,,"Mage",,,,,,,
+"Missions","Król Mukla",,,"Common",,"Hero","TU4c_001",,26,,,,,,,,,,,
+"Missions","Mełko Gromiłło",,,"Common",,"Hero","TU4b_001",,20,,,,"Mage",,,,,,,
+"Missions","Mnich z Shado-Pan",,,"Common",2,"Minion","TU4f_003",,2,,,2,,,,,,,,
+"Missions","Moc Mukli",,"Król Mukla ma +8 do ataku w tej turze.",,,"Enchantment","TU4c_008e",OneTurnEffect,,,,,,,,,,,,
+"Missions","Naga siepacz",,"<b></b>","Common",1,"Minion","TU4e_003",,1,,,1,,,,,,,,
+"Missions","Ogromny gnol",,,"Common",4,"Minion","TU4a_005",,2,,,5,,,,,,,,
+"Missions","Pandaren zwiadowca",,,"Common",1,"Minion","TU4f_002",,1,,,1,,,,,,,,
+"Missions","Płomień Azzinotha",,,"Common",1,"Minion","TU4e_002t",,1,,,2,,,,,,,,
+"Missions","Płomienie Azzinotha",,"<b>Moc specjalna</b>
+Przyzwij dwóch stronników 2/1.",,2,"Hero Power","TU4e_002",,,,,,,,,,,,,
+"Missions","Podwójne bojowe glewie",,,"Common",6,"Weapon","TU4e_007",,,,2,4,,,,,,,,
+"Missions","Rzut beczką","Neutral","Zadaj 2 pkt. obrażeń.","Common",1,"Spell","TU4c_002",,,,,,,,,,,,,
+"Missions","Stąpnięcie","Neutral","Zadaj 2 pkt. obrażeń wszystkim wrogom.","Common",2,"Spell","TU4c_004",,,,,,,,,,,,,
+"Missions","Strzał z garłacza",,"<b>Moc specjalna</b>
+Zadaj 1 pkt. obrażeń.","Common",2,"Hero Power","TU4d_003",,,,,,"Hunter",,,,,,,
+"Missions","Szalona małpa",,"<b>Okrzyk bojowy:</b> Rzuć bananami.","Common",1,"Minion","TU4f_007",Battlecry,2,,,1,,,,,,,,
+"Missions","Szalony łowca",,,"Common",1,"Minion","TU4d_002",,1,,,1,,,,,,,,
+"Missions","Transcendencja",,"Nie możesz zaatakować Czo dopóki nie zabijesz jego stronników.","Common",1,"Spell","TU4f_006",,,,,,,,,,,,,
+"Missions","Transcendencja",,"Nie możesz zaatakować Czo dopóki nie zabijesz jego stronników.",,,"Enchantment","TU4f_006o",,,,,,,,,,,,,
+"Missions","Ukryty gnom","Neutral","Ukrywał się w beczce!","Common",2,"Minion","TU4c_005",,3,,,1,,,,,,,,
+"Missions","Wiedziciel Czo",,,,,"Hero","TU4f_001",,25,,,,,,,,,,,
+"Missions","Wielki brat Mukli",,"Ależ siłacz! I za jedyne 6 many?!","Common",6,"Minion","TU4c_007",,10,,,10,,,,,,,,
+"Missions","Wola Mukli",,"Przywróć 8 pkt. zdrowia.","Common",3,"Spell","TU4c_008",,,,,,,,,,,,,
+"Missions","Wybuch płomieni",,"Wystrzel 5 pocisków w losowych wrogów zadając każdemu $1 pkt. obrażeń.","Common",3,"Spell","TU4e_005",,,,,,,,,,,,,
+"Missions","Wyżer",,,"Common",,"Hero","TU4a_001",,10,,,,,,,,,,,
+"Missions","Wyżer MIAŻDŻYĆ!",,"Zadaj 4 pkt. obrażeń.","Common",3,"Spell","TU4a_004",,,,,,,,,,,,,
+"Classic","Agent WW:7","Neutral","<b>Kombinacja:</b> Zadaj 2 pkt. obrażeń.","Rare",3,"Minion","EX1_134",Combo,3,,,3,"Rogue",True,"Chris Moeller","Agenci WW:7 są odpowiedzialni za tajne operacje Wichrogrodu. Wlicza się w nie działalność szpiegowską skrytobójstwa oraz niespodziewane imprezy urodzinowe dla rodziny królewskiej.",,,,
+"Classic","Akolita bólu",,"Dobierz kartę za każdym razem gdy ten stronnik otrzyma obrażenia.","Common",3,"Minion","EX1_007",,3,,,1,,True,"Dave Kendall","Kiedy był młody miał zostać akolitą radości ale coś poszło nie tak.",,,,
+"Classic","Al'Akir Władca Wichrów",,"<b>Furia wichru. Szarża. Boska tarcza. Prowokacja.</b>","Legendary",8,"Minion","NEW1_010",Charge|Divine Shield|Taunt|Windfury,5,,,3,"Shaman",True,"Raymond Swanland","To najsłabszy z czterech Władców Żywiołów. A pozostali trzej często mu o tym przypominają.",True,,,
+"Classic","Alarmobot",,"Na początku twojej tury zamień tego stronnika z innym wybranym losowo z twojej ręki.","Rare",3,"Minion","EX1_006",,3,,,0,,True,"Sean O’Daniels","UWAGA. UWAGA. UWAGA.",,"Mech",,
+"Classic","Alexstraza","Neutral","<b>Okrzyk bojowy:</b> Ustaw pozostałe zdrowie bohatera na 15.","Legendary",9,"Minion","EX1_561",Battlecry,8,,,8,,True,"Raymond Swanland","Alexstraza daje każdemu życie nadzieję i natchnienie. Za wyjątkiem Śmiercioskrzydłego. I Malygosa. No i Nekrosa.",True,"Dragon",,
+"Classic","Amok","Neutral","Daj rannemu stronnikowi +3/+3.","Common",2,"Spell","CS2_104",,,,,,"Warrior",True,"Jonboy Meyers","Stronnik ZŁY! Stronnik MIAŻDŻYĆ!",,,,
+"Classic","Amok",,"+3/+3.",,,"Enchantment","CS2_104e",,,,,,"Warrior",,,,,,,
+"Classic","Arcymag Antonidas","Neutral","Za każdym razem gdy rzucasz zaklęcie umieść w ręce zaklęcie „Kula ognia”.","Legendary",7,"Minion","EX1_559",,7,"",,5,"Mage",True,"Wayne Reynolds","Antonidas to najlepsze potwierdzenie obiegowej opinii że potęgę czarodzieja mierzy się długością jego brody.",True,,,
+"Classic","Awans!",,"Zwiększony atak i zdrowie.",,,"Enchantment","EX1_044e",,,,,,,,,,,,,
+"Classic","Bain Krwawe Kopyto",,,"Legendary",4,"Minion","EX1_110t",,5,,,4,,,,,True,,,
+"Classic","Banany",,"Ma +1/+1.",,,"Enchantment","EX1_014te",,,,,,,,,,,,,
+"Classic","Banany",,"Daj stronnikowi +1/+1.",,1,"Spell","EX1_014t",,,,,,,,,,,,,
+"Classic","Bandyta Nieskornych","Neutral",,,1,"Minion","EX1_131t",,1,,,2,"Rogue",,,,,,,
+"Classic","Baron Geddon","Neutral","Na koniec twojej tury zadaj 2 pkt. obrażeń WSZYSTKIM innym postaciom.","Legendary",7,"Minion","EX1_249",,5,,,7,,True,"Ian Ameling","Baron Geddon był pierwszym przybocznym Ragnarosa ale stosunki między nimi się ZAOGNIŁY.",True,,,
+"Classic","Baśniowy smok",,"Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.","Common",2,"Minion","NEW1_023",,2,,,3,,True,"Samwise","Rozkoszny. Niewrażliwy na magię. Nie sika na dywan. Idealny domowy zwierzak.",,"Dragon",,
+"Classic","Berserker z Amani","Neutral","<b>Szał:</b> +3 do ataku.","Common",2,"Minion","EX1_393",Enrage,3,,,2,,True,"Chippy","Jeśli berserker z Amani zapyta „Na mnie ty kukasz!?” prawidłową odpowiedzią jest „Nej manusz nej”.",,,,
+"Classic","Bestia","Neutral","<b>Agonia:</b> Przyzwij Finkosza Rogoźnika 3/3 twojemu przeciwnikowi.","Legendary",6,"Minion","EX1_577",Deathrattle,7,,,9,,True,"Glenn Rane","Żyje w Górach Czarnoskałych. Je gnomy. To by było na tyle.",True,"Beast",,
+"Classic","Bestialski gniew","Neutral","Daj przyjaznej Bestii +2 do ataku oraz <b>Niewrażliwość</b> w tej turze.","Epic",1,"Spell","EX1_549",,,,,,"Hunter",True,"Alex Horley Orlandelli","Bestialski to on jest tylko z nazwy.",,,,
+"Classic","Bestialski gniew",,"+2 do ataku oraz <b>Niewrażliwość</b> w tej turze.",,,"Enchantment","EX1_549o",OneTurnEffect,,,,,"Hunter",,,,,,,
+"Classic","Beztwarzowy manipulator","Neutral","<b>Okrzyk bojowy:</b> Wybierz stronnika a stanie się jego kopią.","Epic",5,"Minion","EX1_564",Battlecry,3,,,3,,True,"Raymond Swanland","Beztwarzowi są sługami Yogg-Sarona i żywią się strachem. Obecnie żywią się twoim strachem przed przypadkowym odczarowaniem najlepszych kart.",,,,
+"Classic","Bitewny szał","Neutral","Dobierz kartę za każdą zranioną przyjazną postać.","Common",2,"Spell","EX1_392",,,,,,"Warrior",True,"Alex Horley Orlandelli","Bo zupa była za słona...",,,,
+"Classic","Bitewny topór",,,,1,"Weapon","EX1_398t",,,,2,2,"Warrior",,,,,,,
+"Classic","Blarghghl",,"Zwiększony atak.",,,"Enchantment","EX1_509e",,,,,,,,,,,,,
+"Classic","Błogosławiony czempion",,"Podwajasz atak stronnika.","Rare",5,"Spell","EX1_355",,,,,,"Paladin",True,"Tyler Walpole","Podwójny atak to podwójna frajda!",,,,
+"Classic","Błogosławiony Czempion",,"Atak tego stronnika został podwojony.",,,"Enchantment","EX1_355e",,,,,,"Paladin",,,,,,,
+"Classic","Błyskawica","Neutral","Zadaj $3 pkt. obrażeń. <b>Przeciążenie:</b> (1)","Common",1,"Spell","EX1_238",,,,,,"Shaman",True,"Daarken","A niech to jasny piorun strzeli!",,,,
+"Classic","Bójka","Neutral","Zniszcz wszystkich stronników oprócz jednego. <i>(wybranego losowo)</i>","Epic",5,"Spell","EX1_407",,,,,,"Warrior",True,"Wayne Reynolds","Wiesz jaka jest pierwsza zasada klubu bójek?",,,,
+"Classic","Boska łaska","Neutral","Dobieraj karty tak długo aż będziesz mieć ich tyle co przeciwnik.","Rare",3,"Spell","EX1_349",,,,,,"Paladin",True,"Lucas Graciano","Tak dla pewności przypominamy. To „łaska” a nie „laska”.",,,,
+"Classic","Burza z piorunami","Neutral","Zadaj $2-$3 pkt. obrażeń wszystkim wrogim stronnikom. <b>Przeciążenie:</b> (2)","Rare",3,"Spell","EX1_259",,,,,,"Shaman",True,"Christopher Moeller","Parasol zbytnio tu nie pomoże.",,,,
+"Classic","Burzowierny Topór","Neutral","<b>Przeciążenie:</b> (1)","Common",2,"Weapon","EX1_247",,,,3,2,"Shaman",True,"Nate Bowden","Burzowiernym toporem można zadawać piorunujące ciosy.",,,,
+"Classic","Burzyciel","Neutral","Na początku twojej tury zadaj 2 pkt. obrażeń losowemu wrogowi.","Rare",3,"Minion","EX1_102",,4,"",,1,,True,"Raymond Swanland","Prowadzenie oblężeń nie jest już zabawne. Ani też skuteczne odkąd każdy ma latającego wierzchowca.",,"Mech",,
+"Classic","Cenarius","Neutral","<b>Wybierz jedno:</b> Daj wszystkim swoim pozostałym stronnikom +2/+2; lub przyzwij dwa Drzewce 2/2 z <b>Prowokacją</b>.","Legendary",9,"Minion","EX1_573",,8,"",,5,"Druid",True,"Alex Horley Orlandelli","Tak to półbóg. Nie nie musi nosić koszuli.",True,,,
+"Classic","Cesarska kobra","Neutral","Zniszcz każdego stronnika zranionego przez tego stronnika.","Rare",3,"Minion","EX1_170",Poisonous,3,"",,2,,True,"Lars Grant-West","Był plan żeby zrzucić kilka tych gadów z maszyny latającej na Śmiercioskrzydłego i zakończyć Kataklizm. Niestety kobry pogryzły wszystkich pasażerów. Powstała o tym opowieść pod tytułem „Kobry w żyrokopterze”.",,"Beast",,
+"Classic","Chochlik","Neutral",,"Rare",1,"Minion","EX1_598",,1,,,1,,,,,,"Demon",,
+"Classic","Chochlik krwi","Neutral","<b>Ukrycie</b>. Na koniec twojej tury daj innemu losowemu przyjaznemu stronnikowi +1 do zdrowia.","Common",1,"Minion","CS2_059",Stealth,1,"",,0,"Warlock",True,"Bernie Kang","Chochliki uwielbiają chować się w cieniu i złośliwie działać wszystkim na nerwy.",,"Demon",,
+"Classic","Chochlistrzyni","Neutral","Na koniec twojej tury zadaj temu stronnikowi 1 pkt. obrażeń i przyzwij Chochlika 1/1.","Rare",3,"Minion","EX1_597",,5,"",,1,,True,"Mark Gibbons","Znacznie bardziej lubiłaby swoją pracę gdyby chochliki w końcu przestały JĄ KĄSAĆ!",,,,
+"Classic","Cień nicości",,"Starcie umysłów przegrane! Twój przeciwnik nie ma stronników!","Epic",0,"Minion","EX1_345t",,1,,,0,"Priest",,,,,,,
+"Classic","Cienie M'uru",,"Ten stronnik wchłonął boskie tarcze i ma zwiększony atak i zdrowie.","Common",,"Enchantment","EX1_590e",,,,,,,,,,,,,
+"Classic","Cienisty płomień","Neutral","Zniszcz przyjaznego stronnika i zadaj obrażenia o wartości jego ataku wszystkim wrogim stronnikom.","Rare",4,"Spell","EX1_303",AffectedBySpellPower,,,,,"Warlock",True,"Dave Kendall","Dobry stronnik trochę cienistego płomienia i na planszy wszystko się zmienia!",,,,
+"Classic","Cierpliwy skrytobójca","Neutral","<b>Ukrycie</b>. Zniszcz każdego stronnika zranionego przez tego stronnika.","Epic",2,"Minion","EX1_522",Poisonous|Stealth,1,"",,1,"Rogue",True,"Ben Olson","Tak naprawdę wcale nie jest cierpliwy. Po prostu rzadko pojawia się ktoś kogo jest w stanie dosięgnąć.",,,,
+"Classic","Ciężki topór",,,,1,"Weapon","EX1_409t",,,,3,1,"Warrior",,,,,,,
+"Classic","Czarny Rycerz",,"<b>Okrzyk bojowy:</b> Zniszcz wrogiego stronnika posiadającego <b>Prowokację</b>.","Legendary",6,"Minion","EX1_002",Battlecry,5,,,4,,True,"Alex Horley Orlandelli","Pilnowanie mostu to JEGO obowiązek. Będzie o to walczył do ostatniej kończyny i jeszcze dalej!",True,,,
+"Classic","Czeladnik Purpurowych",,,,0,"Minion","NEW1_026t",,1,,,1,,,,,,,,
+"Classic","Czysta moc!",,"Zwiększone statystyki.",,,"Enchantment","EX1_274e",,,,,,"Mage",,,,,,,
+"Classic","Dalekowidzenie","Neutral","Dobierz kartę. Ta karta kosztuje (3) mniej.","Epic",3,"Spell","CS2_053",,,,,,"Shaman",True,"Lars Grant-West","Podstawowe narzędzie każdego odkrywcy i taktyka. Zwiedzaj i szpieguj bez ruszania się z miejsca!",,,,
+"Classic","Dalekowidzenie",,"Jedna z twoich kart kosztuje (3) mniej.",,,"Enchantment","CS2_053e",,,,,,"Shaman",,"Lars Grant-West",,,,,
+"Classic","Dar mądrości",,"Gdy ten stronnik zaatakuje gracz który go pobłogosławił dobiera kartę.",,,"Enchantment","EX1_363e",,,,,,"Paladin",,,,,,,
+"Classic","Dar mądrości",,"Wybierz stronnika. Dobierz kartę za każdym razem gdy zaatakuje.","Common",1,"Spell","EX1_363",,,,,,"Paladin",True,"Chippy","Nabyta wiedza podpowiada ci że wypadałoby atakować co turę.",,,,
+"Classic","Dar mądrości",,"Gdy ten stronnik zaatakuje przeciwnik dobiera kartę.",,,"Enchantment","EX1_363e2",,,,,,"Paladin",,,,,,,
+"Classic","Demoniczny ogień","Neutral","Zadaj $2 pkt. obrażeń stronnikowi. Jeśli jest przyjaznym Demonem daj mu zamiast tego +2/+2.","Common",2,"Spell","EX1_596",,,,,,"Warlock",True,"Ben Wootten","Demoniczny ogień przypomina zwykły z tym że NIE MOŻNA GO UGASIĆ! POMOOOOOCYYYYY!",,,,
+"Classic","Demoniczny ogień","Neutral","Ten Demon ma +2/+2.","Common",0,"Enchantment","EX1_596e",,,,,,"Warlock",,,,,,,
+"Classic","Demoralizujący ryk",,"Ten stronnik ma w tej turze -3 do ataku.",,,"Enchantment","EX1_161o",OneTurnEffect,,,,,"Druid",,,,,,,
+"Classic","Diabłozaur","Neutral",,"Common",5,"Minion","EX1_tk29",,5,,,5,,,,,,"Beast",,
+"Classic","Długi Łuk Gladiatora","Neutral","Twój bohater posiada <b>Niewrażliwość</b> podczas ataku.","Epic",7,"Weapon","DS1_188",,,,2,5,"Hunter",True,"Peter C. Lee","Ten długi łuk pozwala na ostrzał z naprawdę daleka i przydaje się do likwidowania szczególnie cuchnących celów.",,,,
+"Classic","Dowódca Argentu","Neutral","<b>Szarża</b>. <b>Boska tarcza</b>.","Rare",6,"Minion","EX1_067",Charge|Divine Shield,2,,,4,,True,"James Ryman","Należał do Argentu zanim to było modne.",,,,
+"Classic","Dowódca murloków","Neutral","WSZYSTKIE pozostałe Murloki otrzymują +2/+1.","Epic",3,"Minion","EX1_507",Aura,3,,,3,,True,"Tim McBurnie","Mrglglrglglglglglglgl - jak cudownie to brzmi!",,"Murloc",,
+"Classic","Druid Szponów",,"<b>Szarża</b>","Common",5,"Minion","EX1_165t1",Charge,4,,,4,"Druid",,,,,"Beast",,
+"Classic","Druid Szponów","Neutral","<b>Wybierz jedno:</b> <b>Szarża</b>; lub +2 do zdrowia oraz <b>Prowokacja</b>.","Common",5,"Minion","EX1_165",,4,,,4,"Druid",True,"Luca Zontini","„Wcześniej nazywaliśmy się Druidami Pazura ale wciąż pytano nas o pokrewieństwo z jakimś Czarkiem”. - Starszy Druid Szponów",,,,
+"Classic","Druid Szponów",,"<b>Prowokacja</b>","Common",5,"Minion","EX1_165t2",Taunt,6,,,4,"Druid",,,,,"Beast",,
+"Classic","Drwiąca siostra",,"Nie może zostać wybrana jako cel zaklęć lub mocy specjalnych.",,3,"Minion","DREAM_01",,5,"",,3,"Dream",,,,,,,
+"Classic","Drzewiec","Neutral",,,1,"Minion","EX1_158t",,2,,,2,"Druid",,,,,,,
+"Classic","Drzewiec",,"<b>Prowokacja</b>",,1,"Minion","EX1_573t",Taunt,2,,,2,"Druid",,,,,,,
+"Classic","Drzewiec","Neutral","<b>Szarża</b>. Na początku następnej tury zniszcz tego stronnika.","Common",1,"Minion","EX1_tk9",Charge,2,,,2,"Druid",,,,,,,
+"Classic","Drzewiec wiedzy",,"<b>Wybierz jedno:</b> Dobierz 2 karty; lub przywróć 5 pkt. zdrowia.","Epic",7,"Minion","NEW1_008",,5,,,5,"Druid",True,"Patrik Hjelm","No dalej. Wyryj na nim swoje inicjały.",,,,
+"Classic","Drzewiec wojny","Neutral","<b>Wybierz jedno:</b> 
++5 do ataku; lub +5 do zdrowia oraz <b>Prowokacja</b>.","Epic",7,"Minion","EX1_178",,5,,,5,"Druid",True,"Sean O’Daniels","Młode nocne elfy uwielbiają zabawę „Stary drzewiec mocno śpi”. Przegrywasz jak zadepcze cię na śmierć.",,,,
+"Classic","Duch przodków",,"<b>Agonia:</b> Przywróć tego stronnika na pole bitwy.",,,"Enchantment","CS2_038e",,,,,,"Shaman",,,,,,,
+"Classic","Duch przodków","Neutral","Daj stronnikowi zdolność „<b>Agonia:</b> Przywróć tego stronnika na pole bitwy”.","Rare",2,"Spell","CS2_038",,,,,,"Shaman",True,"Zoltan & Gabor","To była powierzchowna rana.",,,,
+"Classic","Duchowy wilk","Neutral","<b>Prowokacja</b>","Rare",2,"Minion","EX1_tk11",Taunt,3,,,2,"Shaman",,,,,,,
+"Classic","Dusza kniei","Neutral","Daj swoim stronnikom zdolność „<b>Agonia:</b> Przyzwij Drzewca 2/2”.","Common",4,"Spell","EX1_158",,,,,,"Druid",True,"Markus Erdt","Słowo „zalesienie” nagle nabiera przerażającego znaczenia.",,,,
+"Classic","Dusza kniei",,"Agonia: Przyzwij Drzewca 2/2.",,,"Enchantment","EX1_158e",,,,,,"Druid",,,,,,,
+"Classic","Dziarski gorzelnik","Alliance","<b>Okrzyk bojowy:</b> Cofnij przyjaznego stronnika na twoją rękę.","Common",2,"Minion","EX1_049",Battlecry,2,,,3,,True,"Wei Wang","Jego młodzieńczy entuzjazm nie zawsze idzie w parze z jakością trunków. Lepiej nie pij pasteryzowanego „Pandarena”!",,,,
+"Classic","Dziki duch","Neutral","Przyzwij dwa Duchowe wilki 2/3 z <b>Prowokacją</b>. <b>Przeciążenie:</b> (2)","Rare",3,"Spell","EX1_248",,,,,,"Shaman",True,"Clint Langley","Duchowe wilki wyglądają jak zwykłe tylko z pomponami.",,,,
+"Classic","Dziki piromanta",,"Gdy rzucisz zaklęcie zadaj 1 pkt. obrażeń WSZYSTKIM stronnikom.","Rare",2,"Minion","NEW1_020",,2,,,3,,True,"Alex Horley Orlandelli","Po godzinach dorabia jako strażak.",,,,
+"Classic","Dzikość","Neutral","Zadaj stronnikowi obrażenia równe atakowi twojego bohatera.","Rare",1,"Spell","EX1_578",AffectedBySpellPower,,,,,"Druid",True,"Dave Rapoza","Druid dziki druid zły i ma bardzo ostre kły!",,,,
+"Classic","Edwin VanCleef","Neutral","<b>Kombinacja:</b> Otrzymuje +2/+2 za każdą kartę zagraną wcześniej w tej turze.","Legendary",3,"Minion","EX1_613",Combo,2,,,2,"Rogue",True,"Efrem Palacios","Dowodził murarzami którzy zrekonstruowali Wichrogród a kiedy szlachta odmówiła zapłaty założył bractwo Nieskornych żeby <i>zdekonstruować</i> Wichrogród.",True,,,
+"Classic","Eksperymenty!",,"Atak i zdrowie zostały zamienione przez szalonego alchemika.",,,"Enchantment","EX1_059e",,,,,,,,,,,,,
+"Classic","Eksplozja lawy","Neutral","Zadaj $5 pkt. obrażeń. <b>Przeciążenie:</b> (2)","Rare",3,"Spell","EX1_241",,,,,,"Shaman",True,"Dan Scott","„Lawa którą palisz mnie
+Magiczna siła boję się...”
+
+- fragment „Mojej Lawy” z szamańskiej listy przebojów",,,,
+"Classic","Eteryczny arkanista",,"Otrzymuje +2/+2 jeśli pod koniec twojej tury kontrolujesz <b>Sekret</b>.","Rare",4,"Minion","EX1_274",,3,,,3,"Mage",True,"Michael Komarck","Eteryczni owijają się materiałem aby nadać kształt swoim bezcielesnym postaciom. No i lubią jak im miękko i cieplutko.",False,,,
+"Classic","Finkosz Rogoźnik","Neutral",,"Legendary",2,"Minion","EX1_finkle",,3,,,3,,,,,True,,,
+"Classic","Flara","Neutral","Wszyscy stronnicy tracą <b>Ukrycie</b>. Zniszcz wszystkie wrogie <b>Sekrety</b>. Dobierz kartę.","Rare",2,"Spell","EX1_544",,,,,,"Hunter",True,"Tyler Walpole","Nie tylko ujawnia ukrytych przeciwników ale też świetnie sprawdza się na imprezach!",,,,
+"Classic","Giermek","Alliance",,"Common",1,"Minion","CS2_152",,2,,,2,,,,,,,,
+"Classic","Giermek Argentu","Alliance","<b>Boska tarcza</b>","Common",1,"Minion","EX1_008",Divine Shield,1,,,1,,True,"Zoltan & Gabor","„Uroczyście przysięgam walczyć w obronie Światłości oczyścić świat z ciemności i mieć z tego dużo radości!” - Przysięga Argentowego Brzasku",,,,
+"Classic","Głodny krab",,"<b>Okrzyk bojowy:</b> Zniszcz Murloka a krab otrzyma +2/+2.","Epic",1,"Minion","NEW1_017",Battlecry,2,,,1,,True,"Jaemin Kim","Murlok doda ci skrzy... znaczy siły siły doda.",,"Beast",,
+"Classic","Gniew","Neutral","<b>Wybierz jedno:</b> Zadaj $3 pkt. obrażeń stronnikowi; lub zadaj $1 pkt. obrażeń stronnikowi i dobierz kartę.","Common",2,"Spell","EX1_154",,,,,,"Druid",True,"Raymond Swanland","Panuje ogólna opinia że ta karta jest za mocna i powinna być legendarna.",,,,
+"Classic","Gniew","Neutral","Zadaj $1 pkt. obrażeń stronnikowi. Dobierz kartę.",,,"Spell","EX1_154b",,,,,,"Druid",,,,,,,
+"Classic","Gniew","Neutral","Zadaj $3 pkt. obrażeń stronnikowi.",,,"Spell","EX1_154a",,,,,,"Druid",,,,,,,
+"Classic","Gniew zemsty","Neutral","Zadaj $8 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.","Epic",6,"Spell","EX1_384",ImmuneToSpellpower,,,,,"Paladin",True,"Alex Garner","Zemsta zemsta zemsta na wroga! Aż z bólu będzie krzyczeć „Olaboga”!",,,,
+"Classic","Gnol",,"<b>Prowokacja</b>",,2,"Minion","NEW1_040t",Taunt,2,,,2,,,,,,,,
+"Classic","Godzina zmierzchu",,"Zwiększone zdrowie.",,,"Enchantment","EX1_043e",,,,,,,,,,,,,
+"Classic","Golem zbożowy","Neutral","<b>Agonia:</b> Przyzwij Uszkodzonego golema 2/1.","Common",3,"Minion","EX1_556",Deathrattle,3,,,2,,True,"Brian Despain","„Przekroczono próg przegrzania. Awaria systemu. Kłąb owsa w porcie drugim. Wyłączanie”.",,"Mech",,
+"Classic","Górski olbrzym","Neutral","Kosztuje (1) mniej za każdą pozostałą kartę w twojej ręce.","Epic",12,"Minion","EX1_105",,8,,,8,,True,"Samwise","Nie jest otyły ma po prostu grube kości.",,,,
+"Classic","Grabieżca Krwawych Żagli",,"<b>Okrzyk bojowy:</b> Otrzymuje +1 do ataku za każdy punkt ataku twojej broni.","Common",2,"Minion","NEW1_018",Battlecry,3,,,2,,True,"Jim Nelson","Jej ulubiona broń to grabie.",,"Pirate",,
+"Classic","Grommasz Piekłorycz","Neutral","<b>Szarża</b>
+<b>Szał:</b> +6 do ataku.","Legendary",8,"Minion","EX1_414",Charge|Enrage,9,,,4,"Warrior",True,"Glenn Rane","Grommasz wypił splugawioną krew Mannorota skazując orków na zieloną skórę i czerwone oczy. To chyba nie była najlepsza decyzja.",True,,,
+"Classic","Grubiański sierżant","Alliance","<b>Okrzyk bojowy:</b> Daj stronnikowi +2 do ataku w tej turze.","Common",1,"Minion","CS2_188",Battlecry,1,,,2,,True,"Luca Zontini","DODAJ MNIE DO SWOJEJ TALII ŚMIECIU!",,,,
+"Classic","Gruul",,"Na koniec każdej tury otrzymuje +1/+1.","Legendary",8,"Minion","NEW1_038",,7,"",,7,,True,"Kev Walker","Gruul bardzo lubi smoki. Niestety jego pełne serdeczności uściski zyskały mu przydomek „Smokobójca”.",True,,,
+"Classic","Grzmotnięcie tarczą","Neutral","Zadaj 1 pkt. obrażeń stronnikowi za każdy posiadany punkt pancerza.","Epic",1,"Spell","EX1_410",AffectedBySpellPower,,,,,"Warrior",True,"Raymond Swanland","„Jaki oręż jest lepszy? Ostry którego spodziewa się przeciwnik czy tępy który zostanie zignorowany?” - Sztuka wojownika rozdział 9",,,,
+"Classic","Harrison Jones","Neutral","<b>Okrzyk bojowy:</b> Zniszcz broń przeciwnika i dobierz tyle kart ile wynosiła jej wytrzymałość.","Legendary",5,"Minion","EX1_558",Battlecry,4,,,5,,True,"Matt Dixon","„Jestem poszukiwaczem zaginionej parki!”",True,,,
+"Classic","Hartowanie",,"+2 do ataku w tej turze.",,,"Enchantment","EX1_046e",OneTurnEffect,,,,,,,,,,,,
+"Classic","Herszt kręgu Nieskornych","Neutral","<b>Kombinacja:</b> Przyzwij Bandytę Nieskornych 2/1.","Common",2,"Minion","EX1_131",Combo,2,,,2,"Rogue",True,"Dany Orizio","Chciałby żeby mówić do niego per Hegemon. Sęk w tym że nie ma jeszcze swojego kaprala.",,,,
+"Classic","Hiena",,,"Rare",2,"Minion","EX1_534t",,2,,,2,"Hunter",,"Andrew Robinson",,,"Beast",,
+"Classic","Igła umysłu",,"<b>Moc specjalna</b>
+Zadaj 2 pkt. obrażeń.",,2,"Hero Power","EX1_625t",,,,,,"Priest",,,,,,,
+"Classic","Illidan Burzogniewny","Neutral","Za każdym razem gdy zagrasz kartę przyzwij Płomień Azzinotha 2/1.","Legendary",6,"Minion","EX1_614",,5,,,7,,True,"Alex Horley Orlandelli","Brat Illidana Malfurion uwięził go pod górą Hyjal na 10 000 lat. Burzogniewni niełatwo zapominają urazy.",True,"Demon",,
+"Classic","Infernal","Neutral",,"Common",6,"Minion","EX1_tk34",,6,,,6,"Warlock",,,,,"Demon",,
+"Classic","INFERNO!","Neutral","<b>Moc specjalna</b>
+Przyzwij Infernala 6/6.",,2,"Hero Power","EX1_tk33",,,,,,"Warlock",,,,,,,
+"Classic","Infuzja",,"+3 do zdrowia.",,,"Enchantment","EX1_623e",,,,,,"Priest",,,,,,,
+"Classic","Inspiracja",,"Ten stronnik ma +2 do ataku w tej turze.",,,"Enchantment","CS2_188o",OneTurnEffect,,,,,,,,,,,,
+"Classic","Kabalistka cieni","Neutral","<b>Okrzyk bojowy:</b> Przejmij kontrolę nad wrogim stronnikiem z atakiem 2 lub mniejszym.","Epic",6,"Minion","EX1_091",Battlecry,5,,,4,"Priest",True,"Chippy","Nigdy nie wiesz kto może dla niej pracować...",,,,
+"Classic","Kairn Krwawe Kopyto","Alliance","<b>Agonia:</b> Przyzwij Baina Krwawe Kopyto 4/5.","Legendary",6,"Minion","EX1_110",Deathrattle,5,,,4,,True,"Wayne Reynolds","Kairn został zabity przez Garosza więc... lepiej nie wkładaj go do talii wojownika. Świadczyłoby to o braku wrażliwości.",True,,,
+"Classic","Kanibalizm",,"Zwiększony atak.",,,"Enchantment","tt_004o",,,,,,,,,,,,,
+"Classic","Kapitan Południowych Mórz",,"Twoi pozostali Piraci otrzymują +1/+1.","Epic",3,"Minion","NEW1_027",Aura,3,,,3,,True,"Ken Steacy","Kiedy zbierze dość łupów zamówi sobie olbrzymi kapitański kapelusz. Ma kompleks kapelusznika.",,"Pirate",,
+"Classic","Kapitan Zielonoskóry",,"<b>Okrzyk bojowy:</b> Daj twojej broni +1/+1.","Legendary",5,"Minion","NEW1_024",Battlecry,4,,,5,,True,"Dan Scott","Przykład wspaniałego awansu społecznego wśród goblinów.",True,"Pirate",,
+"Classic","Kapłanka Auchenaiów","Neutral","Twoje karty i moce zamiast przywracać zdrowie zadają teraz obrażenia.","Rare",4,"Minion","EX1_591",Aura,5,,,3,"Priest",True,"Doug Alexander","Auchenaiowie wiedzą że nadchodzi koniec. Nie są tylko pewni kiedy to nastąpi.",,,,
+"Classic","Kapłanka Eluny","Neutral","<b>Okrzyk bojowy:</b> Przywróć 4 pkt. zdrowia twojemu bohaterowi.","Common",6,"Minion","EX1_583",Battlecry,4,,,5,,True,"Dan Scott","Jako kapłanka Eluny ma specjalizację w lunatykowaniu.",,,,
+"Classic","Klątwa zagłady","Neutral","Zadaj $2 pkt. obrażeń dowolnej postaci. Jeśli ją tym zabijesz przyzwij losowego Demona.","Epic",5,"Spell","EX1_320",,,,,,"Warlock",True,"Raymond Swanland","Jeśli to możliwe radzę unikać zagłady.",,,,
+"Classic","Konsumpcja",,"Zwiększone statystyki.",,,"Enchantment","EX1_304e",,,,,,"Warlock",,,,,,,
+"Classic","Kontr-zaklęcie","Neutral","<b>Sekret:</b> Gdy przeciwnik rzuci zaklęcie <b>Kontrujesz</b> je.","Rare",3,"Spell","EX1_287",Secret,,,,,"Mage",True,"Jason Chan","Jaka jest różnica pomiędzy magiem stosującym kontr-zaklęcie a takim który tego nie robi? Ten drugi obrywa pirowybuchem po gębie.",,,,
+"Classic","Kontrolowanie umysłu","Neutral",,"Common",,"Enchantment","EX1_tk31",Summoned,,,,,"Priest",,,,,,,
+"Classic","Korsarz Krwawych Żagli",,"<b>Okrzyk bojowy:</b> Zmniejsz wytrzymałość broni przeciwnika o 1.","Rare",1,"Minion","NEW1_025",Battlecry,2,,,1,,True,"Randy Gallegos","Każdy pirat słyszał o skarbie zwącym się „Wielki Łup” który podobno otwiera drzwi do innego świata.",,"Pirate",,
+"Classic","Koszmar",,"Daj stronnikowi +5/+5. Zniszcz go na początku twojej następnej tury.",,0,"Spell","DREAM_05",,,,,,"Dream",,,,,,,
+"Classic","Koszmar",,"Ten stronnik ma +5/+5 ale wkrótce zostanie zniszczony.",,,"Enchantment","DREAM_05e",,,,,,,,,,,,,
+"Classic","Kradzież myśli","Neutral","Skopiuj dwie karty z talii przeciwnika i umieść je w twojej ręce.","Common",3,"Spell","EX1_339",,,,,,"Priest",True,"Alex Garner","„Co dostaniesz jak rzucisz kradzież myśli na orka? Nic!” - taureński dowcip",,,,
+"Classic","Krąg uzdrawiania",,"Przywróć #4 pkt. zdrowia WSZYSTKIM stronnikom.","Common",0,"Spell","EX1_621",,,,,,"Priest",True,"Daarken","Po Katakliźmie to zaklęcie trafiło na listę uzdrowień nierefundowanych.",,,,
+"Classic","Krasnolud z Czarnorytnych","Alliance","<b>Okrzyk bojowy:</b> Daj stronnikowi +2 do ataku w tej turze.","Common",4,"Minion","EX1_046",Battlecry,4,,,4,,True,"Scott Hampton","Strażnicy rudy czarnorytu. Ruda ta jak wskazuje nazwa jest czarna a nie ruda.",,,,
+"Classic","Krok w cień","Neutral","Cofnij przyjaznego stronnika na twoją rękę i zmniejsz jego koszt o (2).","Common",0,"Spell","EX1_144",,,,,,"Rogue",True,"Graven Tung","Grupy taneczne łotrów czasami robią krok w cień na końcu występu. Publiczność to uwielbia.",,,,
+"Classic","Król Kruszor","Neutral","<b>Szarża</b>","Legendary",9,"Minion","EX1_543",Charge,8,,,8,"Hunter",True,"Alex Horley Orlandelli","Najlepsza obrona przed Królem Kruszorem to podsunięcie mu kogoś kogo nie lubisz.",True,"Beast",,
+"Classic","Król Mukla",,"<b>Okrzyk bojowy:</b> Daj przeciwnikowi 2 banany.","Legendary",3,"Minion","EX1_014",Battlecry,5,,,5,,True,"Sunny Gho","Ulubiona potrawa Króla Mukli to oczywiście banany. I bułka!",True,"Beast",,
+"Classic","Krwawa furia",,,,3,"Weapon","EX1_323w",,,,8,3,"Warlock",,,,,,,
+"Classic","Krwawy rycerz","Neutral","<b>Okrzyk bojowy:</b> Wszyscy stronnicy tracą <b>Boską tarczę</b>. Otrzymuje +3/+3 za każdą straconą tarczę.","Epic",3,"Minion","EX1_590",Battlecry,3,,,3,,True,"Trent Kaniuga","Krwawi rycerze otrzymują swoje święte moce ze Słonecznej Studni. Kąpiel w niej jest surowo wzbroniona!",,,,
+"Classic","Krwawy szał",,"Nie traci wytrzymałości.",,,"Enchantment","EX1_411e",,,,,,"Warrior",,,,,,,
+"Classic","Księżycowy ogień","Neutral","Zadaj 2 pkt. obrażeń.",,,"Spell","EX1_166a",,,,,,"Druid",,,,,,,
+"Classic","Łamacz zaklęć","Horde","<b>Okrzyk bojowy:</b> <b>Wycisz</b> stronnika.","Common",4,"Minion","EX1_048",Battlecry,3,,,4,,True,"Matt Cavotta","„Abrakadabra cieciu!”",,,,
+"Classic","Łaska Eluny",,"Zwiększone zdrowie.",,,"Enchantment","EX1_004e",,,,,,,,,,,,,
+"Classic","Łaska półboga","Neutral","+2/+2.",,,"Enchantment","EX1_573ae",,,,,,"Druid",,,,,,,
+"Classic","Łaska półboga","Neutral","Twoi pozostali stronnicy otrzymują +2/+2.",,,"Spell","EX1_573a",,,,,,"Druid",,,,,,,
+"Classic","Lazurowy smokowiec","Neutral","<b>Obrażenia zaklęć +1</b>. <b>Okrzyk bojowy:</b> Dobierz kartę.","Rare",5,"Minion","EX1_284",Battlecry|Spellpower,4,,,4,,True,"Ben Zhang","W przyszłości ma plany osiąść na jakimś wybrzeżu. Też najlepiej lazurowym.",,"Dragon",,
+"Classic","Leeroy Jenkins","Alliance","<b>Szarża</b>. <b>Okrzyk bojowy:</b> Przyzwij dwa Pisklęta 1/1 twojemu przeciwnikowi.","Legendary",5,"Minion","EX1_116",Battlecry|Charge,2,,,6,,True,"Gabe from Penny Arcade","Przynajmniej został mu wściekły kurczak.",True,,,
+"Classic","Lekcja Szan'do","Neutral","Przyzwij dwa Drzewce 2/2 z <b>Prowokacją</b>.",,,"Spell","EX1_573b",,,,,,"Druid",,,,,,,
+"Classic","Lew bujnogrzywy",,"<b>Agonia:</b> Przyzwij dwie Hieny 2/2.","Rare",6,"Minion","EX1_534",Deathrattle,5,"",,6,"Hunter",True,"Milivoj Ceran","Na ciebie czekam lwie. Czekam aż hiena zeżre cię!",,"Beast",,
+"Classic","Licytator z Gadżetonu","Neutral","Dobierz kartę za każdym razem gdy rzucisz zaklęcie.","Rare",6,"Minion","EX1_095",,4,"",,4,,True,"Matt Dixon","Kiedyś prowadził czarnorynkowy dom aukcyjny ale zrezygnował z powodu nadmiaru przemocy.",,,,
+"Classic","Lodowa bariera","Neutral","<b>Sekret:</b> Gdy twój bohater zostanie zaatakowany otrzymujesz 8 pkt. pancerza.","Common",3,"Spell","EX1_289",Secret,,,,,"Mage",True,"Alex Garner","To zaklęcie poziomu 1. Na poziomie 2 jest „Ściana z batonu”.",,,,
+"Classic","Lodowa lanca","Neutral","<b>Zamroź</b> postać. Jeśli jest już <b>Zamrożona</b> zadaj zamiast tego $4 pkt. obrażeń.","Common",1,"Spell","CS2_031",Freeze,,,,,"Mage",True,"Alex Horley Orlandelli","Chodzi przede wszystkim o to żeby nie rozszczepić lancy. Inaczej otrzymasz „Lodową francę” która jest znacznie mniej skuteczna.",,,,
+"Classic","Lodowy blok","Neutral","<b>Sekret:</b> Gdy twój bohater otrzyma zabójcze obrażenia zapobiegasz im oraz zyskujesz w tej turze <b>Niewrażliwość</b>.","Epic",3,"Spell","EX1_295",Secret,,,,,"Mage",True,"Carl Frank","Lód jest cud bo zawsze go w bród!",,,,
+"Classic","Lodowy blok",,"Twój bohater ma w tej turze <b>Niewrażliwość</b>.",,,"Enchantment","EX1_295o",OneTurnEffect,,,,,"Mage",,,,,,,
+"Classic","Łomot","Neutral","Zadaj $2 pkt. obrażeń stronnikowi. Jeśli przeżyje dobierz kartę.","Common",2,"Spell","EX1_391",,,,,,"Warrior",True,"E.M. Gist","„Dun da dun dun da dun”. - jeśli kiedykolwiek usłyszysz nucącego tak ogra to znaczy że dostaniesz łomot.",,,,
+"Classic","Lord Jaraxxus","Neutral",,"Legendary",0,"Hero","EX1_323h",,15,,,0,"Warlock",,,,,"Demon",,
+"Classic","Lord Jaraxxus",,"<b>Okrzyk bojowy:</b> Zniszcz twojego bohatera i zastąp go Lordem Jaraxxusem.","Legendary",9,"Minion","EX1_323",Battlecry,15,,,3,"Warlock",True,"Alex Horley Orlandelli","„ŻAŁOSNY GNOMIE! TWOJA AROGANCJA DOPROWADZI CIĘ DO ZGUBY!!!!”",True,"Demon",,
+"Classic","Lord otchłani","Neutral","<b>Okrzyk bojowy:</b> Zadaj 5 pkt. obrażeń twojemu bohaterowi.","Epic",4,"Minion","EX1_313",Battlecry,6,,,5,"Warlock",True,"Glenn Rane","Mannoroth Magtheridon oraz Brutallus już nie żyją ale jak się okazało lordów otchłani jest CAŁA MASA.",,"Demon",,
+"Classic","Łowca grubego zwierza",,"<b>Okrzyk bojowy:</b> Zniszcz stronnika z atakiem 7 lub większym.","Epic",3,"Minion","EX1_005",Battlecry,2,,,4,,True,"Chris Seaman","Zwykłe diabłozaury przestały mu wystarczać. Wkrótce zapoluje na Onyksję korzystając jedynie ze snopowiązałki.",,,,
+"Classic","Lustrzany byt","Neutral","<b>Sekret:</b> Gdy twój przeciwnik zagra stronnika przyzwij jego kopię.","Common",3,"Spell","EX1_294",Secret,,,,,"Mage",True,"Raven Mimura","Byt albo nie byt? Oto jest pytanie!",,,,
+"Classic","Mag krwi Thalnos","Neutral","<b>Obrażenia zaklęć +1</b>. <b>Agonia:</b> Dobierz kartę.","Legendary",2,"Minion","EX1_012",Deathrattle|Spellpower,1,,,1,,True,"Alex Horley Orlandelli","Kieruje coroczną zbiórką krwi w Szkarłatnym Klasztorze.",True,,,
+"Classic","Magini Kirin Toru","Neutral","<b>Okrzyk bojowy:</b> Następny <b>Sekret</b> który zagrasz w tej turze kosztuje (0).","Rare",3,"Minion","EX1_612",Battlecry,3,,,4,"Mage",True,"Popo Wei","Kirin Tor ma siedzibę w latającym mieście Dalaran. Jak Dalaran utrzymuje się w powietrzu? Dwie gałki lodów a na to jedna gałka Dalaranu.",,,,
+"Classic","Majtek z Południowych Mórz","Alliance","Posiada <b>Szarżę</b> gdy masz broń na wyposażeniu.","Common",1,"Minion","CS2_146",,1,,,2,,True,"Dan Brereton","Tak naprawdę nie nosi majtek. Tylko portki.",,"Pirate",,
+"Classic","Malygos","Neutral","<b>Obrażenia zaklęć +5</b>","Legendary",9,"Minion","EX1_563",Spellpower,12,,,4,,True,"Michael Komarck","Malygos nie znosi kiedy ludzie używają magii. Normalnie szaleje z wściekłości!",True,"Dragon",,
+"Classic","Manoholiczka","Alliance","Otrzymuje +2 do ataku w tej turze za każdym razem gdy rzucisz zaklęcie.","Rare",2,"Minion","EX1_055",,3,"",,1,,True,"Hideaki Takamura","Stara się zerwać z nałogiem ale wciąż szprycuje się maną gdy ma stresujący dzień.",,,,
+"Classic","Masowe rozproszenie",,"<b>Wycisz</b> wszystkich wrogich stronników. Dobierz kartę.","Rare",4,"Spell","EX1_626",Silence,,,,,"Priest",True,"Sean O'Daniels","Rozprasza wzmocnienia nadzieje i złudzenia.",,,,
+"Classic","Mełko Gromiłło",,"<b>Okrzyk bojowy:</b> W następnej turze zaklęcia przeciwnika kosztują (0).","Legendary",2,"Minion","NEW1_029",Battlecry,4,,,4,,True,"Jim Nelson","Ulubiony żart magów: jaka jest największa odległość na całym Azeroth? Między wzrostem Mełka a rozmiarem jego ego!",True,,,
+"Classic","Miecz Sprawiedliwości","Neutral","Gdy przyzywasz stronnika otrzymuje on +1/+1 zaś miecz traci 1 pkt. wytrzymałości.","Epic",3,"Weapon","EX1_366",,,,5,1,"Paladin",True,"Efrem Palacios","Niechaj Miecz Sprawiedliwości w trzewiach wroga dziś zagości!",,,,
+"Classic","Mistrz miecznictwa",,"Na koniec twojej tury daj innemu losowemu przyjaznemu stronnikowi +1 do ataku.","Rare",2,"Minion","NEW1_037",,3,"",,1,,True,"E.M. Gist","W chwilach wolnych zajmuje się hodowlą ryb. Jego największym sukcesem jest miecznik.",,,,
+"Classic","Mistrzyni kamuflażu",,"<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi <b>Ukrycie</b>.","Rare",4,"Minion","NEW1_014",Battlecry,4,,,4,"Rogue",True,"Ron Spencer","Tak naprawdę jest mężczyzną. I taurenem. W końcu na tytuł „mistrzyni kamuflażu” trzeba jakoś zasłużyć.",,,,
+"Classic","Moc dziczy","Neutral","<b>Wybierz jedno:</b> Daj swoim stronnikom +1/+1; lub przyzwij Panterę 3/2.","Common",2,"Spell","EX1_160",,,,,,"Druid",True,"Steve Tappin","„A tera zje cię pantera!”",,,,
+"Classic","Moc Kirin Toru",,"Twój następny Sekret kosztuje (0).",,,"Enchantment","EX1_612o",OneTurnEffect,,,,,"Mage",,,,,,,
+"Classic","Moc sprawiedliwości",,"Ma +1/+1.",,,"Enchantment","EX1_366e",,,,,,"Paladin",,,,,,,
+"Classic","Morski olbrzym","Neutral","Kosztuje (1) mniej za każdego innego stronnika na polu bitwy.","Epic",10,"Minion","EX1_586",,8,,,8,,True,"Svetlin Velinov","A może ten olbrzym od morza woli góry?",,,,
+"Classic","Mrgglaargl!",,"Dowódca murloków daje +2/+1.",,,"Enchantment","EX1_507e",,,,,,,,,,,,,
+"Classic","Mrghlglhal",,"+2 do zdrowia.",,,"Enchantment","EX1_103e",,,,,,,,,,,,,
+"Classic","Mroczny rozkaz",,"Kontrola nad tym stronnikiem została zamieniona w tej turze.",,,"Enchantment","EX1_334e",,,,,,"Priest",,,,,,,
+"Classic","Mściwy kowal","Horde","<b>Szał:</b> Twoja broń ma +2 do ataku.","Common",5,"Minion","CS2_221",Enrage,6,"",,4,,True,"Justin Sweet","Wykuje dla ciebie miecz ale musisz przynieść 5 sztabek stali 3 grudki ziemi oraz skalp poprzedniego klienta.",,,,
+"Classic","Nadiskrownik Opiłek","Alliance","<b>Okrzyk bojowy:</b> Przemień innego losowego stronnika w diabłozaura 5/5 lub wiewiórkę 1/1.","Legendary",3,"Minion","EX1_083",Battlecry,3,,,3,,True,"Tom Baxa","Nadiskrownik Opiłek niemal stracił swoją licencję iskrownika po Wielkiej Inwazji Wiewiórek na Żelazną Kuźnię w roku 9.",True,,,
+"Classic","Nadmiar mocy","Neutral","Daj przyjaznemu stronnikowi +4/+4 do końca tury. Następnie stronnik umrze. W męczarniach.","Common",1,"Spell","EX1_316",,,,,,"Warlock",True,"Tom Baxa","Nie jesteśmy w stanie opisać jak ogromne są to męczarnie. Są PRZERAŻAJĄCE! Albo jeszcze gorzej. Po prostu tego nie rób.",,,,
+"Classic","Nadmiar mocy","Neutral","Ten stronnik ma +4/+4 ale na koniec tury umrze w męczarniach.",,,"Enchantment","EX1_316e",,,,,,"Warlock",,,,,,,
+"Classic","Naginaczka zaklęć","Neutral","<b>Sekret:</b> Gdy wróg rzuci zaklęcie na stronnika przyzwij stronnika 1/3 jako nowy cel.","Epic",3,"Spell","tt_010",Secret,,,,,"Mage",True,"Gonzalo Ordonez","Choć przechwytywanie wrogich błyskawic to świetna zabawa naginaczka zaklęć zdecydowanie woli przejmować takie czary jak znak ostępów. To zdecydowanie wredniejsze podejście. A krwawe elfy... no cóż po prostu wredne są.",,,,
+"Classic","Naginaczka zaklęć",,,"Epic",0,"Minion","tt_010a",,3,,,1,"Mage",,,,,,,
+"Classic","Najedzenie",,"Zwiększony atak i zdrowie.",,,"Enchantment","EX1_531e",,,,,,"Hunter",,,,,,,
+"Classic","Nakładanie rąk","Neutral","Przywróć #8 pkt. zdrowia. Dobierz 3 karty.","Epic",8,"Spell","EX1_354",,,,,,"Paladin",True,"Raymond Swanland","Ręce które leczą.",,,,
+"Classic","Nasycenie","Neutral","<b>Wybierz jedno:</b> Otrzymujesz 2 kryształy many; lub dobierz 3 karty.","Rare",5,"Spell","EX1_164",,,,,,"Druid",True,"Terese Nielsen","Druidów syci wiele rzeczy: potęga natury śpiew ptaków tort czekoladowy.",,,,
+"Classic","Nasycenie","Neutral","Otrzymujesz 2 kryształy many.",,,"Spell","EX1_164a",,,,,,"Druid",,,,,,,
+"Classic","Nasycenie","Neutral","Dobierz 3 karty.",,,"Spell","EX1_164b",,,,,,"Druid",,,,,,,
+"Classic","Nat Pagle","Neutral","Na początku twojej tury masz 50% szans na dobranie dodatkowej karty.","Legendary",2,"Minion","EX1_557",,4,"",,0,,True,"Steve Prescott","Nat Pagle najlepszy wędkarz w Azeroth! Wynalazł Wędko-Łapa 3000 Żyłko-Ciąga 3000 oraz Nęci-Haka 2099 (wciąż testowany).",True,,,
+"Classic","Naturalizacja","Neutral","Zniszcz stronnika. Przeciwnik dobiera 2 karty.","Common",1,"Spell","EX1_161",,,,,,"Druid",True,"Leo Che","I kolejny do piachu.",,,,
+"Classic","Nauczycielka Purpurowych",,"Za każdym razem gdy rzucisz zaklęcie przyzwij Czeladnika Purpurowych 1/1.","Rare",4,"Minion","NEW1_026",,5,,,3,,True,"James Ryman","Jeśli nie będziesz uważać zamieni cię w prosiaka.",,,,
+"Classic","Nauki Kirin Toru",,"<b>Obrażenia zaklęć +1</b>",,,"Enchantment","EX1_584e",,,,,,,,,,,,,
+"Classic","Nawałnica ostrzy","Neutral","Zniszcz twoją broń i zadaj obrażenia od niej wszystkim wrogom.","Rare",2,"Spell","CS2_233",AffectedBySpellPower,,,,,"Rogue",True,"Hideaki Takamura","„Słuchaj tu nie chodzi tylko o to żeby szybko machać sztyletami. To znacznie bardziej skomplikowane”. - Szan trener łotrów.",,,,
+"Classic","Nowicjuszka",,"Na koniec twojej tury daj innemu losowemu przyjaznemu stronnikowi +1 do zdrowia.","Rare",1,"Minion","EX1_004",,1,,,2,,True,"Vance Kovacs","Ma nadzieję że kiedyś skończy praktyki w szpitalu na peryferiach.",,,,
+"Classic","Nozdormu","Neutral","Gracze mają tylko 15 sekund na wykonanie swojej tury.","Legendary",9,"Minion","EX1_560",,8,"",,8,,True,"James Ryman","15 sekund to za mało żeby napisać coś zabawnego!",True,"Dragon",,
+"Classic","Nożownik",,"Za każdym razem gdy przyzywasz stronnika zadaj 1 pkt. obrażeń losowemu wrogowi.","Rare",2,"Minion","NEW1_019",,2,"",,3,,True,"Matt Cavotta","Wołają na niego „Ed Nożoręki”.",,,,
+"Classic","Obrońca","Neutral",,"Common",1,"Minion","EX1_130a",,1,,,2,"Paladin",,,,,,,
+"Classic","Obrońca Argusa","Alliance","<b>Okrzyk bojowy:</b> Daj sąsiednim stronnikom +1/+1 oraz <b>Prowokację</b>.","Rare",4,"Minion","EX1_093",Battlecry,3,,,2,,True,"Alex Horley Orlandelli","Wydawałoby się że Argus nie potrzebuje zbytnio obrony. A jednak.",,,,
+"Classic","Odkupienie","Neutral","<b>Sekret:</b> Gdy jeden z twoich stronników zginie przywróć go do życia z 1 pkt. zdrowia.","Common",1,"Spell","EX1_136",Secret,,,,,"Paladin",True,"Ittoku","Powrócić żywym po śmierci - to dopiero przeżycie!",,,,
+"Classic","Ogar",,"<b>Szarża</b>",,1,"Minion","EX1_538t",Charge,1,,,1,"Hunter",,,,,"Beast",,
+"Classic","Ogień Alexstrazy",,"Zdrowie ustawione na 15.",,,"Enchantment","EX1_561e",,,,,,,,,,,,,
+"Classic","Ognik","Neutral",,"Common",0,"Minion","CS2_231",,1,,,1,,True,"Malcolm Davis","Gdzie ogników kupa tam i eredar du... znaczy się łatwo nie ma.",,,,
+"Classic","Ognisty olbrzym",,"Kosztuje (1) mniej za każdy punkt obrażeń otrzymany przez twojego bohatera.","Epic",20,"Minion","EX1_620",,8,,,8,,True,"Glenn Rane","Nieustanna gorączka zapalenie płuc paląca zgaga... i nikt nie chce być jego lekarzem.",,,,
+"Classic","Oko za oko","Neutral","<b>Sekret:</b> Gdy twój bohater otrzyma obrażenia zadaj tyle samo obrażeń wrogiemu bohaterowi.","Common",1,"Spell","EX1_132",Secret,,,,,"Paladin",True,"James Ryman","Sprawiedliwość czasami przyjmuje postać pięści walącej w zęby.",,,,
+"Classic","Okrutny nadzorca","Neutral","<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń stronnikowi i daj mu +2 do ataku.","Common",2,"Minion","EX1_603",Battlecry,2,,,2,"Warrior",True,"Phroilan Gardner","„Masz być w robocie w niedzielę!”",,,,
+"Classic","Onyxia","Neutral","<b>Okrzyk bojowy:</b> Przyzwij Pisklęta 1/1 aż zapełnią twoje pole bitwy.","Legendary",9,"Minion","EX1_562",Battlecry,8,,,8,,True,"Dany Orizio","Onyxia przez długi czas przebywała na Dworze Wichrogrodu pod przebraniem Lady Katrany Prestor. A wydawałoby się że zdradzą ją wielkie skrzydła i łuski.",True,"Dragon",,
+"Classic","Opiekun Gaju","Neutral","<b>Wybierz jedno:</b> Zadaj 2 pkt. obrażeń; lub <b>Wycisz</b> stronnika.","Rare",4,"Minion","EX1_166",,4,,,2,"Druid",True,"Gabor Szikszai","„Wielokrotnie obserwowałem te szlachetne istoty na skraju lasu. Niestety zawsze płoszyły się gdy tylko pan Sułek zakradał się do pobliskiego paśnika na wieczorną wyżerkę”. - z dziennika Gajowego Maruchy",,,,
+"Classic","Orli Róg",,"Za każdym razem gdy ujawniony zostaje przyjazny <b>Sekret</b> zyskuje 1 pkt. wytrzymałości.","Rare",3,"Weapon","EX1_536",,,,2,3,"Hunter",True,"Cyril Van Der Haegen","Pierwsza lekcja: Ostrym końcem w stronę przeciwnika.",,,,
+"Classic","Ostre!",,"+2 do ataku od mściwego kowala.",,,"Enchantment","CS2_221e",,,,,,,,,,,,,
+"Classic","Ostrość",,"+1 do wytrzymałości.",,,"Enchantment","CS2_146o",,,,,,,,,,,,,
+"Classic","Ostrze Zatracenia","Neutral","<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń. <b>Kombinacja:</b> Zamiast tego zadaj 2 pkt. obrażeń.","Rare",3,"Weapon","EX1_133",Battlecry|Combo,,,2,2,"Rogue",True,"Daren Bader","Ostrze Zatracenia ma w sobie moc Ragnarosa - Pana Ognia najpotężniejszego spośród płonących żywiołaków.",,,,
+"Classic","Padlinożerna hiena",,"Otrzymuje +2/+1 za każdym razem gdy zginie przyjazna Bestia.","Common",2,"Minion","EX1_531",,2,"",,2,"Hunter",True,"Jim Nelson","Hieny wolą ogryzać kości kodo lub latających węży ale zeżrą właściwie wszystko. Nawet rozgotowane brukselki.",,"Beast",,
+"Classic","Pakt krwi",,"Zwiększone zdrowie.",,,"Enchantment","CS2_059o",,,,,,"Warlock",,,,,,,
+"Classic","Pantera",,,"Common",2,"Minion","EX1_160t",,2,,,3,"Druid",,,,,"Beast",,
+"Classic","Pędzący kodo",,"<b>Okrzyk bojowy:</b> Zniszcz losowego wrogiego stronnika z atakiem 2 lub mniejszym.","Rare",5,"Minion","NEW1_041",Battlecry,5,,,3,,True,"Daren Bader","Ten kodo jest tak cwany że nawet potrafi kodować!",,"Beast",,
+"Classic","Pełna siła",,"Ten stronnik ma +2 do ataku.",,,"Enchantment","CS2_181e",,,,,,,,,,,,,
+"Classic","Pełnia many",,"Zwiększony atak.",,,"Enchantment","NEW1_012o",,,,,,"Mage",,,,,,,
+"Classic","Pełny brzuch",,"+2/+2. Zeżarł Murloka.",,,"Enchantment","NEW1_017e",,,,,,,,,,,,,
+"Classic","Pirowybuch","Neutral","Zadaj $10 pkt. obrażeń.","Epic",10,"Spell","EX1_279",,,,,,"Mage",True,"Luca Zontini","Pamiętaj by po dobraniu tej karty zaśmiać się diabolicznie.",,,,
+"Classic","Pisklę","Neutral",,,1,"Minion","ds1_whelptoken",,1,,,1,,,,,,"Dragon",,
+"Classic","Pisklę",,,,1,"Minion","EX1_116t",,1,,,1,,,,,,"Dragon",,
+"Classic","Płatnerz","Neutral","Otrzymujesz 1 pkt. pancerza za każdym razem gdy przyjazny stronnik zostanie zraniony.","Rare",2,"Minion","EX1_402",,4,"",,1,"Warrior",True,"Greg Hildebrandt","Nie nie przyjmuje wynagrodzenia w naturze.",,,,
+"Classic","Płomień Azzinotha",,,,1,"Minion","EX1_614t",,1,,,2,,,,,,,,
+"Classic","Płomienny chochlik","Neutral","<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń twojemu bohaterowi.","Common",1,"Minion","EX1_319",Battlecry,2,,,3,"Warlock",True,"Alex Horley Orlandelli","Chochliki lubią prażyć się w ogniu. Taka sytuacja.",,"Demon",,
+"Classic","Plugastwo","Neutral","<b>Prowokacja</b>. <b>Agonia:</b> Zadaj $2 pkt. obrażeń WSZYSTKIM postaciom.","Rare",5,"Minion","EX1_097",Deathrattle|Taunt,4,,,4,,True,"Alex Horley Orlandelli","Plugastwa uwielbiają świeże mięso i długie spacery po plaży.",,,,
+"Classic","Pod strażą",,"Zwiększony atak.",,,"Enchantment","EX1_001e",,,,,,,,,,,,,
+"Classic","Portal przywołania","Neutral","Twoi stronnicy kosztują (2) mniej ale nie mniej niż (1).","Common",4,"Minion","EX1_315",Aura,4,"",,0,"Warlock",True,"Tyler Walpole","Nie mniej niż jeden. Nie mniej niż zerooo… O! O! O! O!",,,,
+"Classic","Porywacz",,"<b>Kombinacja:</b> Cofnij stronnika na rękę właściciela.","Epic",6,"Minion","NEW1_005",Combo,3,,,5,"Rogue",True,"Dave Allsop","Chciał zostać podrywaczem. Ale mu nie wyszło.",,,,
+"Classic","Poskramiacz fal","Neutral","Otrzymuje +1 do ataku za każdym razem gdy zostaje przyzwany Murlok.","Rare",1,"Minion","EX1_509",,2,,,1,,True,"Jaemin Kim","Na zlotach rodzinnych robi się z niego prawdziwy siłacz.",,"Murloc",,
+"Classic","Postać cienia",,"Twoja moc specjalna zmienia się w „Zadaj 2 pkt. obrażeń”. Jeśli posiadasz już postać cienia: 3 pkt. obrażeń.","Epic",3,"Spell","EX1_625",,,,,,"Priest",True,"Alex Horley Orlandelli","Czy oświetlony kapłan pod postacią cienia rzuca cień?",,,,
+"Classic","Postać kota","Neutral","<b>Szarża</b>","Common",,"Spell","EX1_165a",,,,,,"Druid",,,,,,,
+"Classic","Postać niedźwiedzia","Neutral","+2 do zdrowia oraz <b>Prowokacja</b>.","Common",,"Spell","EX1_165b",,,,,,"Druid",,,,,,,
+"Classic","Postrach Pustki",,"<b>Okrzyk bojowy:</b> Zniszcz sąsiadujących z nim stronników a zyska ich atak oraz zdrowie.","Rare",3,"Minion","EX1_304",Battlecry,3,,,3,"Warlock",True,"Alexander Alexandrov","Jeśli włożysz tę kartę do talii stracisz zaufanie WSZYSTKICH swoich stronników.",,"Demon",,
+"Classic","Poszukiwacz przygód","Alliance","Otrzymuje +1/+1 za każdym razem gdy zagrasz kartę.","Rare",3,"Minion","EX1_044",,2,"",,2,,True,"Attila Adorjany","„Czy ktoś ma jakieś zbędne skóry dzika?”",,,,
+"Classic","Powierniczka tajemnic","Alliance","Otrzymuje +1/+1 za każdym razem gdy zagrany zostaje <b>Sekret</b>.","Rare",1,"Minion","EX1_080",,2,"",,1,,True,"Gonzalo Ordonez","Obiecuje że nikomu nie powie co zrobiliście zeszłego lata.",,,,
+"Classic","Pradawne nauki",,"Dobierz 2 karty.",,,"Spell","NEW1_008a",,,,,,"Druid",,,,,,,
+"Classic","Pradawne tajemnice",,"Przywróć 5 pkt. zdrowia.",,,"Spell","NEW1_008b",,,,,,"Druid",,,,,,,
+"Classic","Prastary gorzelnik","Alliance","<b>Okrzyk bojowy:</b> Cofnij przyjaznego stronnika na twoją rękę.","Common",4,"Minion","EX1_057",Battlecry,4,,,5,,True,"Bernie Kang","Większość pandarenów twierdzi że jego gorzałka smakuje jak gnu. Ale najwyraźniej jest to komplement.",,,,
+"Classic","Prastary obserwator","Alliance","Nie może atakować.","Rare",2,"Minion","EX1_045",,5,,,4,,True,"Richard Wright","Masz dziwne wrażenie że jego oczy cały czas za tobą podążają.",,,,
+"Classic","Prorok Światłozimnych","Neutral","<b>Okrzyk bojowy:</b> Daj WSZYSTKIM pozostałym Murlokom +2 do zdrowia.","Rare",3,"Minion","EX1_103",Battlecry,3,,,2,,True,"Arthur Gimaldinov","Choć mieszka w głębinach nie powala głębią intelektu.",,"Murloc",,
+"Classic","Prorok Velen","Neutral","Podwajasz wartości obrażeń i leczenia z twoich zaklęć oraz mocy specjalnej.","Legendary",7,"Minion","EX1_350",,7,,,7,"Priest",True,"Wei Wang","Został wygnany z domu a wszyscy jego bracia przeszli na stronę zła ale poza tym nie ma na co narzekać.",True,,,
+"Classic","Prorok zagłady",,"Na początku twojej tury zniszcz WSZYSTKICH stronników.","Epic",2,"Minion","NEW1_021",,7,,,0,,True,"Alex Horley Orlandelli","Lepiej mu idzie prorokowanie numerów na loterii.",,,,
+"Classic","Protektor Argentu","Neutral","<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi <b>Boską tarczę</b>.","Common",2,"Minion","EX1_362",Battlecry,2,,,2,"Paladin",True,"Doug Alexander","„Nie znaczy to że możesz teraz uchylać się przed kulami ognia. Dzięki tej tarczy nie będziesz musiał”.",,,,
+"Classic","Protektorka Słonecznej Furii","Alliance","<b>Okrzyk bojowy:</b> Daj sąsiednim stronnikom <b>Prowokację</b>.","Rare",2,"Minion","EX1_058",Battlecry,3,,,2,,True,"James Ryman","Co prawda nosi tarczę ale tylko po to żeby dać ją komuś za kim się schowa.",,,,
+"Classic","Przebudzenie Ysery",,"Zadaj $5 pkt. obrażeń wszystkim postaciom oprócz Ysery.",,2,"Spell","DREAM_02",,,,,,"Dream",,,,,,,
+"Classic","Przeciążenie",,"Zwiększone statystyki.",,,"Enchantment","EX1_258e",,,,,,"Shaman",,,,,,,
+"Classic","Przyczajona pantera","Horde","<b>Ukrycie</b>","Common",3,"Minion","EX1_017",Stealth,2,,,4,,True,"Jaemin Kim","Weszła kiedyś w spółkę z ukrytym smokiem.",,"Beast",,
+"Classic","Przygotowanie","Neutral","Następne zaklęcie jakie rzucisz w tej turze kosztuje (3) mniej.","Epic",0,"Spell","EX1_145",,,,,,"Rogue",True,"Clint Langley","Trucizna? Jest. Kamuflaż? Jest. Zaostrzona broń? Jest. Przeciwnik? Jeszcze jest.",,,,
+"Classic","Przygotowanie",,"Następne zaklęcie jakie rzucisz w tej turze kosztuje (3) mniej.",,,"Enchantment","EX1_145o",OneTurnEffect,,,,,"Rogue",,,,,,,
+"Classic","Przywódca stada","Neutral","Daj swoim stronnikom +1/+1.",,,"Spell","EX1_160b",,,,,,"Druid",,,,,,,
+"Classic","Przywódca stada",,"+1/+1",,,"Enchantment","EX1_160be",,,,,,"Druid",,,,,,,
+"Classic","Przywódczyni kultu","Neutral","Dobierz kartę za każdym razem gdy zginie jeden z twoich stronników.","Common",4,"Minion","EX1_595",,2,"",,4,,True,"Raymond Swanland","Może i przewodzi nikczemnemu kultowi ale i tak co tydzień dzwoni do rodziców.",,,,
+"Classic","Przyzwij Panterę","Neutral","Przyzwij Panterę 3/2.",,,"Spell","EX1_160a",,,,,,"Druid",,,,,,,
+"Classic","Pyłowy diablik","Neutral","<b>Furia wichru</b>.
+<b>Przeciążenie:</b> (2)","Common",1,"Minion","EX1_243",Windfury,1,,,3,"Shaman",True,"Raymond Swanland","Zachodni Brzeg pełen jest pyłowych diablików. I sępów. I szalonych golemów. I piratów. Po kiego ktoś chciałby tam mieszkać?",,,,
+"Classic","Ragnaros Władca Ognia","Neutral","Nie może atakować. Na koniec twojej tury zadaj 8 pkt. obrażeń losowemu wrogowi.","Legendary",8,"Minion","EX1_298",,8,,,8,,True,"Greg Staples","„CZY WIESZ ŻE WSZYSTKO CO KOCHASZ JEST ŁATWOPALNE?”",True,,,
+"Classic","Ranny mistrz ostrzy","Horde","<b>Okrzyk bojowy:</b> Zadaje SOBIE 4 pkt. obrażeń.","Rare",3,"Minion","CS2_181",Battlecry,7,"",,4,,True,"Samwise","Twierdzi że to stara rana z czasów wojny ale najpewniej sam się zaciął przy goleniu.",,,,
+"Classic","Ręka Argusa",,"+1/+1 oraz <b>Prowokacja</b>.",,,"Enchantment","EX1_093e",,,,,,,,,,,,,
+"Classic","Równość","Neutral","Zmień zdrowie WSZYSTKICH stronników na 1.","Rare",2,"Spell","EX1_619",,,,,,"Paladin",True,"Michal Ivan","Czasami karta ta widywana jest w otoczeniu podejrzanych osobników o pseudonimach „Braterstwo” i „Wolność”.",,,,
+"Classic","Równość",,"Zdrowie zmienione na 1.",,,"Enchantment","EX1_619e",,,,,,"Paladin",,,,,,,
+"Classic","Rozbicie czachy","Neutral","Zadaj $2 pkt. obrażeń wrogiemu bohaterowi. <b>Kombinacja:</b> W następnej turze cofnij tę kartę na rękę.","Rare",3,"Spell","EX1_137",Combo,,,,,"Rogue",True,"James Zhang","Gdy wszystko inne zawiedzie pozostaje jedynie szybkie grzmotnięcie w czachę.",,,,
+"Classic","Rozjemca Aldorów","Neutral","<b>Okrzyk bojowy:</b> Zmień atak wrogiego stronnika na 1.","Rare",3,"Minion","EX1_382",Battlecry,3,,,3,"Paladin",True,"Dany Orizio","Niby taki rozjemca ale jak przywali...",,,,
+"Classic","Rozjuszony berserker","Neutral","Otrzymuje +1 do ataku za każdym razem gdy dowolny stronnik zostanie zraniony.","Rare",3,"Minion","EX1_604",,4,"",,2,"Warrior",True,"Simon Bisley","Zanim zajął się berserkowaniem pracował jako księgowy.",,,,
+"Classic","Rozkaz Zielonoskórego",,"+1/+1",,,"Enchantment","NEW1_024o",,,,,,,,,,,,,
+"Classic","Rozkazujący okrzyk",,"W tej turze nie może zejść poniżej 1 pkt. zdrowia.",,,"Enchantment","NEW1_036e",OneTurnEffect,,,,,"Warrior",,,,,,,
+"Classic","Rozkazujący okrzyk",,"W tej turze twoi stronnicy nie mogą zejść poniżej 1 pkt. zdrowia. Dobierz kartę.","Rare",2,"Spell","NEW1_036",,,,,,"Warrior",True,"Wayne Reynolds","„Wieczorny przydział grochówki tylko dla tych co przeżyją dzisiejszą bitwę!”",,,,
+"Classic","Rozkazujący okrzyk",,"W tej turze twoi stronnicy nie mogą zejść poniżej 1 pkt. zdrowia.",,,"Enchantment","NEW1_036e2",OneTurnEffect,,,,,"Warrior",,,,,,,
+"Classic","Rozproszenie","Neutral","<b>Wycisz</b> stronnika.",,,"Spell","EX1_166b",Silence,,,,,"Druid",,,,,,,
+"Classic","Rozwidlona błyskawica","Neutral","Zadaj $2 pkt. obrażeń dwóm losowym wrogim stronnikom. <b>Przeciążenie:</b> (2)","Common",1,"Spell","EX1_251",,,,,,"Shaman",True,"Ralph Horsley","Do pełnego działkowego zestawu brakuje jeszcze zagrabionej błyskawicy oraz łopatowego pioruna.",,,,
+"Classic","Rycerz Srebrnej Dłoni","Alliance","<b>Okrzyk bojowy:</b> Przyzwij Giermka 2/2.","Common",5,"Minion","CS2_151",Battlecry,4,,,4,,True,"Matt Starbuck","Dobrze być rycerzem. Giermkiem trochę gorzej.",,,,
+"Classic","Rzezimiot","Neutral","Koszt zaatakowania stronnika wynosi 1 ataku zamiast 1 wytrzymałości.","Epic",7,"Weapon","EX1_411",,,,1,7,"Warrior",True,"Zoltan & Gabor","Słynny topór Grommasza Piekłorycza. Jakimś cudem znalazł się w posiadaniu księcia Malkezara. Bardzo tajemnicze!",,,,
+"Classic","Sędziwy mag","Neutral","<b>Okrzyk bojowy:</b> Daj sąsiednim stronnikom <b>Obrażenia zaklęć +1</b>.","Rare",4,"Minion","EX1_584",Battlecry,5,,,2,,True,"Howard Lyon","Czasami się zapomni i wparuje prosto do nieswojej gry.",,,,
+"Classic","Sen",,"Cofnij stronnika na rękę właściciela.",,0,"Spell","DREAM_04",,,,,,"Dream",,,,,,,
+"Classic","Siła natury","Neutral","Przyzwij trzy Drzewce 2/2 z <b>Szarżą</b> które zginą na koniec tury.","Epic",6,"Spell","EX1_571",,,,,,"Druid",True,"Trevor Jacobs","„Chyba kimnę się zdziebko pod tymi drzewkami. Chwilę... AAAAAAA!” - Migotek pechowy gnom.",,,,
+"Classic","Siła stada",,"Wilkor alfa daje temu stronnikowi +1 do ataku.",,,"Enchantment","EX1_162o",,,,,,,,,,,,,
+"Classic","Skarbomania",,"Zwiększony atak.",,,"Enchantment","NEW1_018e",,,,,,,,,,,,,
+"Classic","Skrucha","Neutral","<b>Sekret:</b> Gdy twój przeciwnik zagra stronnika zmniejsz jego zdrowie do 1.","Common",1,"Spell","EX1_379",Secret,,,,,"Paladin",True,"Gonzalo Ordonez","Paladyni znani są ze skromności i okazywania skruchy ale tylko tuż przed klęską.",,,,
+"Classic","Skrucha",,"Zdrowie zmniejszone do 1.",,,"Enchantment","EX1_379e",,,,,,"Paladin",,,,,,,
+"Classic","Skuteczna motywacja",,"+2 do ataku.",,,"Enchantment","EX1_603e",,,,,,"Warrior",,,,,,,
+"Classic","Słońcowierca","Alliance","<b>Prowokacja</b>. <b>Boska tarcza</b>.","Rare",6,"Minion","EX1_032",Divine Shield|Taunt,5,,,4,,True,"Andrea Uderzo","Słońcowiercy to zakon taureńskich paladynów wyznających An'she - bóstwo słońca.",,,,
+"Classic","Śmiercioskrzydły",,"<b>Okrzyk bojowy:</b> Zniszcz wszystkich pozostałych stronników i odrzuć całą rękę.","Legendary",10,"Minion","NEW1_030",Battlecry,12,,,12,,True,"Bernie Kang","Śmiercioskrzydły był niegdyś szlachetnym smokiem znanym jako Neltarion. Oszalał jednak i zniszczył Azeroth by w końcu zostać pokonanym. Czyżby kompleksy z dzieciństwa?",True,"Dragon",,
+"Classic","Smoczy jastrząb","Horde","<b>Furia wichru</b>","Common",1,"Minion","CS2_169",Windfury,1,,,1,,True,"Greg Hildebrandt","Próba nazwania ich „smostrząbami” nie spotkała się z akceptacją.",,"Beast",,
+"Classic","Smokowiec zmierzchu","Neutral","<b>Okrzyk bojowy:</b> Otrzymuje +1 do zdrowia za każdą kartę w ręce.","Rare",4,"Minion","EX1_043",Battlecry,1,,,4,,True,"Jaemin Kim","Smokowce zmierzchu żywią się mistyczną energią. I paluszkami.",,"Dragon",,
+"Classic","Snajperstwo","Neutral","<b>Sekret:</b> Gdy twój przeciwnik zagra stronnika zadaj mu $4 pkt. obrażeń.","Common",2,"Spell","EX1_609",Secret,,,,,"Hunter",True,"Lorenzo Minaca","Dobry snajper zawsze trafia prosto w cel. Chyba że mu akurat zniesie.",,,,
+"Classic","Sowa żelaznodzioba","Horde","<b>Okrzyk bojowy:</b> <b>Wycisz</b> stronnika.","Common",2,"Minion","CS2_203",Battlecry,1,,,2,,True,"Trevor Jacobs","Ich skrzydła są ciche lecz ich pisk to... całkowite przeciwieństwo ciszy.",,"Beast",,
+"Classic","Spadające gwiazdy",,"Zadaj $2 pkt. obrażeń wszystkim wrogim stronnikom.",,,"Spell","NEW1_007a",,,,,,"Druid",,,,,,,
+"Classic","Spadające gwiazdy",,"<b>Wybierz jedno:</b> Zadaj $5 pkt. obrażeń stronnikowi; lub zadaj $2 pkt. obrażeń wszystkim wrogim stronnikom.","Rare",5,"Spell","NEW1_007",,,,,,"Druid",True,"Richard Wright","Czy niebo spada nam na głowy? W rzeczy samej.",,,,
+"Classic","Spadające gwiazdy",,"Zadaj $5 pkt. obrażeń stronnikowi.",,,"Spell","NEW1_007b",,,,,,"Druid",,,,,,,
+"Classic","Spopielacz",,,"Legendary",5,"Weapon","EX1_383t",,,,3,5,"Paladin",,,,,,,
+"Classic","Spuścić psy!",,"Przyzwij Ogara 1/1 z <b>Szarżą</b> za każdego wrogiego stronnika.","Common",3,"Spell","EX1_538",,,,,,"Hunter",True,"Linggar Bramanty","Kto dogoni psa? Może ty może ty? Może jednak ja!",,,,
+"Classic","Starcie umysłów","Neutral","Umieść kopię losowego stronnika z talii przeciwnika na polu bitwy.","Epic",4,"Spell","EX1_345",,,,,,"Priest",True,"Zoltan & Gabor","Czasami wydaje się że to wszystko jakaś gra.",,,,
+"Classic","Stożek zimna","Neutral","<b>Zamroź</b> stronnika oraz stronników obok niego i zadaj im wszystkim $1 pkt. obrażeń.","Common",4,"Spell","EX1_275",Freeze,,,,,"Mage",True,"Leo Che","Tak wygląda walec zimna poddany obróbce ze skrawaniem.",,,,
+"Classic","Straszliwy korsarz",,"<b>Prowokacja.</b> Kosztuje (1) mniej za każdy punkt ataku twojej broni.","Common",4,"Minion","NEW1_022",Taunt,3,,,3,,True,"Trent Kaniuga","„Arrrr” w pirackim narzeczu oznacza „Witaj jaśnie panie”.",,"Pirate",,
+"Classic","Strażniczka Światłości",,"Otrzymuje +2 do ataku za każdym razem gdy jakaś postać zostanie uzdrowiona.","Rare",1,"Minion","EX1_001",,2,,,1,,True,"Erik Ko","Praktyki odbywała w sklepie z lampami.",,,,
+"Classic","Strażnik Spaczenia","Neutral","<b>Prowokacja</b>. <b>Okrzyk bojowy:</b> Zniszcz jeden ze swoich kryształów many.","Rare",3,"Minion","EX1_301",Battlecry|Taunt,5,,,3,"Warlock",True,"John Polidora","Tak będzie dla ciebie walczyć. ALE ZROBI TO NIECHĘTNIE.",,"Demon",,
+"Classic","Strażnik Srebrnej Luny","Horde","<b>Boska tarcza</b>","Common",4,"Minion","EX1_023",Divine Shield,3,,,3,,True,"Phroilan Gardner","Kiedy pierwszym razem próbowali ochronić Srebrną Lunę przed plagą nie do końca im się udało...",,,,
+"Classic","Strażnik Zagłady","Neutral","<b>Szarża</b>. <b>Okrzyk bojowy:</b> Odrzuć dwie losowe karty.","Rare",5,"Minion","EX1_310",Battlecry|Charge,7,,,5,"Warlock",True,"Lucas Graciano","Przywołanie Strażnika Zagłady to spore ryzyko. <i>Ktoś</i> wyciągnie kopyta.",,"Demon",,
+"Classic","Stróż Mogu'szanu","Neutral","<b>Prowokacja</b>","Common",4,"Minion","EX1_396",Taunt,7,,,1,,True,"Cole Eastburn","Jedyne co robią przez całe dnie to gadają o Królu Gromów. NUUUUDY!",,,,
+"Classic","Strzaskanie umysłu",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń.",,2,"Hero Power","EX1_625t2",,,,,,"Priest",,,,,,,
+"Classic","Studnia światła","Neutral","Na początku twojej tury przywróć 3 pkt. zdrowia przyjaznej postaci.","Rare",2,"Minion","EX1_341",,5,"",,0,"Priest",True,"Blizzard Entertainment","Nie wiadomo czy ludzie ignorują studnię światła czy jest ona po prostu niewidzialna.",,,,
+"Classic","Stwór z moczarów","Alliance","<b>Prowokacja</b>","Common",5,"Minion","CS1_069",Taunt,6,,,3,,True,"Monica Langlois","Dawniej zwano go Jozinem z Bazin ale weszła ustawa o ochronie danych osobowych.",,,,
+"Classic","Świątynny nadzorca",,"<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi +3 do zdrowia.","Common",6,"Minion","EX1_623",Battlecry,6,,,6,"Priest",True,"Daren Bader","W czwartkowe noce dorabia jako ochroniarz w karczmie „Pod Knurem i Gwizdkiem”.",,,,
+"Classic","Świetlista istota","Neutral","Atak tego stronnika jest zawsze równy jego zdrowiu.","Common",4,"Minion","EX1_335",,5,,,0,"Priest",True,"Daarken","Świeci nie tylko oczami.",,,,
+"Classic","Święty gniew","Neutral","Dobierz kartę i zadaj obrażenia równe jej kosztowi.","Rare",5,"Spell","EX1_365",,,,,,"Paladin",True,"Justin Sweet","Dawaj na gołe klaty!",,,,
+"Classic","Święty ogień",,"Zadaj $5 pkt. obrażeń. Przywróć #5 pkt. zdrowia twojemu bohaterowi.","Rare",6,"Spell","EX1_624",,,,,,"Priest",True,"Miguel Coimbra","Często następuje po nim siwy dym!",,,,
+"Classic","Sylwana Bieżywiatr",,"<b>Agonia:</b> Przejmij kontrolę nad losowym wrogim stronnikiem.","Legendary",6,"Minion","EX1_016",Deathrattle,5,,,5,,True,"Glenn Rane","Sylwana została zamieniona w królową upiorów przez Arthasa. Mocno ją tym wkurzył.",True,,,
+"Classic","Szalejący worgen","Neutral","<b>Szał:</b> <b>Furia wichru</b> oraz +1 do ataku.","Common",3,"Minion","EX1_412",Enrage,3,,,3,,True,"Alex Horley Orlandelli","Wścieklizna dopada nawet najlepszych.",,,,
+"Classic","Szaleństwo cieni","Neutral","Do końca tury przejmij kontrolę nad wrogim stronnikiem z atakiem 3 lub mniejszym.","Rare",4,"Spell","EX1_334",,,,,,"Priest",True,"Mark Gibbons","Tłumacz to sobie jak chcesz ale to dość wredne zagranie.",,,,
+"Classic","Szalony alchemik","Neutral","<b>Okrzyk bojowy:</b> Zamień atak i zdrowie wybranego stronnika.","Rare",2,"Minion","EX1_059",Battlecry,2,,,2,,True,"Tom Fleming","Początkowo eksperymentował na murlokach ale jakoś bez efektów.",,,,
+"Classic","Szalony bombiarz","Alliance","<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi innymi postaciami.","Common",2,"Minion","EX1_082",Battlecry,2,,,3,,True,"Mike Sass","Nie jest jakoś szczególnie szalony tylko nie do końca przestrzega przepisów BHP.",,,,
+"Classic","Szkarłatny krzyżowiec","Alliance","<b>Boska tarcza</b>","Common",3,"Minion","EX1_020",Divine Shield,1,,,3,,True,"Gonzalo Ordonez","Kiedyś śniło się jej że poślubiła karmazynowego króla.",,,,
+"Classic","Szlachetne poświęcenie","Neutral","<b>Sekret:</b> Gdy wróg zaatakuje przyzwij Obrońcę 2/1 jako nowy cel ataku.","Common",1,"Spell","EX1_130",Secret,,,,,"Paladin",True,"Zoltan & Gabor","Zawsze będziemy pamiętać twe imię hmm... szlachetny obrońco!",,,,
+"Classic","Szmaragdowy smokowiec",,,,4,"Minion","DREAM_03",,6,,,7,"Dream",,,,,"Dragon",,
+"Classic","Szpikożerny ghul","Neutral","Otrzymuje +1 do ataku za każdym razem gdy zginie dowolny stronnik.","Common",3,"Minion","tt_004",,3,"",,2,,True,"Alex Horley Orlandelli","„Szpikożerny” to niesprawiedliwe imię. Pewnie chciałby zjeść coś innego ale nic mu nie zostawili.",,,,
+"Classic","Tajemny golem","Neutral","<b>Szarża</b>. <b>Okrzyk bojowy:</b> Daj twojemu przeciwnikowi kryształ many.","Rare",3,"Minion","EX1_089",Battlecry|Charge,2,,,4,,True,"Sedhayu Ardian","Perfekcyjna Pani Domu poleca tajemne golemy jako stylową dekorację każdego salonu. Ponadto można z nimi porozmawiać o wszystkim.",,,,
+"Classic","Tarczownik","Neutral","<b>Prowokacja</b>","Common",1,"Minion","EX1_405",Taunt,4,,,0,,True,"Carl Critchlow","Widziałeś jaki rozmiar mają tarcze w grze? To niełatwa praca.",,,,
+"Classic","Tauren wojownik","Neutral","<b>Prowokacja</b>. <b>Szał:</b> +3 do ataku.","Common",3,"Minion","EX1_390",Enrage|Taunt,3,,,2,,True,"Paul Warzecha","Tauren w walce Hordzie lżej!",,,,
+"Classic","Technik kontroli umysłu","Alliance","<b>Okrzyk bojowy:</b> Jeżeli przeciwnik ma przynajmniej 4 stronników przejmij losowo kontrolę nad jednym z nich.","Rare",3,"Minion","EX1_085",Battlecry,3,,,3,,True,"Leo Che","Technologia kontroli umysłu to prężnie rozwijająca się dziedzina nauki która przyczyni się do zrealizowania 200% normy przewidzianej w obecnym planie 5-letnim.",,,,
+"Classic","Totem przypływu many","Neutral","Na koniec twojej tury dobierz kartę.","Rare",3,"Minion","EX1_575",,3,,,0,"Shaman",True,"Scott Altmann","Podobno niektórzy szamani potrafią 10 razy szybko powtórzyć „Tam mam ten totem”.",,"Totem",,
+"Classic","Trędowaty gnom","Neutral","<b>Agonia:</b> Zadaj 2 pkt. obrażeń wrogiemu bohaterowi.","Common",1,"Minion","EX1_029",Deathrattle,1,,,2,,True,"Glenn Rane","Bardzo by chciał zostać twoim przyjacielem ale naprawdę źle odbiera brak akceptacji.",,,,
+"Classic","Tycia przywoływaczka","Alliance","Pierwszy stronnik zagrany przez ciebie w każdej turze kosztuje (1) mniej.","Rare",2,"Minion","EX1_076",Aura,2,"",,2,,True,"Ron Spears","Najbardziej w świecie boi się swojego nemezis: Przytycia.",,,,
+"Classic","Tygrys z Cierniodławów","Alliance","<b>Ukrycie</b>","Common",5,"Minion","EX1_028",Stealth,5,,,5,,True,"Alex Horley Orlandelli","Tygrysy często mylone są z Jagrysami i Ongrysami. Choć wiadomo że to Ongrys gryzł!",,"Beast",,
+"Classic","Tyrion Fordring","Neutral","<b>Boska tarcza</b>. <b>Prowokacja</b>. <b>Agonia:</b> Wyposaż bohatera w Spopielacz 5/3.","Legendary",8,"Minion","EX1_383",Deathrattle|Divine Shield|Taunt,6,,,6,"Paladin",True,"Brom","Największym zaskoczeniem dla osób nieznających Tyriona jest fakt że wcale nie jest karłem!",True,,,
+"Classic","Uczennica czarownika","Neutral","Twoje zaklęcia kosztują (1) mniej.","Common",2,"Minion","EX1_608",Aura,2,,,3,"Mage",True,"Alex Horley Orlandelli","Uczniowie świetnie się nadają do wykorzystywania. „Hej przyzwij mi trochę tych bułeczek z maną! I kawy! A właściwie to kawy z maną!”",,,,
+"Classic","Ugryzienie","Neutral","Daj twojemu bohaterowi +4 do ataku w tej turze oraz +4 pkt. pancerza.","Rare",4,"Spell","EX1_570",,,,,,"Druid",True,"Tom Baxa","Zjedz mięso. Ziemniaki możesz zostawić.",,,,
+"Classic","Ugryzienie",,"+4 do ataku w tej turze.",,,"Enchantment","EX1_570e",OneTurnEffect,,,,,,,,,,,,
+"Classic","Ukrycie",,"Ukrycie trwa do następnej tury.",,,"Enchantment","EX1_128e",,,,,,"Rogue",,,,,,,
+"Classic","Ukrycie","Neutral","Daj swoim stronnikom <b>Ukrycie</b> do twojej następnej tury.","Common",1,"Spell","EX1_128",,,,,,"Rogue",True,"Steve Hui","Łotrzy ukrywają wszystko za wyjątkiem emocji. Są po prostu bardzo wylewni.",,,,
+"Classic","Ulepszenie!","Neutral","Jeśli masz broń daj jej +1/+1. W innym przypadku wyposaż bohatera w broń 1/3.","Rare",1,"Spell","EX1_409",,,,,,"Warrior",True,"Matt Cavotta","Z taką bronią nie ma żartów!",,,,
+"Classic","Ulepszono",,"+1 do ataku oraz +1 do wytrzymałości.",,,"Enchantment","EX1_409e",,,,,,"Warrior",,,,,,,
+"Classic","Ulepszono",,"Zwiększona wytrzymałość.",,,"Enchantment","EX1_536e",,,,,,"Hunter",,,,,,,
+"Classic","Upiór many","Neutral","WSZYSCY stronnicy kosztują (1) więcej.","Rare",2,"Minion","EX1_616",Aura,2,,,2,,True,"Luca Zontini","Wypełzają w nocy żeby zeżreć resztki kryształów many ze stołu.",,,,
+"Classic","Ustąp pola!",,"Atak zmieniony na 1.",,,"Enchantment","EX1_382e",,,,,,"Paladin",,,,,,,
+"Classic","Uszkodzony golem","Neutral",,"Common",1,"Minion","skele21",,1,,,2,,,,,,"Mech",,
+"Classic","Utrzymanie tajemnicy",,"Zwiększone statystyki.",,,"Enchantment","EX1_080o",,,,,,,,,,,,,
+"Classic","Uzbrojenie",,"Zwiększony atak.",,,"Enchantment","NEW1_037e",,,,,,,False,,,,,,
+"Classic","W pułapce",,"Karta ta będzie <b>Zamrożona</b> ponownie na początku kolejnej tury.",,,"Enchantment","EX1_611e",,,,,,"Hunter",,,,,,,
+"Classic","Wąż","Neutral",,"Common",0,"Minion","EX1_554t",,1,,,1,"Hunter",,,,,"Beast",,
+"Classic","Wewnętrzny szał",,"+2 do ataku.",,,"Enchantment","EX1_607e",,,,,,"Warrior",,,,,,,
+"Classic","Wewnętrzny szał","Neutral","Zadaj $1 pkt. obrażeń stronnikowi i daj mu +2 do ataku.","Common",0,"Spell","EX1_607",,,,,,"Warrior",True,"Slawomir Maniak","Dobra mina do złej gry to ich motto.",,,,
+"Classic","Wewnętrzny żar",,"Atak stronnika jest równy jego zdrowiu.",,,"Enchantment","CS1_129e",,,,,,"Priest",,,,,,,
+"Classic","Wewnętrzny żar","Neutral","Zmień atak stronnika na równy jego zdrowiu.","Common",1,"Spell","CS1_129",,,,,,"Priest",True,"Steve Prescott","Dobry pomysł: dopakowanie stronników. Zły pomysł: stronienie od dopakowania.",,,,
+"Classic","Wężowa pułapka","Neutral","<b>Sekret:</b> Gdy jeden z twoich stronników zostanie zaatakowany przyzwij trzy Węże 1/1.","Epic",2,"Spell","EX1_554",Secret,,,,,"Hunter",True,"Bernie Kang","Czemu to musiały być węże?",,,,
+"Classic","Wichrogniewna harpia","Alliance","<b>Furia wichru</b>","Common",6,"Minion","EX1_033",Windfury,5,,,4,,True,"Luke Mancini","Zbyt przyjemne to harpie nie są. Oględnie rzecz mówiąc.",,,,
+"Classic","Widzący z Kręgu Ziemi",,"<b>Okrzyk bojowy:</b> Przywróć 3 pkt. zdrowia.","Common",3,"Minion","CS2_117",Battlecry,3,,,3,,True,"Alex Horley Orlandelli","Spojrzeniem sięga tam gdzie wzrok innych nie sięga.",,,,
+"Classic","Wiedziciel Czo","Neutral","Za każdym razem gdy gracz rzuci zaklęcie umieść jego kopię w ręce drugiego gracza.","Legendary",2,"Minion","EX1_100",,4,"",,0,,True,"Mark Zug","Wiedziciel Czo zbiera historie i podania z krainy Pandarii ale najbardziej lubi opowieść o pierścieniu i górze.",True,,,
+"Classic","Wieszcz z Thrallmaru","Horde","<b>Furia wichru</b>","Common",3,"Minion","EX1_021",Windfury,3,,,2,,True,"Efrem Palacios","Postanowił napisać epicki poemat. Ma już pierwszy wers: „Thrallmarze ojczyzno moja ty jesteś jak zdrowie”.",,,,
+"Classic","Wiewiórka","Neutral",,"Common",1,"Minion","EX1_tk28",,1,,,1,,,,,,"Beast",,
+"Classic","Wilkor alfa","Neutral","Sąsiedni stronnicy otrzymują +1 do ataku.","Common",2,"Minion","EX1_162",AdjacentBuff|Aura,2,"",,2,,True,"John Dickenson","Nie możemy się doczekać wydania Bety Wilkora. Przekażcie dalej ten wpis aby wziąć udział w losowaniu kluczy!",,"Beast",,
+"Classic","Worgen dywersant","Alliance","<b>Ukrycie</b>","Common",1,"Minion","EX1_010",Stealth,1,,,2,,True,"Raymond Swanland","Jeśli chcesz powstrzymać dywersję worgenów wystarczy krzyknąć „Do budy!”",,,,
+"Classic","Wściekłość",,"Zwiększony atak.",,,"Enchantment","EX1_604o",,,,,,"Warrior",,,,,,,
+"Classic","Wściekły kurczak",,"<b>Szał:</b> +5 do ataku.","Rare",1,"Minion","EX1_009",Enrage,1,,,1,,True,"Mike Sass",""Lusia wściekła się gdy odwołano obchody Święta Kreta" - Pan Józek znany hodowca kurczaków.",,"Beast",,
+"Classic","Wstrząs ziemi","Neutral","<b>Wycisz</b> stronnika a następnie zadaj mu $1 pkt. obrażeń.","Common",1,"Spell","EX1_245",Silence,,,,,"Shaman",True,"Kevin Chin","Wstrząs Ziemi? A nie powinien to być raczej „Wstrząs Azeroth”?",,,,
+"Classic","Wybuchowa pułapka","Neutral","<b>Sekret:</b> Gdy twój bohater zostanie zaatakowany zadaj $2 pkt. obrażeń wszystkim wrogom.","Common",2,"Spell","EX1_610",Secret,,,,,"Hunter",True,"Brandon Kitkouski","Na szczęście nie jest to szklana pułapka.",,,,
+"Classic","Wybuchowy strzał","Neutral","Zadaj $5 pkt. obrażeń stronnikowi oraz $2 pkt. obrażeń jego sąsiadom.","Rare",5,"Spell","EX1_537",,,,,,"Hunter",True,"Tom Baxa","Wyciągnij zawleczkę policz do 5 i w nogi.",,,,
+"Classic","Wyciszenie","Neutral","<b>Wycisz</b> stronnika.","Common",0,"Spell","EX1_332",Silence,,,,,"Priest",True,"Zoltan & Gabor","Zarezerwowane na rzucających zaklęcia przeciwników nikczemnych liczów zza grobu oraz wieczory karaoke w karczmie pod Żrącym Żarłokiem.",,,,
+"Classic","Wyczucie demonów","Neutral","Umieść w ręce 2 losowe Demony z twojej talii.","Common",3,"Spell","EX1_317",,,,,,"Warlock",True,"Raven Mimura","Z reguły demony rzucają się w oczy i nie trzeba żadnego zaklęcia żeby je wyczuć.",,,,
+"Classic","Wyjęcie korzeni","Neutral","+5 do ataku.",,,"Spell","EX1_178b",,,,,,"Druid",,,,,,,
+"Classic","Wyjęte korzenie",,"+5 do ataku.",,,"Enchantment","EX1_178be",,,,,,"Druid",,,,,,,
+"Classic","Wymaga ostrzenia",,"Zmniejszony atak.",,,"Enchantment","EX1_411e2",,,,,,"Warrior",,,,,,,
+"Classic","Wypaczona Otchłań","Neutral","Zniszcz wszystkich stronników.","Epic",8,"Spell","EX1_312",,,,,,"Warlock",True,"Dave Allsop","Wypaczona Otchłań to bezkształtne miejsce pełne magii iluzji
+i zniszczonych stronników.",,,,
+"Classic","Wyparowanie","Neutral","<b>Sekret:</b> Zniszcz stronnika który zaatakuje twojego bohatera.","Rare",3,"Spell","EX1_594",Secret,,,,,"Mage",True,"Raymond Swanland","Czy Śmiercioskrzydły spowodował Kataklizm bo kiedyś przegrał przez tę kartę? Możemy nigdy się tego nie dowiedzieć.",,,,
+"Classic","Wypatroszenie","Neutral","Zadaj $2 pkt. obrażeń. <b>Kombinacja:</b> Zamiast tego zadaj $4 pkt. obrażeń.","Common",2,"Spell","EX1_124",Combo,,,,,"Rogue",True,"Ariel Olivetti","Koszt wypatroszenia przeciwnika jest bardzo wysoki. Głównie przez rachunki za spranie krwi ze skórzanej zbroi.",,,,
+"Classic","Wyrocznia Światłozimnych","Neutral","<b>Okrzyk bojowy:</b> Każdy gracz dobiera 2 karty.","Rare",3,"Minion","EX1_050",Battlecry,2,,,2,,True,"Steve Prescott","Widzą przyszłość. W tej przyszłości obaj gracze dobierają kolejne karty. Aż ciarki po plecach chodzą.",,"Murloc",,
+"Classic","Wyssanie duszy","Neutral","Zniszcz stronnika. Przywróć #3 pkt. zdrowia twojemu bohaterowi.","Rare",6,"Spell","EX1_309",,,,,,"Warlock",True,"Tyler Walpole","Lepiej unikać wyssania własnej duszy. Możesz w ten sposób stworzyć błędny krąg.",,,,
+"Classic","Wyżer",,"Na koniec twojej tury przyzwij Gnola 2/2 z <b>Prowokacją</b>.","Legendary",6,"Minion","NEW1_040",,4,,,4,,True,"Laurel D. Austin","Wyżer jest supermocny. Jeśli go zabijesz to tylko dlatego że ci na to <i>pozwolił</i>.",True,,,
+"Classic","Wyzwolony żywiołak","Neutral","Otrzymuje +1/+1 za każdym razem gdy zagrasz kartę z <b>Przeciążeniem</b>.","Common",3,"Minion","EX1_258",,4,,,2,"Shaman",True,"Matt Gaser","Zbiera datki na „Ruch Wyzwolenia Żywiołaków”.",,,,
+"Classic","Wzmocnienie",,"Zwiększone zdrowie.",,,"Enchantment","NEW1_025e",,,,,,,,,,,,,
+"Classic","Wzrost",,"Gruul rośnie...",,,"Enchantment","NEW1_038o",,,,,,,,,,,,,
+"Classic","Wzrost mocy",,"Manoholiczka ma zwiększony atak.",,,"Enchantment","EX1_055o",OneTurnEffect,,,,,,,,,,,,
+"Classic","Yarrr!",,"Kapitan daje +1/+1.",,,"Enchantment","NEW1_027e",,,,,,,,,,,,,
+"Classic","Ysera","Neutral","Na koniec twojej tury dobierz Kartę Snu.","Legendary",9,"Minion","EX1_572",,12,,,4,,True,"Gabor Szikszai","Ysera włada Szmaragdowym Snem. A ten wygląda zupełnie jak prawdziwy świat tyle że podpicowany na zielono.",True,"Dragon",,
+"Classic","Zabić Mełka!",,"W tej turze zaklęcia kosztują (0)!","Legendary",,"Enchantment","NEW1_029t",,,,,,,,,,,,,
+"Classic","Zabójca z Krukowiska","Alliance","<b>Ukrycie</b>","Rare",7,"Minion","CS2_161",Stealth,5,,,7,,True,"Ralph Horsley","Wyślij mu paczkę z nazwiskiem i 10 000 sztuk złota. On zajmie się resztą.",,,,
+"Classic","Zabójczy cios","Neutral","Zadaj $4 pkt. obrażeń. Jeśli masz 12 pkt. zdrowia lub mniej zamiast tego zadaj $6 pkt. obrażeń.","Rare",4,"Spell","EX1_408",,,,,,"Warrior",True,"Zoltan & Gabor","„Jeśli masz użyć tylko jednej umiejętności niech to będzie ‘zabójczy cios’”. - Kodeks Wojowników ustęp 6",,,,
+"Classic","Zabójczy strzał","Neutral","Zniszcz losowego wrogiego stronnika.","Common",3,"Spell","EX1_617",,,,,,"Hunter",True,"Steve Prescott","Pół-ogry mok’nathal nie słyną z precyzji. Ale nie stosują półśrodków gdy trzeba coś zabić.",,,,
+"Classic","Zakorzenienie","Neutral","+5 do zdrowia oraz <b>Prowokacja</b>.",,,"Spell","EX1_178a",,,,,,"Druid",,,,,,,
+"Classic","Zakorzenienie",,"+5 do zdrowia oraz <b>Prowokacja</b>.",,,"Enchantment","EX1_178ae",,,,,,"Druid",,,,,,,
+"Classic","Żałosny chochlik",,"<i>Skończyły ci się Demony! Ale przynajmniej zawsze masz chochliki...</i>","Common",1,"Minion","EX1_317t",,1,,,1,"Warlock",,,,,"Demon",,
+"Classic","Zamieć","Neutral","Zadaj $2 pkt. obrażeń wszystkim wrogim stronnikom i ich <b>Zamroź</b>.","Rare",6,"Spell","CS2_028",Freeze,,,,,"Mage",True,"Chris Seaman","Zamieć jak co roku zaskoczyła gierowców.",,,,
+"Classic","Zamrażająca pułapka","Neutral","<b>Sekret:</b> Gdy wrogi stronnik zaatakuje cofnij go na rękę właściciela i zwiększ jego koszt o (2).","Common",2,"Spell","EX1_611",Secret,,,,,"Hunter",True,"Matt Gaser","„Kurde bele ale zimnica”. - prawidłowa reakcja po rzuceniu zamrażającej pułapki.",,,,
+"Classic","Zbieracz łupów","Neutral","<b>Agonia:</b> Dobierz kartę.","Common",2,"Minion","EX1_096",Deathrattle,1,,,2,,True,"Jim Nelson","Lubi sobie coś przyjumać.",,,,
+"Classic","Zbir spółki Gitgeszeft","Horde","Twoi stronnicy kosztują (3) więcej.","Common",5,"Minion","CS2_227",Aura,6,"",,7,,True,"John Polidora","Właściciele goblińskiej spółki Gitgeszeft to tłuste szuje. I choć wszędzie węszą kasy pełne nadal coś im w bankach nie sztymuje.",,,,
+"Classic","Zbrojmistrzyni z Arathi","Neutral","<b>Okrzyk bojowy:</b> Wyposaż bohatera w broń 2/2.","Common",4,"Minion","EX1_398",Battlecry,3,,,3,"Warrior",True,"Samwise","50% zniżki na broń naręczną. Oferta ograniczona czasowo!",,,,
+"Classic","Zdrada","Neutral","Zmuś wrogiego stronnika do zadania obrażeń stronnikom obok siebie.","Common",2,"Spell","EX1_126",,,,,,"Rogue",True,"Lucas Graciano","Każdy ma swoją cenę. Na przykład gnomy można przekupić pluszowymi zwierzątkami i niewielką ilością czekolady.",,,,
+"Classic","Zemsta VanCleefa",,"Ten stronnik ma zwiększony atak oraz zdrowie.",,,"Enchantment","EX1_613e",,,,,,"Rogue",,,,,,,
+"Classic","Zgładziciel","Neutral","<b>Furia wichru. Przeciążenie:</b> (2)","Epic",5,"Weapon","EX1_567",Windfury,,,8,2,"Shaman",True,"John Polidora","Orgrim Zgładziciel dał ten legendarny oręż Thrallowi. Nazwa to zupełny przypadek.",,,,
+"Classic","Zimna krew",,"+4 do ataku.",,,"Enchantment","CS2_073e2",,,,,,"Rogue",,,,,,,
+"Classic","Zimna krew",,"+2 do ataku.",,,"Enchantment","CS2_073e",,,,,,"Rogue",,,,,,,
+"Classic","Zimna krew","Neutral","Daj stronnikowi +2 do ataku. <b>Kombinacja:</b> Zamiast tego daj +4 do ataku.","Common",1,"Spell","CS2_073",Combo,,,,,"Rogue",True,"Alex Horley Orlandelli","„Zachowuję zimną krew w każdej sytuacji!” - Królowa Krwi Lana'thel",,,,
+"Classic","Żmij many",,"Otrzymuje +1 do ataku za każdym razem gdy rzucisz zaklęcie.","Common",1,"Minion","NEW1_012",,3,"",,1,"Mage",True,"Blizzard Cinematics","Te żmije karmią się tajemnymi energiami i choć z reguły nie stanowią większego zagrożenia nie powinno się ich zostawiać w wiadrze pełnym many.",,,,
+"Classic","Zmyłka","Neutral","<b>Sekret:</b> Gdy jakaś postać zaatakuje twojego bohatera zamiast tego zaatakuje inną losową postać.","Rare",2,"Spell","EX1_533",Secret,,,,,"Hunter",True,"Daren Bader","Czasami wystarczy przykleić sztuczne wąsy i wskazać kogoś innego.",,,,
+"Classic","Znak natury","Neutral","+4 do zdrowia oraz <b>Prowokacja</b>.",,,"Spell","EX1_155b",,,,,,"Druid",,,,,,,
+"Classic","Znak natury","Neutral","+4 do ataku.",,,"Spell","EX1_155a",,,,,,"Druid",,,,,,,
+"Classic","Znak natury",,"Ten stronnik ma +4 do zdrowia oraz <b>Prowokację</b>.",,,"Enchantment","EX1_155be",,,,,,"Druid",,,,,,,
+"Classic","Znak natury",,"Ten stronnik ma +4 do ataku.",,,"Enchantment","EX1_155ae",,,,,,"Druid",,,,,,,
+"Classic","Znak natury","Neutral","<b>Wybierz jedno:</b> Daj stronnikowi +4 do ataku; lub daj +4 do zdrowia oraz <b>Prowokację</b>.","Common",3,"Spell","EX1_155",,,,,,"Druid",True,"Clint Langley","Druidzi nazywają to zaklęcie „znakiem natury”. Inni preferują nazwę „kąpiel potrzebna od zaraz”.",,,,
+"Classic","Żywiołak mrozu","Neutral","<b>Okrzyk bojowy:</b> <b>Zamroź</b> postać.","Common",6,"Minion","EX1_283",Battlecry|Freeze,5,,,5,,True,"Dan Scott","Wynik związku żywiołaka wody i żywiołaka lodu...",,,,
+"Classic","Żywiołak ziemi","Neutral","<b>Prowokacja</b>.
+<b>Przeciążenie:</b> (3)","Epic",5,"Minion","EX1_250",Taunt,8,,,7,"Shaman",True,"Dan Scott","Daj kamienia!",,,,
+"Curse of Naxxramas","Anub'Rekhan",,,,,"Hero","NAX1h_01",,45,,,,,,,,,,,
+"Curse of Naxxramas","Anub'Rekhan",,,,,"Hero","NAX1_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Baron Zerwikrusz",,"Twoi stronnicy aktywują swoją <b>Agonię</b> dwukrotnie.","Legendary",4,"Minion","FP1_031",Aura,7,,,1,,True,"Ralph Horsley","Kiedyś było pięcioro Jeźdźców ale jeden wypiął się na kumpli bo dostał lepszą fuchę na stanowisku przewodniczącego rady.",True,,"Aby odblokować ukończ Rewir Zbrojnych.","Można wykonać po ukończeniu Rewiru Zbrojnych."
+"Curse of Naxxramas","Baron Zerwikrusz",,,,,"Hero","NAX9_01",,7,,,,,,,,,,,
+"Curse of Naxxramas","Baron Zerwikrusz",,,,,"Hero","NAX9_01H",,14,,,,,,,,,,,
+"Curse of Naxxramas","Ciemność wzywa",,"Zwiększone statystyki.",,,"Enchantment","FP1_028e",,,,,,,,,,,,,
+"Curse of Naxxramas","Cień z Naxxramas",,"<b>Ukrycie.</b> Otrzymuje +1/+1 na początku twojej tury.","Epic",3,"Minion","FP1_005",Stealth,2,,,2,,True,"Ittoku Seta","Paradoksalnie wszystkie cienie boją się ciemności. W końcu nie mogą istnieć bez odrobiny światła.",,,"Aby odblokować pokonaj Kel'Thuzada w Leżu Żmija Mrozu.","Można wykonać po pokonaniu Kel'Thuzada w Leżu Żmija Mrozu."
+"Curse of Naxxramas","Czciciel",,"W twojej turze twój bohater ma +1 do ataku.",,3,"Minion","NAX2_05",Aura,4,,,1,,,,,,,,
+"Curse of Naxxramas","Czciciel",,"W twojej turze twój bohater ma +3 do ataku.",,3,"Minion","NAX2_05H",Aura,4,,,2,,,,,,,,
+"Curse of Naxxramas","Dodatkowe zęby",,"Zwiększony atak.",,,"Enchantment","NAX12_03e",,,,,,,,,,,,,
+"Curse of Naxxramas","Drzewiec",,,,1,"Minion","FP1_019t",,2,,,2,"Druid",,,,,,,
+"Curse of Naxxramas","Duplikacja",,"<b>Sekret:</b> Gdy zginie przyjazny stronnik umieść 2 kopie jego karty w twojej ręce.","Common",3,"Spell","FP1_018",Secret,,,,,"Mage",True,"Alex Garner","Zaklęcie zapewnia magom stałą liczbę uczniów gotowych do asystowania przy niebezpiecznych eksperymentach.",,,"Aby odblokować ukończ wyzwanie klasowe dla maga w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla maga w Naxxramas."
+"Curse of Naxxramas","Dziesiątkowanie",,"<b>Moc specjalna</b>
+Zmień zdrowie wrogich stronników na 1.",,0,"Hero Power","NAX12_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Dziesiątkowanie",,"Zdrowie zmienione na 1.",,,"Enchantment","NAX12_02e",,,,,,,,,,,,,
+"Curse of Naxxramas","Dziesiątkowanie",,"<b>Moc specjalna</b>
+Zmień zdrowie wszystkich stronników na 1.",,2,"Hero Power","NAX12_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Eksplozja zarodników",,"Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom. Przyzwij Zarodnik.",,1,"Spell","NAX6_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Erupcja",,"<b>Moc specjalna</b>
+Zadaj 2 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.",,1,"Hero Power","NAX5_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Erupcja",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.",,0,"Hero Power","NAX5_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Feugen",,,"Legendary",5,"Minion","NAX13_04H",,7,,,4,,,,,True,,,
+"Curse of Naxxramas","Feugen",,"<b>Agonia:</b> Jeśli podczas tej partii zginął także Stalag przyzwij Thadiusa.","Legendary",5,"Minion","FP1_015",Deathrattle,7,,,4,,True,"Dany Orizio","„Stalag - brzyyydal!” - Feugen",True,,"Aby odblokować ukończ Rewir Konstruktów.","Można wykonać po przejściu Rewiru Konstruktów."
+"Curse of Naxxramas","Glut",,,,,"Hero","NAX12_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Glut",,,,,"Hero","NAX12_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Gotyk Żniwiarz",,,,,"Hero","NAX8_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Gotyk Żniwiarz",,,,,"Hero","NAX8_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Grabarz",,"Otrzymuje +1 do ataku za każdym razem gdy przyzywasz stronnika z <b>Agonią</b>.","Common",1,"Minion","FP1_028",,2,,,1,,True,"Jonboy Meyers","Służba u Kel'Thuzada wymaga wielu wyrzeczeń. Grabarz przykładowo musiał rozstać się ze swoją ulubioną pidżamą.",,,"Aby odblokować pokonaj Łaciora w Rewirze Konstruktów.","Można wykonać po pokonaniu Łaciora w Rewirze Konstruktów."
+"Curse of Naxxramas","Grobulus",,,,,"Hero","NAX11_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Grobulus",,,,,"Hero","NAX11_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Hak",,"<b>Furia wichru</b>
+<b>Agonia:</b> Weź tę broń do ręki.",,3,"Weapon","NAX10_02H",Deathrattle|Windfury,,,8,4,,,,,,,,
+"Curse of Naxxramas","Hak",,"<b>Agonia:</b> Weź tę broń do ręki.",,3,"Weapon","NAX10_02",Deathrattle,,,8,5,,,,,,,,
+"Curse of Naxxramas","Heigan Nieczysty",,,,,"Hero","NAX5_01H",,45,,,,"Warlock",,,,,,,
+"Curse of Naxxramas","Heigan Nieczysty",,,,,"Hero","NAX5_01",,30,,,,"Warlock",,,,,,,
+"Curse of Naxxramas","Herold Pustki",,"<b>Agonia:</b> Umieść losowego Demona z ręki na polu bitwy.","Common",4,"Minion","FP1_022",Deathrattle,4,,,3,"Warlock",True,"Robb Shoberg","Wolałby być Heroldem Rozpustki ale nie miał wielkiego wyboru.",,"Demon","Aby odblokować ukończ wyzwanie klasowe dla czarnoksiężnika w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla czarnoksiężnika w Naxxramas."
+"Curse of Naxxramas","Instruktor Razuwiusz",,,,,"Hero","NAX7_01H",,55,,,,,,,,,,,
+"Curse of Naxxramas","Instruktor Razuwiusz",,,,,"Hero","NAX7_01",,40,,,,,,,,,,,
+"Curse of Naxxramas","Intruz!",,,,,"Enchantment","NAX15_01He",,,,,,,,,,,,,
+"Curse of Naxxramas","Intruz!",,,,,"Enchantment","NAX15_01e",,,,,,,,,,,,,
+"Curse of Naxxramas","Kamiennoskóry gargulec",,"Na początku twojej tury przywróć tego stronnika do pełni zdrowia.","Common",3,"Minion","FP1_027",,4,,,1,,True,"Matt Smith","Gargulce podobnie jak ożywione pomniki nienawidzą gołębi.",,,"Aby odblokować pokonaj Nicza Siewcę Zarazy w Rewirze Zarazy.","Można wykonać po pokonaniu Nicza Siewcy Zarazy w Rewirze Zarazy."
+"Curse of Naxxramas","Kel'Thuzad",,,,,"Hero","NAX15_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Kel'Thuzad",,"Na koniec każdej tury przyzwij wszystkich przyjaznych stronników którzy w niej zginęli.","Legendary",8,"Minion","FP1_013",,8,,,6,,True,"Chris Robinson","Kel'Thuzad nie mógł się oprzeć wezwaniu Króla Licza bo wiedział że może na dużo liczyć.",True,,"Aby odblokować pokonaj wszystkich bossów w Naxxramas!","Można wykonać po pokonaniu wszystkich bossów w Naxxramas!"
+"Curse of Naxxramas","Kel'Thuzad",,,,,"Hero","NAX15_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Kryształ kontroli umysłu",,"Uaktywnij kryształ aby kontrolować Uczniów!",,1,"Spell","NAX7_05",,,,,,,,,,,,,
+"Curse of Naxxramas","Łacior",,,,,"Hero","NAX10_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Łacior",,,,,"Hero","NAX10_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Lady Blaumeux",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_02H",,7,,,2,,,,,True,,,
+"Curse of Naxxramas","Lady Blaumeux",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_02",,7,,,1,,,,,True,,,
+"Curse of Naxxramas","Łańcuchy",,"<b>Moc specjalna</b>
+Przejmij kontrolę nad losowym wrogim stronnikiem.",,8,"Hero Power","NAX15_04H",,,,,,,,,,,,,
+"Curse of Naxxramas","Łańcuchy",,"<b>Moc specjalna</b>
+Do końca tury przejmij kontrolę nad losowym wrogim stronnikiem.",,8,"Hero Power","NAX15_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Lodowy pocisk",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.",,0,"Hero Power","NAX15_02H",Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Lodowy pocisk",,"<b>Moc specjalna</b>
+Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.",,0,"Hero Power","NAX15_02",Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Maexxna",,"Zniszcz każdego stronnika zranionego przez tego stronnika.","Legendary",6,"Minion","FP1_010",Poisonous,8,,,2,,True,"Howard Lyon","W wolnych chwilach uwielbia grać na skrzypcach doprowadzając Kel'Thuzada do szału.",True,"Beast","Aby odblokować ukończ Rewir Arachnidów.","Można wykonać po przejściu Rewiru Arachnidów."
+"Curse of Naxxramas","Maexxna",,,,,"Hero","NAX3_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Maexxna",,,,,"Hero","NAX3_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Moc cieni",,"Zwiększone statystyki.",,,"Enchantment","FP1_005e",,,,,,,,,,,,,
+"Curse of Naxxramas","Mózgotrzep",,"Każdy gracz dobiera po 2 karty i otrzymuje kryształ many.",,2,"Spell","NAX5_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Mroczny kultysta",,"<b>Agonia:</b> Daj losowemu przyjaznemu stronnikowi +3 do zdrowia.","Common",3,"Minion","FP1_023",Deathrattle,4,,,3,"Priest",True,"Phroilan Gardner","Kult Potępionych posiada własną kapelę której koncerty są niezwykle popularne - szczególnie wśród młodzieży akademickiej.",,,"Aby odblokować ukończ wyzwanie klasowe dla kapłana w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla kapłana w Naxxramas."
+"Curse of Naxxramas","Mrożące zionięcie",,"<b>Moc specjalna</b>
+Zniszcz wszystkich wrogich stronników którzy nie są <b>Zamrożeni</b>.",,0,"Hero Power","NAX14_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Mutujący zastrzyk",,"Daj stronnikowi +4/+4 oraz <b>Prowokację</b>.",,3,"Spell","NAX11_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Mutujący zastrzyk",,"+4/+4 oraz <b>Prowokacja</b>.",,,"Enchantment","NAX11_04e",,,,,,,,,,,,,
+"Curse of Naxxramas","Napastnik anub'arów",,"<b>Agonia:</b> Cofnij losowego przyjaznego stronnika na twoją rękę.","Common",4,"Minion","FP1_026",Deathrattle,5,,,5,"Rogue",True,"Nate Bowden","Zaczynał jako bramkarz ale trener poznał się na jego prawdziwym talencie.",,,"Aby odblokować ukończ wyzwanie klasowe dla łotra w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla łotra w Naxxramas."
+"Curse of Naxxramas","Nekrorycerz",,"<b>Agonia:</b> Zniszcz także sąsiadujących stronników.",,4,"Minion","NAXM_001",Deathrattle,6,,,5,,,,,,,,
+"Curse of Naxxramas","Nekrotyczna aura",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.",,2,"Hero Power","NAX6_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Nekrotyczna aura",,"W tej turze twoje zaklęcia kosztują (5) więcej.",,,"Enchantment","FP1_030e",,,,,,,,,,,,,
+"Curse of Naxxramas","Nekrotyczna aura",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.",,0,"Hero Power","NAX6_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Nekrotyczna trucizna",,"Zniszcz stronnika.",,2,"Spell","NAX3_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Nerubianin",,,"Rare",3,"Minion","FP1_007t",,4,,,4,,,,,,,,
+"Curse of Naxxramas","Nerubianin",,,,2,"Minion","NAX1_03",,1,,,3,,,,,,,,
+"Curse of Naxxramas","Nerubianin",,,,2,"Minion","NAX1h_03",,4,,,4,,,,,,,,
+"Curse of Naxxramas","Nerubiańskie jajo",,"<b>Agonia:</b> Przyzwij Nerubianina 4/4.","Rare",2,"Minion","FP1_007",Deathrattle,2,,,0,,True,"Justin Thavirat","Wielcy filozofowie Azeroth często zadają pytanie: co było pierwsze - jajo czy nerubianin?",,,"Aby odblokować pokonaj Maexxnę w Rewirze Arachnidów.","Można wykonać po pokonaniu Maexxny w Rewirze Arachnidów."
+"Curse of Naxxramas","Nicz Siewca Zarazy",,,,,"Hero","NAX4_01H",,45,,,,"Mage",,,,,,,
+"Curse of Naxxramas","Nicz Siewca Zarazy",,,,,"Hero","NAX4_01",,30,,,,"Mage",,,,,,,
+"Curse of Naxxramas","Nienawistny cios",,"<b>Moc specjalna</b>
+Zniszcz stronnika.",,4,"Hero Power","NAX10_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Nienawistny cios",,"<b>Moc specjalna</b>
+Zniszcz stronnika.",,4,"Hero Power","NAX10_03H",,,,,,,,,,,,,
+"Curse of Naxxramas","Niestabilny ghul",,"<b>Prowokacja</b>. <b>Agonia:</b> Zadaj 1 pkt. obrażeń wszystkim stronnikom.","Common",2,"Minion","FP1_024",Deathrattle|Taunt,3,,,1,,True,"Mike Nicholson","Wypełnianie ghuli paliwem rakietowym to najnowsza moda wśród młodocianych nekromantów.",,,"Aby odblokować pokonaj Heigana Nieczystego w Rewirze Zarazy.","Można wykonać po pokonaniu Heigana Nieczystego w Rewirze Zarazy."
+"Curse of Naxxramas","Nieustępliwy giermek",,"<b>Agonia:</b> Przyzwij Widmowego giermka dla przeciwnika.",,1,"Minion","NAX8_03",Deathrattle,2,,,2,,,,,,,,
+"Curse of Naxxramas","Nieustępliwy jeździec",,"<b>Agonia:</b> Przyzwij Widmowego jeźdźca dla przeciwnika.",,6,"Minion","NAX8_05",Deathrattle,6,,,5,,,,,,,,
+"Curse of Naxxramas","Nieustępliwy wojownik",,"<b>Agonia:</b> Przyzwij Widmowego wojownika dla przeciwnika.",,3,"Minion","NAX8_04",Deathrattle,4,,,3,,,,,,,,
+"Curse of Naxxramas","Niewolnik Kel'Thuzada",,"MOJE!",,,"Enchantment","NAX15_04a",,,,,,,,,,,,,
+"Curse of Naxxramas","Ognisty deszcz",,"<b>Moc specjalna</b>
+Wystrzel pocisk za każdą kartę w ręce przeciwnika.",,1,"Hero Power","NAX2_03H",ImmuneToSpellpower,,,,,,,,,,,,
+"Curse of Naxxramas","Ognisty deszcz",,"<b>Moc specjalna</b>
+Wystrzel pocisk za każdą kartę w ręce przeciwnika.",,2,"Hero Power","NAX2_03",ImmuneToSpellpower,,,,,,,,,,,,
+"Curse of Naxxramas","Ogromne Runiczne Ostrze",,"Zadaje podwójne obrażenia bohaterom.",,3,"Weapon","NAX7_04",,,,2,5,,,,,,,,
+"Curse of Naxxramas","Ogromne Runiczne Ostrze",,"Zadaje podwójne obrażenia bohaterom.",,3,"Weapon","NAX7_04H",,,,2,10,,,,,,,,
+"Curse of Naxxramas","Ohydziarz",,,,,"Hero","NAX6_01",,75,,,,,,,,,,,
+"Curse of Naxxramas","Ohydziarz",,"<b>Okrzyk bojowy:</b> W następnej turze zaklęcia przeciwnika kosztują (5) więcej.","Legendary",5,"Minion","FP1_030",Battlecry,5,,,5,,True,"Samwise","Ohydziarz był niegdyś zwykłym bagiennym stworem. Ale mu przeszło.",True,,"Aby odblokować ukończ Rewir Zarazy.","Można wykonać po ukończeniu Rewiru Zarazy."
+"Curse of Naxxramas","Ohydziarz",,,,,"Hero","NAX6_01H",,99,,,,,,,,,,,
+"Curse of Naxxramas","Ożywienie zmarłych",,"<b>Pasywna moc specjalna</b>
+Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 5/5.",,0,"Hero Power","NAX4_04H",,,,,,,,,,,,,
+"Curse of Naxxramas","Ożywienie zmarłych",,"<b>Pasywna moc specjalna</b>
+Za każdym razem gdy zginie wrogi stronnik przyzwij Szkielet 1/1.",,0,"Hero Power","NAX4_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Pajęczy zew",,"<b>Moc specjalna</b>
+Przyzwij Nerubianina 4/4.",,2,"Hero Power","NAX1h_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Pajęczy zew",,"<b>Moc specjalna</b>
+Przyzwij Nerubianina 3/1.",,2,"Hero Power","NAX1_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Pajęczyna",,"<b>Moc specjalna</b>
+Cofnij 2 losowych wrogich stronników na rękę przeciwnika.",,0,"Hero Power","NAX3_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Pajęczyna",,"<b>Moc specjalna</b>
+Cofnij losowego wrogiego stronnika na rękę przeciwnika.",,3,"Hero Power","NAX3_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Pan Sierściuch",,"<i>To kotek Kel'Thuzada.</i>","Legendary",0,"Minion","NAX15_05",,1,,,1,,,,,True,"Beast",,
+"Curse of Naxxramas","Pan Śmierci",,"<b>Prowokacja</b>. <b>Agonia:</b> Twój przeciwnik umieszcza losowego stronnika ze swojej talii na polu bitwy.","Rare",3,"Minion","FP1_009",Deathrattle|Taunt,8,,,2,,True,"Ben Olson","„Powstańcie z grobów! Tylko bez mikrobów!” - Kel'Thuzad",,,"Aby odblokować pokonaj Czterech Jeźdźców w Rewirze Zbrojnych.","Można wykonać po pokonaniu Czterech Jeźdźców w Rewirze Zbrojnych."
+"Curse of Naxxramas","Pomsta",,"+3/+2.",,,"Enchantment","FP1_020e",,,,,,"Paladin",,,,,,,
+"Curse of Naxxramas","Pomsta",,"<b>Sekret:</b> Gdy jeden z twoich stronników zginie daj losowemu przyjaznemu stronnikowi +3/+2.","Common",1,"Spell","FP1_020",Secret,,,,,"Paladin",True,"Zoltan & Gabor","Kilku paladynów zebrało się razem by założyć organizację „Prawość i Sprawiedliwość” ale zmienili zdanie pod wpływem nacisków politycznych.",,,"Aby odblokować ukończ wyzwanie klasowe dla paladyna w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla paladyna w Naxxramas."
+"Curse of Naxxramas","Popromienny śluz",,,,1,"Minion","NAX11_03",,2,,,2,,,,,,,,
+"Curse of Naxxramas","Potęga Ziguratu",,"+3 do zdrowia.",,,"Enchantment","FP1_023e",,,,,,"Priest",,,,,,,
+"Curse of Naxxramas","Powalające uderzenie",,"<b>Moc specjalna</b>
+Zadaj 4 pkt. obrażeń.",,1,"Hero Power","NAX7_03H",,,,,,,,,,,,,
+"Curse of Naxxramas","Powalające uderzenie",,"<b>Moc specjalna</b>
+Zadaj 3 pkt. obrażeń.",,2,"Hero Power","NAX7_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Przejmujące zimno",,"Zadaj $8 pkt. obrażeń wrogiemu bohaterowi i go <b>Zamroź</b>.",,5,"Spell","NAX14_04",Freeze,,,,,,,,,,,,
+"Curse of Naxxramas","Przeklęty cień",,"<b>Moc specjalna</b>
+Dobierz 2 karty.",,5,"Hero Power","NAX9_06",,,,,,,,,,,,,
+"Curse of Naxxramas","Przyrost grzybni",,"Zwiększony atak.",,,"Enchantment","NAX6_03te",,,,,,,,,,,,,
+"Curse of Naxxramas","Reinkarnacja",,"Zniszcz stronnika a następnie przywróć go do życia z pełnym zdrowiem.","Common",2,"Spell","FP1_025",,,,,,"Shaman",True,"Dan Scott","Wstajesz z grobu jak nowonarodzony... i nawet nie musisz czekać trzech dni!",,,"Aby odblokować ukończ wyzwanie klasowe dla szamana w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla szamana w Naxxramas."
+"Curse of Naxxramas","Replikujący szlam",,"<b>Okrzyk bojowy:</b> Przyzwij dokładną kopię tego stronnika na koniec tej tury.","Epic",2,"Minion","FP1_003",Battlecry,2,,,1,,True,"Eric Browning","Powód dla którego w Naxxramas wodę należy spuszczać zawsze dwa razy.",,,"Aby odblokować pokonaj Szafirona w Leżu Żmija Mrozu.","Można wykonać po pokonaniu Szafirona w Leżu Żmija Mrozu."
+"Curse of Naxxramas","Rój szarańczy",,"Zadaj $3 pkt. obrażeń wszystkim wrogim stronnikom. Przywróć #3 pkt. zdrowia twojemu bohaterowi.",,7,"Spell","NAX1_05",,,,,,,,,,,,,
+"Curse of Naxxramas","Rumak Śmierci",,"<b>Szarża. Agonia:</b> Zadaj 3 pkt. obrażeń twojemu bohaterowi.",,1,"Minion","FP1_006",Charge|Deathrattle,3,,,2,,,,,,,,
+"Curse of Naxxramas","Runiczne Ostrze",,"Ma +6 do ataku jeśli pozostali Jeźdźcy nie żyją.",,3,"Weapon","NAX9_05H",,,,3,2,,,,,,,,
+"Curse of Naxxramas","Runiczne Ostrze",,"Ma +3 do ataku jeśli pozostali Jeźdźcy nie żyją.",,3,"Weapon","NAX9_05",,,,3,1,,,,,,,,
+"Curse of Naxxramas","Sir Zelog",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_04H",,7,,,2,,,,,True,,,
+"Curse of Naxxramas","Sir Zelog",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_04",,7,,,1,,,,,True,,,
+"Curse of Naxxramas","Śluz",,"<b>Prowokacja</b>",,1,"Minion","FP1_012t",Taunt,2,,,1,,,,,,,,
+"Curse of Naxxramas","Śluzożer",,"<b>Prowokacja.
+Agonia:</b> Przyzwij Śluz 1/2 z <b>Prowokacją</b>.","Rare",5,"Minion","FP1_012",Deathrattle|Taunt,5,,,3,,True,"Nate Bowden","Po zjedzeniu śluzu czasem mu odbija.",,,"Aby odblokować pokonaj Ohydziarza w Rewirze Zarazy.","Można wykonać po pokonaniu Ohydziarza w Rewirze Zarazy."
+"Curse of Naxxramas","Śmiertelny rozkwit",,"Zadaj $5 pkt. obrażeń stronnikowi. Przyzwij Zarodnik.",,4,"Spell","NAX6_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Stalag",,"<b>Agonia:</b> Jeśli podczas tej partii zginął także Feugen przyzwij Thadiusa.","Legendary",5,"Minion","FP1_014",Deathrattle,4,,,7,,True,"Dany Orizio","„Feugen - brzyyydal!” - Stalag",True,,"Aby odblokować ukończ Rewir Konstruktów.","Można wykonać po przejściu Rewiru Konstruktów."
+"Curse of Naxxramas","Stalag",,,"Legendary",5,"Minion","NAX13_05H",,4,,,7,,,,,True,,,
+"Curse of Naxxramas","Strażnik Lodowej Korony",,"<b>Prowokacja</b>",,4,"Minion","NAX15_03t",Taunt,5,,,5,,,,,,,,
+"Curse of Naxxramas","Strażnik Lodowej Korony",,"<b>Prowokacja</b>",,4,"Minion","NAX15_03n",Taunt,3,,,3,,,,,,,,
+"Curse of Naxxramas","Superdoładowanie",,"+2 do zdrowia.",,,"Enchantment","NAX13_03e",,,,,,,,,,,,,
+"Curse of Naxxramas","Superdoładowanie",,"Daj swoim stronnikom +2 do zdrowia.",,2,"Spell","NAX13_03",,,,,,,,,,,,,
+"Curse of Naxxramas","Szafiron",,,,,"Hero","NAX14_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Szafiron",,,,,"Hero","NAX14_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Szał",,"Daj twojemu bohaterowi +6 do ataku w tej turze.",,3,"Spell","NAX12_04",,,,,,,,,,,,,
+"Curse of Naxxramas","Szał",,"+6 do ataku w tej turze.",,,"Enchantment","NAX12_04e",OneTurnEffect,,,,,,,,,,,,
+"Curse of Naxxramas","Szalony naukowiec",,"<b>Agonia:</b> Umieść losowy <b>Sekret</b> z twojej talii na polu bitwy.","Common",2,"Minion","FP1_004",Deathrattle,2,,,2,,True,"James Ryman","Zawsze chciał zostać magiem ale poszedł na studia po których dostał kiepsko płatną pracę przy szlamie.",,,"Aby odblokować pokonaj Grobulusa w Rewirze Konstruktów.","Można wykonać po pokonaniu Grobulusa w Rewirze Konstruktów."
+"Curse of Naxxramas","Szczęki",,"Otrzymuje +2 do ataku za każdym razem gdy zginie stronnik z <b>Agonią</b>.",,1,"Weapon","NAX12_03H",,,,5,3,,,,,,,,
+"Curse of Naxxramas","Szczęki",,"Otrzymuje +2 do ataku za każdym razem gdy zginie stronnik z <b>Agonią</b>.",,1,"Weapon","NAX12_03",,,,5,1,,,,,,,,
+"Curse of Naxxramas","Szkielet",,,,1,"Minion","NAX4_03",,1,,,1,,,,,,,,
+"Curse of Naxxramas","Szkielet",,,,5,"Minion","NAX4_03H",,5,,,5,,,,,,,,
+"Curse of Naxxramas","Szkieletowy kowal",,"<b>Agonia:</b> Zniszcz broń przeciwnika.",,3,"Minion","NAXM_002",Deathrattle,3,,,4,,,,,,,,
+"Curse of Naxxramas","Tan Korth'azz",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_03H",,7,,,2,,,,,True,,,
+"Curse of Naxxramas","Tan Korth'azz",,"Twój bohater posiada <b>Niewrażliwość</b>.",,3,"Minion","NAX9_03",,7,,,1,,,,,True,,,
+"Curse of Naxxramas","Tańczące miecze",,"<b>Agonia:</b> Twój przeciwnik dobiera kartę.","Common",3,"Minion","FP1_029",Deathrattle,4,,,4,,True,"Jon McConnell","Nie istnieją tańczące miecze. Istnieją natomiast niewidzialni szermierze.",,,"Aby odblokować pokonaj Instruktora Razuwiusza w Rewirze Zbrojnych.","Można wykonać po pokonaniu Instruktora Razuwiusza w Rewirze Zbrojnych."
+"Curse of Naxxramas","Thadius",,,"Legendary",10,"Minion","FP1_014t",,11,,,11,,,,,True,,,
+"Curse of Naxxramas","Thadius",,,,,"Hero","NAX13_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Thadius",,,,,"Hero","NAX13_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Tkacz sieci",,"<b>Agonia:</b> Dodaj losową kartę Bestii do twojej ręki.","Common",1,"Minion","FP1_011",Deathrattle,1,,,1,"Hunter",True,"Dan Brereton","Pajęcze kokony są jak jajka niespodzianki!",,"Beast","Aby odblokować ukończ wyzwanie klasowe dla łowcy w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla łowcy w Naxxramas."
+"Curse of Naxxramas","Trujący obłok",,"<b>Moc specjalna</b>
+Zadaj 1 pkt. obrażeń wszystkim stronnikom. Jeśli któryś zginie przyzwij śluz.",,2,"Hero Power","NAX11_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Trujący obłok",,"<b>Moc specjalna</b>
+Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie przyzwij śluz.",,0,"Hero Power","NAX11_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Uczeń",,"<b>Prowokacja</b>",,2,"Minion","NAX7_02",Taunt,7,,,0,,,,,,,,
+"Curse of Naxxramas","Ukąszenie Śmierci",,"<b>Agonia:</b> Zadaj 1 pkt. obrażeń wszystkim stronnikom.","Common",4,"Weapon","FP1_021",Deathrattle,,,2,4,"Warrior",True,"Jim Nelson","Do standardowego wyposażenia rycerzy śmierci należą między innymi: rumak śmierci pancerz śmierci plecak śmierci i mydło śmierci.",,,"Aby odblokować ukończ wyzwanie klasowe dla wojownika w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla wojownika w Naxxramas."
+"Curse of Naxxramas","Upiorny pajęczak",,"<b>Agonia:</b> Przyzwij dwa Widmowe pająki 1/1.","Common",2,"Minion","FP1_002",Deathrattle,2,,,1,,True,"Jeremy Cranford","Potrawka z pajęczaka może zawierać znaczące ilości składników arachnidowych.",,"Beast","Aby odblokować pokonaj Anub'Rekhana w Rewirze Arachnidów.","Można wykonać po pokonaniu Anub'Rekhana w Rewirze Arachnidów."
+"Curse of Naxxramas","Widmowy giermek",,"Na początku twojej tury zadaj 1 pkt. obrażeń twojemu bohaterowi.",,1,"Minion","NAX8_03t",,2,,,0,,,,,,,,
+"Curse of Naxxramas","Widmowy jeździec",,"Na początku twojej tury zadaj 1 pkt. obrażeń twojemu bohaterowi.",,5,"Minion","NAX8_05t",,6,,,0,,,,,,,,
+"Curse of Naxxramas","Widmowy pająk",,,,1,"Minion","FP1_002t",,1,,,1,,,,,,,,
+"Curse of Naxxramas","Widmowy rycerz",,"Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.","Common",5,"Minion","FP1_008",,6,,,4,,True,"Chris Rahn","Co wspólnego mają baśniowe smoki i widmowi rycerze? Trudno w nich wycelować!",,,"Aby odblokować pokonaj Gotyka Żniwiarza w Rewirze Zbrojnych.","Można wykonać po pokonaniu Gotyka Żniwiarza w Rewirze Zbrojnych."
+"Curse of Naxxramas","Widmowy wojownik",,"Na początku twojej tury zadaj 1 pkt. obrażeń twojemu bohaterowi.",,3,"Minion","NAX8_04t",,4,,,0,,,,,,,,
+"Curse of Naxxramas","Wielka Wdowa Ferlina",,,,,"Hero","NAX2_01",,30,,,,,,,,,,,
+"Curse of Naxxramas","Wielka Wdowa Ferlina",,,,,"Hero","NAX2_01H",,45,,,,,,,,,,,
+"Curse of Naxxramas","Władca nerub'arów",,"Stronnicy z <b>Okrzykiem bojowym</b> kosztują (2) więcej.","Common",2,"Minion","FP1_017",Aura,4,,,1,,True,"Alex Horley Orlandelli","Nerub'arowie to nieumarli nerubianie którzy zostali siłą wcieleni do armii Króla Licza.",,,"Aby odblokować pokonaj Wielką Wdowę Ferlinę w Rewirze Arachnidów.","Można wykonać po pokonaniu Wielkiej Wdowy Ferliny w Rewirze Arachnidów."
+"Curse of Naxxramas","Zamrożony czempion",,"Wiecznie zamrożony. Sąsiedni stronnicy posiadają Niewrażliwość na „Mrożące zionięcie”.",,5,"Minion","NAX14_03",Aura,10,,,2,,,,,,,,
+"Curse of Naxxramas","Zaraza",,"Zniszcz wszystkich stronników nie będących szkieletami.",,6,"Spell","NAX4_05",,,,,,,,,,,,,
+"Curse of Naxxramas","Zarodnik",,"<b>Agonia:</b> Daj wszystkim wrogim stronnikom +8 do ataku.",,0,"Minion","NAX6_03t",Deathrattle,1,,,0,,,,,,,,
+"Curse of Naxxramas","Zatrute nasiona",,"Zniszcz wszystkich stronników i przyzwij na ich miejsce Drzewce 2/2.","Common",4,"Spell","FP1_019",,,,,,"Druid",True,"Brian Despain","Druidzkie bułeczki z nasionami sprzedawały się świetnie nawet gdy w pobliżu sklepików zaczęły powstawać tartaki goblińskiej spółki Gitgeszeft.",,,"Aby odblokować ukończ wyzwanie klasowe dla druida w Naxxramas.","Można wykonać po ukończeniu wyzwania klasowego dla druida w Naxxramas."
+"Curse of Naxxramas","Zawodząca dusza",,"<b>Okrzyk bojowy: Wycisz</b> swoich pozostałych stronników.","Rare",4,"Minion","FP1_016",Battlecry,5,,,3,,True,"Glenn Rane","Ta dusza poczuła tak wielki zawód że jej zawodem stało się zawodzenie.",,,"Aby odblokować pokonaj Thadiusa w Rewirze Konstruktów.","Można wykonać po pokonaniu Thadiusa w Rewirze Konstruktów."
+"Curse of Naxxramas","Zmiana biegunów",,"<b>Moc specjalna</b>
+Zamień atak i zdrowie wszystkich stronników.",,0,"Hero Power","NAX13_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Zmiana biegunów",,"Zamieniony atak i zdrowie.",,,"Enchantment","NAX13_02e",,,,,,,,,,,,,
+"Curse of Naxxramas","Znak Jeźdźców",,"Daj twoim stronnikom oraz twojej broni +1/+1.",,5,"Spell","NAX9_07",,,,,,,,,,,,,
+"Curse of Naxxramas","Znak Jeźdźców",,"+1/+1.",,,"Enchantment","NAX9_07e",,,,,,,,,,,,,
+"Curse of Naxxramas","Żniwa",,"<b>Moc specjalna</b>
+Dobierz kartę. Otrzymujesz kryształ many.",,1,"Hero Power","NAX8_02H",,,,,,,,,,,,,
+"Curse of Naxxramas","Żniwa",,"<b>Moc specjalna</b>
+Dobierz kartę.",,2,"Hero Power","NAX8_02",,,,,,,,,,,,,
+"Curse of Naxxramas","Zombiak",,"<b>Agonia:</b> Przywróć 5 pkt. zdrowia wrogiemu bohaterowi.","Common",1,"Minion","FP1_001",Deathrattle,3,,,2,,True,"E. M. Gist","Glut uwielbia wrzucić sobie zombiaka na ząb. Najbardziej lubi żuć zombie z człowieka gumy.",,,"Aby odblokować pokonaj Gluta w Rewirze Konstruktów.","Można wykonać po pokonaniu Gluta w Rewirze Konstruktów."
+"System","","Neutral","","Epic",9,"Minion","PlaceholderCard",,8,,,6,"Mage",,,,,,,
+"Credits","Andy Brock",,"Nie można go <b>Wyciszyć. Boska tarcza Ukrycie.</b>","Legendary",1,"Minion","CRED_15",,3,,,1,,,,,True,,,
+"Credits","Ben Brode",,"Twoja głośność nie może być zmniejszona poniżej maksimum.","Legendary",3,"Minion","CRED_08",,1,,,4,,,,,True,,,
+"Credits","Ben Thompson",,"<b>Okrzyk bojowy:</b> Zmaluj coś!","Legendary",6,"Minion","CRED_09",,7,,,4,,,,,True,,,
+"Credits","Bob Fitch",,"<b>Super prowokacja:</b>
+<i>(KAŻDA postać musi zaatakować tego stronnika.)</i>","Legendary",3,"Minion","CRED_03",,4,,,2,,,,,True,,,
+"Credits","Brian Schwab",,"Na koniec twojej tury daj losowemu stronnikowi +1 do ataku.","Legendary",10,"Minion","CRED_13",,10,,,10,,,,,True,,,
+"Credits","Derek Sakamoto",,"<i>Niesławny tupacz.</i>","Legendary",1,"Minion","CRED_06",,1,,,3,,,,,True,,,
+"Credits","Eric Dodds",,"<b>Okrzyk bojowy:</b> Przyzwij Pirata 2/2 i zniszcz wszystkich Nindżów.","Legendary",6,"Minion","CRED_02",,5,,,5,,,,,True,,,
+"Credits","Hamilton Chu",,"<i>NIE BYŁ częścią problemu! ...Przez większość czasu.</i>","Legendary",7,"Minion","CRED_16",,5,,,9,,,,,True,,,
+"Credits","Jason Chayes",,"<b>Szał:</b> Taki żarcik! Jason nigdy nie wpada w szał.","Legendary",6,"Minion","CRED_01",,6,,,7,,,,,True,,,
+"Credits","Jay Baxter",,"<b>Okrzyk bojowy:</b> Przyzwij PIĘĆ losowych wynalazków.","Legendary",4,"Minion","CRED_11",,4,,,1,,,,,True,,,
+"Credits","Kyle Harrison",,"<i>3 za 5/4? To dobry interes!</i>","Legendary",3,"Minion","CRED_05",,4,,,5,,,,,True,,,
+"Credits","Michael Schweitzer",,"<b>KO-KO-KO-KOMBO:</b> Zniszcz stronnika.","Legendary",2,"Minion","CRED_10",,2,,,2,,,,,True,,,
+"Credits","Rachelle Davis",,"<b>Okrzyk bojowy:</b> Dobierz DWIE karty. <i>Nie jest już młodszą inżynier.</i>","Legendary",2,"Minion","CRED_12",,2,,,1,,,,,True,,,
+"Credits","Rob Pardo",,"Nie możesz rozpocząć gry bez tego stronnika w talii.","Legendary",9,"Minion","CRED_17",,9,,,9,,,,,True,,,
+"Credits","Steven Gabriel",,"<b>Okrzyk bojowy:</b> Przyzwij pienisty trunek.","Legendary",1,"Minion","CRED_04",,3,,,3,,,,,True,,,
+"Credits","Yong Woo",,"Twoi pozostali stronnicy otrzymują +3 do ataku oraz <b>Szarżę</b>.","Legendary",5,"Minion","CRED_14",,2,,,3,,,,,True,,,
+"Credits","Zwick",,"<b>Okrzyk bojowy:</b> Narzekaj na ceny bekonu.","Legendary",2,"Minion","CRED_07",,2,,,2,,,,,True,,,
+"Basic","Anduin Wrynn","Neutral",,"Free",,"Hero","HERO_09",,30,,,,"Priest",True,,,,,,
+"Basic","Arcymag","Alliance","<b>Obrażenia zaklęć +1</b>","Common",6,"Minion","CS2_155",Spellpower,7,,,4,,True,"Steve Ellis","Arcymagowie mają w Dalaranie specjalną salę. Nikt nie wie co się tam dzieje ale na pewno nie imprezują mimo że zawsze wynosi się stamtąd mnóstwo butelek.",,,,"Odblokowane na 57 poziomie maga."
+"Basic","Arkanitowy Rozpruwacz","Neutral",,"Common",5,"Weapon","CS2_112",,,,2,5,"Warrior",True,"Stefan Kopinski","Rozpruwaj waść... wstydu oszczędź.",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 51."
+"Basic","Awatar monety",,"<i>Straciłeś monetę ale zyskałeś przyjaciela.</i>","Free",0,"Minion","GAME_002",,1,,,1,,,,,,,,
+"Basic","Bagienny raptor","Horde",,"Free",2,"Minion","CS2_172",,2,,,3,,True,"Dan Brereton","Ten gatunek raptorów żyje na Krwawych Bagnach. Hemet Nesingwary radzi aby zabijać je po 30 sztuk.",,"Beast",,"Odblokowane na 57 poziomie łowcy."
+"Basic","Berserker z Gurubaszi","Neutral","Otrzymuje +3 do ataku za każdym razem gdy zostanie zraniony.","Common",5,"Minion","EX1_399",,7,,,2,,True,"Alex Horley Orlandelli","Tak naprawdę to lubi gdy go boli.",,,,"Odblokowane na 57 poziomie czarnoksiężnika."
+"Basic","Blok tarczą","Neutral","Otrzymujesz 5 pkt. pancerza.
+Dobierz kartę.","Common",3,"Spell","EX1_606",,,,,,"Warrior",True,"Michael Komarck","Tarcze wynaleziono bo blok twarzą okazał się bezużyteczny.",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 28."
+"Basic","Bojowy szał",,"Ten stronnik ma zwiększony atak.",,,"Enchantment","EX1_399e",,,,,,,,,,,,,
+"Basic","Boski duch",,"Podwajasz zdrowie stronnika.","Common",2,"Spell","CS2_236",,,,,,"Priest",True,"Jim Pavelec","Takiego potrojenia jak to podwojenie nie ma ani jednego.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 28."
+"Basic","Boski duch",,"Ten stronnik ma podwojone zdrowie.",,,"Enchantment","CS2_236e",,,,,,"Priest",,,,,,,
+"Basic","Cios w plecy","Neutral","Zadaj $2 pkt. obrażeń niezranionemu stronnikowi.","Free",0,"Spell","CS2_072",,,,,,"Rogue",True,"Michael Sutfin","To zabawne jak często tekst „Patrz trzygłowa małpa” sprawia że przeciwnik się odwraca.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Czempion Wichrogrodu","Alliance","Twoi pozostali stronnicy otrzymują +1/+1.","Common",7,"Minion","CS2_222",Aura,6,"",,6,,True,"Doug Alexander","Kiedy Śmiercioskrzydły zaatakował stolicę ten żołnierz był jedynym członkiem oddziału który został przy życiu. I nawet osiągnięcia nie dostał!",,,,"Odblokowane na 59 poziomie paladyna."
+"Basic","Dar kapłanki",,"+1/+1",,,"Enchantment","EX1_019e",,,,,,"Priest",,,,,,,
+"Basic","Dar królów",,"+4/+4.",,,"Enchantment","CS2_092e",,,,,,"Paladin",,,,,,,
+"Basic","Dar królów","Neutral","Daj stronnikowi +4/+4 <i>(+4 do ataku/+4 do zdrowia)</i>.","Common",4,"Spell","CS2_092",,,,,,"Paladin",True,"Lucas Graciano","Biorąc pod uwagę liczbę królów którzy zostali skrytobójczo zabici czy na pewno pragniesz ich daru?",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Dar mocy","Neutral","+3 do ataku.",,,"Enchantment","CS2_087e",,,,,,"Paladin",,,,,,,
+"Basic","Dar mocy","Neutral","Daj stronnikowi +3 do ataku.","Free",1,"Spell","CS2_087",,,,,,"Paladin",True,"Zoltan Boros","Inspiracja dla słynnego przeboju: „Daj mi tę moc tę jedną moc!”",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 45."
+"Basic","Dowódca rajdu",,"Twoi pozostali stronnicy otrzymują +1 do ataku.","Free",3,"Minion","CS2_122",Aura,2,"",,2,,True,"Phill Gonzales","Zadaniem dowódcy rajdu jest zaplanować taktykę na wroga wspierać swoją drużynę w czasie walki i nie załamywać się kiedy po raz kolejny wszystko pójdzie w diabły.",,,,"Odblokowane na 57 poziomie wojownika."
+"Basic","Dowódca Wojennej Pieśni","Neutral","Za każdym razem gdy przyzywasz stronnika z atakiem 3 lub mniejszym daj mu <b>Szarżę</b>.","Free",3,"Minion","EX1_084",,3,,,2,"Warrior",True,"Wei Wang","Są dumni z nazwy swojego klanu - choć zdaniem elfów tą pieśnią jest „Nic się nie stało orki nic się nie stało...”",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Dzik","Neutral",,"Common",1,"Minion","CS2_boar",,1,,,1,,,,,,"Beast",,
+"Basic","Dzik szabloskalny","Neutral","<b>Szarża</b>","Free",1,"Minion","CS2_171",Charge,1,,,1,,True,"Howard Lyon","Ta karta jest dzika.",,"Beast",,"Odblokowane na 53 poziomie łowcy."
+"Basic","Dziki ryk","Neutral","Daj swoim postaciom +2 do ataku w tej turze.","Common",3,"Spell","CS2_011",,,,,,"Druid",True,"Grace Liu","Któż zaryczał czego chciał?",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 43."
+"Basic","Dziki ryk",,"+2 do ataku w tej turze.",,,"Enchantment","CS2_011o",OneTurnEffect,,,,,"Druid",,,,,,,
+"Basic","Egzekucja","Neutral","Zniszcz wrogiego stronnika który jest ranny.","Free",1,"Spell","CS2_108",,,,,,"Warrior",True,"Dany Orizio","Spokojnie zasłużył na to.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Elfia łuczniczka","Horde","<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń.","Common",1,"Minion","CS2_189",Battlecry,1,,,1,,True,"Steve Prescott","Lepiej nie zapraszaj jej na randkę. Bo jak cię strzeli...",,,,"Odblokowane na 57 poziomie druida."
+"Basic","Elita Kor'kronu",,"<b>Szarża</b>","Common",4,"Minion","NEW1_011",Charge,3,,,4,"Warrior",True,"Alex Horley Orlandelli","Kor'kron to doborowa jednostka Garosza Piekłorycza. Powiedzmy że nie chcesz znaleźć się z nimi w jednym pomieszczeniu.",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 44."
+"Basic","Eteryczny totem","Neutral","<b>Obrażenia zaklęć +1</b>","Free",1,"Minion","CS2_052",Spellpower,2,,,0,"Shaman",,,,,"Totem",,
+"Basic","Fala płomieni","Neutral","Zadaj $4 pkt. obrażeń wszystkim wrogim stronnikom.","Common",7,"Spell","CS2_032",,,,,,"Mage",True,"Romain De Santi","Kiedy wszystko wokół płonie zacznij klaskać raźno w dłonie!",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 51."
+"Basic","Furia wichru","Neutral","Daj stronnikowi <b>Furię wichru</b>.","Free",2,"Spell","CS2_039",,,,,,"Shaman",True,"Justin Sweet","Furia wichru świetnie nadaje się także do zamiatania ulic.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Garosz Piekłorycz","Neutral",,"Free",,"Hero","HERO_01",,30,,,,"Warrior",True,,,,,,
+"Basic","Gnomka wynalazca","Alliance","<b>Okrzyk bojowy:</b> Dobierz kartę.","Common",4,"Minion","CS2_147",Battlecry,4,,,2,,True,"Court Jones","Nigdy nie jest pewna co właściwie wymyśla. Ale wie jedno - będzie ODJAZDOWE!",,,,"Odblokowane na 57 poziomie kapłana."
+"Basic","Gobliński ochroniarz","Horde","<b>Prowokacja</b>","Common",5,"Minion","CS2_187",Taunt,4,,,5,,True,"Matt Cavotta","Możesz go wynająć... aż ktoś zapłaci mu dość złota by wbił ci nóż w plecy.",,,,"Odblokowane na 55 poziomie szamana."
+"Basic","Gorejący totem","Neutral",,"Free",1,"Minion","CS2_050",,1,,,1,"Shaman",,,,,"Totem",,
+"Basic","Gorliwa kapłanka",,"Za każdym razem gdy stronnik zostanie uleczony dobierz kartę.","Free",1,"Minion","CS2_235",HealTarget,3,,,1,"Priest",True,"Terese Nielsen","Pomaga cierpiącym i potrzebującym. No i jeszcze sprzedaje ciasteczka.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 40."
+"Basic","Grizli żelaznoskóry","Neutral","<b>Prowokacja</b>","Common",3,"Minion","CS2_125",Taunt,3,,,3,,True,"Lars Grant-West","„O grizli?” „Nie strielali”.",,"Beast",,"Odblokowane na 59 poziomie łowcy."
+"Basic","Gul'dan","Neutral",,"Free",,"Hero","HERO_07",,30,,,,"Warlock",True,,,,,,
+"Basic","Gwałtowny wzrost","Neutral","Otrzymujesz pusty kryształ many.","Free",2,"Spell","CS2_013",,,,,,"Druid",True,"James Ryman","Wyhoduj własne kryształy many za pomocą naszego zestawu! Tylko 10 sztuk złota plus podatek od many!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Gwiezdny ogień","Neutral","Zadaj $5 pkt. obrażeń
+Dobierz kartę.","Common",6,"Spell","EX1_173",,,,,,"Druid",True,"Alex Horley Orlandelli","Równowaga jest bardzo ważna dla druidów. Ta karta jest idealnie zrównoważona.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 45."
+"Basic","Heroiczny cios",,"+4 do ataku w tej turze.",,,"Enchantment","CS2_105e",OneTurnEffect,,,,,"Warrior",,,,,,,
+"Basic","Heroiczny cios","Neutral","Daj twojemu bohaterowi +4 do ataku w tej turze.","Free",2,"Spell","CS2_105",,,,,,"Warrior",True,"Jonboy Meyers","Tak naprawdę to w przypadku bohatera <i>każdy</i> cios jest heroiczny.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Jaina Proudmoore","Neutral",,"Free",,"Hero","HERO_08",,30,,,,"Mage",True,,,,,,
+"Basic","Jątrzący nóż","Neutral",,"Free",1,"Weapon","CS2_082",,,,2,1,"Rogue",,,,,,,
+"Basic","Kapłanka Straceńczego Słońca","Neutral","<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi +1/+1.","Common",3,"Minion","EX1_019",Battlecry,2,,,3,,True,"Doug Alexander","Zawsze ma pod ręką napój energetyczny „Słoneczna Studnia™”!",,,,"Odblokowane na 53 poziomie kapłana."
+"Basic","Kobold geomanta","Horde","<b>Obrażenia zaklęć +1</b>","Common",2,"Minion","CS2_142",Spellpower,2,,,2,,True,"Gabor Szikszai","Dawno dawno temu koboldy były najlepszymi wytwórcami świec na świecie. A później im odbiło...",,,,"Odblokowane na 59 poziomie czarnoksiężnika."
+"Basic","Komandos Gromdardy","Alliance","<b>Okrzyk bojowy:</b> Zadaj 2 pkt. obrażeń.","Common",5,"Minion","CS2_150",Battlecry,2,,,4,,True,"Kev Walker","Komandosi Gromdardy to eksperci od materiałów wybuchowych. Wypiekają także przepyszne babeczki.",,,,"Odblokowane na 51 poziomie paladyna."
+"Basic","Konsekracja","Neutral","Zadaj $2 pkt. obrażeń wszystkim wrogom.","Common",4,"Spell","CS2_093",,,,,,"Paladin",True,"Vance Kovacs","Konsekrowana ziemia jaśnieje świętą energią. Podczas rytuału nie wdychaj za dużo kadzidła.",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 43."
+"Basic","Kontrola umysłu","Neutral","Przejmij kontrolę nad wrogim stronnikiem.","Common",10,"Spell","CS1_113",,,,,,"Priest",True,"Sean O’Daniels","Nominacja w kategorii „Zaklęcie najłatwiej doprowadzające przeciwnika do furii”.",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Kontrola umysłu","Neutral","Kontrola nad tym stronnikiem została zamieniona.","Common",,"Enchantment","CS1_113e",,,,,,"Priest",,,,,,,
+"Basic","Kosior","Neutral","Zadaj $1 pkt. obrażeń. Dobierz kartę.","Common",2,"Spell","EX1_278",,,,,,"Rogue",True,"Alex Garner","Zadaje więcej obrażeń wraz z okrzykiem bojowym „Kosi kosi łapci!”",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 45."
+"Basic","Kruszyskalny oręż",,"Ta postać ma +3 do ataku podczas tej tury.",,,"Enchantment","CS2_045e",OneTurnEffect,,,,,"Shaman",,,,,,,
+"Basic","Kruszyskalny oręż","Neutral","Daj przyjaznej postaci +3 do ataku w tej turze.","Free",1,"Spell","CS2_045",,,,,,"Shaman",True,"Alex Horley Orlandelli","Dobrze sprawdza się jeśli przeciwnik jest z kamienia.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Księżycowy ogień","Neutral","Zadaj $1 pkt. obrażeń.","Common",0,"Spell","CS2_008",,,,,,"Druid",True,"Richard Wright","„Co ja mam co ja mam - księżycowy ogień”. - Piosenki małego druida księga V",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 40."
+"Basic","Kula ognia","Neutral","Zadaj $6 pkt. obrażeń.","Free",4,"Spell","CS2_029",,,,,,"Mage",True,"Ralph Horsley","Na widok takiej kuli większość ludzi też się kuli. Ze strachu.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 44."
+"Basic","Leok",,"Pozostali przyjaźni stronnicy otrzymują +1 do ataku.","Common",3,"Minion","NEW1_033",,4,,,2,"Hunter",,,,,"Beast",,
+"Basic","Leśny wilk","Neutral","Twoje pozostałe Bestie otrzymują +1 do ataku.","Free",1,"Minion","DS1_175",Aura,1,,,1,"Hunter",True,"Malcolm Davis","Leśne wilki mają spore powodzenie wśród innych bestii.",,"Beast","Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Łowczyni z Brzytwoskórych","Horde","<b>Okrzyk bojowy:</b> Przyzwij Dzika 1/1.","Common",3,"Minion","CS2_196",Battlecry,3,,,2,,True,"Clint Langley","Ktoś raz zadarł z Kłoryjem. Ino RAZ.",,,,"Odblokowane na 55 poziomie łowcy."
+"Basic","Lustrzane odbicie","Neutral","Przyzwij dwóch stronników 0/2 z <b>Prowokacją</b>.","Common",1,"Spell","CS2_027",,,,,,"Mage",True,"Jim Nelson","Hej to Lustrzane odbicie! !eicibdo enazrtsuL ot jeH",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 36."
+"Basic","Lustrzane odbicie","Neutral","<b>Prowokacja</b>","Common",0,"Minion","CS2_mirror",Taunt,2,,,0,"Mage",,,,,,,
+"Basic","Mag z Dalaranu","Neutral","<b>Obrażenia zaklęć +1</b>","Common",3,"Minion","EX1_582",Spellpower,4,,,1,,True,"Jim Nelson","Wojowników z Dalaranu jakoś się nie widuje.",,,,"Odblokowane na 59 poziomie maga."
+"Basic","Malfurion Burzogniewny","Neutral",,"Free",,"Hero","HERO_06",,30,,,,"Druid",True,,,,,,
+"Basic","Mechaniczny smokor","Neutral",,"Common",1,"Minion","EX1_025t",,1,,,2,,,,,,"Mech",,
+"Basic","Misza",,"<b>Prowokacja</b>","Common",3,"Minion","NEW1_032",Taunt,4,,,4,"Hunter",,,,,"Beast",,
+"Basic","Mlarggragllabl!",,"Ten Murlok ma +1 do ataku.",,,"Enchantment","EX1_508o",,,,,,,,,,,,,
+"Basic","Młodsza inżynier","Alliance","<b>Okrzyk bojowy:</b> Dobierz kartę.","Free",2,"Minion","EX1_015",Battlecry,1,,,1,,True,"Karl Richardson","„Połowa klasy nie otrzyma promocji... ponieważ zostaną zamienieni w kurczaki”. - Złote myśli dla nauczycieli autorstwa Nadiskrownika Opiłka.",,,,"Odblokowane na 59 poziomie druida."
+"Basic","Młot Gniewu","Neutral","Zadaj $3 pkt. obrażeń
+Dobierz kartę.","Free",4,"Spell","CS2_094",,,,,,"Paladin",True,"Efrem Palacios","Dobry paladyn ma wiele narzędzi. Młot Gniewu. Szczypce Zemsty. Piła Sprawiedliwości i tym podobne.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 32."
+"Basic","Młyniec","Neutral","Zadaj $1 pkt. obrażeń WSZYSTKIM stronnikom.","Common",1,"Spell","EX1_400",,,,,,"Warrior",True,"Jonboy Meyers","Sposób na rozróżnienie doświadczonych wojowników od żółtodziobów: ci drudzy wołają „fruuuu” rozpoczynając młyniec.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 32."
+"Basic","Moc krwi","Neutral","<b>Moc specjalna</b>
+Dobierz kartę i otrzymaj 2 pkt. obrażeń.","Free",2,"Hero Power","CS2_056",,,,,,"Warlock",,,,,,,
+"Basic","Moneta",,"Otrzymujesz 1 kryształ many w tej turze.",,,"Spell","GAME_005",,,,,,,,,,,,,
+"Basic","Moneta",,,,,"Enchantment","GAME_005e",,,,,,,,,,,,,
+"Basic","Monterka smokorów","Alliance","<b>Okrzyk bojowy:</b> Przyzwij Mechanicznego smokora 2/1.","Common",4,"Minion","EX1_025",Battlecry,4,,,2,,True,"Warren Mahy","Cały czas pracuje nad przystawką z wyrzutnią rakiet dla Pana Kąsacza.",,,,"Odblokowane na 53 poziomie maga."
+"Basic","Mówca wiatru","Neutral","<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi <b>Furię wichru</b>.","Common",4,"Minion","EX1_587",Battlecry,3,,,3,"Shaman",True,"Vance Kovacs","Czy jest coś gorszego niż mówca puszczający wiatry?",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 45."
+"Basic","Mroźne porażenie","Neutral","Zadaj $1 pkt. obrażeń wrogiej postaci i ją <b>Zamroź</b>.","Free",1,"Spell","CS2_037",Freeze,,,,,"Shaman",True,"Alex Horley Orlandelli","Idzie mróz idzie mróz niesie śniegu cały wóz!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 32."
+"Basic","Murlok brzegowiec","Neutral","<b>Okrzyk bojowy:</b> Przyzwij Murloka zwiadowcę 1/1.","Common",2,"Minion","EX1_506",Battlecry,1,,,2,,True,"Dan Scott","Jak pisał poeta „Przy brzegu gdzie rów głęboki kły szczerzą okrutne murloki!”",,"Murloc",,"Odblokowane na 53 poziomie łotra."
+"Basic","Murlok grabieżca","Alliance",,"Free",1,"Minion","CS2_168",,1,,,2,,True,"Dan Scott","Mrrraggglhlhghghlgh śpiewać... mrgaaag... każdy... blarrghlgaahahle... może mrgggg... trochę lepiej... glhalhah a bghhll... lub trochę gorzej... mglhlhlh mrghlhlhl!!",,"Murloc",,"Odblokowane na 51 poziomie kapłana."
+"Basic","Murlok zwiadowca","Neutral",,"Common",0,"Minion","EX1_506a",,1,,,1,,,,,,"Murloc",,
+"Basic","Nadmiar many",,"Dobierz kartę. <i>(Możesz mieć maksymalnie 10 many w zasobniku).</i>",,0,"Spell","CS2_013t",,,,,,"Druid",,,,,,,
+"Basic","NIEEEEEEEE!",,"Jakimś cudem używana przez ciebie karta została skasowana. Weź tę w zamian!",,2,"Spell","GAME_006",,,,,,,,,"Nawet tekst opisu został skasowan....",,,,
+"Basic","Ogień duszy","Neutral","Zadaj $4 pkt. obrażeń. Odrzuć losową kartę.","Common",1,"Spell","EX1_308",,,,,,"Warlock",True,"Raymond Swanland","Chodzi o ogień z duszy. Nie z dyszy. To jednak spora różnica.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 28."
+"Basic","Ogłuszenie","Neutral","Cofnij wrogiego stronnika na rękę przeciwnika.","Free",2,"Spell","EX1_581",,,,,,"Rogue",True,"Scott Altmann","Dzięki umiejętności ogłuszania wielu łotrów dorabia na boku jako anestezjolodzy.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 40."
+"Basic","Ognisty język",,"+2 do ataku od Totemu ognistego języka.",,,"Enchantment","EX1_565o",,,,,,"Shaman",,,,,,,
+"Basic","Ognisty ogar",,,"Common",7,"Minion","CS2_201",,5,,,9,,True,"E.M. Gist","Nie da się obłaskawić ognistych ogarów. Po prostu szkolisz je żeby cię nie zżarły.",,"Beast",,"Odblokowane na 51 poziomie łowcy."
+"Basic","Ognisty pocisk","Neutral","<b>Moc specjalna</b>
+Zadaj 1 pkt. obrażeń.","Free",2,"Hero Power","CS2_034",,,,,,"Mage",,,,,,,
+"Basic","Ognisty wojenny topór","Neutral",,"Free",2,"Weapon","CS2_106",,,,2,3,"Warrior",True,"Lucas Graciano","W czasach pokoju i ogólnej harmonii broń ta znana jest pod mniej popularną nazwą: Pieligrządek Pokoju.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 49."
+"Basic","Ogr z Głazograbych",,,"Free",6,"Minion","CS2_200",,7,,,6,,True,"Brian Despain","„JA MIEĆ DOBRE STATY ZA NISKOM CENE!”",,,,"Odblokowane na 51 poziomie czarnoksiężnika."
+"Basic","Ogrzy mag","Neutral","<b>Obrażenia zaklęć +1</b>","Common",4,"Minion","CS2_197",Spellpower,4,,,4,,True,"James Ryman","Nauczanie ogrów magii to dość kontrowersyjny pomysł.",,,,"Odblokowane na 55 poziomie czarnoksiężnika."
+"Basic","Oko na niebie",,"Leok daje temu stronnikowi +1 do ataku.",,,"Enchantment","NEW1_033o",,,,,,"Hunter",,,,,,,
+"Basic","Orzeźwienie","Neutral","Otrzymujesz 2 kryształy many w tej turze.","Free",0,"Spell","EX1_169",,,,,,"Druid",True,"Doug Alexander","Niektórzy druidzi wciąż pamiętają nieznajomych którzy krzyczeli „Orzeźwij mnie!”",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Ostrość",,"+1 do ataku w tej turze.",,,"Enchantment","CS2_083e",OneTurnEffect,,,,,"Rogue",,,,,,,
+"Basic","Ostrze Nocy","Neutral","<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.","Free",5,"Minion","EX1_593",Battlecry,4,,,4,,True,"Raymond Swanland","Ostrze Nocy zawsze jest chętne do skrytej pomocy.",,,,"Odblokowane na 53 poziomie druida."
+"Basic","Ostrze skrytobójcy","Neutral",,"Common",5,"Weapon","CS2_080",,,,4,3,"Rogue",True,"Brian Huang","Gwarantujemy że poprzednio należało do prawdziwego skrytobójcy. Załączamy certyfikat autentyczności.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 32."
+"Basic","Owca","Neutral",,"Common",0,"Minion","CS2_tk1",,1,,,1,,,,,,"Beast",,
+"Basic","Pakt ofiarny",,"Zniszcz Demona. Przywróć #5 pkt. zdrowia twojemu bohaterowi.","Common",0,"Spell","NEW1_003",,,,,,"Warlock",True,"Jim Nelson","Z tego właśnie powodu demony nigdy nie przyjaźnią się z czarnoksiężnikami.",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 15."
+"Basic","Pancerz!","Neutral","<b>Moc specjalna</b>
+Otrzymujesz 2 pkt. pancerza.","Free",2,"Hero Power","CS2_102",,,,,,"Warrior",,,,,,,
+"Basic","Pazur",,"+2 do ataku w tej turze.",,,"Enchantment","CS2_005o",OneTurnEffect,,,,,"Druid",,,,,,,
+"Basic","Pazur","Neutral","Daj twojemu bohaterowi +2 do ataku w tej turze oraz +2 pkt. pancerza.","Free",1,"Spell","CS2_005",,,,,,"Druid",True,"Dany Orizio","Gdy druid pokazuje pazury nie musi to oznaczać agresji. Może zwyczajnie prosi o manicure.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 32."
+"Basic","Pazury",,"Twój bohater ma +1 do ataku w tej turze.",,,"Enchantment","CS2_017o",OneTurnEffect,,,,,"Druid",,,,,,,
+"Basic","Pewny strzał","Neutral","<b>Moc specjalna</b>
+Zadaj 2 pkt. obrażeń wrogiemu bohaterowi.","Free",2,"Hero Power","DS1h_292",,,,,,"Hunter",,,,,,,
+"Basic","Piechur ze Złotych Włości","Alliance","<b>Prowokacja</b>","Common",1,"Minion","CS1_042",Taunt,2,,,1,,True,"Donato Giancola","Jeśli na straży Złotych Włości stoją takie zuchy to i tak cud że nie zostały jeszcze spalone.",,,,"Odblokowane na 57 poziomie paladyna."
+"Basic","Piekielny ogień","Neutral","Zadaj $3 pkt. obrażeń WSZYSTKIM postaciom.","Free",4,"Spell","CS2_062",,,,,,"Warlock",True,"Chippy","To przez takie zaklęcia czarnoksiężnicy mają problemy ze znalezieniem pomocników.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 49."
+"Basic","Pocisk cienia","Neutral","Zadaj $4 pkt. obrażeń stronnikowi.","Free",3,"Spell","CS2_057",,,,,,"Warlock",True,"Dave Allsop","To pocisk. Stworzony z cienia. Nic więcej wiedzieć nie trzeba.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Pocisk lodu","Neutral","Zadaj $3 pkt. obrażeń dowolnej postaci i ją <b>Zamroź</b>.","Common",2,"Spell","CS2_024",Freeze,,,,,"Mage",True,"Steve Ellis","Przy zagraniu tej karty zwykło się wołać „Mrożonka!” albo „Bałwan!” ewentualnie „Zostawiam cię na lodzie”.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 40."
+"Basic","Podstępne uderzenie","Neutral","Zadaj $3 pkt. obrażeń wrogiemu bohaterowi.","Free",1,"Spell","CS2_075",,,,,,"Rogue",True,"Frank Cho","W tym uderzeniu jest coś nietypowego. A nawet podstępnego!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Pokora","Neutral","Zmień atak stronnika na 1.","Common",1,"Spell","EX1_360",,,,,,"Paladin",True,"Daren Bader","Nie wiedzieć czemu pierwotna nazwa tej karty to „Wojciech”.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 28."
+"Basic","Pokora","Neutral","Atak został zmieniony na 1.",,,"Enchantment","EX1_360e",,,,,,"Paladin",,,,,,,
+"Basic","Polimorfia","Neutral","Ten stronnik został przemieniony w owcę 1/1.","Common",,"Enchantment","CS2_022e",Morph,,,,,"Mage",,,,,,,
+"Basic","Polimorfia","Neutral","Przemień stronnika w owcę 1/1.","Free",4,"Spell","CS2_022",,,,,,"Mage",True,"Vance Kovacs","Mieliśmy tu napisać jakiś fajny tekst ale wyszedł beeeeeee-znadziejnie.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Pomniejsze uzdrowienie","Neutral","<b>Moc specjalna</b>
+Przywróć 2 pkt. zdrowia.","Free",2,"Hero Power","CS1h_001",,,,,,"Priest",,,,,,,
+"Basic","Potęga Wichrogrodu",,"Ma +1/+1.",,,"Enchantment","CS2_222o",,,,,,,,,,,,,
+"Basic","Pradawna infuzja",,"Prowokacja",,,"Enchantment","CS2_041e",Taunt,,,,,"Shaman",,,,,,,
+"Basic","Pradawne uzdrowienie","Neutral","Przywróć stronnika do pełni zdrowia i daj mu <b>Prowokację</b>.","Free",0,"Spell","CS2_041",,,,,,"Shaman",True,"Dan Scott","Podczas bitwy możesz przywołać siłę swoich przodków! Więc lepiej mieć dużą rodzinę!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Prawo Światłości","Neutral",,"Free",1,"Weapon","CS2_091",,,,4,1,"Paladin",True,"Glenn Rane","W wersji dla mańkutów oręż ten nosi nazwę „Lewo Światłości”.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Prychacz",,"<b>Szarża</b>","Common",3,"Minion","NEW1_034",Charge,2,,,4,"Hunter",,,,,"Beast",,
+"Basic","Przerażający infernal","Neutral","<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń WSZYSTKIM pozostałym postaciom.","Common",6,"Minion","CS2_064",Battlecry,6,,,6,"Warlock",True,"Zoltan & Gabor","„INFERNOOOOO!” - Jaraxxus Lord Płonącego Legionu",,"Demon","Odblokowane na poziomie 10.","Odblokowane na poziomie 23."
+"Basic","Ręka ochrony","Neutral","Daj stronnikowi <b>Boską tarczę</b>.","Free",1,"Spell","EX1_371",,,,,,"Paladin",True,"Clint Langley","To zaklęcie zmieniało nazwę tyle razy że nawet paladyni już nie wiedzą jaka jest ostateczna wersja.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Rekrut Srebrnej Dłoni",,,"Free",1,"Minion","CS2_101t",,1,,,1,"Paladin",,,,,,,
+"Basic","Rexxar","Neutral",,"Free",,"Hero","HERO_05",,30,,,,"Hunter",True,,,,,,
+"Basic","Rozbłysk mrozu","Neutral","<b>Zamroź</b> wszystkich wrogich stronników.","Common",3,"Spell","CS2_026",Freeze,,,,,"Mage",True,"Josh Tallman","Zimno wszędzie mroźno wszędzie co to będzie co to będzie.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 23."
+"Basic","Rozbłysk świętości","Neutral","Zadaj $2 pkt. obrażeń wszystkim wrogom. Przywróć #2 pkt. zdrowia wszystkim przyjaznym postaciom.","Common",5,"Spell","CS1_112",,,,,,"Priest",True,"Luca Zontini","Przyjdzie kryska na matyska kiedy świętość mu rozbłyska.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 45."
+"Basic","Rozkaz zabicia","Neutral","Zadaj $3 pkt. obrażeń. Jeśli kontrolujesz Bestię zamiast tego zadaj $5 pkt. obrażeń.","Common",3,"Spell","EX1_539",,,,,,"Hunter",True,"Gabe from Penny Arcade","„Zabij!” rozkazał.",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Rozpłatanie","Neutral","Zadaj $2 pkt. obrażeń dwóm losowym wrogim stronnikom.","Common",2,"Spell","CS2_114",,,,,,"Warrior",True,"Phroilan Gardner","Hej wy tam! Możecie na chwilę stanąć obok siebie?",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 40."
+"Basic","Rycerz z Wichrogrodu","Alliance","<b>Szarża</b>","Common",4,"Minion","CS2_131",Charge,5,,,2,,True,"Ladronn","Wciąż im wstyd z powodu „Incydentu ze Śmiercioskrzydłym”.",,,,"Odblokowane na 55 poziomie paladyna."
+"Basic","Ryzykancka rakieterka","Horde","<b>Szarża</b>","Free",6,"Minion","CS2_213",Charge,2,,,5,,True,"John Polidora","Jedna szalona rakieterka plus jedna wybuchowa rakieta równa się masa zabawy.",,,,"Odblokowane na 59 poziomie szamana."
+"Basic","Rzeczny krokoliszek",,,"Free",2,"Minion","CS2_120",,3,,,2,,True,"Daren Bader","Edward Nowak próbował kiedyś zrobić buty ze skóry krokoliszka. Ma teraz przydomek „Jednoręki”.",,"Beast",,"Odblokowane na 55 poziomie druida."
+"Basic","Siepacz z Mroźnych Wilków","Neutral","<b>Prowokacja</b>","Common",2,"Minion","CS2_121",Taunt,2,,,2,,True,"Richie Marella","Siepanie to u niego rodzinna tradycja.",,,,"Odblokowane na 57 poziomie szamana."
+"Basic","Skalnoszpony totem","Neutral","<b>Prowokacja</b>","Free",1,"Minion","CS2_051",Taunt,2,,,0,"Shaman",,,,,"Totem",,
+"Basic","Skrytobójstwo","Neutral","Zniszcz wrogiego stronnika.","Free",5,"Spell","CS2_076",,,,,,"Rogue",True,"Glenn Rane","Jeśli nie chcesz paść ofiarą skrytobójców przenieś się na Pustkowia i zmień imię. Powodzenia!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Słowo cienia: Ból",,"Zniszcz stronnika z atakiem 3 lub mniejszym.","Free",2,"Spell","CS2_234",,,,,,"Priest",True,"Raymond Swanland","Ulepszona wersja zaklęcia rzucanego przez wielu początkujących akolitów: „Słowo cienia: Irytacja”.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Słowo cienia: Śmierć",,"Zniszcz stronnika z atakiem 5 lub większym.","Common",3,"Spell","EX1_622",,,,,,"Priest",True,"Raymond Swanland","Jeśli spudłujesz na celu zostanie blizna w kształcie błyskawicy.",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 43."
+"Basic","Słowo mocy: Tarcza",,"+2 do zdrowia.",,,"Enchantment","CS2_004e",,,,,,"Priest",,,,,,,
+"Basic","Słowo mocy: Tarcza","Neutral","Daj stronnikowi +2 do zdrowia.
+Dobierz kartę.","Free",1,"Spell","CS2_004",,,,,,"Priest",True,"Jessica Jung","Jasne że dodatkowa ochrona to fajna sprawa ale tarcza naprawdę ogranicza pole widzenia.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Śmiertelny wir","Neutral","Zadaj $1 pkt. obrażeń stronnikowi. Jeśli go zabijesz dobierz kartę.","Common",1,"Spell","EX1_302",,,,,,"Warlock",True,"Matt Gaser","Jeśli twoje zaklęcia wyglądają jak przerażające czaszki to chyba zasługujesz na jeszcze parę kart.",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 43."
+"Basic","Splugawienie","Neutral","Wybierz wrogiego stronnika i zniszcz go na początku twojej tury.","Common",1,"Spell","CS2_063",,,,,,"Warlock",True,"Wayne Reynolds","Zwykle zaczyna się niewinnie a zanim się zorientujesz wszystko wokół splugawione!",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 32."
+"Basic","Splugawienie",,"Ten stronnik zostanie zniszczony na początku tury plugawiącego gracza.",,,"Enchantment","CS2_063e",,,,,,"Warlock",,,,,,,
+"Basic","Sprint","Neutral","Dobierz 4 karty.","Common",7,"Spell","CS2_077",,,,,,"Rogue",True,"James Zhang","Łotrzy nie są dobrymi długodystansowcami.",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Srebrytowy Czempion","Neutral","Za każdym razem gdy twój bohater atakuje przywróć mu 2 pkt. zdrowia.","Common",4,"Weapon","CS2_097",,,,2,4,"Paladin",True,"Ryan Sook","Doświadczeni paladyni nazywają ten miecz „srebrytową deską ratunku”.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 40."
+"Basic","Strażnik królów","Neutral","<b>Okrzyk bojowy:</b> Przywróć 6 pkt. zdrowia twojemu bohaterowi.","Common",7,"Minion","CS2_088",Battlecry,6,,,5,"Paladin",True,"E.M. Gist","Warto go mieć przy sobie na wypadek ataku zabójcy królów!",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 47."
+"Basic","Strzelec z Żelaznej Kuźni","Alliance","<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń.","Common",3,"Minion","CS2_141",Battlecry,2,,,2,,True,"Tooth","„Cel! Pal! Pij!”",,,,"Odblokowane na 55 poziomie maga."
+"Basic","Sukkub","Neutral","<b>Okrzyk bojowy:</b> Odrzuć losową kartę.","Free",2,"Minion","EX1_306",Battlecry,3,,,4,"Warlock",True,"Matt Dixon","Czarnoksiężnicy to dopiero mają życie!",,"Demon","Odblokowane na poziomie 1.","Odblokowane na poziomie 40."
+"Basic","Święta Światłość","Neutral","Przywróć #6 pkt. zdrowia.","Free",2,"Spell","CS2_089",,,,,,"Paladin",True,"Zoltan & Gabor","Jeśli często znajdujesz się pod wpływem świętej światłości zainwestuj w krem z filtrem.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Święty cios","Neutral","Zadaj $2 pkt. obrażeń.","Free",1,"Spell","CS1_130",,,,,,"Priest",True,"Steve Ellis","Nie ma znaczenia czy jesteś pobożny. Każdy od czasu do czasu musi sobie coś walnąć!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Szarża",,"Tundrowy nosorożec daje <b>Szarżę</b>.",,,"Enchantment","DS1_178e",,,,,,"Hunter",,,,,,,
+"Basic","Szarża",,"Ten stronnik otrzymuje <b>Szarżę</b>.",,,"Enchantment","EX1_084e",,,,,,"Warrior",,,,,,,
+"Basic","Szarża",,"+2 do ataku oraz <b>Szarża</b>.",,,"Enchantment","CS2_103e2",,,,,,"Warrior",,,,,,,
+"Basic","Szarża","Neutral","Daj przyjaznemu stronnikowi +2 do ataku i <b>Szarżę</b>.","Free",3,"Spell","CS2_103",,,,,,"Warrior",True,"Alex Horley Orlandelli","Szarżować każdy może jeden lepiej inny trochę gorzej.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 23."
+"Basic","Szczęśliwa moneta",,"Dzięki temu że jesteś drugim graczem otrzymujesz zwiększone zdrowie.",,,"Enchantment","GAME_001",,,,,,,,,,,,,
+"Basic","Szkielet","Neutral","<b></b>","Common",1,"Minion","skele11",,1,,,1,,,,,,,,
+"Basic","Sztandar Mroźnych Wilków",,"Zwiększone statystyki.",,,"Enchantment","CS2_226e",,,,,,,,,,,,,
+"Basic","Tajemna eksplozja","Neutral","Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom.","Free",2,"Spell","CS2_025",,,,,,"Mage",True,"Howard Lyon","To zaklęcie jest znacznie lepsze niż tajemna implozja.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 28."
+"Basic","Tajemne pociski","Neutral","Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.","Free",1,"Spell","EX1_277",ImmuneToSpellpower,,,,,"Mage",True,"Warren Mahy","Są na tyle tajemnicze że magowie wciąż nie do końca wiedzą jak nimi celować.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 32."
+"Basic","Tajemny intelekt","Neutral","Dobierz 2 karty.","Free",3,"Spell","CS2_023",,,,,,"Mage",True,"Dave Berggren","Ulubione zaklęcie studentów Uniwersytetu Dalaranu. Zwłaszcza przed sesją egzaminacyjną.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Tajemny strzał","Neutral","Zadaj 2 pkt. obrażeń.","Free",1,"Spell","DS1_185",,,,,,"Hunter",True,"Luca Zontini","Magowie wytwarzali tajemne pociski i sprzedawali je łowcom do czasu aż ci nauczyli się robić je sami. Doprowadziło to do bezrobocia które wywołało pomniejszy kryzys w Wichrogrodzie.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 32."
+"Basic","Tarczowy z Sen'jinu","Horde","<b>Prowokacja</b>","Free",4,"Minion","CS2_179",Taunt,5,,,3,,True,"Brian Despain","Wioska Sen'jin jest bardzo sympatyczna. O ile lubisz kurz i trolle.",,,,"Odblokowane na 59 poziomie łotra."
+"Basic","Thrall","Neutral",,"Free",,"Hero","HERO_02",,30,,,,"Shaman",True,,,,,,
+"Basic","Totem ognistego języka","Neutral","Sąsiedni stronnicy otrzymują +2 do ataku.","Common",2,"Minion","EX1_565",AdjacentBuff|Aura,3,"",,0,"Shaman",True,"Jonathan Ryder","Podobno do tworzenia tych totemów używa się „wody ognistej”.",,"Totem","Odblokowane na poziomie 4.","Odblokowane na poziomie 43."
+"Basic","Treser ogarów","Neutral","<b>Okrzyk bojowy:</b> Daj przyjaznej Bestii +2/+2 oraz <b>Prowokację</b>.","Free",4,"Minion","DS1_070",Battlecry,3,"",,4,"Hunter",True,"Dan Brereton","„Kto spuścił psy?” zapytał. To retoryczne pytanie.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 28."
+"Basic","Tresura",,"+2/+2 oraz <b>Prowokacja</b>.",,,"Enchantment","DS1_070o",,,,,,"Hunter",,,,,,,
+"Basic","Tropienie","Neutral","Spójrz na trzy górne karty z twojej talii. Jedną dobierz na rękę a dwie pozostałe odrzuć.","Free",1,"Spell","DS1_184",,,,,,"Hunter",True,"Mauro Cascioli","W sam raz dla osoby która nie może zdecydować się jakie karty wsadzić do talii!",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Tundrowy nosorożec","Neutral","Twoje Bestie otrzymują <b>Szarżę</b>.","Common",5,"Minion","DS1_178",,5,,,2,"Hunter",True,"Lars Grant-West","Nosorożce często mylone są z bestiami kodo. Albo na odwrót.",,"Beast","Odblokowane na poziomie 8.","Odblokowane na poziomie 43."
+"Basic","Uderzenie umysłu","Neutral","Zadaj $5 pkt. obrażeń wrogiemu bohaterowi.","Free",2,"Spell","DS1_233",,,,,,"Priest",True,"Dave Allsop","To zaklęcie wali mocno po głowie.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Uther Światłodzierżca","Neutral",,"Free",,"Hero","HERO_04",,30,,,,"Paladin",True,,,,,,
+"Basic","Uzdrawiaczka Mrocznołuskich","Neutral","<b>Okrzyk bojowy:</b> Przywróć 2 pkt. zdrowia wszystkim przyjaznym postaciom.","Common",5,"Minion","DS1_055",Battlecry,5,,,4,,True,"Jesper Ejsing","Uzdrawianiem zajmuje się w wolnym czasie. To w zasadzie hobby takie.",,,,"Odblokowane na 55 poziomie kapłana."
+"Basic","Uzdrawiający dotyk","Neutral","Przywróć #8 pkt. zdrowia.","Free",3,"Spell","CS2_007",,,,,,"Druid",True,"Cyril Van Der Haegen","Dobry dotyk koi natychmiast.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 15."
+"Basic","Uzdrawiający totem",,"Na koniec twojej tury przywróć 1 pkt. zdrowia wszystkim przyjaznym stronnikom.","Free",1,"Minion","NEW1_009",,2,,,0,"Shaman",,,,,"Totem",,
+"Basic","Valeera Sangwinar","Neutral",,"Free",,"Hero","HERO_03",,30,,,,"Rogue",True,,,,,,
+"Basic","Wachlarz ostrzy","Neutral","Zadaj $1 pkt. obrażeń wszystkim wrogim stronnikom. Dobierz kartę.","Common",3,"Spell","EX1_129",,,,,,"Rogue",True,"Andrew Robinson","Nie powiem że kocham noże ale czasem lubię sobie nimi powachlować.",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 29."
+"Basic","Wędrowiec Pustki","Neutral","<b>Prowokacja</b>","Free",1,"Minion","CS2_065",Taunt,3,,,1,"Warlock",True,"Alex Horley Orlandelli","Podobno w innym świecie jego odpowiednikiem jest „Wędrowiec z Ustki”.",,"Demon","Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Wezwanie Totemu","Neutral","<b>Moc specjalna</b>
+Przyzwij losowy Totem.","Free",2,"Hero Power","CS2_049",,,,,,"Shaman",,,,,,,
+"Basic","Wielostrzał","Neutral","Zadaj $3 pkt. obrażeń dwóm losowym wrogim stronnikom.","Free",4,"Spell","DS1_183",,,,,,"Hunter",True,"Benjamin Zhang","Wicie rozumicie wszystko rozbija się o <i>przebicie</i>.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 36."
+"Basic","Wilczy jeździec","Horde","<b>Szarża</b>","Free",3,"Minion","CS2_124",Charge,1,,,3,,True,"Dany Orizio","Orkowie jeżdżą na wilkach ponieważ są dobrze przystosowane do trudnego środowiska. No i mają mięciutkie futerko.",,,,"Odblokowane na 59 poziomie wojownika."
+"Basic","Wizja umysłu","Neutral","Umieść w twojej ręce kopię losowej karty z ręki przeciwnika.","Common",1,"Spell","CS2_003",,,,,,"Priest",True,"Michael Komarck","Co ja pacze!",,,"Odblokowane na poziomie 4.","Odblokowane na poziomie 32."
+"Basic","Władca Areny","Alliance","<b>Prowokacja</b>","Common",6,"Minion","CS2_162",Taunt,5,,,6,,True,"E.M. Gist","Kiedyś wygrał na Arenie dwanaście pojedynków z rzędu. Choć minęło wiele lat wciąż nie może przestać o tym gadać.",,,,"Odblokowane na 59 poziomie kapłana."
+"Basic","Wódz Mroźnych Wilków","Horde","<b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za każdego innego przyjaznego stronnika na polu bitwy.","Common",5,"Minion","CS2_226",Battlecry,4,"",,4,,True,"James Ryman","Mroźne Wilki wciąż walczą z ekspedycją Gromdardy o kontrolę nad doliną Alterac. Każda próba negocjacji pokojowych kończyła się na tym że kapitan Galvangar pożerał mediatora.",,,,"Odblokowane na 53 poziomie szamana."
+"Basic","Wódz Srebrnogrzbietych","Horde","<b>Prowokacja</b>","Common",3,"Minion","CS2_127",Taunt,4,,,1,,True,"Daren Bader","„Znam i polecam!” - Król Mukla",,"Beast",,"Odblokowane na 53 poziomie wojownika."
+"Basic","Wojenny golem","Neutral",,"Common",7,"Minion","CS2_186",,7,,,7,,True,"Dave Kendall","Golemy nie czują strachu ale z jakiegoś powodu uciekają gdy rzucić na nie zaklęcie „Strach”. Może to instynkt? A może chęć wtopienia się w otoczenie?",,,,"Odblokowane na 51 poziomie łotra."
+"Basic","Wojownik Błękitnoskrzelich","Neutral","<b>Szarża</b>","Common",2,"Minion","CS2_173",Charge,1,,,2,,True,"Jakub Kasper","On tylko chce buziaka. Mokrego... lepkiego buziaka.",,"Murloc",,"Odblokowane na 53 poziomie paladyna."
+"Basic","Wściekły skowyt",,"Ta Bestia ma +1 do ataku dzięki Leśnemu wilkowi.",,,"Enchantment","DS1_175o",,,,,,"Hunter",,,,,,,
+"Basic","Wsparcie","Neutral","<b>Moc specjalna</b>
+Przyzwij Rekruta Srebrnej Dłoni 1/1.","Free",2,"Hero Power","CS2_101",,,,,,"Paladin",,,,,,,
+"Basic","Wulkaniczny furiat",,,"Free",3,"Minion","CS2_118",,1,,,5,,True,"Matt Gaser","Łudzi się że jest potężny ale tak naprawdę każdy może wyskoczyć z nim teraz na solo.",,,,"Odblokowane na 51 poziomie szamana."
+"Basic","Wygłodniały sęp",,"Dobierz kartę za każdym razem gdy przyzywasz Bestię.","Common",5,"Minion","CS2_237",,2,"",,3,"Hunter",True,"Bernie Kang","Jeśli go nakarmisz straci rację bytu.",,"Beast","Odblokowane na poziomie 4.","Odblokowane na poziomie 47."
+"Basic","Wyrocznia Burych Łusek","Neutral","WSZYSTKIE pozostałe Murloki otrzymują +1 do ataku.","Common",1,"Minion","EX1_508",Aura,1,"",,1,,True,"Phil Saunders","To te cwańsze murloki. Co wcale wiele nie znaczy.",,"Murloc",,"Odblokowane na 53 poziomie czarnoksiężnika."
+"Basic","Wyssanie życia","Neutral","Zadaj $2 pkt. obrażeń. Przywróć #2 pkt. zdrowia twojemu bohaterowi.","Free",3,"Spell","CS2_061",,,,,,"Warlock",True,"Alex Horley Orlandelli","„Właśnie wyssałem ci rok życia”.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 45."
+"Basic","Wzmocnienie",,"Dowódca rajdu daje temu stronnikowi +1 do ataku.",,,"Enchantment","CS2_122e",,,,,,,,,,,,,
+"Basic","Wzmocnienie totemów",,"+2 do zdrowia.",,,"Enchantment","EX1_244e",,,,,,"Shaman",,,,,,,
+"Basic","Wzmocnienie totemów","Neutral","Daj swoim Totemom +2 do zdrowia.","Common",0,"Spell","EX1_244",,,,,,"Shaman",True,"Trent Kaniuga","Chroni totem przed łomotem.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 28."
+"Basic","Yeti z Zimnych Wichrów","Neutral",,"Common",4,"Minion","CS2_182",,5,,,4,,True,"Mauro Cascioli","Zawsze marzył o zejściu z gór i otwarciu kiosku z kebabami ale jakoś nie starczyło mu śmiałości.",,,,"Odblokowane na 55 poziomie wojownika."
+"Basic","Żaba","Neutral","<b>Prowokacja</b>","Common",0,"Minion","hexfrog",Taunt,1,,,0,,,,,,"Beast",,
+"Basic","Zabójcza trucizna","Neutral","Daj twojej broni +2 do ataku.","Free",1,"Spell","CS2_074",,,,,,"Rogue",True,"Trevor Jacobs","Sekrety wyrobu trucizn są zazdrośnie strzeżone przez łotrów aby magowie nie tworzyli zatrutych zaklęć. Zatruty pocisk? Deszcz trucizny? Żywiołak trucizn? Nikt tego nie chce.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 43."
+"Basic","Zabójcza trucizna",,"+2 do ataku.",,,"Enchantment","CS2_074e",,,,,,,,,,,,,
+"Basic","Zabójcze sztylety","Neutral","<b>Moc specjalna</b>
+Wyposaż bohatera w sztylet 1/2.","Free",2,"Hero Power","CS2_083b",,,,,,"Rogue",,,,,,,
+"Basic","Żądza krwi","Neutral","Daj swoim stronnikom +3 do ataku w tej turze.","Common",5,"Spell","CS2_046",,,,,,"Shaman",True,"Luca Zontini","blaarghghLLGHRHARAAHAHHH!!",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 40."
+"Basic","Żądza krwi",,"+3 do ataku w tej turze.",,,"Enchantment","CS2_046e",OneTurnEffect,,,,,"Shaman",,,,,,,
+"Basic","Zamaszysty cios","Neutral","Zadaj $4 pkt. obrażeń wrogowi i $1 pkt. obrażeń wszystkim pozostałym wrogom.","Common",4,"Spell","CS2_012",,,,,,"Druid",True,"Sean O’Daniels","Ulubiony cios zamachowców!",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 47."
+"Basic","Zaraz wracam",,"Twoje tury są krótsze.",,,"Enchantment","GAME_004",,,,,,,,,,,,,
+"Basic","Żelaznokory obrońca","Neutral","<b>Prowokacja</b>","Common",8,"Minion","CS2_232",Taunt,8,,,8,"Druid",True,"Dave Allsop","Stara kora nie rdzewieje!",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Zemsta monety",,"Dzięki temu że jesteś drugim graczem twój pierwszy stronnik jest silniejszy.",,,"Enchantment","GAME_003",,,,,,,,,,,,,
+"Basic","Zemsta monety",,"Dzięki temu że jesteś drugim graczem twój pierwszy stronnik jest silniejszy.",,,"Enchantment","GAME_003e",,,,,,,,,,,,,
+"Basic","Zły urok","Neutral","Przemień stronnika w żabę 0/1 z <b>Prowokacją</b>.","Free",3,"Spell","EX1_246",,,,,,"Shaman",True,"Steve Hui","Jeśli rzucisz zły urok na murloka... to chyba wiele nie zmienisz co?",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 47."
+"Basic","Zły urok",,"Ten stronnik został przemieniony!",,,"Enchantment","EX1_246e",Morph,,,,,"Shaman",,,,,,,
+"Basic","Zmiennokształtność","Neutral","<b>Moc specjalna</b> 
+ +1 do ataku w tej turze.
+ +1 pkt. pancerza.","Free",2,"Hero Power","CS2_017",,,,,,"Druid",,,,,,,
+"Basic","Znachor","Horde","<b>Okrzyk bojowy:</b> Przywróć 2 pkt. zdrowia.","Free",1,"Minion","EX1_011",Battlecry,1,,,2,,True,"Karl Richardson","Przyszła pora na znachora.",,,,"Odblokowane na 55 poziomie łotra."
+"Basic","Znak łowcy","Neutral","Zmień zdrowie stronnika na 1.","Common",0,"Spell","CS2_084",,,,,,"Hunter",True,"Jimmy Lo","Nigdy nie baw się w chowanego z łowcą.",,,"Odblokowane na poziomie 6.","Odblokowane na poziomie 40."
+"Basic","Znak łowcy",,"Ten stronnik ma 1 pkt. zdrowia.",,,"Enchantment","CS2_084e",,,,,,"Hunter",,,,,,,
+"Basic","Znak ostępów","Neutral","Daj stronnikowi <b>Prowokację</b> oraz +2/+2.<i> (+2 do ataku/+2 do zdrowia)</i>.","Free",2,"Spell","CS2_009",,,,,,"Druid",True,"Brad Vancata","Nie należy mylić tej karty ze „Znakiem postępów”.",,,"Odblokowane na poziomie 1.","Odblokowane na poziomie 28."
+"Basic","Znak ostępów",,"Ten stronnik ma +2/+2 oraz <b>Prowokację</b>.",,,"Enchantment","CS2_009e",,,,,,"Druid",,,,,,,
+"Basic","Zniknięcie",,"Cofnij wszystkich stronników na ręce właścicieli.","Common",6,"Spell","NEW1_004",,,,,,"Rogue",True,"Sean O’Daniels",,,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 23."
+"Basic","Żółwior szczękogryz",,,"Free",4,"Minion","CS2_119",,7,,,2,,True,"Ittoku","Jego sny o lataniu i zianiu ogniem nigdy się nie spełnią.",,"Beast",,"Odblokowane na 51 poziomie druida."
+"Basic","Żrący bagienny szlam","Alliance","<b>Okrzyk bojowy:</b> Zniszcz broń przeciwnika.","Common",2,"Minion","EX1_066",Battlecry,2,,,3,,True,"Chris Rahn","Woli żeby mówić do niego „Glutek”.",,,,"Odblokowane na 57 poziomie łotra."
+"Basic","Zwierzęcy towarzysz",,"Przyzwij losowo jednego ze zwierzęcych towarzyszy Rexxara.","Common",3,"Spell","NEW1_031",,,,,,"Hunter",True,"Wei Wang","Możesz przyzwać Miszę Leoka lub Prychacza! Prychacz sprawia więcej kłopotów niż jest wart.",,,"Odblokowane na poziomie 2.","Odblokowane na poziomie 45."
+"Basic","Żywiołak ognia","Neutral","<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń.","Common",6,"Minion","CS2_042",Battlecry,5,,,6,"Shaman",True,"Ralph Horsley","Unika kąpieli bardziej niż ognia.",,,"Odblokowane na poziomie 10.","Odblokowane na poziomie 49."
+"Basic","Żywiołak wody","Neutral","<b>Zamroź</b> każdą postać zranioną przez tego stronnika.","Common",4,"Minion","CS2_033",Freeze,6,"",,3,"Mage",True,"John Avon","Nie przywołuj żywiołaka wody do baru. Lubi rozcieńczać drinki.",,,"Odblokowane na poziomie 8.","Odblokowane na poziomie 49."
+"Debug","",,,"Common",,"Spell","XXX_028",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_001",ImmuneToSpellpower,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_003",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_004",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_005",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_006",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_007",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_008",Freeze,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_009",,,,,,,,,,,,,
+"Debug","",,"","Common",,"Enchantment","XXX_009e",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_010",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_011",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_012",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_013",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_014",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_015",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_016",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_017",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_018",,,,,,,,,,,,,
+"Debug","",,"","Common",,"Spell","XXX_019",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_020",ImmuneToSpellpower,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_021",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_022",,,,,,,,,,,,,
+"Debug","",,"",,,"Enchantment","XXX_022e",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_023",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Minion","XXX_024",,10,,,3,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_025",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_026",,,,,,,,,,,,,
+"Debug","",,"",,,"Spell","XXX_027",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_002",ImmuneToSpellpower,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_029",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_030",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_039",,,,,,,,,,,,,
+"Debug","",,,,,"Hero","XXX_040",,10,,,,"Warrior",,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_041",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_042",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_043",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Minion","XXX_044",,5,,,5,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_045",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_046",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_047",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_048",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_049",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_050",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_051",,,,,,,,,,,,,
+"Debug","",,"","Common",0,"Spell","XXX_052",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_053",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_054",,,,,,,,,,,,,
+"Debug","",,,,,"Enchantment","XXX_054e",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_055",,,,,,,,,,,,,
+"Debug","",,,,,"Enchantment","XXX_055e",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_056",,,,,,,,,,,,,
+"Debug","",,"",,0,"Spell","XXX_057",,,,,,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_094",,1,,,1,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_095",,1,,,1,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_096",,1,,,1,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_097",,1,,0,1,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_098",,1,,0,1,,,,,,,,
+"Debug","",,"",,0,"Minion","XXX_099",,1,,0,1,,,,,False,,,
+"Promotion","Doping!",,"Zwiększone statystyki.",,,"Enchantment","Mekka3e",,,,,,,,,,,,,
+"Promotion","Dopingator 3000","Alliance","Na koniec twojej tury daj losowemu stronnikowi +1/+1.","Common",1,"Minion","Mekka3",,4,"",,0,,,,,,"Mech",,
+"Promotion","Drobiozator","Alliance","Na początku twojej tury przemień losowego stronnika w kurczaka 1/1.","Common",1,"Minion","Mekka4",,3,"",,0,,,,,,"Mech",,
+"Promotion","Elitarny Taureński Czempion",,"<b>Okrzyk bojowy:</b> Daj obu graczom moc metalu! (oraz kartę „Odjazdowy riff”)","Legendary",5,"Minion","PRO_001",Battlecry,5,,,5,,True,"Samwise Didier","Największe hity ETC to: „I Am a Murloc” (Jestem murlokiem) „Rogues Do It...” (Łotrzy robią to...) oraz „Power of the Horde” (Potęga Hordy).",True,,,"Nagroda za BlizzCon 2013"
+"Promotion","Gelbin Mekanownik","Alliance","<b>Okrzyk bojowy:</b> Przyzwij NIESAMOWITY wynalazek.","Legendary",6,"Minion","EX1_112",Battlecry,6,,,6,,True,"Ludo Lullabi","Jest przywódcą gnomów i wspaniałym wynalazcą. Z każdym dniem coraz mniej rzeczy zamienia w kurczaki.",True,,,"Nagroda dla graczy którzy pomogli testować sklep podczas bety."
+"Promotion","Jestem murlokiem",,"Przyzwij trzy cztery albo pięć Murloków 1/1.",,4,"Spell","PRO_001a",,,,,,,,,,,,,
+"Promotion","Kurczak",,"<i>Hej kurczaku!</i>",,0,"Minion","Mekka4t",,1,,,1,,,,,,"Beast",,
+"Promotion","Łotrzy robią to...",,"Zadaj $4 pkt. obrażeń. Dobierz kartę.",,4,"Spell","PRO_001b",,,,,,,,,,,,,
+"Promotion","Murlok",,,,1,"Minion","PRO_001at",,1,,,1,,,,,,"Murloc",,
+"Promotion","Potęga Hordy",,"Przyzwij losowego wojownika Hordy.",,4,"Spell","PRO_001c",,,,,,,,,,,,,
+"Promotion","Reperobot","Alliance","Na koniec twojej tury przywróć 6 pkt. zdrowia rannej postaci.","Common",1,"Minion","Mekka2",,3,"",,0,,,,,,"Mech",,
+"Promotion","Samonaprowadzany kurczak","Alliance","Na początku twojej tury zniszcz tego stronnika i dobierz 3 karty.","Common",1,"Minion","Mekka1",,1,"",,0,,,,,,"Mech",,
+"Promotion","Transformacja",,"Ten stronnik został zamieniony w kurczaka!",,,"Enchantment","Mekka4e",Morph,,,,,,,,,,,,
+"Reward","Papuga kapitana",,"<b>Okrzyk bojowy:</b> Umieść w ręce losowego Pirata z twojej talii.","Epic",2,"Minion","NEW1_016",Battlecry,1,,,1,,True,"Daren Bader","Te niezwykłe ptaki często zastygają bez ruchu po długim i wyczerpującym skrzeczeniu. Przypuszczalnie usychają z tęsknoty za fiordami.",,"Beast","Odblokowane kiedy zdobędziesz wszystkich piratów z zestawu eksperckiego.","Odblokowane kiedy zdobędziesz wszystkich złotych piratów z zestawu eksperckiego."
+"Reward","Stary Mętnooki","Neutral","<b>Szarża</b>. Otrzymuje +1 do ataku za każdego innego Murloka na polu bitwy.","Legendary",4,"Minion","EX1_062",Charge,4,"",,2,,True,"Dan Scott","To prawdziwa legenda wśród murloków. „Mrghllghghllghg!” powiadają.",True,"Murloc","Odblokowane kiedy zdobędziesz wszystkie murloki z zestawu eksperckiego.","Odblokowane kiedy zdobędziesz wszystkie złote murloki z zestawu eksperckiego."
+"Goblins vs Gnomes","Akwoblin tropiciel",,"<b>Ukrycie</b>","Common",2,"Minion","GVG_081",Stealth,3,,,2,,True,"Seamus Gallagher","„Patrzcie! Płynie do nas jakaś duża rybka!” – ostatnie słowa jednego z uczestników (nieudanej) wyprawy wędkarskiej u wschodnich wybrzeży Azeroth.",,,,
+"Goblins vs Gnomes","Anodowany robocik",,"<b>Prowokacja</b>.
+<b>Wybierz jedno:</b> 
++1 do ataku; lub +1 do zdrowia.","Common",2,"Minion","GVG_030",Taunt,2,,,2,"Druid",True,"Eva Widermann","Jaki uroczy malec! RATUNKU ZARAZ ZEŻRE MI TWARZ!",False,"Mech",,
+"Goblins vs Gnomes","Antyczny medibot",,"<b>Okrzyk bojowy:</b> Przywróć 8 pkt. zdrowia twojemu bohaterowi.","Common",5,"Minion","GVG_069",Battlecry,3,,,3,,True,"Jesper Esjing","Teraz panie to już takich nie robią! (Zapewne dlatego że większość wybuchła).",,"Mech",,
+"Goblins vs Gnomes","Atrapa",,"<b>Prowokacja</b>","Rare",0,"Minion","GVG_093",Taunt,2,,,0,,True,"Matt Dixon","Cały czas coś ją trapi.",,"Mech",,
+"Goblins vs Gnomes","Awaryjne chłodziwo",,"<b>Zamroź</b> stronnika.",,1,"Spell","PART_005",Freeze,,,,,,,"Peerasak Senalai",,,,,
+"Goblins vs Gnomes","Błyskotron 3000",,"<b>Okrzyk bojowy:</b> Wyposaż każdego z graczy w losową broń.","Legendary",5,"Minion","GVG_119",Battlecry,4,,,3,,True,"Jomaro Kindred","Błyszczy niczym tron.",True,"Mech",,
+"Goblins vs Gnomes","Bokser cienia",,"Za każdym razem gdy jakaś postać zostanie uleczona zadaj 1 pkt. obrażeń losowemu wrogowi.","Rare",2,"Minion","GVG_072",,3,,,2,"Priest",True,"Dan Scott","Jego funkcja podstawowa to prawy sierpowy. Funkcja wspomagająca to lewy sierpowy.",,"Mech",,
+"Goblins vs Gnomes","Bolvar Fordragon",,"Gdy masz tę kartę w ręce otrzymuje +1 do ataku za każdym razem gdy zginie przyjazny stronnik.","Legendary",5,"Minion","GVG_063",,7,,,1,"Paladin",True,"Tooth","Uwaga zdradzamy zakończenie: Bolvar ginie! Ale nie całkiem ponieważ zostaje zamieniony w żywy ogarek a potem zasiada na tronie z lodu i wszyscy o nim zapominają.",True,,,
+"Goblins vs Gnomes","Bomba cieni",,"Zadaj $3 pkt. obrażeń.","Common",2,"Spell","GVG_015",,,,,,"Warlock",True,"Jeff Haynie","Nie wiem jak dla państwa ale dla mnie - bomba!",,,,
+"Goblins vs Gnomes","Bomba światła",,"Każdemu stronnikowi zadaj obrażenia równe jego atakowi.","Epic",6,"Spell","GVG_008",AffectedBySpellPower,,,,,"Priest",True,"Luca Zontini","Tak to jest jak się pozwoli goblinom na zostanie kapłanami.",,,,
+"Goblins vs Gnomes","Bombardier",,"<b>Okrzyk bojowy:</b> Zadaj 4 pkt. obrażeń losowemu wrogiemu stronnikowi.","Rare",5,"Minion","GVG_099",Battlecry,3,,,3,,True,"Luca Zontini","Przez dziesięć lat z rzędu zdobywał tytuł mistrza okręgu w rzucie bombą pchnięciu bombą oraz toczeniu bomby na czas.",,,,
+"Goblins vs Gnomes","Chochlik",,,,1,"Minion","GVG_045t",,1,,,1,"Warlock",,,,,"Demon",,
+"Goblins vs Gnomes","Chochlikoza",,"Zadaj $2-$4 pkt. obrażeń stronnikowi. Przyzwij Chochlika 1/1 za każdy zadany punkt obrażeń.","Rare",4,"Spell","GVG_045",,,,,,"Warlock",True,"Jaemin Kim","Wbrew pozorom zaklęcie to nie przywołuje kozy z chochlą.",,,,
+"Goblins vs Gnomes","Cieniomantka",,"<b>Okrzyk bojowy:</b> Zadaj 3 pkt. obrażeń każdemu bohaterowi.","Epic",1,"Minion","GVG_009",Battlecry,1,,,2,"Priest",True,"Matt Dixon","Wykonuje swoją pracę bez cienia entuzjazmu.",,,,
+"Goblins vs Gnomes","Cykl życia",,"Wtasuj wrogiego stronnika do talii przeciwnika.","Rare",6,"Spell","GVG_031",,,,,,"Druid",True,"Brandon Kitkouski","Nie mylić z „Cyklinowaniem życia”!",,,,
+"Goblins vs Gnomes","Czasoprzewijacz",,"Cofnij przyjaznego stronnika na twoją rękę.",,1,"Spell","PART_002",,,,,,,,"Nutthapon Petthai",,,,,
+"Goblins vs Gnomes","Czołg wspomagany MAKS",,"<b>Boska tarcza</b>","Common",8,"Minion","GVG_079",Divine Shield,7,,,7,,True,"Nutchapol Thitinunthakorn","Ma promień skrętu jak czołg ale przynajmniej niestraszne mu korki.",,"Mech",,
+"Goblins vs Gnomes","Czystość",,"Zwiększone statystyki.",,,"Enchantment","GVG_101e",,,,,,"Paladin",,,,,,,
+"Goblins vs Gnomes","Dar kart",,"Każdy z graczy dobiera kartę.",,,"Spell","GVG_032b",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Dar many",,"Daj każdemu z graczy po krysztale many.",,,"Spell","GVG_032a",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Doktor Huk",,"<b>Okrzyk bojowy:</b> Przyzwij dwa Hukoboty 1/1. <i>UWAGA: Hukoboty mogą huknąć.</i>","Legendary",7,"Minion","GVG_110",Battlecry,7,,,7,,True,"Alex Garner","Szef najskuteczniejszej (a na pewno najszybszej) ekipy rozbiórkowej w całym Azeroth.",True,,,
+"Goblins vs Gnomes","Dożynkarz 4000",,"Zadaj również obrażenia stronnikom znajdującym się obok celu ataku.","Legendary",8,"Minion","GVG_113",,9,,,6,,True,"James Ryman","Doskonały na dożynki i dorzynki.",True,"Mech",,
+"Goblins vs Gnomes","Druid Kłów",,"<b>Okrzyk bojowy:</b> Jeśli kontrolujesz Bestię przemień tego stronnika w 7/7.","Common",5,"Minion","GVG_080",Battlecry,4,,,4,"Druid",True,"Brandon Kitkouski","Druidzi Kła piszą wyłącznie wężykiem.",,,,
+"Goblins vs Gnomes","Druid Kłów",,,,5,"Minion","GVG_080t",,7,,,7,"Druid",,"Massive Black",,,"Beast",,
+"Goblins vs Gnomes","Drzewo Życia",,"Przywróć wszystkie postaci do pełni zdrowia.","Epic",9,"Spell","GVG_033",,,,,,"Druid",True,"Steve Prescott","Dotyk drzewa leczy całe życie!",,,,
+"Goblins vs Gnomes","Działo okrętowe",,"Za każdym razem gdy przyzwiesz Pirata zadaj 2 pkt. obrażeń losowemu wrogowi.","Common",2,"Minion","GVG_075",,3,,,2,,True,"Warren Mahy","Kiedy w powietrzu zaczynają świszczeć kule armatnie najwyższy czas zabrać się za klecenie tratwy.",,,,
+"Goblins vs Gnomes","Działo Spaczenia",,"Na koniec twojej tury zadaj 2 pkt. obrażeń losowemu stronnikowi niebędącemu Mechem.","Rare",4,"Minion","GVG_020",,5,,,3,"Warlock",True,"Matt Gaser","Na opakowaniu napisano: „Zupełna nowość! 200% więcej Spaczenia!”",,"Mech",,
+"Goblins vs Gnomes","Echo Medivha",,"Umieść w twojej ręce kopię każdego przyjaznego stronnika.","Epic",4,"Spell","GVG_005",,,,,,"Mage",True,"Alex Garner","Echo Medivha nawiedza Karazhan wiecznie oszukując podczas gry w szachy oraz <i>Hearthstone</i>.",,,,
+"Goblins vs Gnomes","Ekranowany minibot",,"<b>Boska tarcza</b>","Common",2,"Minion","GVG_058",Divine Shield,2,,,2,"Paladin",True,"Raymond Swanland","Święcie wierzy w jeden powszechny i międzyrobotowy program.",,"Mech",,
+"Goblins vs Gnomes","Elektrobuława",,"<b>Agonia:</b> Daj losowemu przyjaznemu Mechowi +2/+2.","Rare",3,"Weapon","GVG_036",Deathrattle,,,2,3,"Shaman",True,"Zoltan and Gabor","Wszyscy myślą że szamani rozkazują żywiołom a tak naprawdę muszą o wszystko grzecznie prosić.",,,,
+"Goblins vs Gnomes","Fruwająca maszyna",,"<b>Furia wichru</b>","Common",3,"Minion","GVG_084",Windfury,4,,,1,,True,"Matt Dixon","Aby to ustrojstwo działało prawidłowo należy posmarować je maścią latania i użyć magicznych słów: „Pole las woda wieś nadszedł czas maszyno leć”.",,"Mech",,
+"Goblins vs Gnomes","Gahz'rilla",,"Za każdym razem gdy ten stronnik zostanie zraniony podwaja wartość swojego ataku.","Legendary",7,"Minion","GVG_049",,9,,,6,"Hunter",True,"Raymond Swanland","Co trzy głowy to nie jedna.",True,"Beast",,
+"Goblins vs Gnomes","Gazol",,"Za każdym razem gdy rzucasz zaklęcie za 1 many umieść w ręce losowego Mecha.","Legendary",6,"Minion","GVG_117",,6,,,3,,True,"Luke Mancini","W szkole Gazolowi nie pozwalano wykonywać doświadczeń po tym jak niechcący wysadził w powietrze kantorek chemików.",True,,,
+"Goblins vs Gnomes","Glewiozuka",,"+1 do ataku.",,,"Enchantment","GVG_043e",,,,,,"Hunter",,,,,,,
+"Goblins vs Gnomes","Glewiozuka",,"<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi +1 do ataku.","Common",2,"Weapon","GVG_043",Battlecry,,,2,2,"Hunter",True,"Gino Whitehall","Przydaje się w sytuacjach w których normalna bazuka nie wystarcza.",,,,
+"Goblins vs Gnomes","Głowa Mimirona",,"Jeśli na początku twojej tury kontrolujesz co najmniej 3 Mechy niszczysz je i tworzysz V-07-TR-0Na.","Legendary",5,"Minion","GVG_111",,5,,,4,,True,"Trent Kaniuga","Naciskanie wielkiego czerwonego guzika surowo wzbronione!",True,"Mech",,
+"Goblins vs Gnomes","Gnom eksperymentator",,"<b>Okrzyk bojowy:</b> Dobierz kartę. Jeśli to stronnik zamieni się w Kurczaka.","Rare",3,"Minion","GVG_092",Battlecry,2,,,3,,True,"Jesper Esjing","A gdyby tak skrzyżować smoka z wiewiórką? Czy otrzymalibyśmy smokowiewiórkę?",,,,
+"Goblins vs Gnomes","Goblin grzmotnik",,"<b>Okrzyk bojowy:</b> Jeśli kontrolujesz Mecha zadaj 4 punkty obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.","Rare",4,"Minion","GVG_004",Battlecry,4,,,5,"Mage",True,"Glenn Rane","Jeśli nie masz na podorędziu żadnej bomby wystarczy dowolny inny gobliński wynalazek.",,,,
+"Goblins vs Gnomes","Gobliński fryzuromat",,"<b>Okrzyk bojowy</b>: Daj twojej broni +1 do ataku.","Common",2,"Minion","GVG_023",Battlecry,2,,,3,"Rogue",True,"Zolton Boros","Przytnie twoją fryzurę lub ciebie – korzystasz na własne ryzyko.",,"Mech",,
+"Goblins vs Gnomes","Gobliński saper",,"Ma +4 do ataku kiedy twój przeciwnik ma w ręce 6 lub więcej kart.","Rare",3,"Minion","GVG_095",Aura,4,,,2,,True,"Jesper Esjing","Kiedyś detonował nałogowo. Teraz eksploduje tylko dla towarzystwa.",,,,
+"Goblins vs Gnomes","Golem Animusa",,"Na końcu każdej tury zniszcz tego stronnika jeśli nie posiadasz innych w grze.","Epic",6,"Minion","GVG_077",,9,,,9,"Warlock",True,"Josh Harris","Golem Animusa ma niezły animusz!",,"Mech",,
+"Goblins vs Gnomes","Grabieżca Spaczenia",,"Za każdym razem gdy przeciwnik zagra kartę odrzuć 3 górne karty z twojej talii.","Epic",5,"Minion","GVG_016",,8,,,8,,True,"Zoltan & Gabor","Tyle grabienia. Takie spaczenie. Łał.",,"Mech",,
+"Goblins vs Gnomes","Hemet Nesingwary",,"<b>Okrzyk bojowy:</b> Zniszcz Bestię.","Legendary",5,"Minion","GVG_120",Battlecry,3,,,6,,True,"Ralph Horsley","Nigdy nie żegna się z bronią.",True,,,
+"Goblins vs Gnomes","Hobgoblin",,"Za każdym razem gdy zagrywasz stronnika z atakiem 1 daj mu +2/+2.","Epic",3,"Minion","GVG_104",,3,,,2,,True,"Laurel D. Austin","Podczas najbliższego walnego zebrania związek zawodowy hobgoblinów zajmie stanowisko w sprawie planów przedłużenia wieku emerytalnego do siedmiu lat.",,,,
+"Goblins vs Gnomes","Hobomoc!",,"+2/+2.",,,"Enchantment","GVG_104a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Hukobot",,"<b>Agonia:</b> Zadaj 1-4 pkt. obrażeń losowemu wrogowi.",,1,"Minion","GVG_110t",Deathrattle,1,,,1,,,,,,"Mech",,
+"Goblins vs Gnomes","Jan",,"Każdy gracz kończący turę musi dobrać karty aż będzie mieć ich 3 na ręce.","Rare",4,"Minion","GVG_094",,4,,,1,,True,"Matt Dixon","W profesji lokaja najbardziej ceni sobie dobieranie opon.",,"Mech",,
+"Goblins vs Gnomes","Jednooki szubrawiec",,"Otrzymuje <b>Ukrycie</b> za każdym razem gdy przyzwiesz Pirata.","Rare",2,"Minion","GVG_025",,1,,,4,"Rogue",True,"Danny Beck","Jest groźniejszy od jednorękiego bandyty.",,"Pirate",,
+"Goblins vs Gnomes","Jutrzenka",,"Jeśli na koniec twojej tury kontrolujesz <b>Sekret</b> przywróć 4 pkt. zdrowia twojemu bohaterowi.","Rare",3,"Minion","GVG_089",,4,,,2,,True,"Jim Nelson","„LUMOS!” – nie należy do ich repertuaru zawołań. Nie jesteśmy w Hogwarcie.",,,,
+"Goblins vs Gnomes","Kałużniak",,,"Common",2,"Minion","GVG_064",,2,,,3,,True,"Jaemin Kim","Żyje w zbiorniku wodnym o znikomym znaczeniu strategicznym ale nie spędza mu to snu z powiek.",,"Murloc",,
+"Goblins vs Gnomes","Kamuflaż",,"Ukrycie trwa do następnej tury.",,,"Enchantment","PART_004e",,,,,,,,,,,,,
+"Goblins vs Gnomes","Klekotnik Wyśrubny",,"<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +2/+2.","Rare",4,"Minion","GVG_055",Battlecry,5,,,2,"Warrior",True,"Jesper Esjing","Zawodowo zajmuje się klekotacją i wyśrubowywaniem.",,"Mech",,
+"Goblins vs Gnomes","Kobaltowy strażnik",,"Otrzymuje <b>Boską tarczę</b> za każdym razem gdy przyzywasz Mecha.","Rare",5,"Minion","GVG_062",,3,,,6,"Paladin",True,"Jim Nelson","Dawniej strażników robiono z adamantium ale produkcję przeniesiono do Gadżetonu gdzie kobalt był po taniości.",,"Mech",,
+"Goblins vs Gnomes","Krecia mina",,"Kiedy dobierasz tę kartę eksploduje. Otrzymujesz 10 pkt. obrażeń i dobierasz kartę.",,0,"Spell","GVG_056t",ImmuneToSpellpower,,,,,"Warrior",,"Chris Seaman",,,,,
+"Goblins vs Gnomes","Król",,"Zwiększony atak.",,,"Enchantment","GVG_046e",,,,,,"Hunter",,,,,,,
+"Goblins vs Gnomes","Król bestii",,"<b>Prowokacja</b>. <b>Okrzyk bojowy:</b> Otrzymuje +1 do ataku za każdą Bestię którą kontrolujesz.","Rare",5,"Minion","GVG_046",Battlecry|Taunt,6,,,2,"Hunter",True,"Seamus Gallagher","Na ciebie czekam lwie. Bo hiena chyba nie zżarła cię.",,"Beast",,
+"Goblins vs Gnomes","Kupiecki Książę Galiwiasz",,"Za każdym razem gdy przeciwnik rzuci zaklęcie otrzymujesz jego kopię zaś on dostaje Monetę.","Legendary",6,"Minion","GVG_028",,8,,,5,"Rogue",True,"Wei Wang","Galiwiasz potrafi doskonale liczyć dlatego liczy wyłącznie na siebie.",True,,,
+"Goblins vs Gnomes","Kurczak",,,,1,"Minion","GVG_092t",,1,,,1,,,,,,"Beast",,
+"Goblins vs Gnomes","Kwatermistrz",,"<b>Okrzyk bojowy:</b> Daj twoim Rekrutom Srebrnej Dłoni +2/+2.","Epic",5,"Minion","GVG_060",Battlecry,5,,,2,"Paladin",True,"Phroilan Gardner","Jego specjalność? Wolne kwatery nad morzem.",,,,
+"Goblins vs Gnomes","Lewitujący obserwator",,"Otrzymuje +2/+2 za każdym razem  gdy twój bohater otrzymuje obrażenia w twojej turze.","Common",5,"Minion","GVG_100",,4,,,4,"Warlock",True,"Todd Lockwood","Na początku nazywał się Złe Oko Pewnej Zguby ale nazwa odstraszała potencjalnych stronników.",,"Demon",,
+"Goblins vs Gnomes","Łomotobot",,"<b>Szał:</b> +1 do ataku.","Common",1,"Minion","GVG_051",Enrage,3,,,1,"Warrior",True,"Tyler Walpole","Miał być „robotobotem” ale jego projektant seplenił.",,"Mech",,
+"Goblins vs Gnomes","Machina oblężnicza",,"Za każdym razem gdy otrzymujesz pancerz daj temu stronnikowi +1 do ataku.","Rare",5,"Minion","GVG_086",,5,,,5,"Warrior",True,"Zero Yue","Nieźle się prezentuje na polu bitwy ale czy ma jakieś zastosowanie praktyczne?",,"Mech",,
+"Goblins vs Gnomes","Mal'Ganis",,"Twoje pozostałe Demony otrzymują +2/+2.
+Twój bohater posiada <b>Niewrażliwość</b>.","Legendary",9,"Minion","GVG_021",Aura,7,,,9,"Warlock",True,"Wayne Reynolds","Gdy się Mal'Ganisa gani ten okrutnie wszystkich rani!",True,"Demon",,
+"Goblins vs Gnomes","Mała egzorcystka",,"<b>Prowokacja</b>
+ <b>Okrzyk bojowy:</b> Otrzymuje +1/+1 za każdego wrogiego stronnika z <b>Agonią</b>.","Rare",3,"Minion","GVG_097",Battlecry|Taunt,3,,,2,,True,"Jim Nelson","Potrafi zamienić agonię w pelargonię!",,,,
+"Goblins vs Gnomes","Malorn",,"<b>Agonia:</b> Wtasuj tego stronnika do twojej talii.","Legendary",7,"Minion","GVG_035",Deathrattle,7,,,9,"Druid",True,"Oliver Chipping","Od czasu pamiętnego pojedynku z Archimondem Malorn nie pozwala się już wyjelenić.",True,"Beast",,
+"Goblins vs Gnomes","Mechaniczny yeti",,"<b>Agonia:</b> Daj każdemu z graczy po karcie <b>Części zamiennej</b>.","Common",4,"Minion","GVG_078",Deathrattle,5,,,4,,True,"Chris Seaman","Yeti z Zimnych Wichrów są źródłem inspiracji dla wielu wynalazców – kiedy akurat nie ścigają ich w celach konsumpcji.",,"Mech",,
+"Goblins vs Gnomes","Mechano Wzmacniano",,"<b>Okrzyk bojowy:</b> Twoi pozostali stronnicy otrzymują <b>Furię wichru</b> <b>Prowokację</b> lub <b>Boską tarczę</b>.
+<i>(losowo)</i>","Epic",4,"Minion","GVG_107",Battlecry,2,,,3,,True,"Zoltan Boros","Jego dopalacze są zakazane w niektórych krajach.",,"Mech",,
+"Goblins vs Gnomes","Mechinżynier Termowtyk",,"Za każdym razem gdy ginie wrogi stronnik przyzywasz Trędowatego gnoma.","Legendary",9,"Minion","GVG_116",,7,,,9,,True,"Trent Kaniuga","Chciał przejąć kontrolę nad Gnomoreganem ale wszyscy wiemy jak na tym wyszedł.",True,"Mech",,
+"Goblins vs Gnomes","Mecho-koto-dźwiedź",,"Za każdym razem gdy ten stronnik otrzyma obrażenia dodaj kartę <b>Części zamiennej</b> do twojej ręki.","Rare",6,"Minion","GVG_034",,6,,,7,"Druid",True,"Trent Kaniuga","Jego najlepszym kumplem jest Zwierzo-człeko-upiór.",,"Mech",,
+"Goblins vs Gnomes","Metalowe zęby",,"+2 do ataku.",,,"Enchantment","GVG_048e",,,,,,"Hunter",,,,,,,
+"Goblins vs Gnomes","Mikromaszyna",,"Na początku każdej tury otrzymuje +1 do ataku.","Common",2,"Minion","GVG_103",,2,,,1,,True,"Skan Srisuwan","Jest w związku z mikrokomputerem.",,"Mech",,
+"Goblins vs Gnomes","Minimag",,"<b>Ukrycie</b>
+<b>Obrażenia zaklęć +1</b>","Epic",4,"Minion","GVG_109",Spellpower|Stealth,1,,,4,,True,"Ben Olson","Czasem ukrywa się w kufrze ze skarbami na Arenie Gurubaszi.",,,,
+"Goblins vs Gnomes","Mistyczka z Kezanu",,"<b>Okrzyk bojowy:</b> Przejmij kontrolę nad losowym <b>Sekretem</b> przeciwnika.","Rare",4,"Minion","GVG_074",Battlecry,3,,,4,,True,"Jakub Kasper","Doznała oświecenia kontemplując kwiat lotosu unoszący się na przezroczystej tafli jeziora.",,,,
+"Goblins vs Gnomes","Moneta Galiwiasza",,"Otrzymujesz 1 kryształ many w tej turze.
+<i>(Nie uaktywnia to Galiwiasza.)</i>",,0,"Spell","GVG_028t",,,,,,,,,,,,,
+"Goblins vs Gnomes","Naganiacz mechów",,"Twoje Mechy kosztują (1) mniej.","Common",2,"Minion","GVG_006",Aura,3,,,2,,True,"Phil Saunders","Mechy które przywołują mechy? A potem co? Pączkujące pączki? Hmm w sumie...",,"Mech",,
+"Goblins vs Gnomes","Nakręcany gnom",,"<b>Agonia:</b> Dodaj kartę <b>Części zamiennej</b> do twojej ręki.","Common",1,"Minion","GVG_082",Deathrattle,1,,,2,,True,"Matt Dixon","Może i jest powolny ale jak się rozkręci…",,"Mech",,
+"Goblins vs Gnomes","Nakręcany olbrzym",,"Kosztuje (1) mniej za każdą kartę w ręce przeciwnika.","Epic",12,"Minion","GVG_121",,8,,,8,,True,"Dan Scott","Nie może znaleźć wspólnego języka z resztą olbrzymów.",,"Mech",,
+"Goblins vs Gnomes","Naprawa!",,"+4 do zdrowia.",,,"Enchantment","GVG_069a",,,,,,"Priest",,,,,,,
+"Goblins vs Gnomes","Neptulon",,"<b>Okrzyk bojowy:</b> Dodaj 4 losowe Murloki do twojej ręki. <b>Przeciążenie:</b> (3)","Legendary",7,"Minion","GVG_042",Battlecry,7,,,7,"Shaman",True,"Ruan Jia","Neptulon nie ogarnia murloków bo ostatnio coraz częściej jest zalany.",True,,,
+"Goblins vs Gnomes","Niestabilny kamuflaż",,"Daj przyjaznemu stronnikowi <b>Ukrycie</b> do twojej następnej tury.",,1,"Spell","PART_004",,,,,,,,"Nutchapol Thitinunthakorn",,,,,
+"Goblins vs Gnomes","Niestabilny portal",,"Dodaj losowego stronnika do twojej ręki. Kosztuje (3) mniej.","Rare",2,"Spell","GVG_003",,,,,,"Mage",True,"Sean O'Daniels","Mieszkańcy Azeroth nie zdają sobie sprawy ile kosztuje stabilizacja portali. Na ich utrzymanie leci jakieś 30% PKB!",,,,
+"Goblins vs Gnomes","Obłąkany bombiarz",,"<b>Okrzyk bojowy:</b> Zadaj 6 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi innymi postaciami.","Rare",5,"Minion","GVG_090",Battlecry,4,,,5,,True,"Alex Horley Orlandelli","Bombiarz ma bardzo wybuchowy charakter.",,,,
+"Goblins vs Gnomes","Odmagiczniacz X-21",,"<b>Prowokacja</b>
+Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.","Rare",4,"Minion","GVG_091",Taunt,5,,,2,,True,"Zero Yue","Gnomi magowie odbyli na temat tego mecha kilka bardzo poważnych rozmów z gnomimi inżynierami.",,"Mech",,
+"Goblins vs Gnomes","Ogniki błędniki",,"<b>Wybierz jedno:</b> Przyzwij 5 Ogników; lub daj stronnikowi +5/+5 oraz <b>Prowokację</b>.","Epic",6,"Spell","GVG_041",,,,,,"Druid",True,"Trent Kaniuga","Nad nazwą tej karty pracowały najtęższe umysły!",,,,
+"Goblins vs Gnomes","Ogniki błędniki",,"+5/+5 oraz <b>Prowokacja</b>.",,,"Enchantment","GVG_041c",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Ogniki błędniki",,"Przyzwij 5 Ogników.",,,"Spell","GVG_041b",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Ogniki błędniki",,"+5/+5 oraz <b>Prowokacja</b>.",,,"Spell","GVG_041a",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Ogniste działo",,"Zadaj $4 pkt. obrażeń losowemu wrogiemu stronnikowi.","Common",2,"Spell","GVG_001",,,,,,"Mage",True,"Mauricio Herrera","Ogniste działo doskonale wpisuje się w długą tradycję zabójczych goblińskich wynalazków.",,,,
+"Goblins vs Gnomes","Ogr mięśniak",,"50% szans na zaatakowanie niewłaściwego
+wroga.","Common",3,"Minion","GVG_065",,4,,,4,,True,"Vinod Rams","„JA MIEĆ LEPSZE STATY ZA NIŻSZOM CENE!”",,,,
+"Goblins vs Gnomes","Ogr Mogor",,"Wszyscy stronnicy mają 50% szans na zaatakowanie niewłaściwego wroga.","Legendary",6,"Minion","GVG_112",,6,,,7,,True,"Michal Ivan","Mogor uczestniczył w ponownym otwarciu Mrocznego Portalu. Jeśli o pomoc w tak odpowiedzialnym zadaniu musisz prosić ogra to wiedz że jesteś w poważnych tarapatach.",True,,,
+"Goblins vs Gnomes","Ogr ninja",,"<b>Ukrycie</b>
+50% szans na zaatakowanie niewłaściwego wroga.","Rare",5,"Minion","GVG_088",Stealth,6,,,6,"Rogue",True,"Samwise","Co prawda nie zdał egzaminu wstępnego do akademii ninja ale załapał się na dodatkowy nabór.",,,,
+"Goblins vs Gnomes","Ogrzy Haratacz",,"50% szans na zaatakowanie niewłaściwego
+wroga.","Common",3,"Weapon","GVG_054",,,,2,4,"Warrior",True,"Richard Wright","Brutalnie prosty – jak większość przejawów kultury ogrów.",,,,
+"Goblins vs Gnomes","Olejek osełkowy",,"+3 do ataku.",,,"Enchantment","GVG_022a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Olejek osełkowy",,"Daj twojej broni +3 do ataku. <b>Kombinacja:</b> Daj losowemu przyjaznemu stronnikowi +3 do ataku.","Common",4,"Spell","GVG_022",Combo,,,,,"Rogue",True,"Den","„Gotowi do smarowania!” - okrzyk bojowy łapówkarzy.",,,,
+"Goblins vs Gnomes","Olejek osełkowy",,"+3 do ataku.",,,"Enchantment","GVG_022b",,,,,,,,,,,,,
+"Goblins vs Gnomes","Opancerzenie",,"+1 do zdrowia.",,,"Enchantment","PART_001e",,,,,,,,,,,,,
+"Goblins vs Gnomes","Pajęczy czołg",,,"Common",3,"Minion","GVG_044",,4,,,3,,True,"Dany Orizio","„A może by tak zamontować na nim takie wielgachne działa?” – inżynier Migbłysk podczas odbioru Pajęczego Transportera Kroczącego.",,"Mech",,
+"Goblins vs Gnomes","Pani Bólu",,"Za każdym razem gdy ten stronnik zadaje obrażenia przywraca tyle samo zdrowia twojemu bohaterowi.","Rare",2,"Minion","GVG_018",,4,,,1,"Warlock",True,"Carl Critchlow","Jej siostra Pani Bulu zsyła cierpienie na władców królestwa Beznadzieji.",,"Demon",,
+"Goblins vs Gnomes","Pełne wyposażenie",,"+2/+2.",,,"Enchantment","GVG_060e",,,,,,"Paladin",,,,,,,
+"Goblins vs Gnomes","Piastunka Gaju",,"<b>Wybierz jedno:</b> Daj każdemu z graczy kryształ many; lub każdy z graczy dobiera kartę.","Rare",3,"Minion","GVG_032",,4,,,2,"Druid",True,"Chris Rahn","Lubi piesze wycieczki w leśnej głuszy. Nie lubi goblińskich szatkowników i sandałów (żadne na nią nie pasują).",,,,
+"Goblins vs Gnomes","Piechota Gnomoreganu",,"<b>Szarża</b>
+<b>Prowokacja</b>","Common",3,"Minion","GVG_098",Charge|Taunt,4,,,1,,True,"Zoltan & Gabor","Szarżuje prowokuje wrogów rozgnomuje!",,,,
+"Goblins vs Gnomes","Pieczęć Światłości",,"Przywróć #4 pkt. zdrowia twojemu bohaterowi i zyskaj +2 do ataku w tej turze.","Common",2,"Spell","GVG_057",ImmuneToSpellpower,,,,,"Paladin",True,"Jason Chan","A Pieczeń Światłości ponoć przywraca aż OSIEM punktów zdrowia!",,,,
+"Goblins vs Gnomes","Pieczęć Światłości",,"+2 do ataku w tej turze.",,,"Enchantment","GVG_057a",OneTurnEffect,,,,,,,,,,,,
+"Goblins vs Gnomes","Płomienny Lewiatan",,"Gdy dobierzesz tę kartę zadaj $2 pkt. obrażeń wszystkim postaciom.","Legendary",7,"Minion","GVG_007",,7,,,7,"Mage",True,"Aleksi Briclot","Mimiron często zabiera Płomiennego Lewiatana na szalone przejażdżki po Ulduarze.",True,"Mech",,
+"Goblins vs Gnomes","Podkręcenie",,"Obrażenia zaklęć +2.",,,"Enchantment","GVG_123e",Spellpower,,,,,"Mage",,,,,,,
+"Goblins vs Gnomes","Pomsta",,"Zwiększony atak",,,"Enchantment","GVG_063a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Poszycie",,"Zwiększony atak.",,,"Enchantment","GVG_086e",,,,,,"Warrior",,,,,,,
+"Goblins vs Gnomes","Poszycie",,"Daj stronnikowi +1 do zdrowia.",,1,"Spell","PART_001",,,,,,,,"Nutchapol Thitinunthakorn",,,,,
+"Goblins vs Gnomes","Potęga Majsterkowa",,"+1/+1.",,,"Enchantment","GVG_102e",,,,,,,,,,,,,
+"Goblins vs Gnomes","Potęga Zul'Farrak",,"Zwielokrotnienie ataku.",,,"Enchantment","GVG_049e",,,,,,"Hunter",,,,,,,
+"Goblins vs Gnomes","Pozorowanie śmierci",,"Aktywuj <b>Agonię</b> u wszystkich twoich stronników.","Epic",2,"Spell","GVG_026",,,,,,"Hunter",True,"Luca Zontini","Pozorując śmierć najtrudniej jest wydzielać odpowiedni zapach – wymaga to wielkiego poświęcenia (lub pomocy niedźwiedzia).",,,,
+"Goblins vs Gnomes","Promień skurczający",,"-2 do ataku w tej turze.",,,"Enchantment","GVG_011a",OneTurnEffect,,,,,,,,,,,,
+"Goblins vs Gnomes","Przerdzewiały klakson",,"Daj stronnikowi <b>Prowokację</b>.",,1,"Spell","PART_003",,,,,,,,"Peerasak Senalai",,,,,
+"Goblins vs Gnomes","Przetrawiona magia",,"Zwiększony atak.",,,"Enchantment","GVG_068a",Aura,,,,,,,,,,,,
+"Goblins vs Gnomes","Przetrawiona magia",,"Zwiększony atak.",,,"Enchantment","GVG_067a",Aura,,,,,,,,,,,,
+"Goblins vs Gnomes","Przyzwanie zwierza",,"Dobierz kartę.
+Jeśli jest to Bestia kosztuje (4) mniej.","Rare",2,"Spell","GVG_017",,,,,,"Hunter",True,"E.M. Gist","Prawdziwi łowcy potrafią nawet wpaść na trop owcy!",,,,
+"Goblins vs Gnomes","Rekombobulator",,"<b>Okrzyk bojowy:</b> Przemień przyjaznego stronnika w losowego stronnika o takim samym koszcie.","Epic",2,"Minion","GVG_108",Battlecry,2,,,3,,True,"Ben Olson","Ponieważ czasami kombobulacja udaje się dopiero za drugim razem.",,,,
+"Goblins vs Gnomes","Rozpylacz sadzy",,"<b>Obrażenia zaklęć +1</b>","Rare",3,"Minion","GVG_123",Spellpower,3,,,3,"Mage",True,"Phil Saunders","Wynalazcy rozpylacza sadzy i goblińskiego szatkownika od lat ciągają się po sądach z powodu drobnego sporu o prawa patentowe.",,"Mech",,
+"Goblins vs Gnomes","Sabotaż",,"Zniszcz losowego wrogiego stronnika. <b>Kombinacja</b>: Oraz broń przeciwnika.","Epic",4,"Spell","GVG_047",Combo,,,,,"Rogue",True,"Dave Allsop","„Kto pod kim dołki kopie ten ma dobrą łopatę” – z Vademecum młodego sabotażysty.",,,,
+"Goblins vs Gnomes","Serce demona",,"Zadaj $5 pkt. obrażeń stronnikowi. Jeśli jest przyjaznym Demonem daj mu zamiast tego +5/+5.","Epic",5,"Spell","GVG_019",,,,,,"Warlock",True,"Kerem Beyit","Właściwie wszyscy członkowie Koła na Rzecz Demonów to czarnoksiężnicy. Przypadek? Nie sądzę.",,,,
+"Goblins vs Gnomes","Serce demona",,"+5/+5.",,,"Enchantment","GVG_019e",,,,,,"Warlock",,,,,,,
+"Goblins vs Gnomes","Skaczące ostrze",,"Zadaj $1 pkt. obrażeń losowemu stronnikowi. Powtarzaj aż zginie jakiś stronnik.","Epic",3,"Spell","GVG_050",,,,,,"Warrior",True,"Andrew Hou","„Kosi kosi łapci. Pojedziem do babci. Babcia skosi gości. I obgryzie kości”. - popularna goblińska wyliczanka",,,,
+"Goblins vs Gnomes","Skurczmajster",,"<b>Okrzyk bojowy:</b> Daj stronnikowi -2 do ataku w tej turze.","Common",2,"Minion","GVG_011",Battlecry,2,,,3,"Priest",True,"Jim Nelson","Po katastrofie wywołanej przez Światopowiększator gnomy bardzo nieufnie odnoszą się do wynalazków manipulujących rozmiarami przedmiotów i osób.",,,,
+"Goblins vs Gnomes","Snajper Parochlebców",,"Moc specjalna twojego bohatera może być stosowana wobec stronników.","Epic",2,"Minion","GVG_087",,3,,,2,"Hunter",True,"Jun Kang","Gobliny najczęściej rozwiązują problemy za pomocą bomb dlatego nieczęsto trafiają się wśród nich snajperzy.",,,,
+"Goblins vs Gnomes","Śniegoczłap",,"<b>Zamroź</b> każdą postać zranioną przez tego stronnika.","Common",2,"Minion","GVG_002",Freeze,3,,,2,"Mage",True,"Gabor Szikszai","Zaczłapuje przeciwników na śmierć.",,"Mech",,
+"Goblins vs Gnomes","Strzał kobry",,"Zadaj $3 pkt. obrażeń stronnikowi oraz wrogiemu bohaterowi.","Common",5,"Spell","GVG_073",,,,,,"Hunter",True,"Howard Lyon","Strzał kobry jest dużo łatwiej opanować niż szał kobry.",,,,
+"Goblins vs Gnomes","Super ostre!",,"+1 do ataku.",,,"Enchantment","GVG_023a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Światło Naaru",,"Przywróć #3 pkt. zdrowia. Jeśli cel wciąż jest ranny przyzwij Strażniczkę Światłości.","Rare",1,"Spell","GVG_012",,,,,,"Priest",True,"Jesper Ejsing","Światła takiej jakości to ze świecą szukać.",,,,
+"Goblins vs Gnomes","Szaman Kafardunów",,"<b>Furia wichru
+Przeciążenie:</b> (1)
+50% szans na zaatakowanie niewłaściwego wroga.","Rare",4,"Minion","GVG_066",Windfury,4,,,5,"Shaman",True,"José Ladrönn","Zamyka oczy i daje się ponieść pierwotnym instynktom.",,,,
+"Goblins vs Gnomes","Szatkownik Szmondaka",,"<b>Agonia:</b> Przyzwij losowego legendarnego stronnika.","Legendary",8,"Minion","GVG_114",Deathrattle,7,,,5,,True,"Christopher Moeller","Kiedy Szmondak został pokonany jego szatkownik odkupił anonimowy nabywca. (Najprawdopodobniej był to Wyżer).",True,"Mech",,
+"Goblins vs Gnomes","Szkarłatny czyściciel",,"<b>Okrzyk bojowy:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom z <b>Agonią</b>.","Rare",3,"Minion","GVG_101",Battlecry,3,,,4,"Paladin",True,"Anton Zemskov","Kierownictwo Szkarłatnej Krucjaty rozważa zmianę nazwy na „Fuksjowa Krucjata” celem złagodzenia wizerunku tej organizacji.",,,,
+"Goblins vs Gnomes","Szlamior Duchobieżca",,"Dobierz kartę za każdym razem gdy zginie przyjazny Murlok. <b>Przeciążenie:</b> (1)","Epic",4,"Minion","GVG_040",,5,,,2,"Shaman",True,"Clint Langley","Żywioły przybywają z pomocą każdemu kto wzywa je w słusznej sprawie – nawet jeśli ów ktoś czyni to gulgocząc niezrozumiale.",,"Murloc",,
+"Goblins vs Gnomes","Tarczowniczka",,"<b>Okrzyk bojowy:</b> Otrzymujesz 5 pkt. pancerza.","Rare",6,"Minion","GVG_053",Battlecry,5,,,5,"Warrior",True,"Alex Horley Orlandelli","Zawsze ma pod ręką kilka zapasowych tarcz – tak na wszelki wypadek.",,,,
+"Goblins vs Gnomes","Technik z Majsterkowa",,"<b>Okrzyk bojowy:</b> Otrzymuje +1/+1 oraz dodajesz kartę <b>Części zamiennej</b> do twojej ręki jeśli kontrolujesz Mecha.","Common",3,"Minion","GVG_102",Battlecry,3,,,3,,True,"Gabor Szikszai","Jak przygoda to tylko w Majsterkowie!",,,,
+"Goblins vs Gnomes","Tłoki",,"Zwiększony atak.",,,"Enchantment","GVG_076a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Toshley",,"<b>Okrzyk bojowy oraz Agonia:</b> Dodaj kartę <b>Części zamiennej</b> do twojej ręki.","Legendary",6,"Minion","GVG_115",Battlecry|Deathrattle,7,,,5,,True,"Zoltan & Gabor","Marzył o mieczu świetlnym ale miał za mało mocy.",True,,,
+"Goblins vs Gnomes","Trogg kruszyskalny",,"Otrzymuje +1 do ataku za każdym razem gdy przeciwnik rzuci zaklęcie.","Common",2,"Minion","GVG_067",,3,,,2,,True,"Peet Cooper","Jedyna rzecz gorsza od wąchania trogga to słuchanie jego poezji.",,,,
+"Goblins vs Gnomes","Trogg twardopaszczy",,"Otrzymuje +2 do ataku za każdym razem gdy przeciwnik rzuci zaklęcie.","Common",4,"Minion","GVG_068",,5,,,3,,True,"Chris Rahn","Mimo twardej paszczy lubi jajka na miękko.",,,,
+"Goblins vs Gnomes","Troggzor Zieminator",,"Za każdym razem gdy przeciwnik rzuci zaklęcie przyzywasz Trogga twardopaszczego.","Legendary",7,"Minion","GVG_118",,6,,,6,,True,"Mike Sass","Jeszcze tu wróci.",True,,,
+"Goblins vs Gnomes","Tryb bojowy",,"+1 do ataku.",,,"Spell","GVG_030a",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Tryb bojowy",,"+1 do ataku.",,,"Enchantment","GVG_030ae",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Tryb obronny",,"+1 do zdrowia.",,,"Enchantment","GVG_030be",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Tryb obronny",,"+1 do zdrowia.",,,"Spell","GVG_030b",,,,,,"Druid",,,,,,,
+"Goblins vs Gnomes","Trybomłot",,"<b>Okrzyk bojowy:</b> Daj losowemu przyjaznemu stronnikowi <b>Boską tarczę</b> oraz <b>Prowokację</b>.","Epic",3,"Weapon","GVG_059",Battlecry,,,3,2,"Paladin",True,"Danny Orizio","Kawał złomu wyrwany z jakiegoś ustrojstwa wetknięty na patyk i pomazany starożytnymi runami – broń tak niezawodna jak wskazuje na to jej opis.",,,,
+"Goblins vs Gnomes","Trzask",,"Zadaj $3-$6 pkt. obrażeń.
+<b>Przeciążenie:</b> (1)","Common",2,"Spell","GVG_038",,,,,,"Shaman",True,"Warren Mahy","Słyszysz trzask i wydajesz wrzask!",,,,
+"Goblins vs Gnomes","Tycia wyklinaczka",,"Sąsiedni stronnicy nie mogą zostać wybrani jako cel zaklęć lub mocy specjalnych.","Epic",4,"Minion","GVG_122",Aura,5,,,2,"Mage",True,"Jonboy Meyers","Zacięcie wyklina każde zaklęcie.",,,,
+"Goblins vs Gnomes","Tygrys metalozębny",,"<b>Okrzyk bojowy:</b> Daj twoim innym Mechom +2 do ataku.","Rare",3,"Minion","GVG_048",Battlecry,3,,,3,"Hunter",True,"Hideaki Takamura","Nie zostawiaj ich na deszczu. W kraterze Un'goro jest cała kolonia tygrysów rdzawozębnych.",,"Mech",,
+"Goblins vs Gnomes","Ulepszony reperobot",,"<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +4 do zdrowia.","Rare",5,"Minion","GVG_083",Battlecry,5,,,5,"Priest",True,"Nutchapol Thitinunthakorn","Ten model nie różni się niczym od poprzedniego – po prostu ma w nazwie słowo „ulepszony” i jest z tego powodu dwukrotnie droższy.",,"Mech",,
+"Goblins vs Gnomes","Uścisk Mal'Ganisa",,"Mal'Ganis zapewnia +2/+2.",,,"Enchantment","GVG_021e",,,,,,"Warlock",,,,,,,
+"Goblins vs Gnomes","V-07-TR-0N",,"<b>Szarża</b>
+<b>Mega furia wichru</b> <i>(Może atakować cztery razy w ciągu tury).</i>","Legendary",8,"Minion","GVG_111t",Charge,8,,,4,,,"Chris Seaman",,True,"Mech",,
+"Goblins vs Gnomes","Vol'jin",,"<b>Okrzyk bojowy:</b> Zamień punkty zdrowia z innym stronnikiem.","Legendary",5,"Minion","GVG_014",Battlecry,2,,,6,"Priest",True,"Raymond Swanland","Vol'jin jest łowcą cienia czyli takim jakby kapłanem cienia ale z większym nastawieniem na wudowanie.",True,,,
+"Goblins vs Gnomes","Wajcha Wihajmistrza",,"Ma +2 do ataku gdy kontrolujesz Mecha.","Epic",3,"Weapon","GVG_024",Aura,,,3,1,"Rogue",True,"Richard Wright","Do tentegowania i łbów rozwalania!",,,,
+"Goblins vs Gnomes","Werbunek",,"Przyzwij trzech Rekrutów Srebrnej Dłoni 1/1. Wyposaż bohatera w broń 1/4.","Rare",3,"Spell","GVG_061",,,,,,"Paladin",True,"Mike Hayes","„Dwóch synów matka miała - mądry został na roli a drugi poszedł do Srebrnej Dłoni”. – tekst przyśpiewki rekrutów.",,,,
+"Goblins vs Gnomes","Wihajmistrz",,"Ma +2 do ataku gdy kontrolujesz Mecha.","Common",1,"Minion","GVG_013",Aura,2,,,1,,True,"Trent Kaniuga","W końcu się przyzwyczajasz. Ja już nawet nie zauważam sprężyn i kółek zębatych. Widzę robota pajęczy czołg promień śmierci...",,,,
+"Goblins vs Gnomes","Wilk morski",,,"Common",5,"Minion","GVG_070",,4,,,7,,True,"Alex Horley Orlandelli","Przez pewien czas był wilkiem podmorskim ale w końcu go wyłowiono.",,"Pirate",,
+"Goblins vs Gnomes","Wirujące ostrza",,"+1 do ataku.",,,"Enchantment","PART_007e",,,,,,,,,,,,,
+"Goblins vs Gnomes","Wirujące ostrza",,"Daj stronnikowi +1 do ataku.",,1,"Spell","PART_007",,,,,,,,"Nutchapol Thitinunthakorn",,,,,
+"Goblins vs Gnomes","Wirujący iskrobot",,"<b>Furia wichru</b>","Common",2,"Minion","GVG_037",Windfury,2,,,3,"Shaman",True,"Jim Nelson","Należy go trzymać z dala od beczek z prochem.",,"Mech",,
+"Goblins vs Gnomes","Wkurzotron",,"<b>Prowokacja</b>
+<b>Boska tarcza</b>","Common",2,"Minion","GVG_085",Divine Shield|Taunt,2,,,1,,True,"Matt Dixon","Wynalazcę Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstrów później z Majsterkowa aż w końcu wygnano go ze Wschodnich Królestw i zakazano powrotu.",,"Mech",,
+"Goblins vs Gnomes","Wybraniec Velena",,"+2/+4 oraz <b>Obrażenia zaklęć +1</b>.",,,"Enchantment","GVG_010b",,,,,,,,,,,,,
+"Goblins vs Gnomes","Wybraniec Velena",,"Daj stronnikowi +2/+4 oraz <b>Obrażenia zaklęć +1</b>.","Common",3,"Spell","GVG_010",,,,,,"Priest",True,"Alex Horley Orlandelli","Jak Velen kogoś wybierze to nie ma zmiłuj!",,,,
+"Goblins vs Gnomes","Wybuchowa owca",,"<b>Agonia:</b> Zadaj 2 pkt. obrażeń wszystkim stronnikom.","Common",2,"Minion","GVG_076",Deathrattle,1,,,1,,True,"Ralph Horsley","Modę na wybuchowe owce zapoczątkował niejaki szewczyk Skuba z czworaków pod Wichrogrodem.",,"Mech",,
+"Goblins vs Gnomes","Wyśrubnik",,"+2/+2.",,,"Enchantment","GVG_055e",,,,,,"Warrior",,,,,,,
+"Goblins vs Gnomes","Wzmocnienie",,"+2/+2.",,,"Enchantment","GVG_036e",,,,,,"Shaman",,,,,,,
+"Goblins vs Gnomes","Zacienienie",,"Zamienione zdrowie.",,,"Enchantment","GVG_014a",,,,,,"Priest",,,,,,,
+"Goblins vs Gnomes","Zagubiony biegus",,,"Common",4,"Minion","GVG_071",,4,,,5,,True,"Benjamin Zhang","Na zadku ma wytatuowaną wiadomość: „Znalazcę prosimy o zwrot zguby do Mulgoru”.",,"Beast",,
+"Goblins vs Gnomes","Załogowy podniebny golem",,"<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 4.","Epic",6,"Minion","GVG_105",Deathrattle,4,,,6,,True,"Michael Phillippi","To szczytowe osiągnięcie goblińskiej technologii jest wyposażone w skórzaną tapicerkę ekspres do kawy i podgrzewane siedzenia.",,"Mech",,
+"Goblins vs Gnomes","Załogowy szatkownik",,"<b>Agonia:</b> Przyzwij losowego stronnika o koszcie 2.","Common",4,"Minion","GVG_096",Deathrattle,3,,,4,,True,"Dan Scott","Kiedyś tylko gobliny mogły siadać za sterami szatkowników. Dzisiaj produkują nawet modele dla taurenów.",,"Mech",,
+"Goblins vs Gnomes","Zamiana",,"Atak i zdrowie zostały zamienione przez Zmiano-odwracacz.",,,"Enchantment","PART_006a",,,,,,,,,,,,,
+"Goblins vs Gnomes","Żelazna postać",,"Zwiększone statystyki.",,,"Enchantment","GVG_027e",,,,,,"Rogue",,,,,,,
+"Goblins vs Gnomes","Żelazny moloch",,"<b>Okrzyk bojowy:</b> Wtasuj Minę do talii przeciwnika. Jeśli zostanie dobrana eksploduje zadając 10 pkt. obrażeń.","Legendary",6,"Minion","GVG_056",Battlecry,5,,,6,"Warrior",True,"Raymond Swanland","Żelazny moloch niestrudzenie strzeże Orgrimmaru. Jest tak skuteczny że właśnie udało mu się zostać pracownikiem miesiąca!",True,"Mech",,
+"Goblins vs Gnomes","Żelazny sensei",,"Na koniec twojej tury daj innemu przyjaznemu Mechowi +2/+2.","Rare",3,"Minion","GVG_027",,2,,,2,"Rogue",True,"Brian Despain","Jest jednym z nielicznych pedagogów który znajduje wspólny język z mechami.
+
+01000111101001001",,"Mech",,
+"Goblins vs Gnomes","Zew przodków",,"Umieść po jednym losowym stronniku z ręki każdego z graczy na polu bitwy.","Epic",4,"Spell","GVG_029",,,,,,"Shaman",True,"Dan Scott","Poprzednia wersja tej karty nazywała się „Zlew przodków” ale przodkowie się obrazili.",,,,
+"Goblins vs Gnomes","Zezłomowanie",,"Zwiększone statystyki.",,,"Enchantment","GVG_106e",,,,,,,,,,,,,
+"Goblins vs Gnomes","Złomobot",,"Otrzymuje +2/+2 za każdym razem gdy zginie przyjazny Mech.","Epic",5,"Minion","GVG_106",,5,,,1,,True,"Zoltan Boros","To złomobot wszystko skrawa bez różnicy stal czy trawa. I w ogóle jest zabawa!",,"Mech",,
+"Goblins vs Gnomes","Zmarszczenie brwi",,"Zwiększone statystyki.",,,"Enchantment","GVG_100e",,,,,,"Warlock",,,,,,,
+"Goblins vs Gnomes","Zmiano-odwracacz",,"Zamień atak i zdrowie stronnika.",,1,"Spell","PART_006",,,,,,,,"Nutthapon Petthai",,,,,
+"Goblins vs Gnomes","Zmiażdżenie",,"Zniszcz stronnika. Jeśli kontrolujesz rannego stronnika koszt tej karty jest mniejszy o (4) pkt.","Epic",7,"Spell","GVG_052",,,,,,"Warrior",True,"Michael Sutfin","Pewna wojowniczka imieniem Jagienka często używała tej karty na orzechach.",,,,
+"Goblins vs Gnomes","Życiodajny totem",,"Na koniec twojej tury przywraca 4 pkt. zdrowia twojemu bohaterowi.","Rare",2,"Minion","GVG_039",,3,,,0,"Shaman",True,"Guangjian Huang","Przed użyciem zapoznaj się z treścią ulotki dołączonej do opakowania bądź skonsultuj się z szamanem lub duchami przodków.",,"Totem",,
