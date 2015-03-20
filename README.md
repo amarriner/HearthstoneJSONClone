@@ -9,3 +9,8 @@ the changes after every patch (or possibly automate that if I can find the time 
 
 The original tool output to JSON which is nice, but I thought it might be useful to have it in XML format as well. 
 Just using a simple python utility to perform that translation so it's not perfect, but serviceable.
+
+## CSV Output
+
+Some people just want a list of cards so I did a first pass at converting to CSV. Seems relatively okay except that 
+currently column header order is somewhat arbitrary.
