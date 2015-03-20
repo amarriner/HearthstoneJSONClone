@@ -308,9 +308,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -320,6 +317,9 @@
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; détruit tous les autres serviteurs et vous défausse de votre main.
   </text>
@@ -335,15 +335,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Aile de mort, autrefois nommé Neltharion, était à l’époque un noble dragon mais il perdit la tête et ravagea Azeroth avant d’être vaincu. Un complexe d’Œdipe ?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -375,6 +375,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Furie des vents, Charge, Bouclier divin, Provocation&lt;/b&gt;
   </text>
@@ -390,15 +393,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Quel est le comble pour Al’Akir ? Se prendre régulièrement un vent des trois autres seigneurs élémentaires.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -461,9 +461,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -473,6 +470,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; fixe les points de vie restants d’un héros à 15.
   </text>
@@ -491,15 +491,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alexstrasza la Lieuse-de-vie apporte vie et espoir à tout le monde. Sauf à Aile de mort. Et Malygos. Et Nekros.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -987,15 +987,15 @@
   <name>
    Arc long du gladiateur
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Votre héros est &lt;b&gt;Insensible&lt;/b&gt; quand il attaque.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt; quand il attaque.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1034,6 +1034,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    Si vous contrôlez un &lt;b&gt;Secret&lt;/b&gt; à la fin de votre tour, gagne +2/+2.
   </text>
@@ -1049,15 +1052,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Les éthériens s’enroulent dans des étoffes pour donner forme à leur silhouette. Mais aussi parce que c’est doux et seyant.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -1078,6 +1078,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Chaque fois que vous lancez un sort, ajoute un sort « boule de feu » dans votre main.
   </text>
@@ -1096,17 +1099,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Antonidas était le grand magus du Kirin Tor et le mentor de Jaina. C’était une sacrée ascension sociale par rapport à l’époque où les gens l’appelaient le faux mage blanc.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -1303,9 +1303,9 @@ gagne +1/+1.
   <name>
    Baine Sabot-de-Sang
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1318,9 +1318,9 @@ gagne +1/+1.
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -1404,6 +1404,9 @@ gagne +1/+1.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    À la fin de votre tour, inflige 2 points de dégâts à TOUS les autres personnages.
   </text>
@@ -1422,15 +1425,12 @@ gagne +1/+1.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Le baron Geddon était le premier lieutenant de Ragnaros, mais il s’enflammait trop vite, et il a été viré.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -2057,6 +2057,9 @@ Inflige 3 points de dégâts.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque Baine Sabot-de-Sang avec 4/5.
   </text>
@@ -2075,15 +2078,12 @@ Inflige 3 points de dégâts.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Cairne a été tué par Garrosh, alors... ne le placez pas dans un deck de guerrier. Ça ne serait vraiment pas sympa.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -2114,9 +2114,6 @@ Inflige 3 points de dégâts.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2142,6 +2139,9 @@ ont +1/+1.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Il espère pouvoir amasser un butin suffisant pour monter une auberge avec toutes les recettes qu’il a « trouvées ». Pirate !
   </flavor>
@@ -2161,9 +2161,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2173,6 +2170,9 @@ ont +1/+1.
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; confère +1/+1 à votre arme.
   </text>
@@ -2188,15 +2188,15 @@ ont +1/+1.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Il était &lt;i&gt;à ça&lt;/i&gt; de pénétrer dans le port de Hurlevent avec un énorme mastodonte. Mais à cause de ces foutus gamins, il n’a pas réussi !
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -2297,6 +2297,9 @@ ont +1/+1.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Choix des armes :&lt;/b&gt; confère +2/+2 à vos autres serviteurs ou invoque deux tréants 2/2 avec &lt;b&gt;Provocation&lt;/b&gt;.
   </text>
@@ -2315,17 +2318,14 @@ ont +1/+1.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Oui, c’est un demi-dieu et non, il n’a pas besoin de porter de chemise.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -2466,9 +2466,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -2496,6 +2493,9 @@ ont +1/+1.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Est-ce que les murlocs se lassent de pousser toujours le même cri ? Bien sûr que non ! Mrglglrglglglglglglgl !
   </flavor>
@@ -2601,9 +2601,6 @@ ont +1/+1.
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2622,6 +2619,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2641,9 +2641,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2671,6 +2668,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Son vol est peut-être discret mais son cri... n’est vraiment pas silencieux, lui.
   </flavor>
@@ -2694,6 +2694,9 @@ ont +1/+1.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Quand un joueur lance un sort, en place une copie dans la main de son adversaire.
   </text>
@@ -2712,17 +2715,14 @@ ont +1/+1.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Le chroniqueur Cho raconte et archive toutes les légendes de la Pandarie, mais son récit préféré est celui des aventures de Li Li et Chen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -2736,9 +2736,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2766,6 +2763,9 @@ ont +1/+1.
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -3202,9 +3202,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -3229,6 +3226,9 @@ ont +1/+1.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    En langage pirate, « Yarrrr » signifie « Bien le bonjour, mon seigneur. ». Évidemment.
   </flavor>
@@ -3446,9 +3446,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3473,6 +3470,9 @@ ont +1/+1.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Du murloc, voilà ce qu’on mange ce soir.
   </flavor>
@@ -3756,9 +3756,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3786,6 +3783,9 @@ ont +1/+1.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -3990,9 +3990,6 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4014,6 +4011,9 @@ ont +1/+1.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4022,9 +4022,6 @@ ont +1/+1.
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4046,6 +4043,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -4062,9 +4062,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4092,6 +4089,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -4116,9 +4116,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4146,6 +4143,9 @@ ont +1/+1.
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Les diablotins s’enflamment toujours pour un rien.
   </flavor>
@@ -4160,9 +4160,6 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4184,6 +4181,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -4385,9 +4385,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4412,6 +4409,9 @@ ont +1/+1.
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Adorable, insensible à la magie et ne fait pas pipi sur la moquette. L’animal de compagnie parfait !
   </flavor>
@@ -4423,9 +4423,6 @@ ont +1/+1.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4441,6 +4438,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -4449,9 +4449,6 @@ ont +1/+1.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4470,6 +4467,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -4489,9 +4489,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4520,6 +4517,9 @@ ont +1/+1.
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Au départ, il voulait s’appeler drake béryl ou céruléen, mais ça faisait un peu trop prétentieux.
   </flavor>
@@ -4539,9 +4539,6 @@ ont +1/+1.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4569,6 +4566,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Les drakes du Crépuscule se nourrissent d’énergie mystique. Et de crêpes au suc’.
   </flavor>
@@ -4580,9 +4580,6 @@ ont +1/+1.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4598,6 +4595,9 @@ ont +1/+1.
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -4658,9 +4658,6 @@ ont +1/+1.
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4682,6 +4679,9 @@ ont +1/+1.
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4698,9 +4698,6 @@ ont +1/+1.
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4722,6 +4719,9 @@ ont +1/+1.
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4815,9 +4815,6 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4839,6 +4836,9 @@ ont +1/+1.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4939,6 +4939,9 @@ ont +1/+1.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Combo :&lt;/b&gt; gagne +2/+2 pour chaque carte jouée auparavant pendant ce tour.
   </text>
@@ -4957,15 +4960,12 @@ ont +1/+1.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il a dirigé les maçons lors de la reconstruction de Hurlevent, et lorsque les nobles ont refusé de payer, il a fondé la Confrérie défias pour, eh bien, &lt;i&gt;redécorer&lt;/i&gt; la ville.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -5342,15 +5342,15 @@ ont +1/+1.
   <name>
    Épée de justice
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Chaque fois que vous invoquez un serviteur, lui donne +1/+1 et perd 1 Durabilité.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Chaque fois que vous invoquez un serviteur, lui donne +1/+1 et perd 1 Durabilité.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -6048,9 +6048,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -6063,9 +6063,9 @@ Invoque un infernal 6/6.
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -6175,9 +6175,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -6202,6 +6199,9 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Tous les pirates utilisent les mêmes quatre chiffres pour accéder aux distributeurs d’or automatiques. C’est pour ça que ça s’appelle le « code des pirates ».
   </flavor>
@@ -6571,9 +6571,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6601,6 +6598,9 @@ Invoque un infernal 6/6.
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Oui, il va combattre pour vous. MAIS IL NE VA PAS AIMER ÇA.
   </flavor>
@@ -6689,9 +6689,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6719,6 +6716,9 @@ Invoque un infernal 6/6.
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Vous seriez prêt à &lt;i&gt;sacrifier une vie&lt;/i&gt; pour invoquer un garde funeste ?!
   </flavor>
@@ -7224,9 +7224,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -7254,6 +7251,9 @@ Invoque un infernal 6/6.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    « Seuil de surchauffe dépassé. Plantage système. Bourrage céréale en tuyère deux. Extinction. »
   </flavor>
@@ -7265,9 +7265,6 @@ Invoque un infernal 6/6.
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -7289,6 +7286,9 @@ Invoque un infernal 6/6.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -7386,9 +7386,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7413,6 +7410,9 @@ Invoque un infernal 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -7449,6 +7449,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;.
 &lt;b&gt;Accès de rage :&lt;/b&gt; +6 ATQ
@@ -7468,15 +7471,12 @@ Invoque un infernal 6/6.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Grommash a bu le sang contaminé de Mannoroth, condamnant les orcs à avoir la peau verte et les yeux rouges ! Ce n’était peut-être pas sa meilleure décision...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -7497,6 +7497,9 @@ Invoque un infernal 6/6.
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    À la fin de chaque tour, gagne +1/+1.
   </text>
@@ -7512,17 +7515,14 @@ Invoque un infernal 6/6.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Son nom est Gruul, « le tueur de dragons ». Il voulait juste les câliner... Il ne pensait pas que...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -7654,15 +7654,15 @@ Invoque un infernal 6/6.
   <name>
    Hache de Forge-foudre
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Surcharge :&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Surcharge :&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -7778,6 +7778,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; détruit l’arme de votre adversaire. Vous piochez le nombre de cartes équivalent à sa durabilité.
   </text>
@@ -7796,15 +7799,12 @@ Invoque un infernal 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    « Sa place est dans le hall des Explorateurs ! »
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -7960,15 +7960,15 @@ Invoque un infernal 6/6.
   <name>
    Hurlesang
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Attaquer un serviteur coûte 1 ATQ au lieu de 1 Durabilité.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Attaquer un serviteur coûte 1 ATQ au lieu de 1 Durabilité.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -7995,9 +7995,6 @@ Invoque un infernal 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8019,6 +8016,9 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -8033,9 +8033,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8060,6 +8057,9 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -8079,9 +8079,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8091,6 +8088,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Quand vous jouez une carte, invoque une Flamme d’Azzinoth 2/1.
   </text>
@@ -8109,15 +8109,15 @@ Invoque un infernal 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Le frère d’Illidan, Malfurion, l’a emprisonné sous Hyjal pendant dix mille ans. Les Hurlorage sont vraiment rancuniers.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
@@ -8161,9 +8161,6 @@ Invoque un infernal 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8185,6 +8182,9 @@ Invoque un infernal 6/6.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -8336,9 +8336,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8366,6 +8363,9 @@ Invoque un infernal 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    L’équipe championne de tournoi de balle au tauren s’en est inspirée pour choisir leur nom : les faucons-dragons.
   </flavor>
@@ -8613,9 +8613,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8640,6 +8637,9 @@ Invoque un infernal 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Ce kodo est tellement gros qu’il pourrait s’écraser &lt;i&gt;lui-même&lt;/i&gt;.
   </flavor>
@@ -8659,9 +8659,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8671,6 +8668,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque Finkle Einhorn 3/3 pour votre adversaire.
   </text>
@@ -8689,15 +8689,15 @@ Invoque un infernal 6/6.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Elle vit au mont Rochenoire. Elle mange les gnomes. Point barre.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -8755,15 +8755,15 @@ Invoque un infernal 6/6.
   <name>
    Lame de la perdition
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Cri de guerre :&lt;/b&gt; inflige 1 point de dégâts. &lt;b&gt;Combo :&lt;/b&gt; inflige 2 points de dégâts à la place.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Cri de guerre :&lt;/b&gt; inflige 1 point de dégâts. &lt;b&gt;Combo :&lt;/b&gt; inflige 2 points de dégâts à la place.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -8802,6 +8802,9 @@ Invoque un infernal 6/6.
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    À la fin de votre tour, invoque un gnoll 2/2 avec &lt;b&gt;Provocation&lt;/b&gt;.
   </text>
@@ -8817,15 +8820,12 @@ Invoque un infernal 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Lardeur est super fort. Si vous réussissez à le tuer, c’est uniquement parce qu’il vous aura &lt;i&gt;laissé&lt;/i&gt; faire.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -8848,6 +8848,9 @@ Invoque un infernal 6/6.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; détruit un serviteur adverse avec &lt;b&gt;Provocation&lt;/b&gt;.
   </text>
@@ -8863,15 +8866,12 @@ Invoque un infernal 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Le roi-liche l’a envoyé interrompre le tournoi d’Argent. Mais on peut dire que ça a été un échec cuisant.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -8920,6 +8920,9 @@ Invoque un infernal 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;. &lt;b&gt;Cri de guerre :&lt;/b&gt; invoque deux dragonnets 1/1 pour votre adversaire.
   </text>
@@ -8938,15 +8941,12 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Au moins, il a un poulet furieux.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -9009,9 +9009,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9039,6 +9036,9 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -9118,6 +9118,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Dégâts des sorts : +1&lt;/b&gt;.
 &lt;b&gt;Râle d’agonie :&lt;/b&gt; vous piochez une carte.
@@ -9137,15 +9140,12 @@ Invoque un infernal 6/6.
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il est en charge de la campagne annuelle de don du sang du monastère Écarlate.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -9306,9 +9306,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -9337,6 +9334,9 @@ Invoque un infernal 6/6.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Il devient super fort pendant les réunions de famille !
   </flavor>
@@ -9490,9 +9490,6 @@ Invoque un infernal 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9502,6 +9499,9 @@ Invoque un infernal 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Dégâts des sorts : +5&lt;/b&gt;
   </text>
@@ -9520,15 +9520,15 @@ Invoque un infernal 6/6.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Malygos déteste que les humains utilisent la magie, ça le rend fou !
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -9768,16 +9768,16 @@ Invoque un infernal 6/6.
   <name>
    Marteau-du-Destin
   </name>
-  <durability>
-   8
-  </durability>
+  <faction>
+   Neutral
+  </faction>
   <text>
    &lt;b&gt;Furie des vents
 Surcharge :&lt;/b&gt; (2)
   </text>
-  <faction>
-   Neutral
-  </faction>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -9853,9 +9853,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -9883,6 +9880,9 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    La nouvelle mode chez les pirates, c’est d’enflammer les planches !
   </flavor>
@@ -10036,6 +10036,9 @@ Surcharge :&lt;/b&gt; (2)
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; les sorts adverses coûtent (0) au prochain tour.
   </text>
@@ -10051,15 +10054,12 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    « Allumeeer le feu, allumeeeeer le feu ! »
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -10181,9 +10181,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -10208,6 +10205,9 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Le pillage pour moi, c’est seulement les jours en « di ».
   </flavor>
@@ -10311,6 +10311,9 @@ Surcharge :&lt;/b&gt; (2)
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Au début de votre tour, vous avez 50% de chances de piocher une carte supplémentaire.
   </text>
@@ -10329,17 +10332,14 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Nat Pagle, le meilleur pêcheur d’Azeroth ! Il a inventé le pêcheur-o-matic 3000, l’allonge-canne 3000 et l’appât-o-matic 2099 (en cours d’expérimentation).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -10561,9 +10561,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -10573,6 +10570,9 @@ Surcharge :&lt;/b&gt; (2)
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Les joueurs n’ont que 15 secondes pour jouer leur tour.
   </text>
@@ -10591,17 +10591,17 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    Dépêchez-vous, son temps est précieux !
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -10770,9 +10770,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -10782,6 +10779,9 @@ Surcharge :&lt;/b&gt; (2)
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; invoque des dragonnets 1/1 jusqu’à remplir votre côté du plateau.
   </text>
@@ -10800,15 +10800,15 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Onyxia a longtemps manipulé la cour de Hurlevent en se faisant passer pour dame Katrana Prestor. Les ailes immenses et les écailles auraient dû leur mettre la puce à l’oreille.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -10822,9 +10822,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -10852,6 +10849,9 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Il peut prédire l’avenir. Bientôt, les deux joueurs vont piocher des cartes. Ça fait peur...
   </flavor>
@@ -10900,9 +10900,6 @@ Surcharge :&lt;/b&gt; (2)
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -10921,6 +10918,9 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -10940,9 +10940,6 @@ Surcharge :&lt;/b&gt; (2)
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -10970,6 +10967,9 @@ Surcharge :&lt;/b&gt; (2)
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Strangleronce est un endroit magnifique où partir en vacances, mais vous ne voudriez pas y vivre.
   </flavor>
@@ -11344,9 +11344,6 @@ Inflige 2 points de dégâts.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11371,6 +11368,9 @@ Inflige 2 points de dégâts.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Tais-toi, tais-toi, tais-toi, la patte de poulet furieux satan hérétique !!!
   </flavor>
@@ -11664,6 +11664,9 @@ Inflige 2 points de dégâts.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Double les dégâts et les soins de vos sorts et de votre pouvoir héroïque.
   </text>
@@ -11682,15 +11685,12 @@ Inflige 2 points de dégâts.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il a été banni, ses frères ont mal tourné, mais à part ça, il a vraiment tout pour être heureux.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -12151,6 +12151,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Ne peut pas attaquer. À la fin de votre tour, inflige 8 points de dégâts à un adversaire aléatoire.
   </text>
@@ -12169,15 +12172,12 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ragnaros a été invoqué par les nains sombrefers, qui au final se sont retrouvés esclaves du seigneur du feu. Invoquer Ragnaros a souvent des effets secondaires indésirables...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -12445,9 +12445,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -12472,6 +12469,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ALERTE. ALERTE. ALERTE.
   </flavor>
@@ -12491,9 +12491,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12503,6 +12500,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;
   </text>
@@ -12521,15 +12521,15 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Le meilleur moyen de se protéger contre Krush, c’est de se cacher derrière quelqu’un qu’on n’aime pas.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -12546,9 +12546,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12558,6 +12555,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; donne 2 bananes à votre adversaire.
   </text>
@@ -12573,15 +12573,15 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Le roi Mukla s’est rendu sur l’île aux Jagueros pour trouver l’amour.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -12824,9 +12824,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12854,6 +12851,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mannoroth, Magtheridon et Brutallus sont peut-être morts, mais il paraît qu’il reste encore PLEIN de seigneurs des abîmes.
   </flavor>
@@ -12876,9 +12876,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12888,6 +12885,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; le seigneur Jaraxxus détruit votre héros et prend sa place.
   </text>
@@ -12903,15 +12903,15 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    « Misérable gnome ! Ton arrogance te perdra ! »
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -12920,9 +12920,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12944,6 +12941,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -13001,9 +13001,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13025,6 +13022,9 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -13237,6 +13237,9 @@ donne +2 ATQ.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; transforme un autre serviteur aléatoire soit en diablosaure 5/5, soit en écureuil 1/1 .
   </text>
@@ -13255,15 +13258,12 @@ donne +2 ATQ.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Le Maître-bricoleur Suprétincelle a failli perdre sa licence de bricoleur après la grande débandade des écureuils de Forgefer.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -13328,6 +13328,9 @@ donne +2 ATQ.
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; prend le contrôle d’un serviteur adverse aléatoire.
   </text>
@@ -13343,15 +13346,12 @@ donne +2 ATQ.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Sylvanas a été transformée en reine banshee par Arthas, mais il aurait sans doute dû la tuer parce que ça n’a fait que l’énerver.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -13403,9 +13403,6 @@ donne +2 ATQ.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13430,6 +13427,9 @@ donne +2 ATQ.
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Si vous l’ajoutez à votre deck, vous perdrez la confiance de vos autres serviteurs.
   </flavor>
@@ -13452,9 +13452,6 @@ donne +2 ATQ.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13482,6 +13479,9 @@ donne +2 ATQ.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Quand on parle du tigre, le tigre apparaît... Euh, non c’est pas ça.
   </flavor>
@@ -13635,6 +13635,9 @@ donne +2 ATQ.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Bouclier divin&lt;/b&gt;
 &lt;b&gt;Provocation&lt;/b&gt;
@@ -13655,15 +13658,12 @@ donne +2 ATQ.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il faut que nous tirions la sonnette d’alarme sur cette carte !
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -13675,9 +13675,6 @@ donne +2 ATQ.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -13705,6 +13702,9 @@ donne +2 ATQ.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Il paraît que certains chamans arrivent à dire « Trois petits totems sur un trottoir étroit » plus de 10 fois de suite sans se tromper !
   </flavor>
@@ -14007,9 +14007,6 @@ donne +2 ATQ.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -14037,6 +14034,9 @@ donne +2 ATQ.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Les murlocs froide-lumière vivent dans les fosses les plus sombres des profondeurs Abyssales. Donc oui, il y en a vraiment partout !
   </flavor>
@@ -14158,9 +14158,6 @@ donne +2 ATQ.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -14170,6 +14167,9 @@ donne +2 ATQ.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Vous piochez une carte Rêve à la fin de votre tour.
   </text>
@@ -14188,15 +14188,15 @@ donne +2 ATQ.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Ysera règne sur le Rêve d’émeraude. C’est une copie plus verte du monde réel. Ce n’est pas ça ?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>

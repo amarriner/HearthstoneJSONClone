@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -22,6 +19,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -47,12 +47,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Give both players the power to ROCK! (with a Power Chord card)
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -62,21 +65,18 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   He&amp;apos;s looking for a drummer.  The current candidates are: Novice Engineer, Sen&amp;apos;jin Shieldmasta&amp;apos;, and Ragnaros the Firelord.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Awarded at BlizzCon 2013.
   </howtogetgold>
+  <flavor>
+   He&amp;apos;s looking for a drummer.  The current candidates are: Novice Engineer, Sen&amp;apos;jin Shieldmasta&amp;apos;, and Ragnaros the Firelord.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
   <text>
@@ -96,9 +96,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -123,6 +120,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
    Emboldening
   </inplaytext>
@@ -151,15 +151,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Summon an AWESOME invention.
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -169,26 +172,20 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   He&amp;apos;s the leader of the gnomes, and an incredible inventor.  He&amp;apos;s getting better, too; He turns things into chickens WAY less than he used to.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    This was rewarded to players who helped test the Store during the Beta.
   </howtogetgold>
+  <flavor>
+   He&amp;apos;s the leader of the gnomes, and an incredible inventor.  He&amp;apos;s getting better, too; He turns things into chickens WAY less than he used to.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -213,6 +210,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
    Pecking
   </inplaytext>
@@ -244,9 +244,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -262,6 +259,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>
@@ -270,9 +270,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -297,6 +294,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
    Poultryizing
   </inplaytext>
@@ -328,9 +328,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -355,6 +352,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
    Repairin&amp;apos;
   </inplaytext>

@@ -41,15 +41,15 @@
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -58,15 +58,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -138,9 +138,9 @@
   <text>
    &lt;b&gt;嘲諷&lt;/b&gt;。&lt;b&gt;死亡之聲:&lt;/b&gt;對全部手下造成1點傷害
   </text>
-  <howtoget>
-   在瘟疫區擊敗『不潔者』海根後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -150,21 +150,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   死靈法師的學校喜歡教新手用火箭燃料餵食他們的食屍鬼。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫區中擊敗『不潔者』海根即可合成。
   </howtogetgold>
+  <flavor>
+   死靈法師的學校喜歡教新手用火箭燃料餵食他們的食屍鬼。
+  </flavor>
+  <howtoget>
+   在瘟疫區擊敗『不潔者』海根後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <text>
@@ -252,9 +252,9 @@
   <name>
    伏晨
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -267,9 +267,9 @@
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -292,12 +292,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;如果斯塔拉格在這場賽局中也已經死亡，召喚泰迪斯
   </text>
-  <howtoget>
-   完成傀儡區後解鎖。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -307,24 +310,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   完成傀儡區即可合成。
+  </howtogetgold>
+  <flavor>
+   伏晨心情一直不太好，因為大家都比較喜歡斯塔拉格。
+  </flavor>
+  <howtoget>
+   完成傀儡區後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   伏晨心情一直不太好，因為大家都比較喜歡斯塔拉格。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   完成傀儡區即可合成。
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -498,41 +498,41 @@
   <text>
    摧毀全部手下並召喚2/2的樹人來取代它們
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成德魯伊職業挑戰後解鎖。
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   劇毒種子風味的麵包通常乏人問津。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    在納克薩瑪斯中完成德魯伊職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   劇毒種子風味的麵包通常乏人問津。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成德魯伊職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -541,15 +541,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -615,9 +615,9 @@
   <text>
    &lt;b&gt;戰吼:沉默&lt;/b&gt;你的其他手下
   </text>
-  <howtoget>
-   在傀儡區擊敗泰迪斯後解鎖。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -627,21 +627,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   這個靈魂超喜歡哀哀叫的。連朋友都希望能讓他閉嘴。
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在傀儡區中擊敗泰迪斯即可合成。
   </howtogetgold>
+  <flavor>
+   這個靈魂超喜歡哀哀叫的。連朋友都希望能讓他閉嘴。
+  </flavor>
+  <howtoget>
+   在傀儡區擊敗泰迪斯後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -716,41 +716,41 @@
   <text>
    &lt;b&gt;秘密:&lt;/b&gt;當你的其中一個手下死亡時，賦予一個隨機的友方手下+3/+2
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成聖騎士職業挑戰後解鎖。
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   有一群聖騎士組成了一團「正義之師」。他們的律師說服了他們不要取「正義聯盟」這個名稱。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    在納克薩瑪斯中完成聖騎士職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   有一群聖騎士組成了一團「正義之師」。他們的律師說服了他們不要取「正義聯盟」這個名稱。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成聖騎士職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -759,15 +759,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -838,9 +838,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;召喚一個4/4的奈幽蟲族
   </text>
-  <howtoget>
-   在蜘蛛區擊敗梅克絲娜後解鎖。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -850,21 +850,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   裡頭除了蛋白質，還有奈幽蟲族。
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在蜘蛛區中擊敗梅克絲娜即可合成。
   </howtogetgold>
+  <flavor>
+   裡頭除了蛋白質，還有奈幽蟲族。
+  </flavor>
+  <howtoget>
+   在蜘蛛區擊敗梅克絲娜後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <mechanics>
@@ -887,9 +887,9 @@
   <text>
    有著&lt;b&gt;戰吼&lt;/b&gt;的手下消耗增加(2)點
   </text>
-  <howtoget>
-   在蜘蛛區擊敗大寡婦費琳娜後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -899,21 +899,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   蛛網領主整天都在做彈簧墊。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在蜘蛛區中擊敗大寡婦費琳娜即可合成。
   </howtogetgold>
+  <flavor>
+   蛛網領主整天都在做彈簧墊。
+  </flavor>
+  <howtoget>
+   在蜘蛛區擊敗大寡婦費琳娜後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -1045,6 +1045,9 @@
   <name>
    寇斯艾茲族長
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1060,9 +1063,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -1074,6 +1074,9 @@
   <name>
    寇斯艾茲族長
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1089,9 +1092,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -1217,6 +1217,9 @@
   <name>
    布洛莫斯女士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1232,9 +1235,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -1246,6 +1246,9 @@
   <name>
    布洛莫斯女士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1261,9 +1264,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1351,15 +1351,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -1385,12 +1385,15 @@
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;下回合敵方的法術額外消耗(5)點法力。
   </text>
-  <howtoget>
-   完成瘟疫區後解鎖。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -1400,35 +1403,32 @@
   <health>
    5
   </health>
+  <howtogetgold>
+   完成瘟疫區即可合成。
+  </howtogetgold>
+  <flavor>
+   憎恨者原本只是一隻平凡的沼澤獸。為什麼我們需要更嚴格的礦業跟農業法案?牠就是活生生的例子。
+  </flavor>
+  <howtoget>
+   完成瘟疫區後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   憎恨者原本只是一隻平凡的沼澤獸。為什麼我們需要更嚴格的礦業跟農業法案?牠就是活生生的例子。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   完成瘟疫區即可合成。
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -1485,9 +1485,9 @@
   <name>
    斯塔拉格
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1500,9 +1500,9 @@
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -1525,12 +1525,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;如果伏晨在這場賽局中也已經死亡，召喚泰迪斯
   </text>
-  <howtoget>
-   完成傀儡區後解鎖。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -1540,24 +1543,21 @@
   <health>
    4
   </health>
+  <howtogetgold>
+   完成傀儡區即可合成。
+  </howtogetgold>
+  <flavor>
+   斯塔拉格想要自己寫這一段。「斯塔拉格最厲害!」
+  </flavor>
+  <howtoget>
+   完成傀儡區後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   斯塔拉格想要自己寫這一段。「斯塔拉格最厲害!」
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   完成傀儡區即可合成。
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1566,6 +1566,9 @@
   <name>
    札里克爵士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1581,9 +1584,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -1595,6 +1595,9 @@
   <name>
    札里克爵士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    你的英雄&lt;b&gt;免疫&lt;/b&gt;
   </text>
@@ -1610,23 +1613,20 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -1643,9 +1643,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1655,12 +1652,18 @@
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    摧毀被此手下傷害到的任何手下
   </text>
-  <howtoget>
-   完成蜘蛛區後解鎖。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   完成蜘蛛區即可合成。
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1670,35 +1673,32 @@
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   梅克絲娜超討厭有人介紹她時叫她「阿梅」或「娜娜」。
+  </flavor>
+  <howtoget>
+   完成蜘蛛區後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   梅克絲娜超討厭有人介紹她時叫她「阿梅」或「娜娜」。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   完成蜘蛛區即可合成。
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -1798,30 +1798,30 @@
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   在納克薩瑪斯中完成戰士職業挑戰後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   「向死亡更邁進一步。」-死亡領主麥斯卡夫
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    在納克薩瑪斯中完成戰士職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   「向死亡更邁進一步。」-死亡領主麥斯卡夫
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成戰士職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -1904,9 +1904,9 @@
   <text>
    &lt;b&gt;嘲諷。死亡之聲:&lt;/b&gt;你的對手將牌堆中的一個手下放進戰場
   </text>
-  <howtoget>
-   在軍事區擊敗四騎士後解鎖。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -1916,21 +1916,21 @@
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   「從墳墓中起身吧!」-科爾蘇加德
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在軍事區中擊敗四騎士即可合成。
   </howtogetgold>
+  <flavor>
+   「從墳墓中起身吧!」-科爾蘇加德
+  </flavor>
+  <howtoget>
+   在軍事區擊敗四騎士後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <set>
@@ -2021,9 +2021,9 @@
   <text>
    每當你召喚有&lt;b&gt;死亡之聲&lt;/b&gt;的手下，獲得+1攻擊力
   </text>
-  <howtoget>
-   在傀儡區擊敗縫補者後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -2033,21 +2033,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   在一個可以跑去找靈魂醫者自己復活的世界裡，殯葬管理員的工作非常輕鬆愉快。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在傀儡區中擊敗縫補者即可合成。
   </howtogetgold>
+  <flavor>
+   在一個可以跑去找靈魂醫者自己復活的世界裡，殯葬管理員的工作非常輕鬆愉快。
+  </flavor>
+  <howtoget>
+   在傀儡區擊敗縫補者後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -2129,9 +2129,9 @@
   <name>
    泰迪斯
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -2144,23 +2144,23 @@
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -2169,15 +2169,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -2210,9 +2210,9 @@
    &lt;b&gt;嘲諷。
 死亡之聲:&lt;/b&gt;召喚一個有&lt;b&gt;嘲諷&lt;/b&gt;的1/2軟泥怪
   </text>
-  <howtoget>
-   在瘟疫區擊敗憎恨者後解鎖。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -2222,21 +2222,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   千萬不要讓他喝啤酒。
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫區中擊敗憎恨者即可合成。
   </howtogetgold>
+  <flavor>
+   千萬不要讓他喝啤酒。
+  </flavor>
+  <howtoget>
+   在瘟疫區擊敗憎恨者後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -2527,15 +2527,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -2561,12 +2561,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    你的手下觸發&lt;b&gt;死亡之聲&lt;/b&gt;兩次
   </text>
-  <howtoget>
-   完成軍事區後解鎖。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -2576,35 +2579,32 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   完成軍事區即可合成。
+  </howtogetgold>
+  <flavor>
+   布洛莫斯女士堅持不肯讓人稱呼他們為「四死騎」，因為她覺得聽起來像是「死死去」。
+  </flavor>
+  <howtoget>
+   完成軍事區後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   布洛莫斯女士堅持不肯讓人稱呼他們為「四死騎」，因為她覺得聽起來像是「死死去」。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   完成軍事區即可合成。
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -2613,15 +2613,15 @@
   </name>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    畢勾沃斯先生
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    這是科爾蘇加德養的小貓咪。
   </text>
@@ -2637,12 +2637,12 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2668,9 +2668,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;從你的牌堆取出一張&lt;b&gt;秘密&lt;/b&gt;並放到戰場
   </text>
-  <howtoget>
-   在傀儡區擊敗葛羅巴斯後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -2680,21 +2680,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   他的母親希望他能成為法師或術士，但他偏偏要像他父親一樣成為科學家。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在傀儡區中擊敗葛羅巴斯即可合成。
   </howtogetgold>
+  <flavor>
+   他的母親希望他能成為法師或術士，但他偏偏要像他父親一樣成為科學家。
+  </flavor>
+  <howtoget>
+   在傀儡區擊敗葛羅巴斯後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <set>
@@ -2749,9 +2749,9 @@
   <text>
    在你的回合開始時，將這個手下的生命值恢復到全滿
   </text>
-  <howtoget>
-   在瘟疫區擊敗『瘟疫使者』諾斯後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -2761,32 +2761,32 @@
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   石膚石像鬼超愛捉迷藏的。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫區中擊敗『瘟疫使者』諾斯即可合成。
   </howtogetgold>
+  <flavor>
+   石膚石像鬼超愛捉迷藏的。
+  </flavor>
+  <howtoget>
+   在瘟疫區擊敗『瘟疫使者』諾斯後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -2795,15 +2795,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -2824,12 +2824,15 @@
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每個回合結束時，召喚全部在該回合內死亡的友方手下
   </text>
-  <howtoget>
-   在納克薩瑪斯中擊敗全部首領即可解鎖!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -2839,24 +2842,21 @@
   <health>
    8
   </health>
+  <howtogetgold>
+   在納克薩瑪斯中擊敗全部首領即可合成!
+  </howtogetgold>
+  <flavor>
+   科爾蘇加德無法抗拒巫妖王的召喚。為此他還買了手機。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中擊敗全部首領即可解鎖!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   科爾蘇加德無法抗拒巫妖王的召喚。為此他還買了手機。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在納克薩瑪斯中擊敗全部首領即可合成!
-  </howtogetgold>
  </item>
  <item>
   <text>
@@ -3005,9 +3005,9 @@
   <text>
    &lt;b&gt;潛行&lt;/b&gt;。在你回合開始時，獲得+1/+1
   </text>
-  <howtoget>
-   在冰霜巨龍巢穴擊敗科爾蘇加德後解鎖。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -3017,32 +3017,32 @@
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   納克薩瑪斯幻影痛恨生者。他們非得把生者弄死，否則不會罷休。
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在冰霜巨龍巢穴中擊敗科爾蘇加德即可合成。
   </howtogetgold>
+  <flavor>
+   納克薩瑪斯幻影痛恨生者。他們非得把生者弄死，否則不會罷休。
+  </flavor>
+  <howtoget>
+   在冰霜巨龍巢穴擊敗科爾蘇加德後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -3051,15 +3051,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -3076,9 +3076,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3091,9 +3088,12 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;放一張隨機野獸牌到你的手牌中
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成獵人職業挑戰後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在納克薩瑪斯中完成獵人職業挑戰即可合成。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3103,21 +3103,21 @@
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    只有我在把繭打開時會感覺像是在開獎嗎?
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在納克薩瑪斯中完成獵人職業挑戰後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在納克薩瑪斯中完成獵人職業挑戰即可合成。
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3143,9 +3143,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;敵方英雄恢復5點生命值
   </text>
-  <howtoget>
-   在傀儡區擊敗古魯斯後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3155,21 +3155,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   殭屍。晚餐就吃這個。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在傀儡區中擊敗古魯斯即可合成。
   </howtogetgold>
+  <flavor>
+   殭屍。晚餐就吃這個。
+  </flavor>
+  <howtoget>
+   在傀儡區擊敗古魯斯後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3258,9 +3258,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;你的對手抽一張牌
   </text>
-  <howtoget>
-   在軍事區擊敗講師拉祖維斯後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3270,32 +3270,32 @@
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   它們喜歡跳雷鬼的音樂。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在軍事區中擊敗講師拉祖維斯即可合成。
   </howtogetgold>
+  <flavor>
+   它們喜歡跳雷鬼的音樂。
+  </flavor>
+  <howtoget>
+   在軍事區擊敗講師拉祖維斯後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -3304,15 +3304,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -3321,15 +3321,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3338,15 +3338,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3363,9 +3363,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3378,9 +3375,12 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;將你手上的一個隨機惡魔放到戰場
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成術士職業挑戰後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在納克薩瑪斯中完成術士職業挑戰即可合成。
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -3390,21 +3390,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    虛無!虛無!虛無!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在納克薩瑪斯中完成術士職業挑戰後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在納克薩瑪斯中完成術士職業挑戰即可合成。
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -3503,27 +3503,27 @@
   <text>
    &lt;b&gt;秘密:&lt;/b&gt;當一個友方手下死亡時，放兩張該手下的卡片到你的手牌裡
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成法師職業挑戰後解鎖。
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   這是唯一一次複製卡片不會讓你的帳號被封鎖喔!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    在納克薩瑪斯中完成法師職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   這是唯一一次複製卡片不會讓你的帳號被封鎖喔!
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成法師職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -3602,15 +3602,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -3619,15 +3619,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -3716,9 +3716,9 @@
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;在回合結束時召喚一個與此手下一模一樣的複製品
   </text>
-  <howtoget>
-   在冰霜巨龍巢穴擊敗薩菲隆後解鎖。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -3728,21 +3728,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   軟泥...軟泥...軟泥...怪...(迴音)
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在冰霜巨龍巢穴中擊敗薩菲隆即可合成。
   </howtogetgold>
+  <flavor>
+   軟泥...軟泥...軟泥...怪...(迴音)
+  </flavor>
+  <howtoget>
+   在冰霜巨龍巢穴擊敗薩菲隆後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <set>
@@ -3801,27 +3801,27 @@
   <text>
    摧毀一個手下，然後將它復活並使其生命值恢復到全滿
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成薩滿職業挑戰後解鎖。
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   這就像出生一樣，只不過一出生就是成年，而且原本不久前才剛剛死掉。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    在納克薩瑪斯中完成薩滿職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   這就像出生一樣，只不過一出生就是成年，而且原本不久前才剛剛死掉。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成薩滿職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3934,9 +3934,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;使一個隨機的友方手下返回你的手上
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成盜賊職業挑戰後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -3946,35 +3946,35 @@
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   他原本的名字是「那個會把一個傢伙弄回手上的阿努巴」。但是後來大家覺得還是得取個正式的名字才行。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在納克薩瑪斯中完成盜賊職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   他原本的名字是「那個會把一個傢伙弄回手上的阿努巴」。但是後來大家覺得還是得取個正式的名字才行。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成盜賊職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -3983,15 +3983,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -4122,9 +4122,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4137,9 +4134,12 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;召喚兩隻1/1的鬼靈蜘蛛
   </text>
-  <howtoget>
-   在蜘蛛區擊敗阿努比瑞克漢後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在蜘蛛區中擊敗阿努比瑞克漢即可合成。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4149,21 +4149,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    連假蜘蛛都會怕。
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在蜘蛛區擊敗阿努比瑞克漢後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在蜘蛛區中擊敗阿努比瑞克漢即可合成。
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -4282,9 +4282,9 @@
   <text>
    無法被法術或英雄能力指定
   </text>
-  <howtoget>
-   在軍事區擊敗『收割者』高希後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -4294,21 +4294,21 @@
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   精靈龍跟鬼靈騎士有什麼共通點?他們都愛吃麵!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在軍事區中擊敗『收割者』高希即可合成。
   </howtogetgold>
+  <flavor>
+   精靈龍跟鬼靈騎士有什麼共通點?他們都愛吃麵!
+  </flavor>
+  <howtoget>
+   在軍事區擊敗『收割者』高希後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <text>
@@ -4348,9 +4348,9 @@
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;賦予一個隨機的友方手下+3生命值
   </text>
-  <howtoget>
-   在納克薩瑪斯中完成牧師職業挑戰後解鎖。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -4360,21 +4360,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   詛咒神教發現在招募新教徒時最好不要提到他們這個教派的名字。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在納克薩瑪斯中完成牧師職業挑戰即可合成。
   </howtogetgold>
+  <flavor>
+   詛咒神教發現在招募新教徒時最好不要提到他們這個教派的名字。
+  </flavor>
+  <howtoget>
+   在納克薩瑪斯中完成牧師職業挑戰後解鎖。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>

@@ -26,9 +26,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -53,6 +50,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -175,6 +175,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Windzorn&lt;/b&gt;, &lt;b&gt;Ansturm&lt;/b&gt;, &lt;b&gt;Gottesschild&lt;/b&gt;, &lt;b&gt;Spott&lt;/b&gt;
   </text>
@@ -190,15 +193,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Er ist der schwächste der vier Elementarlords. Und die anderen drei lassen ihn dies stetig wissen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -210,9 +210,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -237,6 +234,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    WARNUNG. WARNUNG. WARNUNG.
   </flavor>
@@ -256,9 +256,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -268,6 +265,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Setzt das verbleibende Leben eines Helden auf 15.
   </text>
@@ -286,15 +286,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alexstrasza die Lebensbinderin bringt Leben und Hoffnung zu jedem. Außer zu Todesschwinge. Oder Malygos. Oder Nekros.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -687,6 +687,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    Erhält +2/+2, wenn Ihr am Ende Eures Zuges über ein aktives &lt;b&gt;Geheimnis&lt;/b&gt; verfügt.
   </text>
@@ -702,15 +705,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Die Astralen umwickeln sich mit Tüchern, um ihrer unkörperlichen Gestalt eine körperliche Form zu verleihen. Dazu kommt, dass Tücher stark in Mode sind.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -963,9 +963,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -993,6 +990,9 @@
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Ursprünglich wollten sie sich die Beryll- oder Saphirdrachen nennen, aber das war ihnen dann doch ein wenig zu hochgestochen.
   </flavor>
@@ -1010,9 +1010,9 @@
   <name>
    Baine Bluthuf
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1025,9 +1025,9 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -1165,6 +1165,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Fügt am Ende Eures Zuges ALLEN anderen Charakteren 2 Schaden zu.
   </text>
@@ -1183,15 +1186,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Baron Geddon war Ragnaros&amp;apos; oberster Leutnant, bevor er GEFEUERT wurde.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -1323,9 +1323,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -1347,6 +1344,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -1650,6 +1650,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Zauberschaden +1&lt;/b&gt;. &lt;b&gt;Todesröcheln:&lt;/b&gt; Zieht eine Karte.
   </text>
@@ -1668,15 +1671,12 @@
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Er hat kürzlich eine Kampagne zum Blutspenden ins Leben gerufen – natürlich aus komplett uneigennützigen Gründen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -1777,15 +1777,15 @@
   <name>
    Blutschrei
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Angriffe gegen Diener kosten 1 Angriff anstatt 1 Haltbarkeit.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Angriffe gegen Diener kosten 1 Angriff anstatt 1 Haltbarkeit.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1820,9 +1820,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1847,6 +1844,9 @@
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Alle Piraten verfügen über dieselbe vierstellige PIN, um auf den Goldautomaten zuzugreifen. Man nennt sie den „Piratencode“.
   </flavor>
@@ -1866,9 +1866,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1893,6 +1890,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    „Ich stehle nur an Tagen, die auf &amp;apos;g&amp;apos; enden. Manchmal mache ich aber auch Ausnahmen.“
   </flavor>
@@ -1912,9 +1912,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1942,6 +1939,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -2038,6 +2038,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Baine Bluthuf (4/5) herbei.
   </text>
@@ -2056,15 +2059,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Cairne wurde von Garrosh getötet, also steckt diese Karte besser nicht in ein Kriegerdeck. Das wäre ganz schön unsensibel.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -2082,6 +2082,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Wählt aus:&lt;/b&gt; Verleiht Euren anderen Dienern +2/+2; oder ruft zwei Treants (2/2) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
   </text>
@@ -2100,17 +2103,14 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Ja, er ist ein Halbgott. Und nein, er braucht kein Hemd zu tragen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -2266,6 +2266,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Vernichtet einen feindlichen Diener mit &lt;b&gt;Spott&lt;/b&gt;.
   </text>
@@ -2281,16 +2284,13 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Er geht regelmäßig Blut spenden. Nicht sein eigenes, und auch nicht für wohltätige Zwecke, aber immerhin.
 – Tobias K.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -2304,9 +2304,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2316,6 +2313,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Finkle Einhorn (3/3) für Euren Gegner herbei.
   </text>
@@ -2334,15 +2334,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Hat Kürschner zum Fressen gern.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -2353,9 +2353,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2377,6 +2374,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2437,9 +2437,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2461,6 +2458,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2480,9 +2480,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2510,6 +2507,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Das Schlingendorntal ist der sprichwörtliche Dschungel. Überleben ist Glückssache.
   </flavor>
@@ -2642,6 +2642,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Combo:&lt;/b&gt; Erhält für jede in diesem Zug bereits ausgespielte Karte +2/+2.
   </text>
@@ -2660,15 +2663,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Er leitete die Steinmetze beim Wiederaufbau von Sturmwind, und als die Adligen nicht zahlen wollten, gründete er die Bruderschaft der Defias, um Sturmwind, nun ja, wieder &lt;i&gt;abzubauen&lt;/i&gt;.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -2677,9 +2677,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2701,6 +2698,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2828,9 +2828,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2858,6 +2855,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Sie fliegen auf leisen Schwingen, doch bedecket Eure Ohren, so sie singen ... äh, kreischen.
   </flavor>
@@ -3248,9 +3248,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3278,6 +3275,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    „Grenzwert für Hitzeresistenz überschritten. Systemausfall. Weizen verstopft Luke B. Fahre herunter.“
   </flavor>
@@ -3301,6 +3301,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Erhaltet jedes Mal einen „Feuerball“-Zauber auf Eure Hand, wenn Ihr einen Zauber wirkt.
   </text>
@@ -3319,17 +3322,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Der Großmagus der Kirin Tor und Dalarans großartigster Sohn. Selbst Zwerge beneideten ihn um seinen Bart.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -3396,9 +3396,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3423,6 +3420,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Putzig. Immun gegen Magie. Pinkelt nicht auf den Teppich. Das perfekte Haustier!
   </flavor>
@@ -3597,9 +3597,9 @@
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3612,9 +3612,9 @@
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -3651,9 +3651,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3681,6 +3678,9 @@
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Wichtel können einfach nicht verstehen, warum Ihr es nicht so toll findet, in Brand gesteckt zu werden.
   </flavor>
@@ -4781,6 +4781,9 @@ Verursacht 3 Schaden.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Ansturm&lt;/b&gt;, &lt;b&gt;Wutanfall:&lt;/b&gt; +6 Angriff
   </text>
@@ -4799,15 +4802,12 @@ Verursacht 3 Schaden.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Grommash trank einst das verderbte Blut Mannoroths und verdammte so sein Volk zu grüner Haut und roten Augen. Er soll schon bessere Entscheidungen getroffen haben.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -4867,9 +4867,6 @@ Verursacht 3 Schaden.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4897,6 +4894,9 @@ Verursacht 3 Schaden.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mannoroth, Magtheridon und Brutallus mögen vielleicht Geschichte sein, aber anscheinend haben auch andere Mütter schöne Söhne.
   </flavor>
@@ -4940,6 +4940,9 @@ Verursacht 3 Schaden.
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Erhält am Ende jedes Zuges +1/+1.
   </text>
@@ -4955,17 +4958,14 @@ Verursacht 3 Schaden.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Gruul der Drachentöter hat seinen Namen verdient, und das, obwohl er eigentlich nur kuscheln wollte.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -5089,6 +5089,9 @@ Verursacht 3 Schaden.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Zerstört die Waffe Eures Gegners. Zieht ihrer Haltbarkeit entsprechend Karten.
   </text>
@@ -5107,15 +5110,12 @@ Verursacht 3 Schaden.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    „Das gehört in die Halle der Forscher!“
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -5298,6 +5298,9 @@ Verursacht 3 Schaden.
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Ruft am Ende Eures Zuges einen Gnoll (2/2) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
   </text>
@@ -5313,23 +5316,17 @@ Verursacht 3 Schaden.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Hogger ist so mächtig, dass Ihr ihn nur töten könnt, wenn er Euch &lt;i&gt;lässt&lt;/i&gt;.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5351,6 +5348,9 @@ Verursacht 3 Schaden.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -5370,9 +5370,6 @@ Verursacht 3 Schaden.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5397,6 +5394,9 @@ Verursacht 3 Schaden.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Krabben würden Murlocs kaufen.
   </flavor>
@@ -5452,9 +5452,6 @@ Verursacht 3 Schaden.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5476,6 +5473,9 @@ Verursacht 3 Schaden.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5490,9 +5490,6 @@ Verursacht 3 Schaden.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5502,6 +5499,9 @@ Verursacht 3 Schaden.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Beschwört jedes Mal eine Flamme von Azzinoth (2/1), wenn Ihr eine Karte ausspielt.
   </text>
@@ -5520,15 +5520,15 @@ Verursacht 3 Schaden.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Illidans Bruder, Malfurion, sperrte ihn 10.000 Jahre lang unter dem Hyjal ein. Die Sturmgrimms hegen ihren Grimm.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
@@ -5783,9 +5783,6 @@ Beschwört eine Höllenbestie (6/6).
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5804,6 +5801,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5907,9 +5907,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5937,6 +5934,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    So zäh und stark wie ein Falke und so leicht und agil wie ein Drache ...
   </flavor>
@@ -6005,9 +6005,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6035,6 +6032,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -6237,9 +6237,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -6249,6 +6246,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Verleiht Eurer Waffe +1/+1.
   </text>
@@ -6264,15 +6264,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Er war &lt;i&gt;so kurz&lt;/i&gt; davor, einen Moloch in den Hafen von Sturmwind zu steuern, wenn nur nicht diese nervigen Kinder gewesen wären.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -6321,15 +6321,15 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Klinge des Verderbens
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 1 Schaden. &lt;b&gt;Combo:&lt;/b&gt; Verursacht stattdessen 2 Schaden.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 1 Schaden. &lt;b&gt;Combo:&lt;/b&gt; Verursacht stattdessen 2 Schaden.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -6462,9 +6462,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6474,6 +6471,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Ansturm&lt;/b&gt;
   </text>
@@ -6492,15 +6492,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Die beste Verteidigung gegen König Knirsch ist, sich hinter jemandem zu positionieren, den man nicht besonders mag.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -6517,9 +6517,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6529,6 +6526,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Gebt Eurem Gegner 2 Bananen.
   </text>
@@ -6544,15 +6544,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    König Mukla durchstreift die Insel Jaguero auf der Suche nach Liebe.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -6742,15 +6742,15 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Langbogen des Gladiators
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Euer Held ist &lt;b&gt;immun&lt;/b&gt;, während er angreift.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Euer Held ist &lt;b&gt;immun&lt;/b&gt;, während er angreift.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -6870,6 +6870,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Ansturm&lt;/b&gt;. &lt;b&gt;Kampfschrei:&lt;/b&gt; Ruft zwei Welplinge (1/1) für Euren Gegner herbei.
   </text>
@@ -6888,15 +6891,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Es war nicht seine Schuld!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -6931,6 +6931,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Wenn ein Spieler einen Zauber wirkt, erhält der andere Spieler eine Kopie desselben auf seine Hand.
   </text>
@@ -6949,17 +6952,14 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Lehrensucher Cho sammelt und erzählt normalerweise Geschichten aus Pandaria, aber eigentlich würde er ja lieber von diesem einen Mal im Ferienlager berichten.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -7200,9 +7200,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7224,6 +7221,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -7243,9 +7243,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7255,6 +7252,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Vernichtet Euren Helden und ersetzt ihn durch Lord Jaraxxus.
   </text>
@@ -7270,15 +7270,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    „UNBEDEUTENDER GNOM! DEINE ARROGANZ WIRD DIR ZUM VERHÄNGNIS!!!“
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -7531,9 +7531,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -7543,6 +7540,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Zauberschaden +5&lt;/b&gt;
   </text>
@@ -7561,15 +7561,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Malygos mag es nicht, wenn Sterbliche Magie anwenden, aber andererseits verstärkt er sie. Kein Wunder, dass er da den Verstand verliert.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -7578,9 +7578,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -7608,6 +7605,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Für die Extraportion Karten.
   </flavor>
@@ -7998,6 +7998,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Im nächsten Zug kosten Zauber für Euren Gegner (0) Mana.
   </text>
@@ -8013,15 +8016,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    „Ich mach&amp;apos; Euch Feuer unterm Hintern!“
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -8187,9 +8187,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -8217,6 +8214,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Wird es Murlocs jemals zu blöd, immer wieder denselben alten Laut von sich zu geben? Neeee! Mrglglrglglglglglglgl!
   </flavor>
@@ -8231,9 +8231,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -8261,6 +8258,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Familienfeste sind sein Ding.
   </flavor>
@@ -8284,6 +8284,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Zu Beginn Eures Zuges besteht eine Chance von 50%, dass Ihr eine zusätzliche Karte zieht.
   </text>
@@ -8302,17 +8305,14 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Nat Pagle, Azeroths bester Angler! Er hat den Servo-Angler 3000, die Hydraulische Angelrute 3000 und den Köder-Bot 2099 (wird noch getestet) erfunden.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -8359,9 +8359,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8371,6 +8368,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Spieler haben nur jeweils 15 Sekunden für ihren Zug.
   </text>
@@ -8389,17 +8389,17 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    Selbst 15 Sekunden kommen ihm wie eine Ewigkeit vor.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -8451,9 +8451,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8463,6 +8460,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Ruft Welplinge (1/1) herbei, bis Eure Seite des Schlachtfelds voll ist.
   </text>
@@ -8481,15 +8481,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Onyxia manipulierte lange Zeit die Geschicke von Sturmwind, indem sie sich als Lady Katrana Prestor tarnte. Man hätte meinen können, dass die enormen Schwingen und Schuppen jemanden ins Grübeln hätten bringen sollen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -8503,9 +8503,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8530,6 +8527,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Dieser Kodo ist ziemlich leicht aus der Ruhe zu bringen.
   </flavor>
@@ -8541,9 +8541,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8562,6 +8559,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -8738,6 +8738,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Verdoppelt den Schaden und die Heilung Eurer Zauber und Heldenfähigkeiten.
   </text>
@@ -8756,15 +8759,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Er wurde aus seiner Heimat verbannt, alle seine Brüder sind verderbt, aber ansonsten geht es ihm eigentlich prima.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -8938,6 +8938,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Kann nicht angreifen. Fügt am Ende Eures Zuges einem zufälligen Feind 8 Schaden zu.
   </text>
@@ -8956,15 +8959,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ragnaros wurde von den Dunkeleisenzwergen herbeigerufen, die schlussendlich von ihm versklavt wurden. Ihn zu beschwören hat oft nicht die gewünschten Auswirkungen.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -9262,9 +9262,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9289,6 +9286,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -9703,15 +9703,15 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Schicksalshammer
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;Windzorn&lt;/b&gt;, &lt;b&gt;Überladung:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Windzorn&lt;/b&gt;, &lt;b&gt;Überladung:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -9827,9 +9827,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9851,6 +9848,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -9933,9 +9933,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9963,6 +9960,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Das Tolle an Tigern ist, dass Tiger toll sind.
   </flavor>
@@ -9982,9 +9982,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -10009,6 +10006,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Wenn er auftaucht, herrscht um ihn herum gähnende Leere.
   </flavor>
@@ -10031,9 +10031,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -10058,6 +10055,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    „Yarrrr“ ist ein Wort in der Piratensprache, das in etwa als „Meinen ergebensten Gruß, Euer Durchlaucht“ übersetzt werden kann.
   </flavor>
@@ -10104,15 +10104,15 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Schwert der Gerechtigkeit
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Jedes Mal, wenn Ihr einen Diener herbeiruft, erhält dieser +1/+1 und diese Waffe verliert 1 Haltbarkeit.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Jedes Mal, wenn Ihr einen Diener herbeiruft, erhält dieser +1/+1 und diese Waffe verliert 1 Haltbarkeit.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -10402,9 +10402,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -10420,6 +10417,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -10913,15 +10913,15 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Sturmgeschmiedete Axt
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Überladung:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Überladung:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -10951,9 +10951,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -10981,6 +10978,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Unter „Geplänkel“ verstehen Piraten verschiedene Dinge.
   </flavor>
@@ -11000,9 +11000,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -11027,6 +11024,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Sobald er genug Beute gemacht hat, wird er sich einen gewaltigen Kapitänshut anfertigen lassen. Er leidet an Hutneid.
   </flavor>
@@ -11055,6 +11055,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Übernehmt die Kontrolle über einen zufälligen feindlichen Diener.
   </text>
@@ -11070,15 +11073,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Sylvanas wurde von Arthas in die Bansheekönigin verwandelt, aber er hätte sie besser gleich getötet, denn so hat er sie einfach nur wütend gemacht.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -11144,9 +11144,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11174,6 +11171,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -11187,9 +11187,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11211,6 +11208,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -11230,9 +11230,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11260,6 +11257,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Wird oft verteufelt ... und zwar zu Recht!
   </flavor>
@@ -11282,9 +11282,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -11312,6 +11309,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Sie können in die Zukunft blicken. In dieser Zukunft ziehen beide Spieler weitere Karten. Ganz schön unheimlich.
   </flavor>
@@ -11331,9 +11331,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -11361,6 +11358,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Die Tiefenlichtmurlocs leben selbst in den dunkelsten Löchern der Abyssischen Tiefen. Es gibt also wirklich keinen Ort, an dem man vor Murlocs sicher ist.
   </flavor>
@@ -11395,6 +11395,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Gottesschild&lt;/b&gt;. &lt;b&gt;Spott&lt;/b&gt;. &lt;b&gt;Todesröcheln:&lt;/b&gt; Legt einen Aschenbringer (5/3) an.
   </text>
@@ -11413,16 +11416,13 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Der bekannteste Paladin – gleich nach Uther, Mograine, Bolvar, Arthas ...
 – Felix A.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -11543,9 +11543,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -11555,6 +11552,9 @@ Beschwört eine Höllenbestie (6/6).
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Vernichtet alle anderen Diener und werft Eure Hand ab.
   </text>
@@ -11570,15 +11570,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Einst war er ein edler Drache mit dem Namen Neltharion, doch Todesschwinge verlor seinen Verstand und zerschmetterte Azeroth, bevor er schlussendlich besiegt wurde. Vaterkomplexe?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -11823,6 +11823,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Verwandelt einen anderen zufälligen Diener in einen Teufelssaurier (5/5) oder ein Eichhörnchen (1/1).
   </text>
@@ -11841,15 +11844,12 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Tüftlermeister Oberfunks verlor im Zuge der Großen Eichhörnchenplage von Eisenschmiede beinahe seine Tüftlerlizenz.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -12306,9 +12306,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12336,6 +12333,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Es ist ziemlich riskant, eine Verdammniswache zu beschwören. &lt;i&gt;Irgendjemand&lt;/i&gt; wird dran glauben müssen.
   </flavor>
@@ -12684,9 +12684,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -12714,6 +12711,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -13097,9 +13097,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13118,6 +13115,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13126,9 +13126,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13144,6 +13141,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13152,9 +13152,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13176,6 +13173,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -13187,9 +13187,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13211,6 +13208,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -13570,9 +13570,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13597,6 +13594,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Kein Wesen ist furchteinflößender (oder lächerlicher) als ein echt wütendes Huhn.
   </flavor>
@@ -13628,9 +13628,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13640,6 +13637,9 @@ Beschwört eine Höllenbestie (6/6).
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Zieht am Ende Eures Zuges eine Traumkarte.
   </text>
@@ -13658,15 +13658,15 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Diese Karte ist der smaragdgrüne Traum eines jeden Spielers.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>
@@ -14141,9 +14141,6 @@ Beschwört eine Höllenbestie (6/6).
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -14171,6 +14168,9 @@ Beschwört eine Höllenbestie (6/6).
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Zwielichtdrachen ernähren sich von mystischer Energie. Und von Dönern.
   </flavor>

@@ -6,9 +6,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -18,6 +15,9 @@
   <artist>
    Chris Seaman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;冲锋&lt;/b&gt;
 &lt;b&gt;超级风怒&lt;/b&gt; &lt;i&gt;（每个回合攻击四次）&lt;/i&gt;
@@ -34,12 +34,12 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    GVG_111t
   </id>
@@ -117,6 +117,9 @@
   <artist>
    Tooth
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    如果该牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。
   </text>
@@ -132,15 +135,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    在伯瓦尔身上的冰融化之后，他受邀接受了采访。在采访中他对艾泽拉斯全球气候变暖现象表达了深深的忧虑。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_063
   </id>
@@ -525,9 +525,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -537,6 +534,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每当该随从受到伤害，便获得攻击力翻倍。
   </text>
@@ -552,15 +552,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    祖尔法拉克队是本届巨魔世界杯的夺冠热门球队，他们的队旗上描绘着令人望而生畏的多头蛇加兹瑞拉。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_049
   </id>
@@ -581,6 +581,9 @@
   <artist>
    Luke Mancini
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每当你施放一个法力值消耗为（1）的法术，随机将一张机械牌置入你的手牌。
   </text>
@@ -596,15 +599,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    在学校里，加兹鲁维就被认为是“最能制造混乱的人”。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_117
   </id>
@@ -622,6 +622,9 @@
   <artist>
    Wei Wang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每当你的对手施放一个法术，获得该法术的复制，并使其获得一个幸运币。
   </text>
@@ -637,15 +640,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    供求关系是加里维克斯唯一的信条。只要你给钱，他就提供殴打服务。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_028
   </id>
@@ -768,9 +768,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -795,6 +792,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    发条侏儒总是会问：“现在几点？”因为他需要有人定时帮他旋紧发条。
   </flavor>
@@ -809,9 +809,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -836,6 +833,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    虽然体型相仿，他和山岭巨人总是交不上朋友。
   </flavor>
@@ -893,9 +893,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -920,6 +917,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    发明吵吵机器人的工程师先是被工匠学院立即开除，然后被赶出了工匠镇，最后被驱逐出了东部王国。
   </flavor>
@@ -969,9 +969,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -996,6 +993,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    当某个零部件对某个机器人不在有用时，它可能会使另一个机器人焕然一新。
   </flavor>
@@ -1144,9 +1144,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1171,6 +1168,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    这项装置能够随意调整你的发型，或是敌人的身高。
   </flavor>
@@ -1259,9 +1259,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1286,6 +1283,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    他是有史以来最熟练、最高效、最有礼貌的服侍机器人。
   </flavor>
@@ -1490,9 +1490,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1508,6 +1505,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -1554,9 +1554,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1572,6 +1569,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1626,9 +1626,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1647,6 +1644,9 @@
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1726,9 +1726,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1738,6 +1735,9 @@
   <artist>
    Jomaro Kindred
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;为每个玩家装备一把武器。
   </text>
@@ -1753,15 +1753,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    启动布林顿，让所有参加派对的人都嗨起来！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_119
   </id>
@@ -1792,9 +1792,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1819,6 +1816,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    如果它坏了，踢它几下然后再骂一句：“什么破玩意儿！”
   </flavor>
@@ -1876,9 +1876,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1903,6 +1900,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    每个人都喜欢他的免胶水强化装置！
   </flavor>
@@ -1922,9 +1922,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1949,6 +1946,9 @@
   <health>
    7
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在塔纳利斯，有一间生产强袭坦克的兵工厂，但由于其巨额成本，仅有两辆坦克被生产出来。
   </flavor>
@@ -2003,9 +2003,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2030,6 +2027,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    它虽然体型不大，但它学习战斗的能力却非常惊人。
   </flavor>
@@ -2044,9 +2044,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2071,6 +2068,9 @@
   <health>
    9
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    黑暗意志是一个又邪恶又神秘又巨大又不懂得怎么写程序的大坏蛋。
   </flavor>
@@ -2165,9 +2165,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2192,6 +2189,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    战斗机器人的量产计划因为其“样本产品”的体型过大而流产。
   </flavor>
@@ -2226,6 +2226,9 @@
   <artist>
    Zoltan &amp; Gabor
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼，亡语：&lt;/b&gt;将一张&lt;b&gt;零件&lt;/b&gt;牌置入你的手牌。
   </text>
@@ -2241,15 +2244,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    托什雷的基地是侏儒工程师们在外域的港湾。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_115
   </id>
@@ -2263,9 +2263,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2290,6 +2287,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    他愿为他的信仰牺牲，因为他的控制程序就是这么写的。
   </flavor>
@@ -2352,9 +2352,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2364,6 +2361,9 @@
   <artist>
    Christopher Moeller
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;随机召唤一个传说随从。
   </text>
@@ -2379,15 +2379,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    当斯尼德在死亡矿井被击败后，他的伐木机在一次拍卖中被一位匿名买家收购。（可能是霍格。）
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_114
   </id>
@@ -2401,9 +2401,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2428,6 +2425,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在将这款机械装置投入生产之前，侏儒工程师们与法师们不知进行了多少次谈判。
   </flavor>
@@ -2603,9 +2603,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2630,6 +2627,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    一个地精牧师发明了使用暗影作为能源的战斗机器人。
   </flavor>
@@ -2753,9 +2753,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2780,6 +2777,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    能够召唤机械的机械？然后呢？能够召唤馒头的馒头？唔……
   </flavor>
@@ -2794,9 +2794,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2821,6 +2818,9 @@
   <health>
    6
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    这野兽的爪子和刀剑一样锋利，因为它本来就是由钢铁制成的。
   </flavor>
@@ -2843,9 +2843,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2870,6 +2867,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    冰风岗的雪人不仅是蛮力的象征，更是工程师们创作灵感的源泉。
   </flavor>
@@ -2968,9 +2968,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2980,6 +2977,9 @@
   <artist>
    James Ryman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    同时对其攻击目标相邻的随从造成伤害。
   </text>
@@ -2995,15 +2995,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    对于田里的庄稼来说，所有的收割机都是死神。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_113
   </id>
@@ -3046,6 +3046,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;与另一个随从交换生命值。
   </text>
@@ -3061,15 +3064,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    所谓暗影猎手，无非就是精通巫毒妖术的暗影牧师。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_014
   </id>
@@ -3081,9 +3081,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3109,6 +3106,9 @@
   <health>
    5
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    任何人只要对元素提出合理的诉求，元素都会回应你。哪怕你只是想喊一句：“哦哇啦咯哇咯咯哦！”
   </flavor>
@@ -3126,9 +3126,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3153,6 +3150,9 @@
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    在艾泽拉斯很多地区的古玩市场，你都能淘到一些很有收藏价值的老式图腾。
   </flavor>
@@ -3175,9 +3175,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3202,6 +3199,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    它被许多工程师认为是工程学造福艾泽拉斯冒险者的起点。
   </flavor>
@@ -3276,9 +3276,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3300,6 +3297,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    他非常崇拜伟大的鱼人先知摩戈尔！（哪个鱼人不是呢？）
   </flavor>
@@ -3314,9 +3314,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3341,6 +3338,9 @@
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    和他对话时，你很难与之进行眼神交流。
   </flavor>
@@ -3358,9 +3358,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3370,6 +3367,9 @@
   <artist>
    Aleksi Briclot
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    当你抽到该牌时，对所有角色造成2点伤害。
   </text>
@@ -3385,15 +3385,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    米米尔隆最喜欢开着烈焰巨兽外出兜风。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_007
   </id>
@@ -3486,9 +3486,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3513,6 +3510,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    地精发明家们从来不会考虑环保和安全这两个因素；而他们认为正是这一点使他们的发明更加出类拔萃。
   </flavor>
@@ -3530,9 +3530,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3554,6 +3551,9 @@
   <health>
    4
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    他喜欢在船上颠簸的感觉，比在陆地上走路更有安全感。
   </flavor>
@@ -3568,9 +3568,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3595,6 +3592,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    你不知道他是真的失去了一个眼睛，还是这只是他喜欢的装扮。
   </flavor>
@@ -3617,9 +3617,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3629,6 +3626,9 @@
   <artist>
    Wayne Reynolds
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    你的其他恶魔获得+2/+2。
 你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
@@ -3645,15 +3645,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    背叛这种事情，如果是主角做了，他就会翻开历史新的一页；如果是配角做了，他的牺牲会帮助主角翻开历史新的一页。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_021
   </id>
@@ -3690,9 +3690,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3702,6 +3699,9 @@
   <artist>
    Oliver Chipping
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;将该随从洗入你的牌库。
   </text>
@@ -3717,15 +3717,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    玛洛恩之所以讨厌恶魔，是因为他不理解为什么这些又脏又臭的生物会长着和他一样的蹄子。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_035
   </id>
@@ -3737,9 +3737,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3749,6 +3746,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每当一个敌方随从死亡，召唤一个麻疯侏儒。
   </text>
@@ -3764,15 +3764,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    过去他非常执迷于炸药。而现在他更加关怀麻疯侏儒们的生计，因为他们能够造成更稳定的伤害。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_116
   </id>
@@ -3844,9 +3844,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3856,6 +3853,9 @@
   <artist>
    Eva Widermann
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    &lt;b&gt;嘲讽，抉择：&lt;/b&gt;
 +1攻击力；或者+1生命值。
@@ -3872,15 +3872,15 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    它真是太可爱了！哦我的天呐，它为什么要咬我的脸？
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_030
   </id>
@@ -3935,9 +3935,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3962,6 +3959,9 @@
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    她总是觉得她的姐姐欢乐女王有点神经质：世间哪有这么多可以令她发笑的事情？
   </flavor>
@@ -3987,9 +3987,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4014,6 +4011,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    一声长啸百兽惊，贫瘠之地留威名。
   </flavor>
@@ -4251,6 +4251,9 @@
   <artist>
    Alex Garner
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;召唤两个1/1的砰砰机器人。&lt;i&gt;警告：该机器人随时可能爆炸。&lt;/i&gt;
   </text>
@@ -4266,15 +4269,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    让你见识一下他的厉害！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_110
   </id>
@@ -4285,9 +4285,6 @@
     Deathrattle
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4306,6 +4303,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -4360,9 +4360,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4387,6 +4384,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在夏天，它依然有一份很体面的工作：制作刨冰。
   </flavor>
@@ -4467,9 +4467,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4479,6 +4476,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合开始时，如果你控制至少3个机械，则消灭这些机械，并将其组合成V-07-TR-0N。
   </text>
@@ -4494,15 +4494,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    别按那个最大的红色按钮！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_111
   </id>
@@ -4739,9 +4739,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4766,6 +4763,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    由于可能会因为爆炸而影响患者的治疗，这种类型的机器人已经停产很久了。
   </flavor>
@@ -4794,6 +4794,9 @@
   <artist>
    Ruan Jia
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;将四张随机鱼人牌置入你的手牌，&lt;b&gt;过载：&lt;/b&gt;（3）
   </text>
@@ -4809,15 +4812,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    耐普图隆被称为“猎潮者”。他是四大元素领主之一。他和拉格纳罗斯能够联手为你提供最好的桑拿服务。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_042
   </id>
@@ -4834,9 +4834,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4861,6 +4858,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    这个打蛋器可好用了。
   </flavor>
@@ -4883,9 +4883,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4910,6 +4907,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    这项武器究竟应该怎么使用？让你的敌人觉得它很可爱然后指望他会把它抱起来？
   </flavor>
@@ -4962,9 +4962,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4986,6 +4983,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    “我想在这家伙上面装上一门炮，你觉得怎么样?”菲兹布里兹看着蜘蛛运输装置说道。
   </flavor>
@@ -5126,6 +5126,9 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;消灭一只野兽。
   </text>
@@ -5141,15 +5144,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    作为一个野兽公敌来说，在这个世界里活下来是非常不容易的。因为你在几分钟前杀死的野兽，会突然再次不知道从哪儿冒出来……
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_120
   </id>
@@ -5163,9 +5163,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5190,6 +5187,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在过去，只有地精会驾驶这玩意儿。如今，从末日预言者到精灵龙再到游学者周卓，好像大家都喜欢驾驶收割机。
   </flavor>
@@ -5209,9 +5209,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5236,6 +5233,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    地精科技的巅峰之作。魔像内装饰豪华，配备速溶咖啡机以及足浴按摩器。
   </flavor>
@@ -5285,9 +5285,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5309,6 +5306,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    在它的屁股上印着这样一串文字：“如果你找到它，请将它归还至莫高雷。”
   </flavor>
@@ -5323,9 +5323,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5350,6 +5347,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    包装盒上写着：全新改良，比旧款更邪门！
   </flavor>
@@ -5493,9 +5493,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5520,6 +5517,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    冬拥堡垒的城墙一般都会用最坚固的材料在两个半小时内修筑起来。但这并不能阻止攻城战车的长驱直入。
   </flavor>
@@ -5597,9 +5597,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5624,6 +5621,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    最好不要让它们淋雨。在安戈洛环型山，金刚锈牙兽的数量已经无法控制了。
   </flavor>
@@ -5646,9 +5646,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5658,6 +5655,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;将一张“地雷” 牌洗入你的对手的牌库。当你的对手抽到该牌，便对其造成10点伤害。
   </text>
@@ -5673,15 +5673,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    钢铁战蝎守护着奥格瑞玛，并在最近刚获得“月度最佳员工”称号！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_056
   </id>
@@ -5713,9 +5713,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5740,6 +5737,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    战斗机械装置都遵从他的教诲。只有他会用0和1告诉他们怎么战斗。
   </flavor>
@@ -5757,9 +5757,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5784,6 +5781,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    过去这些“卫士”们都是用真银打造的，但自从把生产线外包给加基森的厂家之后，他们的材质就发生了改变。
   </flavor>
@@ -5867,6 +5867,9 @@
   <artist>
    Mike Sass
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每当你的对手施放一个法术，召唤一个石腭穴居人壮汉。
   </text>
@@ -5882,15 +5885,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他不断震颤着大地，使山脉深处出现了大量洞穴，解决了穴居人的住房问题。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_118
   </id>
@@ -5904,9 +5904,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5931,6 +5928,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    这架精致的飞行器需要飞行员在起飞前做好精确地调校。否则，它只能被叫做“降落器”。
   </flavor>
@@ -5954,6 +5954,9 @@
   <artist>
    Michal Ivan
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    所有随从有50%几率攻击错误的敌人。
   </text>
@@ -5969,15 +5972,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    穆戈尔曾经帮助兽人重新打开了黑暗之门。既然你让一个食人魔参与了这件事情，就别指望最后会有什么好结果了。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_112
   </id>
@@ -6116,9 +6116,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6143,6 +6140,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    其实他和旧的型号没有任何不同，但是在被贴上了“高级”标签之后，他的售价就能翻一倍。
   </flavor>
@@ -6204,9 +6204,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6231,6 +6228,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    当你变得足够强大，就不会在意曾经付出过多少代价。
   </flavor>

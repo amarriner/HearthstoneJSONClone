@@ -9,9 +9,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Reward
   </set>
@@ -21,17 +18,21 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;冲锋&lt;/b&gt;，在战场上每有一个其他鱼人便获得+1攻击力。
   </text>
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   集齐所有经典鱼人牌后解锁。
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   集齐所有金色经典和基本鱼人牌后解锁。
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -41,24 +42,23 @@
   <health>
    4
   </health>
+  <race>
+   Murloc
+  </race>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   他是鱼人中的传奇。“姆咯啦咯咯啦呵嘎哈咯！”他们都这么说他。
+  </flavor>
+  <howtoget>
+   集齐所有经典鱼人牌后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    EX1_062
   </id>
-  <flavor>
-   他是鱼人中的传奇。“姆咯啦咯咯啦呵嘎哈咯！”他们都这么说他。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   集齐所有金色经典和基本鱼人牌后解锁。
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -69,9 +69,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Reward
   </set>
@@ -84,9 +81,12 @@
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;随机从你的牌库中将一张海盗牌置入你的手牌。
   </text>
-  <howtoget>
-   集齐所有经典海盗牌后解锁。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
+  <howtogetgold>
+   集齐所有金色经典海盗牌后解锁。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -96,20 +96,20 @@
   <health>
    1
   </health>
-  <id>
-   NEW1_016
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    海盗和鹦鹉形影不离，就像兔妖和胡萝卜。
   </flavor>
-  <rarity>
-   Epic
-  </rarity>
+  <howtoget>
+   集齐所有经典海盗牌后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   集齐所有金色经典海盗牌后解锁。
-  </howtogetgold>
+  <id>
+   NEW1_016
+  </id>
  </item>
 </cards>

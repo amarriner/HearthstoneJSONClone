@@ -9,9 +9,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Reward
   </set>
@@ -24,9 +21,12 @@
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; pesca un Pirata casuale dal tuo mazzo.
   </text>
-  <howtoget>
-   Sbloccata ottenendo tutti i Pirati del set Avanzato.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
+  <howtogetgold>
+   Sbloccata ottenendo tutti i Pirati Dorati del set Avanzato.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -36,21 +36,21 @@
   <health>
    1
   </health>
-  <id>
-   NEW1_016
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Pirati e pappagalli sono inseparabili quanto Leproratti e carote.
   </flavor>
-  <rarity>
-   Epic
-  </rarity>
+  <howtoget>
+   Sbloccata ottenendo tutti i Pirati del set Avanzato.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Sbloccata ottenendo tutti i Pirati Dorati del set Avanzato.
-  </howtogetgold>
+  <id>
+   NEW1_016
+  </id>
  </item>
  <item>
   <mechanics>
@@ -61,9 +61,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Reward
   </set>
@@ -73,17 +70,21 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Carica&lt;/b&gt;. Ha +1 Attacco per ogni altro Murloc sul campo di battaglia.
   </text>
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   Sbloccata ottenendo tutti i Murloc del set Avanzato.
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Sbloccata ottenendo tutti i Murloc Dorati dei set Base e Avanzato.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -93,23 +94,22 @@
   <health>
    4
   </health>
+  <race>
+   Murloc
+  </race>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   È una leggenda tra i Murloc. Di lui dicono "Mrghllghghllghg!".
+  </flavor>
+  <howtoget>
+   Sbloccata ottenendo tutti i Murloc del set Avanzato.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    EX1_062
   </id>
-  <flavor>
-   È una leggenda tra i Murloc. Di lui dicono "Mrghllghghllghg!".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Sbloccata ottenendo tutti i Murloc Dorati dei set Base e Avanzato.
-  </howtogetgold>
  </item>
 </cards>

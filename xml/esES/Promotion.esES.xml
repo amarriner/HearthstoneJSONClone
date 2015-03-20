@@ -18,9 +18,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -45,6 +42,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -72,12 +72,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; ¡Otorga a ambos jugadores el poder del ROCK! (con una carta de acorde)
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -87,21 +90,18 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   ¡Muuuuévete!
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Se entregó en la BlizzCon 2013.
   </howtogetgold>
+  <flavor>
+   ¡Muuuuévete!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
   <mechanics>
@@ -121,15 +121,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Invoca un invento GENIAL.
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -139,21 +142,18 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   Abres la guía de mazmorras y sale una planta mustia. ¿Cómo se llama la estancia? ¡Gnomerriegan!
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Esta carta fue una recompensa para los jugadores que ayudaron a probar la tienda durante la beta.
   </howtogetgold>
+  <flavor>
+   Abres la guía de mazmorras y sale una planta mustia. ¿Cómo se llama la estancia? ¡Gnomerriegan!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
   <set>
@@ -176,9 +176,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -194,6 +191,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>
@@ -202,9 +202,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -229,6 +226,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -239,9 +239,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -260,6 +257,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -268,9 +268,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -295,6 +292,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -325,9 +325,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -352,6 +349,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>

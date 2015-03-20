@@ -8,7 +8,26 @@ import glob
 import json
 import os
 
-for file in glob.glob('json/*'):
+for language in glob.glob('input/Basic*'):
+   language = language.split('.')[1]
+
+   print 'Creating all JSON for ' + language
+
+   j = {}
+
+   for file in glob.glob('input/*.' + language + '.json'):
+      f = codecs.open(file, 'r', encoding='utf-8')
+      cards = json.loads(f.read())
+      f.close()
+
+      j[file.replace('input/', "").split('.')[0]] = cards
+
+   f = codecs.open('input/All.' + language + '.json', 'w', encoding='utf-8')
+   f.write(unicode(json.dumps(j), 'utf-8'))
+   f.close()
+      
+
+for file in glob.glob('input/*'):
    print 'Converting ' + file + ' to xml ...'
 
    f = codecs.open(file, 'r', encoding='utf-8')
@@ -33,6 +52,6 @@ for file in glob.glob('json/*'):
    if not os.path.isdir('json/' + file.split('.')[1]):
       os.mkdir('json/' + file.split('.')[1])
 
-   f = codecs.open('json/' + file.split('.')[1] + '/' + file.replace('json/', "") , 'w', encoding='utf-8')
+   f = codecs.open('json/' + file.split('.')[1] + '/' + file.replace('input/', "") , 'w', encoding='utf-8')
    f.write(unicode(json.dumps(j, sort_keys=True, indent=4, separators=(',', ': '))))
    f.close()

@@ -83,9 +83,9 @@
   <text>
    &lt;b&gt;Grito de Guerra: Silencie&lt;/b&gt; seus outros lacaios.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Thaddius no Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -95,21 +95,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Esta alma fica &lt;i&gt;se lamentando&lt;/i&gt; com você. Sai, alma, me deixa!
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Thaddius no Distrito dos Constructos.
   </howtogetgold>
+  <flavor>
+   Esta alma fica &lt;i&gt;se lamentando&lt;/i&gt; com você. Sai, alma, me deixa!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Thaddius no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -133,15 +133,15 @@ Troque o Ataque com a Vida de todos os lacaios.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -150,15 +150,15 @@ Troque o Ataque com a Vida de todos os lacaios.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -275,9 +275,6 @@ Troque o Ataque com a Vida de todos os lacaios.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -290,9 +287,12 @@ Troque o Ataque com a Vida de todos os lacaios.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque um Demônio aleatório da sua mão no campo de batalha.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Bruxo em Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Bruxo em Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -302,21 +302,21 @@ Troque o Ataque com a Vida de todos os lacaios.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    "Caos! Aqui, caos! Aqui, amigão!"
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Bruxo em Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Pode ser criado após completar o Desafio de Bruxo em Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -346,9 +346,9 @@ Troque o Ataque com a Vida de todos os lacaios.
    &lt;b&gt;Provocar.
 Último Suspiro:&lt;/b&gt; Evoque um Visgo 1/2 com &lt;b&gt;Provocar&lt;/b&gt;.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Repugnaz no Distrito da Peste.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -358,21 +358,21 @@ Troque o Ataque com a Vida de todos os lacaios.
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   NÃO DÊ A ELE UMA GARRAFA DE CERVEJA.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Repugnaz no Distrito da Peste.
   </howtogetgold>
+  <flavor>
+   NÃO DÊ A ELE UMA GARRAFA DE CERVEJA.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Repugnaz no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -491,15 +491,15 @@ Cause 3 de dano ao herói inimigo.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -525,12 +525,15 @@ Cause 3 de dano ao herói inimigo.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Seus lacaios ativam os &lt;b&gt;Últimos Suspiros&lt;/b&gt; duas vezes.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Distrito Militar.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -540,35 +543,32 @@ Cause 3 de dano ao herói inimigo.
   <health>
    7
   </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito Militar.
+  </howtogetgold>
+  <flavor>
+   Antes eram cinco Cavaleiros, mas um saiu porque apareceu uma vaga nas Minas Mortas com mais benefícios.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito Militar.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Antes eram cinco Cavaleiros, mas um saiu porque apareceu uma vaga nas Minas Mortas com mais benefícios.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após completar o Distrito Militar.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -631,9 +631,9 @@ Cause 3 de dano ao herói inimigo.
   <text>
    &lt;b&gt;Provocar&lt;/b&gt;. &lt;b&gt;Último Suspiro:&lt;/b&gt; Cause 1 de dano a todos os lacaios.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Heigan, o Sujo, no Distrito da Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -643,21 +643,21 @@ Cause 3 de dano ao herói inimigo.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Encher seus Carniçais com Combustível de Foguete é a maior diversão na escola de Necromantes.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Heigan, o Sujo, no Distrito da Peste.
   </howtogetgold>
+  <flavor>
+   Encher seus Carniçais com Combustível de Foguete é a maior diversão na escola de Necromantes.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Heigan, o Sujo, no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <collectible>
@@ -675,9 +675,9 @@ Cause 3 de dano ao herói inimigo.
   <text>
    Não pode ser alvo de feitiços nem de Poderes Heroicos.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Gothik, o Ceifador, no Distrito Militar.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -687,21 +687,21 @@ Cause 3 de dano ao herói inimigo.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   O que as Dragoletas e os Calaveiros Espectrais têm em comum? Os dois gostam de macarrão!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Gothik, o Ceifador, no Distrito Militar.
   </howtogetgold>
+  <flavor>
+   O que as Dragoletas e os Calaveiros Espectrais têm em comum? Os dois gostam de macarrão!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Gothik, o Ceifador, no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <set>
@@ -892,9 +892,9 @@ Dispare um míssil para cada card na mão de seu oponente.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Coloque um &lt;b&gt;Segredo&lt;/b&gt; do seu deck no campo de batalha.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Grobbulus no Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -904,21 +904,21 @@ Dispare um míssil para cada card na mão de seu oponente.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   A mãe dele queria que ele fosse um mago ou bruxo, mas nãaaaaaaaaao, ele tinha que ser cientista como o pai.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Grobbulus no Distrito dos Constructos.
   </howtogetgold>
+  <flavor>
+   A mãe dele queria que ele fosse um mago ou bruxo, mas nãaaaaaaaaao, ele tinha que ser cientista como o pai.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Grobbulus no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <text>
@@ -1029,9 +1029,9 @@ Assuma o controle de um lacaio inimigo aleatório.
   <text>
    Toda vez que evocar um lacaio com &lt;b&gt;Último Suspiro&lt;/b&gt;, receba +1 de ataque.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Retalhoso no Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1041,21 +1041,21 @@ Assuma o controle de um lacaio inimigo aleatório.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   Em um mundo onde você pode ir até um anjo da cura e ressuscitar, os Coveiros têm pouquíssimo trabalho.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Retalhoso no Distrito dos Constructos.
   </howtogetgold>
+  <flavor>
+   Em um mundo onde você pode ir até um anjo da cura e ressuscitar, os Coveiros têm pouquíssimo trabalho.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Retalhoso no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <text>
@@ -1233,27 +1233,27 @@ Mude a Vida dos lacaios inimigos para 1.
   <text>
    &lt;b&gt;Segredo:&lt;/b&gt; Quando um lacaio aliado morrer, coloque 2 cópias dele na sua mão.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Mago em Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   A única vez em que duplicar cards não vai fazer você ser banido!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Mago em Naxxramas.
   </howtogetgold>
+  <flavor>
+   A única vez em que duplicar cards não vai fazer você ser banido!
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Mago em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -1279,9 +1279,9 @@ Mude a Vida dos lacaios inimigos para 1.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Devolva um lacaio aliado aleatório à sua mão.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Ladino em Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -1291,21 +1291,21 @@ Mude a Vida dos lacaios inimigos para 1.
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   No comecinho, ele era chamado de "Carinha Abub&amp;apos;ar que manda um carinha de volta pra sua mão", mas faltava aquele tchan.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Ladino em Naxxramas.
   </howtogetgold>
+  <flavor>
+   No comecinho, ele era chamado de "Carinha Abub&amp;apos;ar que manda um carinha de volta pra sua mão", mas faltava aquele tchan.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Ladino em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1432,9 +1432,9 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Seu oponente compra um card.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar o Instrutor Razúvio no Distrito Militar.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -1444,21 +1444,21 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Elas gostam de dançar reggae.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar o Instrutor Razúvio no Distrito Militar.
   </howtogetgold>
+  <flavor>
+   Elas gostam de dançar reggae.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar o Instrutor Razúvio no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1606,12 +1606,15 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Se Stalagg também morreu nesta partida, evoque Thaddius.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -1621,24 +1624,21 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <health>
    7
   </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Feugen está triste porque todo mundo gosta mais do Stalagg.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Constructos.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen está triste porque todo mundo gosta mais do Stalagg.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após completar o Distrito dos Constructos.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1647,9 +1647,9 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1662,9 +1662,9 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -1796,9 +1796,9 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <text>
    No início do seu turno, restaure toda a Vida deste lacaio.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Noth, o Pestífero, no Distrito da Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1808,32 +1808,32 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Gárgulas Litopele adoram brincar de estátua.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Noth, o Pestífero, no Distrito da Peste.
   </howtogetgold>
+  <flavor>
+   Gárgulas Litopele adoram brincar de estátua.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Noth, o Pestífero, no Distrito da Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1842,15 +1842,15 @@ Cause 3 de dano ao lacaio inimigo que estiver mais à esquerda.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1963,9 +1963,9 @@ Destrua um lacaio.
   <text>
    &lt;b&gt;Grito de Guerra:&lt;/b&gt; No final do turno, evoque uma cópia exata deste lacaio.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Sapphiron no Covil da Serpe Gélida.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -1975,32 +1975,32 @@ Destrua um lacaio.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   GOSMA... Gosma... Gosma... (gosma...)
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Sapphiron no Covil da Serpe Gélida.
   </howtogetgold>
+  <flavor>
+   GOSMA... Gosma... Gosma... (gosma...)
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Sapphiron no Covil da Serpe Gélida.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -2009,15 +2009,15 @@ Destrua um lacaio.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -2026,15 +2026,15 @@ Destrua um lacaio.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -2043,15 +2043,15 @@ Destrua um lacaio.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -2060,15 +2060,15 @@ Destrua um lacaio.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -2077,15 +2077,15 @@ Destrua um lacaio.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -2342,15 +2342,15 @@ Cause 3 de dano ao herói inimigo e &lt;b&gt;Congele&lt;/b&gt;-o.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -2359,15 +2359,15 @@ Cause 3 de dano ao herói inimigo e &lt;b&gt;Congele&lt;/b&gt;-o.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -2446,15 +2446,15 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -2463,15 +2463,15 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -2492,12 +2492,15 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    No final de cada turno, evoque todos os lacaios aliados que morreram neste turno.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar todos os chefes de Naxxramas!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -2507,24 +2510,21 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <health>
    8
   </health>
+  <howtogetgold>
+   Pode ser criado após derrotar todos os chefes de Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad não resistiu ao chamado do Lich Rei. Mesmo sendo apenas uma gravação exaltando as qualidades do Lich Rei.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar todos os chefes de Naxxramas!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad não resistiu ao chamado do Lich Rei. Mesmo sendo apenas uma gravação exaltando as qualidades do Lich Rei.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após derrotar todos os chefes de Naxxramas!
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -2533,6 +2533,9 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -2548,9 +2551,6 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -2562,6 +2562,9 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -2577,9 +2580,6 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -2689,15 +2689,15 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -2706,15 +2706,15 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -2731,9 +2731,6 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2743,12 +2740,18 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Destrua qualquer lacaio atingido por este lacaio.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Distrito dos Aracnídeos.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Aracnídeos.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -2758,24 +2761,21 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna fica passada quando a apresentam como "Maéquisna" ou "Maxxinha".
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Aracnídeos.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Maexxna fica passada quando a apresentam como "Maéquisna" ou "Maxxinha".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após completar o Distrito dos Aracnídeos.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -2890,30 +2890,30 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Guerreiro em Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   "Tire um pedacinho da morte." — McCangote, o Necrolorde
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Guerreiro em Naxxramas.
   </howtogetgold>
+  <flavor>
+   "Tire um pedacinho da morte." — McCangote, o Necrolorde
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Guerreiro em Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -2973,9 +2973,9 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <text>
    &lt;b&gt;Provocar. Último Suspiro:&lt;/b&gt; Seu oponente coloca um lacaio do próprio deck no campo de batalha.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Os Quatro Cavaleiros no Distrito Militar.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -2985,21 +2985,21 @@ Devolva um lacaio inimigo aleatório à mão do seu oponente.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   "Erga-se de sua tumba!" — Kel&amp;apos;thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Os Quatro Cavaleiros no Distrito Militar.
   </howtogetgold>
+  <flavor>
+   "Erga-se de sua tumba!" — Kel&amp;apos;thuzad
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Os Quatro Cavaleiros no Distrito Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <set>
@@ -3196,9 +3196,9 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque um Nerubiano 4/4.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Maexxna no Distrito dos Aracnídeos.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -3208,21 +3208,21 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Ovos são ótimas fontes de proteína e Nerubianos.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Maexxna no Distrito dos Aracnídeos.
   </howtogetgold>
+  <flavor>
+   Ovos são ótimas fontes de proteína e Nerubianos.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Maexxna no Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <set>
@@ -3265,9 +3265,9 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Restaure 5 de Vida do Herói inimigo.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Gluth no Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3277,21 +3277,21 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Zumbi. É isso que tem pra janta.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Gluth no Distrito dos Constructos.
   </howtogetgold>
+  <flavor>
+   Zumbi. É isso que tem pra janta.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Gluth no Distrito dos Constructos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <set>
@@ -3339,9 +3339,6 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3354,9 +3351,12 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Evoque duas Aranhas Espectrais 1/1.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3366,21 +3366,21 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Aracnofalsbia: Medo de aranhas falsas.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Desbloqueado ao derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Pode ser criado após derrotar Anub&amp;apos;Rekhan no Distrito dos Aracnídeos.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <collectible>
@@ -3398,41 +3398,41 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <text>
    Destrua um lacaio, depois ressuscite-o com a Vida completa.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Xamã em Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   É como nascer, mas você é um adulto e estava morto há um segundinho apenas.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Xamã em Naxxramas.
   </howtogetgold>
+  <flavor>
+   É como nascer, mas você é um adulto e estava morto há um segundinho apenas.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Xamã em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -3441,15 +3441,15 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -3475,12 +3475,15 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de Guerra:&lt;/b&gt; Feitiços inimigos custam (5) a mais no próximo turno.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Distrito da Peste.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -3490,35 +3493,32 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   <health>
    5
   </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito da Peste.
+  </howtogetgold>
+  <flavor>
+   Repugnaz era uma Fera do Brejo. É por isso que precisamos de leis mais restritas sobre mineração e agricultura.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito da Peste.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Repugnaz era uma Fera do Brejo. É por isso que precisamos de leis mais restritas sobre mineração e agricultura.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após completar o Distrito da Peste.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -3527,15 +3527,15 @@ Cause 2 de dano a todos os inimigos. Se algum morrer, evoque um visgo.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -3586,15 +3586,15 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3603,15 +3603,15 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3640,9 +3640,9 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Conceda +3 de Vida a um lacaio aliado aleatório.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Sacerdote em Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -3652,21 +3652,21 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   A Seita dos Malditos acha melhor não mencionar o próprio nome quando está recrutando novos sectários.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Sacerdote em Naxxramas.
   </howtogetgold>
+  <flavor>
+   A Seita dos Malditos acha melhor não mencionar o próprio nome quando está recrutando novos sectários.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Sacerdote em Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -3687,27 +3687,27 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <text>
    Destrua todos os lacaios e evoque Arvorosos 2/2 para substituí-los.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Druida em Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   "Bolinhos de sementes de veneno" são os bolinhos menos populares no Empório de Bolinhos Druídicos do McTiggin.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Druida em Naxxramas.
   </howtogetgold>
+  <flavor>
+   "Bolinhos de sementes de veneno" são os bolinhos menos populares no Empório de Bolinhos Druídicos do McTiggin.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Druida em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -3733,9 +3733,9 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <text>
    Lacaios com &lt;b&gt;Grito de Guerra&lt;/b&gt; custam (2) a mais.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3745,21 +3745,21 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Os senhores da teia ficam o dia inteiro fazendo trampolins gigantes.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.
   </howtogetgold>
+  <flavor>
+   Os senhores da teia ficam o dia inteiro fazendo trampolins gigantes.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar a Grã-viúva Faerlina no Distrito dos Aracnídeos.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -3768,6 +3768,9 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -3783,9 +3786,6 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -3797,6 +3797,9 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -3812,9 +3815,6 @@ Toda vez que um inimigo morrer, levante um Esqueleto 1/1.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3862,15 +3862,15 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Sr. Bigglesworth
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Este é o gatinho de Kel&amp;apos;Thuzad.&lt;/i&gt;
   </text>
@@ -3886,12 +3886,12 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -3903,9 +3903,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3918,9 +3918,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3943,12 +3943,15 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Se Feugen também morreu nesta partida, evoque Thaddius.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Distrito dos Constructos.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3958,24 +3961,21 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    4
   </health>
+  <howtogetgold>
+   Pode ser criado após completar o Distrito dos Constructos.
+  </howtogetgold>
+  <flavor>
+   Stalagg quer escrever próprio texto. "STALAGG CABULOSO!"
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Distrito dos Constructos.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg quer escrever próprio texto. "STALAGG CABULOSO!"
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Pode ser criado após completar o Distrito dos Constructos.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -4023,9 +4023,6 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4038,9 +4035,12 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <text>
    &lt;b&gt;Último Suspiro:&lt;/b&gt; Adicione um card de Fera aleatório à sua mão.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Caçador em Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Pode ser criado após completar o Desafio de Caçador em Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4050,35 +4050,35 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Casulos de aranhas são como pequenas pinhatas!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Caçador em Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Pode ser criado após completar o Desafio de Caçador em Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -4087,15 +4087,15 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -4110,9 +4110,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4125,9 +4125,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
@@ -4139,6 +4139,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -4154,9 +4157,6 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -4168,6 +4168,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Seu herói fica &lt;b&gt;Imune&lt;/b&gt;.
   </text>
@@ -4183,9 +4186,6 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -4251,27 +4251,27 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <text>
    &lt;b&gt;Segredo:&lt;/b&gt; Quando um de seus lacaios morrer, conceda +3/+2 a um lacaio aliado aleatório.
   </text>
-  <howtoget>
-   Desbloqueado ao completar o Desafio de Paladino em Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Vários paladinos se reuniram para fazer justiça usando o nome "Força da Justiça". Os advogados os convenceram a não usar o nome "Liga da Justiça".
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Pode ser criado após completar o Desafio de Paladino em Naxxramas.
   </howtogetgold>
+  <flavor>
+   Vários paladinos se reuniram para fazer justiça usando o nome "Força da Justiça". Os advogados os convenceram a não usar o nome "Liga da Justiça".
+  </flavor>
+  <howtoget>
+   Desbloqueado ao completar o Desafio de Paladino em Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -4351,9 +4351,9 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <text>
    &lt;b&gt;Furtividade.&lt;/b&gt; No início do seu turno, receba +1/+1.
   </text>
-  <howtoget>
-   Desbloqueado ao derrotar Kel&amp;apos;thuzad no Covil da Serpe Gélida.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -4363,20 +4363,20 @@ Destrua todos os lacaios inimigos que não estejam &lt;b&gt;Congelados&lt;/b&gt;
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Os Vultos de Naxxramas &lt;i&gt;odeiam&lt;/i&gt; os vivos. Eles têm até um termo pejorativo que usam para mencioná-los: &lt;i&gt;Viventes&lt;/i&gt;.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Pode ser criado após derrotar Kel&amp;apos;thuzad no Covil da Serpe Gélida.
   </howtogetgold>
+  <flavor>
+   Os Vultos de Naxxramas &lt;i&gt;odeiam&lt;/i&gt; os vivos. Eles têm até um termo pejorativo que usam para mencioná-los: &lt;i&gt;Viventes&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Desbloqueado ao derrotar Kel&amp;apos;thuzad no Covil da Serpe Gélida.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
 </cards>

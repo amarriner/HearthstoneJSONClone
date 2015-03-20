@@ -52,9 +52,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -64,6 +61,9 @@
   <artist>
    Eva Widermann
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    &lt;b&gt;Prowokacja&lt;/b&gt;.
 &lt;b&gt;Wybierz jedno:&lt;/b&gt; 
@@ -81,15 +81,15 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jaki uroczy malec! RATUNKU ZARAZ ZEŻRE MI TWARZ!
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_030
   </id>
@@ -106,9 +106,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -133,6 +130,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Teraz, panie, to już takich nie robią! (Zapewne dlatego, że większość wybuchła).
   </flavor>
@@ -152,9 +152,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -179,6 +176,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Cały czas coś ją trapi.
   </flavor>
@@ -226,9 +226,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -238,6 +235,9 @@
   <artist>
    Jomaro Kindred
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Wyposaż każdego z graczy w losową broń.
   </text>
@@ -253,15 +253,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Błyszczy niczym tron.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_119
   </id>
@@ -270,9 +270,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -297,6 +294,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jego funkcja podstawowa to prawy sierpowy. Funkcja wspomagająca to lewy sierpowy.
   </flavor>
@@ -323,6 +323,9 @@
   <artist>
    Tooth
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Gdy masz tę kartę w ręce, otrzymuje +1 do ataku za każdym razem, gdy zginie przyjazny stronnik.
   </text>
@@ -338,15 +341,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Uwaga, zdradzamy zakończenie: Bolvar ginie! Ale nie całkiem, ponieważ zostaje zamieniony w żywy ogarek, a potem zasiada na tronie z lodu i wszyscy o nim zapominają.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_063
   </id>
@@ -473,9 +473,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -491,6 +488,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -649,9 +649,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -676,6 +673,9 @@
   <health>
    7
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Ma promień skrętu jak czołg, ale przynajmniej niestraszne mu korki.
   </flavor>
@@ -764,6 +764,9 @@
   <artist>
    Alex Garner
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij dwa Hukoboty 1/1. &lt;i&gt;UWAGA: Hukoboty mogą huknąć.&lt;/i&gt;
   </text>
@@ -779,15 +782,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Szef najskuteczniejszej (a na pewno najszybszej) ekipy rozbiórkowej w całym Azeroth.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_110
   </id>
@@ -796,9 +796,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -808,6 +805,9 @@
   <artist>
    James Ryman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Zadaj również obrażenia stronnikom znajdującym się obok celu ataku.
   </text>
@@ -823,15 +823,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Doskonały na dożynki i dorzynki.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_113
   </id>
@@ -883,9 +883,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -904,6 +901,9 @@
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -991,9 +991,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1018,6 +1015,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Na opakowaniu napisano: „Zupełna nowość! 200% więcej Spaczenia!”
   </flavor>
@@ -1075,9 +1075,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1102,6 +1099,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Święcie wierzy w jeden, powszechny i międzyrobotowy program.
   </flavor>
@@ -1170,9 +1170,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1197,6 +1194,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Aby to ustrojstwo działało prawidłowo, należy posmarować je maścią latania i użyć magicznych słów: „Pole, las, woda, wieś, nadszedł czas, maszyno leć”.
   </flavor>
@@ -1211,9 +1211,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1223,6 +1220,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy ten stronnik zostanie zraniony, podwaja wartość swojego ataku.
   </text>
@@ -1238,15 +1238,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Co trzy głowy, to nie jedna.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_049
   </id>
@@ -1267,6 +1267,9 @@
   <artist>
    Luke Mancini
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy rzucasz zaklęcie za 1 many, umieść w ręce losowego Mecha.
   </text>
@@ -1282,15 +1285,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    W szkole Gazolowi nie pozwalano wykonywać doświadczeń po tym, jak niechcący wysadził w powietrze kantorek chemików.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_117
   </id>
@@ -1365,9 +1365,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1377,6 +1374,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Jeśli na początku twojej tury kontrolujesz co najmniej 3 Mechy, niszczysz je i tworzysz V-07-TR-0Na.
   </text>
@@ -1392,15 +1392,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Naciskanie wielkiego czerwonego guzika surowo wzbronione!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_111
   </id>
@@ -1503,9 +1503,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1530,6 +1527,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Przytnie twoją fryzurę lub ciebie – korzystasz na własne ryzyko.
   </flavor>
@@ -1590,9 +1590,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1617,6 +1614,9 @@
   <health>
    9
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Golem Animusa ma niezły animusz!
   </flavor>
@@ -1634,9 +1634,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1661,6 +1658,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Tyle grabienia. Takie spaczenie. Łał.
   </flavor>
@@ -1689,6 +1689,9 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz Bestię.
   </text>
@@ -1704,15 +1707,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Nigdy nie żegna się z bronią.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_120
   </id>
@@ -1778,9 +1778,6 @@
     Deathrattle
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1799,6 +1796,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -1810,9 +1810,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1837,6 +1834,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    W profesji lokaja najbardziej ceni sobie dobieranie opon.
   </flavor>
@@ -1851,9 +1851,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1878,6 +1875,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Jest groźniejszy od jednorękiego bandyty.
   </flavor>
@@ -1933,9 +1933,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1957,6 +1954,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Żyje w zbiorniku wodnym o znikomym znaczeniu strategicznym, ale nie spędza mu to snu z powiek.
   </flavor>
@@ -1993,9 +1993,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2020,6 +2017,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Zawodowo zajmuje się klekotacją i wyśrubowywaniem.
   </flavor>
@@ -2037,9 +2037,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2064,6 +2061,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Dawniej strażników robiono z adamantium, ale produkcję przeniesiono do Gadżetonu, gdzie kobalt był po taniości.
   </flavor>
@@ -2140,9 +2140,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2167,6 +2164,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Na ciebie czekam lwie. Bo hiena chyba nie zżarła cię.
   </flavor>
@@ -2193,6 +2193,9 @@
   <artist>
    Wei Wang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy przeciwnik rzuci zaklęcie, otrzymujesz jego kopię, zaś on dostaje Monetę.
   </text>
@@ -2208,15 +2211,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Galiwiasz potrafi doskonale liczyć, dlatego liczy wyłącznie na siebie.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_028
   </id>
@@ -2225,9 +2225,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2243,6 +2240,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2300,9 +2300,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2327,6 +2324,9 @@
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Na początku nazywał się Złe Oko Pewnej Zguby, ale nazwa odstraszała potencjalnych stronników.
   </flavor>
@@ -2349,9 +2349,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2376,6 +2373,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Miał być „robotobotem”, ale jego projektant seplenił.
   </flavor>
@@ -2393,9 +2393,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2420,6 +2417,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Nieźle się prezentuje na polu bitwy, ale czy ma jakieś zastosowanie praktyczne?
   </flavor>
@@ -2442,9 +2442,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2454,6 +2451,9 @@
   <artist>
    Wayne Reynolds
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Twoje pozostałe Demony otrzymują +2/+2.
 Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
@@ -2470,15 +2470,15 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Gdy się Mal&amp;apos;Ganisa gani, ten okrutnie wszystkich rani!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_021
   </id>
@@ -2542,9 +2542,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2554,6 +2551,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <artist>
    Oliver Chipping
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Wtasuj tego stronnika do twojej talii.
   </text>
@@ -2569,15 +2569,15 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Od czasu pamiętnego pojedynku z Archimondem, Malorn nie pozwala się już wyjelenić.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_035
   </id>
@@ -2594,9 +2594,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2621,6 +2618,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Yeti z Zimnych Wichrów są źródłem inspiracji dla wielu wynalazców – kiedy akurat nie ścigają ich w celach konsumpcji.
   </flavor>
@@ -2640,9 +2640,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2668,6 +2665,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jego dopalacze są zakazane w niektórych krajach.
   </flavor>
@@ -2682,9 +2682,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2694,6 +2691,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy ginie wrogi stronnik, przyzywasz Trędowatego gnoma.
   </text>
@@ -2709,15 +2709,15 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Chciał przejąć kontrolę nad Gnomoreganem, ale wszyscy wiemy, jak na tym wyszedł.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_116
   </id>
@@ -2726,9 +2726,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2753,6 +2750,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    6
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jego najlepszym kumplem jest Zwierzo-człeko-upiór.
   </flavor>
@@ -2790,9 +2790,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2817,6 +2814,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jest w związku z mikrokomputerem.
   </flavor>
@@ -2947,9 +2947,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2974,6 +2971,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mechy, które przywołują mechy? A potem co? Pączkujące pączki? Hmm, w sumie...
   </flavor>
@@ -2993,9 +2993,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3020,6 +3017,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Może i jest powolny, ale jak się rozkręci…
   </flavor>
@@ -3034,9 +3034,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3061,6 +3058,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Nie może znaleźć wspólnego języka z resztą olbrzymów.
   </flavor>
@@ -3109,6 +3109,9 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <artist>
    Ruan Jia
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dodaj 4 losowe Murloki do twojej ręki. &lt;b&gt;Przeciążenie:&lt;/b&gt; (3)
   </text>
@@ -3124,15 +3127,12 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Neptulon nie ogarnia murloków, bo ostatnio coraz częściej jest zalany.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_042
   </id>
@@ -3250,9 +3250,6 @@ Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3278,6 +3275,9 @@ Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Gnomi magowie odbyli na temat tego mecha kilka bardzo poważnych rozmów z gnomimi inżynierami.
   </flavor>
@@ -3470,6 +3470,9 @@ wroga.
   <artist>
    Michal Ivan
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Wszyscy stronnicy mają 50% szans na zaatakowanie niewłaściwego wroga.
   </text>
@@ -3485,15 +3488,12 @@ wroga.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Mogor uczestniczył w ponownym otwarciu Mrocznego Portalu. Jeśli o pomoc w tak odpowiedzialnym zadaniu musisz prosić ogra, to wiedz, że jesteś w poważnych tarapatach.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_112
   </id>
@@ -3682,9 +3682,6 @@ wroga.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3706,6 +3703,9 @@ wroga.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    „A może by tak zamontować na nim takie wielgachne działa?” – inżynier Migbłysk podczas odbioru Pajęczego Transportera Kroczącego.
   </flavor>
@@ -3720,9 +3720,6 @@ wroga.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3747,6 +3744,9 @@ wroga.
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Jej siostra, Pani Bulu, zsyła cierpienie na władców królestwa Beznadzieji.
   </flavor>
@@ -3934,9 +3934,6 @@ wroga.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3946,6 +3943,9 @@ wroga.
   <artist>
    Aleksi Briclot
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Gdy dobierzesz tę kartę, zadaj $2 pkt. obrażeń wszystkim postaciom.
   </text>
@@ -3961,15 +3961,15 @@ wroga.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mimiron często zabiera Płomiennego Lewiatana na szalone przejażdżki po Ulduarze.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_007
   </id>
@@ -4311,9 +4311,6 @@ Jeśli jest to Bestia, kosztuje (4) mniej.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4338,6 +4335,9 @@ Jeśli jest to Bestia, kosztuje (4) mniej.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Wynalazcy rozpylacza sadzy i goblińskiego szatkownika od lat ciągają się po sądach z powodu drobnego sporu o prawa patentowe.
   </flavor>
@@ -4577,9 +4577,6 @@ Jeśli jest to Bestia, kosztuje (4) mniej.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4604,6 +4601,9 @@ Jeśli jest to Bestia, kosztuje (4) mniej.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Zaczłapuje przeciwników na śmierć.
   </flavor>
@@ -4761,9 +4761,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4773,6 +4770,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Christopher Moeller
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przyzwij losowego legendarnego stronnika.
   </text>
@@ -4788,15 +4788,15 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Kiedy Szmondak został pokonany, jego szatkownik odkupił anonimowy nabywca. (Najprawdopodobniej był to Wyżer).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_114
   </id>
@@ -4851,9 +4851,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4878,6 +4875,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    5
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Żywioły przybywają z pomocą każdemu, kto wzywa je w słusznej sprawie – nawet jeśli ów ktoś czyni to, gulgocząc niezrozumiale.
   </flavor>
@@ -5018,6 +5018,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Zoltan &amp; Gabor
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy oraz Agonia:&lt;/b&gt; Dodaj kartę &lt;b&gt;Części zamiennej&lt;/b&gt; do twojej ręki.
   </text>
@@ -5033,15 +5036,12 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Marzył o mieczu świetlnym, ale miał za mało mocy.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_115
   </id>
@@ -5135,6 +5135,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Mike Sass
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy przeciwnik rzuci zaklęcie, przyzywasz Trogga twardopaszczego.
   </text>
@@ -5150,15 +5153,12 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Jeszcze tu wróci.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_118
   </id>
@@ -5380,9 +5380,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5407,6 +5404,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Nie zostawiaj ich na deszczu. W kraterze Un&amp;apos;goro jest cała kolonia tygrysów rdzawozębnych.
   </flavor>
@@ -5429,9 +5429,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5456,6 +5453,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Ten model nie różni się niczym od poprzedniego – po prostu ma w nazwie słowo „ulepszony” i jest z tego powodu dwukrotnie droższy.
   </flavor>
@@ -5495,9 +5495,6 @@ Przeciążenie:&lt;/b&gt; (1)
     Charge
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5507,6 +5504,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Chris Seaman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Szarża&lt;/b&gt;
 &lt;b&gt;Mega furia wichru&lt;/b&gt; &lt;i&gt;(Może atakować cztery razy w ciągu tury).&lt;/i&gt;
@@ -5523,12 +5523,12 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    GVG_111t
   </id>
@@ -5551,6 +5551,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zamień punkty zdrowia z innym stronnikiem.
   </text>
@@ -5566,15 +5569,12 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Vol&amp;apos;jin jest łowcą cienia, czyli takim jakby kapłanem cienia, ale z większym nastawieniem na wudowanie.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_014
   </id>
@@ -5710,9 +5710,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5734,6 +5731,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    4
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Przez pewien czas był wilkiem podmorskim, ale w końcu go wyłowiono.
   </flavor>
@@ -5793,9 +5793,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5820,6 +5817,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Należy go trzymać z dala od beczek z prochem.
   </flavor>
@@ -5845,9 +5845,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5873,6 +5870,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Wynalazcę Wkurzotrona niemal natychmiast wyrzucono z Akademii Majstrów, później z Majsterkowa, aż w końcu wygnano go ze Wschodnich Królestw i zakazano powrotu.
   </flavor>
@@ -5944,9 +5944,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5971,6 +5968,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Modę na wybuchowe owce zapoczątkował niejaki szewczyk Skuba z czworaków pod Wichrogrodem.
   </flavor>
@@ -6045,9 +6045,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6069,6 +6066,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Na zadku ma wytatuowaną wiadomość: „Znalazcę prosimy o zwrot zguby do Mulgoru”.
   </flavor>
@@ -6088,9 +6088,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6115,6 +6112,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    To szczytowe osiągnięcie goblińskiej technologii jest wyposażone w skórzaną tapicerkę, ekspres do kawy i podgrzewane siedzenia.
   </flavor>
@@ -6134,9 +6134,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6161,6 +6158,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Kiedyś tylko gobliny mogły siadać za sterami szatkowników. Dzisiaj produkują nawet modele dla taurenów.
   </flavor>
@@ -6217,9 +6217,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6229,6 +6226,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Wtasuj Minę do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 10 pkt. obrażeń.
   </text>
@@ -6244,15 +6244,15 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Żelazny moloch niestrudzenie strzeże Orgrimmaru. Jest tak skuteczny, że właśnie udało mu się zostać pracownikiem miesiąca!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_056
   </id>
@@ -6264,9 +6264,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6291,6 +6288,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Jest jednym z nielicznych pedagogów, który znajduje wspólny język z mechami.
 
@@ -6362,9 +6362,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6389,6 +6386,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    To złomobot wszystko skrawa, bez różnicy, stal czy trawa. I w ogóle jest zabawa!
   </flavor>
@@ -6481,9 +6481,6 @@ Przeciążenie:&lt;/b&gt; (1)
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6508,6 +6505,9 @@ Przeciążenie:&lt;/b&gt; (1)
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Przed użyciem zapoznaj się z treścią ulotki dołączonej do opakowania, bądź skonsultuj się z szamanem lub duchami przodków.
   </flavor>

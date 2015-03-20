@@ -9,9 +9,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Reward
   </set>
@@ -24,9 +21,12 @@
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Put a random Pirate from your deck into your hand.
   </text>
-  <howtoget>
-   Unlocked when you have all the Pirates from the Expert Set.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
+  <howtogetgold>
+   Unlocked when you have all the Golden Pirates from the Expert Set.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -36,21 +36,21 @@
   <health>
    1
   </health>
-  <id>
-   NEW1_016
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Pirates and Parrots go together like Virmen and Carrots.
   </flavor>
-  <rarity>
-   Epic
-  </rarity>
+  <howtoget>
+   Unlocked when you have all the Pirates from the Expert Set.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Unlocked when you have all the Golden Pirates from the Expert Set.
-  </howtogetgold>
+  <id>
+   NEW1_016
+  </id>
  </item>
  <item>
   <mechanics>
@@ -61,9 +61,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Reward
   </set>
@@ -73,18 +70,21 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;. Has +1 Attack for each other Murloc on the battlefield.
   </text>
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   Unlocked when you have all the Murlocs from the Expert Set.
-  </howtoget>
-  <inplaytext>
-   Marglahg
-  </inplaytext>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Unlocked when you have all the Golden Murlocs from the Expert and Basic Sets.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -94,23 +94,23 @@
   <health>
    4
   </health>
+  <race>
+   Murloc
+  </race>
+  <inplaytext>
+   Marglahg
+  </inplaytext>
+  <flavor>
+   He&amp;apos;s a legend among murlocs.  "Mrghllghghllghg!", they say.
+  </flavor>
+  <howtoget>
+   Unlocked when you have all the Murlocs from the Expert Set.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    EX1_062
   </id>
-  <flavor>
-   He&amp;apos;s a legend among murlocs.  "Mrghllghghllghg!", they say.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Unlocked when you have all the Golden Murlocs from the Expert and Basic Sets.
-  </howtogetgold>
  </item>
 </cards>

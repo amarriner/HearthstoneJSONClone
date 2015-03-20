@@ -182,6 +182,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Windfury, Charge, Divine Shield, Taunt&lt;/b&gt;
   </text>
@@ -197,15 +200,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He is the weakest of the four Elemental Lords.  And the other three don&amp;apos;t let him forget it.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -217,9 +217,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -244,6 +241,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    WARNING.  WARNING.  WARNING.
   </flavor>
@@ -312,9 +312,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -324,6 +321,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Set a hero&amp;apos;s remaining Health to 15.
   </text>
@@ -342,15 +342,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alexstrasza the Life-Binder brings life and hope to everyone.  Except Deathwing.  And Malygos.  And Nekros.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -744,9 +744,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -771,6 +768,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    There is no beast more frightening (or ridiculous) than a fully enraged chicken.
   </flavor>
@@ -892,6 +892,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever you cast a spell, add a &amp;apos;Fireball&amp;apos; spell to your hand.
   </text>
@@ -910,18 +913,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
    Grand Magus
   </inplaytext>
   <flavor>
    Antonidas was the Grand Magus of the Kirin Tor, and Jaina&amp;apos;s mentor.  This was a big step up from being Grand Magus of Jelly Donuts.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -1253,9 +1253,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -1283,6 +1280,9 @@
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    They initially planned to be the Beryl or Cerulean drakes, but those felt a tad too pretentious.
   </flavor>
@@ -1300,9 +1300,9 @@
   <name>
    Baine Bloodhoof
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1315,9 +1315,9 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -1410,6 +1410,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    At the end of your turn, deal 2 damage to ALL other characters.
   </text>
@@ -1428,15 +1431,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Baron Geddon was Ragnaros&amp;apos;s foremost lieutenant, until he got FIRED.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -2023,9 +2023,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -2053,6 +2050,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
    Blood Pact
   </inplaytext>
@@ -2156,6 +2156,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Spell Damage +1&lt;/b&gt;. &lt;b&gt;Deathrattle:&lt;/b&gt; Draw a card.
   </text>
@@ -2174,15 +2177,12 @@
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He&amp;apos;s in charge of the Annual Scarlet Monastery Blood Drive!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -2216,9 +2216,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2243,6 +2240,9 @@
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Every pirate uses the same four digits to access Automated Gold Dispensers.  It&amp;apos;s called the "Pirate&amp;apos;s Code".
   </flavor>
@@ -2262,9 +2262,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2289,6 +2286,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "I only plunder on days that end in &amp;apos;y&amp;apos;."
   </flavor>
@@ -2421,6 +2421,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Summon a 4/5 Baine Bloodhoof.
   </text>
@@ -2439,15 +2442,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Cairne was killed by Garrosh, so... don&amp;apos;t put this guy in a Warrior deck.  It&amp;apos;s pretty insensitive.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -2478,9 +2478,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2490,6 +2487,9 @@
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Give your weapon +1/+1.
   </text>
@@ -2505,15 +2505,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    He was &lt;i&gt;this close&lt;/i&gt; to piloting a massive juggernaut into Stormwind Harbor. If it weren&amp;apos;t for those pesky kids!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -2557,6 +2557,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Choose One&lt;/b&gt; - Give your other minions +2/+2; or Summon two 2/2 Treants with &lt;b&gt;Taunt&lt;/b&gt;.
   </text>
@@ -2575,18 +2578,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
    Demigod
   </inplaytext>
   <flavor>
    Yes, he&amp;apos;s a demigod. No, he doesn&amp;apos;t need to wear a shirt.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -2721,9 +2721,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -2751,6 +2748,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    They can see the future.   In that future both players draw more cards.   Spoooky.
   </flavor>
@@ -2770,9 +2770,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -2800,6 +2797,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    The Coldlight murlocs reside in the darkest pits of the Abyssal Depths.  So no, there&amp;apos;s no getting away from murlocs.
   </flavor>
@@ -3199,9 +3199,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3223,6 +3220,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -3343,9 +3343,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3355,6 +3352,9 @@
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Destroy all other minions and discard your hand.
   </text>
@@ -3370,15 +3370,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated.  Daddy issues?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -3589,9 +3589,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3619,6 +3616,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
    Catapult
   </inplaytext>
@@ -3725,9 +3725,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3749,6 +3746,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3768,9 +3768,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3798,6 +3795,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
    Alpha Dog
   </inplaytext>
@@ -3889,9 +3889,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3919,6 +3916,9 @@
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Summoning a doomguard is risky. &lt;i&gt;Someone&lt;/i&gt; is going to die.
   </flavor>
@@ -3947,15 +3947,15 @@
   <name>
    Doomhammer
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;Windfury, Overload:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Windfury, Overload:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -4028,9 +4028,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4055,6 +4052,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "Yarrrr" is a pirate word that means "Greetings, milord."
   </flavor>
@@ -4094,9 +4094,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4118,6 +4115,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4178,9 +4178,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4202,6 +4199,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4455,6 +4455,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Combo:&lt;/b&gt; Gain +2/+2 for each card played earlier this turn.
   </text>
@@ -4473,15 +4476,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He led the Stonemasons in the reconstruction of Stormwind, and when the nobles refused to pay, he founded the Defias Brotherhood to, well, &lt;i&gt;deconstruct&lt;/i&gt; Stormwind.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -4507,9 +4507,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4525,6 +4522,9 @@
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -4544,9 +4544,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4574,6 +4571,9 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
    Fanged
   </inplaytext>
@@ -4700,6 +4700,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    If you control a &lt;b&gt;Secret&lt;/b&gt; at the end of your turn, gain +2/+2.
   </text>
@@ -4715,15 +4718,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    The ethereals are wrapped in cloth to give form to their non-corporeal bodies. Also because it&amp;apos;s nice and soft.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -4965,9 +4965,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4992,6 +4989,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Adorable.  Immune to Magic.  Doesn&amp;apos;t pee on the rug.  The perfect pet!
   </flavor>
@@ -5075,9 +5075,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5105,6 +5102,9 @@
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Yes, he&amp;apos;ll fight for you.  BUT HE&amp;apos;S NOT GOING TO LIKE IT.
   </flavor>
@@ -5212,9 +5212,9 @@
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -5227,9 +5227,9 @@
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -5243,9 +5243,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5273,6 +5270,9 @@
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Imps like being on fire.  They just do.
   </flavor>
@@ -5694,15 +5694,15 @@
   <name>
    Gladiator&amp;apos;s Longbow
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Your hero is &lt;b&gt;Immune&lt;/b&gt; while attacking.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Your hero is &lt;b&gt;Immune&lt;/b&gt; while attacking.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -5769,15 +5769,15 @@
   <name>
    Gorehowl
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Attacking a minion costs 1 Attack instead of 1 Durability.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Attacking a minion costs 1 Attack instead of 1 Durability.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -5841,6 +5841,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;
 &lt;b&gt;Enrage:&lt;/b&gt; +6 Attack
@@ -5860,15 +5863,12 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -5906,6 +5906,9 @@
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    At the end of each turn, gain +1/+1 .
   </text>
@@ -5921,18 +5924,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
    Growth
   </inplaytext>
   <flavor>
    He&amp;apos;s Gruul "the Dragonkiller".  He just wanted to cuddle them… he never meant to…
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -5972,6 +5972,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Destroy your opponent&amp;apos;s weapon and draw cards equal to its Durability.
   </text>
@@ -5990,15 +5993,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    “That belongs in the Hall of Explorers!”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -6012,9 +6012,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -6042,6 +6039,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    "Overheat threshold exceeded. System failure. Wheat clog in port two. Shutting down."
   </flavor>
@@ -6134,6 +6134,9 @@
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    At the end of your turn, summon a 2/2 Gnoll with &lt;b&gt;Taunt&lt;/b&gt;.
   </text>
@@ -6149,15 +6152,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Hogger is super powerful. If you kill him, it&amp;apos;s because he &lt;i&gt;let&lt;/i&gt; you.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -6241,9 +6241,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6262,6 +6259,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6298,9 +6298,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6325,6 +6322,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Murloc.  It&amp;apos;s what&amp;apos;s for dinner.
   </flavor>
@@ -6336,9 +6336,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6360,6 +6357,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6528,9 +6528,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6540,6 +6537,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever you play a card, summon a 2/1 Flame of Azzinoth.
   </text>
@@ -6558,23 +6558,20 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Illidan&amp;apos;s brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years.  Stormrages are not good at letting go of grudges.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6596,6 +6593,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -6648,9 +6648,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6672,6 +6669,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -6903,9 +6903,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6933,6 +6930,9 @@ Summon a 6/6 Infernal.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Their wings are silent but their screech is... whatever the opposite of silent is.
   </flavor>
@@ -6952,9 +6952,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6982,6 +6979,9 @@ Summon a 6/6 Infernal.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Stranglethorn is a beautiful place to visit, but you wouldn&amp;apos;t want to live there.
   </flavor>
@@ -7148,9 +7148,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7160,6 +7157,9 @@ Summon a 6/6 Infernal.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;
   </text>
@@ -7178,15 +7178,15 @@ Summon a 6/6 Infernal.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    The best defense against King Krush is to have someone you don’t like standing in front of you.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -7203,9 +7203,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7215,6 +7212,9 @@ Summon a 6/6 Infernal.
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Give your opponent 2 Bananas.
   </text>
@@ -7230,15 +7230,15 @@ Summon a 6/6 Infernal.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    King Mukla wanders Jaguero Isle, searching for love.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -7505,6 +7505,9 @@ Summon a 6/6 Infernal.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;. &lt;b&gt;Battlecry:&lt;/b&gt; Summon two 1/1 Whelps for your opponent.
   </text>
@@ -7523,15 +7526,12 @@ Summon a 6/6 Infernal.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    At least he has Angry Chicken.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -7859,9 +7859,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7871,6 +7868,9 @@ Summon a 6/6 Infernal.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Destroy your hero and replace it with Lord Jaraxxus.
   </text>
@@ -7886,15 +7886,15 @@ Summon a 6/6 Infernal.
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    "TRIFLING GNOME! YOUR ARROGANCE WILL BE YOUR UNDOING!!!!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -7903,9 +7903,6 @@ Summon a 6/6 Infernal.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7927,6 +7924,9 @@ Summon a 6/6 Infernal.
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -7950,6 +7950,9 @@ Summon a 6/6 Infernal.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever a player casts a spell, put a copy into the other player’s hand.
   </text>
@@ -7968,18 +7971,15 @@ Summon a 6/6 Infernal.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
    Meditate
   </inplaytext>
   <flavor>
    Lorewalker Cho archives and shares tales from the land of Pandaria, but his favorite story is the one where Joey and Phoebe go on a road trip.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -8039,9 +8039,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8051,6 +8048,9 @@ Summon a 6/6 Infernal.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Spell Damage +5&lt;/b&gt;
   </text>
@@ -8069,15 +8069,15 @@ Summon a 6/6 Infernal.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Malygos hates it when mortals use magic.  He gets so mad!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -8150,9 +8150,6 @@ Summon a 6/6 Infernal.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -8180,6 +8177,9 @@ Summon a 6/6 Infernal.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    It is said that some shaman can say "Floatin&amp;apos; totem" 10 times, fast.
   </flavor>
@@ -8552,6 +8552,9 @@ Summon a 6/6 Infernal.
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Enemy spells cost (0) next turn.
   </text>
@@ -8567,15 +8570,12 @@ Summon a 6/6 Infernal.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    "I&amp;apos;m gonna light you up, sweetcheeks!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -9050,9 +9050,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -9080,6 +9077,9 @@ Deal 2 damage.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    This guy gets crazy strong at family reunions.
   </flavor>
@@ -9099,9 +9099,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -9129,6 +9126,9 @@ Deal 2 damage.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Do Murlocs ever get tired of making the same old sound?  Nope!  Mrglglrglglglglglglgl!
   </flavor>
@@ -9152,6 +9152,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    At the start of your turn, you have a 50% chance to draw an extra card.
   </text>
@@ -9170,18 +9173,15 @@ Deal 2 damage.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
    Fishing
   </inplaytext>
   <flavor>
    Nat Pagle, Azeroth&amp;apos;s premier fisherman!  He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -9415,9 +9415,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9427,6 +9424,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Players only have 15 seconds to take their turns.
   </text>
@@ -9445,18 +9445,18 @@ Deal 2 damage.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
    Aspect of Time
   </inplaytext>
   <flavor>
    Time to write some flavor text.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -9470,9 +9470,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9482,6 +9479,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Summon 1/1 Whelps until your side of the battlefield is full.
   </text>
@@ -9500,15 +9500,15 @@ Deal 2 damage.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.   You would have thought that the giant wings and scales would have been a giveaway.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -9534,9 +9534,6 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9555,6 +9552,9 @@ Deal 2 damage.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -9638,15 +9638,15 @@ Deal 2 damage.
   <name>
    Perdition&amp;apos;s Blade
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Battlecry:&lt;/b&gt; Deal 1 damage. &lt;b&gt;Combo:&lt;/b&gt; Deal 2 instead.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Battlecry:&lt;/b&gt; Deal 1 damage. &lt;b&gt;Combo:&lt;/b&gt; Deal 2 instead.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -9730,9 +9730,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -9760,6 +9757,9 @@ Deal 2 damage.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mannoroth, Magtheridon, and Brutallus may be dead, but it turns out there are a LOT of pit lords.
   </flavor>
@@ -10019,6 +10019,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Double the damage and healing of your spells and Hero Power.
   </text>
@@ -10037,15 +10040,12 @@ Deal 2 damage.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He&amp;apos;s been exiled from his home, and all his brothers turned evil, but otherwise he doesn&amp;apos;t have a lot to complain about.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -10194,6 +10194,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Can&amp;apos;t Attack. At the end of your turn, deal 8 damage to a random enemy.
   </text>
@@ -10212,15 +10215,12 @@ Deal 2 damage.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord.  Summoning Ragnaros often doesn’t work out the way you want it to.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -10550,9 +10550,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -10577,6 +10574,9 @@ Deal 2 damage.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
    Master
   </inplaytext>
@@ -10643,9 +10643,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -10670,6 +10667,9 @@ Deal 2 damage.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
    Scavenging
   </inplaytext>
@@ -11422,9 +11422,6 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11446,6 +11443,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -11658,9 +11658,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -11685,6 +11682,9 @@ Deal 2 damage.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    When he saves enough plunder, he&amp;apos;s going to commission an enormous captain&amp;apos;s hat.  He has hat envy.
   </flavor>
@@ -11699,9 +11699,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -11729,6 +11726,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Pirates are into this new fad called "Planking".
   </flavor>
@@ -11976,9 +11976,6 @@ Deal 2 damage.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12000,6 +11997,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -12016,9 +12016,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12043,6 +12040,9 @@ Deal 2 damage.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    This Kodo is so big that he can stampede by &lt;i&gt;himself&lt;/i&gt;.
   </flavor>
@@ -12158,15 +12158,15 @@ Deal 2 damage.
   <name>
    Stormforged Axe
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Overload:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Overload:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -12201,9 +12201,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12231,6 +12228,9 @@ Deal 2 damage.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    The wonderful thing about tigers is tigers are wonderful things!
   </flavor>
@@ -12438,15 +12438,15 @@ Deal 2 damage.
   <name>
    Sword of Justice
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -12490,6 +12490,9 @@ Deal 2 damage.
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Take control of a random enemy minion.
   </text>
@@ -12505,15 +12508,12 @@ Deal 2 damage.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Sylvanas was turned into the Banshee Queen by Arthas, but he probably should have just killed her because it just pissed her off.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -12661,9 +12661,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12673,6 +12670,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Summon a 3/3 Finkle Einhorn for your opponent.
   </text>
@@ -12691,15 +12691,15 @@ Deal 2 damage.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    He lives in Blackrock Mountain.  He eats Gnomes.  That&amp;apos;s pretty much it.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -12722,6 +12722,9 @@ Deal 2 damage.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Destroy an enemy minion with &lt;b&gt;Taunt&lt;/b&gt;.
   </text>
@@ -12737,15 +12740,12 @@ Deal 2 damage.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He was sent by the Lich King to disrupt the Argent Tournament.   We can pretty much mark that a failure.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -12852,6 +12852,9 @@ Deal 2 damage.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.
   </text>
@@ -12870,15 +12873,12 @@ Deal 2 damage.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Tinkmaster Overspark nearly lost his Tinker&amp;apos;s license after the Great Ironforge Squirrel Stampede of &amp;apos;09.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -12907,6 +12907,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Divine Shield&lt;/b&gt;. &lt;b&gt;Taunt&lt;/b&gt;. &lt;b&gt;Deathrattle:&lt;/b&gt; Equip a 5/3 Ashbringer.
   </text>
@@ -12925,15 +12928,12 @@ Deal 2 damage.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    If you haven&amp;apos;t heard the Tirion Fordring theme song, it&amp;apos;s because it doesn&amp;apos;t exist.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -13090,9 +13090,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13120,6 +13117,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Twilight drakes feed on Mystical Energy.  And Tacos.
   </flavor>
@@ -13550,9 +13550,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13577,6 +13574,9 @@ Deal 2 damage.
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    If you put this into your deck, you WILL lose the trust of your other minions.
   </flavor>
@@ -13628,9 +13628,6 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13649,6 +13646,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13657,9 +13657,6 @@ Deal 2 damage.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13675,6 +13672,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13871,9 +13871,6 @@ Deal 2 damage.
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13895,6 +13892,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -14015,9 +14015,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -14045,6 +14042,9 @@ Deal 2 damage.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    They were the inspiration for the championship Taurenball team: The Dragonhawks.
   </flavor>
@@ -14143,9 +14143,6 @@ Deal 2 damage.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -14155,6 +14152,9 @@ Deal 2 damage.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    At the end of your turn, draw a Dream Card.
   </text>
@@ -14173,15 +14173,15 @@ Deal 2 damage.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>

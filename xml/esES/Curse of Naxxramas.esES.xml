@@ -70,9 +70,9 @@ Destruye a todos los esbirros enemigos que no estén &lt;b&gt;congelados&lt;/b&g
   <text>
    &lt;b&gt;Grito de batalla: Silencia&lt;/b&gt; a tus demás esbirros.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Thaddius en el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -82,21 +82,21 @@ Destruye a todos los esbirros enemigos que no estén &lt;b&gt;congelados&lt;/b&g
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Esta alma no levanta cabeza.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Thaddius en el Arrabal de los Ensamblajes.
   </howtogetgold>
+  <flavor>
+   Esta alma no levanta cabeza.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Thaddius en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -125,15 +125,15 @@ Destruye a todos los esbirros enemigos que no estén &lt;b&gt;congelados&lt;/b&g
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -142,15 +142,15 @@ Destruye a todos los esbirros enemigos que no estén &lt;b&gt;congelados&lt;/b&g
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -295,15 +295,15 @@ Inflige 3 p. de daño al héroe enemigo.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Baldomero
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Quiérelo y acarícialo.&lt;/i&gt;
   </text>
@@ -319,12 +319,12 @@ Inflige 3 p. de daño al héroe enemigo.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -347,12 +347,15 @@ Inflige 3 p. de daño al héroe enemigo.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Tus esbirros activan su &lt;b&gt;Último aliento&lt;/b&gt; dos veces.
   </text>
-  <howtoget>
-   Se desbloquea al completar el Arrabal Militar.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -362,35 +365,32 @@ Inflige 3 p. de daño al héroe enemigo.
   <health>
    7
   </health>
+  <howtogetgold>
+   Se puede crear tras completar el Arrabal Militar.
+  </howtogetgold>
+  <flavor>
+   Lady Blaumeux quería que la gente los conociera como "Lady Blaumeux y sus amigos", pero no pudo ser.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el Arrabal Militar.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Lady Blaumeux quería que la gente los conociera como "Lady Blaumeux y sus amigos", pero no pudo ser.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Se puede crear tras completar el Arrabal Militar.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -399,15 +399,15 @@ Inflige 3 p. de daño al héroe enemigo.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -431,9 +431,9 @@ Inflige 3 p. de daño al héroe enemigo.
   <text>
    No puede ser objetivo de hechizos ni de poderes de héroe.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Gothik el Cosechador en el Arrabal Militar.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -443,21 +443,21 @@ Inflige 3 p. de daño al héroe enemigo.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   ¿Qué tienen en común los dragones feéricos y los caballeros espectrales?... ¡Que les encanta merendar!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Gothik el Cosechador en el Arrabal Militar.
   </howtogetgold>
+  <flavor>
+   ¿Qué tienen en común los dragones feéricos y los caballeros espectrales?... ¡Que les encanta merendar!
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Gothik el Cosechador en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <set>
@@ -574,9 +574,9 @@ Intercambia el ataque y la salud de todos los esbirros.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Coloca un &lt;b&gt;secreto&lt;/b&gt; de tu mazo en el campo de batalla.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Grobbulus en el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -586,21 +586,21 @@ Intercambia el ataque y la salud de todos los esbirros.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Su madre quería que fuese mago, o brujo, pero noooo, tenía que hacerse científico, como su padre.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Grobbulus en el Arrabal de los Ensamblajes.
   </howtogetgold>
+  <flavor>
+   Su madre quería que fuese mago, o brujo, pero noooo, tenía que hacerse científico, como su padre.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Grobbulus en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <mechanics>
@@ -611,9 +611,6 @@ Intercambia el ataque y la salud de todos los esbirros.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -626,9 +623,12 @@ Intercambia el ataque y la salud de todos los esbirros.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Coloca un demonio aleatorio de tu mano en el campo de batalla.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del brujo en Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear tras completar el desafío de clase del brujo en Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -638,21 +638,21 @@ Intercambia el ataque y la salud de todos los esbirros.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    ¡Vacío, vacío! ¡Ven aquí, chico!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del brujo en Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Se puede crear tras completar el desafío de clase del brujo en Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -816,9 +816,9 @@ Roba una carta. Obtiene un cristal de maná.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Otorga +3 p. de salud a un esbirro amistoso aleatorio.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del sacerdote en Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -828,21 +828,21 @@ Roba una carta. Obtiene un cristal de maná.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   El Culto de los Malditos se está dando cuenta de que es mejor no decir el nombre de la secta al reclutar nuevos adeptos.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del sacerdote en Naxxramas.
   </howtogetgold>
+  <flavor>
+   El Culto de los Malditos se está dando cuenta de que es mejor no decir el nombre de la secta al reclutar nuevos adeptos.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del sacerdote en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -978,27 +978,27 @@ Cambia la salud de todos los esbirros a 1 p.
   <text>
    &lt;b&gt;Secreto:&lt;/b&gt; Cuando un esbirro amistoso muere, coloca 2 copias del mismo en tu mano.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del mago en Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   ¡La única forma de duplicar cartas sin que te baneen!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del mago en Naxxramas.
   </howtogetgold>
+  <flavor>
+   ¡La única forma de duplicar cartas sin que te baneen!
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del mago en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -1024,9 +1024,9 @@ Cambia la salud de todos los esbirros a 1 p.
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Invoca una copia exacta de este esbirro al final del turno.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Sapphiron en la Guarida de la Vermis.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -1036,21 +1036,21 @@ Cambia la salud de todos los esbirros a 1 p.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   MOCO... Moco... moco... (moco...)
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Sapphiron en la Guarida de la Vermis.
   </howtogetgold>
+  <flavor>
+   MOCO... Moco... moco... (moco...)
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Sapphiron en la Guarida de la Vermis.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1073,9 +1073,9 @@ Cambia la salud de todos los esbirros a 1 p.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Devuelve a un esbirro amistoso aleatorio a tu mano.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del pícaro en Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -1085,21 +1085,21 @@ Cambia la salud de todos los esbirros a 1 p.
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Al principio se llamaba "Tío que devuelve a un esbirro a tu mano Anub&amp;apos;ar", pero no sonaba muy bien.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del pícaro en Naxxramas.
   </howtogetgold>
+  <flavor>
+   Al principio se llamaba "Tío que devuelve a un esbirro a tu mano Anub&amp;apos;ar", pero no sonaba muy bien.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del pícaro en Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1182,9 +1182,9 @@ Cambia la salud de todos los esbirros a 1 p.
   <text>
    Obtiene +1 p. de ataque cada vez que invocas a un esbirro con &lt;b&gt;Último aliento&lt;/b&gt;.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Remendejo en el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1194,21 +1194,21 @@ Cambia la salud de todos los esbirros a 1 p.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   "Hazte enterrador",  dijeron. "Tendrás mucho trabajo",  dijeron. Maldito Ángel de la Resurrección...
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Remendejo en el Arrabal de los Ensamblajes.
   </howtogetgold>
+  <flavor>
+   "Hazte enterrador",  dijeron. "Tendrás mucho trabajo",  dijeron. Maldito Ángel de la Resurrección...
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Remendejo en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1235,9 +1235,9 @@ Cambia la salud de todos los esbirros a 1 p.
    &lt;b&gt;Provocar.
 Último aliento:&lt;/b&gt; Invoca una babosa 1/2 con &lt;b&gt;Provocar&lt;/b&gt;.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Loatheb en el Arrabal de la Peste.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -1247,21 +1247,21 @@ Cambia la salud de todos los esbirros a 1 p.
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   ¡¿Pero qué come?!
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Loatheb en el Arrabal de la Peste.
   </howtogetgold>
+  <flavor>
+   ¡¿Pero qué come?!
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Loatheb en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -1343,9 +1343,9 @@ Inflige 3 p. de daño al primer esbirro enemigo por la izquierda.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Tu oponente roba una carta.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar al instructor Raxuvious en el Arrabal Militar.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -1355,21 +1355,21 @@ Inflige 3 p. de daño al primer esbirro enemigo por la izquierda.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Ellas quieren marcha, marcha.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar al instructor Razuvious en el Arrabal Militar.
   </howtogetgold>
+  <flavor>
+   Ellas quieren marcha, marcha.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar al instructor Raxuvious en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1518,12 +1518,15 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Si Stalagg también ha muerto durante esta partida, invoca a Thaddius.
   </text>
-  <howtoget>
-   Se desbloquea al completar el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -1533,24 +1536,21 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <health>
    7
   </health>
+  <howtogetgold>
+   Se puede crear tras completar el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Feugen está deprimido porque todo el mundo prefiere a Stalagg.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el Arrabal de los Ensamblajes.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen está deprimido porque todo el mundo prefiere a Stalagg.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Se puede crear tras completar el Arrabal de los Ensamblajes.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1559,9 +1559,9 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1574,9 +1574,9 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -1708,9 +1708,9 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <text>
    Al comienzo de tu turno, restaura toda la salud de este esbirro.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Noth el Pesteador en el Arrabal de la Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1720,32 +1720,32 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   El juego favorito de las gárgolas es el escondite inglés.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Noth el Pesteador en el Arrabal de la Peste.
   </howtogetgold>
+  <flavor>
+   El juego favorito de las gárgolas es el escondite inglés.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Noth el Pesteador en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1754,15 +1754,15 @@ Inflige 3 p. de daño al héroe enemigo y lo &lt;b&gt;congela&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1855,15 +1855,15 @@ Inflige 3 p. de daño.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1872,15 +1872,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1889,15 +1889,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -1906,15 +1906,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -1923,15 +1923,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1940,15 +1940,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -2271,9 +2271,9 @@ Inflige 3 p. de daño.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Invoca un nerubiano 4/4.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Maexxna en el Arrabal Arácnido.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -2283,32 +2283,32 @@ Inflige 3 p. de daño.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Los huevos son una buena fuente de proteínas y nerubianos.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Maexxna en el Arrabal Arácnido.
   </howtogetgold>
+  <flavor>
+   Los huevos son una buena fuente de proteínas y nerubianos.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Maexxna en el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -2317,15 +2317,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -2440,12 +2440,15 @@ Inflige 3 p. de daño.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Al final de cada turno, invoca a todos los esbirros amistosos que han muerto este turno.
   </text>
-  <howtoget>
-   ¡Se desbloquea al derrotar a todos los jefes de Naxxramas!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -2455,35 +2458,32 @@ Inflige 3 p. de daño.
   <health>
    8
   </health>
+  <howtogetgold>
+   ¡Se puede crear tras derrotar a todos los jefes de Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad no pudo resistirse a la llamada del Rey Exánime. Ni siquiera cuando eran teleoperadores haciendo encuestas sobre la Plaga.
+  </flavor>
+  <howtoget>
+   ¡Se desbloquea al derrotar a todos los jefes de Naxxramas!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad no pudo resistirse a la llamada del Rey Exánime. Ni siquiera cuando eran teleoperadores haciendo encuestas sobre la Plaga.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   ¡Se puede crear tras derrotar a todos los jefes de Naxxramas!
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -2492,15 +2492,15 @@ Inflige 3 p. de daño.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -2532,6 +2532,9 @@ Inflige 3 p. de daño.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -2547,9 +2550,6 @@ Inflige 3 p. de daño.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -2561,6 +2561,9 @@ Inflige 3 p. de daño.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -2576,9 +2579,6 @@ Inflige 3 p. de daño.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -2695,12 +2695,15 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Los hechizos enemigos cuestan (5) cristales más el próximo turno.
   </text>
-  <howtoget>
-   Se desbloquea al completar el Arrabal de la Peste.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -2710,35 +2713,32 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <health>
    5
   </health>
+  <howtogetgold>
+   Se puede crear tras completar el Arrabal de la Peste.
+  </howtogetgold>
+  <flavor>
+   Antes Loatheb era una bestia del pantano como cualquier otra. Cuando decimos que hay que regular más la minería y la agricultura, no es broma.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el Arrabal de la Peste.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Antes Loatheb era una bestia del pantano como cualquier otra. Cuando decimos que hay que regular más la minería y la agricultura, no es broma.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Se puede crear tras completar el Arrabal de la Peste.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -2747,15 +2747,15 @@ Lanza un proyectil por cada carta en la mano del oponente.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -2764,15 +2764,15 @@ Lanza un proyectil por cada carta en la mano del oponente.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -2789,9 +2789,6 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2801,12 +2798,18 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Destruye a cualquier esbirro dañado por este esbirro.
   </text>
-  <howtoget>
-   Se desbloquea al completar el Arrabal Arácnido.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Se puede crear tras completar el Arrabal Arácnido.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -2816,35 +2819,32 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   A Maexxna la saca de sus casillas que la gente la llame "Maxy" o "El bicho ese".
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el Arrabal Arácnido.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   A Maexxna la saca de sus casillas que la gente la llame "Maxy" o "El bicho ese".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Se puede crear tras completar el Arrabal Arácnido.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -3016,9 +3016,9 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <text>
    &lt;b&gt;Provocar&lt;/b&gt;. &lt;b&gt;Último aliento:&lt;/b&gt; Inflige 1 p. de daño a todos los esbirros.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Heigan el Impuro en el Arrabal de la Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3028,21 +3028,21 @@ Lanza un proyectil por cada carta en la mano del oponente.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Llenar a los necrófagos de dinamita es el último grito en la academia de nigromantes.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Heigan el Impuro en el Arrabal de la Peste.
   </howtogetgold>
+  <flavor>
+   Llenar a los necrófagos de dinamita es el último grito en la academia de nigromantes.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Heigan el Impuro en el Arrabal de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <set>
@@ -3242,30 +3242,30 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del guerrero en Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   "Prueba. Está de muerte". - Señor de la Muerte Fiámbrez
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del guerrero en Naxxramas.
   </howtogetgold>
+  <flavor>
+   "Prueba. Está de muerte". - Señor de la Muerte Fiámbrez
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del guerrero en Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -3400,41 +3400,41 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <text>
    Destruye a un esbirro y lo devuelve a la vida con toda su salud.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del chamán en Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Es como nacer, solo que siendo adulto y tras haber muerto hace un rato.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del chamán en Naxxramas.
   </howtogetgold>
+  <flavor>
+   Es como nacer, solo que siendo adulto y tras haber muerto hace un rato.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del chamán en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -3443,15 +3443,15 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -3460,15 +3460,15 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3477,15 +3477,15 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3509,27 +3509,27 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <text>
    Destruye a todos los esbirros y los sustituye con antárboles 2/2.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del druida en Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   El pan de semillas venenosas es el producto menos vendido de la Panadería Druídica de Zen&amp;apos;Kiki.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del druida en Naxxramas.
   </howtogetgold>
+  <flavor>
+   El pan de semillas venenosas es el producto menos vendido de la Panadería Druídica de Zen&amp;apos;Kiki.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del druida en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -3558,9 +3558,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <text>
    &lt;b&gt;Provocar. Último aliento:&lt;/b&gt; Tu oponente coloca un esbirro de su mazo en el campo de batalla.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Los Cuatro Jinetes en el Arrabal Militar.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -3570,21 +3570,21 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   "¡Álzate de la tumba!". - Kel&amp;apos;Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Los Cuatro Jinetes en el Arrabal Militar.
   </howtogetgold>
+  <flavor>
+   "¡Álzate de la tumba!". - Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Los Cuatro Jinetes en el Arrabal Militar.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <set>
@@ -3593,6 +3593,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <name>
    Señor feudal Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -3608,9 +3611,6 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -3622,6 +3622,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <name>
    Señor feudal Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -3637,9 +3640,6 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -3665,9 +3665,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <text>
    Los esbirros con &lt;b&gt;Grito de batalla&lt;/b&gt; cuestan (2) cristales más.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3677,21 +3677,21 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Los señores telaraña se pasan la vida fabricando camas elásticas para los parques.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.
   </howtogetgold>
+  <flavor>
+   Los señores telaraña se pasan la vida fabricando camas elásticas para los parques.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a la Gran Viuda Faerlina en el Arrabal Arácnido.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -3700,6 +3700,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -3715,9 +3718,6 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -3729,6 +3729,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Tu héroe es &lt;b&gt;inmune&lt;/b&gt;.
   </text>
@@ -3744,9 +3747,6 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3772,9 +3772,9 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <text>
    &lt;b&gt;Sigilo.&lt;/b&gt; Al comienzo de tu turno, obtiene +1/+1.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Kel&amp;apos;Thuzad en la Guarida de la Vermis.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -3784,21 +3784,21 @@ Inflige 2 p. de daño a todos los enemigos. Si alguno muere, invoca una babosa.
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Las sombras de Naxxramas &lt;i&gt;odian&lt;/i&gt; a los vivos. Hasta tienen un insulto propio para ellos: &lt;i&gt;vivoncios&lt;/i&gt;.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Kel&amp;apos;Thuzad en la Guarida de la Vermis.
   </howtogetgold>
+  <flavor>
+   Las sombras de Naxxramas &lt;i&gt;odian&lt;/i&gt; a los vivos. Hasta tienen un insulto propio para ellos: &lt;i&gt;vivoncios&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Kel&amp;apos;Thuzad en la Guarida de la Vermis.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <set>
@@ -3828,9 +3828,9 @@ Roba 2 cartas.
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3843,9 +3843,9 @@ Roba 2 cartas.
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3868,12 +3868,15 @@ Roba 2 cartas.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Si Feugen también ha muerto durante esta partida, invoca a Thaddius.
   </text>
-  <howtoget>
-   Se desbloquea al completar el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3883,24 +3886,21 @@ Roba 2 cartas.
   <health>
    4
   </health>
+  <howtogetgold>
+   Se puede crear tras completar el Arrabal de los Ensamblajes.
+  </howtogetgold>
+  <flavor>
+   Stalagg querer escribir texto de carta. "STALAGG MOLA".
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el Arrabal de los Ensamblajes.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg querer escribir texto de carta. "STALAGG MOLA".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Se puede crear tras completar el Arrabal de los Ensamblajes.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -3979,9 +3979,6 @@ Roba 2 cartas.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3994,9 +3991,12 @@ Roba 2 cartas.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Añade una carta de bestia aleatoria a tu mano.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del cazador en Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear tras completar el desafío de clase del cazador en Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4006,21 +4006,21 @@ Roba 2 cartas.
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    ¡Las crisálidas de las arañas son como pequeñas piñatas!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del cazador en Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Se puede crear tras completar el desafío de clase del cazador en Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -4032,9 +4032,9 @@ Roba 2 cartas.
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4047,23 +4047,23 @@ Roba 2 cartas.
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -4072,15 +4072,15 @@ Roba 2 cartas.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -4139,9 +4139,6 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4154,9 +4151,12 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Invoca dos arañas espectrales 1/1.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Se puede crear tras derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4166,21 +4166,21 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Fantaracnofobia: dícese del miedo a las arañas espectrales.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Se desbloquea al derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Se puede crear tras derrotar a Anub&amp;apos;Rekhan en el Arrabal Arácnido.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -4305,27 +4305,27 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <text>
    &lt;b&gt;Secreto:&lt;/b&gt; Cuando uno de tus esbirros muere, otorga +3/+2 a un esbirro amistoso aleatorio.
   </text>
-  <howtoget>
-   Se desbloquea al completar el desafío de clase del paladín en Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Varios paladines se han agrupado para desfacer entuertos bajo el nombre de "la Fuerza de la Justicia". Sus abogados les desaconsejaron formar una liga.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Se puede crear tras completar el desafío de clase del paladín en Naxxramas.
   </howtogetgold>
+  <flavor>
+   Varios paladines se han agrupado para desfacer entuertos bajo el nombre de "la Fuerza de la Justicia". Sus abogados les desaconsejaron formar una liga.
+  </flavor>
+  <howtoget>
+   Se desbloquea al completar el desafío de clase del paladín en Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -4351,9 +4351,9 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Restaura 5 p. de salud al héroe enemigo.
   </text>
-  <howtoget>
-   Se desbloquea al derrotar a Gluth en el Arrabal de los Ensamblajes.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4363,20 +4363,20 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   ¡Huele que alimenta!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Se puede crear tras derrotar a Gluth en el Arrabal de los Ensamblajes.
   </howtogetgold>
+  <flavor>
+   ¡Huele que alimenta!
+  </flavor>
+  <howtoget>
+   Se desbloquea al derrotar a Gluth en el Arrabal de los Ensamblajes.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
 </cards>

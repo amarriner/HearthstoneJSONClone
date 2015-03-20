@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -18,15 +18,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -35,15 +35,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -52,15 +52,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -86,12 +86,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;«Предсмертный хрип»&lt;/b&gt; ваших существ срабатывает дважды.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Военного квартала.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -101,24 +104,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Военного квартала.
+  </howtogetgold>
+  <flavor>
+   Раньше всадников было пятеро, но потом один из них устроился работать в Мертвые копи. Там зарплата выше и отличная медстраховка.
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Военного квартала.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Раньше всадников было пятеро, но потом один из них устроился работать в Мертвые копи. Там зарплата выше и отличная медстраховка.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Военного квартала.
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -234,9 +234,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы кладете на поле боя &lt;b&gt;секрет&lt;/b&gt; из вашей колоды.
   </text>
-  <howtoget>
-   Награда за победу над Гроббулусом в Квартале Мерзости.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -246,21 +246,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Мама хотела, чтобы он стал магом или чернокнижником, как все нормальные люди. И зачем только он пошел в науку?
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Гроббулусом в Квартале Мерзости.
   </howtogetgold>
+  <flavor>
+   Мама хотела, чтобы он стал магом или чернокнижником, как все нормальные люди. И зачем только он пошел в науку?
+  </flavor>
+  <howtoget>
+   Награда за победу над Гроббулусом в Квартале Мерзости.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <set>
@@ -283,15 +283,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -300,15 +300,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -377,9 +377,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; восстанавливает 5 ед. здоровья герою противника.
   </text>
-  <howtoget>
-   Награда за победу над Глутом в Квартале Мерзости.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -389,21 +389,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Зомби — это не только ценный мех, но и 20-30 килограммов легкоусвояемого мяса!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Глутом в Квартале Мерзости.
   </howtogetgold>
+  <flavor>
+   Зомби — это не только ценный мех, но и 20-30 килограммов легкоусвояемого мяса!
+  </flavor>
+  <howtoget>
+   Награда за победу над Глутом в Квартале Мерзости.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <mechanics>
@@ -429,9 +429,9 @@
   <text>
    &lt;b&gt;Провокация. Предсмертный хрип:&lt;/b&gt; ваш противник кладет существо из своей колоды на поле боя.
   </text>
-  <howtoget>
-   Награда за победу над четырьмя всадниками в Военном квартале.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -441,21 +441,21 @@
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   «Восстаньте из могил!» — Кел&amp;apos;Тузад
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над четырьмя всадниками в Военном квартале.
   </howtogetgold>
+  <flavor>
+   «Восстаньте из могил!» — Кел&amp;apos;Тузад
+  </flavor>
+  <howtoget>
+   Награда за победу над четырьмя всадниками в Военном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <mechanics>
@@ -478,9 +478,9 @@
   <text>
    Существа со способностью &lt;b&gt;Боевой клич&lt;/b&gt; стоят на (2) маны больше.
   </text>
-  <howtoget>
-   Награда за победу над Фарлиной в Паучьем квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -490,21 +490,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   На досуге властелины паутины плетут гигантские батуты.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Фарлиной в Паучьем квартале.
   </howtogetgold>
+  <flavor>
+   На досуге властелины паутины плетут гигантские батуты.
+  </flavor>
+  <howtoget>
+   Награда за победу над Фарлиной в Паучьем квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <collectible>
@@ -522,27 +522,27 @@
   <text>
    Уничтожает существо, а затем возвращает его на поле боя с полным здоровьем.
   </text>
-  <howtoget>
-   Награда за прохождение испытания шамана в Наксрамасе.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Это как рождение, только во взрослом возрасте и сразу после смерти.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Можно создать после завершения испытания шамана в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Это как рождение, только во взрослом возрасте и сразу после смерти.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания шамана в Наксрамасе.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -590,15 +590,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -607,15 +607,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -624,15 +624,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -641,15 +641,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -658,15 +658,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -675,15 +675,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -712,9 +712,9 @@
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; в конце вашего хода призывает на поле боя копию этого существа.
   </text>
-  <howtoget>
-   Награда за победу над Сапфироном в Логове ледяного змея.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -724,21 +724,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   Слизнюк делится... делится слизнюк!
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Сапфироном в Логове ледяного змея.
   </howtogetgold>
+  <flavor>
+   Слизнюк делится... делится слизнюк!
+  </flavor>
+  <howtoget>
+   Награда за победу над Сапфироном в Логове ледяного змея.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <set>
@@ -960,9 +960,9 @@
    &lt;b&gt;Провокация.
 Предсмертный хрип:&lt;/b&gt; призывает на поле боя слизь 1/2 со способностью &lt;b&gt;Провокация.&lt;/b&gt;
   </text>
-  <howtoget>
-   Награда за победу над Лотхибом в Чумном квартале.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -972,32 +972,32 @@
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   НЕ ПОИТЕ ЕГО ГАЗИРОВКОЙ.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Лотхибом в Чумном квартале.
   </howtogetgold>
+  <flavor>
+   НЕ ПОИТЕ ЕГО ГАЗИРОВКОЙ.
+  </flavor>
+  <howtoget>
+   Награда за победу над Лотхибом в Чумном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -1006,15 +1006,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -1139,9 +1139,9 @@
   <text>
    Это существо полностью восстанавливает свое здоровье в начале каждого вашего хода.
   </text>
-  <howtoget>
-   Награда за победу над Нотом Чумным в Чумном квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1151,21 +1151,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Каменные горгульи очень любят играть в «Море волнуется раз».
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Нотом Чумным в Чумном квартале.
   </howtogetgold>
+  <flavor>
+   Каменные горгульи очень любят играть в «Море волнуется раз».
+  </flavor>
+  <howtoget>
+   Награда за победу над Нотом Чумным в Чумном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <collectible>
@@ -1180,12 +1180,15 @@
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    В конце каждого хода призывает на поле боя всех ваших существ, которые умерли в этот ход.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Наксрамаса!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -1195,35 +1198,32 @@
   <health>
    8
   </health>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Наксрамаса.
+  </howtogetgold>
+  <flavor>
+   У Кел&amp;apos;Тузада было очень несчастливое детство. Неудивительно, с таким-то именем!
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Наксрамаса!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   У Кел&amp;apos;Тузада было очень несчастливое детство. Неудивительно, с таким-то именем!
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Наксрамаса.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -1232,15 +1232,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -1417,6 +1417,9 @@
   <name>
    Леди Бломе
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -1432,9 +1435,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -1446,6 +1446,9 @@
   <name>
    Леди Бломе
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -1461,9 +1464,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1542,15 +1542,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -1559,15 +1559,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -1576,15 +1576,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -1593,15 +1593,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -1627,12 +1627,15 @@
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; в следующий ход противника его заклинания стоят на (5) маны больше.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Чумного квартала.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -1642,35 +1645,32 @@
   <health>
    5
   </health>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Чумного квартала.
+  </howtogetgold>
+  <flavor>
+   А ведь когда-то Лотхиб был обычным болотным чудищем. Вам не кажется, что давно пора задуматься об экологии Азерота?
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Чумного квартала.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   А ведь когда-то Лотхиб был обычным болотным чудищем. Вам не кажется, что давно пора задуматься об экологии Азерота?
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Чумного квартала.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -1687,9 +1687,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1699,12 +1696,18 @@
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Уничтожает любое существо, которому нанесла урон.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Паучьего квартала.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Паучьего квартала.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1714,35 +1717,32 @@
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Мексна очень обижается, когда ее называют «Мекси» или «Максин».
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Паучьего квартала.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Мексна очень обижается, когда ее называют «Мекси» или «Максин».
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Паучьего квартала.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -1827,15 +1827,15 @@
   </name>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Мистер Бигглсуорт
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Это любимый кот Кел&amp;apos;Тузада.&lt;/i&gt;
   </text>
@@ -1851,12 +1851,12 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -1877,9 +1877,9 @@
   <text>
    Получает +1 к атаке, когда вы призываете на поле боя существо со способностью &lt;b&gt;«Предсмертный хрип»&lt;/b&gt;.
   </text>
-  <howtoget>
-   Награда за победу над Лоскутиком в Квартале Мерзости.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1889,21 +1889,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   В мире, где каждый умерший первым делом бежит к целителю душ и воскресает, могильщики чуть не остались без работы.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Лоскутиком в Квартале Мерзости.
   </howtogetgold>
+  <flavor>
+   В мире, где каждый умерший первым делом бежит к целителю душ и воскресает, могильщики чуть не остались без работы.
+  </flavor>
+  <howtoget>
+   Награда за победу над Лоскутиком в Квартале Мерзости.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <text>
@@ -2137,9 +2137,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; возвращает ваше случайное существо в руку.
   </text>
-  <howtoget>
-   Награда за прохождение испытания разбойника в Наксрамасе.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -2149,21 +2149,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Сначала его хотели назвать «Неруб, возвращающий существо в руку», но название не влезло на карту.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после завершения испытания разбойника в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Сначала его хотели назвать «Неруб, возвращающий существо в руку», но название не влезло на карту.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания разбойника в Наксрамасе.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -2189,9 +2189,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает на поле боя неруба 4/4.
   </text>
-  <howtoget>
-   Награда за победу над Мексной в Паучьем квартале.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -2201,21 +2201,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Яйца – отличный источник белков и нерубов.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Мексной в Паучьем квартале.
   </howtogetgold>
+  <flavor>
+   Яйца – отличный источник белков и нерубов.
+  </flavor>
+  <howtoget>
+   Награда за победу над Мексной в Паучьем квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2241,9 +2241,9 @@
   <text>
    &lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Предсмертный хрип:&lt;/b&gt; наносит 1 ед. урона всем существам.
   </text>
-  <howtoget>
-   Награда за победу над Хейганом Нечестивым в Чумном квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -2253,21 +2253,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Первое, чему учат в школе некромантов – не давать вурдалакам ракетное топливо.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Хейганом Нечестивым в Чумном квартале.
   </howtogetgold>
+  <flavor>
+   Первое, чему учат в школе некромантов – не давать вурдалакам ракетное топливо.
+  </flavor>
+  <howtoget>
+   Награда за победу над Хейганом Нечестивым в Чумном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <set>
@@ -2460,9 +2460,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2475,9 +2472,12 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает на поле боя двух призрачных пауков 1/1.
   </text>
-  <howtoget>
-   Награда за победу над Ануб&amp;apos;Реканом в Паучьем квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Можно создать после победы над Ануб&amp;apos;Реканом в Паучьем квартале.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -2487,21 +2487,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Ложноарахнофобия: боязнь ложных пауков.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Награда за победу над Ануб&amp;apos;Реканом в Паучьем квартале.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Можно создать после победы над Ануб&amp;apos;Реканом в Паучьем квартале.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2524,27 +2524,27 @@
   <text>
    &lt;b&gt;Секрет:&lt;/b&gt; когда одно из ваших существ умирает, случайное ваше существо получает +3/+2.
   </text>
-  <howtoget>
-   Награда за прохождение испытания паладина в Наксрамасе.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Однажды несколько паладинов решили создать комитет по справедливому воздаянию. Они хотели назвать свою организацию «Лига справедливости», но юристы их отговорили.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Можно создать после завершения испытания паладина в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Однажды несколько паладинов решили создать комитет по справедливому воздаянию. Они хотели назвать свою организацию «Лига справедливости», но юристы их отговорили.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания паладина в Наксрамасе.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -2866,9 +2866,9 @@
   <text>
    Не может быть целью заклинаний или силы героя.
   </text>
-  <howtoget>
-   Награда за победу над Готиком Жнецом в Военном квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -2878,21 +2878,21 @@
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   Что общего у чудесных дракончиков и призрачных рыцарей? Они оба любят покушать!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Готиком Жнецом в Военном квартале.
   </howtogetgold>
+  <flavor>
+   Что общего у чудесных дракончиков и призрачных рыцарей? Они оба любят покушать!
+  </flavor>
+  <howtoget>
+   Награда за победу над Готиком Жнецом в Военном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2903,9 +2903,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2918,9 +2915,12 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы призываете на поле боя случайного демона из вашей руки.
   </text>
-  <howtoget>
-   Награда за прохождение испытания чернокнижника в Наксрамасе.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Можно создать после завершения испытания чернокнижника в Наксрамасе.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -2930,21 +2930,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    «Бездна! Эй, Бездна! Ко мне!»
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Награда за прохождение испытания чернокнижника в Наксрамасе.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Можно создать после завершения испытания чернокнижника в Наксрамасе.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -2987,27 +2987,27 @@
   <text>
    &lt;b&gt;Секрет:&lt;/b&gt; когда умирает ваше существо, вы кладете в руку две его копии.
   </text>
-  <howtoget>
-   Награда за прохождение испытания мага в Наксрамасе.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   Тот редкий случай, когда вашу учетную запись не заблокируют за удвоение карт.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Можно создать после завершения испытания мага в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Тот редкий случай, когда вашу учетную запись не заблокируют за удвоение карт.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания мага в Наксрамасе.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -3085,15 +3085,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3102,15 +3102,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3347,9 +3347,9 @@
   <name>
    Сталагг
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3362,9 +3362,9 @@
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3387,12 +3387,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; если во время этого матча умер Фойген, призывает на поле боя Таддиуса.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Квартала Мерзости.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3402,24 +3405,21 @@
   <health>
    4
   </health>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Квартала Мерзости.
+  </howtogetgold>
+  <flavor>
+   Сталагг сам придумал себе художественный текст:  "Сталагг хороший!"
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Квартала Мерзости.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Сталагг сам придумал себе художественный текст:  "Сталагг хороший!"
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Квартала Мерзости.
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -3442,9 +3442,9 @@
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; накладывает эффект &lt;b&gt;немоты&lt;/b&gt; на прочих ваших существ.
   </text>
-  <howtoget>
-   Награда за победу над Таддиусом в Квартале Мерзости.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -3454,21 +3454,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Эта душа так громко стенает, что иногда хочется, чтобы она умела накладывать немоту сама на себя.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Таддиусом в Квартале Мерзости.
   </howtogetgold>
+  <flavor>
+   Эта душа так громко стенает, что иногда хочется, чтобы она умела накладывать немоту сама на себя.
+  </flavor>
+  <howtoget>
+   Награда за победу над Таддиусом в Квартале Мерзости.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3576,6 +3576,9 @@
   <name>
    Сэр Зелиек
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -3591,9 +3594,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3605,6 +3605,9 @@
   <name>
    Сэр Зелиек
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -3620,23 +3623,20 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -3651,9 +3651,9 @@
   <name>
    Таддиус
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3666,23 +3666,23 @@
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -3697,6 +3697,9 @@
   <name>
    Тан Кортазз
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -3712,9 +3715,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -3726,6 +3726,9 @@
   <name>
    Тан Кортазз
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt;.
   </text>
@@ -3741,9 +3744,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -3769,9 +3769,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; противник берет карту.
   </text>
-  <howtoget>
-   Награда за победу над инструктором Разувием в Военном квартале.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3781,21 +3781,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Больше всего они любят танцевать лезгинку.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над инструктором Разувием в Военном квартале.
   </howtogetgold>
+  <flavor>
+   Больше всего они любят танцевать лезгинку.
+  </flavor>
+  <howtoget>
+   Награда за победу над инструктором Разувием в Военном квартале.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3818,9 +3818,9 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; увеличивает здоровье вашего случайного существа на 3.
   </text>
-  <howtoget>
-   Награда за прохождение испытания жреца в Наксрамасе.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -3830,21 +3830,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   Культ Проклятых пришел к выводу, что при наборе новых сектантов лучше не упоминать название их организации.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после завершения испытания жреца в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Культ Проклятых пришел к выводу, что при наборе новых сектантов лучше не упоминать название их организации.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания жреца в Наксрамасе.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -3858,9 +3858,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3873,9 +3870,12 @@
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы кладете в руку случайную карту зверя.
   </text>
-  <howtoget>
-   Награда за прохождение испытания охотника в Наксрамасе.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Можно создать после завершения испытания охотника в Наксрамасе.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3885,21 +3885,21 @@
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Никогда не знаешь, что найдешь в паучьем коконе!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Награда за прохождение испытания охотника в Наксрамасе.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Можно создать после завершения испытания охотника в Наксрамасе.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3925,9 +3925,9 @@
   <text>
    &lt;b&gt;Маскировка&lt;/b&gt;. В начале вашего хода получает +1/+1.
   </text>
-  <howtoget>
-   Награда за победу над Кел&amp;apos;Тузадом в Логове ледяного змея.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -3937,21 +3937,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Тени Наксрамаса ненавидят все живое. Они даже кличку смертным придумали – «живчики».
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Можно создать после победы над Кел&amp;apos;Тузадом в Логове ледяного змея.
   </howtogetgold>
+  <flavor>
+   Тени Наксрамаса ненавидят все живое. Они даже кличку смертным придумали – «живчики».
+  </flavor>
+  <howtoget>
+   Награда за победу над Кел&amp;apos;Тузадом в Логове ледяного змея.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <set>
@@ -4019,30 +4019,30 @@
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Награда за прохождение испытания воина в Наксрамасе.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   Кто бы мог подумать, что у смерти есть зубы!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Можно создать после завершения испытания воина в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Кто бы мог подумать, что у смерти есть зубы!
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания воина в Наксрамасе.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -4096,12 +4096,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; если во время этого матча умер Сталагг, призывает на поле боя Таддиуса.
   </text>
-  <howtoget>
-   Награда за победу над всеми боссами Квартала Мерзости.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -4111,24 +4114,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   Можно создать после убийства всех боссов Квартала Мерзости.
+  </howtogetgold>
+  <flavor>
+   Фойген такой грустный, потому что Сталагга любят больше.
+  </flavor>
+  <howtoget>
+   Награда за победу над всеми боссами Квартала Мерзости.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Фойген такой грустный, потому что Сталагга любят больше.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Можно создать после убийства всех боссов Квартала Мерзости.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -4137,9 +4137,9 @@
   <name>
    Фойген
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4152,9 +4152,9 @@
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -4354,27 +4354,27 @@
   <text>
    Уничтожает всех существ и призывает вместо них древней 2/2.
   </text>
-  <howtoget>
-   Награда за прохождение испытания друида в Наксрамасе.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   Мы бы вам не советовали покупать булочки, посыпанные этими семенами.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Можно создать после завершения испытания друида в Наксрамасе.
   </howtogetgold>
+  <flavor>
+   Мы бы вам не советовали покупать булочки, посыпанные этими семенами.
+  </flavor>
+  <howtoget>
+   Награда за прохождение испытания друида в Наксрамасе.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>

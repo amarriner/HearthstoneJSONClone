@@ -6,9 +6,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -18,6 +15,9 @@
   <artist>
    Chris Seaman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;衝鋒&lt;/b&gt;
 &lt;b&gt;超級風怒&lt;/b&gt; (每回合可攻擊4次)
@@ -34,12 +34,12 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    GVG_111t
   </id>
@@ -92,6 +92,9 @@
   <artist>
    Tooth
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    若這張牌在你手牌中，每當友方手下死掉時，便獲得+1攻擊力
   </text>
@@ -107,15 +110,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    劇透:伯瓦爾後來被火烤了一頓，然後坐在一個寒冰的王座上，接著就被所有人遺忘了。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_063
   </id>
@@ -382,9 +382,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -409,6 +406,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在他經過時跟著喊:剷剷剷!
   </flavor>
@@ -426,9 +426,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -438,6 +435,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每當此手下受到傷害，使其攻擊力加倍
   </text>
@@ -453,15 +453,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    森金高中的足球隊就是叫「加茲瑞拉隊」。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_049
   </id>
@@ -482,6 +482,9 @@
   <artist>
    Luke Mancini
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每當你施放1點消耗的法術，就放一個隨機的機械到你的手牌中
   </text>
@@ -497,15 +500,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    上高中時，加茲魯維以最高票當選「最有可能爆炸死亡的人」。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_117
   </id>
@@ -606,9 +606,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -633,6 +630,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    其實這一代跟上一代一模一樣，他們只是在上面多刻了「升級版」三個字，然後把標價加倍。
   </flavor>
@@ -675,9 +675,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -702,6 +699,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    這個型號已經停產了!(因為發生了幾起爆炸事故)
   </flavor>
@@ -797,9 +797,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -824,6 +821,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    這個管家機器人最大的問題就是 - 管太多。
   </flavor>
@@ -886,9 +886,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -913,6 +910,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    自動修整你的髮型，或者身高。
   </flavor>
@@ -1254,6 +1254,9 @@
   <artist>
    Ruan Jia
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;放4張隨機的魚人到你的手牌中。&lt;b&gt;超載:&lt;/b&gt;(3)
   </text>
@@ -1269,15 +1272,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    奈普圖隆是「獵潮者」，他是四大元素領主之一。他和拉格納羅斯共同舉辦的桑拿活動無人能比。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_042
   </id>
@@ -1442,9 +1442,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1460,6 +1457,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -1552,9 +1552,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1573,6 +1570,9 @@
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1684,6 +1684,9 @@
   <artist>
    Michal Ivan
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    全部的手下都有50%機率攻擊錯誤的敵人
   </text>
@@ -1699,15 +1702,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    莫古曾經幫忙重新開啟黑暗之門。你也知道需要依賴巨魔幫忙的後果。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_112
   </id>
@@ -1759,9 +1759,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1771,6 +1768,9 @@
   <artist>
    Jomaro Kindred
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;替每一個玩家裝備一把隨機武器
   </text>
@@ -1786,15 +1786,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    立刻執行派對準備指令。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_119
   </id>
@@ -1808,9 +1808,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1835,6 +1832,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    他的強化可以賒帳，不收利息，可以說是人人都愛!
   </flavor>
@@ -1884,9 +1884,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1896,6 +1893,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合開始時，若你擁有至少3個機械，將它們全部摧毀並組成V-07-TR-0N
   </text>
@@ -1911,15 +1911,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    千萬別按那個最大的紅色按鈕!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_111
   </id>
@@ -1948,9 +1948,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1975,6 +1972,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    沒有人敢小覷它的威力。
   </flavor>
@@ -2044,9 +2044,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2071,6 +2068,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    反正只要夠大隻就行了!
   </flavor>
@@ -2085,9 +2085,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2112,6 +2109,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    使用說明書上寫著:「最新升級版，保證多打1點!」
   </flavor>
@@ -2129,9 +2129,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2156,6 +2153,9 @@
   <health>
    9
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    黑暗憎惡魔像很邪惡、神秘、巨大，而且一個句子都寫不完整。
   </flavor>
@@ -2195,9 +2195,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2222,6 +2219,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    戰爭機器人的量產在突然發現尺寸輸出成樣品版後喊停。結果達拉然的神奇玩具屋忽然就被數以千計的戰爭機器人玩具塞爆了。
   </flavor>
@@ -2256,6 +2256,9 @@
   <artist>
    Zoltan &amp; Gabor
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼及死亡之聲:&lt;/b&gt;放一張&lt;b&gt;備用零件&lt;/b&gt;到你的手牌中
   </text>
@@ -2271,15 +2274,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他似乎跟能量轉換器之類的東西有點關聯。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_115
   </id>
@@ -2405,9 +2405,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2432,6 +2429,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    一個機器人的垃圾零件，對另一個機器人來說可是超讚的升級零件!
   </flavor>
@@ -2463,9 +2463,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2490,6 +2487,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    冬握湖要塞唯一的弱點!
   </flavor>
@@ -2582,9 +2582,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2594,6 +2591,9 @@
   <artist>
    James Ryman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    同時也會對他目標身邊的手下造成傷害
   </text>
@@ -2609,15 +2609,15 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    收割敵人跟收割農作物其實沒什麼兩樣。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_113
   </id>
@@ -2631,9 +2631,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2643,6 +2640,9 @@
   <artist>
    Christopher Moeller
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;召喚一個隨機的傳說手下
   </text>
@@ -2658,15 +2658,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    斯尼德在死亡礦坑被擊敗後，他的伐木機就被一個不知名的買家從拍賣場買走了。(大概是霍格。)
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_114
   </id>
@@ -2764,9 +2764,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2791,6 +2788,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    它的主要功能是直拳攻擊。它的次要功能...也是直拳攻擊。
   </flavor>
@@ -2922,9 +2922,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2949,6 +2946,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    以前只有哥布林會駕駛伐木機。現在?連末日預言者跟博學行者阿洲都開了一台在跑。
   </flavor>
@@ -2968,9 +2968,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2995,6 +2992,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    哥布林工程學的巔峰成就。內建義式咖啡機及腳底按摩功能。
   </flavor>
@@ -3075,9 +3075,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3102,6 +3099,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    會召喚機械的機械?接下來呢?會召喚甜甜圈的甜甜圈嗎?嗯...聽起來不錯。
   </flavor>
@@ -3116,9 +3116,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3143,6 +3140,9 @@
   <health>
    6
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    牠徒手拆建築物的效率讓怪手望塵莫及。
   </flavor>
@@ -3165,9 +3165,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3192,6 +3189,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    冰風崗哨的雪人經常在聯盟與部落之間的爭鬥中遭到池魚之殃。
   </flavor>
@@ -3206,9 +3206,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3218,6 +3215,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每當有敵方手下死亡，召喚一個麻瘋地精
   </text>
@@ -3233,15 +3233,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    他以前是炸藥偏執狂，直到他愛上針織毛衣。現在他逢人就喊:「毛衣!更多的毛衣!」
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_116
   </id>
@@ -3264,6 +3264,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;與另一個手下對調生命值
   </text>
@@ -3279,15 +3282,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    沃金是個暗影獵手。跟暗影牧師差不多意思，只是更巫毒了點。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_014
   </id>
@@ -3299,9 +3299,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3326,6 +3323,9 @@
   <health>
    5
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    不要以為魚人語就不能跟元素溝通。你看看他。
   </flavor>
@@ -3363,9 +3363,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3390,6 +3387,9 @@
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    這些圖騰在週六的跳蚤市場上都可以找得到。
   </flavor>
@@ -3424,9 +3424,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3448,6 +3445,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    他最愛假裝自己是魚斯拉。
   </flavor>
@@ -3462,9 +3462,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3489,6 +3486,9 @@
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    一開始他的名字是「邪惡之眼末日看守者」，後來行銷部門的人覺得這個名字太有侵略性，怕影響到銷售，就改了。
   </flavor>
@@ -3511,9 +3511,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3538,6 +3535,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    原本這個是拿來打蛋用的。
   </flavor>
@@ -3555,9 +3555,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3567,6 +3564,9 @@
   <artist>
    Aleksi Briclot
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    當你抽到這張牌，對全部角色造成2點傷害
   </text>
@@ -3582,15 +3582,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    彌米倫喜歡開著烈焰戰輪出去兜風。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_007
   </id>
@@ -3642,9 +3642,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3669,6 +3666,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    據說哥布林伐木機的發明者跟煤煙噴吐機器人的發明者有好幾件官司正在打。
   </flavor>
@@ -3694,9 +3694,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3722,6 +3719,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    煩人機器人的發明者被技工學校立即退學，然後被趕出地精區，最後整個被踢出東部王國。
   </flavor>
@@ -3791,6 +3791,9 @@
   <artist>
    Alex Garner
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;召喚兩個1/1的爆爆機器人。警告:它們有爆炸之虞
   </text>
@@ -3806,15 +3809,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    讚嘆他的力量!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_110
   </id>
@@ -3825,9 +3825,6 @@
     Deathrattle
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3846,6 +3843,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -3883,6 +3883,9 @@
   <artist>
    Mike Sass
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每當你的對手施放法術，召喚一個魁梧的石顎穴居怪
   </text>
@@ -3898,15 +3901,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    不要小看穴居怪。不信，你讓特洛格佐爾砸一下試試。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_118
   </id>
@@ -3915,9 +3915,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3942,6 +3939,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    海盜都會騙人，但他連海盜都能騙得死死的。
   </flavor>
@@ -3964,9 +3964,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3976,6 +3973,9 @@
   <artist>
    Oliver Chipping
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;死亡之聲:&lt;/b&gt;將此手下洗入牌堆中
   </text>
@@ -3991,15 +3991,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    我不是馴鹿!我不認識什麼聖誕老人!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_035
   </id>
@@ -4016,9 +4016,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4028,6 +4025,9 @@
   <artist>
    Wayne Reynolds
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    你的其他惡魔擁有+2/+2。
 你的英雄&lt;b&gt;免疫&lt;/b&gt;
@@ -4044,15 +4044,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    瑪爾加尼斯不喜歡被背叛，所以如果你把他捨棄，最好把皮繃緊一點。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_021
   </id>
@@ -4147,9 +4147,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4174,6 +4171,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    發條地精最常問的問題就是現在幾點鐘。
   </flavor>
@@ -4188,9 +4188,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4215,6 +4212,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    他跟山嶺巨人不和。
   </flavor>
@@ -4414,9 +4414,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4441,6 +4438,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    如果出現故障，從屁股下面45度角踢它幾下通常可以修好。
   </flavor>
@@ -4486,9 +4486,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4513,6 +4510,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    獅子是萬獸之王。所以獅子王是萬獸之王之王。這樣說對吧?好，把剛才那句話很快的唸十次看看。
   </flavor>
@@ -4555,9 +4555,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4583,6 +4580,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    為了這個新發明，地精法師跟地精工程師差點翻臉打起來。
   </flavor>
@@ -4748,9 +4748,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4772,6 +4769,9 @@
   <health>
    4
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    他終於擺脫「那個菜鳥」的稱謂了。
   </flavor>
@@ -4831,9 +4831,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4858,6 +4855,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    這玩意兒怎麼使用呢?你以為你的敵人會說:「唉呀，好可愛的羊啊!」然後跑過去抱它起來玩嗎?
   </flavor>
@@ -4910,9 +4910,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4937,6 +4934,9 @@
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    她特別討厭人家拿她跟苦痛侍僧相提並論。據說苦痛侍僧已經因為這樣挨了好幾頓打。
   </flavor>
@@ -4954,9 +4954,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4978,6 +4975,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    「如果我們把槍砲裝上去會怎樣?」-菲茲布里茨對著蜘蛛型運輸工具如是說。
   </flavor>
@@ -5063,9 +5063,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5090,6 +5087,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    這個假人的頭上貼著一張紙條，上面寫著:「打我啊!」
   </flavor>
@@ -5196,9 +5196,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5223,6 +5220,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    它只相信它的程式碼中要它相信的事情!
   </flavor>
@@ -5301,6 +5301,9 @@
   <artist>
    Wei Wang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    每當你的對手施放法術，便獲得一張同樣的法術並給他一枚硬幣
   </text>
@@ -5316,15 +5319,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    加里維克斯相信供需法則。他提供一頓飽打，但需要你支付他車馬費!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_028
   </id>
@@ -5350,6 +5350,9 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;摧毀一隻野獸
   </text>
@@ -5365,15 +5368,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    在一個野獸被殺死後沒幾分鐘就重新出現的世界當獵人，真不知道該說幸還是不幸。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_120
   </id>
@@ -5387,9 +5387,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5414,6 +5411,9 @@
   <health>
    7
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    在塔納利斯有一間專門製造超能坦克的軍工廠，只製造出兩台就因為嚴重超支而停產了。
   </flavor>
@@ -5621,9 +5621,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5645,6 +5642,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    牠的屁股上有著刺青，寫著:若看到牠，請送回莫高雷。
   </flavor>
@@ -5780,9 +5780,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5807,6 +5804,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    原本它們的材料是昂貴的源質礦，後來工廠遷到加基森，不知怎地就換成了便宜的鈷藍礦。
   </flavor>
@@ -5849,9 +5849,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5876,6 +5873,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    不要讓牠們淋雨。在安戈洛環形山那邊，鏽牙獸已經多到無法控制了。
   </flavor>
@@ -5893,9 +5893,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5920,6 +5917,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    機械很喜歡向他學習，因為他真的會說機械語言。
 
@@ -5944,9 +5944,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5956,6 +5953,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;放一張地雷到你對手的牌堆中。當他抽到地雷，會爆炸並對他造成10點傷害
   </text>
@@ -5971,15 +5971,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    鋼鐵破滅邪神守護著奧格瑪，而且才剛剛獲得「本月最佳員工」獎項!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_056
   </id>
@@ -6011,9 +6011,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6029,6 +6026,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6045,9 +6045,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6057,6 +6054,9 @@
   <artist>
    Eva Widermann
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    &lt;b&gt;嘲諷&lt;/b&gt;。&lt;b&gt;二選一:&lt;/b&gt;
 +1攻擊力或+1生命值
@@ -6073,15 +6073,15 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    噢，好可愛呀!呃，天啊，牠為什麼要啃我的臉?!
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_030
   </id>
@@ -6098,9 +6098,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6125,6 +6122,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    不會飛的飛行器叫什麼?下一個資料片再告訴你。
   </flavor>

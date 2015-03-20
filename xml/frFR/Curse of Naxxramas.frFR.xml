@@ -125,9 +125,9 @@
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; réduit au &lt;b&gt;Silence&lt;/b&gt; vos autres serviteurs.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Thaddius dans le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -137,32 +137,32 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Cette âme n’arrête pas de se plaindre en &lt;i&gt;gémissant&lt;/i&gt; auprès de sa hiérarchie, c’est-à-dire vous !
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Thaddius dans le quartier des Assemblages.
   </howtogetgold>
+  <flavor>
+   Cette âme n’arrête pas de se plaindre en &lt;i&gt;gémissant&lt;/i&gt; auprès de sa hiérarchie, c’est-à-dire vous !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Thaddius dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -171,15 +171,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -287,15 +287,15 @@ Inflige 3 points de dégâts au héros adverse.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -321,12 +321,15 @@ Inflige 3 points de dégâts au héros adverse.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Vos serviteurs déclenchent deux fois leur &lt;b&gt;Râle d’agonie&lt;/b&gt;.
   </text>
-  <howtoget>
-   Obtenue en terminant le quartier Militaire.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -336,35 +339,32 @@ Inflige 3 points de dégâts au héros adverse.
   <health>
    7
   </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier Militaire.
+  </howtogetgold>
+  <flavor>
+   Dame Blaumeux préférerait qu’on dise « la cavalière et les trois cavaliers ».
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier Militaire.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Dame Blaumeux préférerait qu’on dise « la cavalière et les trois cavaliers ».
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir terminé le quartier Militaire.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -559,9 +559,9 @@ Prend le contrôle d’un serviteur adverse aléatoire.
   <text>
    Ne peut pas être la cible de sorts ou de pouvoirs héroïques.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Gothik le Moissonneur dans le quartier Militaire.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -571,21 +571,21 @@ Prend le contrôle d’un serviteur adverse aléatoire.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   Qu’ont en commun les dragons féeriques et les chevaliers de la mort spectraux ? Ils adorent les pâtes !
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Gothik le Moissonneur dans le quartier Militaire.
   </howtogetgold>
+  <flavor>
+   Qu’ont en commun les dragons féeriques et les chevaliers de la mort spectraux ? Ils adorent les pâtes !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Gothik le Moissonneur dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <text>
@@ -629,9 +629,9 @@ Prend le contrôle d’un serviteur adverse aléatoire.
    &lt;b&gt;Provocation.
 Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&lt;/b&gt;.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Horreb dans le quartier de la Peste.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -641,21 +641,21 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   Ne vous lancez pas dans un concours de rots avec lui, c’est perdu d’avance.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Horreb dans le quartier de la Peste.
   </howtogetgold>
+  <flavor>
+   Ne vous lancez pas dans un concours de rots avec lui, c’est perdu d’avance.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Horreb dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -781,9 +781,9 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; rend 5 PV au héros adverse.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Gluth dans le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -793,21 +793,21 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Au menu ce soir, le chef vous propose… du zombie.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Gluth dans le quartier des Assemblages.
   </howtogetgold>
+  <flavor>
+   Au menu ce soir, le chef vous propose… du zombie.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Gluth dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <set>
@@ -816,6 +816,9 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <name>
    Dame Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -831,9 +834,6 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -845,6 +845,9 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <name>
    Dame Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -860,9 +863,6 @@ Râle d’agonie :&lt;/b&gt; invoque une gelée 1/2 avec &lt;b&gt;Provocation&l
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -1029,27 +1029,27 @@ Fait passer les points de vie des serviteurs adverses à 1.
   <text>
    &lt;b&gt;Secret :&lt;/b&gt; quand un serviteur allié meurt, en place 2 copies dans votre main.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe mage de Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   C’est bien la seule fois où vous pourrez copier des cartes sans vous faire bannir votre compte !
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe mage de Naxxramas.
   </howtogetgold>
+  <flavor>
+   C’est bien la seule fois où vous pourrez copier des cartes sans vous faire bannir votre compte !
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe mage de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -1075,9 +1075,9 @@ Fait passer les points de vie des serviteurs adverses à 1.
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; renvoie un serviteur allié aléatoire dans votre main.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe voleur de Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -1087,21 +1087,21 @@ Fait passer les points de vie des serviteurs adverses à 1.
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Autrefois, on l’appelait l’anub’ar-qui-renvoie-un-serviteur-dans-votre-main, mais c’était un peu dur à dire.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe voleur de Naxxramas.
   </howtogetgold>
+  <flavor>
+   Autrefois, on l’appelait l’anub’ar-qui-renvoie-un-serviteur-dans-votre-main, mais c’était un peu dur à dire.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe voleur de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1169,9 +1169,9 @@ Renvoie 2 serviteurs ennemis aléatoires dans la main de votre adversaire.
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; votre adversaire pioche une carte.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre l’instructeur Razuvious dans le quartier Militaire.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -1181,21 +1181,21 @@ Renvoie 2 serviteurs ennemis aléatoires dans la main de votre adversaire.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Leur chanson préférée, c’est « Alors on danse ».
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu l’instructeur Razuvious dans le quartier Militaire.
   </howtogetgold>
+  <flavor>
+   Leur chanson préférée, c’est « Alors on danse ».
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre l’instructeur Razuvious dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <set>
@@ -1311,12 +1311,15 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; si Stalagg est aussi mort pendant cette partie, invoque Thaddius.
   </text>
-  <howtoget>
-   Obtenue en terminant le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -1326,24 +1329,21 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <health>
    7
   </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Feugen est tristounet parce que tout le monde préfère Stalagg.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Assemblages.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen est tristounet parce que tout le monde préfère Stalagg.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir terminé le quartier des Assemblages.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1352,9 +1352,9 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1367,9 +1367,9 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -1421,9 +1421,9 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <text>
    Gagne +1 ATQ chaque fois que vous invoquez un serviteur avec &lt;b&gt;Râle d’agonie&lt;/b&gt;.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre le Recousu dans le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1433,21 +1433,21 @@ Inflige 3 points de dégâts au serviteur adverse tout à gauche.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   Dans un monde où il suffit de s’adresser à un gardien des âmes pour ressusciter, fossoyeur n’est pas considéré comme un métier porteur.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu le Recousu dans le quartier des Assemblages.
   </howtogetgold>
+  <flavor>
+   Dans un monde où il suffit de s’adresser à un gardien des âmes pour ressusciter, fossoyeur n’est pas considéré comme un métier porteur.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre le Recousu dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -1636,9 +1636,9 @@ Détruit un serviteur.
   <text>
    Au début de votre tour, rend tous ses points de vie à ce serviteur.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Noth le Porte-Peste dans le quartier de la Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1648,21 +1648,21 @@ Détruit un serviteur.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Quel est le jeu préféré des gargouilles peau-de-pierre ? 1, 2, 3, soleil !
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Noth le Porte-Peste dans le quartier de la Peste.
   </howtogetgold>
+  <flavor>
+   Quel est le jeu préféré des gargouilles peau-de-pierre ? 1, 2, 3, soleil !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Noth le Porte-Peste dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1719,15 +1719,15 @@ Détruit un serviteur.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1736,15 +1736,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1753,15 +1753,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1770,15 +1770,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1811,9 +1811,9 @@ Détruit un serviteur.
    &lt;b&gt;Provocation&lt;/b&gt;
 &lt;b&gt;Râle d’agonie :&lt;/b&gt; inflige 1 point de dégâts à tous les serviteurs.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Heigan l’Impur dans le quartier de la Peste.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1823,21 +1823,21 @@ Détruit un serviteur.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Remplir ses goules de carburant pour fusée, ça fait fureur dans les écoles de nécromancie.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Heigan l’Impur dans le quartier de la Peste.
   </howtogetgold>
+  <flavor>
+   Remplir ses goules de carburant pour fusée, ça fait fureur dans les écoles de nécromancie.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Heigan l’Impur dans le quartier de la Peste.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <collectible>
@@ -1855,41 +1855,41 @@ Détruit un serviteur.
   <text>
    Détruit tous les serviteurs et les remplace par des tréants 2/2.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe druide de Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   La baguette tradition aux graines de poison est le produit le moins demandé de la boulangerie druidique de McTiggin.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe druide de Naxxramas.
   </howtogetgold>
+  <flavor>
+   La baguette tradition aux graines de poison est le produit le moins demandé de la boulangerie druidique de McTiggin.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe druide de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -1898,15 +1898,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -1915,15 +1915,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1932,15 +1932,15 @@ Détruit un serviteur.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -2105,12 +2105,15 @@ Invoque un nérubien 4/4.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; les sorts adverses coûtent (5) cristaux de plus au prochain tour.
   </text>
-  <howtoget>
-   Obtenue en terminant le quartier de la Peste.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -2120,35 +2123,32 @@ Invoque un nérubien 4/4.
   <health>
    5
   </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier de la Peste.
+  </howtogetgold>
+  <flavor>
+   Au départ, Horreb n’était qu’une simple créature des marais. C’est la raison pour laquelle il faut réglementer davantage l’utilisation des pesticides dans l’agriculture.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier de la Peste.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Au départ, Horreb n’était qu’une simple créature des marais. C’est la raison pour laquelle il faut réglementer davantage l’utilisation des pesticides dans l’agriculture.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir terminé le quartier de la Peste.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -2157,15 +2157,15 @@ Invoque un nérubien 4/4.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -2182,9 +2182,6 @@ Invoque un nérubien 4/4.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2197,9 +2194,12 @@ Invoque un nérubien 4/4.
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; place un démon aléatoire de votre main sur le champ de bataille.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe démoniste de Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe démoniste de Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -2209,21 +2209,21 @@ Invoque un nérubien 4/4.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    « Vide ! Allez, Vide ! S’il te plaît... »
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Obtenue en terminant le défi de la classe démoniste de Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Peut être créée après avoir terminé le défi de la classe démoniste de Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -2266,15 +2266,15 @@ Invoque un nérubien 4/4.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -2283,15 +2283,15 @@ Invoque un nérubien 4/4.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -2397,12 +2397,15 @@ Invoque un nérubien 4/4.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    À la fin de chaque tour, invoque tous les serviteurs alliés qui sont morts pendant ce tour.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre chacun des boss de Naxxramas !
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -2412,35 +2415,32 @@ Invoque un nérubien 4/4.
   <health>
    8
   </health>
+  <howtogetgold>
+   Peut être créée après avoir battu chacun des boss de Naxxramas !
+  </howtogetgold>
+  <flavor>
+   Kel’Thuzad n’a pas pu résister à l’appel du roi-liche. Même si ce n’était qu’un appel automatique avec un message pré-enregistré vantant les vertus de son auteur.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre chacun des boss de Naxxramas !
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel’Thuzad n’a pas pu résister à l’appel du roi-liche. Même si ce n’était qu’un appel automatique avec un message pré-enregistré vantant les vertus de son auteur.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir battu chacun des boss de Naxxramas !
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -2449,15 +2449,15 @@ Invoque un nérubien 4/4.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -2570,15 +2570,15 @@ Invoque un nérubien 4/4.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -2587,15 +2587,15 @@ Invoque un nérubien 4/4.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -2624,9 +2624,9 @@ Invoque un nérubien 4/4.
   <text>
    &lt;b&gt;Cri de guerre :&lt;/b&gt; invoque une copie conforme de ce serviteur à la fin du tour.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Saphiron dans l’antre du Wyrm de givre.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -2636,32 +2636,32 @@ Invoque un nérubien 4/4.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   LIMON… Limon… limon… mon…
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Saphiron dans l’antre du Wyrm de givre.
   </howtogetgold>
+  <flavor>
+   LIMON… Limon… limon… mon…
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Saphiron dans l’antre du Wyrm de givre.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    M. Bigglesworth
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Le chat-chat adoré de Kel’Thuzad.&lt;/i&gt;
   </text>
@@ -2677,12 +2677,12 @@ Invoque un nérubien 4/4.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2740,15 +2740,15 @@ Invoque un nérubien 4/4.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -2765,9 +2765,6 @@ Invoque un nérubien 4/4.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2777,12 +2774,18 @@ Invoque un nérubien 4/4.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Détruit tout serviteur blessé par ce serviteur.
   </text>
-  <howtoget>
-   Obtenue en terminant le quartier des Arachnides.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Arachnides.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -2792,35 +2795,32 @@ Invoque un nérubien 4/4.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Rien n’énerve plus Maexxna que d’être appelée « Maxena » ou « Maxxy ».
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Arachnides.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Rien n’énerve plus Maexxna que d’être appelée « Maxena » ou « Maxxy ».
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir terminé le quartier des Arachnides.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -2931,30 +2931,30 @@ Pioche une carte.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Obtenue en terminant le défi de la classe guerrier de Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   « Venez prendre un avant-goût de la Mort. » - Seigneur de la mort McScruff
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe guerrier de Naxxramas.
   </howtogetgold>
+  <flavor>
+   « Venez prendre un avant-goût de la Mort. » - Seigneur de la mort McScruff
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe guerrier de Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -3207,9 +3207,9 @@ Inflige 2 points de dégâts à
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque un nérubien 4/4.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Maexxna dans le quartier des Arachnides.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -3219,21 +3219,21 @@ Inflige 2 points de dégâts à
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Les œufs sont une excellente source de protéines et de nérubiens.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Maexxna dans le quartier des Arachnides.
   </howtogetgold>
+  <flavor>
+   Les œufs sont une excellente source de protéines et de nérubiens.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Maexxna dans le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3257,9 +3257,9 @@ Inflige 2 points de dégâts à
    &lt;b&gt;Camouflage&lt;/b&gt;
 Gagne +1/+1 au début de votre tour.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Kel’Thuzad dans l’antre du Wyrm de givre.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -3269,21 +3269,21 @@ Gagne +1/+1 au début de votre tour.
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Regardez vers la lumière, les ombres resteront derrière vous !
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Kel’Thuzad dans l’antre du Wyrm de givre.
   </howtogetgold>
+  <flavor>
+   Regardez vers la lumière, les ombres resteront derrière vous !
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Kel’Thuzad dans l’antre du Wyrm de givre.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <set>
@@ -3446,9 +3446,6 @@ Tire un missile pour chaque
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3461,9 +3458,12 @@ Tire un missile pour chaque
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; invoque deux araignées spectrales 1/1.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Anub’Rekhan dans le quartier des Arachnides.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir battu Anub’Rekhan dans le quartier des Arachnides.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3473,21 +3473,21 @@ Tire un missile pour chaque
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Arachnofauxbie : peur des araignées en mousse.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Obtenue en gagnant contre Anub’Rekhan dans le quartier des Arachnides.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Peut être créée après avoir battu Anub’Rekhan dans le quartier des Arachnides.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -3547,41 +3547,41 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <text>
    Détruit un serviteur, puis le ramène à la vie avec tous ses PV.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe chaman de Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Pan, t’es même pas mort !
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe chaman de Naxxramas.
   </howtogetgold>
+  <flavor>
+   Pan, t’es même pas mort !
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe chaman de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3590,15 +3590,15 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3627,9 +3627,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; place un &lt;b&gt;Secret&lt;/b&gt; de votre deck sur le champ de bataille.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre Grobbulus dans le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3639,21 +3639,21 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Sa môman voulait qu’il devienne mage ou démoniste, mais non, il a fallu qu’il soit savant fou comme son papa.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu Grobbulus dans le quartier des Assemblages.
   </howtogetgold>
+  <flavor>
+   Sa môman voulait qu’il devienne mage ou démoniste, mais non, il a fallu qu’il soit savant fou comme son papa.
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre Grobbulus dans le quartier des Assemblages.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3679,9 +3679,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <text>
    &lt;b&gt;Provocation. Râle d’agonie :&lt;/b&gt; votre adversaire place un serviteur de son deck sur le champ de bataille.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre les quatre cavaliers dans le quartier Militaire.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -3691,21 +3691,21 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   « Lève-toi de ta tombe ! » - Kel’Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu les quatre cavaliers dans le quartier Militaire.
   </howtogetgold>
+  <flavor>
+   « Lève-toi de ta tombe ! » - Kel’Thuzad
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre les quatre cavaliers dans le quartier Militaire.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3728,9 +3728,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <text>
    Les serviteurs avec &lt;b&gt;Cri de guerre&lt;/b&gt; coûtent (2) cristaux de plus.
   </text>
-  <howtoget>
-   Obtenue en gagnant contre la grande veuve Faerlina dans le quartier des Arachnides.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3740,21 +3740,21 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Les seigneurs de la toile passent leur journée à tisser des trampolines géants. Vous parlez d’un boulot…
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir battu la grande veuve Faerlina dans le quartier des Arachnides.
   </howtogetgold>
+  <flavor>
+   Les seigneurs de la toile passent leur journée à tisser des trampolines géants. Vous parlez d’un boulot…
+  </flavor>
+  <howtoget>
+   Obtenue en gagnant contre la grande veuve Faerlina dans le quartier des Arachnides.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -3763,6 +3763,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <name>
    Sire Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -3778,9 +3781,6 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -3792,6 +3792,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <name>
    Sire Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -3807,9 +3810,6 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3835,9 +3835,9 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; confère +3 PV à un serviteur allié aléatoire.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe prêtre de Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -3847,21 +3847,21 @@ Chaque fois qu’un ennemi meurt, un squelette 1/1 se lève.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   Le culte des Damnés s’est rendu compte qu’il valait mieux rester anonyme lors du recrutement de nouveaux sectateurs.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe prêtre de Naxxramas.
   </howtogetgold>
+  <flavor>
+   Le culte des Damnés s’est rendu compte qu’il valait mieux rester anonyme lors du recrutement de nouveaux sectateurs.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe prêtre de Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -3972,9 +3972,9 @@ Détruit tous les serviteurs
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3987,9 +3987,9 @@ Détruit tous les serviteurs
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -4012,12 +4012,15 @@ Détruit tous les serviteurs
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; si Feugen est aussi mort pendant cette partie, invoque Thaddius.
   </text>
-  <howtoget>
-   Obtenue en terminant le quartier des Assemblages.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -4027,24 +4030,21 @@ Détruit tous les serviteurs
   <health>
    4
   </health>
+  <howtogetgold>
+   Peut être créée après avoir terminé le quartier des Assemblages.
+  </howtogetgold>
+  <flavor>
+   Stalagg voulait écrire sur sa carte : « STALAGG MEILLEUR ! »
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le quartier des Assemblages.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg voulait écrire sur sa carte : « STALAGG MEILLEUR ! »
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Peut être créée après avoir terminé le quartier des Assemblages.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -4067,15 +4067,15 @@ Détruit tous les serviteurs
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -4084,15 +4084,15 @@ Détruit tous les serviteurs
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -4107,9 +4107,9 @@ Détruit tous les serviteurs
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4122,9 +4122,9 @@ Détruit tous les serviteurs
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
@@ -4136,6 +4136,9 @@ Détruit tous les serviteurs
   <name>
    Thane Korth’azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -4151,9 +4154,6 @@ Détruit tous les serviteurs
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -4165,6 +4165,9 @@ Détruit tous les serviteurs
   <name>
    Thane Korth’azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Votre héros est &lt;b&gt;Insensible&lt;/b&gt;.
   </text>
@@ -4180,9 +4183,6 @@ Détruit tous les serviteurs
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -4196,9 +4196,6 @@ Détruit tous les serviteurs
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4211,9 +4208,12 @@ Détruit tous les serviteurs
   <text>
    &lt;b&gt;Râle d’agonie :&lt;/b&gt; ajoute une carte Bête aléatoire dans votre main.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe chasseur de Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Peut être créée après avoir terminé le défi de la classe chasseur de Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4223,21 +4223,21 @@ Détruit tous les serviteurs
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Les cocons d’araignée, c’est comme les boîtes de chocolats : on ne sait jamais sur quoi on va tomber !
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Obtenue en terminant le défi de la classe chasseur de Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Peut être créée après avoir terminé le défi de la classe chasseur de Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -4361,27 +4361,27 @@ Inflige 3 points de dégâts au héros ennemi et le &lt;b&gt;gèle&lt;/b&gt;.
   <text>
    &lt;b&gt;Secret :&lt;/b&gt; quand l’un de vos serviteurs meurt, donne +3/+2 à un serviteur allié aléatoire.
   </text>
-  <howtoget>
-   Obtenue en terminant le défi de la classe paladin de Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Un jour, plusieurs paladins se sont ligués pour rendre la justice. Au moment de choisir un nom, leur avocat les a convaincus de se faire appeler la Digue des justiciers. On n’est jamais trop prudent.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Peut être créée après avoir terminé le défi de la classe paladin de Naxxramas.
   </howtogetgold>
+  <flavor>
+   Un jour, plusieurs paladins se sont ligués pour rendre la justice. Au moment de choisir un nom, leur avocat les a convaincus de se faire appeler la Digue des justiciers. On n’est jamais trop prudent.
+  </flavor>
+  <howtoget>
+   Obtenue en terminant le défi de la classe paladin de Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>

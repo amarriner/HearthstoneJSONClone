@@ -83,9 +83,9 @@
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; fa tornare un altro tuo servitore casuale nella tua mano.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Ladro a Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -95,21 +95,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Il nome originale della carta era "Scagnozzo di Anub&amp;apos;ar che fa tornare un altro tizio in mano", ma gli mancava un po&amp;apos; di mordente.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Ladro a Naxxramas.
   </howtogetgold>
+  <flavor>
+   Il nome originale della carta era "Scagnozzo di Anub&amp;apos;ar che fa tornare un altro tizio in mano", ma gli mancava un po&amp;apos; di mordente.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Ladro a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -223,9 +223,9 @@
   <text>
    &lt;b&gt;Grido di Battaglia: Silenzia&lt;/b&gt; tutti gli altri tuoi servitori.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Thaddius nell&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -235,32 +235,32 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Una delle tante anime che popolano i forum su Internet.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Thaddius nell&amp;apos;Ala dei Costrutti.
   </howtogetgold>
+  <flavor>
+   Una delle tante anime che popolano i forum su Internet.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Thaddius nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -269,15 +269,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -449,15 +449,15 @@ Infligge 3 danni all&amp;apos;eroe nemico.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -483,12 +483,15 @@ Infligge 3 danni all&amp;apos;eroe nemico.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    I tuoi servitori attivano due volte il proprio &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
   </text>
-  <howtoget>
-   Sbloccata completando l&amp;apos;Ala dei Combattenti.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -498,35 +501,32 @@ Infligge 3 danni all&amp;apos;eroe nemico.
   <health>
    7
   </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Combattenti.
+  </howtogetgold>
+  <flavor>
+   Ha il mal di testa dopo tutte le lamentele di Dama Blaumeux, che avrebbe voluto si chiamassero i "Cavalieri e la Dama dell&amp;apos;Apocalisse".
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Combattenti.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Ha il mal di testa dopo tutte le lamentele di Dama Blaumeux, che avrebbe voluto si chiamassero i "Cavalieri e la Dama dell&amp;apos;Apocalisse".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver completato l&amp;apos;Ala dei Combattenti.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -550,9 +550,9 @@ Infligge 3 danni all&amp;apos;eroe nemico.
   <text>
    Ottiene +1 Attacco quando evochi un servitore con &lt;b&gt;Rantolo di Morte&lt;/b&gt;.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Pezzacarne nell&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -562,21 +562,21 @@ Infligge 3 danni all&amp;apos;eroe nemico.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   In un mondo dove basta parlare con uno Spirito Guaritore per tornare in vita, i becchini fanno scarsi affari.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Pezzacarne nell&amp;apos;Ala dei Costrutti.
   </howtogetgold>
+  <flavor>
+   In un mondo dove basta parlare con uno Spirito Guaritore per tornare in vita, i becchini fanno scarsi affari.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Pezzacarne nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -745,9 +745,9 @@ Prende il controllo di un servitore nemico casuale.
   <text>
    Non può essere il bersaglio di Magie o Poteri Eroe.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Gothik il Falciatore nell&amp;apos;Ala dei Combattenti.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -757,21 +757,21 @@ Prende il controllo di un servitore nemico casuale.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   Che cos&amp;apos;hanno in comune i Draghi Fatati e i Comandanti Spettrali? Entrambi adorano il sushi!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Gothik il Falciatore nell&amp;apos;Ala dei Combattenti.
   </howtogetgold>
+  <flavor>
+   Che cos&amp;apos;hanno in comune i Draghi Fatati e i Comandanti Spettrali? Entrambi adorano il sushi!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Gothik il Falciatore nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <text>
@@ -828,9 +828,9 @@ Prende il controllo di un servitore nemico casuale.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; +3 Salute a un altro tuo servitore casuale.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Sacerdote a Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -840,21 +840,21 @@ Prende il controllo di un servitore nemico casuale.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   Il Culto dei Dannati ha scoperto che è più semplice reclutare proseliti se non si menziona il nome della loro organizzazione.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Sacerdote a Naxxramas.
   </howtogetgold>
+  <flavor>
+   Il Culto dei Dannati ha scoperto che è più semplice reclutare proseliti se non si menziona il nome della loro organizzazione.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Sacerdote a Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -866,6 +866,9 @@ Prende il controllo di un servitore nemico casuale.
   <name>
    Dama Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -881,9 +884,6 @@ Prende il controllo di un servitore nemico casuale.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -895,6 +895,9 @@ Prende il controllo di un servitore nemico casuale.
   <name>
    Dama Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -910,9 +913,6 @@ Prende il controllo di un servitore nemico casuale.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1066,27 +1066,27 @@ Infligge 3 danni all&amp;apos;eroe nemico e lo &lt;b&gt;Congela&lt;/b&gt;.
   <text>
    &lt;b&gt;Segreto:&lt;/b&gt; quando un tuo servitore muore, ne ottieni 2 copie in mano.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Mago a Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   L&amp;apos;unico modo per duplicare le tue carte senza rischiare la sospensione dell&amp;apos;account!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Mago a Naxxramas.
   </howtogetgold>
+  <flavor>
+   L&amp;apos;unico modo per duplicare le tue carte senza rischiare la sospensione dell&amp;apos;account!
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Mago a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -1185,15 +1185,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -1202,15 +1202,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -1248,9 +1248,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1263,9 +1263,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -1288,12 +1288,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; se anche Stalagg è morto in questa partita, evoca Thaddius.
   </text>
-  <howtoget>
-   Sbloccata completando l&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -1303,24 +1306,21 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    7
   </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Feugen è triste perché tutti preferiscono Stalagg.
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Costrutti.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen è triste perché tutti preferiscono Stalagg.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1423,9 +1423,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <text>
    All&amp;apos;inizio del tuo turno, rigenera la sua Salute al massimo.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Noth l&amp;apos;Araldo della Piaga nell&amp;apos;Ala della Pestilenza.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1435,21 +1435,21 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   I Gargoyle Pellepietrosa adorano giocare a "Un, due, tre, stella"!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Noth l&amp;apos;Araldo della Piaga nell&amp;apos;Ala della Pestilenza.
   </howtogetgold>
+  <flavor>
+   I Gargoyle Pellepietrosa adorano giocare a "Un, due, tre, stella"!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Noth l&amp;apos;Araldo della Piaga nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1500,9 +1500,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <text>
    &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; infligge 1 danno a TUTTI i servitori.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Heigan l&amp;apos;Impuro nell&amp;apos;Ala della Pestilenza.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1512,32 +1512,32 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Riempire i Ghoul con carburante per razzi va molto di moda nella scuola per Negromanti.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Heigan l&amp;apos;Impuro nell&amp;apos;Ala della Pestilenza.
   </howtogetgold>
+  <flavor>
+   Riempire i Ghoul con carburante per razzi va molto di moda nella scuola per Negromanti.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Heigan l&amp;apos;Impuro nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1546,15 +1546,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1563,15 +1563,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1580,15 +1580,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1597,15 +1597,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -1614,15 +1614,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1863,9 +1863,6 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1878,9 +1875,12 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette sul campo di battaglia un Demone casuale dalla tua mano.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe dello Stregone a Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe dello Stregone a Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -1890,35 +1890,35 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    "Vuoto! Ehi, Vuoto! Vieni qui, bello!"
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe dello Stregone a Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Può essere creata dopo aver completato la Sfida di Classe dello Stregone a Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -1927,15 +1927,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -1944,15 +1944,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -1973,12 +1973,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Alla fine di ogni turno, evoca tutti i tuoi servitori morti durante quel turno.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo tutti i boss di Naxxramas!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -1988,35 +1991,32 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    8
   </health>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto tutti i boss di Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad non ha potuto resistere alla chiamata del Re dei Lich, anche se era un&amp;apos;intercontinentale a carico del destinatario.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo tutti i boss di Naxxramas!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad non ha potuto resistere alla chiamata del Re dei Lich, anche se era un&amp;apos;intercontinentale a carico del destinatario.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver sconfitto tutti i boss di Naxxramas!
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -2146,12 +2146,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; nel turno successivo le Magie del nemico costano (5) Mana in più.
   </text>
-  <howtoget>
-   Sbloccata completando l&amp;apos;Ala della Pestilenza.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -2161,35 +2164,32 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    5
   </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala della Pestilenza.
+  </howtogetgold>
+  <flavor>
+   Loatheb un tempo era una Bestia della Palude. È per questo che sono richieste regole più severe sull&amp;apos;estrazione e l&amp;apos;agricoltura.
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala della Pestilenza.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Loatheb un tempo era una Bestia della Palude. È per questo che sono richieste regole più severe sull&amp;apos;estrazione e l&amp;apos;agricoltura.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver completato l&amp;apos;Ala della Pestilenza.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -2198,15 +2198,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -2223,9 +2223,6 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2235,12 +2232,18 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Distrugge qualsiasi servitore danneggiato da questo servitore.
   </text>
-  <howtoget>
-   Sbloccata completando l&amp;apos;Ala degli Aracnidi.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -2250,35 +2253,32 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna si arrabbia quando la chiamano "Maxina" o "Maxxy".
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala degli Aracnidi.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Maexxna si arrabbia quando la chiamano "Maxina" o "Maxxy".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver completato l&amp;apos;Ala degli Aracnidi.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -2287,15 +2287,15 @@ Infligge 3 danni al servitore nemico più a sinistra.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -2413,9 +2413,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; rigenera 5 Salute all&amp;apos;eroe nemico.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Gluth nell&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -2425,21 +2425,21 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Zombi. Il piatto del giorno.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Gluth nell&amp;apos;Ala dei Costrutti.
   </howtogetgold>
+  <flavor>
+   Zombi. Il piatto del giorno.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Gluth nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2493,9 +2493,9 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; alla fine del turno, evoca una copia esatta di questo servitore.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Zaffirion nell&amp;apos;Antro del Gelo.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -2505,21 +2505,21 @@ Infligge 3 danni al servitore nemico più a sinistra.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   MELMA... melma... melma... (melma...)
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Zaffirion nell&amp;apos;Antro del Gelo.
   </howtogetgold>
+  <flavor>
+   MELMA... melma... melma... (melma...)
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Zaffirion nell&amp;apos;Antro del Gelo.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <set>
@@ -2587,30 +2587,30 @@ Pesca una carta e ottiene 1 Cristallo di Mana.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Guerriero a Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   Quasi terribile quanto il Morso della Fame...
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Guerriero a Naxxramas.
   </howtogetgold>
+  <flavor>
+   Quasi terribile quanto il Morso della Fame...
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Guerriero a Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -2855,9 +2855,9 @@ Infligge 1 danno a TUTTI i servitori ed evoca una Fanghiglia per ogni servitore 
   <text>
    &lt;b&gt;Furtività&lt;/b&gt;. All&amp;apos;inizio del tuo turno, ottiene +1/+1.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Kel&amp;apos;Thuzad nell&amp;apos;Antro del Gelo.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -2867,21 +2867,21 @@ Infligge 1 danno a TUTTI i servitori ed evoca una Fanghiglia per ogni servitore 
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Le Ombre di Naxxramas &lt;i&gt;odiano&lt;/i&gt; i vivi. Hanno perfino coniato un termine dispregiativo per riferirsi a essi: &lt;i&gt;vividi&lt;/i&gt;.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Kel&amp;apos;Thuzad nell&amp;apos;Antro del Gelo.
   </howtogetgold>
+  <flavor>
+   Le Ombre di Naxxramas &lt;i&gt;odiano&lt;/i&gt; i vivi. Hanno perfino coniato un termine dispregiativo per riferirsi a essi: &lt;i&gt;vividi&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Kel&amp;apos;Thuzad nell&amp;apos;Antro del Gelo.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <set>
@@ -2925,15 +2925,15 @@ Pesca 2 carte.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -2942,15 +2942,15 @@ Pesca 2 carte.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -3202,9 +3202,6 @@ Fa tornare due servitori nemici casuali nella mano dell&amp;apos;avversario.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3217,9 +3214,12 @@ Fa tornare due servitori nemici casuali nella mano dell&amp;apos;avversario.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca due Ragni Spettrali 1/1.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver sconfitto Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3229,21 +3229,21 @@ Fa tornare due servitori nemici casuali nella mano dell&amp;apos;avversario.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Aracnophasmofobia: paura dei ragni fantasma.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Sbloccata sconfiggendo Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Può essere creata dopo aver sconfitto Anub&amp;apos;rekhan nell&amp;apos;Ala degli Aracnidi.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -3284,27 +3284,27 @@ Fa tornare due servitori nemici casuali nella mano dell&amp;apos;avversario.
   <text>
    Distrugge un servitore e lo riporta in vita con la Salute al massimo.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe dello Sciamano a Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Spera solo di non reincarnarti in uno scarafaggio.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe dello Sciamano a Naxxramas.
   </howtogetgold>
+  <flavor>
+   Spera solo di non reincarnarti in uno scarafaggio.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe dello Sciamano a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3389,27 +3389,27 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <text>
    &lt;b&gt;Segreto:&lt;/b&gt; quando un tuo servitore muore, fornisce +3/+2 a un altro tuo servitore casuale.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Paladino a Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   La vendetta è un piatto che va servito... subito!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Paladino a Naxxramas.
   </howtogetgold>
+  <flavor>
+   La vendetta è un piatto che va servito... subito!
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Paladino a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -3518,9 +3518,9 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette in gioco un &lt;b&gt;Segreto&lt;/b&gt; dal tuo mazzo.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Grobbulus nell&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3530,21 +3530,21 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Sua madre voleva che diventasse un Mago o uno Stregone, ma no... è voluto diventare uno scienziato come suo padre.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Grobbulus nell&amp;apos;Ala dei Costrutti.
   </howtogetgold>
+  <flavor>
+   Sua madre voleva che diventasse un Mago o uno Stregone, ma no... è voluto diventare uno scienziato come suo padre.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Grobbulus nell&amp;apos;Ala dei Costrutti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <collectible>
@@ -3562,27 +3562,27 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <text>
    Distrugge TUTTI i servitori ed evoca al loro posto dei Treant 2/2.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Druido a Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   Incredibile a dirsi, ma i panini ai Semi Venefici vanno a ruba a Naxxramas.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Può essere creata dopo aver completato la Sfida di Classe del Druido a Naxxramas.
   </howtogetgold>
+  <flavor>
+   Incredibile a dirsi, ma i panini ai Semi Venefici vanno a ruba a Naxxramas.
+  </flavor>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Druido a Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -3594,6 +3594,9 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <name>
    Ser Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3609,9 +3612,6 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3623,6 +3623,9 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <name>
    Ser Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3638,23 +3641,20 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Signor Bigolo
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Questo è il gatto di Kel&amp;apos;Thuzad.&lt;/i&gt;
   </text>
@@ -3670,12 +3670,12 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -3704,9 +3704,9 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <text>
    &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; l&amp;apos;avversario mette sul campo di battaglia un servitore casuale dal suo mazzo.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo i Cavalieri dell&amp;apos;Apocalisse nell&amp;apos;Ala dei Combattenti.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -3716,21 +3716,21 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   "Risorgi dalla fossa!" - Kel&amp;apos;Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto i Cavalieri dell&amp;apos;Apocalisse nell&amp;apos;Ala dei Combattenti.
   </howtogetgold>
+  <flavor>
+   "Risorgi dalla fossa!" - Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo i Cavalieri dell&amp;apos;Apocalisse nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3753,9 +3753,9 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <text>
    I servitori con &lt;b&gt;Grido di Battaglia&lt;/b&gt; costano (2) Mana in più.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Faerlina la Vedova Nera nell&amp;apos;Ala degli Aracnidi.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3765,21 +3765,21 @@ Quando un servitore nemico muore, evoca uno Scheletro 5/5.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Può sembrare strano, ma l&amp;apos;hobby preferito dei Signori delle Tele è dipingere...
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Faerlina la Vedova Nera nell&amp;apos;Ala degli Aracnidi.
   </howtogetgold>
+  <flavor>
+   Può sembrare strano, ma l&amp;apos;hobby preferito dei Signori delle Tele è dipingere...
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Faerlina la Vedova Nera nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -3860,9 +3860,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; l&amp;apos;avversario pesca una carta.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo l&amp;apos;Istruttore Razuvious nell&amp;apos;Ala dei Combattenti.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3872,21 +3872,21 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   C&amp;apos;è una sola cosa che diciamo alla morte: non oggi!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto l&amp;apos;Istruttore Razuvious nell&amp;apos;Ala dei Combattenti.
   </howtogetgold>
+  <flavor>
+   C&amp;apos;è una sola cosa che diciamo alla morte: non oggi!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo l&amp;apos;Istruttore Razuvious nell&amp;apos;Ala dei Combattenti.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3943,9 +3943,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <text>
    &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca una Melma 1/2 con &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Loatheb nell&amp;apos;Ala della Pestilenza.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -3955,21 +3955,21 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   Guai a infangare il loro nome!
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Loatheb nell&amp;apos;Ala della Pestilenza.
   </howtogetgold>
+  <flavor>
+   Guai a infangare il loro nome!
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Loatheb nell&amp;apos;Ala della Pestilenza.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3989,12 +3989,15 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; se anche Feugen è morto in questa partita, evoca Thaddius.
   </text>
-  <howtoget>
-   Sbloccata completando l&amp;apos;Ala dei Costrutti.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -4004,24 +4007,21 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    4
   </health>
+  <howtogetgold>
+   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
+  </howtogetgold>
+  <flavor>
+   Stalagg ha voluto scrivere la sua descrizione: "STALAGG FORTISSIMO!"
+  </flavor>
+  <howtoget>
+   Sbloccata completando l&amp;apos;Ala dei Costrutti.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg ha voluto scrivere la sua descrizione: "STALAGG FORTISSIMO!"
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Può essere creata dopo aver completato l&amp;apos;Ala dei Costrutti.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -4030,9 +4030,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4045,9 +4045,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -4061,9 +4061,6 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4076,9 +4073,12 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; mette nella tua mano una Bestia casuale.
   </text>
-  <howtoget>
-   Sbloccata completando la Sfida di Classe del Cacciatore a Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Può essere creata dopo aver completato la Sfida di Classe del Cacciatore a Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4088,35 +4088,35 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    I bozzoli dei ragni sono come piccole piñata!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Sbloccata completando la Sfida di Classe del Cacciatore a Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Può essere creata dopo aver completato la Sfida di Classe del Cacciatore a Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -4125,15 +4125,15 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -4148,9 +4148,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -4163,9 +4163,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
@@ -4177,6 +4177,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -4192,9 +4195,6 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -4206,6 +4206,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -4221,9 +4224,6 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -4275,9 +4275,9 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca un Nerubiano 4/4.
   </text>
-  <howtoget>
-   Sbloccata sconfiggendo Maexxna nell&amp;apos;Ala degli Aracnidi.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -4287,21 +4287,21 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Le uova sono un&amp;apos;ottima fonte di proteine... e di Nerubiani.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Può essere creata dopo aver sconfitto Maexxna nell&amp;apos;Ala degli Aracnidi.
   </howtogetgold>
+  <flavor>
+   Le uova sono un&amp;apos;ottima fonte di proteine... e di Nerubiani.
+  </flavor>
+  <howtoget>
+   Sbloccata sconfiggendo Maexxna nell&amp;apos;Ala degli Aracnidi.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <set>
@@ -4344,15 +4344,15 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -4361,15 +4361,15 @@ Distrugge tutti i servitori nemici non &lt;b&gt;Congelati&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>

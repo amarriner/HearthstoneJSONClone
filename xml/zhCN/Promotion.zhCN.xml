@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -28,6 +25,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -60,9 +60,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -87,6 +84,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -114,9 +114,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -141,6 +138,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -151,9 +151,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -178,6 +175,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -188,9 +188,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -209,6 +206,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -254,15 +254,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;进行一次惊人的发明。
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -272,21 +275,18 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   他是侏儒的领袖，无与伦比的发明家。而且他变得越来越像个领袖了；相比他只是个发明家的时候，他已经不那么经常把人变成小鸡了。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    所有在测试阶段参与测试牌店功能的玩家都能获得此项奖励。
   </howtogetgold>
+  <flavor>
+   他是侏儒的领袖，无与伦比的发明家。而且他变得越来越像个领袖了；相比他只是个发明家的时候，他已经不那么经常把人变成小鸡了。
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
   <set>
@@ -326,12 +326,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;让两位玩家都具有摇滚的能力！（双方各获得一张强力和弦牌）
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -341,21 +344,18 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   他正在物色一名鼓手。目前的候选人包括：工程师学徒，森金持盾卫士，还有炎魔之王拉格纳罗斯。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    2013年暴雪嘉年华参与奖励。
   </howtogetgold>
+  <flavor>
+   他正在物色一名鼓手。目前的候选人包括：工程师学徒，森金持盾卫士，还有炎魔之王拉格纳罗斯。
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
   <set>
@@ -378,9 +378,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -396,6 +393,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>

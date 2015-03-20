@@ -178,9 +178,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -205,6 +202,9 @@
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Nunca una máquina tan gigantesca pilló a tantos aventureros por sorpresa.
   </flavor>
@@ -224,9 +224,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -251,6 +248,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Un auténtico especialista en ajustar tu peinado y/o tu altura.
   </flavor>
@@ -377,6 +377,9 @@
   <artist>
    Tooth
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que un esbirro amistoso muere mientras esta carta está en tu mano, obtiene +1 p. de ataque.
   </text>
@@ -392,15 +395,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    A Bolvar le gustan los asientos fríos, ocupar el lugar de reyes malvados y hablar con voz de ultratumba.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_063
   </id>
@@ -576,9 +576,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -603,6 +600,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Dar puñetazos es su función primaria... y secundaria.
   </flavor>
@@ -620,9 +620,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -632,6 +629,9 @@
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Al comienzo de tu turno, si tienes al menos 3 robots, los destruye todos y crea a V-07-TR-0N.
   </text>
@@ -647,15 +647,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡No pulses el gran botón rojo!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_111
   </id>
@@ -669,9 +669,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -681,6 +678,9 @@
   <artist>
    Eva Widermann
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    &lt;b&gt;Provocar&lt;/b&gt;.&lt;b&gt;Elige una:&lt;/b&gt;
 +1 p. de ataque, o bien +1 p. de salud.
@@ -697,15 +697,15 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡Es adorable! CIELOS, ¡NO! ¡¿POR QUÉ ME ESTÁ DEVORANDO LA CARA?!
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_030
   </id>
@@ -717,9 +717,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -744,6 +741,9 @@
   <health>
    5
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Los elementos responden a la llamada de cualquier causa justa, incluso si la llamada en cuestión es "MRGHRGLGLGL".
   </flavor>
@@ -834,9 +834,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -861,6 +858,9 @@
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    En la caja pone: "¡Nuevo y mejorado, con un 200% más de vileza!".
   </flavor>
@@ -962,9 +962,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -989,6 +986,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡La chatarra de unos es la mejora de otros!
   </flavor>
@@ -1154,9 +1154,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1172,6 +1169,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -1246,9 +1246,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1273,6 +1270,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Si pagas un pequeño extra te puedes llevar la versión rojo manzana.
   </flavor>
@@ -1370,6 +1370,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Alex Garner
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla&lt;/b&gt;: Invoca a dos robots bum 1/1. &lt;i&gt;AVISO: Los robots bum pueden explotar.&lt;/i&gt;
   </text>
@@ -1385,23 +1388,17 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    ¡¡¡ARRODILLAOS ANTE EL DOCTOR BUM!!!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_110
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1420,6 +1417,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1778,9 +1778,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1790,6 +1787,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que este esbirro recibe daño, su ataque se duplica.
   </text>
@@ -1805,15 +1805,15 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Se mantiene al margen de la vida pública desde su gran éxito "Gahz&amp;apos;rillas en la niebla".
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_049
   </id>
@@ -1834,6 +1834,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Wei Wang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que tu oponente lanza un hechizo, obtienes una copia del mismo y le das una moneda.
   </text>
@@ -1849,15 +1852,12 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Gallywix había terminado asumiendo ese tipo de democracia que se conoce como "un goblin, un voto". Él era el goblin, y el voto era el suyo.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_028
   </id>
@@ -1878,6 +1878,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Luke Mancini
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que lanzas un hechizo que cuesta 1 cristal de maná, añade un robot aleatorio a tu mano.
   </text>
@@ -1893,15 +1896,12 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Gazlowe fue votado por sus compañeros de clase como "el que tiene más probabilidades de explotar".
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_117
   </id>
@@ -1910,9 +1910,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1937,6 +1934,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    No se lleva bien con el gigante montés.
   </flavor>
@@ -1956,9 +1956,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1968,6 +1965,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Mete una mina en el mazo de tu oponente. Cuando la roba, inflige 10 p. de daño.
   </text>
@@ -1983,15 +1983,15 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    El gigante férreo acaba de ser nombrado empleado del mes: custodia Orgrimmar sin descanso y cada vez aplasta a menos habitantes.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_056
   </id>
@@ -2008,9 +2008,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2035,6 +2032,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    No te dejes engañar por el nombre. "Gnomo" no quiere decir que no explote.
   </flavor>
@@ -2054,9 +2054,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2081,6 +2078,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Lo último en ingeniería goblin: incluye una máquina de café que te masajea los pies, ¡dos en uno!
   </flavor>
@@ -2095,9 +2095,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2122,6 +2119,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    9
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    El Animus oscuro es malvado, misterioso y enorme, y absolutamente incapaz de escribir frases gramaticalmente correctas.
   </flavor>
@@ -2139,9 +2139,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2166,6 +2163,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    La línea "Guardianes" solía construirse con adamantio, pero luego la fábrica se mudó a Gadgetzan y el cobalto era más barato.
   </flavor>
@@ -2188,9 +2188,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2215,6 +2212,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    La producción en masa de guerra-bots tuvo que pararse cuando se descubrió que los estaban fabricando a tamaño maqueta.
   </flavor>
@@ -2246,6 +2246,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Destruye a una bestia.
   </text>
@@ -2261,15 +2264,12 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    No es fácil ganarse la vida como cazador en un mundo donde las bestias reaparecen minutos después de haberlas matado.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_120
   </id>
@@ -2602,9 +2602,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2629,6 +2626,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Fue él, con un candelabro, en la biblioteca.
   </flavor>
@@ -2648,9 +2648,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2660,6 +2657,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Jomaro Kindred
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Cada jugador equipa un arma aleatoria.
   </text>
@@ -2675,15 +2675,15 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    PREPARANDO SERVOMECANISMOS DE JUERGA PARA DESPLIEGUE INMEDIATO.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_119
   </id>
@@ -2801,9 +2801,6 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2813,6 +2810,9 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <artist>
    Aleksi Briclot
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cuando robas esta carta, inflige 2 p. de daño a todos los personajes.
   </text>
@@ -2828,15 +2828,15 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    A Mimiron le gusta salir de paseo en el leviatán de llamas de vez en cuando.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_007
   </id>
@@ -3081,9 +3081,6 @@ Si es una bestia, cuesta (4) cristales menos.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3108,6 +3105,9 @@ Si es una bestia, cuesta (4) cristales menos.
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    No confundir con su hermana, la maestra de sopor, que siempre enseña lo mismo.
   </flavor>
@@ -3309,9 +3309,6 @@ Si es una bestia, cuesta (4) cristales menos.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3321,6 +3318,9 @@ Si es una bestia, cuesta (4) cristales menos.
   <artist>
    Wayne Reynolds
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Tus demás demonios tienen +2/+2.
 Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
@@ -3337,15 +3337,15 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    A Mal&amp;apos;Ganis no le gusta que lo traicionen, así que ándate con cuidado si lo descartas.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_021
   </id>
@@ -3362,9 +3362,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3374,6 +3371,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <artist>
    Oliver Chipping
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Mete a este esbirro en tu mazo.
   </text>
@@ -3389,15 +3389,15 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Cuando Malorne no está acometiendo contra hordas de demonios, se gana un sobresueldo como perchero.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_035
   </id>
@@ -3409,9 +3409,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3436,6 +3433,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡El arma definitiva contra la Fortaleza de Conquista del Invierno!
   </flavor>
@@ -3458,9 +3458,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3485,6 +3482,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Por algún extraño motivo este trasto no funciona sin una muñeca de niña Hula.
   </flavor>
@@ -3586,9 +3586,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3613,6 +3610,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    6
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Cuando no está devastando mazmorras, va a terapia por lo de su trastorno de personalidad.
   </flavor>
@@ -3635,9 +3635,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3662,6 +3659,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¿Robots que invocan robots? El nepotismo no conoce límites.
   </flavor>
@@ -3676,9 +3676,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3688,6 +3685,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que un esbirro enemigo muere, invoca a un gnomo paria.
   </text>
@@ -3703,15 +3703,15 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Le obsesionaban los explosivos hasta que descubrió el ganchillo. Ahora grita "¡JERSEYS! ¡MÁS JERSEYS!".
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_116
   </id>
@@ -3720,9 +3720,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3747,6 +3744,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Las microherramientas y el microaceite se venden por separado.
   </flavor>
@@ -3797,9 +3797,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3824,6 +3821,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Prefiere creer en lo que fue programado para creer.
   </flavor>
@@ -4020,6 +4020,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <artist>
    Michal Ivan
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Todos los esbirros tienen un 50% de probabilidad de atacar al enemigo que no es.
   </text>
@@ -4035,15 +4038,12 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    En una ocasión Mogor ayudó a abrir el Portal Oscuro... Imagina cómo estaba la situación que hubo que pedir ayuda a un ogro.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_112
   </id>
@@ -4098,9 +4098,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4125,6 +4122,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Pintarse una diana es su forma de hacer amigos.
   </flavor>
@@ -4153,6 +4153,9 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <artist>
    Ruan Jia
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Añade 4 múrlocs aleatorios a tu mano. &lt;b&gt;Sobrecarga: (3)&lt;/b&gt;
   </text>
@@ -4168,15 +4171,12 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Neptulon es "el Cazamareas". Es uno de los cuatro señores elementales. Y cuando se junta con Ragnaros se montan unas saunas de aúpa.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_042
   </id>
@@ -4193,9 +4193,6 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4221,6 +4218,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Los magos y los ingenieros gnomos nunca se pondrán de acuerdo sobre quién inventó esto.
   </flavor>
@@ -4365,9 +4365,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4392,6 +4389,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡La muerte esponjosa!
   </flavor>
@@ -4499,9 +4499,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4523,6 +4520,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Pisacharcos, hijo de Pisaciénagas, hijo de Pisapantanos, hijo de Pisa... Bueno ya os hacéis una idea.
   </flavor>
@@ -4562,9 +4562,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4590,6 +4587,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    El inventor del Plastatrón fue expulsado de la escuela Manitas, luego de Ciudad Manitas y, finalmente, de los Reinos del Este.
   </flavor>
@@ -4638,9 +4638,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4656,6 +4653,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5024,9 +5024,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5051,6 +5048,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Nunca duerme. Ni siquiera en la jungla, la negra jungla.
   </flavor>
@@ -5073,9 +5073,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5101,6 +5098,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡Pídelo ahora y te regalamos el "Robo-hace-lo-que-puede"!
   </flavor>
@@ -5117,9 +5117,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
     Deathrattle
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5138,6 +5135,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -5154,9 +5154,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5181,6 +5178,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Esta es la nueva generación: funciona igual que la última, pero las tuercas se venden aparte.
   </flavor>
@@ -5203,9 +5203,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5230,6 +5227,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Sospecha que su enemigo jurado, el deshollinador, planea un gran golpe. Lo ha visto reunirse con una niñera y un par de críos en el tejado.
   </flavor>
@@ -5292,9 +5292,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5319,6 +5316,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    No lo dejes fuera cuando llueva. En el Cráter de Un&amp;apos;Goro hay toda una colonia de saltadores Dienteherrumbre.
   </flavor>
@@ -5341,9 +5341,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5368,6 +5365,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ¡Ya no los hacen como antes! Y menos mal, porque antes explotaban.
   </flavor>
@@ -5444,9 +5444,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5471,6 +5468,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Los robots aprecian sus enseñanzas porque les habla en un idioma que conocen. 01100001 01101100 00100000 01110100 01110101 01110010 01110010 011000011 010110011 01101110
   </flavor>
@@ -5488,9 +5488,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5500,6 +5497,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    James Ryman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    También daña a los esbirros adyacentes a su objetivo.
   </text>
@@ -5515,15 +5515,15 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Segar cosechas, segar enemigos: al final viene a ser lo mismo.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_113
   </id>
@@ -5627,9 +5627,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5651,6 +5648,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    "¿Y si le ponemos un par de cañones?". - Pintachispas, mirando fijamente a la máquina de transporte araña.
   </flavor>
@@ -5670,9 +5670,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5697,6 +5694,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    7
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Había una fábrica de tanques en Tanaris, pero cerró cuando descubrieron que ahorraban en gastos prescindiendo de frenos.
   </flavor>
@@ -5788,6 +5788,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    Zoltan &amp; Gabor
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla y Último aliento:&lt;/b&gt; Añade una &lt;b&gt;Pieza de repuesto&lt;/b&gt; a tu mano.
   </text>
@@ -5803,15 +5806,12 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    No sé qué de convertidores de energía.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_115
   </id>
@@ -5820,9 +5820,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5847,6 +5844,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Si no son Totemachines, no son los auténticos.
   </flavor>
@@ -5869,9 +5869,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5896,6 +5893,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Imita el sonido que hace cuando pase cerca: "Chucu, chucu, chucu, chucu".
   </flavor>
@@ -5913,9 +5913,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5940,6 +5937,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "Ándate con ojo" es un dicho pirata. Por eso va en singular.
   </flavor>
@@ -5962,9 +5962,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5989,6 +5986,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Si se rompe, intenta controlarlo, alternarlo y suprimirlo al mismo tiempo.
   </flavor>
@@ -6011,9 +6011,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6023,6 +6020,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    Christopher Moeller
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Último aliento:&lt;/b&gt; Invoca a un esbirro legendario aleatorio.
   </text>
@@ -6038,15 +6038,15 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Cuando Sneed fue derrotado en las Minas de la Muerte, subastaron su trituradora y se la vendieron a un comprador anónimo (seguramente, Hogger).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_114
   </id>
@@ -6060,9 +6060,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6087,6 +6084,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Hubo un tiempo en que solo los goblins pilotaban trituradoras. Ahora lo hace cualquiera, hasta el eremita Cho lleva una.
   </flavor>
@@ -6186,6 +6186,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    Mike Sass
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Cada vez que tu oponente lanza un hechizo, invoca a un trogg Comepiedras.
   </text>
@@ -6201,15 +6204,12 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Donde pone el ojo, pone el trogg.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_118
   </id>
@@ -6220,9 +6220,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
     Charge
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6232,6 +6229,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    Chris Seaman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Cargar&lt;/b&gt;
 &lt;b&gt;Megaviento Furioso&lt;/b&gt; &lt;i&gt;(puede atacar cuatro veces por turno)&lt;/i&gt;
@@ -6248,12 +6248,12 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    GVG_111t
   </id>
@@ -6262,9 +6262,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6286,6 +6283,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    4
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Ya se ha recuperado por completo del escorbuto.
   </flavor>
@@ -6300,9 +6300,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6327,6 +6324,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Iba a ser el vigía maligno del fin de los tiempos, pero a marketing le pareció un pelín agresivo el nombre.
   </flavor>
@@ -6358,6 +6358,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grito de batalla:&lt;/b&gt; Intercambia su salud con la de otro esbirro.
   </text>
@@ -6373,15 +6376,12 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Vol&amp;apos;jin es un cazador de las Sombras. Es como un sacerdote de las Sombras, pero con más vudú.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_014
   </id>
@@ -6398,9 +6398,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6425,6 +6422,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Yeti mecánico: porque la madre naturaleza puede cometer errores.
   </flavor>
@@ -6439,9 +6439,6 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6463,6 +6460,9 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    El tatuaje de su trasero reza: "Si lo encuentras, llévalo de vuelta a Mulgore".
   </flavor>

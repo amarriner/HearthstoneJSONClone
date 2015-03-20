@@ -203,6 +203,9 @@
   <durability>
    0
   </durability>
+  <elite>
+   False
+  </elite>
   <text>
    Get the AI ready for testing.
   </text>
@@ -218,9 +221,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   False
-  </elite>
   <id>
    XXX_099
   </id>
@@ -1174,18 +1174,18 @@
   </id>
  </item>
  <item>
-  <type>
-   Spell
-  </type>
-  <rarity>
-   Common
-  </rarity>
   <set>
    Debug
   </set>
+  <type>
+   Spell
+  </type>
   <id>
    XXX_028
   </id>
+  <rarity>
+   Common
+  </rarity>
   <name>
    Reveal Hand
   </name>

@@ -80,9 +80,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -110,6 +107,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    호랑이에 대한 멋진 사실은 호랑이가 멋지다는 사실입니다!
   </flavor>
@@ -584,15 +584,15 @@
   <name>
    검투사의 장궁
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   내 영웅이 공격할 때 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   내 영웅이 공격할 때 &lt;b&gt;피해 면역&lt;/b&gt; 상태가 됩니다.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1020,9 +1020,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1047,6 +1044,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "야아아르"는 해적 말로 "안녕하십니까"라는 뜻입니다.
   </flavor>
@@ -1066,9 +1066,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1093,6 +1090,9 @@
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    이 카드를 덱에 넣으면 다른 하수인들의 신뢰를 잃습니다.
   </flavor>
@@ -1280,9 +1280,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1310,6 +1307,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -1351,9 +1351,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1363,6 +1360,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 상대편에게 3/3 핑클 아인혼을 소환해 줍니다.
   </text>
@@ -1381,15 +1381,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    검은바위 산에 살고, 노움을 먹습니다. 더 할 말이 없네요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -1446,9 +1446,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1458,6 +1455,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 영웅을 군주 자락서스로 교체합니다.
   </text>
@@ -1473,15 +1473,15 @@
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    "벼에서 쌀을!!!!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -1490,9 +1490,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1514,6 +1511,9 @@
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -1533,9 +1533,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1560,6 +1557,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    멀록은 저녁 거리입니다.
   </flavor>
@@ -1634,6 +1634,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;돌진&lt;/b&gt;
 &lt;b&gt;격노:&lt;/b&gt; 공격력 +6
@@ -1653,15 +1656,12 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    그롬마쉬는 만노로스의 오염된 피를 마시고, 오크들에게 영원히 사라지지 않는 초록색 피부와 붉은 눈을 남겼습니다! 썩 좋은 생각은 아니었던 것 같네요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -1682,6 +1682,9 @@
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    각 플레이어의 턴이 끝날 때마다 +1/+1을 얻습니다.
   </text>
@@ -1697,17 +1700,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    그룰은 "용학살자"입니다만, 사실 용들을 꼭 안아주고 싶었을 뿐입니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -2006,9 +2006,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2033,6 +2030,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    이 코도가 미쳐 날뛰고 있습니다!
   </flavor>
@@ -2056,6 +2056,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내 턴이 끝날 때, 다른 &lt;b&gt;모든&lt;/b&gt; 캐릭터에게 피해를 2 줍니다.
   </text>
@@ -2074,15 +2077,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    한때 라그나로스의 충직한 부관이었지만, 지금은 실직자입니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -2091,9 +2091,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2121,6 +2118,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    요즘 해적들 사이에서 "시체 놀이"가 유행이랍니다. 누가 시체냐고요? 글쎄요.
   </flavor>
@@ -2140,9 +2140,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2167,6 +2164,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    그의 꿈은 해적 왕... 아니 어마어마하게 큰 해적 모자를 사는 겁니다. 좀 모자에 많이 집착하는 친구거든요.
   </flavor>
@@ -2352,6 +2352,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내 턴이 시작될 때, 50%의 확률로 추가 카드를 1장 뽑습니다.
   </text>
@@ -2370,17 +2373,14 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    아제로스 최고의 낚시꾼, 내트 페이글입니다! 그는 강태공 도우미 3000, 낚싯대 연장기 3000, 그리고 물고기 떼 생성기 2099(아직 시험 중)를 발명했습니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -2564,9 +2564,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -2591,6 +2588,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    삐뽀. 삐뽀. 삐뽀.
   </flavor>
@@ -2605,9 +2605,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -2617,6 +2614,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    플레이어들의 턴 제한 시간이 15초로 감소합니다.
   </text>
@@ -2635,17 +2635,17 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    여기 뭔가 써야 하는데 시간이 모자라네요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -2947,9 +2947,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2971,6 +2968,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3116,6 +3116,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내가 주문을 시전할 때마다 &amp;apos;화염구&amp;apos; 카드 1장을 손으로 가져옵니다.
   </text>
@@ -3134,17 +3137,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    안토니다스는 키린 토의 대학자이자 제이나의 스승이었습니다. 젤리 도넛의 대학자였던 그로선 장족의 발전이라 할 수 있죠.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -3308,9 +3308,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3332,6 +3329,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3348,9 +3348,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3360,6 +3357,9 @@
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 전장의 다른 모든 하수인을 처치하고 내 손의 카드를 모두 버립니다.
   </text>
@@ -3375,15 +3375,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    한때 고귀한 용족 넬타리온이었던 데스윙은 이성을 잃고 아제로스를 산산조각 냈습니다. 사춘기였나봐요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -3522,15 +3522,15 @@
   <name>
    둠해머
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;질풍, 과부하:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;질풍, 과부하:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -3607,6 +3607,9 @@
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    내 턴이 끝날 때, &lt;b&gt;도발&lt;/b&gt; 능력이 있는 2/2 놀을 1마리 소환합니다.
   </text>
@@ -3622,15 +3625,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    들창코는 정말 강력합니다. 만약 처치했다면, 그가 &lt;i&gt;봐줬기&lt;/i&gt; 때문입니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -3719,6 +3719,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;돌진&lt;/b&gt;. &lt;b&gt;전투의 함성:&lt;/b&gt; 상대편에게 1/1 새끼용을 둘 소환해 줍니다.
   </text>
@@ -3737,15 +3740,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    "때가 왔다! 가자! 리로이이이이이이이이 젠킨스으으으으으으!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -3886,9 +3886,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -3916,6 +3913,9 @@
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    주술사들의 여름철 필수품입니다.
   </flavor>
@@ -4113,9 +4113,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4125,6 +4122,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;주문 공격력 +5&lt;/b&gt;
   </text>
@@ -4143,15 +4143,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    말리고스는 필멸자들이 마법 쓰는 걸 싫어합니다. 그럼 제이나는?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -4278,9 +4278,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -4308,6 +4305,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    멀록들은 매일 똑같은 소리만 내는 게 지겹지 않을까요? 아니요! 므라아옳옳옳옳옳옳!
   </flavor>
@@ -4322,9 +4322,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -4352,6 +4349,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    함께 있으면, 우린 아무 것도 두려울 게 없었다!
   </flavor>
@@ -4540,9 +4540,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4570,6 +4567,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    그들의 날갯짓은 조용하지만 울음소리는... 일단 조용함과는 거리가 멉니다.
   </flavor>
@@ -4785,9 +4785,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4815,6 +4812,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    가시덤불 골짜기는 아름답습니다. 등 뒤에 항상 누군가 있다는 걸 빼면요.
   </flavor>
@@ -4834,9 +4834,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4846,6 +4843,9 @@
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 상대편에게 바나나 2개를 줍니다.
   </text>
@@ -4861,15 +4861,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    밀림의 왕 무클라는 오늘도 자구에로 섬을 떠돕니다. 진정한 사랑을 찾기 위해...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -4892,6 +4892,9 @@
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 다음 턴에 적이 쓰는 주문의 비용이 (0)이 됩니다.
   </text>
@@ -4907,15 +4910,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    "위대한 밀하우스 마나스톰 님을 비웃고도 살아남을 수 있는 자는 없다!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -5045,6 +5045,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;질풍, 돌진, 도발, 천상의 보호막&lt;/b&gt;
   </text>
@@ -5060,15 +5063,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    정령 군주 넷 중에 가장 약합니다. 그리고 나머지 셋이 그 사실을 확실하게 각인시키죠.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -5083,9 +5083,9 @@
   <name>
    바인 블러드후프
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -5098,9 +5098,9 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -5202,9 +5202,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5226,6 +5223,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5242,9 +5242,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5266,6 +5263,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5470,9 +5470,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5494,6 +5491,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5875,6 +5875,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위 적에게 피해를 8 줍니다.
   </text>
@@ -5893,15 +5896,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    라그나로스를 소환한 것은 검은무쇠 드워프였지만, 이들은 결국 불의 군주를 섬기는 노예가 되고 말았습니다. 이렇게 라그나로스를 소환하는 일은 원치 않는 결과를 불러오는 일이 많습니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -5961,9 +5961,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -5988,6 +5985,9 @@
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "해적 수칙"에 따르면, 해적들은 자동 금화 인출기의 비밀번호로 모두 똑같은 네 자리 숫자를 사용해야 합니다.
   </flavor>
@@ -6007,9 +6007,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -6034,6 +6031,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "난 &amp;apos;요&amp;apos;가 포함된 요일에만 약탈을 하지."
   </flavor>
@@ -6482,9 +6482,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6503,6 +6500,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6522,9 +6522,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6549,6 +6546,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -6653,9 +6653,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6671,6 +6668,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -6679,9 +6679,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6700,6 +6697,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -6777,9 +6777,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -6789,6 +6786,9 @@
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 무기에 +1/+1을 부여합니다.
   </text>
@@ -6804,15 +6804,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    그 말썽장이 아이들만 아니었다면, 거대한 전함을 끌고 스톰윈드 항구로 쳐들어갈 뻔했습니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -6977,6 +6977,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;선택&lt;/b&gt; - 내 다른 하수인들에게 +2/+2를 부여합니다. 또는 &lt;b&gt;도발&lt;/b&gt; 능력이 있는 2/2 나무정령을 둘 소환합니다.
   </text>
@@ -6995,17 +6998,14 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    반신반의하시나요? 네, 이 친구 반신반인 맞습니다. 그래서인지 반신욕을 싫어한다더군요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -7109,9 +7109,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -7133,6 +7130,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -7204,6 +7204,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 다른 무작위 하수인 하나를 5/5 데빌사우루스 또는 1/1 다람쥐로 변신시킵니다.
   </text>
@@ -7222,15 +7225,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    데빌사우루스 대신 리치 왕으로 변신시킬 가능성이 조오오오오금 있습니다. 아주 조오오오오오금.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -7444,9 +7444,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -7474,6 +7471,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    시린빛 멀록들은 심연의 나락 가장 깊은 곳에 삽니다. 즉, 이들을 봤다는 것은 도망칠 곳도 없다는 뜻이죠.
   </flavor>
@@ -7493,9 +7493,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -7523,6 +7520,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    이들은 미래를 볼 수 있습니다. 미래에는 두 플레이어 모두 카드를 더 뽑게 될 거라는군요. 신통하네요.
   </flavor>
@@ -7717,6 +7717,9 @@
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 적 하수인 하나를 우리편으로 만듭니다.
   </text>
@@ -7732,15 +7735,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    실바나스는 "아서스에 의해" 밴시 여왕으로 되살아났으나, 그냥 놔두는 게 나았을지도 모릅니다. 그 사실이 실바나스를 열 받게 했으니까요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -7847,9 +7847,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7871,6 +7868,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -8331,9 +8331,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8343,6 +8340,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 선택한 영웅의 남은 생명력을 15로 만듭니다.
   </text>
@@ -8361,15 +8361,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    생명의 어머니 알렉스트라자는 모두에게 삶과 희망을 줍니다. 데스윙만 빼고요. 아, 말리고스, 네크로스도 빼고요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -8779,9 +8779,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8809,6 +8806,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    벌처럼 날아 나비처럼 쏩니다.
   </flavor>
@@ -9037,6 +9037,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;연계:&lt;/b&gt; 이번 턴에 앞서 낸 카드 1장당 +2/+2를 얻습니다.
   </text>
@@ -9055,15 +9058,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    그는 스톰윈드를 재건하는 석공 길드를 이끌었는데, 귀족들이 돈을 지불하지 않자 데피아즈단을 결성해 &lt;i&gt;오히려&lt;/i&gt; 스톰윈드를 마구 부쉈답니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -9072,9 +9072,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9090,6 +9087,9 @@
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -9113,6 +9113,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    내 턴이 끝날 때 내 영웅에게 &lt;b&gt;비밀&lt;/b&gt;이 걸려 있으면 +2/+2를 얻습니다.
   </text>
@@ -9128,15 +9131,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    에테리얼은 형체 없는 몸의 라인을 살리기 위해 붕대로 자신을 감쌉니다. 사실 붕대가 좀 따뜻하고 부드럽기도 하고요.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -9324,6 +9324,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내 주문과 영웅 능력의 피해량과 치유량을 2배 증가시킵니다.
   </text>
@@ -9342,15 +9345,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    고향에서 추방당했고, 형제들은 사악하게 변했지만, 불만이 있는 것 같진 않네요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -9367,9 +9367,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9379,6 +9376,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 하수인을 소환할 공간이 다 찰 때까지 1/1 새끼용을 소환합니다.
   </text>
@@ -9397,15 +9397,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    오닉시아는 여군주 카트라나 프레스톨로 변신한 채 오랫동안 스톰윈드 의회를 조종했습니다. 저 커다란 날개와 비늘을 보면 누구라도 알아챘을 거라고 생각하시겠죠?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -9465,9 +9465,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9477,6 +9474,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;돌진&lt;/b&gt;
   </text>
@@ -9495,15 +9495,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    왕 크루쉬에게서 자신을 보호하는 가장 좋은 방법은 싫어하는 누군가를 앞에 세워놓는 것입니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -9515,9 +9515,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9542,6 +9539,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    깜찍합니다. 마법에 면역입니다. 바닥에 쉬를 하지도 않습니다. 정말 완벽한 애완동물 아닌가요?
   </flavor>
@@ -10213,9 +10213,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -10225,6 +10222,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내 턴이 끝날 때,
 &lt;b&gt;꿈 카드&lt;/b&gt;를 1장 뽑습니다.
@@ -10244,15 +10244,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    이세라는 에메랄드의 꿈을 지배합니다. 에메랄드의 꿈이 어떻냐고요? 실제 세상의 녹색 버전이랄까요?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>
@@ -10261,9 +10261,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -10273,6 +10270,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    내가 카드를 낼 때마다 2/1 아지노스의 불꽃을 하나 소환합니다.
   </text>
@@ -10291,23 +10291,20 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    일리단의 형, 말퓨리온은 일리단을 하이잘 지하에 10,000년 동안이나 가둬두었습니다. 스톰레이지 형제들, 참 뒤끝 작렬이네요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -10329,6 +10326,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -10800,15 +10800,15 @@
   <name>
    전멸의 비수
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 피해를 1 줍니다. &lt;b&gt;연계:&lt;/b&gt; 피해를 2 줍니다.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 피해를 1 줍니다. &lt;b&gt;연계:&lt;/b&gt; 피해를 2 줍니다.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -10847,6 +10847,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 넣습니다.
   </text>
@@ -10865,17 +10868,14 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    전승지기 초는 판다리아의 이야기들을 수집하고 기록합니다. 최근에는 판다리아의 야한 연애 소설을 모으는 중이라는군요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -11314,15 +11314,15 @@
   <name>
    정의의 칼날
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   전장에 내 하수인이 소환될 때마다 그 하수인에게 +1/+1을 부여하고 내구도를 1 잃습니다.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   전장에 내 하수인이 소환될 때마다 그 하수인에게 +1/+1을 부여하고 내구도를 1 잃습니다.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -11627,9 +11627,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11651,6 +11648,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -11673,9 +11673,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11704,6 +11701,9 @@
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    &lt;i&gt;"묻겠다. 그대가 나의 마스터인가?"&lt;/i&gt;
   </flavor>
@@ -11726,9 +11726,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11756,6 +11753,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    만노로스, 마그테리돈, 브루탈루스 모두 죽었지만, 이것으로 지옥의 군주가 엄청 많다는 사실이 밝혀졌습니다.
   </flavor>
@@ -12161,9 +12161,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12188,6 +12185,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -12446,6 +12446,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 4/5 바인 블러드후프를 소환합니다.
   </text>
@@ -12464,15 +12467,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    케른은 가로쉬에 의해 목숨을 잃었습니다. 그러니까... 전사 덱에는 넣지 말아주세요. 가혹하잖아요.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -12781,6 +12781,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;천상의 보호막&lt;/b&gt;. &lt;b&gt;도발&lt;/b&gt;. &lt;b&gt;죽음의 메아리:&lt;/b&gt; 5/3 파멸의 인도자를 장착합니다.
   </text>
@@ -12799,15 +12802,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    혹시 티리온 폴드링 테마 송 들어 보셨나요? 못 들어보셨다고요? 네, 그딴 건 없습니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -12819,9 +12819,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -12849,6 +12846,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -12873,9 +12873,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12903,6 +12900,9 @@
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    파멸의 수호병을 소환하는 건 위험한 일입니다. &lt;i&gt;누군가&lt;/i&gt;는 반드시 죽어야 하니까요.
   </flavor>
@@ -13169,15 +13169,15 @@
   <name>
    폭풍으로 벼려낸 도끼
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;과부하:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;과부하:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -13247,9 +13247,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13268,6 +13265,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -13403,15 +13403,15 @@
   <name>
    피의 울음소리
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   이 무기는 하수인을 공격할 때 내구도 대신 공격력이 1 감소합니다.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   이 무기는 하수인을 공격할 때 내구도 대신 공격력이 1 감소합니다.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -13446,9 +13446,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13476,6 +13473,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -13539,9 +13539,9 @@
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -13554,9 +13554,9 @@
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -13573,9 +13573,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13603,6 +13600,9 @@
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    처음엔 녹황색 비룡이나 군청색 비룡을 생각했습니다만, 너무 촌스러운 느낌이라 바꿨습니다.
   </flavor>
@@ -13614,9 +13614,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13638,6 +13635,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -13666,6 +13666,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; 상대편의 무기를 파괴하고 그 무기의 내구도만큼 카드를 뽑습니다.
   </text>
@@ -13684,15 +13687,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    "저건 탐험가의 전당에 있어야만 해!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -13738,9 +13738,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -13768,6 +13765,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    "내부 온도 과열됨. 정상 작동 불가. 2번 배출구에 보리 걸림. 가동 중단."
   </flavor>
@@ -13845,6 +13845,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;주문 공격력 +1&lt;/b&gt;. &lt;b&gt;죽음의 메아리:&lt;/b&gt; 카드를 1장 뽑습니다.
   </text>
@@ -13863,15 +13866,12 @@
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    전설 카드 치고는 좀 초라하죠? 네, 당신만 그렇게 느낀 게 아닙니다.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -13885,9 +13885,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13912,6 +13909,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    완전히 격노한 닭보다 무시무시한(또는 황당한) 야수는 없습니다.
   </flavor>
@@ -13931,9 +13931,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13961,6 +13958,9 @@
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    임프들은 불타는 걸 좋아합니다. 그냥 좋아합니다.
   </flavor>
@@ -13983,9 +13983,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -14013,6 +14010,9 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -14034,9 +14034,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -14064,6 +14061,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    황혼의 비룡은 신비한 에너지를 먹고 삽니다. 가끔 타코도 먹지만요.
   </flavor>
@@ -14155,6 +14155,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;전투의 함성:&lt;/b&gt; &lt;b&gt;도발&lt;/b&gt; 능력이 있는 적 하수인을 하나 처치합니다.
   </text>
@@ -14170,15 +14173,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    은빛십자군 마상시합을 방해하라고 리치 왕이 보낸 심복이지만, 우린 모두 그를 아이템 셔틀로 기억하고 있죠.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>

@@ -114,6 +114,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Furia wichru. Szarża. Boska tarcza. Prowokacja.&lt;/b&gt;
   </text>
@@ -129,15 +132,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    To najsłabszy z czterech Władców Żywiołów. A pozostali trzej często mu o tym przypominają.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -149,9 +149,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -176,6 +173,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    UWAGA. UWAGA. UWAGA.
   </flavor>
@@ -195,9 +195,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -207,6 +204,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Ustaw pozostałe zdrowie bohatera na 15.
   </text>
@@ -225,15 +225,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alexstraza daje każdemu życie, nadzieję i natchnienie. Za wyjątkiem Śmiercioskrzydłego. I Malygosa. No i Nekrosa.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -309,6 +309,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy rzucasz zaklęcie, umieść w ręce zaklęcie „Kula ognia”.
   </text>
@@ -327,17 +330,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Antonidas to najlepsze potwierdzenie obiegowej opinii, że potęgę czarodzieja mierzy się długością jego brody.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -369,9 +369,9 @@
   <name>
    Bain Krwawe Kopyto
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -384,9 +384,9 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -470,6 +470,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Na koniec twojej tury zadaj 2 pkt. obrażeń WSZYSTKIM innym postaciom.
   </text>
@@ -488,15 +491,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Baron Geddon był pierwszym przybocznym Ragnarosa, ale stosunki między nimi się ZAOGNIŁY.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -505,9 +505,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -532,6 +529,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Rozkoszny. Niewrażliwy na magię. Nie sika na dywan. Idealny domowy zwierzak.
   </flavor>
@@ -597,9 +597,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -609,6 +606,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przyzwij Finkosza Rogoźnika 3/3 twojemu przeciwnikowi.
   </text>
@@ -627,15 +627,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Żyje w Górach Czarnoskałych. Je gnomy. To by było na tyle.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -1047,15 +1047,15 @@
   <name>
    Burzowierny Topór
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Przeciążenie:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Przeciążenie:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -1085,9 +1085,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -1115,6 +1112,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -1140,6 +1140,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Wybierz jedno:&lt;/b&gt; Daj wszystkim swoim pozostałym stronnikom +2/+2; lub przyzwij dwa Drzewce 2/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </text>
@@ -1158,17 +1161,14 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Tak, to półbóg. Nie, nie musi nosić koszuli.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -1185,9 +1185,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1215,6 +1212,9 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -1228,9 +1228,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1252,6 +1249,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -1268,9 +1268,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1298,6 +1295,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -1549,6 +1549,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz wrogiego stronnika posiadającego &lt;b&gt;Prowokację&lt;/b&gt;.
   </text>
@@ -1564,15 +1567,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Pilnowanie mostu to JEGO obowiązek. Będzie o to walczył do ostatniej kończyny i jeszcze dalej!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -1849,9 +1849,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1873,6 +1870,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1890,15 +1890,15 @@
   <name>
    Długi Łuk Gladiatora
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt; podczas ataku.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt; podczas ataku.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1982,9 +1982,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -2012,6 +2009,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Mrglglrglglglglglglgl - jak cudownie to brzmi!
   </flavor>
@@ -2028,9 +2028,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2052,6 +2049,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2112,9 +2112,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2136,6 +2133,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2705,6 +2705,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kombinacja:&lt;/b&gt; Otrzymuje +2/+2 za każdą kartę zagraną wcześniej w tej turze.
   </text>
@@ -2723,15 +2726,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Dowodził murarzami, którzy zrekonstruowali Wichrogród, a kiedy szlachta odmówiła zapłaty, założył bractwo Nieskornych, żeby &lt;i&gt;zdekonstruować&lt;/i&gt; Wichrogród.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -2810,6 +2810,9 @@ Magiczna siła, boję się...”
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    Otrzymuje +2/+2, jeśli pod koniec twojej tury kontrolujesz &lt;b&gt;Sekret&lt;/b&gt;.
   </text>
@@ -2825,15 +2828,12 @@ Magiczna siła, boję się...”
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Eteryczni owijają się materiałem, aby nadać kształt swoim bezcielesnym postaciom. No i lubią, jak im miękko i cieplutko.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -2851,9 +2851,9 @@ Magiczna siła, boję się...”
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -2866,9 +2866,9 @@ Magiczna siła, boję się...”
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -2995,9 +2995,6 @@ Magiczna siła, boję się...”
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3022,6 +3019,9 @@ Magiczna siła, boję się...”
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Murlok doda ci skrzy... znaczy siły, siły doda.
   </flavor>
@@ -3216,9 +3216,6 @@ Magiczna siła, boję się...”
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3246,6 +3243,9 @@ Magiczna siła, boję się...”
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    „Przekroczono próg przegrzania. Awaria systemu. Kłąb owsa w porcie drugim. Wyłączanie”.
   </flavor>
@@ -3306,9 +3306,6 @@ Magiczna siła, boję się...”
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -3333,6 +3330,9 @@ Magiczna siła, boję się...”
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Jej ulubiona broń to grabie.
   </flavor>
@@ -3364,6 +3364,9 @@ Magiczna siła, boję się...”
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Szarża&lt;/b&gt;
 &lt;b&gt;Szał:&lt;/b&gt; +6 do ataku.
@@ -3383,15 +3386,12 @@ Magiczna siła, boję się...”
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Grommasz wypił splugawioną krew Mannorota, skazując orków na zieloną skórę i czerwone oczy. To chyba nie była najlepsza decyzja.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -3458,6 +3458,9 @@ Magiczna siła, boję się...”
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Na koniec każdej tury otrzymuje +1/+1.
   </text>
@@ -3473,17 +3476,14 @@ Magiczna siła, boję się...”
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Gruul bardzo lubi smoki. Niestety, jego pełne serdeczności uściski zyskały mu przydomek „Smokobójca”.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -3549,6 +3549,9 @@ Magiczna siła, boję się...”
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz broń przeciwnika i dobierz tyle kart, ile wynosiła jej wytrzymałość.
   </text>
@@ -3567,15 +3570,12 @@ Magiczna siła, boję się...”
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    „Jestem poszukiwaczem zaginionej parki!”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -3652,9 +3652,6 @@ Magiczna siła, boję się...”
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3676,6 +3673,9 @@ Magiczna siła, boję się...”
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3714,9 +3714,6 @@ Zadaj 2 pkt. obrażeń.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3726,6 +3723,9 @@ Zadaj 2 pkt. obrażeń.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy zagrasz kartę, przyzwij Płomień Azzinotha 2/1.
   </text>
@@ -3744,23 +3744,20 @@ Zadaj 2 pkt. obrażeń.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Brat Illidana, Malfurion, uwięził go pod górą Hyjal na 10 000 lat. Burzogniewni niełatwo zapominają urazy.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3782,6 +3779,9 @@ Zadaj 2 pkt. obrażeń.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -3928,6 +3928,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przyzwij Baina Krwawe Kopyto 4/5.
   </text>
@@ -3946,15 +3949,12 @@ Przyzwij Infernala 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Kairn został zabity przez Garosza, więc... lepiej nie wkładaj go do talii wojownika. Świadczyłoby to o braku wrażliwości.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -3985,9 +3985,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4012,6 +4009,9 @@ Przyzwij Infernala 6/6.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Kiedy zbierze dość łupów, zamówi sobie olbrzymi kapitański kapelusz. Ma kompleks kapelusznika.
   </flavor>
@@ -4031,9 +4031,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4043,6 +4040,9 @@ Przyzwij Infernala 6/6.
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj twojej broni +1/+1.
   </text>
@@ -4058,15 +4058,15 @@ Przyzwij Infernala 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Przykład wspaniałego awansu społecznego wśród goblinów.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -4304,9 +4304,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4331,6 +4328,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Każdy pirat słyszał o skarbie zwącym się „Wielki Łup”, który podobno otwiera drzwi do innego świata.
   </flavor>
@@ -4547,9 +4547,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4559,6 +4556,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Szarża&lt;/b&gt;
   </text>
@@ -4577,15 +4577,15 @@ Przyzwij Infernala 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Najlepsza obrona przed Królem Kruszorem to podsunięcie mu kogoś, kogo nie lubisz.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -4602,9 +4602,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4614,6 +4611,9 @@ Przyzwij Infernala 6/6.
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przeciwnikowi 2 banany.
   </text>
@@ -4629,15 +4629,15 @@ Przyzwij Infernala 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Ulubiona potrawa Króla Mukli to oczywiście banany. I bułka!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -4878,9 +4878,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -4908,6 +4905,9 @@ Przyzwij Infernala 6/6.
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    W przyszłości ma plany osiąść na jakimś wybrzeżu. Też najlepiej lazurowym.
   </flavor>
@@ -4939,6 +4939,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Szarża&lt;/b&gt;. &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij dwa Pisklęta 1/1 twojemu przeciwnikowi.
   </text>
@@ -4957,15 +4960,12 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Przynajmniej został mu wściekły kurczak.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -5002,9 +5002,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5029,6 +5026,9 @@ Przyzwij Infernala 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -5280,9 +5280,6 @@ Przyzwij Infernala 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5304,6 +5301,9 @@ Przyzwij Infernala 6/6.
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -5323,9 +5323,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5335,6 +5332,9 @@ Przyzwij Infernala 6/6.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz twojego bohatera i zastąp go Lordem Jaraxxusem.
   </text>
@@ -5350,15 +5350,15 @@ Przyzwij Infernala 6/6.
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    „ŻAŁOSNY GNOMIE! TWOJA AROGANCJA DOPROWADZI CIĘ DO ZGUBY!!!!”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -5375,9 +5375,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5405,6 +5402,9 @@ Przyzwij Infernala 6/6.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mannoroth, Magtheridon oraz Brutallus już nie żyją, ale jak się okazało, lordów otchłani jest CAŁA MASA.
   </flavor>
@@ -5525,6 +5525,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Obrażenia zaklęć +1&lt;/b&gt;. &lt;b&gt;Agonia:&lt;/b&gt; Dobierz kartę.
   </text>
@@ -5543,15 +5546,12 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Kieruje coroczną zbiórką krwi w Szkarłatnym Klasztorze.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -5609,9 +5609,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -5639,6 +5636,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Tak naprawdę nie nosi majtek. Tylko portki.
   </flavor>
@@ -5658,9 +5658,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -5670,6 +5667,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Obrażenia zaklęć +5&lt;/b&gt;
   </text>
@@ -5688,15 +5688,15 @@ Przyzwij Infernala 6/6.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Malygos nie znosi, kiedy ludzie używają magii. Normalnie szaleje z wściekłości!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -5802,6 +5802,9 @@ Przyzwij Infernala 6/6.
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; W następnej turze zaklęcia przeciwnika kosztują (0).
   </text>
@@ -5817,15 +5820,12 @@ Przyzwij Infernala 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ulubiony żart magów: jaka jest największa odległość na całym Azeroth? Między wzrostem Mełka a rozmiarem jego ego!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -5840,15 +5840,15 @@ Przyzwij Infernala 6/6.
   <name>
    Miecz Sprawiedliwości
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Gdy przyzywasz stronnika, otrzymuje on +1/+1, zaś miecz traci 1 pkt. wytrzymałości.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Gdy przyzywasz stronnika, otrzymuje on +1/+1, zaś miecz traci 1 pkt. wytrzymałości.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -6204,6 +6204,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przemień innego losowego stronnika w diabłozaura 5/5 lub wiewiórkę 1/1.
   </text>
@@ -6222,15 +6225,12 @@ Przyzwij Infernala 6/6.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Nadiskrownik Opiłek niemal stracił swoją licencję iskrownika po Wielkiej Inwazji Wiewiórek na Żelazną Kuźnię w roku 9.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -6523,6 +6523,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Na początku twojej tury masz 50% szans na dobranie dodatkowej karty.
   </text>
@@ -6541,17 +6544,14 @@ Przyzwij Infernala 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Nat Pagle, najlepszy wędkarz w Azeroth! Wynalazł Wędko-Łapa 3000, Żyłko-Ciąga 3000 oraz Nęci-Haka 2099 (wciąż testowany).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -6734,9 +6734,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6746,6 +6743,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Gracze mają tylko 15 sekund na wykonanie swojej tury.
   </text>
@@ -6764,17 +6764,17 @@ Przyzwij Infernala 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    15 sekund to za mało, żeby napisać coś zabawnego!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -6946,9 +6946,6 @@ Przyzwij Infernala 6/6.
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6967,6 +6964,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -7171,9 +7171,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -7183,6 +7180,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij Pisklęta 1/1, aż zapełnią twoje pole bitwy.
   </text>
@@ -7201,15 +7201,15 @@ Przyzwij Infernala 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Onyxia przez długi czas przebywała na Dworze Wichrogrodu pod przebraniem Lady Katrany Prestor. A wydawałoby się, że zdradzą ją wielkie skrzydła i łuski.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -7351,15 +7351,15 @@ Przyzwij Infernala 6/6.
   <name>
    Ostrze Zatracenia
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 1 pkt. obrażeń. &lt;b&gt;Kombinacja:&lt;/b&gt; Zamiast tego zadaj 2 pkt. obrażeń.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 1 pkt. obrażeń. &lt;b&gt;Kombinacja:&lt;/b&gt; Zamiast tego zadaj 2 pkt. obrażeń.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -7389,9 +7389,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7416,6 +7413,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -7452,9 +7452,6 @@ Przyzwij Infernala 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7473,6 +7470,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -7492,9 +7492,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7519,6 +7516,9 @@ Przyzwij Infernala 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Ten kodo jest tak cwany, że nawet potrafi kodować!
   </flavor>
@@ -7622,9 +7622,6 @@ Przyzwij Infernala 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -7643,6 +7640,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -7651,9 +7651,6 @@ Przyzwij Infernala 6/6.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -7669,6 +7666,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -7754,9 +7754,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7784,6 +7781,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Chochliki lubią prażyć się w ogniu. Taka sytuacja.
   </flavor>
@@ -7964,9 +7964,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -7994,6 +7991,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Na zlotach rodzinnych robi się z niego prawdziwy siłacz.
   </flavor>
@@ -8100,9 +8100,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8127,6 +8124,9 @@ Przyzwij Infernala 6/6.
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Jeśli włożysz tę kartę do talii, stracisz zaufanie WSZYSTKICH swoich stronników.
   </flavor>
@@ -8362,9 +8362,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -8392,6 +8389,9 @@ Przyzwij Infernala 6/6.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Choć mieszka w głębinach, nie powala głębią intelektu.
   </flavor>
@@ -8415,6 +8415,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Podwajasz wartości obrażeń i leczenia z twoich zaklęć oraz mocy specjalnej.
   </text>
@@ -8433,15 +8436,12 @@ Przyzwij Infernala 6/6.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Został wygnany z domu, a wszyscy jego bracia przeszli na stronę zła, ale poza tym nie ma na co narzekać.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -8634,9 +8634,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8664,6 +8661,9 @@ Przyzwij Infernala 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Weszła kiedyś w spółkę z ukrytym smokiem.
   </flavor>
@@ -8909,6 +8909,9 @@ Przyzwij Infernala 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Nie może atakować. Na koniec twojej tury zadaj 8 pkt. obrażeń losowemu wrogowi.
   </text>
@@ -8927,15 +8930,12 @@ Przyzwij Infernala 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    „CZY WIESZ, ŻE WSZYSTKO CO KOCHASZ, JEST ŁATWOPALNE?”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -9425,15 +9425,15 @@ Przyzwij Infernala 6/6.
   <name>
    Rzezimiot
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Koszt zaatakowania stronnika wynosi 1 ataku zamiast 1 wytrzymałości.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Koszt zaatakowania stronnika wynosi 1 ataku zamiast 1 wytrzymałości.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -9741,9 +9741,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9753,6 +9750,9 @@ Przyzwij Infernala 6/6.
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zniszcz wszystkich pozostałych stronników i odrzuć całą rękę.
   </text>
@@ -9768,15 +9768,15 @@ Przyzwij Infernala 6/6.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Śmiercioskrzydły był niegdyś szlachetnym smokiem, znanym jako Neltarion. Oszalał jednak i zniszczył Azeroth, by w końcu zostać pokonanym. Czyżby kompleksy z dzieciństwa?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -9790,9 +9790,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9820,6 +9817,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Próba nazwania ich „smostrząbami” nie spotkała się z akceptacją.
   </flavor>
@@ -9839,9 +9839,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9869,6 +9866,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Smokowce zmierzchu żywią się mistyczną energią. I paluszkami.
   </flavor>
@@ -9931,9 +9931,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9961,6 +9958,9 @@ Przyzwij Infernala 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Ich skrzydła są ciche, lecz ich pisk to... całkowite przeciwieństwo ciszy.
   </flavor>
@@ -10200,9 +10200,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -10227,6 +10224,9 @@ Przyzwij Infernala 6/6.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    „Arrrr” w pirackim narzeczu oznacza „Witaj, jaśnie panie”.
   </flavor>
@@ -10287,9 +10287,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -10317,6 +10314,9 @@ Przyzwij Infernala 6/6.
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Tak, będzie dla ciebie walczyć. ALE ZROBI TO NIECHĘTNIE.
   </flavor>
@@ -10388,9 +10388,6 @@ Przyzwij Infernala 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -10418,6 +10415,9 @@ Przyzwij Infernala 6/6.
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Przywołanie Strażnika Zagłady to spore ryzyko. &lt;i&gt;Ktoś&lt;/i&gt; wyciągnie kopyta.
   </flavor>
@@ -10774,6 +10774,9 @@ Zadaj 3 pkt. obrażeń.
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przejmij kontrolę nad losowym wrogim stronnikiem.
   </text>
@@ -10789,15 +10792,12 @@ Zadaj 3 pkt. obrażeń.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Sylwana została zamieniona w królową upiorów przez Arthasa. Mocno ją tym wkurzył.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -11068,9 +11068,6 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -11086,6 +11083,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -11333,9 +11333,6 @@ Zadaj 3 pkt. obrażeń.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -11363,6 +11360,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Podobno niektórzy szamani potrafią 10 razy szybko powtórzyć „Tam mam ten totem”.
   </flavor>
@@ -11479,9 +11479,6 @@ Zadaj 3 pkt. obrażeń.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11509,6 +11506,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Tygrysy często mylone są z Jagrysami i Ongrysami. Choć wiadomo, że to Ongrys gryzł!
   </flavor>
@@ -11543,6 +11543,9 @@ Zadaj 3 pkt. obrażeń.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Boska tarcza&lt;/b&gt;. &lt;b&gt;Prowokacja&lt;/b&gt;. &lt;b&gt;Agonia:&lt;/b&gt; Wyposaż bohatera w Spopielacz 5/3.
   </text>
@@ -11561,15 +11564,12 @@ Zadaj 3 pkt. obrażeń.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Największym zaskoczeniem dla osób nieznających Tyriona jest fakt, że wcale nie jest karłem!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -11889,9 +11889,6 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -11913,6 +11910,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -11978,9 +11978,6 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12002,6 +11999,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -12273,6 +12273,9 @@ Zadaj 3 pkt. obrażeń.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Za każdym razem gdy gracz rzuci zaklęcie, umieść jego kopię w ręce drugiego gracza.
   </text>
@@ -12291,17 +12294,14 @@ Zadaj 3 pkt. obrażeń.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Wiedziciel Czo zbiera historie i podania z krainy Pandarii, ale najbardziej lubi opowieść o pierścieniu i górze.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -12353,9 +12353,6 @@ Zadaj 3 pkt. obrażeń.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12377,6 +12374,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -12396,9 +12396,6 @@ Zadaj 3 pkt. obrażeń.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12426,6 +12423,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -12513,9 +12513,6 @@ Zadaj 3 pkt. obrażeń.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12540,6 +12537,9 @@ Zadaj 3 pkt. obrażeń.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    "Lusia wściekła się, gdy odwołano obchody Święta Kreta" - Pan Józek, znany hodowca kurczaków.
   </flavor>
@@ -12952,9 +12952,6 @@ i zniszczonych stronników.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -12982,6 +12979,9 @@ i zniszczonych stronników.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Widzą przyszłość. W tej przyszłości obaj gracze dobierają kolejne karty. Aż ciarki po plecach chodzą.
   </flavor>
@@ -13043,6 +13043,9 @@ i zniszczonych stronników.
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Na koniec twojej tury przyzwij Gnola 2/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </text>
@@ -13058,15 +13061,12 @@ i zniszczonych stronników.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Wyżer jest supermocny. Jeśli go zabijesz, to tylko dlatego, że ci na to &lt;i&gt;pozwolił&lt;/i&gt;.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -13192,9 +13192,6 @@ i zniszczonych stronników.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13204,6 +13201,9 @@ i zniszczonych stronników.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Na koniec twojej tury dobierz Kartę Snu.
   </text>
@@ -13222,15 +13222,15 @@ i zniszczonych stronników.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Ysera włada Szmaragdowym Snem. A ten wygląda zupełnie jak prawdziwy świat, tyle że podpicowany na zielono.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>
@@ -13421,9 +13421,6 @@ i zniszczonych stronników.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13445,6 +13442,9 @@ i zniszczonych stronników.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -13757,15 +13757,15 @@ i zniszczonych stronników.
   <name>
    Zgładziciel
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;Furia wichru. Przeciążenie:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Furia wichru. Przeciążenie:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>

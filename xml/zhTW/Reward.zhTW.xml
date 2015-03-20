@@ -9,9 +9,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Reward
   </set>
@@ -21,17 +18,21 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;衝鋒&lt;/b&gt;。戰場上每多一個魚人便+1攻擊力
   </text>
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   當你獲得全部專家系列的魚人卡後解鎖。
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   當你獲得全部基本及專家系列的魚人金卡後解鎖。
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -41,24 +42,23 @@
   <health>
    4
   </health>
+  <race>
+   Murloc
+  </race>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   他在魚人當中是個傳說。「姆嘎啦嘎啦嘎嘎啦!」他們這麼說。
+  </flavor>
+  <howtoget>
+   當你獲得全部專家系列的魚人卡後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    EX1_062
   </id>
-  <flavor>
-   他在魚人當中是個傳說。「姆嘎啦嘎啦嘎嘎啦!」他們這麼說。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   當你獲得全部基本及專家系列的魚人金卡後解鎖。
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -69,9 +69,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Reward
   </set>
@@ -84,9 +81,12 @@
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;從你的牌堆中取出一張隨機海盜並放到你的手牌中
   </text>
-  <howtoget>
-   當你獲得全部專家系列的海盜卡後解鎖。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
+  <howtogetgold>
+   當你獲得全部專家系列的海盜金卡後解鎖。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -96,20 +96,20 @@
   <health>
    1
   </health>
-  <id>
-   NEW1_016
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    海盜和鸚鵡，就像兔妖跟蘿蔔一樣，總是形影不離。
   </flavor>
-  <rarity>
-   Epic
-  </rarity>
+  <howtoget>
+   當你獲得全部專家系列的海盜卡後解鎖。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   當你獲得全部專家系列的海盜金卡後解鎖。
-  </howtogetgold>
+  <id>
+   NEW1_016
+  </id>
  </item>
 </cards>

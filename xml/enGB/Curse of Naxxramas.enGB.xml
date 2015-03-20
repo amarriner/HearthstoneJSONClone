@@ -21,9 +21,9 @@
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Return a random friendly minion to your hand.
   </text>
-  <howtoget>
-   Unlocked by completing the Rogue Class Challenge in Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -33,35 +33,35 @@
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Originally he was called "Anub&amp;apos;ar Guy who bounces a guy back to your hand", but it lacked a certain zing.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after completing the Rogue Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   Originally he was called "Anub&amp;apos;ar Guy who bounces a guy back to your hand", but it lacked a certain zing.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Rogue Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -70,15 +70,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -107,41 +107,41 @@
   <text>
    &lt;b&gt;Secret:&lt;/b&gt; When one of your minions dies, give a random friendly minion +3/+2.
   </text>
-  <howtoget>
-   Unlocked by completing the Paladin Class Challenge in Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Several paladins have joined together to deliver justice under the name "Justice Force."  Their lawyer talked them out of calling themselves the Justice League.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Can be crafted after completing the Paladin Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   Several paladins have joined together to deliver justice under the name "Justice Force."  Their lawyer talked them out of calling themselves the Justice League.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Paladin Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -150,15 +150,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -184,12 +184,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Your minions trigger their &lt;b&gt;Deathrattles&lt;/b&gt; twice.
   </text>
-  <howtoget>
-   Unlocked by completing the Military Quarter.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -199,24 +202,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   Can be crafted after completing the Military Quarter.
+  </howtogetgold>
+  <flavor>
+   There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Military Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after completing the Military Quarter.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -298,9 +298,9 @@ Take control of a random enemy minion until end of turn.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Your opponent draws a card.
   </text>
-  <howtoget>
-   Unlocked by defeating Instructor Razuvious in the Military Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -310,21 +310,21 @@ Take control of a random enemy minion until end of turn.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   They like to dance to reggae.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Instructor Razuvious in the Military Quarter.
   </howtogetgold>
+  <flavor>
+   They like to dance to reggae.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Instructor Razuvious in the Military Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <mechanics>
@@ -347,9 +347,9 @@ Take control of a random enemy minion until end of turn.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Give a random friendly minion +3 Health.
   </text>
-  <howtoget>
-   Unlocked by completing the Priest Class Challenge in Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -359,21 +359,21 @@ Take control of a random enemy minion until end of turn.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   The Cult of the Damned has found it&amp;apos;s best not to mention their name when recruiting new cultists.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after completing the Priest Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   The Cult of the Damned has found it&amp;apos;s best not to mention their name when recruiting new cultists.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Priest Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -419,30 +419,30 @@ Take control of a random enemy minion until end of turn.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Unlocked by completing the Warrior Class Challenge in Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   "Take a bite outta Death." - McScruff the Deathlord
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Can be crafted after completing the Warrior Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   "Take a bite outta Death." - McScruff the Deathlord
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Warrior Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -525,9 +525,9 @@ Take control of a random enemy minion until end of turn.
   <text>
    &lt;b&gt;Taunt. Deathrattle:&lt;/b&gt; Your opponent puts a minion from their deck into the battlefield.
   </text>
-  <howtoget>
-   Unlocked by defeating The Four Horsemen in the Military Quarter.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -537,21 +537,21 @@ Take control of a random enemy minion until end of turn.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   "Rise from your grave!" - Kel&amp;apos;Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating The Four Horsemen in the Military Quarter.
   </howtogetgold>
+  <flavor>
+   "Rise from your grave!" - Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Unlocked by defeating The Four Horsemen in the Military Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <text>
@@ -633,27 +633,27 @@ Change the Health of enemy minions to 1.
   <text>
    &lt;b&gt;Secret:&lt;/b&gt; When a friendly minion dies, put 2 copies of it into your hand.
   </text>
-  <howtoget>
-   Unlocked by completing the Mage Class Challenge in Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   The one time when duping cards won&amp;apos;t get your account banned!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Can be crafted after completing the Mage Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   The one time when duping cards won&amp;apos;t get your account banned!
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Mage Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -679,9 +679,9 @@ Change the Health of enemy minions to 1.
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Summon an exact copy of this minion at the end of the turn.
   </text>
-  <howtoget>
-   Unlocked by defeating Sapphiron in the Frostwyrm Lair.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -691,21 +691,21 @@ Change the Health of enemy minions to 1.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   OOZE... Ooze... Ooze... (ooze...)
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Sapphiron in the Frostwyrm Lair.
   </howtogetgold>
+  <flavor>
+   OOZE... Ooze... Ooze... (ooze...)
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Sapphiron in the Frostwyrm Lair.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <mechanics>
@@ -838,9 +838,9 @@ Deal 2 damage to the left-most enemy minion.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -853,9 +853,9 @@ Deal 2 damage to the left-most enemy minion.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -878,12 +878,15 @@ Deal 2 damage to the left-most enemy minion.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; If Stalagg also died this game, summon Thaddius.
   </text>
-  <howtoget>
-   Unlocked by completing the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -893,24 +896,21 @@ Deal 2 damage to the left-most enemy minion.
   <health>
    7
   </health>
+  <howtogetgold>
+   Can be crafted after completing the Construct Quarter.
+  </howtogetgold>
+  <flavor>
+   Feugen is sad because everyone likes Stalagg better.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Construct Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen is sad because everyone likes Stalagg better.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after completing the Construct Quarter.
-  </howtogetgold>
  </item>
  <item>
   <mechanics>
@@ -1034,15 +1034,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1051,15 +1051,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1068,15 +1068,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1085,15 +1085,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1102,15 +1102,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -1119,15 +1119,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -1136,15 +1136,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -1153,15 +1153,15 @@ Destroy all enemy minions that aren&amp;apos;t &lt;b&gt;Frozen&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1324,9 +1324,6 @@ Destroy a minion.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1339,9 +1336,12 @@ Destroy a minion.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Summon two 1/1 Spectral Spiders.
   </text>
-  <howtoget>
-   Unlocked by defeating Anub&amp;apos;Rekhan in the Arachnid Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Can be crafted after defeating Anub&amp;apos;Rekhan in the Arachnid Quarter.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -1351,21 +1351,21 @@ Destroy a minion.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Arachnofauxbia: Fear of fake spiders.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Unlocked by defeating Anub&amp;apos;Rekhan in the Arachnid Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Can be crafted after defeating Anub&amp;apos;Rekhan in the Arachnid Quarter.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -1474,15 +1474,15 @@ Destroy a minion.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -1491,15 +1491,15 @@ Destroy a minion.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -1588,15 +1588,15 @@ Destroy a minion.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -1605,15 +1605,15 @@ Destroy a minion.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -1634,12 +1634,15 @@ Destroy a minion.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    At the end of each turn, summon all friendly minions that died this turn.
   </text>
-  <howtoget>
-   Unlocked by defeating every boss in Naxxramas!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -1649,24 +1652,21 @@ Destroy a minion.
   <health>
    8
   </health>
+  <howtogetgold>
+   Can be crafted after defeating every boss in Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad could not resist the call of the Lich King.   Even when it&amp;apos;s just a robo-call extolling the Lich King&amp;apos;s virtues.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating every boss in Naxxramas!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad could not resist the call of the Lich King.   Even when it&amp;apos;s just a robo-call extolling the Lich King&amp;apos;s virtues.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after defeating every boss in Naxxramas!
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1675,6 +1675,9 @@ Destroy a minion.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -1690,9 +1693,6 @@ Destroy a minion.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1704,6 +1704,9 @@ Destroy a minion.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -1719,23 +1722,20 @@ Destroy a minion.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -1744,15 +1744,15 @@ Destroy a minion.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -1778,12 +1778,15 @@ Destroy a minion.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Enemy spells cost (5) more next turn.
   </text>
-  <howtoget>
-   Unlocked by completing the Plague Quarter.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -1793,24 +1796,21 @@ Destroy a minion.
   <health>
    5
   </health>
+  <howtogetgold>
+   Can be crafted after completing the Plague Quarter.
+  </howtogetgold>
+  <flavor>
+   Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Plague Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after completing the Plague Quarter.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1853,9 +1853,9 @@ Destroy a minion.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Put a &lt;b&gt;Secret&lt;/b&gt; from your deck into the battlefield.
   </text>
-  <howtoget>
-   Unlocked by defeating Grobbulus in the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -1865,32 +1865,32 @@ Destroy a minion.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Grobbulus in the Construct Quarter.
   </howtogetgold>
+  <flavor>
+   His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Grobbulus in the Construct Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -1907,9 +1907,6 @@ Destroy a minion.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1919,12 +1916,18 @@ Destroy a minion.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Destroy any minion damaged by this minion.
   </text>
-  <howtoget>
-   Unlocked by completing the Arachnid Quarter.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Can be crafted after completing the Arachnid Quarter.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1934,35 +1937,32 @@ Destroy a minion.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Maexxna gets super mad when people introduce her as "Maxina" or "Maxxy".
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Arachnid Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Maexxna gets super mad when people introduce her as "Maxina" or "Maxxy".
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after completing the Arachnid Quarter.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -2100,15 +2100,15 @@ Destroy a minion.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Mr. Bigglesworth
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;This is Kel&amp;apos;Thuzad&amp;apos;s kitty.&lt;/i&gt;
   </text>
@@ -2124,12 +2124,12 @@ Destroy a minion.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2302,9 +2302,9 @@ Deal 3 damage to the enemy hero.
   <text>
    Minions with &lt;b&gt;Battlecry&lt;/b&gt; cost (2) more.
   </text>
-  <howtoget>
-   Unlocked by defeating Grand Widow Faerlina in the Arachnid Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -2314,21 +2314,21 @@ Deal 3 damage to the enemy hero.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Weblords spend all day making giant trampoline parks.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Grand Widow Faerlina in the Arachnid Quarter.
   </howtogetgold>
+  <flavor>
+   Weblords spend all day making giant trampoline parks.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Grand Widow Faerlina in the Arachnid Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <set>
@@ -2423,9 +2423,9 @@ Deal 3 damage to the enemy hero.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Summon a 4/4 Nerubian.
   </text>
-  <howtoget>
-   Unlocked by defeating Maexxna in the Arachnid Quarter.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -2435,21 +2435,21 @@ Deal 3 damage to the enemy hero.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Eggs are a good source of protein and Nerubians.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Maexxna in the Arachnid Quarter.
   </howtogetgold>
+  <flavor>
+   Eggs are a good source of protein and Nerubians.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Maexxna in the Arachnid Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <set>
@@ -2492,15 +2492,15 @@ Deal 3 damage to the enemy hero.
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -2509,15 +2509,15 @@ Deal 3 damage to the enemy hero.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -2603,27 +2603,27 @@ Deal 2 damage to all enemies. If any die, summon a slime.
   <text>
    Destroy all minions and summon 2/2 Treants to replace them.
   </text>
-  <howtoget>
-   Unlocked by completing the Druid Class Challenge in Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   "Poisonseed Bagel" is the least popular bagel at McTiggin&amp;apos;s Druidic Bagel Emporium.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Can be crafted after completing the Druid Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   "Poisonseed Bagel" is the least popular bagel at McTiggin&amp;apos;s Druidic Bagel Emporium.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Druid Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -2821,27 +2821,27 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <text>
    Destroy a minion, then return it to life with full Health.
   </text>
-  <howtoget>
-   Unlocked by completing the Shaman Class Challenge in Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   It&amp;apos;s like birth, except you&amp;apos;re an adult and you were just dead a second ago.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Can be crafted after completing the Shaman Class Challenge in Naxxramas.
   </howtogetgold>
+  <flavor>
+   It&amp;apos;s like birth, except you&amp;apos;re an adult and you were just dead a second ago.
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Shaman Class Challenge in Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -2899,15 +2899,15 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -2916,15 +2916,15 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -2953,9 +2953,9 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <text>
    &lt;b&gt;Stealth.&lt;/b&gt; At the start of your turn, gain +1/+1.
   </text>
-  <howtoget>
-   Unlocked by defeating Kel&amp;apos;Thuzad in the Frostwyrm Lair.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -2965,21 +2965,21 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   The Shades of Naxxramas &lt;i&gt;hate&lt;/i&gt; the living. They even have a slur they use to refer them: &lt;i&gt;Livers&lt;/i&gt;.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Kel&amp;apos;Thuzad in the Frostwyrm Lair.
   </howtogetgold>
+  <flavor>
+   The Shades of Naxxramas &lt;i&gt;hate&lt;/i&gt; the living. They even have a slur they use to refer them: &lt;i&gt;Livers&lt;/i&gt;.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Kel&amp;apos;Thuzad in the Frostwyrm Lair.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <set>
@@ -2988,6 +2988,9 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3003,9 +3006,6 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3017,6 +3017,9 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3032,9 +3035,6 @@ Whenever an enemy dies, raise a 5/5 Skeleton.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -3231,9 +3231,9 @@ Summon a 4/4 Nerubian.
    &lt;b&gt;Taunt.
 Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   </text>
-  <howtoget>
-   Unlocked by defeating Loatheb in the Plague Quarter.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -3243,21 +3243,21 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   DO NOT GIVE HIM A ROOT BEER.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Loatheb in the Plague Quarter.
   </howtogetgold>
+  <flavor>
+   DO NOT GIVE HIM A ROOT BEER.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Loatheb in the Plague Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <collectible>
@@ -3275,9 +3275,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <text>
    Can&amp;apos;t be targeted by spells or Hero Powers.
   </text>
-  <howtoget>
-   Unlocked by defeating Gothik the Harvester in the Military Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3287,21 +3287,21 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Gothik the Harvester in the Military Quarter.
   </howtogetgold>
+  <flavor>
+   What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Gothik the Harvester in the Military Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <set>
@@ -3462,9 +3462,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3477,9 +3477,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3502,12 +3502,15 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; If Feugen also died this game, summon Thaddius.
   </text>
-  <howtoget>
-   Unlocked by completing the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3517,24 +3520,21 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    4
   </health>
+  <howtogetgold>
+   Can be crafted after completing the Construct Quarter.
+  </howtogetgold>
+  <flavor>
+   Stalagg want to write own flavor text.  "STALAGG AWESOME!"
+  </flavor>
+  <howtoget>
+   Unlocked by completing the Construct Quarter.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg want to write own flavor text.  "STALAGG AWESOME!"
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Can be crafted after completing the Construct Quarter.
-  </howtogetgold>
  </item>
  <item>
   <collectible>
@@ -3552,9 +3552,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <text>
    At the start of your turn, restore this minion to full Health.
   </text>
-  <howtoget>
-   Unlocked by defeating Noth the Plaguebringer in the Plague Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3564,21 +3564,21 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Stoneskin Gargoyles love freeze tag.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Noth the Plaguebringer in the Plague Quarter.
   </howtogetgold>
+  <flavor>
+   Stoneskin Gargoyles love freeze tag.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Noth the Plaguebringer in the Plague Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <set>
@@ -3618,15 +3618,15 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -3635,15 +3635,15 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -3658,9 +3658,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3673,9 +3673,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
@@ -3687,6 +3687,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3702,9 +3705,6 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -3716,6 +3716,9 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <name>
    Thane Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   </text>
@@ -3731,9 +3734,6 @@ Deathrattle:&lt;/b&gt; Summon a 1/2 Slime with &lt;b&gt;Taunt&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -3853,9 +3853,9 @@ Deal 4 damage.
   <text>
    Whenever you summon a minion with &lt;b&gt;Deathrattle&lt;/b&gt;, gain +1 Attack.
   </text>
-  <howtoget>
-   Unlocked by defeating Patchwerk in the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3865,21 +3865,21 @@ Deal 4 damage.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Patchwerk in the Construct Quarter.
   </howtogetgold>
+  <flavor>
+   In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Patchwerk in the Construct Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -4019,9 +4019,9 @@ Draw 2 cards.
   <text>
    &lt;b&gt;Taunt&lt;/b&gt;. &lt;b&gt;Deathrattle:&lt;/b&gt; Deal 1 damage to all minions.
   </text>
-  <howtoget>
-   Unlocked by defeating Heigan the Unclean in the Plague Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -4031,21 +4031,21 @@ Draw 2 cards.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Heigan the Unclean in the Plague Quarter.
   </howtogetgold>
+  <flavor>
+   Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Heigan the Unclean in the Plague Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <set>
@@ -4076,9 +4076,6 @@ Draw 2 cards.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4091,9 +4088,12 @@ Draw 2 cards.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Put a random Demon from your hand into the battlefield.
   </text>
-  <howtoget>
-   Unlocked by completing the Warlock Class Challenge in Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Can be crafted after completing the Warlock Class Challenge in Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -4103,21 +4103,21 @@ Draw 2 cards.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    "Void!  Here, void!  Here, buddy!"
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Unlocked by completing the Warlock Class Challenge in Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Can be crafted after completing the Warlock Class Challenge in Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -4143,9 +4143,9 @@ Draw 2 cards.
   <text>
    &lt;b&gt;Battlecry: Silence&lt;/b&gt; your other minions.
   </text>
-  <howtoget>
-   Unlocked by defeating Thaddius in the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -4155,21 +4155,21 @@ Draw 2 cards.
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   This soul just &lt;i&gt;wails&lt;/i&gt; on you. Dang, soul, let up already.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Thaddius in the Construct Quarter.
   </howtogetgold>
+  <flavor>
+   This soul just &lt;i&gt;wails&lt;/i&gt; on you. Dang, soul, let up already.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Thaddius in the Construct Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -4222,9 +4222,6 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4237,9 +4234,12 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Add a random Beast card to your hand.
   </text>
-  <howtoget>
-   Unlocked by completing the Hunter Class Challenge in Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Can be crafted after completing the Hunter Class Challenge in Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4249,21 +4249,21 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Spider cocoons are like little piñatas!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Unlocked by completing the Hunter Class Challenge in Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Can be crafted after completing the Hunter Class Challenge in Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -4351,9 +4351,9 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Restore 5 Health to the enemy hero.
   </text>
-  <howtoget>
-   Unlocked by defeating Gluth in the Construct Quarter.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4363,20 +4363,20 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Zombie.  It&amp;apos;s what&amp;apos;s for dinner.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Can be crafted after defeating Gluth in the Construct Quarter.
   </howtogetgold>
+  <flavor>
+   Zombie.  It&amp;apos;s what&amp;apos;s for dinner.
+  </flavor>
+  <howtoget>
+   Unlocked by defeating Gluth in the Construct Quarter.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
 </cards>

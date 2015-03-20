@@ -9,9 +9,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Reward
   </set>
@@ -24,9 +21,12 @@
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; положите в руку случайного пирата из вашей колоды.
   </text>
-  <howtoget>
-   Доступна при наличии всех пиратов из набора эксперта.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
+  <howtogetgold>
+   Доступна при наличии всех золотых карт пиратов из набора эксперта.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -36,21 +36,21 @@
   <health>
    1
   </health>
-  <id>
-   NEW1_016
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Пираты и попугаи столь же неразлучны, как гну-сини и морковка.
   </flavor>
-  <rarity>
-   Epic
-  </rarity>
+  <howtoget>
+   Доступна при наличии всех пиратов из набора эксперта.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Доступна при наличии всех золотых карт пиратов из набора эксперта.
-  </howtogetgold>
+  <id>
+   NEW1_016
+  </id>
  </item>
  <item>
   <mechanics>
@@ -61,9 +61,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Reward
   </set>
@@ -73,17 +70,21 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Рывок&lt;/b&gt;. +1 к атаке за каждого другого мурлока на поле боя.
   </text>
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   Доступна при наличии всех мурлоков из набора эксперта.
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Доступна при наличии всех золотых карт мурлоков из базового набора и набора эксперта.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -93,23 +94,22 @@
   <health>
    4
   </health>
+  <race>
+   Murloc
+  </race>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   Он – легенда среди мурлоков. Они называют его «Мргхллгхгхллгхг!»
+  </flavor>
+  <howtoget>
+   Доступна при наличии всех мурлоков из набора эксперта.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    EX1_062
   </id>
-  <flavor>
-   Он – легенда среди мурлоков. Они называют его «Мргхллгхгхллгхг!»
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Доступна при наличии всех золотых карт мурлоков из базового набора и набора эксперта.
-  </howtogetgold>
  </item>
 </cards>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -28,6 +25,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -55,15 +55,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;召喚一個超讚的發明
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -73,21 +76,18 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   他是地精的領袖，還是個驚人的發明家。而且他越來越厲害了，他把東西變成雞的次數比以前少&lt;b&gt;非常&lt;/b&gt;多。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    在測試期間幫忙測試商店交易的玩家所獲得的獎勵。
   </howtogetgold>
+  <flavor>
+   他是地精的領袖，還是個驚人的發明家。而且他越來越厲害了，他把東西變成雞的次數比以前少&lt;b&gt;非常&lt;/b&gt;多。
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
   <text>
@@ -107,9 +107,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -134,6 +131,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -201,12 +201,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;戰吼:&lt;/b&gt;賦予雙方玩家搖滾的能力!(一張強力和弦卡)
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -216,26 +219,20 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   他正在找鼓手。目前應徵的人有:見習工程師、森金禦盾大師和『炎魔』拉格納羅斯。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    參加BlizzCon 2013的獎勵
   </howtogetgold>
+  <flavor>
+   他正在找鼓手。目前應徵的人有:見習工程師、森金禦盾大師和『炎魔』拉格納羅斯。
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -260,6 +257,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -292,9 +292,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -319,6 +316,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -349,9 +349,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -370,6 +367,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -378,9 +378,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -396,6 +393,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>

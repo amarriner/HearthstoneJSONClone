@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -18,15 +18,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -52,12 +52,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Twoi stronnicy aktywują swoją &lt;b&gt;Agonię&lt;/b&gt; dwukrotnie.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ Rewir Zbrojnych.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -67,35 +70,32 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   Można wykonać po ukończeniu Rewiru Zbrojnych.
+  </howtogetgold>
+  <flavor>
+   Kiedyś było pięcioro Jeźdźców, ale jeden wypiął się na kumpli, bo dostał lepszą fuchę na stanowisku przewodniczącego rady.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ Rewir Zbrojnych.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Kiedyś było pięcioro Jeźdźców, ale jeden wypiął się na kumpli, bo dostał lepszą fuchę na stanowisku przewodniczącego rady.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po ukończeniu Rewiru Zbrojnych.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -104,15 +104,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -158,9 +158,9 @@
   <text>
    &lt;b&gt;Ukrycie.&lt;/b&gt; Otrzymuje +1/+1 na początku twojej tury.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Kel&amp;apos;Thuzada w Leżu Żmija Mrozu.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -170,21 +170,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Paradoksalnie, wszystkie cienie boją się ciemności. W końcu nie mogą istnieć bez odrobiny światła.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Kel&amp;apos;Thuzada w Leżu Żmija Mrozu.
   </howtogetgold>
+  <flavor>
+   Paradoksalnie, wszystkie cienie boją się ciemności. W końcu nie mogą istnieć bez odrobiny światła.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Kel&amp;apos;Thuzada w Leżu Żmija Mrozu.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <mechanics>
@@ -312,27 +312,27 @@
   <text>
    &lt;b&gt;Sekret:&lt;/b&gt; Gdy zginie przyjazny stronnik, umieść 2 kopie jego karty w twojej ręce.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla maga w Naxxramas.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   Zaklęcie zapewnia magom stałą liczbę uczniów gotowych do asystowania przy niebezpiecznych eksperymentach.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla maga w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Zaklęcie zapewnia magom stałą liczbę uczniów gotowych do asystowania przy niebezpiecznych eksperymentach.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla maga w Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -465,9 +465,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -480,9 +480,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -505,12 +505,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Jeśli podczas tej partii zginął także Stalag, przyzwij Thadiusa.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ Rewir Konstruktów.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -520,35 +523,32 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    7
   </health>
+  <howtogetgold>
+   Można wykonać po przejściu Rewiru Konstruktów.
+  </howtogetgold>
+  <flavor>
+   „Stalag - brzyyydal!” - Feugen
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ Rewir Konstruktów.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   „Stalag - brzyyydal!” - Feugen
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po przejściu Rewiru Konstruktów.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -557,15 +557,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -574,15 +574,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -591,15 +591,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -623,9 +623,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <text>
    Otrzymuje +1 do ataku za każdym razem, gdy przyzywasz stronnika z &lt;b&gt;Agonią&lt;/b&gt;.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Łaciora w Rewirze Konstruktów.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -635,32 +635,32 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   Służba u Kel&amp;apos;Thuzada wymaga wielu wyrzeczeń. Grabarz, przykładowo, musiał rozstać się ze swoją ulubioną pidżamą.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Łaciora w Rewirze Konstruktów.
   </howtogetgold>
+  <flavor>
+   Służba u Kel&amp;apos;Thuzada wymaga wielu wyrzeczeń. Grabarz, przykładowo, musiał rozstać się ze swoją ulubioną pidżamą.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Łaciora w Rewirze Konstruktów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -669,15 +669,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -800,9 +800,6 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -815,9 +812,12 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Umieść losowego Demona z ręki na polu bitwy.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla czarnoksiężnika w Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Można wykonać po ukończeniu wyzwania klasowego dla czarnoksiężnika w Naxxramas.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -827,35 +827,35 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    Wolałby być Heroldem Rozpustki, ale nie miał wielkiego wyboru.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla czarnoksiężnika w Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Można wykonać po ukończeniu wyzwania klasowego dla czarnoksiężnika w Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -864,15 +864,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -924,9 +924,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <text>
    Na początku twojej tury przywróć tego stronnika do pełni zdrowia.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Nicza Siewcę Zarazy w Rewirze Zarazy.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -936,32 +936,32 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Gargulce, podobnie jak ożywione pomniki, nienawidzą gołębi.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Nicza Siewcy Zarazy w Rewirze Zarazy.
   </howtogetgold>
+  <flavor>
+   Gargulce, podobnie jak ożywione pomniki, nienawidzą gołębi.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Nicza Siewcę Zarazy w Rewirze Zarazy.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -982,12 +982,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Na koniec każdej tury przyzwij wszystkich przyjaznych stronników, którzy w niej zginęli.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj wszystkich bossów w Naxxramas!
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -997,35 +1000,32 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <health>
    8
   </health>
+  <howtogetgold>
+   Można wykonać po pokonaniu wszystkich bossów w Naxxramas!
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad nie mógł się oprzeć wezwaniu Króla Licza, bo wiedział, że może na dużo liczyć.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj wszystkich bossów w Naxxramas!
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad nie mógł się oprzeć wezwaniu Króla Licza, bo wiedział, że może na dużo liczyć.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po pokonaniu wszystkich bossów w Naxxramas!
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -1054,15 +1054,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -1071,15 +1071,15 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -1094,6 +1094,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -1109,9 +1112,6 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1123,6 +1123,9 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -1138,9 +1141,6 @@ Zadaj 3 pkt. obrażeń wrogiemu stronnikowi z lewego skraju planszy.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -1248,9 +1248,6 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1260,12 +1257,18 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Zniszcz każdego stronnika zranionego przez tego stronnika.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ Rewir Arachnidów.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Można wykonać po przejściu Rewiru Arachnidów.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1275,35 +1278,32 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   W wolnych chwilach uwielbia grać na skrzypcach doprowadzając Kel&amp;apos;Thuzada do szału.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ Rewir Arachnidów.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   W wolnych chwilach uwielbia grać na skrzypcach doprowadzając Kel&amp;apos;Thuzada do szału.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po przejściu Rewiru Arachnidów.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -1312,15 +1312,15 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -1386,9 +1386,9 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Daj losowemu przyjaznemu stronnikowi +3 do zdrowia.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla kapłana w Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -1398,21 +1398,21 @@ Zadaj 2 pkt. obrażeń wrogiemu bohaterowi i go &lt;b&gt;Zamroź&lt;/b&gt;.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   Kult Potępionych posiada własną kapelę, której koncerty są niezwykle popularne - szczególnie wśród młodzieży akademickiej.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla kapłana w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Kult Potępionych posiada własną kapelę, której koncerty są niezwykle popularne - szczególnie wśród młodzieży akademickiej.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla kapłana w Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -1496,9 +1496,9 @@ Zniszcz wszystkich wrogich stronników, którzy nie są &lt;b&gt;Zamrożeni&lt;/
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Cofnij losowego przyjaznego stronnika na twoją rękę.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla łotra w Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -1508,21 +1508,21 @@ Zniszcz wszystkich wrogich stronników, którzy nie są &lt;b&gt;Zamrożeni&lt;/
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Zaczynał jako bramkarz, ale trener poznał się na jego prawdziwym talencie.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla łotra w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Zaczynał jako bramkarz, ale trener poznał się na jego prawdziwym talencie.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla łotra w Naxxramas.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1730,9 +1730,9 @@ Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przyzwij Nerubianina 4/4.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Maexxnę w Rewirze Arachnidów.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -1742,21 +1742,21 @@ Zadaj 3 pkt. obrażeń wrogiemu bohaterowi.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Wielcy filozofowie Azeroth często zadają pytanie: co było pierwsze - jajo czy nerubianin?
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Maexxny w Rewirze Arachnidów.
   </howtogetgold>
+  <flavor>
+   Wielcy filozofowie Azeroth często zadają pytanie: co było pierwsze - jajo czy nerubianin?
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Maexxnę w Rewirze Arachnidów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <set>
@@ -1864,9 +1864,9 @@ Zniszcz stronnika.
   <text>
    &lt;b&gt;Prowokacja&lt;/b&gt;. &lt;b&gt;Agonia:&lt;/b&gt; Zadaj 1 pkt. obrażeń wszystkim stronnikom.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Heigana Nieczystego w Rewirze Zarazy.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1876,21 +1876,21 @@ Zniszcz stronnika.
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Wypełnianie ghuli paliwem rakietowym to najnowsza moda wśród młodocianych nekromantów.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Heigana Nieczystego w Rewirze Zarazy.
   </howtogetgold>
+  <flavor>
+   Wypełnianie ghuli paliwem rakietowym to najnowsza moda wśród młodocianych nekromantów.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Heigana Nieczystego w Rewirze Zarazy.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2107,15 +2107,15 @@ Wystrzel pocisk za każdą kartę w ręce przeciwnika.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -2141,12 +2141,15 @@ Wystrzel pocisk za każdą kartę w ręce przeciwnika.
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; W następnej turze zaklęcia przeciwnika kosztują (5) więcej.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ Rewir Zarazy.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -2156,35 +2159,32 @@ Wystrzel pocisk za każdą kartę w ręce przeciwnika.
   <health>
    5
   </health>
+  <howtogetgold>
+   Można wykonać po ukończeniu Rewiru Zarazy.
+  </howtogetgold>
+  <flavor>
+   Ohydziarz był niegdyś zwykłym bagiennym stworem. Ale mu przeszło.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ Rewir Zarazy.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Ohydziarz był niegdyś zwykłym bagiennym stworem. Ale mu przeszło.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po ukończeniu Rewiru Zarazy.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -2319,15 +2319,15 @@ Cofnij losowego wrogiego stronnika na rękę przeciwnika.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Pan Sierściuch
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;To kotek Kel&amp;apos;Thuzada.&lt;/i&gt;
   </text>
@@ -2343,12 +2343,12 @@ Cofnij losowego wrogiego stronnika na rękę przeciwnika.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2377,9 +2377,9 @@ Cofnij losowego wrogiego stronnika na rękę przeciwnika.
   <text>
    &lt;b&gt;Prowokacja&lt;/b&gt;. &lt;b&gt;Agonia:&lt;/b&gt; Twój przeciwnik umieszcza losowego stronnika ze swojej talii na polu bitwy.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Czterech Jeźdźców w Rewirze Zbrojnych.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -2389,21 +2389,21 @@ Cofnij losowego wrogiego stronnika na rękę przeciwnika.
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   „Powstańcie z grobów! Tylko bez mikrobów!” - Kel&amp;apos;Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Czterech Jeźdźców w Rewirze Zbrojnych.
   </howtogetgold>
+  <flavor>
+   „Powstańcie z grobów! Tylko bez mikrobów!” - Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Czterech Jeźdźców w Rewirze Zbrojnych.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <set>
@@ -2446,27 +2446,27 @@ Cofnij losowego wrogiego stronnika na rękę przeciwnika.
   <text>
    &lt;b&gt;Sekret:&lt;/b&gt; Gdy jeden z twoich stronników zginie, daj losowemu przyjaznemu stronnikowi +3/+2.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla paladyna w Naxxramas.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Kilku paladynów zebrało się razem, by założyć organizację „Prawość i Sprawiedliwość”, ale zmienili zdanie pod wpływem nacisków politycznych.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla paladyna w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Kilku paladynów zebrało się razem, by założyć organizację „Prawość i Sprawiedliwość”, ale zmienili zdanie pod wpływem nacisków politycznych.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla paladyna w Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -2635,27 +2635,27 @@ Dobierz 2 karty.
   <text>
    Zniszcz stronnika, a następnie przywróć go do życia z pełnym zdrowiem.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla szamana w Naxxramas.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Wstajesz z grobu jak nowonarodzony... i nawet nie musisz czekać trzech dni!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla szamana w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Wstajesz z grobu jak nowonarodzony... i nawet nie musisz czekać trzech dni!
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla szamana w Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -2681,9 +2681,9 @@ Dobierz 2 karty.
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij dokładną kopię tego stronnika na koniec tej tury.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Szafirona w Leżu Żmija Mrozu.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -2693,21 +2693,21 @@ Dobierz 2 karty.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   Powód, dla którego w Naxxramas wodę należy spuszczać zawsze dwa razy.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Szafirona w Leżu Żmija Mrozu.
   </howtogetgold>
+  <flavor>
+   Powód, dla którego w Naxxramas wodę należy spuszczać zawsze dwa razy.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Szafirona w Leżu Żmija Mrozu.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <set>
@@ -2822,6 +2822,9 @@ Dobierz 2 karty.
   <name>
    Sir Zelog
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -2837,9 +2840,6 @@ Dobierz 2 karty.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -2851,6 +2851,9 @@ Dobierz 2 karty.
   <name>
    Sir Zelog
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -2866,9 +2869,6 @@ Dobierz 2 karty.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -2929,9 +2929,9 @@ Dobierz 2 karty.
    &lt;b&gt;Prowokacja.
 Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Ohydziarza w Rewirze Zarazy.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -2941,21 +2941,21 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   Po zjedzeniu śluzu czasem mu odbija.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Ohydziarza w Rewirze Zarazy.
   </howtogetgold>
+  <flavor>
+   Po zjedzeniu śluzu czasem mu odbija.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Ohydziarza w Rewirze Zarazy.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -2995,12 +2995,15 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Jeśli podczas tej partii zginął także Feugen, przyzwij Thadiusa.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ Rewir Konstruktów.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3010,24 +3013,21 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    4
   </health>
+  <howtogetgold>
+   Można wykonać po przejściu Rewiru Konstruktów.
+  </howtogetgold>
+  <flavor>
+   „Feugen - brzyyydal!” - Stalag
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ Rewir Konstruktów.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   „Feugen - brzyyydal!” - Stalag
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Można wykonać po przejściu Rewiru Konstruktów.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -3036,9 +3036,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <name>
    Stalag
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3051,9 +3051,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3158,15 +3158,15 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3175,15 +3175,15 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3254,9 +3254,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Umieść losowy &lt;b&gt;Sekret&lt;/b&gt; z twojej talii na polu bitwy.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Grobulusa w Rewirze Konstruktów.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3266,21 +3266,21 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Zawsze chciał zostać magiem, ale poszedł na studia, po których dostał kiepsko płatną pracę przy szlamie.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Grobulusa w Rewirze Konstruktów.
   </howtogetgold>
+  <flavor>
+   Zawsze chciał zostać magiem, ale poszedł na studia, po których dostał kiepsko płatną pracę przy szlamie.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Grobulusa w Rewirze Konstruktów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <set>
@@ -3418,6 +3418,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <name>
    Tan Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -3433,9 +3436,6 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -3447,6 +3447,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <name>
    Tan Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Twój bohater posiada &lt;b&gt;Niewrażliwość&lt;/b&gt;.
   </text>
@@ -3462,9 +3465,6 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -3490,9 +3490,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Twój przeciwnik dobiera kartę.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Instruktora Razuwiusza w Rewirze Zbrojnych.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3502,21 +3502,21 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Nie istnieją tańczące miecze. Istnieją natomiast niewidzialni szermierze.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Instruktora Razuwiusza w Rewirze Zbrojnych.
   </howtogetgold>
+  <flavor>
+   Nie istnieją tańczące miecze. Istnieją natomiast niewidzialni szermierze.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Instruktora Razuwiusza w Rewirze Zbrojnych.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
   <set>
@@ -3525,9 +3525,9 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <name>
    Thadius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3540,23 +3540,23 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -3565,15 +3565,15 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -3590,9 +3590,6 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3605,9 +3602,12 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Dodaj losową kartę Bestii do twojej ręki.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla łowcy w Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Można wykonać po ukończeniu wyzwania klasowego dla łowcy w Naxxramas.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3617,21 +3617,21 @@ Agonia:&lt;/b&gt; Przyzwij Śluz 1/2 z &lt;b&gt;Prowokacją&lt;/b&gt;.
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Pajęcze kokony są jak jajka niespodzianki!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla łowcy w Naxxramas.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Można wykonać po ukończeniu wyzwania klasowego dla łowcy w Naxxramas.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3733,30 +3733,30 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla wojownika w Naxxramas.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   Do standardowego wyposażenia rycerzy śmierci należą między innymi: rumak śmierci, pancerz śmierci, plecak śmierci i mydło śmierci.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla wojownika w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Do standardowego wyposażenia rycerzy śmierci należą między innymi: rumak śmierci, pancerz śmierci, plecak śmierci i mydło śmierci.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla wojownika w Naxxramas.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -3770,9 +3770,6 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3785,9 +3782,12 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przyzwij dwa Widmowe pająki 1/1.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Anub&amp;apos;Rekhana w Rewirze Arachnidów.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Można wykonać po pokonaniu Anub&amp;apos;Rekhana w Rewirze Arachnidów.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3797,21 +3797,21 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Potrawka z pajęczaka może zawierać znaczące ilości składników arachnidowych.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Aby odblokować, pokonaj Anub&amp;apos;Rekhana w Rewirze Arachnidów.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Można wykonać po pokonaniu Anub&amp;apos;Rekhana w Rewirze Arachnidów.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -3904,9 +3904,9 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <text>
    Nie może zostać wybrany jako cel zaklęć lub mocy specjalnych.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Gotyka Żniwiarza w Rewirze Zbrojnych.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3916,21 +3916,21 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   Co wspólnego mają baśniowe smoki i widmowi rycerze? Trudno w nich wycelować!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Gotyka Żniwiarza w Rewirze Zbrojnych.
   </howtogetgold>
+  <flavor>
+   Co wspólnego mają baśniowe smoki i widmowi rycerze? Trudno w nich wycelować!
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Gotyka Żniwiarza w Rewirze Zbrojnych.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <set>
@@ -3959,15 +3959,15 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -3976,15 +3976,15 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -4013,9 +4013,9 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <text>
    Stronnicy z &lt;b&gt;Okrzykiem bojowym&lt;/b&gt; kosztują (2) więcej.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Wielką Wdowę Ferlinę w Rewirze Arachnidów.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -4025,21 +4025,21 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Nerub&amp;apos;arowie to nieumarli nerubianie, którzy zostali siłą wcieleni do armii Króla Licza.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Wielkiej Wdowy Ferliny w Rewirze Arachnidów.
   </howtogetgold>
+  <flavor>
+   Nerub&amp;apos;arowie to nieumarli nerubianie, którzy zostali siłą wcieleni do armii Króla Licza.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Wielką Wdowę Ferlinę w Rewirze Arachnidów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <mechanics>
@@ -4139,27 +4139,27 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <text>
    Zniszcz wszystkich stronników i przyzwij na ich miejsce Drzewce 2/2.
   </text>
-  <howtoget>
-   Aby odblokować, ukończ wyzwanie klasowe dla druida w Naxxramas.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   Druidzkie bułeczki z nasionami sprzedawały się świetnie, nawet gdy w pobliżu sklepików zaczęły powstawać tartaki goblińskiej spółki Gitgeszeft.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Można wykonać po ukończeniu wyzwania klasowego dla druida w Naxxramas.
   </howtogetgold>
+  <flavor>
+   Druidzkie bułeczki z nasionami sprzedawały się świetnie, nawet gdy w pobliżu sklepików zaczęły powstawać tartaki goblińskiej spółki Gitgeszeft.
+  </flavor>
+  <howtoget>
+   Aby odblokować, ukończ wyzwanie klasowe dla druida w Naxxramas.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -4185,9 +4185,9 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <text>
    &lt;b&gt;Okrzyk bojowy: Wycisz&lt;/b&gt; swoich pozostałych stronników.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Thadiusa w Rewirze Konstruktów.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -4197,21 +4197,21 @@ Zadaj 2 pkt. obrażeń wszystkim wrogom. Jeśli któryś zginie, przyzwij śluz.
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Ta dusza poczuła tak wielki zawód, że jej zawodem stało się zawodzenie.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Thadiusa w Rewirze Konstruktów.
   </howtogetgold>
+  <flavor>
+   Ta dusza poczuła tak wielki zawód, że jej zawodem stało się zawodzenie.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Thadiusa w Rewirze Konstruktów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -4351,9 +4351,9 @@ Dobierz kartę.
   <text>
    &lt;b&gt;Agonia:&lt;/b&gt; Przywróć 5 pkt. zdrowia wrogiemu bohaterowi.
   </text>
-  <howtoget>
-   Aby odblokować, pokonaj Gluta w Rewirze Konstruktów.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4363,20 +4363,20 @@ Dobierz kartę.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Glut uwielbia wrzucić sobie zombiaka na ząb. Najbardziej lubi żuć zombie z człowieka gumy.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Można wykonać po pokonaniu Gluta w Rewirze Konstruktów.
   </howtogetgold>
+  <flavor>
+   Glut uwielbia wrzucić sobie zombiaka na ząb. Najbardziej lubi żuć zombie z człowieka gumy.
+  </flavor>
+  <howtoget>
+   Aby odblokować, pokonaj Gluta w Rewirze Konstruktów.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
 </cards>

@@ -85,15 +85,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -114,12 +114,15 @@
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    在每个回合结束时，召唤所有在本回合中死亡的友方随从。
   </text>
-  <howtoget>
-   在击败纳克萨玛斯的所有首领后解锁！
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -129,35 +132,32 @@
   <health>
    8
   </health>
+  <howtogetgold>
+   在纳克萨玛斯击败所有首领后能够制作！
+  </howtogetgold>
+  <flavor>
+   克尔苏加德迷恋于巫妖王的声音。即使是巫妖王在电话自动语音中的留言也让他甘之若饴。
+  </flavor>
+  <howtoget>
+   在击败纳克萨玛斯的所有首领后解锁！
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   克尔苏加德迷恋于巫妖王的声音。即使是巫妖王在电话自动语音中的留言也让他甘之若饴。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在纳克萨玛斯击败所有首领后能够制作！
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -459,9 +459,9 @@
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;在回合结束时召唤一个该随从的复制。
   </text>
-  <howtoget>
-   在击败冰龙巢穴的萨菲隆后解锁。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -471,21 +471,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   分裂软泥怪……软泥怪……泥怪……怪……
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在冰龙巢穴击败萨菲隆后能够制作。
   </howtogetgold>
+  <flavor>
+   分裂软泥怪……软泥怪……泥怪……怪……
+  </flavor>
+  <howtoget>
+   在击败冰龙巢穴的萨菲隆后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <text>
@@ -520,27 +520,27 @@
   <text>
    消灭所有随从，并召唤等量的2/2树人代替他们。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的德鲁伊职业挑战后解锁。
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   把植物种在地上是保护环境，种在敌人身体里就是另外一回事情了。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    在纳克萨玛斯完成德鲁伊职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   把植物种在地上是保护环境，种在敌人身体里就是另外一回事情了。
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的德鲁伊职业挑战后解锁。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -620,9 +620,9 @@
   <text>
    &lt;b&gt;战吼：沉默&lt;/b&gt;你的其他随从。
   </text>
-  <howtoget>
-   在击败构造区的塔迪乌斯后解锁。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -632,32 +632,32 @@
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   只要他拿起麦克风，别人的声音都听不见了。
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在构造区击败塔迪乌斯后能够制作。
   </howtogetgold>
+  <flavor>
+   只要他拿起麦克风，别人的声音都听不见了。
+  </flavor>
+  <howtoget>
+   在击败构造区的塔迪乌斯后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -666,15 +666,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -689,9 +689,9 @@
   <name>
    塔迪乌斯
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -704,9 +704,9 @@
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
@@ -752,27 +752,27 @@
   <text>
    &lt;b&gt;奥秘：&lt;/b&gt;当你的随从死亡时，使一个随机友方随从获得+3/+2。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的圣骑士职业挑战后解锁。
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   有几个身怀绝技的圣骑士想要组成一个团体来声张正义，并自称“复仇者联盟”。不久，他们受到了某家电影公司的起诉。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    在纳克萨玛斯完成圣骑士职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   有几个身怀绝技的圣骑士想要组成一个团体来声张正义，并自称“复仇者联盟”。不久，他们受到了某家电影公司的起诉。
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的圣骑士职业挑战后解锁。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -818,27 +818,27 @@
   <text>
    &lt;b&gt;奥秘：&lt;/b&gt;当一个友方随从死亡时，将两个该随从的复制置入你的手牌。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的法师职业挑战后解锁。
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   您的本次卡牌复制行为不会导致账号被封停！
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    在纳克萨玛斯完成法师职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   您的本次卡牌复制行为不会导致账号被封停！
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的法师职业挑战后解锁。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -850,6 +850,9 @@
   <name>
    女公爵布劳缪克丝
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -865,9 +868,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -879,6 +879,9 @@
   <name>
    女公爵布劳缪克丝
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -894,9 +897,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -973,9 +973,9 @@
   <text>
    具有&lt;b&gt;战吼&lt;/b&gt;的随从法力值消耗增加(2)点。
   </text>
-  <howtoget>
-   在击败蜘蛛区的黑女巫法琳娜后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -985,21 +985,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   蛛网领主的工作就是每天制作超大型蹦床。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在蜘蛛区击败黑女巫法琳娜后能够制作。
   </howtogetgold>
+  <flavor>
+   蛛网领主的工作就是每天制作超大型蹦床。
+  </flavor>
+  <howtoget>
+   在击败蜘蛛区的黑女巫法琳娜后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <collectible>
@@ -1017,9 +1017,9 @@
   <text>
    在你的回合开始时，为该随从恢复所有生命值。
   </text>
-  <howtoget>
-   在击败瘟疫区的瘟疫使者诺斯后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1029,21 +1029,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   岩肤石像鬼最喜欢玩的游戏就是：“我们都是木头人”。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫区击败瘟疫使者诺斯后能够制作。
   </howtogetgold>
+  <flavor>
+   岩肤石像鬼最喜欢玩的游戏就是：“我们都是木头人”。
+  </flavor>
+  <howtoget>
+   在击败瘟疫区的瘟疫使者诺斯后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <set>
@@ -1115,15 +1115,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -1132,15 +1132,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -1155,6 +1155,9 @@
   <name>
    库尔塔兹领主
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -1170,9 +1173,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -1184,6 +1184,9 @@
   <name>
    库尔塔兹领主
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -1199,9 +1202,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -1269,15 +1269,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1286,15 +1286,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1303,15 +1303,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -1320,15 +1320,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -1354,12 +1354,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;如果费尔根也在本局对战中死亡，召唤塔迪乌斯。
   </text>
-  <howtoget>
-   在击败构造区的所有首领后解锁。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -1369,24 +1372,21 @@
   <health>
    4
   </health>
+  <howtogetgold>
+   在构造区击败所有首领后能够制作。
+  </howtogetgold>
+  <flavor>
+   斯塔拉格想要亲自填写自己的背景故事。“斯塔拉格棒极了！”
+  </flavor>
+  <howtoget>
+   在击败构造区的所有首领后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   斯塔拉格想要亲自填写自己的背景故事。“斯塔拉格棒极了！”
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在构造区击败所有首领后能够制作。
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -1395,9 +1395,9 @@
   <name>
    斯塔拉格
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1410,9 +1410,9 @@
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -1507,15 +1507,15 @@
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1524,15 +1524,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1541,15 +1541,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1558,15 +1558,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -1598,30 +1598,30 @@
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   在完成纳克萨玛斯的战士职业挑战后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   “让死神品味你的血肉。”——死亡领主麦克斯卡夫
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    在纳克萨玛斯完成战士职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   “让死神品味你的血肉。”——死亡领主麦克斯卡夫
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的战士职业挑战后解锁。
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -1735,9 +1735,9 @@
   <text>
    &lt;b&gt;嘲讽，亡语：&lt;/b&gt;你的对手将一个随从从其牌库置入战场。
   </text>
-  <howtoget>
-   在击败军事区的天启四骑士后解锁。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -1747,21 +1747,21 @@
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   “从你的坟墓中醒来吧！”——克尔苏加德
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在军事区击败天启四骑士后能够制作。
   </howtogetgold>
+  <flavor>
+   “从你的坟墓中醒来吧！”——克尔苏加德
+  </flavor>
+  <howtoget>
+   在击败军事区的天启四骑士后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <set>
@@ -1975,15 +1975,15 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    比格沃斯先生
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;克尔苏加德的爱喵。&lt;/i&gt;
   </text>
@@ -1999,12 +1999,12 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2058,12 +2058,15 @@
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;下个回合敌方法术的法力值消耗增加(5)点。
   </text>
-  <howtoget>
-   在击败瘟疫区的所有首领后解锁。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -2073,35 +2076,32 @@
   <health>
    5
   </health>
+  <howtogetgold>
+   在击败瘟疫区的所有首领后能够制作。
+  </howtogetgold>
+  <flavor>
+   洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。
+  </flavor>
+  <howtoget>
+   在击败瘟疫区的所有首领后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在击败瘟疫区的所有首领后能够制作。
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -2110,15 +2110,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -2150,9 +2150,9 @@
   <text>
    &lt;b&gt;嘲讽，亡语：&lt;/b&gt;召唤一个1/2并具有&lt;b&gt;嘲讽&lt;/b&gt;的泥浆怪。
   </text>
-  <howtoget>
-   在击败瘟疫区的洛欧塞布后解锁。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -2162,21 +2162,21 @@
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   千万别让他喝碳酸饮料！
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫区击败洛欧塞布后能够制作。
   </howtogetgold>
+  <flavor>
+   千万别让他喝碳酸饮料！
+  </flavor>
+  <howtoget>
+   在击败瘟疫区的洛欧塞布后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2315,15 +2315,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -2332,15 +2332,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -2366,12 +2366,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    你的随从的&lt;b&gt;亡语&lt;/b&gt;效果将触发两次。
   </text>
-  <howtoget>
-   在击败军事区的所有首领后解锁。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -2381,24 +2384,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   在击败军事区的所有首领后能够制作。
+  </howtogetgold>
+  <flavor>
+   整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。
+  </flavor>
+  <howtoget>
+   在击败军事区的所有首领后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在击败军事区的所有首领后能够制作。
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -2407,6 +2407,9 @@
   <name>
    瑟里耶克爵士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -2422,9 +2425,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -2436,6 +2436,9 @@
   <name>
    瑟里耶克爵士
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    使你的英雄获得&lt;b&gt;免疫&lt;/b&gt;。
   </text>
@@ -2451,9 +2454,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -2479,9 +2479,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;将一个&lt;b&gt;奥秘&lt;/b&gt;从你的牌库中置入战场。
   </text>
-  <howtoget>
-   在击败构造区的格罗布鲁斯后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -2491,21 +2491,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   他的妈妈希望他成为一名法师或是一名术士，但是他没有。他必须踏上属于自己的道路，成为一个和他父亲一样的科学家。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在构造区击败格罗布鲁斯后能够制作。
   </howtogetgold>
+  <flavor>
+   他的妈妈希望他成为一名法师或是一名术士，但是他没有。他必须踏上属于自己的道路，成为一个和他父亲一样的科学家。
+  </flavor>
+  <howtoget>
+   在击败构造区的格罗布鲁斯后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
   <set>
@@ -2576,9 +2576,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2591,9 +2588,12 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;随机将一个恶魔从你的手牌置入战场。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的术士职业挑战后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在纳克萨玛斯完成术士职业挑战后能够制作。
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -2603,21 +2603,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    “虚空！别调皮了，为师叫你呢，过来吧，虚空！”
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在完成纳克萨玛斯的术士职业挑战后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在纳克萨玛斯完成术士职业挑战后能够制作。
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -2767,9 +2767,9 @@
   <text>
    &lt;b&gt;潜行。&lt;/b&gt;在你的回合开始时，获得+1/+1。
   </text>
-  <howtoget>
-   在击败冰龙巢穴的克尔苏加德后解锁。
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -2779,21 +2779,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   纳克萨玛斯之影真的很讨厌活的东西。在他们看来，人类和兽人确实有所区别，就像蛆虫和老鼠的区别一样。
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在冰龙巢穴击败克尔苏加德后能够制作。
   </howtogetgold>
+  <flavor>
+   纳克萨玛斯之影真的很讨厌活的东西。在他们看来，人类和兽人确实有所区别，就像蛆虫和老鼠的区别一样。
+  </flavor>
+  <howtoget>
+   在击败冰龙巢穴的克尔苏加德后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2804,9 +2804,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2819,9 +2816,12 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;随机将一张野兽牌置入你的手牌。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的猎人职业挑战后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在纳克萨玛斯完成猎人职业挑战后能够制作。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -2831,21 +2831,21 @@
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    蜘蛛的茧里往往会藏着意想不到的好东西！
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在完成纳克萨玛斯的猎人职业挑战后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在纳克萨玛斯完成猎人职业挑战后能够制作。
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -2871,9 +2871,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;为敌方英雄恢复5点生命值。
   </text>
-  <howtoget>
-   在击败构造区的格拉斯后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -2883,21 +2883,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   僵尸。好吃的僵尸。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在构造区击败格拉斯后能够制作。
   </howtogetgold>
+  <flavor>
+   僵尸。好吃的僵尸。
+  </flavor>
+  <howtoget>
+   在击败构造区的格拉斯后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
  <item>
   <set>
@@ -3022,9 +3022,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;你的对手抽一张牌。
   </text>
-  <howtoget>
-   在击败军事区的教官苏维奥斯后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3034,32 +3034,32 @@
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   请欣赏他们的瑞格舞步。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在军事区击败教官拉苏维奥斯后能够制作。
   </howtogetgold>
+  <flavor>
+   请欣赏他们的瑞格舞步。
+  </flavor>
+  <howtoget>
+   在击败军事区的教官苏维奥斯后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -3068,15 +3068,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3197,9 +3197,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;召唤一个4/4的蛛魔。
   </text>
-  <howtoget>
-   在击败蜘蛛区的迈克斯纳后解锁。
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -3209,21 +3209,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   蛛魔产的卵和鸡生的蛋都含有丰富的蛋白质。
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在蜘蛛区击败迈克斯纳后能够制作。
   </howtogetgold>
+  <flavor>
+   蛛魔产的卵和鸡生的蛋都含有丰富的蛋白质。
+  </flavor>
+  <howtoget>
+   在击败蜘蛛区的迈克斯纳后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3316,12 +3316,15 @@
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;如果斯塔拉格也在本局对战中死亡，召唤塔迪乌斯。
   </text>
-  <howtoget>
-   在击败构造区的所有首领后解锁。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -3331,24 +3334,21 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   在构造区击败所有首领后能够制作。
+  </howtogetgold>
+  <flavor>
+   费尔根很悲伤，因为所有人都喜欢斯塔拉格。
+  </flavor>
+  <howtoget>
+   在击败构造区的所有首领后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   费尔根很悲伤，因为所有人都喜欢斯塔拉格。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在构造区击败所有首领后能够制作。
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -3357,9 +3357,9 @@
   <name>
    费尔根
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3372,9 +3372,9 @@
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
@@ -3403,9 +3403,9 @@
   <text>
    &lt;b&gt;嘲讽，亡语：&lt;/b&gt;对所有随从造成1点伤害。
   </text>
-  <howtoget>
-   在击败瘟疫区的肮脏的希尔盖后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3415,21 +3415,21 @@
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   最近，给食尸鬼喂食火箭燃料是各大死灵学院最为流行的玩法。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在瘟疫区击败肮脏的希尔盖后能够制作。
   </howtogetgold>
+  <flavor>
+   最近，给食尸鬼喂食火箭燃料是各大死灵学院最为流行的玩法。
+  </flavor>
+  <howtoget>
+   在击败瘟疫区的肮脏的希尔盖后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
   <collectible>
@@ -3447,27 +3447,27 @@
   <text>
    消灭一个随从，然后将其复活，并恢复所有生命值。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的萨满祭司职业挑战后解锁。
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   这和出生时没什么两样，除了你生下来就是个成年人，除了你一秒钟之前还是个死人。
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    在纳克萨玛斯完成萨满祭司职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   这和出生时没什么两样，除了你生下来就是个成年人，除了你一秒钟之前还是个死人。
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的萨满祭司职业挑战后解锁。
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3496,15 +3496,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -3513,15 +3513,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -3538,9 +3538,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -3550,12 +3547,18 @@
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    消灭任何受到该随从伤害的随从。
   </text>
-  <howtoget>
-   在击败蜘蛛区的所有首领后解锁。
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   在蜘蛛区击败所有首领后能够制作。
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -3565,24 +3568,21 @@
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   每当人们用“蜘蛛三”称呼迈克斯纳的时候，它就会很生气。
+  </flavor>
+  <howtoget>
+   在击败蜘蛛区的所有首领后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   每当人们用“蜘蛛三”称呼迈克斯纳的时候，它就会很生气。
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   在蜘蛛区击败所有首领后能够制作。
-  </howtogetgold>
  </item>
  <item>
   <collectible>
@@ -3600,9 +3600,9 @@
   <text>
    每当你召唤一个具有&lt;b&gt;亡语&lt;/b&gt;的随从，便获得+1攻击力。
   </text>
-  <howtoget>
-   在击败构造区的帕奇维克后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3612,21 +3612,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   在这样一个几乎每个人都能把同伴复活的世界，送葬者的工作其实很轻松。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在构造区击败帕奇维克后能够制作。
   </howtogetgold>
+  <flavor>
+   在这样一个几乎每个人都能把同伴复活的世界，送葬者的工作其实很轻松。
+  </flavor>
+  <howtoget>
+   在击败构造区的帕奇维克后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -3840,9 +3840,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;将一个随机友方随从移回你的手牌。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的潜行者职业挑战后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -3852,35 +3852,35 @@
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   他原来的名字叫作“阿努巴尔弹回者”，因为他喜欢把队友弹回玩家手上。虽然他改掉了这个坏习惯并因此改了名，但他有时还是会情不自禁。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在纳克萨玛斯完成潜行者职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   他原来的名字叫作“阿努巴尔弹回者”，因为他喜欢把队友弹回玩家手上。虽然他改掉了这个坏习惯并因此改了名，但他有时还是会情不自禁。
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的潜行者职业挑战后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -3889,15 +3889,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -4139,9 +4139,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -4154,9 +4151,12 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;召唤两个1/1的鬼灵蜘蛛。
   </text>
-  <howtoget>
-   在击败蜘蛛区的阿努布雷坎后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   在蜘蛛区击败阿努布雷坎后能够制作。
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -4166,21 +4166,21 @@
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    不管是看到真蜘蛛还是假蜘蛛，患有蜘蛛恐惧症的人都会发出令人毛骨悚然的尖叫。
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   在击败蜘蛛区的阿努布雷坎后解锁。
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   在蜘蛛区击败阿努布雷坎后能够制作。
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <set>
@@ -4247,9 +4247,9 @@
   <text>
    无法成为法术或英雄技能的目标。
   </text>
-  <howtoget>
-   在击败军事区的收割者戈提克后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -4259,32 +4259,32 @@
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   精灵龙和鬼灵骑士有什么共同之处？它们的名字里都有“灵”字！
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在军事区击败收割者戈提克后能够制作。
   </howtogetgold>
+  <flavor>
+   精灵龙和鬼灵骑士有什么共同之处？它们的名字里都有“灵”字！
+  </flavor>
+  <howtoget>
+   在击败军事区的收割者戈提克后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -4293,15 +4293,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -4347,9 +4347,9 @@
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;使一个随机友方随从获得+3生命值。
   </text>
-  <howtoget>
-   在完成纳克萨玛斯的牧师职业挑战后解锁。
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -4359,21 +4359,21 @@
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   诅咒教派最近在招新的时候遇到很多阻力。不能拉横幅，不能写标语，不能搞游行，很难制造声势。
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    在纳克萨玛斯完成牧师职业挑战后能够制作。
   </howtogetgold>
+  <flavor>
+   诅咒教派最近在招新的时候遇到很多阻力。不能拉横幅，不能写标语，不能搞游行，很难制造声势。
+  </flavor>
+  <howtoget>
+   在完成纳克萨玛斯的牧师职业挑战后解锁。
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>

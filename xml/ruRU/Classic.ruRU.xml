@@ -102,9 +102,9 @@
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -117,9 +117,9 @@
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -151,6 +151,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Неистовство ветра, Рывок, Божественный щит, Провокация&lt;/b&gt;
   </text>
@@ -166,15 +169,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Он самый слабый среди четырех повелителей элементалей, и остальные трое не дают ему забыть об этом.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -191,9 +191,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -203,6 +200,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; текущее здоровье выбранного героя становится равно 15.
   </text>
@@ -221,15 +221,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Алекстраза, Хранительница Жизни несет свет и надежду каждому. Кроме Смертокрыла. И Малигоса. И еще Некроса.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -464,6 +464,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Каждый раз, когда вы разыгрываете карту заклинания, вы кладете карту «Огненный шар» к себе в руку.
   </text>
@@ -482,17 +485,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Антонидас был великим магом Кирин-Тора и учителем Джайны. После предыдущей работы великим зачаровывателем пончиков с джемом это было серьезное повышение.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -628,6 +628,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    В конце вашего хода наносит 2 ед. урона ВСЕМ остальным персонажам.
   </text>
@@ -646,15 +649,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    В детстве его дразнили «Геддон-армагеддон». Он вырос и пошел работать на Рагнароса.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -758,9 +758,9 @@
   <name>
    Бейн Кровавое Копыто
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -773,17 +773,14 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -805,6 +802,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -833,9 +833,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -857,6 +854,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -1264,9 +1264,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -1294,6 +1291,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Он может предсказать ваше будущее. В будущем оба игрока будут брать карты.
   </flavor>
@@ -1313,9 +1313,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -1343,6 +1340,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Вайш&amp;apos;ирские мурлоки обитают в самых глубоких расщелинах Бездонных глубин. Это доказывает, что от мурлоков нигде нельзя спрятаться.
   </flavor>
@@ -1443,9 +1443,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1473,6 +1470,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Маннорот, Магтеридон и Бруталл мертвы. Но похоже, в преисподней ОЧЕНЬ много владык.
   </flavor>
@@ -1657,9 +1657,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1687,6 +1684,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -1934,9 +1934,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1961,6 +1958,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -2058,9 +2058,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2082,6 +2079,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2096,9 +2096,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2123,6 +2120,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -2526,9 +2526,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2553,6 +2550,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Сегодня у нас на ужин мурлоки!
   </flavor>
@@ -2569,9 +2569,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2590,6 +2587,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2700,6 +2700,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Рывок&lt;/b&gt;. 
 &lt;b&gt;Исступление:&lt;/b&gt; +6 к атаке.
@@ -2719,15 +2722,12 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Громмаш выпил оскверненную кровь Маннорота и обрек орков на зеленую кожу и красные глаза. Возможно, это было не лучшим из его решений.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -2748,6 +2748,9 @@
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    В конце каждого хода получает +1/+1.
   </text>
@@ -2763,17 +2766,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Груул Драконобой просто хотел погладить дракончика... но не рассчитал силу.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -3045,9 +3045,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -3072,6 +3069,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    «Я граблю только семь дней в неделю».
   </flavor>
@@ -3152,15 +3152,15 @@
   <name>
    Длинный лук
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Атакуя, ваш герой не получает урона.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Атакуя, ваш герой не получает урона.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -3187,9 +3187,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3208,6 +3205,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -3216,9 +3216,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3234,6 +3231,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -3571,6 +3571,9 @@
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    В конце вашего хода вы призываете на поле боя гнолла 2/2 со способностью &lt;b&gt;«Провокация»&lt;/b&gt;.
   </text>
@@ -3586,15 +3589,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Дробитель ужасно сильный. Если вы убьете его, то это значит, что он вам &lt;i&gt;поддался&lt;/i&gt;.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -3605,9 +3605,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3629,6 +3626,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3689,9 +3689,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3713,6 +3710,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3918,9 +3918,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -3942,6 +3939,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -3975,9 +3975,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4005,6 +4002,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Полет совы безмолвен. И вообще совы – не то, чем они кажутся.
   </flavor>
@@ -4159,9 +4159,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4186,6 +4183,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    В переводе с пиратского «Арррр!» означает «Приветствую вас, милостивый государь».
   </flavor>
@@ -4623,9 +4623,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4650,6 +4647,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Нет зверя страшнее (или смешнее?), чем разъяренная курица.
   </flavor>
@@ -4803,9 +4803,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4827,6 +4824,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -5005,9 +5005,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -5017,6 +5014,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    В конце вашего хода вы берете карту Сна.
   </text>
@@ -5035,23 +5035,20 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Изера правит царством Изумрудного Сна. Интересно, есть ли там дорога из желтого кирпича?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -5067,6 +5064,9 @@
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -5081,9 +5081,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5093,6 +5090,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Призывает пламя Аззинота 2/1 каждый раз, когда вы разыгрываете карту.
   </text>
@@ -5111,15 +5111,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Брат Иллидана, Малфурион, заточил его под Хиджалом на десять тысяч лет. Кажется, в их семье не любят прощать обиды.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
@@ -5133,9 +5133,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5163,6 +5160,9 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -5176,9 +5176,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -5200,6 +5197,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -5325,9 +5325,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -5337,6 +5334,9 @@
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; ваше оружие получает +1/+1.
   </text>
@@ -5352,15 +5352,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Он должен был вести исполинский корабль на Штормград, но эти противные дети опять все испортили!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -5374,9 +5374,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -5401,6 +5398,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Когда-нибудь он награбит достаточно и закажет себе огромную капитанскую шляпу. Он к ним неравнодушен.
   </flavor>
@@ -5424,6 +5424,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Выберите эффект:&lt;/b&gt; остальные ваши существа получают +2/+2; или призовите на поле боя двух древней 2/2 со способностью &lt;b&gt;«Провокация»&lt;/b&gt;.
   </text>
@@ -5442,17 +5445,14 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Да, он действительно полубог. Нет, он не носит рубашки.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -5478,15 +5478,15 @@
   <name>
    Клинок вечных мук
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Боевой клич:&lt;/b&gt; наносит 1 ед. урона. &lt;b&gt;Серия приемов:&lt;/b&gt; вместо этого наносит 2 ед. урона.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Боевой клич:&lt;/b&gt; наносит 1 ед. урона. &lt;b&gt;Серия приемов:&lt;/b&gt; вместо этого наносит 2 ед. урона.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -5792,9 +5792,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5804,6 +5801,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Рывок&lt;/b&gt;
   </text>
@@ -5822,15 +5822,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Лучшая защита от короля Круша – встать за спиной у какого-нибудь неприятного вам существа.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -5847,9 +5847,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5859,6 +5856,9 @@
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; ваш противник получает 2 банана.
   </text>
@@ -5874,15 +5874,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Король Мукла бродит по острову Жагуаро в поисках любви.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -5982,9 +5982,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6012,6 +6009,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -6037,15 +6037,15 @@
   <name>
    Кровавый вой
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Когда вы атакуете существ, это оружие теряет 1 ед. атаки вместо прочности.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Когда вы атакуете существ, это оружие теряет 1 ед. атаки вместо прочности.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -6100,9 +6100,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -6127,6 +6124,9 @@
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Однажды пират, лежа в больнице, по привычке захватил чужое судно.
   </flavor>
@@ -6228,6 +6228,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает на поле боя Бейна Кровавое Копыто 4/5.
   </text>
@@ -6246,15 +6249,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Лучше не кладите эту карту в колоду Гарроша. У них в последнее время не очень хорошие отношения.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -6271,9 +6271,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6301,6 +6298,9 @@
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Не называйте их голубыми драконами, они обижаются.
   </flavor>
@@ -6581,6 +6581,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Рывок&lt;/b&gt;. &lt;b&gt;Боевой клич:&lt;/b&gt; призывает на сторону вашего противника двух дракончиков 1/1.
   </text>
@@ -6599,15 +6602,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Зато у него есть злая курица.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -6621,9 +6621,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6633,6 +6630,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; уничтожает вашего героя и заменяет его лордом Джараксусом.
   </text>
@@ -6648,15 +6648,15 @@
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    «НИЧТОЖНЫЙ ГНОМ! ТВОЯ САМОУВЕРЕННОСТЬ ТЕБЯ ПОГУБИТ!»
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -6665,9 +6665,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6689,6 +6686,9 @@
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -6876,6 +6876,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Урон от заклинаний +1&lt;/b&gt;. &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы берете карту.
   </text>
@@ -6894,15 +6897,12 @@
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Он отвечает за проведение ежегодного кровавого бала в Монастыре Алого ордена.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -6985,9 +6985,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6997,6 +6994,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Урон от заклинаний +5&lt;/b&gt;
   </text>
@@ -7015,15 +7015,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Малигос терпеть не может, когда смертные пользуются магией. Это выводит его из себя!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -7267,9 +7267,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -7297,6 +7294,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Он первый подписал петицию об отмене антипиратского закона.
   </flavor>
@@ -7391,6 +7391,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; превращает другое случайное существо в дьявозавра 5/5 или белку 1/1.
   </text>
@@ -7409,15 +7412,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Мехмастер Замыкалец чуть не потерял свою лицензию мехмастера после великого нашествия белок на Стальгорн.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -7432,15 +7432,15 @@
   <name>
    Меч справедливости
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Каждый раз, когда вы призываете существо на поле боя, оно получает +1/+1, а это оружие теряет 1 ед. прочности.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Каждый раз, когда вы призываете существо на поле боя, оно получает +1/+1, а это оружие теряет 1 ед. прочности.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -7484,6 +7484,9 @@
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; в следующий ход противника его заклинания стоят (0) маны.
   </text>
@@ -7499,15 +7502,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    «Давай зажигать, крошка!»
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -7692,9 +7692,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7722,6 +7719,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    В их честь таурены назвали свою лучшую команду по тауренболу «Дракондоры».
   </flavor>
@@ -7793,15 +7793,15 @@
   <name>
    Молот Рока
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;Неистовство ветра&lt;/b&gt;. &lt;b&gt;Перегрузка:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Неистовство ветра&lt;/b&gt;. &lt;b&gt;Перегрузка:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -8030,9 +8030,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -8060,6 +8057,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Когда они собираются, чтобы вместе помутить волны, с ними лучше не связываться!
   </flavor>
@@ -8079,9 +8079,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -8109,6 +8106,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Как вы думаете, мурлоки когда-нибудь устают издавать один и тот же звук? Ничего подобного! Мрглглглглглглг!
   </flavor>
@@ -8169,6 +8169,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    В начале вашего хода вы с вероятностью 50% берете дополнительную карту.
   </text>
@@ -8187,17 +8190,14 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Нат Пэгл, лучший рыболов Азерота! Он изобрел Автоспиннинг 3000, Мегакрючок 3000 и Супернаживку 2099 (последняя все еще испытывается).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -8300,9 +8300,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8327,6 +8324,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Как поймать кодо с помощью спичечного коробка, бинокля и пинцета? Нужно посмотреть на кодо через перевернутый бинокль, он станет маленьким-маленьким. Затем его нужно взять пинцетом и поместить в коробок.
   </flavor>
@@ -8338,9 +8338,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8362,6 +8359,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -8376,9 +8376,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8388,6 +8385,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Длительность хода каждого игрока ограничена 15 секундами.
   </text>
@@ -8406,17 +8406,17 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    Эффективное средство против нерасторопных противников.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -8600,9 +8600,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8630,6 +8627,9 @@
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Бесы любят зажигать. В буквальном смысле.
   </flavor>
@@ -8771,9 +8771,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8783,6 +8780,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; призывает на вашу сторону дракончиков 1/1, пока поле боя не заполнится.
   </text>
@@ -8801,15 +8801,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Давным-давно Ониксия плела интриги при королевском дворе Штормграда, выдавая себя за леди Катрану Престор. И как только ей удавалось прятать когтистые лапы и огромные крылья?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -9054,9 +9054,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9075,6 +9072,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -9438,9 +9438,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -9462,6 +9459,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -10143,6 +10143,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Ваши заклинания и сила героя восстанавливают здоровье и наносят урон в двойном объеме.
   </text>
@@ -10161,15 +10164,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Он был изгнан из родного дома, его братья обратились ко злу, но в остальном у него все хорошо!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -10340,6 +10340,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Не может атаковать. В конце вашего хода наносит 8 ед. урона случайному персонажу противника.
   </text>
@@ -10358,15 +10361,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Рагнароса призвали дворфы клана Черного Железа, и это закончилось тем, что Повелитель огня их поработил. Мораль: не призывайте Рагнароса, это может плохо кончиться.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -10413,9 +10413,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -10443,6 +10440,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -11054,6 +11054,9 @@
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы получаете контроль над случайным существом противника.
   </text>
@@ -11069,15 +11072,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Артас превратил Сильвану в королеву банши. Какое оскорбление! Право, лучше бы он ее убил...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -11390,9 +11390,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -11402,6 +11399,9 @@
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; уничтожает все прочие существа. Вы сбрасываете все карты из вашей руки.
   </text>
@@ -11417,15 +11417,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Однажды дракон Смертокрыл (ранее известный как Нелтарион) сошел с ума и чуть не разрушил Азерот, но его остановили. Может, ему надо было чаще бывать на свежем воздухе?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -11775,9 +11775,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11805,6 +11802,9 @@
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Да, он будет сражаться за вас. НЕТ, ЕМУ НЕ НРАВИТСЯ ВАМ ПОДЧИНЯТЬСЯ.
   </flavor>
@@ -11830,9 +11830,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11860,6 +11857,9 @@
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Призывать стража ужаса опасно – обычно при этом &lt;i&gt;кто-нибудь&lt;/i&gt; умирает.
   </flavor>
@@ -11968,9 +11968,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -11998,6 +11995,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Сумеречные драконы питаются духовной энергией и бутербродами с колбасой.
   </flavor>
@@ -12250,9 +12250,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12280,6 +12277,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Если вы заблудились в Тернистой долине, то кричите громче: своим криком вы спасете местных тигров от вымирания.
   </flavor>
@@ -12314,6 +12314,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Божественный щит&lt;/b&gt;. &lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Предсмертный хрип:&lt;/b&gt; вы берете в руки Испепелитель 5/3.
   </text>
@@ -12332,15 +12335,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Если вы никогда не слышали музыкальную тему Тириона Фордринга, то это потому, что ее не существует.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -12358,15 +12358,15 @@
   <name>
    Топор бури
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Перегрузка:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Перегрузка:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -12416,9 +12416,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -12446,6 +12443,9 @@
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Говорят, некоторые шаманы используют название этой карты как скороговорку.
   </flavor>
@@ -12483,9 +12483,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -12510,6 +12507,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    ТРЕВОГА, ТРЕВОГА, ТРЕВОГА.
   </flavor>
@@ -12529,9 +12529,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12559,6 +12556,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    «Чего уставился? Гладь!»
 
@@ -12652,9 +12652,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -12682,6 +12679,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    «Предел допустимого нагрева превышен. Засор второго порта, завершаю работу.»
   </flavor>
@@ -12701,9 +12701,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12728,6 +12725,9 @@
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Если вы положите эту карту в колоду, ваши существа перестанут вам доверять.
   </flavor>
@@ -13131,6 +13131,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; уничтожает оружие противника. Вы берете карты в количестве, равном его прочности.
   </text>
@@ -13149,15 +13152,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    «Этому место в Зале Исследователей!»
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -13321,6 +13321,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Каждый раз, когда игрок разыгрывает заклинание, копия карты этого заклинания кладется в руку другого игрока.
   </text>
@@ -13339,17 +13342,14 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Хранитель истории Чо знает множество преданий Пандарии, но самая любимая его история – про то, как злая курица стала такой злой.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -13623,6 +13623,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; уничтожает существо противника со способностью &lt;b&gt;«Провокация»&lt;/b&gt;.
   </text>
@@ -13638,15 +13641,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Его послал Король-лич, чтобы сорвать проведение Серебряного турнира. Разумеется, его миссия была обречена на неудачу.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -13721,9 +13721,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13748,6 +13745,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Очаровательный, милый, неуязвимый к магии и не точит когти о ковер. Идеальный питомец!
   </flavor>
@@ -13767,9 +13767,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13779,6 +13776,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; призывает на сторону вашего противника Айса Вентурона 3/3.
   </text>
@@ -13797,15 +13797,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Живет в Черной горе. Ест гномов. Вот и все, что мы можем о нем сказать.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -13993,6 +13993,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Серия приемов:&lt;/b&gt; это существо получает +2/+2 за каждую другую карту, разыгранную ранее на этом ходу.
   </text>
@@ -14011,15 +14014,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Он возглавлял братство Каменщиков, помогавших восстанавливать Штормград. Когда знать отказалась платить за их услуги, ван Клиф основал Братство Справедливости, чьей целью было &lt;i&gt;разобрать&lt;/i&gt; Штормград по камешку.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -14126,6 +14126,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    Если в конце хода у вас на поле боя остался &lt;b&gt;Секрет&lt;/b&gt;, это существо получает +2/+2.
   </text>
@@ -14141,15 +14144,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Эфириалы закутываются в ткань, потому что иначе их бесплотные тела нельзя увидеть. И еще потому что они любят шелк.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>

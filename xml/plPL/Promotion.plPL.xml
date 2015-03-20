@@ -18,9 +18,6 @@
   </name>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -45,6 +42,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -55,9 +55,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -82,6 +79,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -109,12 +109,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj obu graczom moc metalu! (oraz kartę „Odjazdowy riff”)
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -124,21 +127,18 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   Największe hity ETC to: „I Am a Murloc” (Jestem murlokiem), „Rogues Do It...” (Łotrzy robią to...) oraz „Power of the Horde” (Potęga Hordy).
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Nagroda za BlizzCon 2013
   </howtogetgold>
+  <flavor>
+   Największe hity ETC to: „I Am a Murloc” (Jestem murlokiem), „Rogues Do It...” (Łotrzy robią to...) oraz „Power of the Horde” (Potęga Hordy).
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
   <mechanics>
@@ -158,15 +158,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij NIESAMOWITY wynalazek.
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -176,21 +179,18 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   Jest przywódcą gnomów i wspaniałym wynalazcą. Z każdym dniem coraz mniej rzeczy zamienia w kurczaki.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Nagroda dla graczy, którzy pomogli testować sklep podczas bety.
   </howtogetgold>
+  <flavor>
+   Jest przywódcą gnomów i wspaniałym wynalazcą. Z każdym dniem coraz mniej rzeczy zamienia w kurczaki.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
   <set>
@@ -213,9 +213,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -234,6 +231,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -262,9 +262,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -280,6 +277,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>
@@ -308,9 +308,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -335,6 +332,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -345,9 +345,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -372,6 +369,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>

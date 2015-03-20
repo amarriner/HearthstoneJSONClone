@@ -63,15 +63,15 @@
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1h_01
   </id>
@@ -80,15 +80,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX1_01
   </id>
@@ -97,15 +97,15 @@
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    7
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01
   </id>
@@ -131,12 +131,15 @@
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Die &lt;b&gt;Todesröcheln&lt;/b&gt;-Effekte Eurer Diener werden 2-mal ausgelöst.
   </text>
-  <howtoget>
-   Wird durch das Abschließen des Militärviertels freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    1
   </attack>
@@ -146,35 +149,32 @@
   <health>
    7
   </health>
+  <howtogetgold>
+   Kann nach dem Abschluss des Militärviertels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Fünf kleine Reiterlein bestritten ein Turnier, um einen war es schnell geschehn, da waren&amp;apos;s nur noch vier.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Militärviertels freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_031
   </id>
-  <flavor>
-   Fünf kleine Reiterlein bestritten ein Turnier, um einen war es schnell geschehn, da waren&amp;apos;s nur noch vier.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Abschluss des Militärviertels hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    14
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX9_01H
   </id>
@@ -206,30 +206,30 @@
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Kriegers in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   FP1_021
-  </id>
-  <flavor>
-   Darf&amp;apos;s ein Biss&amp;apos;chen Tod sein?
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Weapon
-  </type>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Kriegers in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Darf&amp;apos;s ein Biss&amp;apos;chen Tod sein?
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Kriegers in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Weapon
+  </type>
+  <id>
+   FP1_021
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -314,9 +314,9 @@ Setzt das Leben aller feindlichen Diener auf 1.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Verleiht einem zufälligen befreundeten Diener +3 Leben.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Priesters in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -326,21 +326,21 @@ Setzt das Leben aller feindlichen Diener auf 1.
   <health>
    4
   </health>
-  <id>
-   FP1_023
-  </id>
-  <flavor>
-   Seit der Kult der Verdammten bei Rekrutierungsveranstaltungen seinen Namen verschweigt, sind die Mitgliederzahlen sprunghaft angestiegen.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Priesters in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Seit der Kult der Verdammten bei Rekrutierungsveranstaltungen seinen Namen verschweigt, sind die Mitgliederzahlen sprunghaft angestiegen.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Priesters in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_023
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -366,27 +366,27 @@ Setzt das Leben aller feindlichen Diener auf 1.
   <text>
    &lt;b&gt;Geheimnis:&lt;/b&gt; Wenn ein befreundeter Diener stirbt, erhaltet Ihr 2 Kopien dieses Dieners auf Eure Hand.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Magiers in Naxxramas freigeschaltet.
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   FP1_018
-  </id>
-  <flavor>
-   Die einmalige Gelegenheit, Karten zu duplizieren, ohne dafür mit einer Account-Sperre bestraft zu werden!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Magiers in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Die einmalige Gelegenheit, Karten zu duplizieren, ohne dafür mit einer Account-Sperre bestraft zu werden!
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Magiers in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_018
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -412,9 +412,9 @@ Setzt das Leben aller feindlichen Diener auf 1.
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Beschwört am Ende des Zuges eine exakte Kopie dieses Dieners.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Saphiron in der Spitze der Nekropole freigeschaltet.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    1
   </attack>
@@ -424,21 +424,21 @@ Setzt das Leben aller feindlichen Diener auf 1.
   <health>
    2
   </health>
-  <id>
-   FP1_003
-  </id>
-  <flavor>
-   Schlamm-amm-amm-amm-amm.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Saphiron in der Spitze der Nekropole hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Schlamm-amm-amm-amm-amm.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Saphiron in der Spitze der Nekropole freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_003
+  </id>
  </item>
  <item>
   <set>
@@ -695,12 +695,15 @@ Feuert für jede Karte in der Hand Eures Gegners ein Geschoss ab.
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Thaddius herbei, wenn Stalagg in diesem Duell bereits gestorben ist.
   </text>
-  <howtoget>
-   Wird durch das Abschließen des Konstruktviertels freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    4
   </attack>
@@ -710,24 +713,21 @@ Feuert für jede Karte in der Hand Eures Gegners ein Geschoss ab.
   <health>
    7
   </health>
+  <howtogetgold>
+   Kann nach dem Abschluss des Konstruktviertels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Feugen traurig. Alle Stalagg lieber mögen.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Konstruktviertels freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_015
   </id>
-  <flavor>
-   Feugen traurig. Alle Stalagg lieber mögen.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Abschluss des Konstruktviertels hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
   <set>
@@ -736,9 +736,9 @@ Feuert für jede Karte in der Hand Eures Gegners ein Geschoss ab.
   <name>
    Feugen
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -751,23 +751,23 @@ Feuert für jede Karte in der Hand Eures Gegners ein Geschoss ab.
   <health>
    7
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_04H
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01H
   </id>
@@ -776,15 +776,15 @@ Feuert für jede Karte in der Hand Eures Gegners ein Geschoss ab.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX10_01
   </id>
@@ -914,9 +914,6 @@ Fügt dem feindlichen Helden 2 Schaden zu und &lt;b&gt;friert&lt;/b&gt; ihn ein.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -929,9 +926,12 @@ Fügt dem feindlichen Helden 2 Schaden zu und &lt;b&gt;friert&lt;/b&gt; ihn ein.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft zwei Spektrale Spinnen (1/1) herbei.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Anub&amp;apos;Rekhan im Arachnidenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Anub&amp;apos;Rekhan im Arachnidenviertel hergestellt werden.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -941,21 +941,21 @@ Fügt dem feindlichen Helden 2 Schaden zu und &lt;b&gt;friert&lt;/b&gt; ihn ein.
   <health>
    2
   </health>
-  <id>
-   FP1_002
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Arachnofoppie: die Angst vor Spinnen, die einen hänseln.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Wird durch den Sieg über Anub&amp;apos;Rekhan im Arachnidenviertel freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Kann nach dem Sieg über Anub&amp;apos;Rekhan im Arachnidenviertel hergestellt werden.
-  </howtogetgold>
+  <id>
+   FP1_002
+  </id>
  </item>
  <item>
   <collectible>
@@ -973,27 +973,27 @@ Fügt dem feindlichen Helden 2 Schaden zu und &lt;b&gt;friert&lt;/b&gt; ihn ein.
   <text>
    Vernichtet alle Diener und ruft für jeden einen Treant (2/2) als Ersatz herbei.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Druiden in Naxxramas freigeschaltet.
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   FP1_019
-  </id>
-  <flavor>
-   Der Druide McTiggin kann einfach nicht verstehen, warum sich sein neues Giftsamenbrötchen so schlecht verkauft.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Druiden in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Der Druide McTiggin kann einfach nicht verstehen, warum sich sein neues Giftsamenbrötchen so schlecht verkauft.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Druiden in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_019
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -1041,15 +1041,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01H
   </id>
@@ -1058,15 +1058,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX12_01
   </id>
@@ -1075,15 +1075,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01
   </id>
@@ -1092,15 +1092,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX8_01H
   </id>
@@ -1109,15 +1109,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01H
   </id>
@@ -1126,15 +1126,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX11_01
   </id>
@@ -1143,15 +1143,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01
   </id>
@@ -1160,15 +1160,15 @@ Fügt allen Dienern 1 Schaden zu. Ruft einen Schleim herbei, wenn dabei ein Dien
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX2_01H
   </id>
@@ -1410,9 +1410,9 @@ Beschwört einen Neruber (3/1).
   <text>
    &lt;b&gt;Spott&lt;/b&gt;. &lt;b&gt;Todesröcheln:&lt;/b&gt; Fügt allen Dienern 1 Schaden zu.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Heigan den Unreinen im Seuchenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -1422,32 +1422,32 @@ Beschwört einen Neruber (3/1).
   <health>
    3
   </health>
-  <id>
-   FP1_024
-  </id>
-  <flavor>
-   Mit Raketentreibstoff gefüllte Ghule sind unter angehenden Nekromanten der letzte Schrei.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Heigan den Unreinen im Seuchenviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Mit Raketentreibstoff gefüllte Ghule sind unter angehenden Nekromanten der letzte Schrei.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Heigan den Unreinen im Seuchenviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_024
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    40
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01
   </id>
@@ -1456,15 +1456,15 @@ Beschwört einen Neruber (3/1).
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    55
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX7_01H
   </id>
@@ -1493,9 +1493,9 @@ Beschwört einen Neruber (3/1).
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Legt ein &lt;b&gt;Geheimnis&lt;/b&gt; aus Eurem Deck auf das Schlachtfeld.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Grobbulus im Konstruktviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -1505,32 +1505,32 @@ Beschwört einen Neruber (3/1).
   <health>
    2
   </health>
-  <id>
-   FP1_004
-  </id>
-  <flavor>
-   Seine Mutter wollte, dass er Magier oder Hexenmeister wird, aber neeein, er musste ja Wissenschaftler werden, genau wie sein Vater.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Grobbulus im Konstruktviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Seine Mutter wollte, dass er Magier oder Hexenmeister wird, aber neeein, er musste ja Wissenschaftler werden, genau wie sein Vater.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Grobbulus im Konstruktviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_004
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01H
   </id>
@@ -1551,12 +1551,15 @@ Beschwört einen Neruber (3/1).
   <artist>
    Chris Robinson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Ruft am Ende jedes Zuges alle befreundeten Diener herbei, die in diesem Zug gestorben sind.
   </text>
-  <howtoget>
-   Wird durch das Bezwingen aller Bosse in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -1566,35 +1569,32 @@ Beschwört einen Neruber (3/1).
   <health>
    8
   </health>
+  <howtogetgold>
+   Kann nach dem Bezwingen aller Bosse in Naxxramas hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Kel&amp;apos;Thuzad konnte dem Ruf des Lichkönigs nicht widerstehen. Wenn der Eismann ruft, wird er einfach schwach.
+  </flavor>
+  <howtoget>
+   Wird durch das Bezwingen aller Bosse in Naxxramas freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_013
   </id>
-  <flavor>
-   Kel&amp;apos;Thuzad konnte dem Ruf des Lichkönigs nicht widerstehen. Wenn der Eismann ruft, wird er einfach schwach.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Bezwingen aller Bosse in Naxxramas hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX15_01
   </id>
@@ -1682,9 +1682,9 @@ Beschwört einen Neruber (3/1).
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Bringt Eure anderen Diener zum &lt;b&gt;Schweigen&lt;/b&gt;.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Thaddius im Konstruktviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -1694,21 +1694,21 @@ Beschwört einen Neruber (3/1).
   <health>
    5
   </health>
-  <id>
-   FP1_016
-  </id>
-  <flavor>
-   Diese Seele macht den lieben langen Tag nichts anderes als klagen. Irgendwann reicht&amp;apos;s auch mal.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Thaddius im Konstruktviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Diese Seele macht den lieben langen Tag nichts anderes als klagen. Irgendwann reicht&amp;apos;s auch mal.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Thaddius im Konstruktviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_016
+  </id>
  </item>
  <item>
   <set>
@@ -1717,6 +1717,9 @@ Beschwört einen Neruber (3/1).
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -1732,9 +1735,6 @@ Beschwört einen Neruber (3/1).
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02H
   </id>
@@ -1746,6 +1746,9 @@ Beschwört einen Neruber (3/1).
   <name>
    Lady Blaumeux
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -1761,9 +1764,6 @@ Beschwört einen Neruber (3/1).
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_02
   </id>
@@ -1777,9 +1777,6 @@ Beschwört einen Neruber (3/1).
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1792,9 +1789,12 @@ Beschwört einen Neruber (3/1).
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Legt einen zufälligen Dämon aus Eurer Hand auf das Schlachtfeld.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Hexenmeisters in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss der Klassenherausforderung des Hexenmeisters in Naxxramas hergestellt werden.
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -1804,35 +1804,35 @@ Beschwört einen Neruber (3/1).
   <health>
    4
   </health>
-  <id>
-   FP1_022
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    „Bei Fuß! Na komm schon her! So ist&amp;apos;s fein. Brave Leere.“
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Hexenmeisters in Naxxramas freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Kann nach dem Abschluss der Klassenherausforderung des Hexenmeisters in Naxxramas hergestellt werden.
-  </howtogetgold>
+  <id>
+   FP1_022
+  </id>
   <playerclass>
    Warlock
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    75
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01
   </id>
@@ -1858,12 +1858,15 @@ Beschwört einen Neruber (3/1).
   <artist>
    Samwise
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Kampfschrei:&lt;/b&gt; Im nächsten Zug kosten Zauber für Euren Gegner (5) mehr.
   </text>
-  <howtoget>
-   Wird durch das Abschließen des Seuchenviertels freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -1873,35 +1876,32 @@ Beschwört einen Neruber (3/1).
   <health>
    5
   </health>
+  <howtogetgold>
+   Kann nach dem Abschluss des Seuchenviertels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Früher war Loatheb nur eine Sumpfbestie. Heute ist diese Kreatur das Hauptargument für strengere Vorschriften in der Landwirtschaft.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Seuchenviertels freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_030
   </id>
-  <flavor>
-   Früher war Loatheb nur eine Sumpfbestie. Heute ist diese Kreatur das Hauptargument für strengere Vorschriften in der Landwirtschaft.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Abschluss des Seuchenviertels hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    99
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX6_01H
   </id>
@@ -1930,15 +1930,15 @@ Beschwört einen Neruber (3/1).
   </playerclass>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01
   </id>
@@ -1947,15 +1947,15 @@ Beschwört einen Neruber (3/1).
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX3_01H
   </id>
@@ -1972,9 +1972,6 @@ Beschwört einen Neruber (3/1).
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -1984,12 +1981,18 @@ Beschwört einen Neruber (3/1).
   <artist>
    Howard Lyon
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Vernichtet jeden Diener, der von diesem Diener verletzt wurde.
   </text>
-  <howtoget>
-   Wird durch das Abschließen des Arachnidenviertels freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss des Arachnidenviertels hergestellt werden.
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1999,24 +2002,21 @@ Beschwört einen Neruber (3/1).
   <health>
    8
   </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Achtung, Maexxna kann es nicht ausstehen, wenn man sie Maxina oder Maxxi nennt.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Arachnidenviertels freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_010
   </id>
-  <flavor>
-   Achtung, Maexxna kann es nicht ausstehen, wenn man sie Maxina oder Maxxi nennt.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Abschluss des Arachnidenviertels hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
   <text>
@@ -2056,15 +2056,15 @@ Beschwört einen Neruber (3/1).
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
   <name>
    Mr. Bigglesworth
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;i&gt;Dieses Kätzchen gehört Kel&amp;apos;Thuzad.&lt;/i&gt;
   </text>
@@ -2080,12 +2080,12 @@ Beschwört einen Neruber (3/1).
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX15_05
   </id>
@@ -2148,9 +2148,9 @@ Beschwört einen Neruber (3/1).
   <text>
    &lt;b&gt;Verstohlenheit&lt;/b&gt;. Erhält zu Beginn Eures Zuges +1/+1.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Kel&amp;apos;Thuzad in der Spitze der Nekropole freigeschaltet.
-  </howtoget>
+  <rarity>
+   Epic
+  </rarity>
   <attack>
    2
   </attack>
@@ -2160,21 +2160,21 @@ Beschwört einen Neruber (3/1).
   <health>
    2
   </health>
-  <id>
-   FP1_005
-  </id>
-  <flavor>
-   Die Schemen von Naxxramas sind nicht sehr einfallsreiche Kämpfer. Man könnte fast sagen, sie gehen nach Schema vor.
-  </flavor>
-  <rarity>
-   Epic
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Kel&amp;apos;Thuzad in der Spitze der Nekropole hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Die Schemen von Naxxramas sind nicht sehr einfallsreiche Kämpfer. Man könnte fast sagen, sie gehen nach Schema vor.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Kel&amp;apos;Thuzad in der Spitze der Nekropole freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_005
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2379,9 +2379,9 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft einen Neruber (4/4) herbei.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Maexxna im Arachnidenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    0
   </attack>
@@ -2391,21 +2391,21 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <health>
    2
   </health>
-  <id>
-   FP1_007
-  </id>
-  <flavor>
-   Eier sind eine gute Quelle für Protein ... und für Neruber.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Maexxna im Arachnidenviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Eier sind eine gute Quelle für Protein ... und für Neruber.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Maexxna im Arachnidenviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_007
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2428,9 +2428,9 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <text>
    Diener mit &lt;b&gt;Kampfschrei&lt;/b&gt; kosten (2) mehr.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Großwitwe Faerlina im Arachnidenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -2440,21 +2440,21 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <health>
    4
   </health>
-  <id>
-   FP1_017
-  </id>
-  <flavor>
-   Netzfürsten verdienen sich einen kleinen Zuschuss, indem sie für Trampolinparks riesige Netze weben.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Großwitwe Faerlina im Arachnidenviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Netzfürsten verdienen sich einen kleinen Zuschuss, indem sie für Trampolinparks riesige Netze weben.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Großwitwe Faerlina im Arachnidenviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_017
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2465,9 +2465,6 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Curse of Naxxramas
   </set>
@@ -2480,9 +2477,12 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Fügt Eurer Hand ein zufälliges Wildtier hinzu.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Jägers in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss der Klassenherausforderung des Jägers in Naxxramas hergestellt werden.
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -2492,21 +2492,21 @@ Fügt dem feindlichen Helden 3 Schaden zu.
   <health>
    1
   </health>
-  <id>
-   FP1_011
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    Spinnenkokons sind wie kleine Piñatas!
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Jägers in Naxxramas freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   Kann nach dem Abschluss der Klassenherausforderung des Jägers in Naxxramas hergestellt werden.
-  </howtogetgold>
+  <id>
+   FP1_011
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -2689,27 +2689,27 @@ Vertauscht Angriff und Leben aller Diener.
   <text>
    &lt;b&gt;Geheimnis:&lt;/b&gt; Wenn einer Eurer Diener stirbt, erhält ein zufälliger befreundeter Diener +3/+2.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Paladins in Naxxramas freigeschaltet.
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   FP1_020
-  </id>
-  <flavor>
-   Einige Paladine haben sich zum „Hammer der Gerechten“ zusammengeschlossen und sorgen jetzt gemeinsam für Gerechtigkeit. Ihre Anwälte konnten sie mit Müh und Not davon abbringen, sich die „Liga der Gerechten“ zu nennen.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Paladins in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Einige Paladine haben sich zum „Hammer der Gerechten“ zusammengeschlossen und sorgen jetzt gemeinsam für Gerechtigkeit. Ihre Anwälte konnten sie mit Müh und Not davon abbringen, sich die „Liga der Gerechten“ zu nennen.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Paladins in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_020
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -2730,27 +2730,27 @@ Vertauscht Angriff und Leben aller Diener.
   <text>
    Vernichtet einen Diener und bringt ihn dann mit vollem Leben wieder auf das Schlachtfeld zurück.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Schamanen in Naxxramas freigeschaltet.
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   FP1_025
-  </id>
-  <flavor>
-   Wie geboren werden, nur ist man dabei schon erwachsen und war gerade eben noch mausetot.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Schamanen in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Wie geboren werden, nur ist man dabei schon erwachsen und war gerade eben noch mausetot.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Schamanen in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   FP1_025
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -2960,15 +2960,15 @@ Vertauscht Angriff und Leben aller Diener.
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01H
   </id>
@@ -2977,15 +2977,15 @@ Vertauscht Angriff und Leben aller Diener.
   </name>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX14_01
   </id>
@@ -3049,9 +3049,9 @@ Vertauscht Angriff und Leben aller Diener.
    &lt;b&gt;Spott.
 Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Loatheb im Seuchenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    3
   </attack>
@@ -3061,21 +3061,21 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    5
   </health>
-  <id>
-   FP1_012
-  </id>
-  <flavor>
-   Wenn ihm doch bloß mal die Spucke wegbleiben würde.
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Loatheb im Seuchenviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Wenn ihm doch bloß mal die Spucke wegbleiben würde.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Loatheb im Seuchenviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_012
+  </id>
  </item>
  <item>
   <set>
@@ -3104,6 +3104,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -3119,9 +3122,6 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04H
   </id>
@@ -3133,6 +3133,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Sir Zeliek
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -3148,9 +3151,6 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_04
   </id>
@@ -3349,9 +3349,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <text>
    Kann nicht als Ziel von Zaubern oder Heldenfähigkeiten gewählt werden.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Gothik den Ernter im Militärviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3361,21 +3361,21 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    6
   </health>
-  <id>
-   FP1_008
-  </id>
-  <flavor>
-   Wie ein echter Ritter, nur durchsichtig.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Gothik den Ernter im Militärviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Wie ein echter Ritter, nur durchsichtig.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Gothik den Ernter im Militärviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_008
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3435,9 +3435,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Stalagg
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3450,9 +3450,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    4
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NAX13_05H
   </id>
@@ -3475,12 +3475,15 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <artist>
    Dany Orizio
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft Thaddius herbei, wenn Feugen in diesem Duell bereits gestorben ist.
   </text>
-  <howtoget>
-   Wird durch das Abschließen des Konstruktviertels freigeschaltet.
-  </howtoget>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    7
   </attack>
@@ -3490,24 +3493,21 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    4
   </health>
+  <howtogetgold>
+   Kann nach dem Abschluss des Konstruktviertels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Stalagg selber Beschreibung schreiben. „STALAGG SPITZE!“
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Konstruktviertels freigeschaltet.
+  </howtoget>
   <type>
    Minion
   </type>
   <id>
    FP1_014
   </id>
-  <flavor>
-   Stalagg selber Beschreibung schreiben. „STALAGG SPITZE!“
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
-  <howtogetgold>
-   Kann nach dem Abschluss des Konstruktviertels hergestellt werden.
-  </howtogetgold>
  </item>
  <item>
   <collectible>
@@ -3525,9 +3525,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <text>
    Stellt zu Beginn Eures Zuges das volle Leben dieses Dieners wieder her.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Noth den Seuchenfürsten im Seuchenviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3537,21 +3537,21 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    4
   </health>
-  <id>
-   FP1_027
-  </id>
-  <flavor>
-   Steinhautgargoyles gewinnen jede Partie Beamtenmikado.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Noth den Seuchenfürsten im Seuchenviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Steinhautgargoyles gewinnen jede Partie Beamtenmikado.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Noth den Seuchenfürsten im Seuchenviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_027
+  </id>
  </item>
  <item>
   <text>
@@ -3611,9 +3611,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Euer Gegner zieht eine Karte.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Instrukteur Razuvious im Militärviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3623,32 +3623,32 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    4
   </health>
-  <id>
-   FP1_029
-  </id>
-  <flavor>
-   Keiner beherrscht den Todestango so wie sie.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Instrukteur Razuvious im Militärviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Keiner beherrscht den Todestango so wie sie.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Instrukteur Razuvious im Militärviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_029
+  </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    45
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01H
   </id>
@@ -3663,9 +3663,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Thaddius
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -3678,23 +3678,23 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    11
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    FP1_014t
   </id>
  </item>
  <item>
-  <type>
-   Hero
-  </type>
-  <set>
-   Curse of Naxxramas
-  </set>
   <health>
    30
   </health>
+  <set>
+   Curse of Naxxramas
+  </set>
+  <type>
+   Hero
+  </type>
   <id>
    NAX13_01
   </id>
@@ -3709,6 +3709,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Than Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -3724,9 +3727,6 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03H
   </id>
@@ -3738,6 +3738,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <name>
    Than Korth&amp;apos;azz
   </name>
+  <elite>
+   True
+  </elite>
   <text>
    Euer Held ist &lt;b&gt;immun&lt;/b&gt;.
   </text>
@@ -3753,9 +3756,6 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    NAX9_03
   </id>
@@ -3804,9 +3804,9 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <text>
    &lt;b&gt;Spott. Todesröcheln:&lt;/b&gt; Euer Gegner legt einen Diener aus seinem Deck auf das Schlachtfeld.
   </text>
-  <howtoget>
-   Wird durch den Sieg über die vier Reiter im Militärviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Rare
+  </rarity>
   <attack>
    2
   </attack>
@@ -3816,21 +3816,21 @@ Todesröcheln:&lt;/b&gt; Ruft einen Schleim (1/2) mit &lt;b&gt;Spott&lt;/b&gt; h
   <health>
    8
   </health>
-  <id>
-   FP1_009
-  </id>
-  <flavor>
-   „Erhebt Euch aus Eurem Grab!“ – Kel&amp;apos;Thuzad
-  </flavor>
-  <rarity>
-   Rare
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über die vier Reiter im Militärviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   „Erhebt Euch aus Eurem Grab!“ – Kel&amp;apos;Thuzad
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über die vier Reiter im Militärviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_009
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3924,9 +3924,9 @@ Erweckt jedes Mal, wenn ein Feind stirbt, ein Skelett (5/5).
   <text>
    Erhält jedes Mal +1 Angriff, wenn Ihr einen Diener mit &lt;b&gt;Todesröcheln&lt;/b&gt; herbeiruft.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Flickwerk im Konstruktviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -3936,21 +3936,21 @@ Erweckt jedes Mal, wenn ein Feind stirbt, ein Skelett (5/5).
   <health>
    2
   </health>
-  <id>
-   FP1_028
-  </id>
-  <flavor>
-   In einer Welt, in der man sich jederzeit vom Geistheiler wiederbeleben lassen kann, haben Totengräber einen schweren Stand.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Flickwerk im Konstruktviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   In einer Welt, in der man sich jederzeit vom Geistheiler wiederbeleben lassen kann, haben Totengräber einen schweren Stand.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Flickwerk im Konstruktviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_028
+  </id>
  </item>
  <item>
   <set>
@@ -4257,9 +4257,9 @@ Zieht 2 Karten.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Lasst einen zufälligen befreundeten Diener auf Eure Hand zurückkehren.
   </text>
-  <howtoget>
-   Wird durch das Abschließen der Klassenherausforderung des Schurken in Naxxramas freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -4269,21 +4269,21 @@ Zieht 2 Karten.
   <health>
    5
   </health>
-  <id>
-   FP1_026
-  </id>
-  <flavor>
-   Zuerst hieß er „Anub&amp;apos;ar-Typ, der einen Diener auf die Hand zurückspringen lässt“, aber dem Namen fehlte irgendwie das gewisse Etwas.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Abschluss der Klassenherausforderung des Schurken in Naxxramas hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Zuerst hieß er „Anub&amp;apos;ar-Typ, der einen Diener auf die Hand zurückspringen lässt“, aber dem Namen fehlte irgendwie das gewisse Etwas.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Klassenherausforderung des Schurken in Naxxramas freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_026
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -4351,9 +4351,9 @@ Zieht 2 Karten.
   <text>
    &lt;b&gt;Todesröcheln:&lt;/b&gt; Stellt beim feindlichen Helden 5 Leben wieder her.
   </text>
-  <howtoget>
-   Wird durch den Sieg über Gluth im Konstruktviertel freigeschaltet.
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4363,20 +4363,20 @@ Zieht 2 Karten.
   <health>
    3
   </health>
-  <id>
-   FP1_001
-  </id>
-  <flavor>
-   Zombie. Frisch auf den Tisch.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    Kann nach dem Sieg über Gluth im Konstruktviertel hergestellt werden.
   </howtogetgold>
+  <flavor>
+   Zombie. Frisch auf den Tisch.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Gluth im Konstruktviertel freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   FP1_001
+  </id>
  </item>
 </cards>

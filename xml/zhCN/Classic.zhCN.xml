@@ -174,9 +174,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -204,6 +201,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    荆棘谷是一个很适合观光的地方，但你绝对不会想住在那儿。
   </flavor>
@@ -353,9 +353,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -365,6 +362,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    每当你使用一张牌时，召唤一个2/1的埃辛诺斯之焰。
   </text>
@@ -383,15 +383,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    伊利丹的哥哥玛法里奥把他关在海加尔山下长达一万年。怒风两兄弟真是不明白“家和万事兴”的道理。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
@@ -400,9 +400,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -412,6 +409,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合结束时，获得一张梦境牌。
   </text>
@@ -430,15 +430,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    伊瑟拉统治翡翠梦境。所谓翡翠梦境，究竟只是现实世界的绿色朦胧倒影，还是其它别的什么地方？
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>
@@ -637,6 +637,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    使你的法术牌和英雄技能的伤害和治疗效果翻倍。
   </text>
@@ -655,15 +658,12 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他被逐出他的家园。他兄弟们都变成了邪恶的主宰......但是除此之外，他好像也没有什么别的可以抱怨的了。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -829,15 +829,15 @@
   <name>
    公正之剑
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   每当你召唤一个随从，使它获得+1/+1，这把武器失去1点耐久度。
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   每当你召唤一个随从，使它获得+1/+1，这把武器失去1点耐久度。
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1269,6 +1269,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;召唤一个4/5的贝恩·血蹄。
   </text>
@@ -1287,15 +1290,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    凯恩被加尔鲁什杀害了，所以...别把这张牌放在战士的套牌里，这完全说不通。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -1306,9 +1306,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1330,6 +1327,9 @@
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1390,9 +1390,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -1414,6 +1411,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1640,9 +1640,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1652,6 +1649,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;消灭你的英雄，并用加拉克苏斯大王替换他。
   </text>
@@ -1667,15 +1667,15 @@
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    “渺小的侏儒！你们的傲慢将会招致灭亡！”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -1684,9 +1684,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -1708,6 +1705,9 @@
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -1909,9 +1909,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1939,6 +1936,9 @@
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    海盗们都非常热衷于这项新的时尚活动：“趴甲板”。
   </flavor>
@@ -1958,9 +1958,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1985,6 +1982,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    当他掠夺到足够的财宝之后，他一定要去订做一顶帅气的船长帽子。他是帽子控。
   </flavor>
@@ -2442,6 +2442,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;摧毁对手的武器，并抽数量等同于其耐久度的牌。
   </text>
@@ -2460,15 +2463,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    “这东西应该陈列在探险者大厅里！”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
@@ -2585,9 +2585,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2609,6 +2606,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2742,9 +2742,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -2766,6 +2763,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -2839,6 +2839,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;抉择：&lt;/b&gt;使你的所有其他随从获得+2/+2；或者召唤两个2/2并具有&lt;b&gt;嘲讽&lt;/b&gt;的树人。
   </text>
@@ -2857,17 +2860,14 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    “当它们还是种子的时候，我便认识它们了……”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -3017,6 +3017,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    每当你施放一个法术，将一张“火球术”法术牌置入你的手牌。
   </text>
@@ -3035,17 +3038,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    肯瑞托的首席法师，达拉然最伟大的子民，安东尼达斯在被巫妖王阿尔萨斯杀死之前，曾是吉安娜的导师。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -3062,9 +3062,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3074,6 +3071,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;召唤数个1/1的雏龙，直到你的随从数量达到上限。
   </text>
@@ -3092,15 +3092,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    伪装成女伯爵卡特拉娜·普瑞斯托，奥妮克希亚长期控制着暴风城议会。你可能会想，一定是她的大翅膀和鳞片让她漏出了马脚。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -3355,9 +3355,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -3385,6 +3382,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    寒光鱼人终年居住于无底海源最黑暗的洞穴之中。所以，是的，你到哪儿都别想摆脱鱼人。
   </flavor>
@@ -3404,9 +3404,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -3434,6 +3431,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    他们能够预见未来。在未来的时间里，双方玩家都将抽更多的牌。真准！
   </flavor>
@@ -3642,9 +3642,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3666,6 +3663,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -3867,6 +3867,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;使另一个随机随从变形成为一个5/5的恐龙或一个1/1的松鼠。
   </text>
@@ -3885,15 +3888,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    在09年度的铁炉堡松鼠大暴走事件之后，工匠大师欧沃斯巴克差点丢掉了他的工匠执照。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -3965,6 +3965,9 @@
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;控制一个随机敌方随从。
   </text>
@@ -3980,15 +3983,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    没有人比女王更渴望真正地死去。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -4002,9 +4002,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4032,6 +4029,9 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -4229,9 +4229,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4259,6 +4256,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    无论是战士还是诗人，都能从美丽的龙鹰身上获取战斗或是写作的灵感。
   </flavor>
@@ -4583,9 +4583,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -4610,6 +4607,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    “呀”在海盗的行话中代表“你好啊，有钱人。”
   </flavor>
@@ -4632,9 +4632,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4662,6 +4659,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -4824,9 +4824,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -4854,6 +4851,9 @@
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    没错，他会为你而战，但并非心甘情愿。
   </flavor>
@@ -4998,9 +4998,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5025,6 +5022,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    没有什么野兽比一只彻底发疯的小鸡更加吓人（或者更加可笑）的了。
   </flavor>
@@ -5430,9 +5430,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -5457,6 +5454,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    警报。警报。警报。
   </flavor>
@@ -5628,9 +5628,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -5652,6 +5649,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -5721,6 +5721,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;圣盾&lt;/b&gt;，&lt;b&gt;嘲讽&lt;/b&gt;，&lt;b&gt;亡语：&lt;/b&gt;装备一把5/3的灰烬使者。
   </text>
@@ -5739,15 +5742,12 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    如果你还没听过《提里奥·弗丁主题曲》，那是因为它还没被谱写出来。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -5819,9 +5819,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -5849,6 +5846,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -6370,9 +6370,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -6400,6 +6397,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    暮光幼龙以神秘能量为食，还吃玉米卷。
   </flavor>
@@ -6554,9 +6554,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6566,6 +6563,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;冲锋&lt;/b&gt;
   </text>
@@ -6584,15 +6584,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    对付暴龙王克鲁什最好的办法就是让某个你讨厌的人站在你前面。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -6635,9 +6635,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -6665,6 +6662,9 @@
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    召唤末日守卫有很大的风险。总得有人付出生命的代价。
   </flavor>
@@ -6775,9 +6775,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6799,6 +6796,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6930,6 +6930,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;冲锋&lt;/b&gt;
 &lt;b&gt;激怒：&lt;/b&gt;+6攻击力
@@ -6949,15 +6952,12 @@
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    灰谷南方，来自地狱的咆哮还在回响。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -6978,6 +6978,9 @@
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    在每个回合结束时，获得+1/+1。
   </text>
@@ -6993,17 +6996,14 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    人们叫他“屠龙者”格鲁尔。其实他只是想抱抱它们...他不是故意要...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -7071,9 +7071,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -7083,6 +7080,9 @@
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;消灭所有其他随从，并弃掉你的手牌。
   </text>
@@ -7098,15 +7098,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    死亡之翼原本是高贵的巨龙奈萨里奥，他发疯之后制造了艾泽拉斯的大灾变，但最终被击败。子不教，父之过？
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -7129,15 +7129,15 @@
   <name>
    毁灭之刃
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;战吼：&lt;/b&gt;造成1点伤害。&lt;b&gt;连击：&lt;/b&gt;改为造成2点伤害。
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;战吼：&lt;/b&gt;造成1点伤害。&lt;b&gt;连击：&lt;/b&gt;改为造成2点伤害。
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -7178,15 +7178,15 @@
   <name>
    毁灭之锤
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;风怒，过载：&lt;/b&gt;（2）
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;风怒，过载：&lt;/b&gt;（2）
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -7264,9 +7264,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7276,6 +7273,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;亡语：&lt;/b&gt;为你的对手召唤1个3/3的芬克·恩霍尔。
   </text>
@@ -7294,15 +7294,15 @@
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    他住在黑石山。他吃侏儒。基本上就是这样。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -7435,9 +7435,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -7465,6 +7462,9 @@
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    据说，有些萨满能够以很快的速度连着说十遍“疼痛的图腾”。
   </flavor>
@@ -7702,9 +7702,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7732,6 +7729,9 @@
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    或许玛诺洛斯、玛瑟里顿和布鲁塔卢斯都已经死了，但其实深渊领主还有很多很多。
   </flavor>
@@ -7758,6 +7758,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    每当一个玩家施放一个法术，复制该法术，将其置入另一个玩家的手牌。
   </text>
@@ -7776,25 +7779,19 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    游学者周卓整理并分享有关潘达利亚大陆的轶事，但他最喜欢的故事，是乔伊和菲比一起外出旅行发生的事情。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7816,6 +7813,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -7931,6 +7931,9 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;冲锋&lt;/b&gt;，&lt;b&gt;战吼：&lt;/b&gt;为你的对手召唤2只1/1的雏龙。
   </text>
@@ -7949,15 +7952,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    至少他还有愤怒的小鸡。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -8080,6 +8080,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    无法攻击，在你的回合结束时，对一个随机敌人造成8点伤害。
   </text>
@@ -8098,15 +8101,12 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    拉格纳罗斯是由黑铁矮人召唤出来的，而这些矮人最终也成为了火焰领主的奴隶。所以召唤拉格纳罗斯往往得不到你想要的结果。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -8169,9 +8169,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -8199,6 +8196,9 @@
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    小鬼们喜欢引火上身。它们就是喜欢。
   </flavor>
@@ -8534,9 +8534,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8561,6 +8558,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    这只科多兽太大了，以至于他经常会踩到一些小动物。
   </flavor>
@@ -8862,9 +8862,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8883,6 +8880,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -8894,9 +8894,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -8915,6 +8912,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -9041,9 +9041,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9053,6 +9050,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;法术伤害+5&lt;/b&gt;
   </text>
@@ -9071,15 +9071,15 @@
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    玛里苟斯憎恨凡人使用魔法。那会让他气急败坏！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -9459,9 +9459,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9489,6 +9486,9 @@
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    它们本来应该是宝蓝色或是蔚蓝色，但这几个颜色显得有点太耀眼了。
   </flavor>
@@ -9757,9 +9757,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9769,6 +9766,9 @@
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;使你的对手获得两个香蕉。
   </text>
@@ -9784,15 +9784,15 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    穆克拉在哈圭罗岛上徘徊，寻找他的真爱。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -9867,6 +9867,9 @@
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;下个回合敌方法术的法力值消耗为（0）点。
   </text>
@@ -9882,15 +9885,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    “我要把你们烤熟了，宝贝儿们！”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -9899,9 +9899,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9926,6 +9923,9 @@
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    可爱至极，免疫魔法，不会在毯子上撒尿。真是完美的宠物！
   </flavor>
@@ -10084,6 +10084,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合开始时，你有50%的几率额外抽一张牌。
   </text>
@@ -10102,17 +10105,14 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    纳特·帕格是艾泽拉斯最棒的钓手！他发明了自动鱼竿3000型，伸缩鱼竿3000型，以及电气自动诱捕器2099型（仍在测试中）。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -10181,9 +10181,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -10193,6 +10190,9 @@
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;使你的武器获得+1/+1。
   </text>
@@ -10208,15 +10208,15 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    要不是因为那些调皮捣蛋的小家伙们，他差点就把那艘超级战舰开进暴风城港口了！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -10262,9 +10262,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -10280,6 +10277,9 @@
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -10830,6 +10830,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;连击：&lt;/b&gt;在本回合中，使用此牌前每打出一张其他牌，便获得+2/+2。
   </text>
@@ -10848,15 +10851,12 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他领导石匠协会重建了暴风城，而当贵族们拒绝支付工钱的时候，他将领导迪菲亚兄弟会，嗯，拆掉暴风城。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -10937,9 +10937,9 @@
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -10952,9 +10952,9 @@
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -11026,9 +11026,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11056,6 +11053,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    这些美丽的大猫是荆棘谷一道亮丽的风景！
   </flavor>
@@ -11125,6 +11125,9 @@
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    如果在你的回合结束时，你控制任何&lt;b&gt;奥秘&lt;/b&gt;，该随从便获得+2/+2。
   </text>
@@ -11140,15 +11143,12 @@
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    虚灵们浑身捆绑着布条，不仅是因为布料柔软舒适，更是为了让他们的外表更能为其他种族接受。
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -11165,9 +11165,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -11192,6 +11189,9 @@
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    如果你把这张牌放到你的套牌中，你就会失去其他随从对你的信任。
   </flavor>
@@ -11206,9 +11206,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11230,6 +11227,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -11270,15 +11270,15 @@
   <name>
    血吼
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   攻击随从不会消耗耐久度，改为降低1点攻击力。
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   攻击随从不会消耗耐久度，改为降低1点攻击力。
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -11313,9 +11313,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -11340,6 +11337,9 @@
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    每个海盗都用相同的四个数字来打开自动黄金分配装置。这些数字被称为“海盗密码”。
   </flavor>
@@ -11359,9 +11359,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -11386,6 +11383,9 @@
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    “我一个星期只出去打劫七天。”
   </flavor>
@@ -11463,6 +11463,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;法术伤害+1&lt;/b&gt;，&lt;b&gt;亡语：&lt;/b&gt;抽一张牌。
   </text>
@@ -11481,15 +11484,12 @@
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他负责每年一度的血色修道院献血运动！
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -11679,15 +11679,15 @@
   <name>
    角斗士的长弓
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   你的英雄在攻击时具有&lt;b&gt;免疫&lt;/b&gt;。
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   你的英雄在攻击时具有&lt;b&gt;免疫&lt;/b&gt;。
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -11823,9 +11823,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -11835,6 +11832,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    所有玩家只有15秒的时间来进行他们的回合。
   </text>
@@ -11853,17 +11853,17 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    没时间写什么背景描述了。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -11906,9 +11906,9 @@
   <name>
    贝恩·血蹄
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -11921,9 +11921,9 @@
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -12046,6 +12046,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合结束时，对所有其他角色造成2点伤害。
   </text>
@@ -12064,15 +12067,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    迦顿男爵曾经是拉格纳罗斯的首席副官，因为他实在太“火”了。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -12326,9 +12326,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12356,6 +12353,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    它们挥动翅膀的时候悄无声息，但是它们的嘶鸣却是...任何悄无声息的反义词都可以形容。
   </flavor>
@@ -12711,9 +12711,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12738,6 +12735,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -13028,9 +13028,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13040,6 +13037,9 @@
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;使一个英雄的剩余生命值成为15。
   </text>
@@ -13058,15 +13058,15 @@
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    生命的缚誓者阿莱克丝塔萨给所有人带来生命和希望。除了死亡之翼。除了玛里苟斯。除了耐克鲁斯。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -13127,9 +13127,6 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13148,6 +13145,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13156,9 +13156,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -13174,6 +13171,9 @@
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -13191,15 +13191,15 @@
   <name>
    雷铸战斧
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;过载：&lt;/b&gt;（1）
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;过载：&lt;/b&gt;（1）
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -13258,6 +13258,9 @@
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    在你的回合结束时，召唤一个2/2并具有&lt;b&gt;嘲讽&lt;/b&gt;的豺狼人。
   </text>
@@ -13273,15 +13276,12 @@
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    霍格可是超级厉害的。如果你杀了他，只是因为他让你这么做的。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -13427,6 +13427,9 @@
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;风怒，冲锋，圣盾，嘲讽&lt;/b&gt;
   </text>
@@ -13442,15 +13445,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    他是四大元素领主中最弱的一个。而另外三个总是会提醒他这一点。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -13502,9 +13502,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13529,6 +13526,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -13628,9 +13628,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13652,6 +13649,9 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -13723,9 +13723,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -13753,6 +13750,9 @@
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    每当他和他的家人团聚时，这个家伙会变得特别厉害。
   </flavor>
@@ -13772,9 +13772,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -13799,6 +13796,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    又是鱼人。开饭了。
   </flavor>
@@ -13818,9 +13818,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -13848,6 +13845,9 @@
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    鱼人们老是发出一样的声音，难道不觉得厌烦吗？不！姆格拉咕嗯噜咕噜咕噜咕噜咕噜！
   </flavor>
@@ -13867,9 +13867,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -13897,6 +13894,9 @@
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -13962,9 +13962,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -13992,6 +13989,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    “温度过高。系统失灵。二号仓粮食堵塞。正在关闭。”
   </flavor>
@@ -14132,6 +14132,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;战吼：&lt;/b&gt;消灭一个具有&lt;b&gt;嘲讽&lt;/b&gt;的敌方随从。
   </text>
@@ -14147,15 +14150,12 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    巫妖王派他来阻止银色锦标赛的进行。可以说那是个失败。
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>

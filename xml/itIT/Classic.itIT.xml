@@ -250,6 +250,9 @@ Infligge 2 danni.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Furia del Vento&lt;/b&gt;. &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Scudo Divino&lt;/b&gt;. &lt;b&gt;Provocazione&lt;/b&gt;
   </text>
@@ -265,15 +268,12 @@ Infligge 2 danni.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    È il più debole dei quattro Signori Elementali, e gli altri tre fanno in modo che non se lo dimentichi mai.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_010
   </id>
@@ -290,9 +290,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -302,6 +299,9 @@ Infligge 2 danni.
   <artist>
    Bernie Kang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge TUTTI gli altri servitori e scarta le carte che hai in mano.
   </text>
@@ -317,15 +317,15 @@ Infligge 2 danni.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alamorte, in passato un nobile drago noto come Neltharion, impazzì scatenando il Cataclisma su Azeroth ma infine fu sconfitto. Che fosse stato maltrattato da piccolo?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_030
   </id>
@@ -385,9 +385,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -397,6 +394,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; la Salute restante di un eroe diventa pari a 15.
   </text>
@@ -415,15 +415,15 @@ Infligge 2 danni.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Alexstrasza porta vita e speranza a tutti. Tranne che ad Alamorte. E a Malygos. E a Nekros.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_561
   </id>
@@ -432,9 +432,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -459,6 +456,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    PERICOLO. PERICOLO. PERICOLO.
   </flavor>
@@ -478,9 +478,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -505,6 +502,9 @@ Infligge 2 danni.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -737,6 +737,9 @@ Infligge 2 danni.
   <artist>
    Michael Komarck
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    Ottiene +2/+2 se controlli un &lt;b&gt;Segreto&lt;/b&gt; alla fine del tuo turno.
   </text>
@@ -752,15 +755,12 @@ Infligge 2 danni.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Gli Eterei indossano i vestiti per dare forma alla loro essenza incorporea. E perché sono modaioli.
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_274
   </id>
@@ -781,6 +781,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Quando lanci una Magia, mette nella tua mano una carta Palla di Fuoco.
   </text>
@@ -799,17 +802,14 @@ Infligge 2 danni.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Antonidas era il Gran Magus del Kirin Tor e il mentore di Jaina. Prima era solo il Gran Magus delle Ciambelle alla Crema.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_559
   </id>
@@ -868,15 +868,15 @@ Infligge 2 danni.
   <name>
    Arco del Gladiatore
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt; quando attacca.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt; quando attacca.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -1001,15 +1001,15 @@ Infligge 2 danni.
   <name>
    Ascia dei Forgiatuono
   </name>
-  <durability>
-   3
-  </durability>
-  <text>
-   &lt;b&gt;Sovraccarico:&lt;/b&gt; (1)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Sovraccarico:&lt;/b&gt; (1)
+  </text>
+  <durability>
+   3
+  </durability>
   <rarity>
    Common
   </rarity>
@@ -1203,9 +1203,9 @@ Infligge 2 danni.
   <name>
    Baine
   </name>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -1218,9 +1218,9 @@ Infligge 2 danni.
   <health>
    5
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110t
   </id>
@@ -1347,6 +1347,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Alla fine del tuo turno, infligge 2 danni a TUTTI gli altri personaggi.
   </text>
@@ -1365,15 +1368,12 @@ Infligge 2 danni.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il Barone Geddon era il primo luogotenente di Ragnaros, finché un giorno non l&amp;apos;ha svegliato TROPPO PRESTO.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_249
   </id>
@@ -1764,6 +1764,9 @@ Infligge 2 danni.
   <artist>
    Laurel D. Austin
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Alla fine del tuo turno, evoca uno Gnoll 2/2 con &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
@@ -1779,15 +1782,12 @@ Infligge 2 danni.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Boccalarga è potentissimo. Se lo uccidi è solo perché lui &lt;i&gt;te lo ha permesso&lt;/i&gt;.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_040
   </id>
@@ -1876,9 +1876,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -1903,6 +1900,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Quando avrà accumulato abbastanza bottino, ha intenzione di commissionare un enorme cappello da capitano. Ha la mania dei cappelli.
   </flavor>
@@ -1997,6 +1997,9 @@ Infligge 2 danni.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca Baine 4/5.
   </text>
@@ -2015,15 +2018,12 @@ Infligge 2 danni.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Cairne è stato ucciso da Garrosh, quindi... non metterlo nel mazzo del Guerriero. Sarebbe da insensibili.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_110
   </id>
@@ -2158,9 +2158,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -2170,6 +2167,9 @@ Infligge 2 danni.
   <artist>
    Dan Scott
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; +1/+1 alla tua arma.
   </text>
@@ -2185,15 +2185,15 @@ Infligge 2 danni.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Ancora &lt;i&gt;pochissimo&lt;/i&gt; e avrebbe pilotato un&amp;apos;enorme nave da guerra nel Porto di Roccavento. Se solo quella peste non avesse schiacciato il tasto dell&amp;apos;autodistruzione...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_024
   </id>
@@ -2400,6 +2400,9 @@ Infligge 2 danni.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge un servitore nemico con &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
@@ -2415,15 +2418,12 @@ Infligge 2 danni.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Era stato mandato dal Re dei Lich per interrompere il Torneo d&amp;apos;Argento. Possiamo tranquillamente dire che ha fallito miseramente.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_002
   </id>
@@ -2441,6 +2441,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Scegli:&lt;/b&gt; +2/+2 a tutti gli altri tuoi servitori &lt;b&gt;o&lt;/b&gt; evoca due Treant 2/2 con &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
@@ -2459,17 +2462,14 @@ Infligge 2 danni.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Sì, è un semidio. No, non ha bisogno di indossare una maglietta.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_573
   </id>
@@ -2521,9 +2521,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -2551,6 +2548,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -2770,9 +2770,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -2800,6 +2797,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Ma i Murloc non si stancano mai di ripetere sempre lo stesso verso? NO. Mrglglrglglglglglglgl!
   </flavor>
@@ -3029,9 +3029,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -3056,6 +3053,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "Yarrrr" è una parola piratesca che significa: "Buongiorno, ser".
   </flavor>
@@ -3075,9 +3075,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -3102,6 +3099,9 @@ Infligge 2 danni.
   <health>
    2
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Ogni pirata usa le stesse 4 cifre per accedere al Distributore Automatico di Oro. Si chiama "Codice dei Pirati".
   </flavor>
@@ -3388,9 +3388,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -3418,6 +3415,9 @@ Infligge 2 danni.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -3442,9 +3442,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -3472,6 +3469,9 @@ Infligge 2 danni.
   <health>
    7
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Evocare un Demone Guardiano è pericoloso. &lt;i&gt;Qualcuno&lt;/i&gt; di sicuro morirà.
   </flavor>
@@ -3770,9 +3770,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3800,6 +3797,9 @@ Infligge 2 danni.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    I Drachi del Crepuscolo si nutrono di energia mistica... e mozzarella.
   </flavor>
@@ -3811,9 +3811,6 @@ Infligge 2 danni.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3829,6 +3826,9 @@ Infligge 2 danni.
   <health>
    6
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -3851,9 +3851,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3881,6 +3878,9 @@ Infligge 2 danni.
   <health>
    4
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Inizialmente dovevano essere Drachi di Berillo o di Cobalto, ma questi nomi erano troppo pretenziosi.
   </flavor>
@@ -3892,9 +3892,6 @@ Infligge 2 danni.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3910,6 +3907,9 @@ Infligge 2 danni.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -3918,9 +3918,6 @@ Infligge 2 danni.
   </id>
  </item>
  <item>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3939,6 +3936,9 @@ Infligge 2 danni.
   <health>
    1
   </health>
+  <race>
+   Dragon
+  </race>
   <type>
    Minion
   </type>
@@ -3950,9 +3950,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -3977,6 +3974,9 @@ Infligge 2 danni.
   <health>
    2
   </health>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Adorabile. Immune alla magia. Non fa i bisogni sul tappeto. Il perfetto animale domestico.
   </flavor>
@@ -3996,9 +3996,6 @@ Infligge 2 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4026,6 +4023,9 @@ Infligge 2 danni.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Non è drago, non è falco... sa soltanto quello che non è!
   </flavor>
@@ -4129,9 +4129,6 @@ Infligge 2 danni.
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4153,6 +4150,9 @@ Infligge 2 danni.
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4169,9 +4169,6 @@ Infligge 2 danni.
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -4193,6 +4190,9 @@ Infligge 2 danni.
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -4221,6 +4221,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Combo:&lt;/b&gt; ottiene +2/+2 per ogni carta giocata precedentemente in questo turno.
   </text>
@@ -4239,15 +4242,12 @@ Infligge 2 danni.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ha guidato i tagliapietre nella ricostruzione di Roccavento, e quando i nobili si sono rifiutati di pagare ha fondato la Fratellanza dei Defias per... be&amp;apos;... &lt;i&gt;decostruire&lt;/i&gt; la capitale.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_613
   </id>
@@ -5014,9 +5014,9 @@ Infligge 2 danni.
   <faction>
    Neutral
   </faction>
-  <type>
-   Minion
-  </type>
+  <elite>
+   True
+  </elite>
   <rarity>
    Legendary
   </rarity>
@@ -5029,9 +5029,9 @@ Infligge 2 danni.
   <health>
    3
   </health>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_finkle
   </id>
@@ -5837,9 +5837,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -5864,6 +5861,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Non c&amp;apos;è bestia più spaventosa (o ridicola) di una gallina sull&amp;apos;orlo di una crisi di nervi.
   </flavor>
@@ -6076,9 +6076,6 @@ Infligge 3 danni.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6100,6 +6097,9 @@ Infligge 3 danni.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6376,9 +6376,6 @@ Infligge 3 danni.
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -6400,6 +6397,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -6416,9 +6416,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Classic
   </set>
@@ -6446,6 +6443,9 @@ Infligge 3 danni.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    "Soglia di surriscaldamento superata. Errore di sistema. Grano ostruisce porta due. Spegnimento in corso."
   </flavor>
@@ -6465,9 +6465,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6492,6 +6489,9 @@ Infligge 3 danni.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Murloc. Il piatto del giorno.
   </flavor>
@@ -6540,6 +6540,9 @@ Infligge 3 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Rabbia:&lt;/b&gt; +6 Attacco.
   </text>
@@ -6558,15 +6561,12 @@ Infligge 3 danni.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Grommash bevve il sangue infetto di Mannoroth, condannando gli Orchi alla pelle verde e agli occhi rossi! Forse non è stata la sua decisione migliore.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_414
   </id>
@@ -6587,6 +6587,9 @@ Infligge 3 danni.
   <artist>
    Kev Walker
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Ottiene +1/+1 alla fine di ogni turno.
   </text>
@@ -6602,17 +6605,14 @@ Infligge 3 danni.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    È noto come Gruul "l&amp;apos;Ammazzadraghi". In realtà voleva solo coccolarli... è stato un terribile incidente...
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_038
   </id>
@@ -6854,9 +6854,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6884,6 +6881,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Le sue ali possono essere silenziose, ma il suo grido è... qualunque cosa sia l&amp;apos;opposto di silenzioso.
   </flavor>
@@ -6912,6 +6912,9 @@ Infligge 3 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge l&amp;apos;arma dell&amp;apos;avversario e pesca un numero di carte pari alla sua Integrità.
   </text>
@@ -6930,23 +6933,17 @@ Infligge 3 danni.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    “Deve stare in un museo!”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_558
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -6968,6 +6965,9 @@ Infligge 3 danni.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -6982,9 +6982,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7009,6 +7006,9 @@ Infligge 3 danni.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -7028,9 +7028,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7040,6 +7037,9 @@ Infligge 3 danni.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Evoca una Fiamma di Azzinoth 2/1 quando giochi una carta.
   </text>
@@ -7058,15 +7058,15 @@ Infligge 3 danni.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Il fratello di Illidan, Malfurion, lo ha imprigionato sotto il Monte Hyjal per 10.000 anni. I Grantempesta non sono inclini a perdonare.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_614
   </id>
@@ -7132,9 +7132,6 @@ Infligge 3 danni.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7156,6 +7153,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -7172,9 +7172,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7202,6 +7199,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -7226,9 +7226,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7256,6 +7253,9 @@ Infligge 3 danni.
   <health>
    2
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Sono tutto un fuoco.
   </flavor>
@@ -7270,9 +7270,6 @@ Infligge 3 danni.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7294,6 +7291,9 @@ Infligge 3 danni.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -7373,9 +7373,6 @@ Infligge 3 danni.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -7400,6 +7397,9 @@ Infligge 3 danni.
   <health>
    3
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    "Saccheggio solo nei giorni che finiscono per -dì, -abato e -enica."
   </flavor>
@@ -7411,9 +7411,6 @@ Infligge 3 danni.
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -7435,6 +7432,9 @@ Infligge 3 danni.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -7892,9 +7892,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7919,6 +7916,9 @@ Evoca un Infernale 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Kodo schiaccia kodo.
   </flavor>
@@ -7938,9 +7938,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -7950,6 +7947,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; evoca Finkle Cascorotto 3/3 sotto il controllo dell&amp;apos;avversario.
   </text>
@@ -7968,15 +7968,15 @@ Evoca un Infernale 6/6.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Vive nel Massiccio Roccianera, mangia gli Gnomi... cos&amp;apos;altro?
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_577
   </id>
@@ -7999,15 +7999,15 @@ Evoca un Infernale 6/6.
   <name>
    Lama della Perdizione
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 1 danno. &lt;b&gt;Combo:&lt;/b&gt; infligge 2 danni.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Grido di Battaglia:&lt;/b&gt; infligge 1 danno. &lt;b&gt;Combo:&lt;/b&gt; infligge 2 danni.
+  </text>
+  <durability>
+   2
+  </durability>
   <rarity>
    Rare
   </rarity>
@@ -8157,6 +8157,9 @@ Evoca un Infernale 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Carica&lt;/b&gt;. &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca due Draghetti 1/1 sotto il controllo dell&amp;apos;avversario.
   </text>
@@ -8175,15 +8178,12 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Almeno ha una Gallina Arrabbiata.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_116
   </id>
@@ -8530,9 +8530,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -8542,6 +8539,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;+5 Danni Magici&lt;/b&gt;
   </text>
@@ -8560,15 +8560,15 @@ Evoca un Infernale 6/6.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Malygos va fuori di testa quando i mortali usano la magia.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_563
   </id>
@@ -8810,15 +8810,15 @@ Evoca un Infernale 6/6.
   <name>
    Martelfato
   </name>
-  <durability>
-   8
-  </durability>
-  <text>
-   &lt;b&gt;Furia del Vento&lt;/b&gt;. &lt;b&gt;Sovraccarico:&lt;/b&gt; (2)
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Furia del Vento&lt;/b&gt;. &lt;b&gt;Sovraccarico:&lt;/b&gt; (2)
+  </text>
+  <durability>
+   8
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -8908,6 +8908,9 @@ Evoca un Infernale 6/6.
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; trasforma un altro servitore casuale in un Gigantosauro 5/5 o in uno Scoiattolo 1/1.
   </text>
@@ -8926,15 +8929,12 @@ Evoca un Infernale 6/6.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Il Mastro Meccanista Granfavilla ha quasi perso la sua licenza da Meccanista dopo la Grande Fuga di Scoiattoli di Forgiardente del 2009.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_083
   </id>
@@ -8999,9 +8999,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9029,6 +9026,9 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
@@ -9059,6 +9059,9 @@ Evoca un Infernale 6/6.
   <artist>
    Jim Nelson
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; nel turno successivo le Magie del nemico costano (0) Mana.
   </text>
@@ -9074,15 +9077,12 @@ Evoca un Infernale 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    "Accenderò il tuo fuoco, dolcezza!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    NEW1_029
   </id>
@@ -9185,9 +9185,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -9215,6 +9212,9 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Questo tizio diventa incredibilmente forte durante le riunioni di famiglia.
   </flavor>
@@ -9284,6 +9284,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    All&amp;apos;inizio del tuo turno, hai una probabilità del 50% di pescare una carta aggiuntiva.
   </text>
@@ -9302,17 +9305,14 @@ Evoca un Infernale 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Nat Pagle, il pescatore migliore di Azeroth! Ha inventato il Lancialenza Automatico 3000, l&amp;apos;Estendi-Canna 3000 e la Turbo-Esca 2099 (ancora in fase di test).
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_557
   </id>
@@ -9451,9 +9451,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9463,6 +9460,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    I giocatori hanno solo 15 secondi per completare il proprio turno.
   </text>
@@ -9481,17 +9481,17 @@ Evoca un Infernale 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    Il tempo vola.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_560
   </id>
@@ -9744,9 +9744,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -9756,6 +9753,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; evoca Draghetti 1/1 fino a riempire il tuo lato del campo di battaglia.
   </text>
@@ -9774,15 +9774,15 @@ Evoca un Infernale 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Onyxia ha manipolato a lungo la Corte di Roccavento spacciandosi per Dama Katrana Prestor. Indubbiamente è riuscita a nascondere bene le scaglie e le ali giganti.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_562
   </id>
@@ -9813,9 +9813,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -9843,6 +9840,9 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    Possono vedere nel futuro. Nel futuro entrambi i giocatori pescheranno due carte. Incredibile!
   </flavor>
@@ -9957,9 +9957,6 @@ Evoca un Infernale 6/6.
   </name>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -9978,6 +9975,9 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -9997,9 +9997,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -10027,6 +10024,9 @@ Evoca un Infernale 6/6.
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Rovotorto è un posto bellissimo da visitare, ma viverci è tutta un&amp;apos;altra cosa.
   </flavor>
@@ -10834,6 +10834,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Raddoppia i danni e le cure delle tue Magie e del Potere Eroe.
   </text>
@@ -10852,15 +10855,12 @@ Evoca un Infernale 6/6.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    È stato esiliato dalla sua patria e tutti i suoi fratelli sono diventati crudeli. A parte questo, non ha molto di cui lamentarsi.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_350
   </id>
@@ -11078,6 +11078,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Non può attaccare. Alla fine del tuo turno, infligge 8 danni a un nemico casuale.
   </text>
@@ -11096,15 +11099,12 @@ Evoca un Infernale 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Ragnaros venne evocato dai Nani Ferroscuro, che furono immediatamente schiavizzati dal Signore del Fuoco. Evocare Ragnaros spesso non funziona come vorresti.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_298
   </id>
@@ -11122,6 +11122,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Quando un giocatore lancia una Magia, l&amp;apos;avversario ottiene in mano una copia della carta.
   </text>
@@ -11140,17 +11143,14 @@ Evoca un Infernale 6/6.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
   <inplaytext>
   </inplaytext>
   <flavor>
    Il Ramingo della Sapienza Cho conserva e condivide storie da tutta Pandaria, ma le sue preferite sono quelle di Papà Castoro.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_100
   </id>
@@ -11227,9 +11227,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11239,6 +11236,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Carica&lt;/b&gt;
   </text>
@@ -11257,15 +11257,15 @@ Evoca un Infernale 6/6.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    La miglior difesa contro Re Krush è mettere qualcuno che non ti piace tra te e lui.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_543
   </id>
@@ -11282,9 +11282,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11294,6 +11291,9 @@ Evoca un Infernale 6/6.
   <artist>
    Sunny Gho
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; fornisce 2 Banane all&amp;apos;avversario.
   </text>
@@ -11309,15 +11309,15 @@ Evoca un Infernale 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    Signore e signori, ecco a voi Mukla, l&amp;apos;ottava meraviglia del mondo.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_014
   </id>
@@ -11659,9 +11659,6 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11683,6 +11680,9 @@ Evoca un Infernale 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -11762,9 +11762,6 @@ Evoca un Infernale 6/6.
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11783,6 +11780,9 @@ Evoca un Infernale 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -11932,9 +11932,6 @@ Evoca un Infernale 6/6.
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -11956,6 +11953,9 @@ Evoca un Infernale 6/6.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -12161,9 +12161,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12191,6 +12188,9 @@ Evoca un Infernale 6/6.
   <health>
    6
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mannoroth, Magtheridon e Brutallus saranno anche morti, ma sembra ci siano un sacco di Signori delle Fosse.
   </flavor>
@@ -12248,9 +12248,6 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12272,6 +12269,9 @@ Evoca un Infernale 6/6.
   <health>
    15
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Hero
   </type>
@@ -12291,9 +12291,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12303,6 +12300,9 @@ Evoca un Infernale 6/6.
   <artist>
    Alex Horley Orlandelli
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Grido di Battaglia:&lt;/b&gt; distrugge il tuo eroe e lo sostituisce con Sire Jaraxxus.
   </text>
@@ -12318,15 +12318,15 @@ Evoca un Infernale 6/6.
   <health>
    15
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    "GNOMO INSIGNIFICANTE! LA TUA ARROGANZA SARÀ LA TUA ROVINA!"
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_323
   </id>
@@ -12418,15 +12418,15 @@ Evoca un Infernale 6/6.
   <name>
    Spada della Giustizia
   </name>
-  <durability>
-   5
-  </durability>
-  <text>
-   Fornisce +1/+1 ai servitori che evochi ma perde 1 Integrità.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Fornisce +1/+1 ai servitori che evochi ma perde 1 Integrità.
+  </text>
+  <durability>
+   5
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -12661,6 +12661,9 @@ Evoca un Infernale 6/6.
   <artist>
    Glenn Rane
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Rantolo di Morte:&lt;/b&gt; prendi il controllo di un servitore nemico casuale.
   </text>
@@ -12676,15 +12679,12 @@ Evoca un Infernale 6/6.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Arthas ha fatto risorgere Sylvanas come Regina delle Banshee. Una scelta di cui si è amaramente pentito.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_016
   </id>
@@ -12710,9 +12710,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Classic
   </set>
@@ -12740,6 +12737,9 @@ Evoca un Infernale 6/6.
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    Perfetti per razziare i villaggi, ma non particolarmente affidabili come barbieri.
   </flavor>
@@ -12865,9 +12865,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -12892,6 +12889,9 @@ Evoca un Infernale 6/6.
   <health>
    3
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Se lo aggiungerai al tuo mazzo, aspettati di perdere la fiducia degli altri tuoi servitori.
   </flavor>
@@ -12926,6 +12926,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;+1 Danni Magici&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; pesca una carta.
   </text>
@@ -12944,15 +12947,12 @@ Evoca un Infernale 6/6.
   <health>
    1
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    È colui che gestisce la donazione annuale di sangue al Monastero Scarlatto!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_012
   </id>
@@ -12966,9 +12966,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Classic
   </set>
@@ -12996,6 +12993,9 @@ Evoca un Infernale 6/6.
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    Il bello delle tigri è che le tigri sono belle!
   </flavor>
@@ -13030,6 +13030,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Scudo Divino&lt;/b&gt;. &lt;b&gt;Provocazione&lt;/b&gt;. &lt;b&gt;Rantolo di Morte:&lt;/b&gt; equipaggia una Brandicenere 5/3.
   </text>
@@ -13048,15 +13051,12 @@ Evoca un Infernale 6/6.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Se non hai ancora sentito il tema musicale di Tirion Fordring è perché non esiste.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_383
   </id>
@@ -13187,9 +13187,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Classic
   </set>
@@ -13217,6 +13214,9 @@ Evoca un Infernale 6/6.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    Scommettiamo che non sopravvivrà più di 1 turno?
   </flavor>
@@ -13664,15 +13664,15 @@ Evoca un Infernale 6/6.
   <name>
    Urloatroce
   </name>
-  <durability>
-   1
-  </durability>
-  <text>
-   Attaccare un servitore costa 1 punto Attacco invece che 1 Integrità.
-  </text>
   <faction>
    Neutral
   </faction>
+  <text>
+   Attaccare un servitore costa 1 punto Attacco invece che 1 Integrità.
+  </text>
+  <durability>
+   1
+  </durability>
   <rarity>
    Epic
   </rarity>
@@ -13877,9 +13877,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Classic
   </set>
@@ -13907,6 +13904,9 @@ Evoca un Infernale 6/6.
   <health>
    3
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    I Murloc Lucefredda risiedono nelle più buie gallerie delle Profondità Abissali. Quindi no, non c&amp;apos;è modo di nascondersi dai Murloc.
   </flavor>
@@ -13998,9 +13998,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Classic
   </set>
@@ -14028,6 +14025,9 @@ Evoca un Infernale 6/6.
   <health>
    5
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Sì, combatterà per te. MA NON NE SARÀ FELICE.
   </flavor>
@@ -14134,9 +14134,6 @@ Evoca un Infernale 6/6.
   <collectible>
    True
   </collectible>
-  <race>
-   Dragon
-  </race>
   <set>
    Classic
   </set>
@@ -14146,6 +14143,9 @@ Evoca un Infernale 6/6.
   <faction>
    Neutral
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    Alla fine del tuo turno, pesca una carta Sogno.
   </text>
@@ -14164,15 +14164,15 @@ Evoca un Infernale 6/6.
   <health>
    12
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Dragon
+  </race>
   <flavor>
    Un drago da sogno. Letteralmente.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    EX1_572
   </id>

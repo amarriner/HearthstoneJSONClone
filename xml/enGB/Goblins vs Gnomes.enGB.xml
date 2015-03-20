@@ -39,9 +39,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -66,6 +63,9 @@
   <health>
    9
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.
   </flavor>
@@ -91,9 +91,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -119,6 +116,9 @@
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether.
   </flavor>
@@ -138,9 +138,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -150,6 +147,9 @@
   <artist>
    Eva Widermann
   </artist>
+  <elite>
+   False
+  </elite>
   <text>
    &lt;b&gt;Taunt&lt;/b&gt;. &lt;b&gt;Choose One -&lt;/b&gt;
 +1 Attack; or +1 Health.
@@ -166,15 +166,15 @@
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    It&amp;apos;s adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE
   </flavor>
-  <elite>
-   False
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_030
   </id>
@@ -191,9 +191,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -218,6 +215,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    They don&amp;apos;t make &amp;apos;em like they used to! (Because of explosions, mostly.)
   </flavor>
@@ -237,9 +237,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -265,6 +262,9 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    There was some hard talk between gnome magi and engineers about inventing this mech.
   </flavor>
@@ -384,9 +384,6 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -396,6 +393,9 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <artist>
    Jomaro Kindred
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Equip a random weapon for each player.
   </text>
@@ -411,15 +411,15 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <health>
    4
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_119
   </id>
@@ -437,6 +437,9 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <artist>
    Tooth
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever a friendly minion dies while this is in your hand, gain +1 Attack.
   </text>
@@ -452,15 +455,12 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_063
   </id>
@@ -517,9 +517,6 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
     Deathrattle
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -538,6 +535,9 @@ Can&amp;apos;t be targeted by spells or Hero Powers.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -706,9 +706,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -724,6 +721,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -752,9 +752,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -779,6 +776,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    He and Mountain Giant don&amp;apos;t get along.
   </flavor>
@@ -798,9 +798,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -825,6 +822,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Clockwork gnomes are always asking what time it is.
   </flavor>
@@ -839,9 +839,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -866,6 +863,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap.
   </flavor>
@@ -1322,6 +1322,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Alex Garner
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry&lt;/b&gt;: Summon two 1/1 Boom Bots. &lt;i&gt;WARNING: Bots may explode.&lt;/i&gt;
   </text>
@@ -1337,23 +1340,17 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    MARVEL AT HIS MIGHT!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_110
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1372,6 +1369,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1547,9 +1547,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1575,6 +1572,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    His enhancements are gluten free!
   </flavor>
@@ -1594,9 +1594,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1621,6 +1618,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    How is this supposed to work?  Your enemies think, "&lt;i&gt;Hey!&lt;/i&gt; Cute sheep!" and run over to cuddle it?
   </flavor>
@@ -1687,9 +1687,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1714,6 +1711,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The box says, "New and improved, with 200% more fel!"
   </flavor>
@@ -1731,9 +1731,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1758,6 +1755,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    So reaver. Much fel. Wow.
   </flavor>
@@ -1795,9 +1795,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1807,6 +1804,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Aleksi Briclot
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    When you draw this, deal 2 damage to all characters.
   </text>
@@ -1822,15 +1822,15 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mimiron likes to take the Flame Leviathan out on some sweet joyrides.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_007
   </id>
@@ -1877,9 +1877,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1904,6 +1901,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    "Evil Eye Watcher of Doom" was the original name, but marketing felt it was a bit too aggressive.
   </flavor>
@@ -1926,9 +1926,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1953,6 +1950,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    To operate, this contraption needs a hula doll on the dashboard. Otherwise it&amp;apos;s just a “falling machine.”
   </flavor>
@@ -1967,9 +1967,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -1979,6 +1976,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    James Ryman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Also damages the minions next to whomever he attacks.
   </text>
@@ -1994,15 +1994,15 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Foe reaping is really not so different from harvest reaping, at the end of the day.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_113
   </id>
@@ -2016,9 +2016,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2043,6 +2040,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    7
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns.
   </flavor>
@@ -2057,9 +2057,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2069,6 +2066,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever this minion takes damage, double its Attack.
   </text>
@@ -2084,15 +2084,15 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    9
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    The Sen&amp;apos;jin High football team is The Gahz&amp;apos;rillas.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_049
   </id>
@@ -2134,6 +2134,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Luke Mancini
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever you cast a 1-mana spell, add a random Mech to your hand.
   </text>
@@ -2149,15 +2152,12 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Gazlowe was voted "Most Likely to Explode" in high school.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_117
   </id>
@@ -2412,9 +2412,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2439,6 +2436,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    This guy is excellent at adjusting your haircut and/or height.
   </flavor>
@@ -2620,6 +2620,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Ralph Horsley
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Destroy a Beast.
   </text>
@@ -2635,15 +2638,12 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    3
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    It&amp;apos;s hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_120
   </id>
@@ -2742,9 +2742,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   </id>
  </item>
  <item>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2760,6 +2757,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    1
   </health>
+  <race>
+   Demon
+  </race>
   <type>
    Minion
   </type>
@@ -2814,9 +2814,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2826,6 +2823,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Shuffle a Mine into your opponent&amp;apos;s deck. When drawn, it explodes for 10 damage.
   </text>
@@ -2841,15 +2841,15 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    The Iron Juggernaut guards Orgrimmar and has just earned the "Employee of the Month" award!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_056
   </id>
@@ -2861,9 +2861,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2888,6 +2885,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mechs like learning from him because he really speaks their language.
 
@@ -2927,9 +2927,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2954,6 +2951,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    This robot is a lean, mean, butlerin&amp;apos; machine.
   </flavor>
@@ -2968,9 +2968,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -2995,6 +2992,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    One bot&amp;apos;s junk is another bot&amp;apos;s AWESOME UPGRADE!
   </flavor>
@@ -3077,9 +3077,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3104,6 +3101,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    6
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    He never sleeps.  Not even in the mighty jungle.
   </flavor>
@@ -3243,9 +3243,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3267,6 +3264,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    The message, "If found, please return to Mulgore," is tattooed on his rear.
   </flavor>
@@ -3329,9 +3329,6 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3341,6 +3338,9 @@ If it&amp;apos;s a Beast, it costs (4) less.
   <artist>
    Wayne Reynolds
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Your other Demons have +2/+2.
 Your hero is &lt;b&gt;Immune&lt;/b&gt;.
@@ -3357,15 +3357,15 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Demon
+  </race>
   <flavor>
    Mal&amp;apos;Ganis doesn&amp;apos;t like being betrayed, so if you discard him, watch out.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_021
   </id>
@@ -3382,9 +3382,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3394,6 +3391,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Oliver Chipping
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Shuffle this minion into your deck.
   </text>
@@ -3409,15 +3409,15 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Beast
+  </race>
   <flavor>
    When Malorne isn&amp;apos;t mauling hordes of demons, he enjoys attending parties, though he prefers to go stag.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_035
   </id>
@@ -3429,9 +3429,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3456,6 +3453,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    6
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Crushes buildings with his BEAR hands.
   </flavor>
@@ -3478,9 +3478,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3505,6 +3502,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The yetis of Chillwind Point are a source of both inspiration and savage beatings.
   </flavor>
@@ -3524,9 +3524,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3551,6 +3548,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mechs that summon mechs? What&amp;apos;s next? Donuts that summon donuts? Mmmmm.
   </flavor>
@@ -3565,9 +3565,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3577,6 +3574,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever an enemy minion dies, summon a Leper Gnome.
   </text>
@@ -3592,15 +3592,15 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    He was obsessed with explosives until he discovered knitting. Now he yells, “SWEATERS! MORE SWEATERS!”
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_116
   </id>
@@ -3678,9 +3678,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3705,6 +3702,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Don&amp;apos;t leave them out in the rain. In Un&amp;apos;Goro Crater there is a whole colony of rust-tooth leapers.
   </flavor>
@@ -3722,9 +3722,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3749,6 +3746,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    This card is the real thing.
   </flavor>
@@ -3800,9 +3800,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3812,6 +3809,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Trent Kaniuga
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.
   </text>
@@ -3827,15 +3827,15 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    Do not push the big red button!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_111
   </id>
@@ -3891,9 +3891,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -3918,6 +3915,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    4
   </health>
+  <race>
+   Demon
+  </race>
   <flavor>
    Her sister is the Mistress of Pane who sells windows and shower doors.
   </flavor>
@@ -3944,6 +3944,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Michal Ivan
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    All minions have a 50% chance to attack the wrong enemy.
   </text>
@@ -3959,15 +3962,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Mogor helped reopen the Dark Portal once. You know you&amp;apos;re in trouble when you have to rely on an ogre.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_112
   </id>
@@ -4025,6 +4025,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Ruan Jia
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Add 4 random Murlocs to your hand. &lt;b&gt;Overload: (3)&lt;/b&gt;
   </text>
@@ -4040,15 +4043,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Neptulon is "The Tidehunter". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_042
   </id>
@@ -4186,9 +4186,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4213,6 +4210,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    1
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    When pirates say there is no "Eye" in "team," they are very literal about it.
   </flavor>
@@ -4260,9 +4260,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4287,6 +4284,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one.
   </flavor>
@@ -4306,9 +4306,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4333,6 +4330,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The pinnacle of goblin engineering. Includes an espresso machine and foot massager.
   </flavor>
@@ -4430,9 +4430,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4454,6 +4451,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    He pays homage to Morgl, the great murloc oracle! (Who doesn&amp;apos;t??)
   </flavor>
@@ -4735,9 +4735,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Pirate
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4759,6 +4756,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    4
   </health>
+  <race>
+   Pirate
+  </race>
   <flavor>
    He&amp;apos;s recently recovered from being a "scurvy dog."
   </flavor>
@@ -4824,9 +4824,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -4851,6 +4848,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    If it breaks, just kick it a couple of times while yelling "Durn thing!"
   </flavor>
@@ -4996,9 +4996,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5023,6 +5020,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Punching is its primary function. Also, its secondary function.
   </flavor>
@@ -5065,9 +5065,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5092,6 +5089,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    He chooses to believe what he is programmed to believe!
   </flavor>
@@ -5261,9 +5261,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5288,6 +5285,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Wintergrasp Keep&amp;apos;s only weakness!
   </flavor>
@@ -5305,9 +5305,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5332,6 +5329,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, "MRGHRGLGLGL!"
   </flavor>
@@ -5354,9 +5354,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5366,6 +5363,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Christopher Moeller
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Deathrattle:&lt;/b&gt; Summon a random legendary minion.
   </text>
@@ -5381,15 +5381,15 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
+  <race>
+   Mech
+  </race>
   <flavor>
    When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_114
   </id>
@@ -5403,9 +5403,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5430,6 +5427,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Do the slow chant when he waddles by: "Chug! Chug! Chug!"
   </flavor>
@@ -5452,9 +5452,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5479,6 +5476,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer.
   </flavor>
@@ -5496,9 +5496,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5520,6 +5517,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    "What if we put guns on it?" -Fizzblitz, staring at the spider-transportation-machine
   </flavor>
@@ -5675,9 +5675,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -5702,6 +5699,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    The engineering equivalent of a "Kick Me" sticker.
   </flavor>
@@ -5893,6 +5893,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Zoltan &amp; Gabor
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry and Deathrattle:&lt;/b&gt; Add a &lt;b&gt;Spare Part&lt;/b&gt; card to your hand.
   </text>
@@ -5908,15 +5911,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    7
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Something about power converters.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_115
   </id>
@@ -5934,6 +5934,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Wei Wang
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever your opponent casts a spell, gain a copy of it and give them a Coin.
   </text>
@@ -5949,15 +5952,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    8
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_028
   </id>
@@ -6013,6 +6013,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Mike Sass
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg.
   </text>
@@ -6028,15 +6031,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    He keeps earthinating the countryside despite attempts to stop him.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_118
   </id>
@@ -6085,9 +6085,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6112,6 +6109,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    5
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    It&amp;apos;s the same as the previous generation but they slapped the word "upgraded" on it to sell it for double.
   </flavor>
@@ -6131,9 +6131,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
     Charge
    </item>
   </mechanics>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6143,6 +6140,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Chris Seaman
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Charge&lt;/b&gt;
 &lt;b&gt;Mega-Windfury&lt;/b&gt; &lt;i&gt;(Can attack four times a turn.)&lt;/i&gt;
@@ -6159,12 +6159,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    8
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
-  <elite>
-   True
-  </elite>
   <id>
    GVG_111t
   </id>
@@ -6225,9 +6225,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6252,6 +6249,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Totem
+  </race>
   <flavor>
    You can usually find these at the totemist&amp;apos;s market on Saturdays.
   </flavor>
@@ -6283,6 +6283,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <artist>
    Raymond Swanland
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Battlecry:&lt;/b&gt; Swap Health with another minion.
   </text>
@@ -6298,15 +6301,12 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
-  <type>
-   Minion
-  </type>
   <flavor>
    Vol&amp;apos;jin is a shadow hunter, which is like a shadow priest except more voodoo.
   </flavor>
-  <elite>
-   True
-  </elite>
+  <type>
+   Minion
+  </type>
   <id>
    GVG_014
   </id>
@@ -6323,9 +6323,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6350,6 +6347,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    Mass production of warbots was halted when it was discovered that they were accidentally being produced at "sample size."
   </flavor>
@@ -6478,9 +6478,6 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <collectible>
    True
   </collectible>
-  <race>
-   Mech
-  </race>
   <set>
    Goblins vs Gnomes
   </set>
@@ -6505,6 +6502,9 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
   <health>
    2
   </health>
+  <race>
+   Mech
+  </race>
   <flavor>
    If you pay a little extra, you can get it in "candy-apple red."
   </flavor>

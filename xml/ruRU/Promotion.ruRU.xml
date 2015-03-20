@@ -78,12 +78,15 @@
   <artist>
    Samwise Didier
   </artist>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; оба игрока получают силу РОКА! (а также одну из карт серии «Мощный аккорд»)
   </text>
-  <id>
-   PRO_001
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    5
   </attack>
@@ -93,26 +96,20 @@
   <health>
    5
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   Внимание! Группе требуется барабанщик! Текущие кандидаты: инженер-новичок, щитоносец Сен&amp;apos;джин и Рагнарос.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Награда за посещение или приобретение виртуального билета BlizzCon 2013.
   </howtogetgold>
+  <flavor>
+   Внимание! Группе требуется барабанщик! Текущие кандидаты: инженер-новичок, щитоносец Сен&amp;apos;джин и Рагнарос.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   PRO_001
+  </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -137,6 +134,9 @@
   <health>
    4
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -181,15 +181,18 @@
   <faction>
    Alliance
   </faction>
+  <elite>
+   True
+  </elite>
   <text>
    &lt;b&gt;Боевой клич:&lt;/b&gt; призывает на поле боя удивительное изобретение.
   </text>
   <artist>
    Ludo Lullabi
   </artist>
-  <id>
-   EX1_112
-  </id>
+  <rarity>
+   Legendary
+  </rarity>
   <attack>
    6
   </attack>
@@ -199,26 +202,20 @@
   <health>
    6
   </health>
-  <type>
-   Minion
-  </type>
-  <flavor>
-   Предводитель гномов и выдающийся изобретатель. Надо заметить, теперь он гораздо реже превращает предметы в куриц.
-  </flavor>
-  <rarity>
-   Legendary
-  </rarity>
-  <elite>
-   True
-  </elite>
   <howtogetgold>
    Награда игрокам, помогавшим в тестировании магазина на стадии бета-тестирования.
   </howtogetgold>
+  <flavor>
+   Предводитель гномов и выдающийся изобретатель. Надо заметить, теперь он гораздо реже превращает предметы в куриц.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_112
+  </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Promotion
   </set>
@@ -237,6 +234,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -245,9 +245,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Murloc
-  </race>
   <set>
    Promotion
   </set>
@@ -263,6 +260,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>
@@ -293,9 +293,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -320,6 +317,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -330,9 +330,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -357,6 +354,9 @@
   <health>
    3
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>
@@ -367,9 +367,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Promotion
   </set>
@@ -394,6 +391,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <inplaytext>
   </inplaytext>
   <type>

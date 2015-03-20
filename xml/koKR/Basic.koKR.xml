@@ -53,9 +53,9 @@
   <artist>
    Clint Langley
   </artist>
-  <id>
-   CS2_196
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -65,18 +65,18 @@
   <health>
    3
   </health>
-  <flavor>
-   뿔엄니에게 정말 까분 사람이 한 명 있었습니다. 딱 한 명요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    사냥꾼 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   뿔엄니에게 정말 까분 사람이 한 명 있었습니다. 딱 한 명요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_196
+  </id>
  </item>
  <item>
   <mechanics>
@@ -84,12 +84,12 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
+  <cost>
+   0
+  </cost>
   <name>
    개구리
   </name>
@@ -105,9 +105,9 @@
   <attack>
    0
   </attack>
-  <cost>
-   0
-  </cost>
+  <race>
+   Beast
+  </race>
   <health>
    1
   </health>
@@ -160,27 +160,27 @@
   <artist>
    Daren Bader
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_360
-  </id>
-  <flavor>
-   이래서 겸손이 힘든 겁니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이래서 겸손이 힘든 겁니다.
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_360
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -253,9 +253,9 @@
   <text>
    내 다른 하수인들이 공격력을 +1 얻습니다.
   </text>
-  <id>
-   CS2_122
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    2
   </attack>
@@ -265,20 +265,20 @@
   <health>
    2
   </health>
+  <howtogetgold>
+   전사 57 레벨에 잠금 해제
+  </howtogetgold>
   <inplaytext>
   </inplaytext>
   <flavor>
    "바닥! 바닥! 바닥 좀 피하라고!"
   </flavor>
-  <rarity>
-   Free
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   전사 57 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_122
+  </id>
  </item>
  <item>
   <mechanics>
@@ -289,9 +289,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Basic
   </set>
@@ -307,9 +304,12 @@
   <artist>
    Zoltan &amp; Gabor
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   23 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    6
   </attack>
@@ -319,21 +319,21 @@
   <health>
    6
   </health>
-  <id>
-   CS2_064
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    "지옥풀을 받아라!" - 불타는 군단의 에레다르 군주, 자락서스
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   23 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_064
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -347,9 +347,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Basic
   </set>
@@ -365,9 +362,12 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   36 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -377,21 +377,21 @@
   <health>
    3
   </health>
-  <id>
-   CS2_065
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    내 이름은 보이드. 별명은... 몸빵.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   36 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_065
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -432,9 +432,9 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <id>
-   EX1_399
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -444,18 +444,18 @@
   <health>
    7
   </health>
-  <flavor>
-   아픈 만큼 성숙하는 법입니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    흑마법사 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   아픈 만큼 성숙하는 법입니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_399
+  </id>
  </item>
  <item>
   <collectible>
@@ -490,9 +490,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -505,11 +502,12 @@
   <text>
    내가 야수 1마리를 소환할 때마다 카드를 1장 뽑습니다.
   </text>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   47 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -519,21 +517,23 @@
   <health>
    2
   </health>
-  <id>
-   CS2_237
-  </id>
+  <race>
+   Beast
+  </race>
+  <inplaytext>
+  </inplaytext>
   <flavor>
    먹을 걸 주면 &lt;i&gt;정체성&lt;/i&gt;에 혼란을 겪습니다.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   47 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_237
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -557,27 +557,27 @@
   <artist>
    James Ryman
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_013
-  </id>
-  <flavor>
-   마나 수정 재배기로 자신만의 마나 수정을 키우세요! 믿을 수 없는 가격! 39,900 골드!
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   마나 수정 재배기로 자신만의 마나 수정을 키우세요! 믿을 수 없는 가격! 39,900 골드!
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_013
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -606,9 +606,9 @@
   <artist>
    Warren Mahy
   </artist>
-  <id>
-   EX1_025
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -618,18 +618,18 @@
   <health>
    4
   </health>
-  <flavor>
-   앙앙이에게 로켓 발사기를 장착하려고 요즘 고민 중입니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    마법사 53 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   앙앙이에게 로켓 발사기를 장착하려고 요즘 고민 중입니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_025
+  </id>
  </item>
  <item>
   <collectible>
@@ -650,27 +650,27 @@
   <artist>
    Michael Sutfin
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   CS2_072
-  </id>
-  <flavor>
-   사실 이 기술은 "저게 뭐지?!" 라는 말을 듣고 등을 보인 적에게 사용하는 기술입니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   사실 이 기술은 "저게 뭐지?!" 라는 말을 듣고 등을 보인 적에게 사용하는 기술입니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_072
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -699,27 +699,27 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_037
-  </id>
-  <flavor>
-   냉기 충격!
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   냉기 충격!
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_037
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -771,9 +771,9 @@
   <artist>
    Court Jones
   </artist>
-  <id>
-   CS2_147
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -783,18 +783,18 @@
   <health>
    4
   </health>
-  <flavor>
-   사실 본인도 뭘 만들고 있는지 잘 모릅니다. 그게 끝내주는 물건이라는 점만 빼고요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    사제 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   사실 본인도 뭘 만들고 있는지 잘 모릅니다. 그게 끝내주는 물건이라는 점만 빼고요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_147
+  </id>
  </item>
  <item>
   <mechanics>
@@ -820,9 +820,9 @@
   <artist>
    Dany Orizio
   </artist>
-  <id>
-   CS2_124
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    3
   </attack>
@@ -832,18 +832,18 @@
   <health>
    1
   </health>
-  <flavor>
-   늑대는 정말 최고의 탈것입니다. 척박한 환경에도 적응하고, 승차감도 좋고, 무엇보다 복실복실하고 귀여우니까요.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    전사 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   늑대는 정말 최고의 탈것입니다. 척박한 환경에도 적응하고, 승차감도 좋고, 무엇보다 복실복실하고 귀여우니까요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_124
+  </id>
  </item>
  <item>
   <set>
@@ -899,9 +899,9 @@
   <artist>
    Jim Nelson
   </artist>
-  <id>
-   EX1_582
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -911,18 +911,18 @@
   <health>
    4
   </health>
-  <flavor>
-   달라란 전사는 찾아보기 힘들 겁니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    마법사 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   달라란 전사는 찾아보기 힘들 겁니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_582
+  </id>
  </item>
  <item>
   <collectible>
@@ -943,27 +943,27 @@
   <artist>
    Richard Wright
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   CS2_008
-  </id>
-  <flavor>
-   "달빛섬광을 쓰세요. 계속 쓰세요." - 조화 드루이드가 되는 법, 제 5장, 3절
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "달빛섬광을 쓰세요. 계속 쓰세요." - 조화 드루이드가 되는 법, 제 5장, 3절
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_008
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -992,9 +992,9 @@
   <artist>
    Steve Ellis
   </artist>
-  <id>
-   CS2_155
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -1004,18 +1004,18 @@
   <health>
    7
   </health>
-  <flavor>
-   대마법사 칭호를 어떻게 얻냐고요? 마법으로 대마법사를 쓰러뜨리면 됩니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    마법사 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   대마법사 칭호를 어떻게 얻냐고요? 마법으로 대마법사를 쓰러뜨리면 됩니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_155
+  </id>
  </item>
  <item>
   <collectible>
@@ -1036,27 +1036,27 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_045
-  </id>
-  <flavor>
-   아아... 크고 아름답네요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   아아... 크고 아름답네요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_045
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -1105,27 +1105,27 @@
   <artist>
    Alex Garner
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   EX1_278
-  </id>
-  <flavor>
-   알라깔라&lt;b&gt;독칼&lt;/b&gt;라미&lt;b&gt;독칼&lt;/b&gt;라미띠!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   알라깔라&lt;b&gt;독칼&lt;/b&gt;라미&lt;b&gt;독칼&lt;/b&gt;라미띠!
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_278
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1136,9 +1136,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Totem
-  </race>
   <set>
    Basic
   </set>
@@ -1163,6 +1160,9 @@
   <health>
    2
   </health>
+  <race>
+   Totem
+  </race>
   <type>
    Minion
   </type>
@@ -1182,9 +1182,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -1200,9 +1197,12 @@
   <artist>
    Howard Lyon
   </artist>
-  <id>
-   CS2_171
-  </id>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   사냥꾼 53 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -1212,18 +1212,18 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    손에서 나와 상대에게 달려가려고 안달입니다.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   사냥꾼 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_171
+  </id>
  </item>
  <item>
   <collectible>
@@ -1238,9 +1238,9 @@
   <artist>
    Brian Despain
   </artist>
-  <id>
-   CS2_200
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    6
   </attack>
@@ -1250,18 +1250,18 @@
   <health>
    7
   </health>
-  <flavor>
-   "나, 비용에 비해 능력치 좋다!"
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    흑마법사 51 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "나, 비용에 비해 능력치 좋다!"
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_200
+  </id>
  </item>
  <item>
   <set>
@@ -1302,27 +1302,27 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_103
-  </id>
-  <flavor>
-   다음 턴까지 안전하리라는 상대의 믿음을 박살냅니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   다음 턴까지 안전하리라는 상대의 믿음을 박살냅니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_103
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -1479,9 +1479,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -1503,6 +1500,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1561,27 +1561,27 @@
   <artist>
    Dany Orizio
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_108
-  </id>
-  <flavor>
-   마무리 일격이 가능해지면 전사들은 눈에 핏발을 세운다죠.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   마무리 일격이 가능해지면 전사들은 눈에 핏발을 세운다죠.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_108
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -1605,27 +1605,27 @@
   <artist>
    Michael Komarck
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_003
-  </id>
-  <flavor>
-   손이 눈보다 빠를 필요가 없습니다. 이 카드만 있으면요.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   손이 눈보다 빠를 필요가 없습니다. 이 카드만 있으면요.
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_003
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -1695,27 +1695,27 @@
   <artist>
    Trevor Jacobs
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_074
-  </id>
-  <flavor>
-   도적들의 독 제조술은 극비 사항입니다. 마법사들이 주문에 사용 못 하게 하기 위해서죠. 맹독 화살? 맹독의 비? 맹독 정령? 생각만 해도 끔찍하군요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    43 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   도적들의 독 제조술은 극비 사항입니다. 마법사들이 주문에 사용 못 하게 하기 위해서죠. 맹독 화살? 맹독의 비? 맹독 정령? 생각만 해도 끔찍하군요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_074
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -1729,9 +1729,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Basic
   </set>
@@ -1747,9 +1744,12 @@
   <artist>
    Dan Scott
   </artist>
-  <id>
-   EX1_506
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   도적 53 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1759,26 +1759,23 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    "파도를 헤치고 죽음이 나타나리니!"
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   도적 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   EX1_506
+  </id>
  </item>
  <item>
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Basic
   </set>
@@ -1791,9 +1788,12 @@
   <artist>
    Dan Scott
   </artist>
-  <id>
-   CS2_168
-  </id>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   사제 51 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -1803,23 +1803,20 @@
   <health>
    1
   </health>
-  <flavor>
-   아옳옳옳옳옳옳옳, 아옳옳옳 옳옳옳옳옳, 옳옳옳옳옳, 아옳옳옳옳옳옳옳! 아옳옳옳, 아옳옳옳옳!
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
-  <howtogetgold>
-   사제 51 레벨에 잠금 해제
-  </howtogetgold>
- </item>
- <item>
   <race>
    Murloc
   </race>
+  <flavor>
+   아옳옳옳옳옳옳옳, 아옳옳옳 옳옳옳옳옳, 옳옳옳옳옳, 아옳옳옳옳옳옳옳! 아옳옳옳, 아옳옳옳옳!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_168
+  </id>
+ </item>
+ <item>
   <set>
    Basic
   </set>
@@ -1841,6 +1838,9 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <type>
    Minion
   </type>
@@ -1849,9 +1849,6 @@
   </id>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -1873,6 +1870,9 @@
   <health>
    1
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -1904,9 +1904,9 @@
   <artist>
    John Polidora
   </artist>
-  <id>
-   CS2_213
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    5
   </attack>
@@ -1916,18 +1916,18 @@
   <health>
    2
   </health>
-  <flavor>
-   폭발물로 가득한 로켓으로 무장한 미치광이 로켓병이라니! 와! 신난다!
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    주술사 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   폭발물로 가득한 로켓으로 무장한 미치광이 로켓병이라니! 와! 신난다!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_213
+  </id>
  </item>
  <item>
   <mechanics>
@@ -1978,9 +1978,9 @@
   <artist>
    Doug Alexander
   </artist>
-  <id>
-   EX1_019
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -1990,18 +1990,18 @@
   <health>
    2
   </health>
-  <flavor>
-   비결이 뭐냐고요? 태양샘 에너지 드링크라고 하네요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    사제 53 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   비결이 뭐냐고요? 태양샘 에너지 드링크라고 하네요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_019
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2027,9 +2027,9 @@
   <artist>
    Matt Cavotta
   </artist>
-  <id>
-   CS2_187
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -2039,18 +2039,18 @@
   <health>
    4
   </health>
-  <flavor>
-   골드만 있다면 당신 곁에 있어줄 겁니다. 물론, 상대보다 많아야겠죠.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    주술사 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   골드만 있다면 당신 곁에 있어줄 겁니다. 물론, 상대보다 많아야겠죠.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_187
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2061,9 +2061,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -2079,9 +2076,12 @@
   <artist>
    Lars Grant-West
   </artist>
-  <id>
-   CS2_125
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   사냥꾼 59 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -2091,18 +2091,18 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    "불곰 가죽 1/10"
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   사냥꾼 59 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_125
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2128,9 +2128,9 @@
   <artist>
    Dave Allsop
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    8
   </attack>
@@ -2140,21 +2140,21 @@
   <health>
    8
   </health>
-  <id>
-   CS2_232
-  </id>
-  <flavor>
-   그 누가 &lt;i&gt;감히&lt;/i&gt; 다르나서스를 공격할쏘냐!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   그 누가 &lt;i&gt;감히&lt;/i&gt; 다르나서스를 공격할쏘냐!
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_232
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -2183,11 +2183,9 @@
   <artist>
    John Avon
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -2197,21 +2195,23 @@
   <health>
    6
   </health>
-  <id>
-   CS2_033
-  </id>
-  <flavor>
-   물의 정령을 파티에 초대하면... 찬물 같은 걸 끼얹나?
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   물의 정령을 파티에 초대하면... 찬물 같은 걸 끼얹나?
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_033
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -2222,9 +2222,6 @@
     Taunt
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -2246,6 +2243,9 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -2260,9 +2260,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -2272,9 +2269,12 @@
   <artist>
    Daren Bader
   </artist>
-  <id>
-   CS2_120
-  </id>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   드루이드 55 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -2284,18 +2284,18 @@
   <health>
    3
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    "왼손잡이" 에드워드 스미스에 의해 명품 가방이 될 뻔한 적이 있다는군요.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   드루이드 55 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_120
+  </id>
  </item>
  <item>
   <mechanics>
@@ -2321,9 +2321,9 @@
   <artist>
    Vance Kovacs
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -2333,21 +2333,21 @@
   <health>
    3
   </health>
-  <id>
-   EX1_587
-  </id>
-  <flavor>
-   입 냄새 심한 바람예언자보다 끔찍한 게 있을까요?
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   입 냄새 심한 바람예언자보다 끔찍한 게 있을까요?
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_587
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -2456,27 +2456,27 @@
   <artist>
    Michael Komarck
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   EX1_606
-  </id>
-  <flavor>
-   얼굴 막기는 도무지 쓸모가 없어서 방패 막기가 탄생했습니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   얼굴 막기는 도무지 쓸모가 없어서 방패 막기가 탄생했습니다.
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_606
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -2562,27 +2562,27 @@
   <artist>
    Vance Kovacs
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_022
-  </id>
-  <flavor>
-   이 카드로 &amp;apos;말&amp;apos;장난을 만들어 보려고 했는데... &amp;apos;양&amp;apos;장난이 되었네요. 길어져서 죄송합니다. 재미가 없으면 &amp;apos;양&amp;apos;으로라도 승부해야죠.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 카드로 &amp;apos;말&amp;apos;장난을 만들어 보려고 했는데... &amp;apos;양&amp;apos;장난이 되었네요. 길어져서 죄송합니다. 재미가 없으면 &amp;apos;양&amp;apos;으로라도 승부해야죠.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_022
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -2607,27 +2607,27 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   6
-  </cost>
-  <id>
-   EX1_173
-  </id>
-  <flavor>
-   단언컨대 별빛섬광은 가장 조화로운 드루이드 카드입니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   6
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   단언컨대 별빛섬광은 가장 조화로운 드루이드 카드입니다.
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_173
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -2681,27 +2681,27 @@
   <artist>
    Clint Langley
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_371
-  </id>
-  <flavor>
-   이 주문은 이름이 하도 많이 바뀌어서, 성기사들도 이걸 뭐라고 불러야 하는지 잘 모를 때가 많습니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 주문은 이름이 하도 많이 바뀌어서, 성기사들도 이걸 뭐라고 불러야 하는지 잘 모를 때가 많습니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_371
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -2730,9 +2730,9 @@
   <artist>
    Karl Richardson
   </artist>
-  <id>
-   EX1_011
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    2
   </attack>
@@ -2742,18 +2742,18 @@
   <health>
    1
   </health>
-  <flavor>
-   한동안 이 카드의 이름은 "더러운 트롤 의술사"였습니다.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    도적 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   한동안 이 카드의 이름은 "더러운 트롤 의술사"였습니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_011
+  </id>
  </item>
  <item>
   <collectible>
@@ -2774,27 +2774,27 @@
   <artist>
    Wayne Reynolds
   </artist>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_063
-  </id>
-  <flavor>
-   이 주문이 무서운 진짜 이유는 냄새 때문이라는 말이 있습니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 주문이 무서운 진짜 이유는 냄새 때문이라는 말이 있습니다.
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_063
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -2840,9 +2840,9 @@
   <text>
    하수인이 하나 치유될 때마다 카드를 1장 뽑습니다.
   </text>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    1
   </attack>
@@ -2852,21 +2852,21 @@
   <health>
    3
   </health>
-  <id>
-   CS2_235
-  </id>
-  <flavor>
-   탄압받고 괴로워하는 자들을 돕습니다. 쿠키도 팝니다.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   탄압받고 괴로워하는 자들을 돕습니다. 쿠키도 팝니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_235
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -2890,27 +2890,27 @@
   <artist>
    Romain De Santi
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   7
-  </cost>
-  <id>
-   CS2_032
-  </id>
-  <flavor>
-   바닥에 불이 붙었을 땐, 멈춰서서 엎드리고 굴러서는 &lt;i&gt;절대&lt;/i&gt; 안 됩니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   7
+  </cost>
   <howtogetgold>
    51 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   바닥에 불이 붙었을 땐, 멈춰서서 엎드리고 굴러서는 &lt;i&gt;절대&lt;/i&gt; 안 됩니다.
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_032
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -2947,9 +2947,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Totem
-  </race>
   <set>
    Basic
   </set>
@@ -2965,11 +2962,12 @@
   <artist>
    Jonathan Ryder
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   43 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    0
   </attack>
@@ -2979,21 +2977,23 @@
   <health>
    3
   </health>
-  <id>
-   EX1_565
-  </id>
+  <race>
+   Totem
+  </race>
+  <inplaytext>
+  </inplaytext>
   <flavor>
    토템 장인들은 본인의 토템에는 가장 희귀한 나무를 사용하곤 합니다. 심지어 무쇠껍질 수호정령으로 만든 토템도 있다는군요.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   43 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   EX1_565
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3022,9 +3022,9 @@
   <artist>
    Ralph Horsley
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    6
   </attack>
@@ -3034,29 +3034,26 @@
   <health>
    5
   </health>
-  <id>
-   CS2_042
-  </id>
-  <flavor>
-   영영 못 씻는 정령입니다. 으, 더러워라...
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   영영 못 씻는 정령입니다. 으, 더러워라...
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_042
+  </id>
   <playerclass>
    Shaman
   </playerclass>
  </item>
  <item>
-  <race>
-   Totem
-  </race>
   <set>
    Basic
   </set>
@@ -3078,6 +3075,9 @@
   <health>
    1
   </health>
+  <race>
+   Totem
+  </race>
   <type>
    Minion
   </type>
@@ -3092,9 +3092,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -3107,9 +3104,12 @@
   <artist>
    Dan Brereton
   </artist>
-  <id>
-   CS2_172
-  </id>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   사냥꾼 57 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    3
   </attack>
@@ -3119,18 +3119,18 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    "랩터 30마리를 처치하세요." - 헤멧 네싱워리
   </flavor>
-  <rarity>
-   Free
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   사냥꾼 57 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_172
+  </id>
  </item>
  <item>
   <collectible>
@@ -3162,36 +3162,36 @@
   </playerclass>
  </item>
  <item>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
   <collectible>
    True
   </collectible>
-  <rarity>
-   Free
-  </rarity>
   <set>
    Basic
   </set>
   <name>
    빛의 정의
   </name>
-  <durability>
-   4
-  </durability>
   <faction>
    Neutral
   </faction>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <durability>
+   4
+  </durability>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    1
   </attack>
   <cost>
    1
   </cost>
-  <id>
-   CS2_091
-  </id>
+  <howtogetgold>
+   36 레벨에 잠금 해제
+  </howtogetgold>
   <flavor>
    공작 말체자르는 희귀한 무기를 모으는 수집가였습니다. 무기를 살아 움직이게 하고는 자신 앞에서 춤추게 했죠.
   </flavor>
@@ -3201,9 +3201,9 @@
   <type>
    Weapon
   </type>
-  <howtogetgold>
-   36 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_091
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -3252,11 +3252,9 @@
   <artist>
    Dan Brereton
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <inplaytext>
-  </inplaytext>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    4
   </attack>
@@ -3266,21 +3264,23 @@
   <health>
    3
   </health>
-  <id>
-   DS1_070
-  </id>
-  <flavor>
-   "누가 개들을 풀었어?"라고 묻네요. 몰라서 물으십니까?
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <inplaytext>
+  </inplaytext>
+  <flavor>
+   "누가 개들을 풀었어?"라고 묻네요. 몰라서 물으십니까?
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   DS1_070
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3324,27 +3324,27 @@
   <artist>
    Jimmy Lo
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   CS2_084
-  </id>
-  <flavor>
-   절대 사냥꾼과 숨바꼭질하지 마십시오.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   절대 사냥꾼과 숨바꼭질하지 마십시오.
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_084
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3368,27 +3368,27 @@
   <artist>
    Steve Hui
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   EX1_246
-  </id>
-  <flavor>
-   멀록에게 사술을 써보셨나요? 네, 외관 상 큰 변화는 없을 겁니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   멀록에게 사술을 써보셨나요? 네, 외관 상 큰 변화는 없을 겁니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_246
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3437,27 +3437,27 @@
   <artist>
    Frank Cho
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_075
-  </id>
-  <flavor>
-   그렇게나 기력이 많이 들던 기술이 마나는 고작 이것밖에 안 드는군요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   그렇게나 기력이 많이 들던 기술이 마나는 고작 이것밖에 안 드는군요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_075
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -3486,9 +3486,9 @@
   <artist>
    Chris Rahn
   </artist>
-  <id>
-   EX1_066
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
@@ -3498,18 +3498,18 @@
   <health>
    2
   </health>
-  <flavor>
-   늪수액괴물은 플라멩코 모자를 매우 좋아합니다. 이유는 묻지 마십시오.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    도적 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   늪수액괴물은 플라멩코 모자를 매우 좋아합니다. 이유는 묻지 마십시오.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_066
+  </id>
  </item>
  <item>
   <collectible>
@@ -3530,27 +3530,27 @@
   <artist>
    Gabe from Penny Arcade
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   EX1_539
-  </id>
-  <flavor>
-   야수 없이 명령만으로도 피해를 줄 수 있다니!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   야수 없이 명령만으로도 피해를 줄 수 있다니!
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_539
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -3604,27 +3604,27 @@
   <artist>
    Alex Horley Orlandelli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_061
-  </id>
-  <flavor>
-   "제가 동안을 유지하는 비결이죠."
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "제가 동안을 유지하는 비결이죠."
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_061
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -3653,9 +3653,9 @@
   <artist>
    Richie Marella
   </artist>
-  <id>
-   CS2_121
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -3665,18 +3665,18 @@
   <health>
    2
   </health>
-  <flavor>
-   대대로 그런트 직책을 물려받으며 기술을 전수하고 있다고 합니다. 도대체 무슨 말로 상대를 열받게 하는지 궁금하네요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    주술사 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   대대로 그런트 직책을 물려받으며 기술을 전수하고 있다고 합니다. 도대체 무슨 말로 상대를 열받게 하는지 궁금하네요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_121
+  </id>
  </item>
  <item>
   <text>
@@ -3719,9 +3719,9 @@
   <artist>
    James Ryman
   </artist>
-  <id>
-   CS2_226
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3731,20 +3731,20 @@
   <health>
    4
   </health>
+  <howtogetgold>
+   주술사 53 레벨에 잠금 해제
+  </howtogetgold>
   <inplaytext>
   </inplaytext>
   <flavor>
    서리늑대 부족은 알터랙 계곡에서 스톰파이크 원정대와 수많은 전투를 치렀습니다. 평화 협정을 체결하러 올 때마다 부대장 갈반가르가 사절을 죽였다는군요.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   주술사 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_226
+  </id>
  </item>
  <item>
   <collectible>
@@ -3762,9 +3762,9 @@
   <artist>
    Mauro Cascioli
   </artist>
-  <id>
-   CS2_182
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -3774,18 +3774,18 @@
   <health>
    5
   </health>
-  <flavor>
-   사실 산에서 내려와 국수 가게를 여는 게 꿈이지만, 차마 그럴 용기가 없다네요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    전사 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   사실 산에서 내려와 국수 가게를 여는 게 꿈이지만, 차마 그럴 용기가 없다네요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_182
+  </id>
  </item>
  <item>
   <mechanics>
@@ -3796,9 +3796,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Demon
-  </race>
   <set>
    Basic
   </set>
@@ -3814,9 +3811,12 @@
   <artist>
    Matt Dixon
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   40 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    4
   </attack>
@@ -3826,21 +3826,21 @@
   <health>
    3
   </health>
-  <id>
-   EX1_306
-  </id>
+  <race>
+   Demon
+  </race>
   <flavor>
    흑마법사야말로 진정한 승리자죠.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   40 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   EX1_306
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -3889,27 +3889,27 @@
   <artist>
    Dan Scott
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   CS2_041
-  </id>
-  <flavor>
-   이래서 조상을 잘 만나야 합니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이래서 조상을 잘 만나야 합니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_041
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -3923,9 +3923,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Basic
   </set>
@@ -3941,9 +3938,12 @@
   <artist>
    Phil Saunders
   </artist>
-  <id>
-   EX1_508
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   흑마법사 53 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -3953,20 +3953,20 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <inplaytext>
   </inplaytext>
   <flavor>
    아주 똑똑한 멀록입니다. 그래도 다른 멀록들과 크게 다르지는 않습니다.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   흑마법사 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   EX1_508
+  </id>
  </item>
  <item>
   <collectible>
@@ -3987,27 +3987,27 @@
   <artist>
    Zoltan &amp; Gabor
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_089
-  </id>
-  <flavor>
-   종종 성스러운 빛에 노출되신다면, 자외선 차단제를 바르세요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   종종 성스러운 빛에 노출되신다면, 자외선 차단제를 바르세요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_089
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -4031,27 +4031,27 @@
   <artist>
    Steve Ellis
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS1_130
-  </id>
-  <flavor>
-   생각은 성스럽게, 주먹은 상스럽게.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   생각은 성스럽게, 주먹은 상스럽게.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS1_130
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -4100,9 +4100,9 @@
   <artist>
    Brian Despain
   </artist>
-  <id>
-   CS2_179
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    3
   </attack>
@@ -4112,18 +4112,18 @@
   <health>
    5
   </health>
-  <flavor>
-   센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    도적 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_179
+  </id>
  </item>
  <item>
   <collectible>
@@ -4141,18 +4141,18 @@
   <text>
    모든 하수인을 주인의 손으로 돌려보냅니다.
   </text>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <cost>
    6
   </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
   <type>
    Spell
   </type>
@@ -4182,35 +4182,32 @@
   <artist>
    Jonboy Meyers
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_400
-  </id>
-  <flavor>
-   노련한 전사와 풋내기 전사의 차이점은 간단합니다. 풋내기들은 소용돌이를 쓰면서 "이얏호!"라고 외치죠.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   노련한 전사와 풋내기 전사의 차이점은 간단합니다. 풋내기들은 소용돌이를 쓰면서 "이얏호!"라고 외치죠.
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_400
+  </id>
   <playerclass>
    Warrior
   </playerclass>
  </item>
  <item>
-  <race>
-   Mech
-  </race>
   <set>
    Basic
   </set>
@@ -4232,6 +4229,9 @@
   <health>
    1
   </health>
+  <race>
+   Mech
+  </race>
   <type>
    Minion
   </type>
@@ -4292,9 +4292,9 @@
   <artist>
    Ladronn
   </artist>
-  <id>
-   CS2_131
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4304,18 +4304,18 @@
   <health>
    5
   </health>
-  <flavor>
-   이렇게 된 이상 오그리마로 간다!
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    성기사 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이렇게 된 이상 오그리마로 간다!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_131
+  </id>
  </item>
  <item>
   <mechanics>
@@ -4341,9 +4341,9 @@
   <artist>
    Doug Alexander
   </artist>
-  <id>
-   CS2_222
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    6
   </attack>
@@ -4353,20 +4353,20 @@
   <health>
    6
   </health>
+  <howtogetgold>
+   성기사 59 레벨에 잠금 해제
+  </howtogetgold>
   <inplaytext>
   </inplaytext>
   <flavor>
    데스윙이 스톰윈드를 쑥대밭으로 만들었을 때, 분대에서 유일하게 살아남은 병사입니다. 그는 지금 답답함에 속이 부글부글 끓습니다.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   성기사 59 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_222
+  </id>
  </item>
  <item>
   <text>
@@ -4409,9 +4409,9 @@
   <artist>
    Kev Walker
   </artist>
-  <id>
-   CS2_150
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -4421,18 +4421,18 @@
   <health>
    2
   </health>
-  <flavor>
-   스톰파이크 특공대는 파괴 전문가들입니다. 그렇다고 컵케잌까지 그런 방식으로 만들 필요는 없었잖아요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    성기사 51 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   스톰파이크 특공대는 파괴 전문가들입니다. 그렇다고 컵케잌까지 그런 방식으로 만들 필요는 없었잖아요.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_150
+  </id>
  </item>
  <item>
   <collectible>
@@ -4453,27 +4453,27 @@
   <artist>
    Luca Zontini
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   DS1_185
-  </id>
-  <flavor>
-   예전엔 마법사들이 신비한 화살을 만들어 사냥꾼들에게 팔았습니다. 그러다 사냥꾼들이 아예 마법을 직접 배워 신비한 화살을 만들기 시작하면서, 스톰윈드는 작은 경기 침체에 시달렸다죠.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   예전엔 마법사들이 신비한 화살을 만들어 사냥꾼들에게 팔았습니다. 그러다 사냥꾼들이 아예 마법을 직접 배워 신비한 화살을 만들기 시작하면서, 스톰윈드는 작은 경기 침체에 시달렸다죠.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   DS1_185
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -4497,27 +4497,27 @@
   <artist>
    Dave Berggren
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_023
-  </id>
-  <flavor>
-   이 카드를 내면 똑똑해집니다. 솔직히 말해서, 좀 똑똑해졌다고 우겨도 괜찮습니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 카드를 내면 똑똑해집니다. 솔직히 말해서, 좀 똑똑해졌다고 우겨도 괜찮습니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_023
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -4541,27 +4541,27 @@
   <artist>
    Howard Lyon
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_025
-  </id>
-  <flavor>
-   위력에 비해 비용이 신비한 주문입니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   위력에 비해 비용이 신비한 주문입니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_025
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -4590,27 +4590,27 @@
   <artist>
    Warren Mahy
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_277
-  </id>
-  <flavor>
-   솔직히 당신은 엄청나게 강한 마법사니까 신비한 화살 정도는 잘 조준할 수 있을 거라 생각하셨죠?
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   솔직히 당신은 엄청나게 강한 마법사니까 신비한 화살 정도는 잘 조준할 수 있을 거라 생각하셨죠?
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_277
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -4634,27 +4634,27 @@
   <artist>
    Luca Zontini
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   5
-  </cost>
-  <id>
-   CS1_112
-  </id>
-  <flavor>
-   이 주문을 썼는데 당신이 피해를 입었다면, 신앙심이 부족하거나 나쁜 놈이란 뜻입니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   5
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 주문을 썼는데 당신이 피해를 입었다면, 신앙심이 부족하거나 나쁜 놈이란 뜻입니다.
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS1_112
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -4678,27 +4678,27 @@
   <artist>
    Vance Kovacs
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_093
-  </id>
-  <flavor>
-   신성화된 땅은 신성한 에너지의 빛을 뿜습니다. 하지만 냄새도 좀 풍깁니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    43 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   신성화된 땅은 신성한 에너지의 빛을 뿜습니다. 하지만 냄새도 좀 풍깁니다.
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_093
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -4743,27 +4743,27 @@
   <artist>
    Jessica Jung
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_004
-  </id>
-  <flavor>
-   생명력이 조금 올라가는 건 좋지만 하수인이 흐릿해지는 건 좀 아쉽네요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   생명력이 조금 올라가는 건 좋지만 하수인이 흐릿해지는 건 좀 아쉽네요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_004
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -4772,9 +4772,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -4784,9 +4781,12 @@
   <artist>
    E.M. Gist
   </artist>
-  <id>
-   CS2_201
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   사냥꾼 51 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    9
   </attack>
@@ -4796,18 +4796,18 @@
   <health>
    5
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    심장부 사냥개를 길들이는 것은 불가능합니다. 당신을 잡아먹기 전에 다른 사람을 먹도록 훈련시킬 뿐이죠.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   사냥꾼 51 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_201
+  </id>
  </item>
  <item>
   <text>
@@ -4850,9 +4850,9 @@
   <artist>
    Tooth
   </artist>
-  <id>
-   CS2_141
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -4862,50 +4862,50 @@
   <health>
    2
   </health>
-  <flavor>
-   "준비! 조준! 마셔!"
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    마법사 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "준비! 조준! 마셔!"
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_141
+  </id>
  </item>
  <item>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
   <collectible>
    True
   </collectible>
-  <rarity>
-   Common
-  </rarity>
   <set>
    Basic
   </set>
   <name>
    아케이나이트 도끼
   </name>
-  <durability>
-   2
-  </durability>
   <faction>
    Neutral
   </faction>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
+  <durability>
+   2
+  </durability>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
   <cost>
    5
   </cost>
-  <id>
-   CS2_112
-  </id>
+  <howtogetgold>
+   51 레벨에 잠금 해제
+  </howtogetgold>
   <flavor>
    세월이 지나도 명품은 명품입니다.
   </flavor>
@@ -4915,9 +4915,9 @@
   <type>
    Weapon
   </type>
-  <howtogetgold>
-   51 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_112
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -5025,62 +5025,62 @@
   <artist>
    Glenn Rane
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   5
-  </cost>
-  <id>
-   CS2_076
-  </id>
-  <flavor>
-   암살당하기 싫다고요? 이름을 바꾸고 불모의 땅으로 가세요. 행운을 빕니다!
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   5
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   암살당하기 싫다고요? 이름을 바꾸고 불모의 땅으로 가세요. 행운을 빕니다!
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_076
+  </id>
   <playerclass>
    Rogue
   </playerclass>
  </item>
  <item>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
   <collectible>
    True
   </collectible>
-  <rarity>
-   Common
-  </rarity>
   <set>
    Basic
   </set>
   <name>
    암살자의 검
   </name>
-  <durability>
-   4
-  </durability>
   <faction>
    Neutral
   </faction>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
+  <durability>
+   4
+  </durability>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    3
   </attack>
   <cost>
    5
   </cost>
-  <id>
-   CS2_080
-  </id>
+  <howtogetgold>
+   32 레벨에 잠금 해제
+  </howtogetgold>
   <flavor>
    진짜 암살자가 품질을 보증하는 제품입니다. 자세히 보면 날에 장미 문양이 새겨져 있다고 합니다.
   </flavor>
@@ -5090,9 +5090,9 @@
   <type>
    Weapon
   </type>
-  <howtogetgold>
-   32 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_080
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -5121,9 +5121,9 @@
   <artist>
    Raymond Swanland
   </artist>
-  <id>
-   EX1_593
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    4
   </attack>
@@ -5133,18 +5133,18 @@
   <health>
    4
   </health>
-  <flavor>
-   단검을 가장 피하고 싶은 부분은 당신의 얼굴일 겁니다. 그러니 도적이 그곳을 노릴 겁니다.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    드루이드 53 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   단검을 가장 피하고 싶은 부분은 당신의 얼굴일 겁니다. 그러니 도적이 그곳을 노릴 겁니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_593
+  </id>
  </item>
  <item>
   <collectible>
@@ -5162,27 +5162,27 @@
   <text>
    무작위 동료 야수를 1마리 소환합니다.
   </text>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   NEW1_031
-  </id>
-  <flavor>
-   미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_031
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -5206,27 +5206,27 @@
   <artist>
    Brad Vancata
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_009
-  </id>
-  <flavor>
-   드루이드가 아닌 사람들은 그냥 다 &amp;apos;발바닥&amp;apos;이라고 부르더군요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   드루이드가 아닌 사람들은 그냥 다 &amp;apos;발바닥&amp;apos;이라고 부르더군요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_009
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -5270,27 +5270,27 @@
   <artist>
    Grace Liu
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_011
-  </id>
-  <flavor>
-   뭐라고 포효하는 걸까요? 아무도 자신 있게 말할 순 없지만, 얼핏 들리기로는 "이이!"라고 외치는 것 같습니다. 이게 대체 무슨 뜻일까요?
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    43 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   뭐라고 포효하는 걸까요? 아무도 자신 있게 말할 순 없지만, 얼핏 들리기로는 "이이!"라고 외치는 것 같습니다. 이게 대체 무슨 뜻일까요?
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_011
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -5321,12 +5321,12 @@
   </playerclass>
  </item>
  <item>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
+  <cost>
+   0
+  </cost>
   <name>
    양
   </name>
@@ -5339,9 +5339,9 @@
   <attack>
    1
   </attack>
-  <cost>
-   0
-  </cost>
+  <race>
+   Beast
+  </race>
   <health>
    1
   </health>
@@ -5376,9 +5376,9 @@
   <artist>
    Jesper Ejsing
   </artist>
-  <id>
-   DS1_055
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -5388,18 +5388,18 @@
   <health>
    5
   </health>
-  <flavor>
-   차가워 보이지만 사실은 따스하게 회복해주는 여자입니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    사제 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   차가워 보이지만 사실은 따스하게 회복해주는 여자입니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   DS1_055
+  </id>
  </item>
  <item>
   <collectible>
@@ -5417,27 +5417,27 @@
   <text>
    공격력 3 이하인 하수인을 하나 처치합니다.
   </text>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_234
-  </id>
-  <flavor>
-   초급 수행사제들이 배우는 "어둠의 권능: 성가심"보다 한 단계 높은 등급의 주문입니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   초급 수행사제들이 배우는 "어둠의 권능: 성가심"보다 한 단계 높은 등급의 주문입니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_234
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -5458,27 +5458,27 @@
   <text>
    공격력 5 이상인 하수인을 하나 처치합니다.
   </text>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   EX1_622
-  </id>
-  <flavor>
-   빗맞히면 대상의 이마에 번개 모양의 흉터를 남깁니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    43 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   빗맞히면 대상의 이마에 번개 모양의 흉터를 남깁니다.
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_622
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -5502,27 +5502,27 @@
   <artist>
    Dave Allsop
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_057
-  </id>
-  <flavor>
-   화살인데 어둠의 힘으로 만들어졌답니다. 설명이 더 필요한가요?
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   화살인데 어둠의 힘으로 만들어졌답니다. 설명이 더 필요한가요?
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_057
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -5551,27 +5551,27 @@
   <artist>
    Steve Ellis
   </artist>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_024
-  </id>
-  <flavor>
-   이 카드를 낼 때는 "열 좀 식히세요!", "얼음!", 또는 "손이 시려워, 꽁!"라고 외치는 게 관례입니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 카드를 낼 때는 "열 좀 식히세요!", "얼음!", 또는 "손이 시려워, 꽁!"라고 외치는 게 관례입니다.
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_024
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -5600,27 +5600,27 @@
   <artist>
    Josh Tallman
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_026
-  </id>
-  <flavor>
-   주의: 연속으로 쓰면 따귀를 맞을지도 모름
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   주의: 연속으로 쓰면 따귀를 맞을지도 모름
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_026
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -5649,9 +5649,9 @@
   <artist>
    Steve Prescott
   </artist>
-  <id>
-   CS2_189
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -5661,18 +5661,18 @@
   <health>
    1
   </health>
-  <flavor>
-   그녀에게 작업 걸 생각 마세요. 머리에 화살 맞습니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    드루이드 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   그녀에게 작업 걸 생각 마세요. 머리에 화살 맞습니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_189
+  </id>
  </item>
  <item>
   <mechanics>
@@ -5718,27 +5718,27 @@
   <artist>
    Jonboy Meyers
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_105
-  </id>
-  <flavor>
-   마치 영웅이 된 것 같습니다. 한 턴뿐이지만요.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   마치 영웅이 된 것 같습니다. 한 턴뿐이지만요.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_105
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -5762,27 +5762,27 @@
   <artist>
    Raymond Swanland
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_308
-  </id>
-  <flavor>
-   상대의 영혼에 불을 지르는 걸까요? 아니면 자신의 영혼으로 상대에게 불을 지르는 걸까요? 비슷해 보이지만 정말 중요한 차이입니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   상대의 영혼에 불을 지르는 걸까요? 아니면 자신의 영혼으로 상대에게 불을 지르는 걸까요? 비슷해 보이지만 정말 중요한 차이입니다.
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_308
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -5791,9 +5791,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -5803,9 +5800,12 @@
   <artist>
    Ittoku
   </artist>
-  <id>
-   CS2_119
-  </id>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   드루이드 51 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -5815,18 +5815,18 @@
   <health>
    7
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    장래희망이 오아시스 용거북이라네요. 그런다고 날아다니거나 불을 뿜지도 못할 텐데 말이죠.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   드루이드 51 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_119
+  </id>
  </item>
  <item>
   <mechanics>
@@ -5852,9 +5852,9 @@
   <artist>
    James Ryman
   </artist>
-  <id>
-   CS2_197
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -5864,18 +5864,18 @@
   <health>
    4
   </health>
-  <flavor>
-   오우거에게 마법을 가르치다니, 차라리 드워프에게 금주를 권하겠어요! 어우, 끔찍해라.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    흑마법사 55 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   오우거에게 마법을 가르치다니, 차라리 드워프에게 금주를 권하겠어요! 어우, 끔찍해라.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_197
+  </id>
  </item>
  <item>
   <mechanics>
@@ -5901,9 +5901,9 @@
   <artist>
    E.M. Gist
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    5
   </attack>
@@ -5913,21 +5913,21 @@
   <health>
    6
   </health>
-  <id>
-   CS2_088
-  </id>
-  <flavor>
-   신성한 존재들이 너무 많아서 이제는 좀 식상하군요.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   신성한 존재들이 너무 많아서 이제는 좀 식상하군요.
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_088
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -5971,65 +5971,65 @@
   <artist>
    Lucas Graciano
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_092
-  </id>
-  <flavor>
-   여태까지 암살당한 왕이 몇 명인데, 정말 그들의 축복을 받고 싶으세요?
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   여태까지 암살당한 왕이 몇 명인데, 정말 그들의 축복을 받고 싶으세요?
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_092
+  </id>
   <playerclass>
    Paladin
   </playerclass>
  </item>
  <item>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
   <collectible>
    True
   </collectible>
-  <rarity>
-   Common
-  </rarity>
   <set>
    Basic
   </set>
   <name>
    용사의 진은검
   </name>
-  <durability>
-   2
-  </durability>
-  <text>
-   내 영웅이 공격할 때마다 생명력을 2 회복합니다.
-  </text>
   <faction>
    Neutral
   </faction>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
+  <text>
+   내 영웅이 공격할 때마다 생명력을 2 회복합니다.
+  </text>
+  <durability>
+   2
+  </durability>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
   <cost>
    4
   </cost>
-  <id>
-   CS2_097
-  </id>
+  <howtogetgold>
+   40 레벨에 잠금 해제
+  </howtogetgold>
   <flavor>
    베고 찌르는 것 이외에 통조림을 따는 용도로도 쓸 수 있지만... 권하지는 않습니다.
   </flavor>
@@ -6039,9 +6039,9 @@
   <type>
    Weapon
   </type>
-  <howtogetgold>
-   40 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_097
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -6059,9 +6059,9 @@
   <artist>
    Matt Gaser
   </artist>
-  <id>
-   CS2_118
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    5
   </attack>
@@ -6071,18 +6071,18 @@
   <health>
    1
   </health>
-  <flavor>
-   자신이 강하다고 생각하고 생각하지만, 이제 모두 화산 심장부 정도는 혼자 돌 수 있잖아요?
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    주술사 51 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   자신이 강하다고 생각하고 생각하지만, 이제 모두 화산 심장부 정도는 혼자 돌 수 있잖아요?
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_118
+  </id>
  </item>
  <item>
   <set>
@@ -6122,9 +6122,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -6140,9 +6137,12 @@
   <artist>
    Daren Bader
   </artist>
-  <id>
-   CS2_127
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   전사 53 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -6152,50 +6152,50 @@
   <health>
    4
   </health>
+  <race>
+   Beast
+  </race>
   <flavor>
    대장인 것처럼 행동하지만 진짜 실세는 그의 부인입니다.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   전사 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_127
+  </id>
  </item>
  <item>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
   <collectible>
    True
   </collectible>
-  <rarity>
-   Free
-  </rarity>
   <set>
    Basic
   </set>
   <name>
    이글거리는 전쟁 도끼
   </name>
-  <durability>
-   2
-  </durability>
   <faction>
    Neutral
   </faction>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <durability>
+   2
+  </durability>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    3
   </attack>
   <cost>
    2
   </cost>
-  <id>
-   CS2_106
-  </id>
+  <howtogetgold>
+   49 레벨에 잠금 해제
+  </howtogetgold>
   <flavor>
    한창 평화롭던 시절에는 사람들이 이 도끼를 다르게 불렀습니다. 싸늘한 평화 도끼라고 말이죠... 이 싸늘한 분위기는 뭘까요?
   </flavor>
@@ -6205,9 +6205,9 @@
   <type>
    Weapon
   </type>
-  <howtogetgold>
-   49 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_106
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -6231,27 +6231,27 @@
   <artist>
    Benjamin Zhang
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   DS1_183
-  </id>
-  <flavor>
-   나올 때가 되면 항상 나오는 카드 중 하나죠.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   나올 때가 되면 항상 나오는 카드 중 하나죠.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   DS1_183
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -6292,27 +6292,27 @@
   <artist>
    James Zhang
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   7
-  </cost>
-  <id>
-   CS2_077
-  </id>
-  <flavor>
-   카드가 모자라면 몸이 고생이군요.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   7
+  </cost>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   카드가 모자라면 몸이 고생이군요.
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_077
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -6333,9 +6333,9 @@
   <artist>
    Dave Kendall
   </artist>
-  <id>
-   CS2_186
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    7
   </attack>
@@ -6345,18 +6345,18 @@
   <health>
    7
   </health>
-  <flavor>
-   골렘은 두려움을 느끼지 못합니다. 그래도 공포를 시전하면 도망가더군요. 본능일까요? 아니면 따돌림받기 싫어서?
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    도적 51 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   골렘은 두려움을 느끼지 못합니다. 그래도 공포를 시전하면 도망가더군요. 본능일까요? 아니면 따돌림받기 싫어서?
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_186
+  </id>
  </item>
  <item>
   <collectible>
@@ -6377,9 +6377,9 @@
   <artist>
    Wei Wang
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    2
   </attack>
@@ -6389,21 +6389,21 @@
   <health>
    3
   </health>
-  <id>
-   EX1_084
-  </id>
-  <flavor>
-   그롬 헬스크림이 족장이었던 부족의 사령관입니다. 말이 더 필요한가요?
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   그롬 헬스크림이 족장이었던 부족의 사령관입니다. 말이 더 필요한가요?
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_084
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -6427,27 +6427,27 @@
   <artist>
    Dave Allsop
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   DS1_233
-  </id>
-  <flavor>
-   멘붕이 아닙니다. 정붕입니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   멘붕이 아닙니다. 정붕입니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   DS1_233
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -6471,27 +6471,27 @@
   <artist>
    Doug Alexander
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   EX1_169
-  </id>
-  <flavor>
-   드루이드라면 누구나 한 번쯤 "자극 주세요!!" 소리를 들어보셨을 겁니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   드루이드라면 누구나 한 번쯤 "자극 주세요!!" 소리를 들어보셨을 겁니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_169
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -6515,27 +6515,27 @@
   <artist>
    Sean O’Daniels
   </artist>
-  <howtoget>
-   10 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   10
-  </cost>
-  <id>
-   CS1_113
-  </id>
-  <flavor>
-   "당하면 멘탈이 붕괴되는 기술" 1위 후보에 오른 영광스러운 주문입니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   10
+  </cost>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "당하면 멘탈이 붕괴되는 기술" 1위 후보에 오른 영광스러운 주문입니다.
+  </flavor>
+  <howtoget>
+   10 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS1_113
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -6634,27 +6634,27 @@
   <artist>
    Matt Gaser
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   EX1_302
-  </id>
-  <flavor>
-   굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    43 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_302
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -6678,27 +6678,27 @@
   <artist>
    Chippy
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_062
-  </id>
-  <flavor>
-   흑마법사를 신뢰할 수 없는 대표적인 이유로 이 주문을 꼽을 수 있습니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    49 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   흑마법사를 신뢰할 수 없는 대표적인 이유로 이 주문을 꼽을 수 있습니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_062
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -6722,27 +6722,27 @@
   <artist>
    Justin Sweet
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_039
-  </id>
-  <flavor>
-   질풍노도의 시기가 옵니다. 두 번 옵니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    23 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   질풍노도의 시기가 옵니다. 두 번 옵니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_039
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -6787,27 +6787,27 @@
   <artist>
    Efrem Palacios
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_094
-  </id>
-  <flavor>
-   훌륭한 성기사는 다양한 도구를 소지하고 다닙니다. 천벌의 망치, 복수의 집게, 정의의 쇠톱 등등...
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   훌륭한 성기사는 다양한 도구를 소지하고 다닙니다. 천벌의 망치, 복수의 집게, 정의의 쇠톱 등등...
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_094
+  </id>
   <playerclass>
    Paladin
   </playerclass>
@@ -6818,9 +6818,6 @@
     Spellpower
    </item>
   </mechanics>
-  <race>
-   Totem
-  </race>
   <set>
    Basic
   </set>
@@ -6845,6 +6842,9 @@
   <health>
    2
   </health>
+  <race>
+   Totem
+  </race>
   <type>
    Minion
   </type>
@@ -6871,27 +6871,27 @@
   <text>
    하수인 하나의 생명력을 2배 증가시킵니다.
   </text>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_236
-  </id>
-  <flavor>
-   골칫거리 2배, 재미도 2배!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   골칫거리 2배, 재미도 2배!
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_236
+  </id>
   <playerclass>
    Priest
   </playerclass>
@@ -6935,35 +6935,32 @@
   <artist>
    Mauro Cascioli
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   DS1_184
-  </id>
-  <flavor>
-   어떤 카드를 덱에 넣어야 할지 결정 못 하는 소심한 분들을 위해!
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   어떤 카드를 덱에 넣어야 할지 결정 못 하는 소심한 분들을 위해!
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   DS1_184
+  </id>
   <playerclass>
    Hunter
   </playerclass>
  </item>
  <item>
-  <race>
-   Totem
-  </race>
   <set>
    Basic
   </set>
@@ -6985,6 +6982,9 @@
   <health>
    2
   </health>
+  <race>
+   Totem
+  </race>
   <type>
    Minion
   </type>
@@ -7014,27 +7014,27 @@
   <artist>
    Cyril Van Der Haegen
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   CS2_007
-  </id>
-  <flavor>
-   생명력 8... 더 망설일 거 있나요?
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   생명력 8... 더 망설일 거 있나요?
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_007
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -7058,27 +7058,27 @@
   <artist>
    Andrew Robinson
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   3
-  </cost>
-  <id>
-   EX1_129
-  </id>
-  <flavor>
-   시전할 때 생기는 바람이 시원해서 지어진 이름이란 소문이 있습니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   3
+  </cost>
   <howtogetgold>
    29 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   시전할 때 생기는 바람이 시원해서 지어진 이름이란 소문이 있습니다.
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_129
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -7104,9 +7104,9 @@
   <text>
    &lt;b&gt;돌진&lt;/b&gt;
   </text>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    4
   </attack>
@@ -7116,21 +7116,21 @@
   <health>
    3
   </health>
-  <id>
-   NEW1_011
-  </id>
-  <flavor>
-   코르크론은 가로쉬 헬스크림의 정예 부대입니다. 파란색 휘장을 차고 있을 땐, 이들과 마주치지 않길 기도하십시오.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    44 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   코르크론은 가로쉬 헬스크림의 정예 부대입니다. 파란색 휘장을 차고 있을 땐, 이들과 마주치지 않길 기도하십시오.
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   NEW1_011
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -7159,9 +7159,9 @@
   <artist>
    Gabor Szikszai
   </artist>
-  <id>
-   CS2_142
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -7171,18 +7171,18 @@
   <health>
    2
   </health>
-  <flavor>
-   오래 전, 코볼트는 누가 뭐래도 가장 질 좋은 초를 판매하는 상인들이었습니다만, 지금은...
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    흑마법사 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   오래 전, 코볼트는 누가 뭐래도 가장 질 좋은 초를 판매하는 상인들이었습니다만, 지금은...
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_142
+  </id>
  </item>
  <item>
   <mechanics>
@@ -7190,9 +7190,6 @@
     Charge
    </item>
   </mechanics>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -7214,6 +7211,9 @@
   <health>
    2
   </health>
+  <race>
+   Beast
+  </race>
   <type>
    Minion
   </type>
@@ -7273,27 +7273,27 @@
   <artist>
    Trent Kaniuga
   </artist>
-  <howtoget>
-   6 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   EX1_244
-  </id>
-  <flavor>
-   자, 이제 제 토템 한 번 밟아 보시죠. (사악한 미소)
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    28 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   자, 이제 제 토템 한 번 밟아 보시죠. (사악한 미소)
+  </flavor>
+  <howtoget>
+   6 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_244
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -7342,9 +7342,9 @@
   <artist>
    E.M. Gist
   </artist>
-  <id>
-   CS2_162
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    6
   </attack>
@@ -7354,26 +7354,23 @@
   <health>
    5
   </health>
-  <flavor>
-   2100+ 평점제 투기장 선수였지만, 벌써 몇 년 전 이야기이고, 아직까지 그 이야기로 주위 사람들을 피곤하게 한다고 합니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    사제 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   2100+ 평점제 투기장 선수였지만, 벌써 몇 년 전 이야기이고, 아직까지 그 이야기로 주위 사람들을 피곤하게 한다고 합니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS2_162
+  </id>
  </item>
  <item>
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -7389,9 +7386,12 @@
   <artist>
    Lars Grant-West
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   43 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -7401,21 +7401,21 @@
   <health>
    5
   </health>
-  <id>
-   DS1_178
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    툰드라 코뿔소들은 종종 코도로 오해받곤 합니다. 아니면 그냥 제 착각일지도?
   </flavor>
-  <rarity>
-   Common
-  </rarity>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   43 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   DS1_178
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -7429,9 +7429,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Murloc
-  </race>
   <set>
    Basic
   </set>
@@ -7447,9 +7444,12 @@
   <artist>
    Jakub Kasper
   </artist>
-  <id>
-   CS2_173
-  </id>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   성기사 53 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    2
   </attack>
@@ -7459,18 +7459,18 @@
   <health>
    1
   </health>
+  <race>
+   Murloc
+  </race>
   <flavor>
    안아달라고 달려오는군요. 일단 젖을 각오는 해야겠습니다.
   </flavor>
-  <rarity>
-   Common
-  </rarity>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   성기사 53 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   CS2_173
+  </id>
  </item>
  <item>
   <mechanics>
@@ -7496,9 +7496,9 @@
   <artist>
    Karl Richardson
   </artist>
-  <id>
-   EX1_015
-  </id>
+  <rarity>
+   Free
+  </rarity>
   <attack>
    1
   </attack>
@@ -7508,18 +7508,18 @@
   <health>
    1
   </health>
-  <flavor>
-   "수강생들의 반은 재수강도 하지 못할 걸요? 닭으로 변해 있을 테니까요." - 수석땜장이 오버스파크, 기계공학개론 101장 강의 중에서.
-  </flavor>
-  <rarity>
-   Free
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    드루이드 59 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "수강생들의 반은 재수강도 하지 못할 걸요? 닭으로 변해 있을 테니까요." - 수석땜장이 오버스파크, 기계공학개론 101장 강의 중에서.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_015
+  </id>
  </item>
  <item>
   <mechanics>
@@ -7565,27 +7565,27 @@
   <artist>
    Luca Zontini
   </artist>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   5
-  </cost>
-  <id>
-   CS2_046
-  </id>
-  <flavor>
-   우워오우아오어오우오우아우어오얽!
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   5
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   우워오우아오어오우오우아우어오얽!
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_046
+  </id>
   <playerclass>
    Shaman
   </playerclass>
@@ -7639,27 +7639,27 @@
   <artist>
    Dany Orizio
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_005
-  </id>
-  <flavor>
-   남자 캐릭터에겐 민망함을 무릅쓰고 상대를 할퀼 용기를 주는 카드입니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    32 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   남자 캐릭터에겐 민망함을 무릅쓰고 상대를 할퀼 용기를 주는 카드입니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_005
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -7740,27 +7740,27 @@
   <artist>
    Scott Altmann
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   EX1_581
-  </id>
-  <flavor>
-   주사가 심한 친구를 집에 데려다 줄 때 유용합니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   주사가 심한 친구를 집에 데려다 줄 때 유용합니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_581
+  </id>
   <playerclass>
    Rogue
   </playerclass>
@@ -7814,27 +7814,27 @@
   <artist>
    Ralph Horsley
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_029
-  </id>
-  <flavor>
-   이 주문은 뭐든 불태울 때 좋습니다. 혹시 뭔가 살짝 굽거나 따뜻하게 만드는 주문을 찾으셨다면 죄송합니다.
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    44 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   이 주문은 뭐든 불태울 때 좋습니다. 혹시 뭔가 살짝 굽거나 따뜻하게 만드는 주문을 찾으셨다면 죄송합니다.
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_029
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -7898,27 +7898,27 @@
   <artist>
    Jim Nelson
   </artist>
-  <howtoget>
-   4 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_027
-  </id>
-  <flavor>
-   와 환영 복제다! !다제복 영환 와
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    36 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   와 환영 복제다! !다제복 영환 와
+  </flavor>
+  <howtoget>
+   4 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_027
+  </id>
   <playerclass>
    Mage
   </playerclass>
@@ -7947,9 +7947,9 @@
   <artist>
    Donato Giancola
   </artist>
-  <id>
-   CS1_042
-  </id>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    1
   </attack>
@@ -7959,18 +7959,18 @@
   <health>
    2
   </health>
-  <flavor>
-   만약 황금골을 수비하는 모든 하수인이 1/2이었다면, 이미 몇 년 전에 초토화됐을 겁니다.
-  </flavor>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Minion
-  </type>
   <howtogetgold>
    성기사 57 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   만약 황금골을 수비하는 모든 하수인이 1/2이었다면, 이미 몇 년 전에 초토화됐을 겁니다.
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   CS1_042
+  </id>
  </item>
  <item>
   <mechanics>
@@ -7981,9 +7981,6 @@
   <collectible>
    True
   </collectible>
-  <race>
-   Beast
-  </race>
   <set>
    Basic
   </set>
@@ -7999,9 +7996,12 @@
   <artist>
    Malcolm Davis
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
+  <rarity>
+   Free
+  </rarity>
+  <howtogetgold>
+   23 레벨에 잠금 해제
+  </howtogetgold>
   <attack>
    1
   </attack>
@@ -8011,21 +8011,21 @@
   <health>
    1
   </health>
-  <id>
-   DS1_175
-  </id>
+  <race>
+   Beast
+  </race>
   <flavor>
    다른 야수들의 사랑을 독차지한답니다.
   </flavor>
-  <rarity>
-   Free
-  </rarity>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
   <type>
    Minion
   </type>
-  <howtogetgold>
-   23 레벨에 잠금 해제
-  </howtogetgold>
+  <id>
+   DS1_175
+  </id>
   <playerclass>
    Hunter
   </playerclass>
@@ -8049,27 +8049,27 @@
   <artist>
    Phroilan Gardner
   </artist>
-  <howtoget>
-   2 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   2
-  </cost>
-  <id>
-   CS2_114
-  </id>
-  <flavor>
-   거기 둘... 잠깐만 가까이 붙어 줄래?
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   2
+  </cost>
   <howtogetgold>
    40 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   거기 둘... 잠깐만 가까이 붙어 줄래?
+  </flavor>
+  <howtoget>
+   2 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_114
+  </id>
   <playerclass>
    Warrior
   </playerclass>
@@ -8093,27 +8093,27 @@
   <artist>
    Sean O’Daniels
   </artist>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   4
-  </cost>
-  <id>
-   CS2_012
-  </id>
-  <flavor>
-   곰이 팔을 뒤로 젖히면 당신을 확 휘둘러치거나! ...꼭 안아주려는 겁니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   4
+  </cost>
   <howtogetgold>
    47 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   곰이 팔을 뒤로 젖히면 당신을 확 휘둘러치거나! ...꼭 안아주려는 겁니다.
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_012
+  </id>
   <playerclass>
    Druid
   </playerclass>
@@ -8134,27 +8134,27 @@
   <text>
    악마를 하나 처치합니다. 내 영웅이 생명력을 #5 회복합니다.
   </text>
-  <howtoget>
-   8 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   0
-  </cost>
-  <id>
-   NEW1_003
-  </id>
-  <flavor>
-   악마와 흑마법사 사이의 미묘한 긴장감은 이 주문에서 비롯됐다고 봐도 과언이 아닙니다.
-  </flavor>
   <rarity>
    Common
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   0
+  </cost>
   <howtogetgold>
    15 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   악마와 흑마법사 사이의 미묘한 긴장감은 이 주문에서 비롯됐다고 봐도 과언이 아닙니다.
+  </flavor>
+  <howtoget>
+   8 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_003
+  </id>
   <playerclass>
    Warlock
   </playerclass>
@@ -8201,27 +8201,27 @@
   <artist>
    Zoltan Boros
   </artist>
-  <howtoget>
-   1 레벨에 잠금 해제
-  </howtoget>
-  <cost>
-   1
-  </cost>
-  <id>
-   CS2_087
-  </id>
-  <flavor>
-   "이런 내가 힘까지 세지면 어떨 것 같아?" - 토드 매클, 최근에 상향된 징벌 성기사
-  </flavor>
   <rarity>
    Free
   </rarity>
-  <type>
-   Spell
-  </type>
+  <cost>
+   1
+  </cost>
   <howtogetgold>
    45 레벨에 잠금 해제
   </howtogetgold>
+  <flavor>
+   "이런 내가 힘까지 세지면 어떨 것 같아?" - 토드 매클, 최근에 상향된 징벌 성기사
+  </flavor>
+  <howtoget>
+   1 레벨에 잠금 해제
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_087
+  </id>
   <playerclass>
    Paladin
   </playerclass>

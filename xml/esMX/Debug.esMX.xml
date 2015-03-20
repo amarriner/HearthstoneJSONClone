@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <cards>
  <item>
-  <type>
-   Spell
-  </type>
-  <rarity>
-   Common
-  </rarity>
   <set>
    Debug
   </set>
+  <type>
+   Spell
+  </type>
   <id>
    XXX_028
   </id>
+  <rarity>
+   Common
+  </rarity>
   <name>
   </name>
  </item>
@@ -1215,6 +1215,9 @@
   <durability>
    0
   </durability>
+  <elite>
+   False
+  </elite>
   <text>
   </text>
   <attack>
@@ -1229,9 +1232,6 @@
   <type>
    Minion
   </type>
-  <elite>
-   False
-  </elite>
   <id>
    XXX_099
   </id>
