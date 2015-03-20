@@ -37,12 +37,27 @@ def do_languages():
 def do_prettify():
    for file in glob.glob('input/*'):
 
-      # Convert to XML
-      print 'Converting ' + file + ' to xml ...'
-
       f = codecs.open(file, 'r', encoding='utf-8')
       j = json.loads(f.read())
       f.close()
+
+      do_xml(j, file)
+
+      # Process the JSON file itself 
+      print 'Prettifying JSON ...'
+
+      # Create directories if necessary
+      if not os.path.isdir('json/' + file.split('.')[1]):
+         os.mkdir('json/' + file.split('.')[1])
+
+      # Write file to disk
+      f = codecs.open('json/' + file.split('.')[1] + '/' + file.replace('input/', "") , 'w', encoding='utf-8')
+      f.write(unicode(json.dumps(j, sort_keys=True, indent=4, separators=(',', ': '))))
+      f.close()
+
+# Convert file to XML
+def do_xml(j, file):
+      print 'Converting ' + file + ' to xml ...'
 
       # Prettify the XML
       xml = dicttoxml.dicttoxml(j, custom_root="cards", attr_type=False)
@@ -60,17 +75,6 @@ def do_prettify():
       f.write(soup.prettify())
       f.close()
 
-      # Process the JSON file itself 
-      print 'Prettifying JSON ...'
-
-      # Create directories if necessary
-      if not os.path.isdir('json/' + file.split('.')[1]):
-         os.mkdir('json/' + file.split('.')[1])
-
-      # Write file to disk
-      f = codecs.open('json/' + file.split('.')[1] + '/' + file.replace('input/', "") , 'w', encoding='utf-8')
-      f.write(unicode(json.dumps(j, sort_keys=True, indent=4, separators=(',', ': '))))
-      f.close()
 
 # Initial entry point
 def main():
