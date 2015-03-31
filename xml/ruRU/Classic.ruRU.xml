@@ -1530,6 +1530,26 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Внутренний огонь
+  </name>
+  <text>
+   Атака этого существа равна его здоровью.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1568,46 +1588,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Внутренний огонь
-  </name>
-  <text>
-   Атака этого существа равна его здоровью.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_129e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Внутренняя ярость
-  </name>
-  <text>
-   +2 к атаке.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -1640,6 +1620,26 @@
   </type>
   <id>
    EX1_607
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Внутренняя ярость
+  </name>
+  <text>
+   +2 к атаке.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
   </id>
   <playerclass>
    Warrior
@@ -1706,17 +1706,14 @@
   <name>
    Вожак стаи
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   Ваши существа получают +1/+1.
+   +1/+1.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_160b
+   EX1_160be
   </id>
   <playerclass>
    Druid
@@ -1729,14 +1726,17 @@
   <name>
    Вожак стаи
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   +1/+1.
+   Ваши существа получают +1/+1.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_160be
+   EX1_160b
   </id>
   <playerclass>
    Druid
@@ -2779,29 +2779,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Дальнее зрение
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   Одна из ваших карт стоит на (3) маны меньше.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -2834,6 +2811,29 @@
   </type>
   <id>
    CS2_053
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Дальнее зрение
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   Одна из ваших карт стоит на (3) маны меньше.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
   </id>
   <playerclass>
    Shaman
@@ -2970,6 +2970,35 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Демонический огонь
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Этот демон получил +2/+2.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_596e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -3002,35 +3031,6 @@
   </type>
   <id>
    EX1_596
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Демонический огонь
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Этот демон получил +2/+2.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_596e
   </id>
   <playerclass>
    Warlock
@@ -3273,6 +3273,40 @@
  <item>
   <mechanics>
    <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Древень
+  </name>
+  <text>
+   &lt;b&gt;Провокация&lt;/b&gt;
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_573t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
     Charge
    </item>
   </mechanics>
@@ -3305,40 +3339,6 @@
   </type>
   <id>
    EX1_tk9
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Taunt
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Древень
-  </name>
-  <text>
-   &lt;b&gt;Провокация&lt;/b&gt;
-  </text>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_573t
   </id>
   <playerclass>
    Druid
@@ -3444,7 +3444,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Боевой клич:&lt;/b&gt; находящиеся по обе стороны существа получают способность &lt;b&gt;«Урон от заклинаний +1»&lt;/b&gt;.
+   &lt;b&gt;Боевой клич:&lt;/b&gt; находящиеся по обе стороны существа получают &lt;b&gt;урон от заклинаний +1&lt;/b&gt;.
   </text>
   <artist>
    Howard Lyon
@@ -3640,6 +3640,46 @@
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Друид когтя
+  </name>
+  <text>
+   &lt;b&gt;Рывок&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -3678,46 +3718,6 @@
   </type>
   <id>
    EX1_165
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Друид когтя
-  </name>
-  <text>
-   &lt;b&gt;Рывок&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -3802,26 +3802,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Дух предков
-  </name>
-  <text>
-   &lt;b&gt;Предсмертный хрип:&lt;/b&gt; после смерти это существо вернется на поле боя.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_038e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -3860,6 +3840,46 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Дух предков
+  </name>
+  <text>
+   &lt;b&gt;Предсмертный хрип:&lt;/b&gt; после смерти это существо вернется на поле боя.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_038e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Душа леса
+  </name>
+  <text>
+   Предсмертный хрип: призывает на поле боя древня 2/2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -3892,26 +3912,6 @@
   </type>
   <id>
    EX1_158
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Душа леса
-  </name>
-  <text>
-   Предсмертный хрип: призывает на поле боя древня 2/2.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -4432,6 +4432,43 @@
   </id>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Звездопад
+  </name>
+  <artist>
+   Richard Wright
+  </artist>
+  <text>
+   &lt;b&gt;Выберите эффект:&lt;/b&gt; наносит существу $5 ед. урона; или $2 ед. урона всем существам противника.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   «Если вы встретили друида и заметили падающую звезду, не загадывайте желание... Бегите!»
+
+Андрей М. «Wishmaster»
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -4472,40 +4509,28 @@
   </playerclass>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
   <set>
    Classic
   </set>
   <name>
-   Звездопад
+   Звериный гнев
   </name>
-  <artist>
-   Richard Wright
-  </artist>
   <text>
-   &lt;b&gt;Выберите эффект:&lt;/b&gt; наносит существу $5 ед. урона; или $2 ед. урона всем существам противника.
+   +2 к атаке и &lt;b&gt;неуязвимость&lt;/b&gt; до конца хода.
   </text>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   5
-  </cost>
-  <flavor>
-   «Если вы встретили друида и заметили падающую звезду, не загадывайте желание... Бегите!»
-
-Андрей М. «Wishmaster»
-  </flavor>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   NEW1_007
+   EX1_549o
   </id>
   <playerclass>
-   Druid
+   Hunter
   </playerclass>
  </item>
  <item>
@@ -4541,31 +4566,6 @@
   </type>
   <id>
    EX1_549
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Звериный гнев
-  </name>
-  <text>
-   +2 к атаке и &lt;b&gt;неуязвимость&lt;/b&gt; до конца хода.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_549o
   </id>
   <playerclass>
    Hunter
@@ -4848,53 +4848,13 @@
    Neutral
   </faction>
   <text>
-   +4 к атаке.
+   +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Знак природы
-  </name>
-  <text>
-   +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Знак природы
-  </name>
-  <text>
-   Это существо получило +4 к атаке.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155ae
+   EX1_155b
   </id>
   <playerclass>
    Druid
@@ -4945,17 +4905,57 @@
   <name>
    Знак природы
   </name>
+  <text>
+   +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Знак природы
+  </name>
   <faction>
    Neutral
   </faction>
   <text>
-   +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
+   +4 к атаке.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155b
+   EX1_155a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Знак природы
+  </name>
+  <text>
+   Это существо получило +4 к атаке.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155ae
   </id>
   <playerclass>
    Druid
@@ -5018,7 +5018,7 @@
    True
   </elite>
   <text>
-   В конце вашего хода вы берете карту Сна.
+   В конце вашего хода вы кладете в руку карту Сна.
   </text>
   <artist>
    Gabor Szikszai
@@ -6314,31 +6314,6 @@
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Ледяная глыба
-  </name>
-  <text>
-   Ваш герой &lt;b&gt;неуязвим&lt;/b&gt; до конца хода.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_295o
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Secret
    </item>
   </mechanics>
@@ -6374,6 +6349,31 @@
   </type>
   <id>
    EX1_295
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Ледяная глыба
+  </name>
+  <text>
+   Ваш герой &lt;b&gt;неуязвим&lt;/b&gt; до конца хода.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_295o
   </id>
   <playerclass>
    Mage
@@ -6613,6 +6613,41 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Лорд Джараксус
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   15
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Hero
+  </type>
+  <id>
+   EX1_323h
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -6659,41 +6694,6 @@
   </type>
   <id>
    EX1_323
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Лорд Джараксус
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <rarity>
-   Legendary
-  </rarity>
-  <attack>
-   0
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   15
-  </health>
-  <race>
-   Demon
-  </race>
-  <type>
-   Hero
-  </type>
-  <id>
-   EX1_323h
   </id>
   <playerclass>
    Warlock
@@ -9037,23 +9037,6 @@
   </playerclass>
  </item>
  <item>
-  <text>
-   +1 к прочности.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Отточенный до блеска
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -9176,6 +9159,29 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Переполняющая мощь
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Это существо получило +4/+4, но в конце хода его ждет ужасная смерть.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_316e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -9214,49 +9220,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Переполняющая мощь
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Это существо получило +4/+4, но в конце хода его ждет ужасная смерть.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_316e
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Печать мудрости
-  </name>
-  <text>
-   Когда атакует, игрок, использовавший печать, берет карту.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -9286,6 +9249,26 @@
   </type>
   <id>
    EX1_363
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Печать мудрости
+  </name>
+  <text>
+   Когда атакует, игрок, использовавший печать, берет карту.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -10270,6 +10253,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Равенство
+  </name>
+  <text>
+   Здоровье стало равно 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -10302,26 +10305,6 @@
   </type>
   <id>
    EX1_619
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Равенство
-  </name>
-  <text>
-   Здоровье стало равно 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -12082,7 +12065,7 @@
    Classic
   </set>
   <name>
-   Темная власть
+   Темное безумие
   </name>
   <text>
    Это существо сменило владельца до конца хода.
@@ -12982,31 +12965,6 @@
   </id>
   <playerclass>
    Priest
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Устрашающий рев
-  </name>
-  <text>
-   Это существо получило -3 к атаке до конца хода.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
   </playerclass>
  </item>
  <item>
@@ -14083,7 +14041,8 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Перегрузка:&lt;/b&gt; (3)
+   &lt;b&gt;Провокация&lt;/b&gt;.
+&lt;b&gt;Перегрузка:&lt;/b&gt; (3)
   </text>
   <artist>
    Dan Scott

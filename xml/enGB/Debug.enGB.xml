@@ -400,6 +400,31 @@
    Debug
   </set>
   <name>
+   Damage All
+  </name>
+  <text>
+   Set the Health of a character to 0.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_060
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Debug
+  </set>
+  <name>
    Damage all but 1
   </name>
   <text>
@@ -491,6 +516,26 @@
   </type>
   <id>
    XXX_050
+  </id>
+ </item>
+ <item>
+  <set>
+   Debug
+  </set>
+  <name>
+   Destroy All
+  </name>
+  <text>
+   Destroy Hero Power, Destory Deck, and Discard Hand.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_059
   </id>
  </item>
  <item>
@@ -810,6 +855,23 @@
   </id>
  </item>
  <item>
+  <text>
+   Your cards cost (0) for the rest of the game.
+  </text>
+  <set>
+   Debug
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   XXX_022e
+  </id>
+  <name>
+   Free Cards
+  </name>
+ </item>
+ <item>
   <set>
    Debug
   </set>
@@ -831,23 +893,6 @@
   <id>
    XXX_022
   </id>
- </item>
- <item>
-  <text>
-   Your cards cost (0) for the rest of the game.
-  </text>
-  <set>
-   Debug
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   XXX_022e
-  </id>
-  <name>
-   Free Cards
-  </name>
  </item>
  <item>
   <mechanics>
@@ -1348,6 +1393,46 @@
   </id>
   <name>
    Weapon Buff Enchant
+  </name>
+ </item>
+ <item>
+  <set>
+   Debug
+  </set>
+  <name>
+   Weapon Nerf
+  </name>
+  <text>
+   Give a weapon a negative enchantment.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_058
+  </id>
+ </item>
+ <item>
+  <text>
+   Red Sparkles!
+  </text>
+  <set>
+   Debug
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   XXX_058e
+  </id>
+  <name>
+   Weapon Nerf Enchant
   </name>
  </item>
 </cards>

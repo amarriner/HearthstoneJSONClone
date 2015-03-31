@@ -317,6 +317,23 @@
   </name>
  </item>
  <item>
+  <text>
+   Dieser Diener hat +5/+5, aber er wird bald vernichtet.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DREAM_05e
+  </id>
+  <name>
+   Alptraum
+  </name>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -338,23 +355,6 @@
   <playerclass>
    Dream
   </playerclass>
- </item>
- <item>
-  <text>
-   Dieser Diener hat +5/+5, aber er wird bald vernichtet.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   Alptraum
-  </name>
  </item>
  <item>
   <mechanics>
@@ -795,26 +795,6 @@
    Aufgewertet
   </name>
   <text>
-   +1 Angriff und +1 Haltbarkeit.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_409e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Aufgewertet
-  </name>
-  <text>
    Erhöhte Haltbarkeit.
   </text>
   <type>
@@ -825,6 +805,26 @@
   </id>
   <playerclass>
    Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Aufgewertet
+  </name>
+  <text>
+   +1 Angriff und +1 Haltbarkeit.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_409e
+  </id>
+  <playerclass>
+   Warrior
   </playerclass>
  </item>
  <item>
@@ -1197,41 +1197,6 @@
   </id>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Befehlsruf
-  </name>
-  <artist>
-   Wayne Reynolds
-  </artist>
-  <text>
-   Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen. Zieht eine Karte.
-  </text>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   2
-  </cost>
-  <flavor>
-   Da bekommt der Ausdruck „guter Ruf“ gleich eine ganz andere Bedeutung.
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_036
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     OneTurnEffect
@@ -1276,6 +1241,41 @@
   </type>
   <id>
    NEW1_036e2
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Befehlsruf
+  </name>
+  <artist>
+   Wayne Reynolds
+  </artist>
+  <text>
+   Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen. Zieht eine Karte.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Da bekommt der Ausdruck „guter Ruf“ gleich eine ganz andere Bedeutung.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_036
   </id>
   <playerclass>
    Warrior
@@ -1958,26 +1958,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Buße
-  </name>
-  <text>
-   Leben auf 1 verringert.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_379e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Secret
@@ -2015,6 +1995,26 @@
   </type>
   <id>
    EX1_379
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Buße
+  </name>
+  <text>
+   Leben auf 1 verringert.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_379e
   </id>
   <playerclass>
    Paladin
@@ -2157,6 +2157,35 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dämonenfeuer
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Dieser Dämon hat +2/+2.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_596e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2192,60 +2221,6 @@
   </id>
   <playerclass>
    Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dämonenfeuer
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Dieser Dämon hat +2/+2.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_596e
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Demoralisierendes Gebrüll
-  </name>
-  <text>
-   Dieser Diener hat -3 Angriff in diesem Zug.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
   </playerclass>
  </item>
  <item>
@@ -2348,46 +2323,6 @@
   </id>
  </item>
  <item>
-  <mechanics>
-   <item>
-    Taunt
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Druide der Klaue
-  </name>
-  <text>
-   &lt;b&gt;Spott&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   6
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t2
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -2426,6 +2361,46 @@
   </type>
   <id>
    EX1_165
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Druide der Klaue
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   6
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t2
   </id>
   <playerclass>
    Druid
@@ -2571,7 +2546,7 @@
    Classic
   </set>
   <name>
-   Dunkler Befehl
+   Dunkler Wahnsinn
   </name>
   <text>
    Dieser Diener hat für diesen Zug seinen Meister gewechselt.
@@ -2754,31 +2729,6 @@
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Eisblock
-  </name>
-  <text>
-   Euer Held ist &lt;b&gt;immun&lt;/b&gt; in diesem Zug.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_295o
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Secret
    </item>
   </mechanics>
@@ -2814,6 +2764,31 @@
   </type>
   <id>
    EX1_295
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Eisblock
+  </name>
+  <text>
+   Euer Held ist &lt;b&gt;immun&lt;/b&gt; in diesem Zug.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_295o
   </id>
   <playerclass>
    Mage
@@ -3470,7 +3445,7 @@
    Neutral
   </faction>
   <text>
-   Zieht eine Karte. Diese Karte kostet (3) weniger.
+   Zieht eine Karte. Sie kostet (3) weniger.
   </text>
   <artist>
    Lars Grant-West
@@ -4260,26 +4235,6 @@ Verursacht 3 Schaden.
   </name>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Geist der Ahnen
-  </name>
-  <text>
-   &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft diesen Diener erneut herbei.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_038e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -4312,6 +4267,26 @@ Verursacht 3 Schaden.
   </type>
   <id>
    CS2_038
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Geist der Ahnen
+  </name>
+  <text>
+   &lt;b&gt;Todesröcheln:&lt;/b&gt; Ruft diesen Diener erneut herbei.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_038e
   </id>
   <playerclass>
    Shaman
@@ -4358,23 +4333,6 @@ Verursacht 3 Schaden.
   </playerclass>
  </item>
  <item>
-  <text>
-   +1 Haltbarkeit.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Geschärft
-  </name>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -4413,6 +4371,26 @@ Verursacht 3 Schaden.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Gesegneter Champion
+  </name>
+  <text>
+   Der Angriff dieses Dieners wurde verdoppelt.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_355e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -4442,26 +4420,6 @@ Verursacht 3 Schaden.
   </type>
   <id>
    EX1_355
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Gesegneter Champion
-  </name>
-  <text>
-   Der Angriff dieses Dieners wurde verdoppelt.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_355e
   </id>
   <playerclass>
    Paladin
@@ -5581,26 +5539,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Innere Wut
-  </name>
-  <text>
-   +2 Angriff.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -5639,6 +5577,46 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Innere Wut
+  </name>
+  <text>
+   +2 Angriff.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Inneres Feuer
+  </name>
+  <text>
+   Der Angriffswert wurde dem Lebenswert angeglichen.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -5671,26 +5649,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    CS1_129
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Inneres Feuer
-  </name>
-  <text>
-   Der Angriffswert wurde dem Lebenswert angeglichen.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_129e
   </id>
   <playerclass>
    Priest
@@ -6048,26 +6006,6 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Kaltblütigkeit
-  </name>
-  <text>
-   +2 Angriff.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -6105,6 +6043,26 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    CS2_073
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Kaltblütigkeit
+  </name>
+  <text>
+   +2 Angriff.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -7405,29 +7363,6 @@ Beschwört eine Höllenbestie (6/6).
   <name>
    Mal der Natur
   </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   +4 Angriff.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_155a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mal der Natur
-  </name>
   <text>
    Dieser Diener hat +4 Angriff.
   </text>
@@ -7436,49 +7371,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_155ae
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mal der Natur
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   +4 Leben und &lt;b&gt;Spott&lt;/b&gt;.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_155b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mal der Natur
-  </name>
-  <text>
-   Dieser Diener hat +4 Leben und &lt;b&gt;Spott&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -7517,6 +7409,72 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_155
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Mal der Natur
+  </name>
+  <text>
+   Dieser Diener hat +4 Leben und &lt;b&gt;Spott&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Mal der Natur
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4 Leben und &lt;b&gt;Spott&lt;/b&gt;.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_155b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Mal der Natur
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4 Angriff.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_155a
   </id>
   <playerclass>
    Druid
@@ -8606,6 +8564,29 @@ Beschwört eine Höllenbestie (6/6).
    Neutral
   </faction>
   <text>
+   Erhaltet 2 Manakristalle.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Pflege
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
    Zieht 3 Karten.
   </text>
   <type>
@@ -8651,29 +8632,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_164
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Pflege
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Erhaltet 2 Manakristalle.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164a
   </id>
   <playerclass>
    Druid
@@ -10235,41 +10193,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Segen der Weisheit
-  </name>
-  <artist>
-   Chippy
-  </artist>
-  <text>
-   Wählt einen Diener aus. Zieht jedes Mal eine Karte, wenn er angreift.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   1
-  </cost>
-  <flavor>
-   Anscheinend kommt mit der Weisheit auch das Wissen, dass man wohl in jedem Zug angreifen sollte.
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -10304,6 +10227,41 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_363e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Segen der Weisheit
+  </name>
+  <artist>
+   Chippy
+  </artist>
+  <text>
+   Wählt einen Diener aus. Zieht jedes Mal eine Karte, wenn er angreift.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <flavor>
+   Anscheinend kommt mit der Weisheit auch das Wissen, dass man wohl in jedem Zug angreifen sollte.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_363
   </id>
   <playerclass>
    Paladin
@@ -10733,6 +10691,26 @@ Beschwört eine Höllenbestie (6/6).
    Sternenregen
   </name>
   <text>
+   Fügt allen feindlichen Dienern $2 Schaden zu.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sternenregen
+  </name>
+  <text>
    Fügt einem Diener $5 Schaden zu.
   </text>
   <type>
@@ -10775,26 +10753,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    NEW1_007
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sternenregen
-  </name>
-  <text>
-   Fügt allen feindlichen Dienern $2 Schaden zu.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007a
   </id>
   <playerclass>
    Druid
@@ -11431,6 +11389,26 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Toben
+  </name>
+  <text>
+   +3/+3.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_104e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -11463,26 +11441,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    CS2_104
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Toben
-  </name>
-  <text>
-   +3/+3.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_104e
   </id>
   <playerclass>
    Warrior
@@ -11703,6 +11661,46 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Treant
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Ansturm&lt;/b&gt;. Vernichtet diesen Diener am Ende des Zuges.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_tk9
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -11760,46 +11758,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_573t
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Treant
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;Ansturm&lt;/b&gt;. Vernichtet diesen Diener am Ende des Zuges.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_tk9
   </id>
   <playerclass>
    Druid
@@ -12558,7 +12516,7 @@ Beschwört eine Höllenbestie (6/6).
    Alliance
   </faction>
   <text>
-   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 3 Schaden, der zufällig auf alle anderen Charaktere aufgeteilt wird.
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 3 Schaden, der zufällig auf alle anderen Charaktere verteilt wird.
   </text>
   <artist>
    Mike Sass
@@ -12871,31 +12829,6 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Vorbereitung
-  </name>
-  <text>
-   Der nächste Zauber, den Ihr in diesem Zug wirkt, kostet (3) weniger.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_145o
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12928,6 +12861,31 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    EX1_145
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Vorbereitung
+  </name>
+  <text>
+   Der nächste Zauber, den Ihr in diesem Zug wirkt, kostet (3) weniger.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_145o
   </id>
   <playerclass>
    Rogue
@@ -13641,7 +13599,7 @@ Beschwört eine Höllenbestie (6/6).
    True
   </elite>
   <text>
-   Zieht am Ende Eures Zuges eine Traumkarte.
+   Erhaltet am Ende Eures Zuges eine Traumkarte auf die Hand.
   </text>
   <artist>
    Gabor Szikszai
@@ -13741,6 +13699,35 @@ Beschwört eine Höllenbestie (6/6).
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Zauberformerin
+  </name>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   tt_010a
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Secret
@@ -13778,35 +13765,6 @@ Beschwört eine Höllenbestie (6/6).
   </type>
   <id>
    tt_010
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Zauberformerin
-  </name>
-  <rarity>
-   Epic
-  </rarity>
-  <attack>
-   1
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   3
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   tt_010a
   </id>
   <playerclass>
    Mage
@@ -13943,6 +13901,29 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Zorn
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Fügt einem Diener $3 Schaden zu.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_154a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -14004,26 +13985,28 @@ Beschwört eine Höllenbestie (6/6).
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
   <set>
    Classic
   </set>
   <name>
-   Zorn
+   Zorn des Wildtiers
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   Fügt einem Diener $3 Schaden zu.
+   +2 Angriff und &lt;b&gt;immun&lt;/b&gt; in diesem Zug.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_154a
+   EX1_549o
   </id>
   <playerclass>
-   Druid
+   Hunter
   </playerclass>
  </item>
  <item>
@@ -14067,31 +14050,6 @@ Beschwört eine Höllenbestie (6/6).
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Zorn des Wildtiers
-  </name>
-  <text>
-   +2 Angriff und &lt;b&gt;immun&lt;/b&gt; in diesem Zug.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_549o
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     ImmuneToSpellpower
    </item>
   </mechanics>
@@ -14108,7 +14066,7 @@ Beschwört eine Höllenbestie (6/6).
    Neutral
   </faction>
   <text>
-   Verursacht $8 Schaden, der zufällig auf feindliche Charaktere verteilt wird.
+   Verursacht $8 Schaden, der zufällig auf alle Feinde verteilt wird.
   </text>
   <artist>
    Alex Garner

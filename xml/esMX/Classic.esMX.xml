@@ -387,23 +387,6 @@ Invoca un Infernal 6/6.
   </id>
  </item>
  <item>
-  <text>
-   +1 de Durabilidad.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Afilado
-  </name>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -3192,7 +3175,7 @@ Invoca un Infernal 6/6.
    Neutral
   </faction>
   <text>
-   Inflige $8 de daño dividido aleatoriamente entre los personajes enemigos.
+   Inflige $8 de daño dividido aleatoriamente entre todos los enemigos.
   </text>
   <artist>
    Alex Garner
@@ -4476,6 +4459,35 @@ Inflige 3 de daño.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dominahechizos
+  </name>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   tt_010a
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Secret
@@ -4513,35 +4525,6 @@ Inflige 3 de daño.
   </type>
   <id>
    tt_010
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dominahechizos
-  </name>
-  <rarity>
-   Epic
-  </rarity>
-  <attack>
-   1
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   3
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   tt_010a
   </id>
   <playerclass>
    Mage
@@ -5387,17 +5370,14 @@ Inflige 3 de daño.
   <name>
    Enraizado
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
    +5 de Salud y &lt;b&gt;Provocación&lt;/b&gt;.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_178a
+   EX1_178ae
   </id>
   <playerclass>
    Druid
@@ -5410,14 +5390,17 @@ Inflige 3 de daño.
   <name>
    Enraizado
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
    +5 de Salud y &lt;b&gt;Provocación&lt;/b&gt;.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_178ae
+   EX1_178a
   </id>
   <playerclass>
    Druid
@@ -5689,26 +5672,6 @@ Inflige 3 de daño.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Espíritu ancestral
-  </name>
-  <text>
-   &lt;b&gt;Estertor:&lt;/b&gt; reinvoca a este esbirro.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_038e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -5741,6 +5704,26 @@ Inflige 3 de daño.
   </type>
   <id>
    CS2_038
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Espíritu ancestral
+  </name>
+  <text>
+   &lt;b&gt;Estertor:&lt;/b&gt; reinvoca a este esbirro.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_038e
   </id>
   <playerclass>
    Shaman
@@ -5878,13 +5861,13 @@ Inflige 3 de daño.
    Neutral
   </faction>
   <text>
-   Otorga +2/+2 a tus otros esbirros.
+   +2/+2.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_573a
+   EX1_573ae
   </id>
   <playerclass>
    Druid
@@ -5901,13 +5884,13 @@ Inflige 3 de daño.
    Neutral
   </faction>
   <text>
-   +2/+2.
+   Otorga +2/+2 a tus otros esbirros.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_573ae
+   EX1_573a
   </id>
   <playerclass>
    Druid
@@ -6331,6 +6314,26 @@ Inflige 3 de daño.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Fuego interno
+  </name>
+  <text>
+   El Ataque de este esbirro es equivalente a su Salud.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -6363,26 +6366,6 @@ Inflige 3 de daño.
   </type>
   <id>
    CS1_129
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Fuego interno
-  </name>
-  <text>
-   El Ataque de este esbirro es equivalente a su Salud.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_129e
   </id>
   <playerclass>
    Priest
@@ -7847,6 +7830,26 @@ Inflige 3 de daño.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Igualdad
+  </name>
+  <text>
+   Salud cambiada a 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -7879,26 +7882,6 @@ Inflige 3 de daño.
   </type>
   <id>
    EX1_619
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Igualdad
-  </name>
-  <text>
-   Salud cambiada a 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -8944,6 +8927,26 @@ Inflige 3 de daño.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Locura sombría
+  </name>
+  <text>
+   Este esbirro ha cambiado de controlador en este turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -9776,14 +9779,17 @@ Inflige 3 de daño.
   <name>
    Marca de la naturaleza
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   Este esbirro tiene +4 de Ataque.
+   +4 de Ataque.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_155ae
+   EX1_155a
   </id>
   <playerclass>
    Druid
@@ -9796,17 +9802,14 @@ Inflige 3 de daño.
   <name>
    Marca de la naturaleza
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   +4 de Ataque.
+   Este esbirro tiene +4 de Salud y &lt;b&gt;Provocación&lt;/b&gt;.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_155a
+   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -9881,13 +9884,13 @@ Inflige 3 de daño.
    Marca de la naturaleza
   </name>
   <text>
-   Este esbirro tiene +4 de Salud y &lt;b&gt;Provocación&lt;/b&gt;.
+   Este esbirro tiene +4 de Ataque.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   EX1_155be
+   EX1_155ae
   </id>
   <playerclass>
    Druid
@@ -10121,28 +10124,6 @@ Inflige 3 de daño.
   </id>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mordedura
-  </name>
-  <text>
-   +4 de Ataque en este turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -10179,6 +10160,28 @@ Inflige 3 de daño.
   <playerclass>
    Druid
   </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Mordedura
+  </name>
+  <text>
+   +4 de Ataque en este turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
  </item>
  <item>
   <text>
@@ -10374,6 +10377,44 @@ Inflige 3 de daño.
   </id>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Nutrir
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Elige una opción:&lt;/b&gt; obtén 2 Cristales de maná o roba 3 cartas.
+  </text>
+  <artist>
+   Terese Nielsen
+  </artist>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   Los druidas se nutren de distintas cosas: el poder de la naturaleza, el canto de las aves, un pastel de chocolate...
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -10414,44 +10455,6 @@ Inflige 3 de daño.
   </type>
   <id>
    EX1_164a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Nutrir
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;Elige una opción:&lt;/b&gt; obtén 2 Cristales de maná o roba 3 cartas.
-  </text>
-  <artist>
-   Terese Nielsen
-  </artist>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   5
-  </cost>
-  <flavor>
-   Los druidas se nutren de distintas cosas: el poder de la naturaleza, el canto de las aves, un pastel de chocolate...
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164
   </id>
   <playerclass>
    Druid
@@ -10675,26 +10678,6 @@ Inflige 3 de daño.
   <name>
    Orden de Verdetez
   </name>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Orden oscura
-  </name>
-  <text>
-   Este esbirro ha cambiado de controlador en este turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
  </item>
  <item>
   <mechanics>
@@ -10966,23 +10949,6 @@ Inflige 3 de daño.
   </playerclass>
  </item>
  <item>
-  <text>
-   Este esbirro tiene +5/+5, pero pronto será destruido.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   Pesadilla
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -11004,6 +10970,23 @@ Inflige 3 de daño.
   <playerclass>
    Dream
   </playerclass>
+ </item>
+ <item>
+  <text>
+   Este esbirro tiene +5/+5, pero pronto será destruido.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DREAM_05e
+  </id>
+  <name>
+   Pesadilla
+  </name>
  </item>
  <item>
   <collectible>
@@ -11145,6 +11128,29 @@ Inflige 3 de daño.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Poder sobrecogedor
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Este esbirro tiene +4/+4, pero morirá horriblemente al final del turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_316e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -11177,29 +11183,6 @@ Inflige 3 de daño.
   </type>
   <id>
    EX1_316
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Poder sobrecogedor
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Este esbirro tiene +4/+4, pero morirá horriblemente al final del turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_316e
   </id>
   <playerclass>
    Warlock
@@ -12211,31 +12194,6 @@ Inflige 2 de daño.
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rugido desmoralizador
-  </name>
-  <text>
-   Este esbirro tiene -3 de Ataque en este turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Charge
    </item>
   </mechanics>
@@ -12539,6 +12497,46 @@ Inflige 2 de daño.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangre fría
+  </name>
+  <text>
+   +2 de Ataque.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangre fría
+  </name>
+  <text>
+   +4 de Ataque.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Combo
@@ -12576,46 +12574,6 @@ Inflige 2 de daño.
   </type>
   <id>
    CS2_073
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangre fría
-  </name>
-  <text>
-   +2 de Ataque.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangre fría
-  </name>
-  <text>
-   +4 de Ataque.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -14070,29 +14028,6 @@ Inflige 2 de daño.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Visión lejana
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   Una de tus cartas cuesta (3) menos.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -14131,6 +14066,29 @@ Inflige 2 de daño.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Visión lejana
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   Una de tus cartas cuesta (3) menos.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -14147,7 +14105,7 @@ Inflige 2 de daño.
    True
   </elite>
   <text>
-   Al final de tu turno, roba una carta de Sueño.
+   Al final de tu turno, agrega una carta onírica a tu mano.
   </text>
   <artist>
    Gabor Szikszai

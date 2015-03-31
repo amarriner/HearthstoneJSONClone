@@ -209,23 +209,6 @@
  </item>
  <item>
   <text>
-   +1 de Durabilidade.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Afiada
-  </name>
- </item>
- <item>
-  <text>
    +2 de Ataque do Ferreiro Rancoroso.
   </text>
   <set>
@@ -504,26 +487,6 @@ Cause 2 de dano.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Alma da Floresta
-  </name>
-  <text>
-   Último Suspiro: Evoque um Arvoroso 2/2.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -556,6 +519,26 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_158
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Alma da Floresta
+  </name>
+  <text>
+   Último Suspiro: Evoque um Arvoroso 2/2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -608,26 +591,6 @@ Cause 2 de dano.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Alvoroço
-  </name>
-  <text>
-   +3/+3.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_104e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -660,6 +623,26 @@ Cause 2 de dano.
   </type>
   <id>
    CS2_104
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Alvoroço
+  </name>
+  <text>
+   +3/+3.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_104e
   </id>
   <playerclass>
    Warrior
@@ -1445,35 +1428,6 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Arvoroso
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_158t
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Charge
@@ -1542,6 +1496,35 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_573t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Arvoroso
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_158t
   </id>
   <playerclass>
    Druid
@@ -2017,6 +2000,46 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bênção de Sabedoria
+  </name>
+  <text>
+   Quando este lacaio atacar, o jogador que o abençoou compra um card.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bênção de Sabedoria
+  </name>
+  <text>
+   Quando este lacaio atacar, o inimigo comprará um card.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e2
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2046,46 +2069,6 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bênção de Sabedoria
-  </name>
-  <text>
-   Quando este lacaio atacar, o inimigo comprará um card.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e2
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bênção de Sabedoria
-  </name>
-  <text>
-   Quando este lacaio atacar, o jogador que o abençoou compra um card.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -2347,13 +2330,13 @@ Cause 2 de dano.
    Brado de Comando
   </name>
   <text>
-   Não podem ser reduzidos a menos de 1 de Vida neste turno.
+   A Vida de seus lacaios não pode ser reduzida a menos de 1 neste turno.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   NEW1_036e
+   NEW1_036e2
   </id>
   <playerclass>
    Warrior
@@ -2407,13 +2390,13 @@ Cause 2 de dano.
    Brado de Comando
   </name>
   <text>
-   A Vida de seus lacaios não pode ser reduzida a menos de 1 neste turno.
+   Não podem ser reduzidos a menos de 1 de Vida neste turno.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   NEW1_036e2
+   NEW1_036e
   </id>
   <playerclass>
    Warrior
@@ -2550,26 +2533,6 @@ Cause 2 de dano.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Campeão Abençoado
-  </name>
-  <text>
-   O Ataque do seu lacaio foi dobrado.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_355e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -2599,6 +2562,26 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_355
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Campeão Abençoado
+  </name>
+  <text>
+   O Ataque do seu lacaio foi dobrado.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_355e
   </id>
   <playerclass>
    Paladin
@@ -3266,26 +3249,6 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Chuva Estelar
-  </name>
-  <text>
-   Cause $2 de dano a todos os lacaios inimigos.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -3315,6 +3278,26 @@ Cause 2 de dano.
   </type>
   <id>
    NEW1_007
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Chuva Estelar
+  </name>
+  <text>
+   Cause $2 de dano a todos os lacaios inimigos.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007a
   </id>
   <playerclass>
    Druid
@@ -3549,26 +3532,6 @@ Cause 2 de dano.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Comando Negro
-  </name>
-  <text>
-   Este lacaio trocou de controlador neste turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
   <text>
    +1/+1.
   </text>
@@ -3692,6 +3655,26 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Contrição
+  </name>
+  <text>
+   Vida reduzida a 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_379e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Secret
@@ -3729,26 +3712,6 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_379
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Contrição
-  </name>
-  <text>
-   Vida reduzida a 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_379e
   </id>
   <playerclass>
    Paladin
@@ -4966,6 +4929,32 @@ Cause 2 de dano.
   <name>
    Dragonete
   </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dragonete
+  </name>
   <faction>
    Neutral
   </faction>
@@ -4987,76 +4976,6 @@ Cause 2 de dano.
   <id>
    ds1_whelptoken
   </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dragonete
-  </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
-  </id>
- </item>
- <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Druida da Garra
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;Escolha Um -&lt;/b&gt; &lt;b&gt;Investida&lt;/b&gt;; ou +2 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
-  </text>
-  <artist>
-   Luca Zontini
-  </artist>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <flavor>
-   Felino ou Urso? Felino ou Urso?! Eu não consigo ESCOLHER!
-  </flavor>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
  </item>
  <item>
   <mechanics>
@@ -5133,6 +5052,50 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_165t1
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Druida da Garra
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Escolha Um -&lt;/b&gt; &lt;b&gt;Investida&lt;/b&gt;; ou +2 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
+  </text>
+  <artist>
+   Luca Zontini
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <flavor>
+   Felino ou Urso? Felino ou Urso?! Eu não consigo ESCOLHER!
+  </flavor>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165
   </id>
   <playerclass>
    Druid
@@ -5339,14 +5302,17 @@ Cause 2 de dano.
   <name>
    Enraizado
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
    +5 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_178ae
+   EX1_178a
   </id>
   <playerclass>
    Druid
@@ -5359,17 +5325,14 @@ Cause 2 de dano.
   <name>
    Enraizado
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
    +5 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_178a
+   EX1_178ae
   </id>
   <playerclass>
    Druid
@@ -6221,26 +6184,6 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Fogo Interior
-  </name>
-  <text>
-   O Ataque deste lacaio é igual à Vida dele.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_129e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -6273,6 +6216,26 @@ Cause 2 de dano.
   </type>
   <id>
    CS1_129
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Fogo Interior
+  </name>
+  <text>
+   O Ataque deste lacaio é igual à Vida dele.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
   </id>
   <playerclass>
    Priest
@@ -7797,26 +7760,6 @@ Cause 2 de dano.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Igualdade
-  </name>
-  <text>
-   Vida mudada para 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -7849,6 +7792,26 @@ Cause 2 de dano.
   </type>
   <id>
    EX1_619
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Igualdade
+  </name>
+  <text>
+   Vida mudada para 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -8156,22 +8119,19 @@ Evoque um Infernal 6/6.
    Classic
   </set>
   <name>
-   Ira
+   Insanidade Sombria
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   Cause $3 de dano a um lacaio.
+   Este lacaio trocou de controlador neste turno.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_154a
+   EX1_334e
   </id>
   <playerclass>
-   Druid
+   Priest
   </playerclass>
  </item>
  <item>
@@ -8192,6 +8152,29 @@ Evoque um Infernal 6/6.
   </type>
   <id>
    EX1_154b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Ira
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Cause $3 de dano a um lacaio.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_154a
   </id>
   <playerclass>
    Druid
@@ -8393,7 +8376,7 @@ Evoque um Infernal 6/6.
    Neutral
   </faction>
   <text>
-   Cause $8 de dano dividido aleatoriamente entre os personagens inimigos.
+   Cause $8 de dano dividido aleatoriamente entre todos os inimigos.
   </text>
   <artist>
    Alex Garner
@@ -9671,13 +9654,33 @@ Evoque um Infernal 6/6.
    Neutral
   </faction>
   <text>
-   +4 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
+   +4 de Ataque
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155b
+   EX1_155a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Marca da Natureza
+  </name>
+  <text>
+   Este lacaio tem +4 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -9694,13 +9697,13 @@ Evoque um Infernal 6/6.
    Neutral
   </faction>
   <text>
-   +4 de Ataque
+   +4 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155a
+   EX1_155b
   </id>
   <playerclass>
    Druid
@@ -9759,26 +9762,6 @@ Evoque um Infernal 6/6.
   </type>
   <id>
    EX1_155
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Marca da Natureza
-  </name>
-  <text>
-   Este lacaio tem +4 de Vida e &lt;b&gt;Provocar&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -10310,28 +10293,6 @@ Evoque um Infernal 6/6.
   </id>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Morder
-  </name>
-  <text>
-   +4 de Ataque neste turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -10368,6 +10329,28 @@ Evoque um Infernal 6/6.
   <playerclass>
    Druid
   </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Morder
+  </name>
+  <text>
+   +4 de Ataque neste turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
  </item>
  <item>
   <collectible>
@@ -10674,6 +10657,29 @@ Evoque um Infernal 6/6.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Nutrir
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Receba 2 Cristais de Mana.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -10729,29 +10735,6 @@ Evoque um Infernal 6/6.
   </type>
   <id>
    EX1_164b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Nutrir
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Receba 2 Cristais de Mana.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164a
   </id>
   <playerclass>
    Druid
@@ -11194,6 +11177,23 @@ Evoque um Infernal 6/6.
   </playerclass>
  </item>
  <item>
+  <text>
+   Este lacaio tem +5/+5, mas será destruído em breve.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DREAM_05e
+  </id>
+  <name>
+   Pesadelo
+  </name>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -11215,23 +11215,6 @@ Evoque um Infernal 6/6.
   <playerclass>
    Dream
   </playerclass>
- </item>
- <item>
-  <text>
-   Este lacaio tem +5/+5, mas será destruído em breve.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   Pesadelo
-  </name>
  </item>
  <item>
   <collectible>
@@ -12448,31 +12431,6 @@ Evoque um Infernal 6/6.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rugido Desmoralizante
-  </name>
-  <text>
-   Este lacaio tem -3 de Ataque neste turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12760,6 +12718,46 @@ Cause 3 de dano.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangue Frio
+  </name>
+  <text>
+   +4 de Ataque.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangue Frio
+  </name>
+  <text>
+   +2 de Ataque.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Combo
@@ -12797,46 +12795,6 @@ Cause 3 de dano.
   </type>
   <id>
    CS2_073
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangue Frio
-  </name>
-  <text>
-   +4 de Ataque.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e2
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangue Frio
-  </name>
-  <text>
-   +2 de Ataque.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -14147,7 +14105,7 @@ Cause 3 de dano.
    True
   </elite>
   <text>
-   No final do seu turno, compre um Card de Sonho.
+   No fim do seu turno, adicione um Card de Sonho à sua mão.
   </text>
   <artist>
    Gabor Szikszai

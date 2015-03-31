@@ -283,23 +283,6 @@
   </playerclass>
  </item>
  <item>
-  <text>
-   +1 Durabilité.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Aiguisé
-  </name>
- </item>
- <item>
   <mechanics>
    <item>
     Battlecry
@@ -1326,6 +1309,23 @@ gagne +1/+1.
   </id>
  </item>
  <item>
+  <text>
+   A +1/+1.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_014te
+  </id>
+  <name>
+   Banane
+  </name>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -1344,23 +1344,6 @@ gagne +1/+1.
   <id>
    EX1_014t
   </id>
- </item>
- <item>
-  <text>
-   A +1/+1.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_014te
-  </id>
-  <name>
-   Banane
-  </name>
  </item>
  <item>
   <set>
@@ -1517,6 +1500,46 @@ gagne +1/+1.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bénédiction de sagesse
+  </name>
+  <text>
+   Quand ce serviteur attaque, le joueur qui l’a béni pioche une carte.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bénédiction de sagesse
+  </name>
+  <text>
+   Quand ce serviteur attaque, le joueur adverse pioche une carte.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e2
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1546,46 +1569,6 @@ gagne +1/+1.
   </type>
   <id>
    EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bénédiction de sagesse
-  </name>
-  <text>
-   Quand ce serviteur attaque, le joueur adverse pioche une carte.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e2
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bénédiction de sagesse
-  </name>
-  <text>
-   Quand ce serviteur attaque, le joueur qui l’a béni pioche une carte.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -1685,7 +1668,7 @@ gagne +1/+1.
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Accès de rage :&lt;/b&gt; +3 ATQ
+   &lt;b&gt;Accès de rage :&lt;/b&gt; +3 ATQ.
   </text>
   <artist>
    Chippy
@@ -1841,31 +1824,6 @@ gagne +1/+1.
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bloc de glace
-  </name>
-  <text>
-   Votre héros est &lt;b&gt;Insensible&lt;/b&gt; pour ce tour.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_295o
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Secret
    </item>
   </mechanics>
@@ -1901,6 +1859,31 @@ gagne +1/+1.
   </type>
   <id>
    EX1_295
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bloc de glace
+  </name>
+  <text>
+   Votre héros est &lt;b&gt;Insensible&lt;/b&gt; pour ce tour.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_295o
   </id>
   <playerclass>
    Mage
@@ -2174,7 +2157,7 @@ ont +1/+1.
    True
   </elite>
   <text>
-   &lt;b&gt;Cri de guerre :&lt;/b&gt; confère +1/+1 à votre arme.
+   &lt;b&gt;Cri de guerre :&lt;/b&gt; confère +1/+1 à votre arme.
   </text>
   <rarity>
    Legendary
@@ -2779,9 +2762,6 @@ ont +1/+1.
   </id>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
   <set>
    Classic
   </set>
@@ -2792,25 +2772,13 @@ ont +1/+1.
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Choix des armes :&lt;/b&gt; inflige $3 |4(point, points) de dégâts à un serviteur ; ou inflige $1 |4(point,points) de dégâts à un serviteur et vous piochez une carte.
+   Inflige $1 |4(point,points) de dégâts à un serviteur. Vous piochez une carte.
   </text>
-  <artist>
-   Raymond Swanland
-  </artist>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   2
-  </cost>
-  <flavor>
-   Les habitués de l’auberge de Gadgetzan trouvent que cette carte devrait être légendaire parce qu’elle est vraiment trop géniale.
-  </flavor>
   <type>
    Spell
   </type>
   <id>
-   EX1_154
+   EX1_154b
   </id>
   <playerclass>
    Druid
@@ -2840,6 +2808,9 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
   <set>
    Classic
   </set>
@@ -2850,13 +2821,25 @@ ont +1/+1.
    Neutral
   </faction>
   <text>
-   Inflige $1 |4(point,points) de dégâts à un serviteur. Vous piochez une carte.
+   &lt;b&gt;Choix des armes :&lt;/b&gt; inflige $3 |4(point,points) de dégâts à un serviteur ; ou inflige $1 |4(point,points) de dégâts à un serviteur et vous piochez une carte.
   </text>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Les habitués de l’auberge de Gadgetzan trouvent que cette carte devrait être légendaire parce qu’elle est vraiment trop géniale.
+  </flavor>
   <type>
    Spell
   </type>
   <id>
-   EX1_154b
+   EX1_154
   </id>
   <playerclass>
    Druid
@@ -3413,7 +3396,7 @@ ont +1/+1.
    Neutral
   </faction>
   <text>
-   Inflige $8 |4(point,points) de dégâts répartis de façon aléatoire entre les personnages adverses.
+   Inflige $8 |4(point,points) de dégâts répartis de façon aléatoire entre tous les adversaires.
   </text>
   <artist>
    Alex Garner
@@ -3496,31 +3479,6 @@ ont +1/+1.
    Cri de commandement
   </name>
   <text>
-   Les points de vie de vos serviteurs ne peuvent pas passer en dessous de 1 ce tour-ci.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   NEW1_036e2
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Cri de commandement
-  </name>
-  <text>
    Ne peut pas avoir moins de 1 PV pendant ce tour.
   </text>
   <type>
@@ -3563,6 +3521,31 @@ ont +1/+1.
   </type>
   <id>
    NEW1_036
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Cri de commandement
+  </name>
+  <text>
+   Les points de vie de vos serviteurs ne peuvent pas passer en dessous de 1 ce tour-ci.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NEW1_036e2
   </id>
   <playerclass>
    Warrior
@@ -4321,29 +4304,6 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Double vue
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   Une de vos cartes coûte (3) cristaux de moins.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -4376,6 +4336,29 @@ ont +1/+1.
   </type>
   <id>
    CS2_053
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Double vue
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   Une de vos cartes coûte (3) cristaux de moins.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
   </id>
   <playerclass>
    Shaman
@@ -4429,32 +4412,6 @@ ont +1/+1.
   <name>
    Dragonnet
   </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
-  </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dragonnet
-  </name>
   <faction>
    Neutral
   </faction>
@@ -4475,6 +4432,32 @@ ont +1/+1.
   </type>
   <id>
    ds1_whelptoken
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dragonnet
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
   </id>
  </item>
  <item>
@@ -4974,6 +4957,26 @@ ont +1/+1.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Égalité
+  </name>
+  <text>
+   Les points de vie sont passés à 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -5006,26 +5009,6 @@ ont +1/+1.
   </type>
   <id>
    EX1_619
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Égalité
-  </name>
-  <text>
-   Les points de vie sont passés à 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -5162,7 +5145,7 @@ ont +1/+1.
    4
   </health>
   <flavor>
-   Moi je dirais plutôt qu’il se délite !
+   Moi je dirais plutôt qu’il se délite !
   </flavor>
   <type>
    Minion
@@ -5876,6 +5859,35 @@ Invoque un infernal 6/6.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Feu démoniaque
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Ce démon a +2/+2.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_596e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -5908,35 +5920,6 @@ Invoque un infernal 6/6.
   </type>
   <id>
    EX1_596
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Feu démoniaque
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Ce démon a +2/+2.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_596e
   </id>
   <playerclass>
    Warlock
@@ -6123,6 +6106,26 @@ Invoque un infernal 6/6.
   </type>
   <id>
    EX1_624
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Folie de l’ombre
+  </name>
+  <text>
+   Les commandes de ce serviteur sont échangées pour ce tour.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
   </id>
   <playerclass>
    Priest
@@ -7330,8 +7333,7 @@ Invoque un infernal 6/6.
    Neutral
   </faction>
   <text>
-   Chaque fois qu’un serviteur meurt, gagne
-+1 ATQ.
+   Chaque fois qu’un serviteur meurt, gagne +1 ATQ.
   </text>
   <artist>
    Alex Horley Orlandelli
@@ -9630,9 +9632,6 @@ Invoque un infernal 6/6.
   </id>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
   <set>
    Classic
   </set>
@@ -9643,68 +9642,13 @@ Invoque un infernal 6/6.
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Choix des armes :&lt;/b&gt; donne +4 ATQ à un serviteur ou +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
-  </text>
-  <artist>
-   Clint Langley
-  </artist>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   3
-  </cost>
-  <flavor>
-   Les druides appellent ça la « Marque de la nature ». Les autres considèrent qu’ils ont juste besoin d’un bon bain...
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_155
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Marque de la nature
-  </name>
-  <text>
-   Ce serviteur a +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Marque de la nature
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
+   +4 ATQ.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155b
+   EX1_155a
   </id>
   <playerclass>
    Druid
@@ -9741,13 +9685,71 @@ Invoque un infernal 6/6.
    Neutral
   </faction>
   <text>
-   +4 ATQ.
+   +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155a
+   EX1_155b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Marque de la nature
+  </name>
+  <text>
+   Ce serviteur a +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Marque de la nature
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Choix des armes :&lt;/b&gt; donne +4 ATQ à un serviteur ou +4 PV et &lt;b&gt;Provocation&lt;/b&gt;.
+  </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   Les druides appellent ça la « Marque de la nature ». Les autres considèrent qu’ils ont juste besoin d’un bon bain...
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_155
   </id>
   <playerclass>
    Druid
@@ -9943,6 +9945,42 @@ Surcharge :&lt;/b&gt; (2)
   </playerclass>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Météores
+  </name>
+  <artist>
+   Richard Wright
+  </artist>
+  <text>
+   &lt;b&gt;Choix des armes :&lt;/b&gt; inflige $5 |4(point,points) de dégâts à un serviteur ; ou $2 |4(point,points) de dégâts à tous les serviteurs adverses.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   « Un peu plus près des étoiles ! »
+- Albatros
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -9977,42 +10015,6 @@ Surcharge :&lt;/b&gt; (2)
   </type>
   <id>
    NEW1_007b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Météores
-  </name>
-  <artist>
-   Richard Wright
-  </artist>
-  <text>
-   &lt;b&gt;Choix des armes :&lt;/b&gt; inflige $5 |4(point,points) de dégâts à un serviteur ; ou $2 |4(point,points) de dégâts à tous les serviteurs adverses.
-  </text>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   5
-  </cost>
-  <flavor>
-   « Un peu plus près des étoiles ! »
-- Albatros
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007
   </id>
   <playerclass>
    Druid
@@ -10113,6 +10115,28 @@ Surcharge :&lt;/b&gt; (2)
   </id>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Morsure
+  </name>
+  <text>
+   +4 ATQ pendant ce tour.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -10149,28 +10173,6 @@ Surcharge :&lt;/b&gt; (2)
   <playerclass>
    Druid
   </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Morsure
-  </name>
-  <text>
-   +4 ATQ pendant ce tour.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
  </item>
  <item>
   <mechanics>
@@ -10484,13 +10486,13 @@ Surcharge :&lt;/b&gt; (2)
    Neutral
   </faction>
   <text>
-   Vous piochez 3 cartes.
+   Vous gagnez 2 cristaux de mana.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_164b
+   EX1_164a
   </id>
   <playerclass>
    Druid
@@ -10507,13 +10509,13 @@ Surcharge :&lt;/b&gt; (2)
    Neutral
   </faction>
   <text>
-   Vous gagnez 2 cristaux de mana.
+   Vous piochez 3 cartes.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_164a
+   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -11228,7 +11230,8 @@ Inflige 2 points de dégâts.
    Neutral
   </faction>
   <text>
-   Vos serviteurs coûtent (2) cristaux de moins, mais jamais moins de (1).
+   Vos serviteurs coûtent (2) cristaux de moins, mais jamais moins
+de (1).
   </text>
   <artist>
    Tyler Walpole
@@ -12061,6 +12064,26 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Rage intérieure
+  </name>
+  <text>
+   +2 Attaque.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -12093,26 +12116,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </type>
   <id>
    EX1_607
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rage intérieure
-  </name>
-  <text>
-   +2 Attaque.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
   </id>
   <playerclass>
    Warrior
@@ -12173,7 +12176,7 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
    8
   </health>
   <flavor>
-   Ragnaros a été invoqué par les nains sombrefers, qui au final se sont retrouvés esclaves du seigneur du feu. Invoquer Ragnaros a souvent des effets secondaires indésirables...
+   Ragnaros a été invoqué par les nains sombrefers, qui finirent par se retrouver esclaves du seigneur du feu. Invoquer Ragnaros a souvent des effets secondaires indésirables...
   </flavor>
   <type>
    Minion
@@ -12247,7 +12250,8 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
    Neutral
   </faction>
   <text>
-   &lt;b&gt;Secret :&lt;/b&gt; quand un de vos serviteurs meurt, il est ressuscité avec 1 PV.
+   &lt;b&gt;Secret :&lt;/b&gt; quand un de vos serviteurs meurt, il est ressuscité avec
+1 PV.
   </text>
   <artist>
    Ittoku
@@ -12587,51 +12591,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </id>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rugissement démoralisant
-  </name>
-  <text>
-   Ce serviteur a -3 ATQ pendant ce tour.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Saccager
-  </name>
-  <text>
-   +3/+3.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_104e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12674,16 +12633,36 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
    Classic
   </set>
   <name>
-   Sang froid
+   Saccager
   </name>
   <text>
-   +2 ATQ.
+   +3/+3.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e
+   CS2_104e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sang froid
+  </name>
+  <text>
+   +4 ATQ.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -12740,13 +12719,13 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
    Sang froid
   </name>
   <text>
-   +4 ATQ.
+   +2 ATQ.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e2
+   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -13145,26 +13124,6 @@ donne à vos serviteurs +1/+1 ou invoque une panthère 3/2.
   </id>
   <playerclass>
    Dream
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sombre ordre
-  </name>
-  <text>
-   Les commandes de ce serviteur sont échangées pour ce tour.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
   </playerclass>
  </item>
  <item>
@@ -13639,9 +13598,7 @@ donne +2 ATQ.
    True
   </elite>
   <text>
-   &lt;b&gt;Bouclier divin&lt;/b&gt;
-&lt;b&gt;Provocation&lt;/b&gt;
-&lt;b&gt;Râle d’agonie :&lt;/b&gt; vous équipe de Porte-cendres 5/3.
+   &lt;b&gt;Bouclier divin&lt;/b&gt;. &lt;b&gt;Provocation&lt;/b&gt;. &lt;b&gt;Râle d’agonie :&lt;/b&gt; vous équipe de Porte-cendres 5/3.
   </text>
   <artist>
    Brom
@@ -14107,8 +14064,7 @@ donne +2 ATQ.
    Blizzard Cinematics
   </artist>
   <text>
-   Chaque fois que vous lancez un sort, gagne
-+1 ATQ.
+   Chaque fois que vous lancez un sort, gagne +1 ATQ.
   </text>
   <rarity>
    Common
@@ -14171,7 +14127,7 @@ donne +2 ATQ.
    True
   </elite>
   <text>
-   Vous piochez une carte Rêve à la fin de votre tour.
+   À la fin de votre tour, ajoute une carte Rêve dans votre main.
   </text>
   <artist>
    Gabor Szikszai

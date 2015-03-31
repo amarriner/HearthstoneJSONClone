@@ -947,26 +947,6 @@
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    丛林之魂
-   </name>
-   <text>
-    &lt;b&gt;亡语：&lt;/b&gt;召唤一个2/2的树人。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -999,6 +979,26 @@
    </type>
    <id>
     EX1_158
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    丛林之魂
+   </name>
+   <text>
+    &lt;b&gt;亡语：&lt;/b&gt;召唤一个2/2的树人。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -1293,7 +1293,7 @@
     Neutral
    </faction>
    <text>
-    在你的回合结束时，获得一张梦境牌。
+    在你的回合结束时，将一张梦境牌加入你的手牌。
    </text>
    <artist>
     Gabor Szikszai
@@ -2059,13 +2059,13 @@
     冷血
    </name>
    <text>
-    +4攻击力。
+    +2攻击力。
    </text>
    <type>
     Enchantment
    </type>
    <id>
-    CS2_073e2
+    CS2_073e
    </id>
    <playerclass>
     Rogue
@@ -2079,13 +2079,13 @@
     冷血
    </name>
    <text>
-    +2攻击力。
+    +4攻击力。
    </text>
    <type>
     Enchantment
    </type>
    <id>
-    CS2_073e
+    CS2_073e2
    </id>
    <playerclass>
     Rogue
@@ -2186,6 +2186,46 @@
   <item>
    <mechanics>
     <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    利爪德鲁伊
+   </name>
+   <text>
+    &lt;b&gt;冲锋&lt;/b&gt;
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_165t1
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
      Taunt
     </item>
    </mechanics>
@@ -2270,46 +2310,6 @@
   <item>
    <mechanics>
     <item>
-     Charge
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    利爪德鲁伊
-   </name>
-   <text>
-    &lt;b&gt;冲锋&lt;/b&gt;
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <attack>
-    4
-   </attack>
-   <cost>
-    5
-   </cost>
-   <health>
-    4
-   </health>
-   <race>
-    Beast
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_165t1
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
      Combo
     </item>
    </mechanics>
@@ -2369,7 +2369,7 @@
     Neutral
    </faction>
    <text>
-    摧毁你的武器，对所有敌方角色造成等同于其攻击力的伤害。
+    摧毁你的武器，对所有敌人造成等同于其攻击力的伤害。
    </text>
    <artist>
     Hideaki Takamura
@@ -2391,29 +2391,6 @@
    </id>
    <playerclass>
     Rogue
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    力量的代价
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    该随从获得+4/+4，但是在回合结束时将死于非命。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_316e
-   </id>
-   <playerclass>
-    Warlock
    </playerclass>
   </item>
   <item>
@@ -2449,6 +2426,29 @@
    </type>
    <id>
     EX1_316
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    力量的代价
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    该随从获得+4/+4，但是在回合结束时将死于非命。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_316e
    </id>
    <playerclass>
     Warlock
@@ -2515,6 +2515,41 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    加拉克苏斯大王
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    15
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Hero
+   </type>
+   <id>
+    EX1_323h
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Battlecry
@@ -2561,41 +2596,6 @@
    </elite>
    <id>
     EX1_323
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    加拉克苏斯大王
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <rarity>
-    Legendary
-   </rarity>
-   <attack>
-    0
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    15
-   </health>
-   <race>
-    Demon
-   </race>
-   <type>
-    Hero
-   </type>
-   <id>
-    EX1_323h
    </id>
    <playerclass>
     Warlock
@@ -2655,26 +2655,6 @@
     升级
    </name>
    <text>
-    +1攻击力和+1耐久度。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_409e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    升级
-   </name>
-   <text>
     耐久度增加。
    </text>
    <type>
@@ -2685,6 +2665,26 @@
    </id>
    <playerclass>
     Hunter
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    升级
+   </name>
+   <text>
+    +1攻击力和+1耐久度。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_409e
+   </id>
+   <playerclass>
+    Warrior
    </playerclass>
   </item>
   <item>
@@ -2937,6 +2937,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    受祝福的勇士
+   </name>
+   <text>
+    该随从的攻击力翻倍。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_355e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -2966,26 +2986,6 @@
    </type>
    <id>
     EX1_355
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    受祝福的勇士
-   </name>
-   <text>
-    该随从的攻击力翻倍。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_355e
    </id>
    <playerclass>
     Paladin
@@ -3206,35 +3206,25 @@
    </name>
   </item>
   <item>
-   <collectible>
-    True
-   </collectible>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
    <set>
     Classic
    </set>
    <name>
     命令怒吼
    </name>
-   <artist>
-    Wayne Reynolds
-   </artist>
    <text>
-    在本回合中，你的随从的生命值无法被降到1点以下。抽一张牌。
+    在本回合中，你的随从的生命值无法被降到1点以下。
    </text>
-   <rarity>
-    Rare
-   </rarity>
-   <cost>
-    2
-   </cost>
-   <flavor>
-    “大声吼出来！把你的怒气吼出来！”——对训练中的战士的建议
-   </flavor>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    NEW1_036
+    NEW1_036e2
    </id>
    <playerclass>
     Warrior
@@ -3266,25 +3256,35 @@
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
+   <collectible>
+    True
+   </collectible>
    <set>
     Classic
    </set>
    <name>
     命令怒吼
    </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
    <text>
-    在本回合中，你的随从的生命值无法被降到1点以下。
+    在本回合中，你的随从的生命值无法被降到1点以下。抽一张牌。
    </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <flavor>
+    “大声吼出来！把你的怒气吼出来！”——对训练中的战士的建议
+   </flavor>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    NEW1_036e2
+    NEW1_036
    </id>
    <playerclass>
     Warrior
@@ -3379,23 +3379,6 @@
    </id>
   </item>
   <item>
-   <text>
-    该随从获得+5/+5，但它马上会被消灭。
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    DREAM_05e
-   </id>
-   <name>
-    噩梦
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -3417,6 +3400,23 @@
    <playerclass>
     Dream
    </playerclass>
+  </item>
+  <item>
+   <text>
+    该随从获得+5/+5，但它马上会被消灭。
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    DREAM_05e
+   </id>
+   <name>
+    噩梦
+   </name>
   </item>
   <item>
    <mechanics>
@@ -3777,7 +3777,7 @@
     Neutral
    </faction>
    <text>
-    造成$8点伤害，随机分配给敌方角色。
+    造成$8点伤害，随机分配到所有敌人身上。
    </text>
    <artist>
     Alex Garner
@@ -4849,7 +4849,7 @@
     Glenn Rane
    </artist>
    <text>
-    &lt;b&gt;亡语：&lt;/b&gt;控制一个随机敌方随从。
+    &lt;b&gt;亡语：&lt;/b&gt;随机获得一个敌方随从的控制权。
    </text>
    <rarity>
     Legendary
@@ -5193,6 +5193,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    心灵之火
+   </name>
+   <text>
+    该随从的攻击力等同于其生命值。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS1_129e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -5225,26 +5245,6 @@
    </type>
    <id>
     CS1_129
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    心灵之火
-   </name>
-   <text>
-    该随从的攻击力等同于其生命值。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS1_129e
    </id>
    <playerclass>
     Priest
@@ -5799,13 +5799,13 @@
     Neutral
    </faction>
    <text>
-    对一个随从造成$1点伤害，抽一张牌。
+    对一个随从造成$3点伤害。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_154b
+    EX1_154a
    </id>
    <playerclass>
     Druid
@@ -5860,13 +5860,13 @@
     Neutral
    </faction>
    <text>
-    对一个随从造成$3点伤害。
+    对一个随从造成$1点伤害，抽一张牌。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_154a
+    EX1_154b
    </id>
    <playerclass>
     Druid
@@ -6166,23 +6166,6 @@
    </playerclass>
   </item>
   <item>
-   <text>
-    +1耐久度。
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    打磨
-   </name>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -6403,14 +6386,17 @@
    <name>
     拔根
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
     +5攻击力。
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_178be
+    EX1_178b
    </id>
    <playerclass>
     Druid
@@ -6423,17 +6409,14 @@
    <name>
     拔根
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
     +5攻击力。
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_178b
+    EX1_178be
    </id>
    <playerclass>
     Druid
@@ -6484,31 +6467,6 @@
    <id>
     EX1_405
    </id>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    挫志咆哮
-   </name>
-   <text>
-    在本回合中，该随从获得-3攻击力。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
   </item>
   <item>
    <set>
@@ -6639,28 +6597,6 @@
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    撕咬
-   </name>
-   <text>
-    在本回合中，获得+4攻击力。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_570e
-   </id>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -6697,6 +6633,28 @@
    <playerclass>
     Druid
    </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    撕咬
+   </name>
+   <text>
+    在本回合中，获得+4攻击力。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_570e
+   </id>
   </item>
   <item>
    <collectible>
@@ -6924,6 +6882,46 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    星辰坠落
+   </name>
+   <text>
+    对所有敌方随从造成$2点伤害。
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    星辰坠落
+   </name>
+   <text>
+    对一个随从造成$5点伤害。
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -6963,39 +6961,19 @@
     Classic
    </set>
    <name>
-    星辰坠落
+    智慧祝福
    </name>
    <text>
-    对一个随从造成$5点伤害。
+    每当该随从进行攻击，敌方玩家便抽一张牌。
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    NEW1_007b
+    EX1_363e2
    </id>
    <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    星辰坠落
-   </name>
-   <text>
-    对所有敌方随从造成$2点伤害。
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    NEW1_007a
-   </id>
-   <playerclass>
-    Druid
+    Paladin
    </playerclass>
   </item>
   <item>
@@ -7048,26 +7026,6 @@
    </type>
    <id>
     EX1_363
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    智慧祝福
-   </name>
-   <text>
-    每当该随从进行攻击，敌方玩家便抽一张牌。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_363e2
    </id>
    <playerclass>
     Paladin
@@ -7187,6 +7145,26 @@
    </id>
    <playerclass>
     Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    暗影狂乱
+   </name>
+   <text>
+    在本回合中，该随从的控制权发生了变化。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_334e
+   </id>
+   <playerclass>
+    Priest
    </playerclass>
   </item>
   <item>
@@ -7730,6 +7708,35 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    树人
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_158t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Taunt
@@ -7758,35 +7765,6 @@
    </type>
    <id>
     EX1_573t
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    树人
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <attack>
-    2
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    2
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_158t
    </id>
    <playerclass>
     Druid
@@ -8758,13 +8736,13 @@
     Neutral
    </faction>
    <text>
-    抽三张牌。
+    获得两个法力水晶。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_164b
+    EX1_164a
    </id>
    <playerclass>
     Druid
@@ -8781,13 +8759,13 @@
     Neutral
    </faction>
    <text>
-    获得两个法力水晶。
+    抽三张牌。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_164a
+    EX1_164b
    </id>
    <playerclass>
     Druid
@@ -8815,7 +8793,7 @@
     Alliance
    </faction>
    <text>
-    &lt;b&gt;冲锋&lt;/b&gt;，&lt;b&gt;战吼：&lt;/b&gt;为你的对手召唤2只1/1的雏龙。
+    &lt;b&gt;冲锋&lt;/b&gt;，&lt;b&gt;战吼：&lt;/b&gt;为你的对手召唤两只1/1的雏龙。
    </text>
    <artist>
     Gabe from Penny Arcade
@@ -9462,6 +9440,26 @@
     狂暴
    </name>
    <text>
+    +3/+3。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_104e
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    狂暴
+   </name>
+   <text>
     攻击力增加。
    </text>
    <type>
@@ -9507,26 +9505,6 @@
    </type>
    <id>
     CS2_104
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    狂暴
-   </name>
-   <text>
-    +3/+3。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_104e
    </id>
    <playerclass>
     Warrior
@@ -10383,6 +10361,29 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    视界术
+   </name>
+   <artist>
+    Lars Grant-West
+   </artist>
+   <text>
+    你的一张手牌的法力值消耗减少（3）点。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_053e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -10415,29 +10416,6 @@
    </type>
    <id>
     CS2_053
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    视界术
-   </name>
-   <artist>
-    Lars Grant-West
-   </artist>
-   <text>
-    你的一张手牌的法力值消耗减少（3）点。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_053e
    </id>
    <playerclass>
     Shaman
@@ -10866,7 +10844,7 @@
     Alliance
    </faction>
    <text>
-    &lt;b&gt;战吼：&lt;/b&gt;如果你的对手拥有4个或者更多随从，随机控制其中一个。
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的对手拥有4个或者更多随从，随机获得其中一个的控制权。
    </text>
    <artist>
     Leo Che
@@ -11484,17 +11462,37 @@
    <name>
     自然印记
    </name>
+   <text>
+    该随从获得+4生命值和&lt;b&gt;嘲讽&lt;/b&gt;。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155be
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    自然印记
+   </name>
    <faction>
     Neutral
    </faction>
    <text>
-    +4攻击力。
+    +4生命值并具有&lt;b&gt;嘲讽&lt;/b&gt;。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_155a
+    EX1_155b
    </id>
    <playerclass>
     Druid
@@ -11545,37 +11543,17 @@
    <name>
     自然印记
    </name>
-   <text>
-    该随从获得+4生命值和&lt;b&gt;嘲讽&lt;/b&gt;。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155be
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    自然印记
-   </name>
    <faction>
     Neutral
    </faction>
    <text>
-    +4生命值并具有&lt;b&gt;嘲讽&lt;/b&gt;。
+    +4攻击力。
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_155b
+    EX1_155a
    </id>
    <playerclass>
     Druid
@@ -13378,7 +13356,7 @@
     2
    </health>
    <flavor>
-    ”我没说你能够躲过火球。我是说有了这盾，你就不需要躲了。“
+    “我没说你能够躲过火球。我是说有了这盾，你就不需要躲了。”
    </flavor>
    <type>
     Minion
@@ -14930,26 +14908,6 @@
    <id>
     EX1_029
    </id>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    黑暗命令
-   </name>
-   <text>
-    在本回合中，该随从的控制权发生了变化。
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_334e
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
   </item>
   <item>
    <mechanics>
@@ -17024,7 +16982,7 @@
    </name>
    <text>
     &lt;b&gt;英雄技能&lt;/b&gt;
-对所有敌方角色造成2点伤害。每造成一个随从死亡，便召唤一个泥浆怪。
+对所有敌人造成2点伤害。每造成一个随从死亡，便召唤一个泥浆怪。
    </text>
    <cost>
     0
@@ -20022,6 +19980,5665 @@
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    严正警戒
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    抽两张牌。在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    每年这个时候，矮人们都聚集在黑石山下，悼念那些被炎魔控制了心智，葬身熔岩之中的同胞们。
+   </flavor>
+   <howtoget>
+    在完成黑石山的圣骑士职业挑战后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在完成黑石山的圣骑士职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    乱石滚动
+   </name>
+   <text>
+    召唤3个火誓者。&lt;b&gt;过载：&lt;/b&gt;（2）
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    乱石滚动
+   </name>
+   <text>
+    召唤3个火誓者。&lt;b&gt;过载：&lt;/b&gt;（2）
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    充能
+   </name>
+   <text>
+    充满所有空的法力水晶。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    克洛玛古斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    克洛玛古斯
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    克洛玛古斯
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    每当你抽一张牌时，复制该牌并加入你的手牌。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    当两个头都无法说服对方晚餐到底吃什么的时候，它通常都会去拉面店解决问题。
+   </flavor>
+   <howtoget>
+    在击败黑翼之巢的所有首领后解锁。
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    在击败黑翼之巢的所有首领后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    全能金刚防御系统
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    全能金刚防御系统
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    剧毒金刚
+   </name>
+   <text>
+    在你的回合开始时，对所有其他随从造成1点伤害。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    剧毒金刚
+   </name>
+   <text>
+    在你的回合开始时，对所有其他随从造成1点伤害。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <text>
+    +2/+2。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    力量药剂
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    加尔
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    加尔
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    变异
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机弃一张牌。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    回响之锣
+   </name>
+   <text>
+    摧毁你的对手的武器。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    回音定位
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+装备一把武器，每当你的对手使用牌时，该武器就会增强。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    回音定位
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+装备一把武器，每当你的对手使用牌时，该武器就会增强。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    堕落的瓦拉斯塔兹
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    堕落的瓦拉斯塔兹
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    复仇打击
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    对所有随从造成$1点伤害。如果你的生命值小于或等于12点，则改为造成$3点伤害。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    过去战士总是抱怨致死打击不如火球术，现在他们总算报仇了，因为复仇打击可比魔爆术好多了。
+   </flavor>
+   <howtoget>
+    在击败黑翼之巢的拉佐格尔后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在击败黑翼之巢的拉佐格尔后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    复活术
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    随机召唤一个在本局对战中死亡的友方随从。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    我走进了幽暗的地下城，发现了一具冒险者的尸体。在他生命中最后的时刻，他在身边满是灰尘的墙上划出了两个数字：“99”。
+   </flavor>
+   <howtoget>
+    在击败黑石深渊的索瑞森大帝后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在击败黑石深渊的索瑞森大帝后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    多彩变形
+   </name>
+   <text>
+    将一个随从变形成为2/2的多彩龙人。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    多彩幼龙
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    多彩幼龙
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    多彩龙人
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    多彩龙人
+   </name>
+   <text>
+    每当你的对手施放一个法术，便获得+2/+2。
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    多彩龙人
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    夜幕奇袭
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    选择一个随从。将该随从的3个复制洗入你的牌库。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    如果你想要拜访月溪镇，最好别太张扬。
+   </flavor>
+   <howtoget>
+    在通过黑石深渊的黑铁竞技场后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在通过黑石深渊的黑铁竞技场后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    奈法利安
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    奈法利安
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    奈法利安
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    奈法利安
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;随机将两张&lt;i&gt;（你的对手职业的）&lt;/i&gt;法术牌加入你的手牌。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    据说他的眼泪所凝结成的晶体具有提高法术命中的功效。
+   </flavor>
+   <howtoget>
+    在击败秘密实验室的所有首领后解锁。
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    在击败秘密实验室的所有首领后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    奈法利安
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    奈法利安
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    奥妮克希亚
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    奥妮克希亚
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    奥妮克希亚之爪
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    奥能金刚
+   </name>
+   <text>
+    每个玩家获得&lt;b&gt;法术伤害+2&lt;/b&gt;。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <text>
+    生命值增加。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    孵化
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    小鬼
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    小鬼首领
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    每当该随从受到伤害时，召唤一个1/1的小鬼。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    每到夜深人静，他就会带着一群小鬼潜入暴风城，在法师塔的墙上到处涂鸦，比如写上一些“拉格纳罗斯最厉害！”之类的标语。
+   </flavor>
+   <howtoget>
+    在击败熔火之心的管理者埃克索图斯后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败熔火之心的管理者埃克索图斯后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    +3/+3。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    巨型龙爪
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    干杯！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+从你的牌库中将两个随从置入战场；从对手的牌库中将一个随从置入战场。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    干杯！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+从双方的牌库中各将一个随从置入战场。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    强势围观
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个1/1并具有&lt;b&gt;嘲讽&lt;/b&gt;的观众。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    强势围观
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个1/1并具有&lt;b&gt;嘲讽&lt;/b&gt;的观众。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    快速射击
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    造成$3点伤害。
+如果你没有其他手牌，则抽一张牌。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    光有神射手还不够，你需要一个神抽手。
+   </flavor>
+   <howtoget>
+    在完成黑石山的猎人职业挑战后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在完成黑石山的猎人职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    恐怖的奴隶主
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    每当该随从受到伤害并没有死亡，召唤另一个恐怖的奴隶主。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    如果你喜欢自己脸被打肿的样子，就请来到黑铁酒吧！
+   </flavor>
+   <howtoget>
+    在通过黑石深渊的黑铁酒吧后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在通过黑石深渊的黑铁酒吧后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    恶魔之怒
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    对所有非恶魔随从造成$2点伤害。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    恶魔在绝大多数时候都不太愤怒，他们只是觉得在愤怒的时候，他们的模样会更加帅气。
+   </flavor>
+   <howtoget>
+    在完成黑石山的术士职业挑战后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在完成黑石山的术士职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    攻击力增加。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    我听见你了……
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    打开大门
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤三个2/2的雏龙。获得另一个英雄技能。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    打开大门
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤三个1/1的雏龙。获得另一个英雄技能。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    扫尾
+   </name>
+   <text>
+    造成$4点伤害。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    拉佐格尔之爪
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    每当一个腐化的蛋死亡，便获得+1攻击力。
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    掷斧者
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    每当该随从受到伤害时，对敌方英雄造成2点伤害。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    曾经他只是一个“掷棍者”，但随着他的技艺不断提高，他正踏上追寻梦想的道路：“掷牛头人者”。
+   </flavor>
+   <howtoget>
+    在完成黑石山的战士职业挑战后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在完成黑石山的战士职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    搞定他们!
+   </name>
+   <text>
+    召唤四个1/1并具有&lt;b&gt;嘲讽&lt;/b&gt;的矮人。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    无可束缚
+   </name>
+   <text>
+    你的下一张龙牌的法力值消耗减少（2）点。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    旧部落
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤两个2/2并具有&lt;b&gt;嘲讽&lt;/b&gt;的兽人。获得另一个英雄技能。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    旧部落
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤两个1/1并具有&lt;b&gt;嘲讽&lt;/b&gt;的兽人。获得另一个英雄技能。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    旧部落兽人
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    旧部落兽人
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <text>
+    生命值增加。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    暮光坚韧
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    暮光雏龙
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的手牌中有龙牌，便获得+2生命值。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    当听见要和一群吸血鬼一起拍电视剧时，这些雏龙们都非常高兴，尽管最后它们的戏份都被删减了。
+   </flavor>
+   <howtoget>
+    在完成黑石山的牧师职业挑战后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在完成黑石山的牧师职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    欧莫克大王
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    欧莫克大王
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    死吧，你们这些卑鄙的家伙！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+对一个随机敌人造成8点伤害。施放两次。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    死吧，你这卑鄙的家伙！
+   </name>
+   <text>
+    对一个随机敌人造成$8点伤害。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    死吧，你这卑鄙的家伙！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+对一个随机敌人造成8点伤害。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    活体炸弹
+   </name>
+   <text>
+    选择一个敌方随从。在你的下个回合开始时，如果该随从依然存活，则对所有敌人造成$5点伤害。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <text>
+    在迦顿的回合开始时，对你的所有随从和英雄造成5点伤害。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    活体炸弹
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    活体炸弹
+   </name>
+   <text>
+    选择一个敌方随从。在你的下个回合开始时，如果该随从依然存活，则对所有敌人造成$10点伤害。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    在迦顿的回合开始时，对你的所有角色造成10点伤害。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    活体炸弹
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    活体熔岩
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机激活一个金刚。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活！
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机激活一个金刚。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活剧毒金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活剧毒金刚！
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活剧毒金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活剧毒金刚！
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活奥能金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活奥能金刚！
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活奥能金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活奥能金刚！
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活熔岩金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活熔岩金刚！
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活熔岩金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活熔岩金刚！
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活电荷金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活电荷金刚！
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    激活电荷金刚
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+激活电荷金刚！
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火妖
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    每当你使用一个法术，便造成2点伤害，随机分配到所有敌人身上。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    他们深居于炎热的洞窟之中，听候管理者的命令：消灭一切胆敢打扰炎魔之王的敌人。
+   </flavor>
+   <howtoget>
+    在击败黑翼之巢的瓦拉斯塔兹后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑翼之巢的瓦拉斯塔兹后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火妖卫士
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火妖卫士
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火妖管理者
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个3/3的火妖卫士。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火妖管理者
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个1/3的火妖卫士。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火山幼龙
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    火山幼龙喷吐的是熔岩而不是火焰。瑟银哨塔的抗酸剂小贩靠这个赚了不少钱。
+   </flavor>
+   <howtoget>
+    在击败秘密实验室的全能金刚防御系统后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败秘密实验室的全能金刚防御系统后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火山邪木
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    树根，树根，树根着火了！
+   </flavor>
+   <howtoget>
+    在完成黑石山的德鲁伊职业挑战后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在完成黑石山的德鲁伊职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火焰猎豹形态
+   </name>
+   <text>
+    变形成为5/2的随从。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火焰驱逐者
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;获得1-4点攻击力。&lt;b&gt;过载：&lt;/b&gt;（1）
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    很多火元素竞相面试“火焰驱逐者”的职位，但拉格纳罗斯认为只有极少数火元素能够胜任。
+   </flavor>
+   <howtoget>
+    在击败黑翼之巢的维克多·奈法里奥斯后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑翼之巢的维克多·奈法里奥斯后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火誓者
+   </name>
+   <text>
+    &lt;b&gt;亡语：&lt;/b&gt;在本回合中每死亡一个火誓者，便对敌方英雄造成1点伤害。
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火誓者
+   </name>
+   <text>
+    &lt;b&gt;亡语：&lt;/b&gt;在本回合中每死亡一个火誓者，便对敌方英雄造成3点伤害。
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    火鹰形态
+   </name>
+   <text>
+    变形成为2/5的随从。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    灰烬漩涡
+   </name>
+   <text>
+    &lt;b&gt;风怒&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    炎魔之王拉格纳罗斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    炎魔之王拉格纳罗斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    炎魔之王拉格纳罗斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    炎魔之王拉格纳罗斯
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    炎魔之王的力量
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+造成30点伤害。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    点燃法力
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+如果敌方英雄有任何未使用的法力水晶，便对其造成10点伤害。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    点燃法力
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+如果敌方英雄有任何未使用的法力水晶，便对其造成5点伤害。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;被动英雄技能&lt;/b&gt;
+使所有随从的攻击力和生命值互换。
+你的随从获得+2/+2。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    炼金师
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;被动英雄技能&lt;/b&gt;
+每当随从被召唤时，随从的攻击力和生命值将被互换。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    炼金师
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    烈焰之子
+   </name>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;造成6点伤害。
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    烈焰之心
+   </name>
+   <text>
+    抽两张牌。
+获得4点护甲值。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    烈焰德鲁伊
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    烈焰德鲁伊
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;抉择：&lt;/b&gt;将该随从变形成为5/2；或者将该随从变形成为2/5。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    这些德鲁伊们在诺森德战斗了很久，所以特别容易受到拉格纳罗斯的引诱；一杯热腾腾的巧克力就能让他们就范。
+   </flavor>
+   <howtoget>
+    在击败熔火之心的加尔后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败熔火之心的加尔后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    烈焰德鲁伊
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔化
+   </name>
+   <text>
+    在本回合中，攻击力变为0点。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔喉
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩！
+   </name>
+   <text>
+    对所有随从造成$2点伤害。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩脉动
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+对所有随从造成1点伤害。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩金刚
+   </name>
+   <text>
+    每当一个玩家使用一张牌时，熔岩金刚便对其造成2点伤害。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩金刚
+   </name>
+   <text>
+    每当一个玩家使用一张牌时，熔岩金刚便对其造成2点伤害。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩震击
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    造成$2点伤害。
+将你所有&lt;b&gt;过载&lt;/b&gt;的法力水晶解锁。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    比熔岩震击更震撼的是热巧克力震击。
+   </flavor>
+   <howtoget>
+    在完成黑石山的萨满祭司职业挑战后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在完成黑石山的萨满祭司职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔岩震击
+   </name>
+   <text>
+    所有在本回合中使用的牌不会造成&lt;b&gt;过载&lt;/b&gt;。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    熔火怒犬
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你没有其他手牌，则获得+3/+3。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    有些猎人就是喜欢稀奇古怪的宠物，比如深入炎热无比的熔岩坑，哄骗一头在那里长大的野兽跟他回家，还要乖乖地和其他宠物呆在兽栏里……
+   </flavor>
+   <howtoget>
+    在击败黑石塔的欧莫克大王后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑石塔的欧莫克大王后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    燃烧刺激
+   </name>
+   <text>
+    对敌方英雄造成$2点伤害。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    狂暴怒意
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    狂野的拉佐格尔
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    狂野的拉佐格尔
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    狂野魔法
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机将一个属于你的对手职业的法术牌加入你的手中。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    狂野魔法
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机将一个属于你的对手职业的法术牌加入你的手中。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;被动英雄技能&lt;/b&gt;
+所有卡牌法力值消耗改为（1）点。你最多只能拥有两个法力水晶，你的对手最多只能拥有一个法力水晶。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    猛烈凝视
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;被动英雄技能&lt;/b&gt;
+所有卡牌的法力值消耗改为（1）点。玩家最多只能拥有一个法力水晶。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    猛烈凝视
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    猛砸
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机消灭一个受伤的敌方随从。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    猛砸
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+随机消灭一个敌方随从。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    电荷金刚
+   </name>
+   <text>
+    所有法术的法力值消耗减少（3）点。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    电荷金刚
+   </name>
+   <text>
+    所有法术的法力值消耗减少（3）点。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    畸变怪
+   </name>
+   <text>
+    &lt;b&gt;冲锋&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    白骨爪牙
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤两个4/2的白骨结构体。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    白骨爪牙
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤两个2/1的白骨结构体。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    白骨魔像
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    白骨魔像
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    盖斯
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    盖斯
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <text>
+    攻击力增加。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    盲目怒火
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    真正形态
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+游戏开始！
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    真正形态
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+游戏开始！
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    真正的酋长
+   </name>
+   <text>
+    消灭一个传说随从
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <text>
+    攻击力增加。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    着火了！
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    砸烂
+   </name>
+   <text>
+    对一个随机敌人造成$5点伤害。获得5点护甲值。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    科林·烈酒
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    科林·烈酒
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    管理者埃克索图斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    管理者埃克索图斯
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    管理者埃克索图斯
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;亡语：&lt;/b&gt;用炎魔之王拉格纳罗斯替换你的英雄。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    你觉得是埃克索图斯把你变成了拉格纳罗斯，但其实，拉格纳罗斯就在你心中。
+   </flavor>
+   <howtoget>
+    在击败熔火之心的所有首领后解锁。
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    在击败熔火之心的所有首领后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    索瑞森大帝
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    在你的回合结束时，你所有手牌的法力值消耗减少（1）点。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    把一个邪恶的炎魔之王召唤到这个世界上，然后看着这个家伙奴役了他所有的子民并非是他最为后悔的事情。
+   </flavor>
+   <howtoget>
+    在击败黑石深渊的所有首领后解锁。
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    在击败黑石深渊的所有首领后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    索瑞森大帝
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    索瑞森大帝
+   </name>
+  </item>
+  <item>
+   <text>
+    法力值消耗减少（1）点。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    索瑞森大帝的眷顾
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    红龙精华
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+每个玩家抽两张牌。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    红龙精华
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+每个玩家抽三张牌并获得一个法力水晶。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    维克多·奈法里奥斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    维克多·奈法里奥斯
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    群居雏龙
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+使所有腐化的蛋获得+1生命值，并召唤一个腐化的蛋。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    腐化的蛋
+   </name>
+   <text>
+    当该随从的生命值大于或等于4时，它便会孵化。
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    腐化的蛋
+   </name>
+   <text>
+    当该随从的生命值大于或等于5时，它便会孵化。
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    艾卓曼德斯
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    艾卓曼德斯
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    茉艾拉·铜须
+   </name>
+   <text>
+    索瑞森无法使用他的英雄技能。
+不攻击随从，除了具有&lt;b&gt;嘲讽&lt;/b&gt;的随从。
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    茉艾拉·铜须
+   </name>
+   <text>
+    索瑞森无法使用他的英雄技能。
+不攻击随从，除了具有&lt;b&gt;嘲讽&lt;/b&gt;的随从。
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    裁决者格里斯通
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    裁决者格里斯通
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    跃下坐骑
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤盖斯。获得另一个英雄技能。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    跃下坐骑
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤盖斯。获得另一个英雄技能。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    达基萨斯将军
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    达基萨斯将军
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    达基萨斯的命令
+   </name>
+   <text>
+    消灭一个随从。获得10点护甲值。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    迦顿男爵
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    迦顿男爵
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    酒吧醉汉
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    释放畸变怪！
+   </name>
+   <text>
+    召唤3个畸变怪。
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    雏龙
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    雏龙
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    雏龙
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    雏龙孵化
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+使所有腐化的蛋获得+1生命值，并召唤一个腐化的蛋。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    雷德·黑手
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的手牌中有龙牌，则消灭一个&lt;b&gt;传说&lt;/b&gt;随从。
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    雷德坚持认为自己才是部落真正的领袖。于是他登陆某百科网站，修改了“部落酋长”词条，加入了他自己的照片。
+   </flavor>
+   <howtoget>
+    在击败黑石塔的所有首领后解锁。
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    在击败黑石塔的所有首领后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    雷德·黑手
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    雷德·黑手
+   </name>
+  </item>
+  <item>
+   <text>
+    +3攻击力。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    音波吐息
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    音波吐息
+   </name>
+   <text>
+    对一个随从造成$3点伤害。使你的武器获得+3攻击力。
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    饥饿的巨龙
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;为你的对手随机召唤一个法力值消耗为（1）点的随从。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    它其实不太愿意吃1点法力值召唤出来的随从，那些肉都不够它塞牙缝的。
+   </flavor>
+   <howtoget>
+    在击败黑翼之巢的克洛玛古斯后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑翼之巢的克洛玛古斯后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    马洛拉克
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    马洛拉克
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑翼
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个3/1的龙人。获得另一个英雄技能。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑翼
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+召唤一个5/4的龙人。获得另一个英雄技能。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑翼技师
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的手牌中有龙牌，便获得+1/+1。
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    黑翼技师不仅承担所有黑翼之巢的机械维护工作，还会为成为会员的龙进行推拿和按摩。
+   </flavor>
+   <howtoget>
+    在击败熔火之心的迦顿男爵后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败熔火之心的迦顿男爵后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑翼腐蚀者
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的手牌中有龙牌，则造成3点伤害。
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    当他把几本漫画书和几张摇滚碟片带回黑石山的时候，他就获得了“腐蚀者”的称号。
+   </flavor>
+   <howtoget>
+    在击败秘密实验室的马洛拉克后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败秘密实验室的马洛拉克后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑色雏龙
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑铁保镖
+   </name>
+   <text>
+    黑铁保镖总是会赢得绝命乱斗的胜利。
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑铁潜藏者
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;对所有未受伤的敌方随从造成2点伤害。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    他最喜欢在不为人知的地方躲起来。所以他的朋友们经常会很担心，害怕他一不小心掉进岩浆里了。
+   </flavor>
+   <howtoget>
+    在完成黑石山的潜行者职业挑战后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在完成黑石山的潜行者职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑铁观众
+   </name>
+   <text>
+    &lt;b&gt;嘲讽&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑龙吐息
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+奈法利安从空中喷吐火焰！
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    黑龙吐息
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+奈法利安从空中喷吐火焰！
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙人
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙人
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <text>
+    属性值提高。
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    龙人之力
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙人巫师
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    每当你以该随从为目标使用一个法术时，便获得+1/+1。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    当龙人巫师向大家说道：“我来给大家变个戏法”的时候，大家都走开了，因为没人要看他从龙变成人的把戏。
+   </flavor>
+   <howtoget>
+    在击败秘密实验室的奈法利安后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败秘密实验室的奈法利安后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙人打击者
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;如果你的对手的生命值小于或等于15点，便获得+3/+3。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    不要问龙人任何问题。因为他们的答案肯定是：“就不告诉你，就不告诉你……”
+   </flavor>
+   <howtoget>
+    在击败秘密实验室的艾卓曼德斯后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败秘密实验室的艾卓曼德斯后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙卵
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    每当该随从受到伤害时，便召唤一只2/1的雏龙。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    究竟是先有龙，还是先有龙卵？
+   </flavor>
+   <howtoget>
+    在击败黑石塔的雷德·黑手后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑石塔的雷德·黑手后能够制作。
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙息之力
+   </name>
+   <text>
+    在本回合中，法力值消耗减少（3）点。
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙息术
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    造成$4点伤害。在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    大家都知道龙能够喷吐火焰，但你知道其实它们也能喷吐棉花糖吗？只是通常来说，它们缺少一个喷吐棉花糖的理由而已。
+   </flavor>
+   <howtoget>
+    在完成黑石山的法师职业挑战后解锁。
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    在完成黑石山的法师职业挑战后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙牙
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    每当你的对手使用一张牌时，便获得+1攻击力。
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙王配偶
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;战吼：&lt;/b&gt;你的下一张龙牌的法力值消耗减少（2）点。
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    我们所有生物都需要生命中的另一半。即便是巨大的、浑身长满鳞片的、狂野而致命的龙，也是如此。
+   </flavor>
+   <howtoget>
+    在击败黑石塔的达基萨斯将军后解锁。
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    在击败黑石塔的达基萨斯将军后能够制作。
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    龙血
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+在你的回合结束时，将一张龙血之痛牌加入你的对手的手牌。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛
+   </name>
+   <text>
+    &lt;b&gt;英雄技能&lt;/b&gt;
+在你的回合结束时，将一张龙血之痛牌加入你的对手的手牌。
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：红
+   </name>
+   <text>
+    如果这张牌在你的手牌中，在你的回合开始时，你的英雄受到3点伤害。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：红
+   </name>
+   <text>
+    如果这张牌在你的手牌中，在你的回合开始时，你的英雄受到1点伤害。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：绿
+   </name>
+   <text>
+    如果这张牌在你的手牌中，在你的回合开始时，敌方英雄恢复6点生命值。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：绿
+   </name>
+   <text>
+    如果这张牌在你的手牌中，在你的回合开始时，敌方英雄恢复2点生命值。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：蓝
+   </name>
+   <text>
+    如果这张牌在你的手牌中，克鲁玛古斯的法术的法力值消耗就减少（1）点。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：蓝
+   </name>
+   <text>
+    如果这张牌在你的手牌中，克鲁玛古斯的法术的法力值消耗就减少（3）点。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：青铜
+   </name>
+   <text>
+    如果这张牌在你的手牌中，克鲁玛古斯的随从的法力值消耗就减少（1）点。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：青铜
+   </name>
+   <text>
+    如果这张牌在你的手牌中，克鲁玛古斯的随从的法力值消耗就减少（3）点。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：黑
+   </name>
+   <text>
+    如果这张牌在你的手牌中，每当克洛玛古斯抽牌时，复制该牌，并将其置入克洛玛古斯手中。
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    龙血之痛：黑
+   </name>
+   <text>
+    如果这张牌在你的手牌中，每当克洛玛古斯抽牌时，复制该牌，并将其置入克洛玛古斯手中。
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <set>
@@ -22000,7 +27617,7 @@
     Neutral
    </faction>
    <text>
-    造成$3点伤害，随机分配给敌方角色。
+    造成$3点伤害，随机分配到所有敌人身上。
    </text>
    <artist>
     Warren Mahy
@@ -25600,7 +31217,7 @@
     Luca Zontini
    </artist>
    <text>
-    对所有敌方角色造成$2点伤害，为所有友方角色恢复#2点生命值。
+    对所有敌人造成$2点伤害，为所有友方角色恢复#2点生命值。
    </text>
    <faction>
     Neutral
@@ -28255,17 +33872,22 @@
    <set>
     Debug
    </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
    <type>
     Spell
    </type>
    <id>
-    XXX_028
+    XXX_030
    </id>
-   <name>
-   </name>
-   <rarity>
-    Common
-   </rarity>
   </item>
   <item>
    <mechanics>
@@ -28856,6 +34478,40 @@
    </name>
   </item>
   <item>
+   <set>
+    Debug
+   </set>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_028
+   </id>
+   <name>
+   </name>
+   <rarity>
+    Common
+   </rarity>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_029
+   </id>
+  </item>
+  <item>
    <mechanics>
     <item>
      ImmuneToSpellpower
@@ -28879,45 +34535,6 @@
    </type>
    <id>
     XXX_002
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_029
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_030
    </id>
   </item>
   <item>
@@ -29329,6 +34946,83 @@
    </type>
    <id>
     XXX_057
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
    </id>
   </item>
   <item>
@@ -30250,7 +35944,7 @@
     侏儒实验技师
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;战吼：&lt;/b&gt;抽一张牌，如果该牌是随从牌，则将其变形成为一只小鸡。
@@ -31005,7 +36699,7 @@
     Mech
    </race>
    <flavor>
-    当某个零部件对某个机器人不在有用时，它可能会使另一个机器人焕然一新。
+    当某个零部件对某个机器人不再有用时，它可能会使另一个机器人焕然一新。
    </flavor>
    <type>
     Minion
@@ -31070,7 +36764,7 @@
     地精工兵
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     如果你的对手的手牌数量等于或大于6张，便具有+4攻击力。
@@ -31116,7 +36810,7 @@
     Glenn Rane
    </artist>
    <text>
-    &lt;b&gt;战吼：&lt;/b&gt;如果你控制任何机械，则造成4点伤害，随机分配于敌人身上。
+    &lt;b&gt;战吼：&lt;/b&gt;如果你控制任何机械，则造成4点伤害，随机分配到所有敌人身上。
    </text>
    <rarity>
     Rare
@@ -31807,7 +37501,7 @@
     废旧螺栓机甲
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;战吼：&lt;/b&gt;使一个友方机械获得+2/+2。
@@ -32902,7 +38596,7 @@
     Chris Rahn
    </artist>
    <text>
-    &lt;b&gt;抉择：&lt;/b&gt;使每个玩家获得1个法力水晶；或每个玩家抽一张牌。
+    &lt;b&gt;抉择：&lt;/b&gt;使每个玩家获得一个法力水晶；或每个玩家抽一张牌。
    </text>
    <rarity>
     Rare
@@ -34447,7 +40141,7 @@
     Jakub Kasper
    </artist>
    <text>
-    &lt;b&gt;战吼：&lt;/b&gt;随机控制一个敌方的&lt;b&gt;奥秘&lt;/b&gt;。
+    &lt;b&gt;战吼：&lt;/b&gt;随机获得一个敌方&lt;b&gt;奥秘&lt;/b&gt;的控制权。
    </text>
    <rarity>
     Rare
@@ -34754,7 +40448,7 @@
     老式治疗机器人
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;战吼：&lt;/b&gt;为你的英雄恢复8点生命值。
@@ -36401,7 +42095,7 @@
     &lt;b&gt;战吼：&lt;/b&gt;使一个随机友方随从获得&lt;b&gt;圣盾&lt;/b&gt;和&lt;b&gt;嘲讽&lt;/b&gt;。
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic

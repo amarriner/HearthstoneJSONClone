@@ -4,17 +4,22 @@
   <set>
    Debug
   </set>
+  <name>
+  </name>
+  <text>
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
   <type>
    Spell
   </type>
   <id>
-   XXX_028
+   XXX_030
   </id>
-  <rarity>
-   Common
-  </rarity>
-  <name>
-  </name>
  </item>
  <item>
   <mechanics>
@@ -605,6 +610,40 @@
   </name>
  </item>
  <item>
+  <set>
+   Debug
+  </set>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_028
+  </id>
+  <rarity>
+   Common
+  </rarity>
+  <name>
+  </name>
+ </item>
+ <item>
+  <set>
+   Debug
+  </set>
+  <name>
+  </name>
+  <text>
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_029
+  </id>
+ </item>
+ <item>
   <mechanics>
    <item>
     ImmuneToSpellpower
@@ -628,45 +667,6 @@
   </type>
   <id>
    XXX_002
-  </id>
- </item>
- <item>
-  <set>
-   Debug
-  </set>
-  <name>
-  </name>
-  <text>
-  </text>
-  <cost>
-   0
-  </cost>
-  <type>
-   Spell
-  </type>
-  <id>
-   XXX_029
-  </id>
- </item>
- <item>
-  <set>
-   Debug
-  </set>
-  <name>
-  </name>
-  <text>
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
-  <type>
-   Spell
-  </type>
-  <id>
-   XXX_030
   </id>
  </item>
  <item>
@@ -1078,6 +1078,83 @@
   </type>
   <id>
    XXX_057
+  </id>
+ </item>
+ <item>
+  <set>
+   Debug
+  </set>
+  <name>
+  </name>
+  <text>
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_058
+  </id>
+ </item>
+ <item>
+  <text>
+  </text>
+  <set>
+   Debug
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   XXX_058e
+  </id>
+  <name>
+  </name>
+ </item>
+ <item>
+  <set>
+   Debug
+  </set>
+  <name>
+  </name>
+  <text>
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_059
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Debug
+  </set>
+  <name>
+  </name>
+  <text>
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   XXX_060
   </id>
  </item>
  <item>

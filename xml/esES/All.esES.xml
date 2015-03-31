@@ -1250,23 +1250,6 @@ Invoca un infernal 6/6.
    </id>
   </item>
   <item>
-   <text>
-    +1 p. de durabilidad.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    Afilada
-   </name>
-  </item>
-  <item>
    <mechanics>
     <item>
      Combo
@@ -1475,6 +1458,26 @@ Invoca un infernal 6/6.
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Alma del bosque
+   </name>
+   <text>
+    Último aliento: Invoca a un antárbol 2/2.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -1507,26 +1510,6 @@ Invoca un infernal 6/6.
    </type>
    <id>
     EX1_158
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Alma del bosque
-   </name>
-   <text>
-    Último aliento: Invoca a un antárbol 2/2.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -2694,26 +2677,6 @@ Invoca un infernal 6/6.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Bendición de sabiduría
-   </name>
-   <text>
-    Cada vez que este esbirro ataca, el jugador que lo ha bendecido roba una carta.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_363e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -2743,6 +2706,26 @@ Invoca un infernal 6/6.
    </type>
    <id>
     EX1_363
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Bendición de sabiduría
+   </name>
+   <text>
+    Cada vez que este esbirro ataca, el jugador que lo ha bendecido roba una carta.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_363e
    </id>
    <playerclass>
     Paladin
@@ -3924,52 +3907,6 @@ Invoca un infernal 6/6.
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Cólera
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Inflige $1 p. de daño a un esbirro. Roba una carta.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_154b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Cólera
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Inflige $3 p. de daño a un esbirro.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_154a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -4008,28 +3945,49 @@ Invoca un infernal 6/6.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
    <set>
     Classic
    </set>
    <name>
-    Cólera de las bestias
+    Cólera
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
-    +2 p. de ataque e &lt;b&gt;Inmune&lt;/b&gt; este turno.
+    Inflige $3 p. de daño a un esbirro.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_549o
+    EX1_154a
    </id>
    <playerclass>
-    Hunter
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Cólera
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Inflige $1 p. de daño a un esbirro. Roba una carta.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_154b
+   </id>
+   <playerclass>
+    Druid
    </playerclass>
   </item>
   <item>
@@ -4065,6 +4023,31 @@ Invoca un infernal 6/6.
    </type>
    <id>
     EX1_549
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Cólera de las bestias
+   </name>
+   <text>
+    +2 p. de ataque e &lt;b&gt;Inmune&lt;/b&gt; este turno.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_549o
    </id>
    <playerclass>
     Hunter
@@ -4127,7 +4110,7 @@ Invoca un infernal 6/6.
     Neutral
    </faction>
    <text>
-    Inflige $8 p. de daño, divididos aleatoriamente entre los personajes enemigos.
+    Inflige $8 p. de daño que se dividen aleatoriamente entre todos los enemigos.
    </text>
    <artist>
     Alex Garner
@@ -4770,6 +4753,26 @@ Invoca un infernal 6/6.
    </type>
    <id>
     EX1_334
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Demencia oscura
+   </name>
+   <text>
+    Este esbirro ha cambiado de dueño este turno.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_334e
    </id>
    <playerclass>
     Priest
@@ -5692,6 +5695,46 @@ Inflige 3 p. de daño.
    </id>
   </item>
   <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Druida de la Zarpa
+   </name>
+   <text>
+    &lt;b&gt;Cargar&lt;/b&gt;
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_165t1
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -5770,46 +5813,6 @@ Inflige 3 p. de daño.
    </type>
    <id>
     EX1_165t2
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Charge
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Druida de la Zarpa
-   </name>
-   <text>
-    &lt;b&gt;Cargar&lt;/b&gt;
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <attack>
-    4
-   </attack>
-   <cost>
-    5
-   </cost>
-   <health>
-    4
-   </health>
-   <race>
-    Beast
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_165t1
    </id>
    <playerclass>
     Druid
@@ -6311,17 +6314,14 @@ Inflige 3 p. de daño.
    <name>
     Enraizado
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
     +5 p. de salud y &lt;b&gt;Provocar&lt;/b&gt;.
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_178a
+    EX1_178ae
    </id>
    <playerclass>
     Druid
@@ -6334,14 +6334,17 @@ Inflige 3 p. de daño.
    <name>
     Enraizado
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
     +5 p. de salud y &lt;b&gt;Provocar&lt;/b&gt;.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_178ae
+    EX1_178a
    </id>
    <playerclass>
     Druid
@@ -7137,6 +7140,26 @@ Inflige 3 p. de daño.
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Fuego interno
+   </name>
+   <text>
+    El ataque de este esbirro es igual a su salud.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS1_129e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -7169,26 +7192,6 @@ Inflige 3 p. de daño.
    </type>
    <id>
     CS1_129
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Fuego interno
-   </name>
-   <text>
-    El ataque de este esbirro es igual a su salud.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS1_129e
    </id>
    <playerclass>
     Priest
@@ -7765,6 +7768,41 @@ Inflige 3 p. de daño.
    </name>
   </item>
   <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Classic
+   </set>
+   <name>
+    Grito de orden
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    La salud de tus esbirros no puede bajar de 1 p. este turno. Roba una carta.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <flavor>
+    "¡NO TE OIGO!" - Instructor de guerreros
+   </flavor>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_036
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      OneTurnEffect
@@ -7809,41 +7847,6 @@ Inflige 3 p. de daño.
    </type>
    <id>
     NEW1_036e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <collectible>
-    True
-   </collectible>
-   <set>
-    Classic
-   </set>
-   <name>
-    Grito de orden
-   </name>
-   <artist>
-    Wayne Reynolds
-   </artist>
-   <text>
-    La salud de tus esbirros no puede bajar de 1 p. este turno. Roba una carta.
-   </text>
-   <rarity>
-    Rare
-   </rarity>
-   <cost>
-    2
-   </cost>
-   <flavor>
-    "¡NO TE OIGO!" - Instructor de guerreros
-   </flavor>
-   <type>
-    Spell
-   </type>
-   <id>
-    NEW1_036
    </id>
    <playerclass>
     Warrior
@@ -9005,6 +9008,26 @@ Inflige 3 p. de daño.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Ira interna
+   </name>
+   <text>
+    +2 p. de ataque.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_607e
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -9037,26 +9060,6 @@ Inflige 3 p. de daño.
    </type>
    <id>
     EX1_607
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Ira interna
-   </name>
-   <text>
-    +2 p. de ataque.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_607e
    </id>
    <playerclass>
     Warrior
@@ -9478,14 +9481,17 @@ Inflige 3 p. de daño.
    <name>
     Líder de la manada
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
-    +1/+1
+    Otorga +1/+1 a tus esbirros.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_160be
+    EX1_160b
    </id>
    <playerclass>
     Druid
@@ -9498,17 +9504,14 @@ Inflige 3 p. de daño.
    <name>
     Líder de la manada
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    Otorga +1/+1 a tus esbirros.
+    +1/+1
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_160b
+    EX1_160be
    </id>
    <playerclass>
     Druid
@@ -9601,26 +9604,6 @@ Inflige 3 p. de daño.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Lluvia de estrellas
-   </name>
-   <text>
-    Inflige $2 p. de daño a todos los esbirros enemigos.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    NEW1_007a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -9650,6 +9633,26 @@ Inflige 3 p. de daño.
    </type>
    <id>
     NEW1_007
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Lluvia de estrellas
+   </name>
+   <text>
+    Inflige $2 p. de daño a todos los esbirros enemigos.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007a
    </id>
    <playerclass>
     Druid
@@ -10483,6 +10486,26 @@ Inflige 3 p. de daño.
    <name>
     Marca de la Naturaleza
    </name>
+   <text>
+    Este esbirro tiene +4 p. de salud y &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155be
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Marca de la Naturaleza
+   </name>
    <faction>
     Neutral
    </faction>
@@ -10494,6 +10517,26 @@ Inflige 3 p. de daño.
    </type>
    <id>
     EX1_155a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Marca de la Naturaleza
+   </name>
+   <text>
+    Este esbirro tiene +4 p. de ataque.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155ae
    </id>
    <playerclass>
     Druid
@@ -10555,46 +10598,6 @@ Inflige 3 p. de daño.
    </type>
    <id>
     EX1_155b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Marca de la Naturaleza
-   </name>
-   <text>
-    Este esbirro tiene +4 p. de salud y &lt;b&gt;Provocar&lt;/b&gt;.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155be
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Marca de la Naturaleza
-   </name>
-   <text>
-    Este esbirro tiene +4 p. de ataque.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155ae
    </id>
    <playerclass>
     Druid
@@ -11154,13 +11157,13 @@ Inflige 3 p. de daño.
     Neutral
    </faction>
    <text>
-    Obtén 2 cristales de maná.
+    Roba 3 cartas.
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_164a
+    EX1_164b
    </id>
    <playerclass>
     Druid
@@ -11177,13 +11180,13 @@ Inflige 3 p. de daño.
     Neutral
    </faction>
    <text>
-    Roba 3 cartas.
+    Obtén 2 cristales de maná.
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_164b
+    EX1_164a
    </id>
    <playerclass>
     Druid
@@ -11427,26 +11430,6 @@ Inflige 3 p. de daño.
    </name>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Orden oscura
-   </name>
-   <text>
-    Este esbirro ha cambiado de dueño este turno.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_334e
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Battlecry
@@ -11672,6 +11655,23 @@ Inflige 3 p. de daño.
    </playerclass>
   </item>
   <item>
+   <text>
+    Este esbirro tiene +5/+5, pero se destruirá pronto.
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    DREAM_05e
+   </id>
+   <name>
+    Pesadilla
+   </name>
+  </item>
+  <item>
    <set>
     Classic
    </set>
@@ -11693,23 +11693,6 @@ Inflige 3 p. de daño.
    <playerclass>
     Dream
    </playerclass>
-  </item>
-  <item>
-   <text>
-    Este esbirro tiene +5/+5, pero se destruirá pronto.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    DREAM_05e
-   </id>
-   <name>
-    Pesadilla
-   </name>
   </item>
   <item>
    <collectible>
@@ -11788,23 +11771,6 @@ Inflige 3 p. de daño.
    </id>
   </item>
   <item>
-   <text>
-    Tiene +1/+1.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_014te
-   </id>
-   <name>
-    Plátanos
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -11823,6 +11789,23 @@ Inflige 3 p. de daño.
    <id>
     EX1_014t
    </id>
+  </item>
+  <item>
+   <text>
+    Tiene +1/+1.
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_014te
+   </id>
+   <name>
+    Plátanos
+   </name>
   </item>
   <item>
    <collectible>
@@ -12180,31 +12163,6 @@ Inflige 3 p. de daño.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Preparación
-   </name>
-   <text>
-    El próximo hechizo que lances este turno costará (3) cristales menos.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_145o
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -12237,6 +12195,31 @@ Inflige 3 p. de daño.
    </type>
    <id>
     EX1_145
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Preparación
+   </name>
+   <text>
+    El próximo hechizo que lances este turno costará (3) cristales menos.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_145o
    </id>
    <playerclass>
     Rogue
@@ -13099,31 +13082,6 @@ Inflige 2 p. de daño.
   <item>
    <mechanics>
     <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Rugido desmoralizador
-   </name>
-   <text>
-    Este esbirro tiene -3 p. de ataque este turno.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
      Aura
     </item>
    </mechanics>
@@ -13347,26 +13305,6 @@ Inflige 2 p. de daño.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Sangre fría
-   </name>
-   <text>
-    +4 p. de ataque.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_073e2
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Combo
@@ -13404,6 +13342,26 @@ Inflige 2 p. de daño.
    </type>
    <id>
     CS2_073
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Sangre fría
+   </name>
+   <text>
+    +4 p. de ataque.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_073e2
    </id>
    <playerclass>
     Rogue
@@ -15004,7 +14962,7 @@ Inflige 2 p. de daño.
     Neutral
    </faction>
    <text>
-    Al final de tu turno, roba una carta de sueño.
+    Al final de tu turno, añade una carta de sueño a tu mano.
    </text>
    <artist>
     Gabor Szikszai
@@ -16260,7 +16218,7 @@ Cambia la salud de todos los esbirros a 1 p.
     FP1_028
    </id>
    <flavor>
-    "Hazte enterrador",  dijeron. "Tendrás mucho trabajo",  dijeron. Maldito Ángel de la Resurrección...
+    "Hazte enterrador", dijeron. "Tendrás mucho trabajo", dijeron. Maldito Ángel de la Resurrección...
    </flavor>
    <howtoget>
     Se desbloquea al derrotar a Remendejo en el Arrabal de los Ensamblajes.
@@ -20023,6 +19981,5665 @@ Devuelve dos esbirros enemigos aleatorios a la mano de tu oponente.
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡A por ellos!
+   </name>
+   <text>
+    Invoca cuatro enanos 1/1 con &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Activar!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Activa un "tron" aleatorio.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Activar!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Activa un "tron" aleatorio.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <text>
+    Ataque aumentado.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    ¡Ardiendo!
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Cuantos más, mejor!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Coloca un esbirro de cada mazo en el campo de batalla.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Cuantos más, mejor!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Coloca dos esbirros de tu mazo y uno del mazo de tu oponente en el campo de batalla.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Desencadenado!
+   </name>
+   <text>
+    Tu siguiente dragón cuesta (2) cristales menos.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡LAVA!
+   </name>
+   <text>
+    Inflige $2 p. de daño a todos los esbirros.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Liberad a las aberraciones!
+   </name>
+   <text>
+    Invoca 3 aberraciones.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡MORID, INSECTOS!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 8 p. de daño a un enemigo aleatorio. DOS VECES.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡MUERE, INSECTO!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 8 p. de daño a un enemigo aleatorio.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡MUERE, INSECTO!
+   </name>
+   <text>
+    Inflige $8 p. de daño a un enemigo aleatorio.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Nefarian ataca!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Nefarian lanza fuego desde arriba!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Nefarian ataca!
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Nefarian lanza fuego desde arriba!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Rocas fuera!
+   </name>
+   <text>
+    Invoca 3 jurafuegos. &lt;b&gt;Sobrecarga:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ¡Rocas fuera!
+   </name>
+   <text>
+    Invoca 3 jurafuegos. &lt;b&gt;Sobrecarga:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aberración
+   </name>
+   <text>
+    &lt;b&gt;Cargar&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Abrid las puertas
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a tres crías 1/1. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Abrid las puertas
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a tres crías 2/2. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Abucheos del público
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un espectador 1/1 con &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Abucheos del público
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un espectador 1/1 con &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Acólito despiertallamas
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Acólito despiertallamas
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Arcanotron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Arcanotron!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Arcanotron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Arcanotron!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Electron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Electron!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Electron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Electron!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Magmatron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Magmatron!
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Magmatron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Magmatron!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Toxitron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Toxitron!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activar Toxitron
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Se activa Toxitron!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Adrenalina ardiente
+   </name>
+   <text>
+    Inflige $2 p. de daño al héroe enemigo.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Al final de tu turno, añade una carta de aflicción del linaje a la mano del oponente.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Al final de tu turno, añade una carta de aflicción del linaje a la mano del oponente.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: azul
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, los hechizos de Chromaggus cuestan (3) cristales menos.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: azul
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, los hechizos de Chromaggus cuestan (1) cristal menos.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: bronce
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, los esbirros de Chromaggus cuestan (3) cristales menos.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: bronce
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, los esbirros de Chromaggus cuestan (1) cristal menos.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: negro
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, cada vez que Chromaggus roba una carta, consigue otra copia de la misma.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: negro
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, cada vez que Chromaggus roba una carta, consigue otra copia de la misma.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: rojo
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, recibes 1 p. de daño al comienzo de tu turno.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: rojo
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, recibes 3 p. de daño al comienzo de tu turno.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: verde
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, restaura 2 p. de salud a tu oponente al comienzo de tu turno.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aflicción del linaje: verde
+   </name>
+   <text>
+    Mientras esta carta está en tu mano, restaura 6 p. de salud a tu oponente al comienzo de tu turno.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Alanegra
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un dragonante 5/4. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Alanegra
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un dragonante 3/1. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aliento de dragón
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    Inflige $4 p. de daño. Cuesta (1) cristal menos por cada esbirro que haya muerto este turno.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    Además de expulsar fuego, los dragones también pueden expulsar algodón de azúcar por la boca. Pero no suelen estar de humor para hacerlo.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del mago en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del mago en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    +3 p. de ataque.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    Aliento sónico
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aliento sónico
+   </name>
+   <text>
+    Inflige $3 p. de daño a un esbirro. Otorga +3 p. de ataque a tu arma.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    Alto justiciero Pedrasiniestra
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    Alto justiciero Pedrasiniestra
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    Alto señor Omokk
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    Alto señor Omokk
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Arcanotron
+   </name>
+   <text>
+    Ambos jugadores tienen &lt;b&gt;+2 p. de daño con hechizos&lt;/b&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    Barón Geddon
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    Barón Geddon
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bomba viva
+   </name>
+   <text>
+    Elige a un esbirro enemigo. Si sobrevive hasta tu siguiente turno, inflige $5 p. de daño a todos los enemigos.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <text>
+    Durante el turno de Geddon, inflige 5 p. de daño a todas tus cosas.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    Bomba viva
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bomba viva
+   </name>
+   <text>
+    Elige a un esbirro enemigo. Si sobrevive hasta tu siguiente turno, inflige $10 p. de daño a todos los enemigos.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    Durante el turno de Geddon, inflige 10 p. de daño a todas tus cosas.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    Bomba viva
+   </name>
+  </item>
+  <item>
+   <text>
+    Ataque aumentado.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    Cegado por la ira
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ceniza arremolinada
+   </name>
+   <text>
+    &lt;b&gt;Viento Furioso&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Choque de lava
+   </name>
+   <text>
+    Las cartas que juegues este turno no provocan &lt;b&gt;Sobrecarga&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Choque de lava
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    Inflige $2 p. de daño.
+Desbloquea tus cristales de maná con &lt;b&gt;Sobrecarga&lt;/b&gt;.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    La única lava que merece la pena es la del volcán de chocolate.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del chamán en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del chamán en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    Chromaggus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    Chromaggus
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromaggus
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    Cada vez que robas una carta, pone otra copia en tu mano.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    La cabeza izquierda y la derecha nunca se ponen de acuerdo en qué cenar, así que siempre acaban comiendo ramen.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar la Guarida de Alanegra.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Se puede crear tras completar la Guarida de Alanegra.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cólera demoníaca
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    Inflige $2 p. de daño a todos los esbirros que no sean demonios.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    Los demonios no se enfadan con facilidad. A menos que uses esta carta, entonces sí que se cabrean de verdad.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del brujo en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del brujo en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Colmillos de dragón
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    Cada vez que tu oponente juega una carta, obtiene +1 p. de ataque.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Consorte dragón
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; El siguiente dragón que juegues costará (2) cristales menos.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    Las enormes y terroríficas bestias dracónicas acorazadas también tienen derecho a tener a alguien a quien abrazar por las noches.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al general Drakkisath en la Cumbre de Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al general Drakkisath en la Cumbre de Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Corazón de llamas
+   </name>
+   <text>
+    Roba 2 cartas.
+Obtienes 4 p. de armadura.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    Coren Cerveza Temible
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    Coren Cerveza Temible
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Corruptor Alanegra
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Inflige 3 p. de daño si hay un dragón en tu mano.
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    Recibió ese nombre tras haberle dado a Alanegra unos cuantos cómics y unos discos de rock &amp; roll.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Maloriak en el Laboratorio Secreto.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Maloriak en el Laboratorio Secreto.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cría
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cría
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cría
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cría Crepuscular
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Obtiene +2 p. de salud si hay un dragón en tu mano.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    Las crías crepusculares son básicamente vampiros mágicos... ¡Nada que ver con cierta colección de novelas famosa!
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del sacerdote en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del sacerdote en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Cría negra
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Desmontar
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a Gyth. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Desmontar
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a Gyth. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Despiertallamas
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    Después de que lances un hechizo, inflige 2 p. de daño que se dividen aleatoriamente entre todos los enemigos.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    Los despiertallamas odian que los confundan con caminallamas. Ellos despiertan el fuego, no caminan sobre él. ¡Eso es de LOCOS!
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Vaelastrasz en la Guarida de Alanegra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Vaelastrasz en la Guarida de Alanegra.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Destructor guardia de fuego
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Obtiene 1-4 p. de ataque. &lt;b&gt;Sobrecarga:&lt;/b&gt; (1)
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    Ragnaros entrevista a cientos de elementales de fuego para el puesto de "Destructor", pero muy pocos tienen lo que hay que tener.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Lord Victor Nefarius en la Guarida de Alanegra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Lord Victor Nefarius en la Guarida de Alanegra.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Diablillo
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Disparo presuroso
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    Inflige $3 p. de daño.
+Si tu mano está vacía, roba una carta.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    Han disparó primero.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del cazador en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del cazador en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Draco cromático
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Draco cromático
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Draco volcánico
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    Cuesta (1) cristal menos por cada esbirro que haya muerto este turno.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    Los dracos volcánicos escupen lava en vez de fuego... ¡y el vendedor de antiácido del Puesto del Torio está haciendo su agosto!
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al Sistema de Defensa de Omnitron en el Laboratorio Secreto.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al Sistema de Defensa de Omnitron en el Laboratorio Secreto.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragón hambriento
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Invoca a un esbirro aleatorio de coste 1 para tu oponente.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    Nunca juegues al parchís con un dragón. Se toman demasiado en serio lo de comerse al otro jugador.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Chromaggus en la Guarida de Alanegra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Chromaggus en la Guarida de Alanegra.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonante
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonante
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonante cromático
+   </name>
+   <text>
+    Cada vez que tu oponente lanza un hechizo, obtiene +2/+2.
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    Dragonante cromático
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druida de la Llama
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;Elige una:&lt;/b&gt; Se transforma en un esbirro 5/2, o bien en un esbirro 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    A menudo los confunden con los druidas de la Alpaca.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Garr en el Núcleo de Magma.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Garr en el Núcleo de Magma.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druida de la Llama
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druida de la Llama
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ecolocalizar
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Equipa un arma que crece a medida que tu oponente juega sus cartas.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ecolocalizar
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Equipa un arma que crece a medida que tu oponente juega sus cartas.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Cada vez que se invoca a un esbirro, intercambia su ataque y su salud.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    El alquimista
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Se intercambian el ataque y la salud de los esbirros.
+Tus esbirros tienen +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    El alquimista
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    El auténtico Jefe de Guerra
+   </name>
+   <text>
+    Destruye a un esbirro legendario.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    El Grajero
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Otorga +1 p. de salud a todos los huevos corruptos y luego invoca uno.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    El Grajero
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Otorga +1 p. de salud a todos los huevos corruptos y luego invoca uno.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    El mayordomo
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un acólito despiertallamas 3/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    El mayordomo
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a un acólito despiertallamas 1/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Electron
+   </name>
+   <text>
+    Todos los hechizos cuestan (3) cristales menos.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Electron
+   </name>
+   <text>
+    Todos los hechizos cuestan (3) cristales menos.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    Emperador Thaurissan
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Emperador Thaurissan
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    Al final de tu turno, reduce (1) cristal el coste de las cartas en tu mano.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    La segunda cosa de la que más se arrepiente es haber invocado a un Señor del Fuego malvado que esclavizó a su pueblo.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar las Profundidades de Roca Negra.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Se puede crear tras completar las Profundidades de Roca Negra.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    Emperador Thaurissan
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ensamblaje osario
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ensamblaje osario
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esbirros osarios
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca dos ensamblajes osarios 4/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esbirros osarios
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca dos ensamblajes osarios 2/1.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esencia de lo Rojo
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Cada jugador roba 3 cartas. Obtiene un cristal de maná.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esencia de lo Rojo
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Cada jugador roba 2 cartas.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Espectador Hierro Negro
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Faucemagma
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <text>
+    Cuesta (1) cristal menos.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    Favor imperial
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Flagelo de cola
+   </name>
+   <text>
+    Inflige $4 p. de daño.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Forma de felino de fuego
+   </name>
+   <text>
+    Se transforma en un esbirro 5/2.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Forma de halcón de fuego
+   </name>
+   <text>
+    Se transforma en un esbirro 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Forma verdadera
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Que comiencen los juegos!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Forma verdadera
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+¡Que comiencen los juegos!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Fundir
+   </name>
+   <text>
+    Ataque cambiado a 0 p. este turno.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Furibundo de poder
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Furibundo del Núcleo
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Si tu mano está vacía, obtiene +3/+3.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    Solo un cazador muy especial sería capaz de aventurarse en las profundidades de un foso de lava y convencer al monstruo que allí mora de que vaya a casa con él y se convierta en una adorable mascota.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al alto señor Omokk en la Cumbre de Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al alto señor Omokk en la Cumbre de Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Garra de Onyxia
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Garras de Sangrevaja
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    Cada vez que un huevo corrupto muere, obtiene +1 de ataque.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    General Drakkisath
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    General Drakkisath
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gong resonante
+   </name>
+   <text>
+    Destruye el arma de tu oponente.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <text>
+    +3/+3.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    Grandes garras
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Hechicero dragonante
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    Obtiene +1/+1 cada vez que este esbirro es el objetivo de alguno de tus hechizos.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    Los hechiceros dragonantes siempre con su "Soy un mago" y los demás en plan "¡Mecachis!".
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Nefarian en el Laboratorio Secreto.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Nefarian en el Laboratorio Secreto.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Hijo del fuego
+   </name>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Inflige 6 p. de daño.
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    HORA DE MACHACAR
+   </name>
+   <text>
+    Inflige $5 p. de daño a un enemigo aleatorio. Otorga 5 p. de armadura.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Huevo corrupto
+   </name>
+   <text>
+    Cuando este esbirro tiene 5 p. de salud o más, eclosiona.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Huevo corrupto
+   </name>
+   <text>
+    Cuando este esbirro tiene 4 p. de salud o más, eclosiona.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Huevo de dragón
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    Cada vez que este esbirro recibe daño, invoca a una cría 2/1.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    Piensa en ellos como munición para tu pistola dragón.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Rend Puño Negro en la Cumbre de Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Rend Puño Negro en la Cumbre de Roca Negra.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ignición de maná
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 5 p. de daño al héroe enemigo si le queda maná sin usar.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ignición de maná
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 10 p. de daño al héroe enemigo si le queda maná sin usar.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <text>
+    Salud aumentada.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    Incubación
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Jefe de la banda de diablillos
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    Cada vez que este esbirro recibe daño, invoca a un diablillo 1/1.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    A su banda de diablillos le encanta colarse en Ventormenta y llenar las paredes de la Torre de los Magos con grafitis de "Ragnaros mola".
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al mayordomo Executus en el Núcleo de Magma.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al mayordomo Executus en el Núcleo de Magma.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Jurafuegos
+   </name>
+   <text>
+    &lt;b&gt;Último aliento:&lt;/b&gt; Inflige 1 p. de daño al héroe enemigo por cada jurafuegos que haya muerto este turno.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Jurafuegos
+   </name>
+   <text>
+    &lt;b&gt;Último aliento:&lt;/b&gt; Inflige 3 p. de daño al héroe enemigo por cada jurafuegos que haya muerto este turno.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    La vieja Horda
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a dos orcos 1/1 con &lt;b&gt;Provocar&lt;/b&gt;. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    La vieja Horda
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Invoca a dos orcos 2/2 con &lt;b&gt;Provocar&lt;/b&gt;. Obtiene un nuevo poder de héroe.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Lanzador de hachas
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    Cada vez que este esbirro recibe daño, inflige 2 p. de daño al héroe enemigo.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    Desde que empezó como "lanzador de palos", se ha esforzado mucho por alcanzar su sueño: convertirse en "lanzador de tauren".
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del guerrero en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del guerrero en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Lava viviente
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Maderero volcánico
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+Cuesta (1) cristal menos por cada esbirro que haya muerto este turno.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    ¿A quién se le ocurrió la brillante idea de mezclar volcán y madera?
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del druida en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del druida en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magia salvaje
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Coloca un hechizo aleatorio de la clase de tu oponente en tu mano.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magia salvaje
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Coloca un hechizo aleatorio de la clase de tu oponente en tu mano.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Cada vez que un jugador juega una carta, Magmatron le inflige 2 p. de daño.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Cada vez que un jugador juega una carta, Magmatron le inflige 2 p. de daño.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    Mayordomo Executus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    Mayordomo Executus
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Mayordomo Executus
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;Último aliento:&lt;/b&gt; Reemplaza a tu héroe con Ragnaros, Señor del Fuego.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    Un día le preparó el té a Ragnaros, y este respondió: "¡¿QUÉ SIGNIFICA ESTA INFUSIÓN?!".
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el Núcleo de Magma.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Se puede crear tras completar el Núcleo de Magma.
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Todas las cartas cuestan (1) cristal. Los jugadores tienen un máximo de 1 cristal de maná.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    Mirada intensa
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Poder de héroe pasivo&lt;/b&gt;
+Todas las cartas cuestan (1) cristal. Tienes un máximo de 2 cristales de maná, y tu oponente, 1.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    Mirada intensa
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Barbabronce
+   </name>
+   <text>
+    No se puede usar el poder de héroe de Thaurissan.
+Nunca ataca a esbirros a menos que tengan &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Barbabronce
+   </name>
+   <text>
+    No se puede usar el poder de héroe de Thaurissan.
+Nunca ataca a esbirros a menos que tengan &lt;b&gt;Provocar&lt;/b&gt;.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Mutación
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Descarta una carta aleatoria.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Mutación cromática
+   </name>
+   <text>
+    Transforma a un esbirro en un dragonante cromático 2/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Añade 2 hechizos aleatorios a tu mano &lt;i&gt;(de la clase de tu oponente)&lt;/i&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    Lo llaman "Alanegra" porque es un dragón negro... y tiene alas.
+   </flavor>
+   <howtoget>
+    ¡Se desbloquea al derrotar a todos los jefes de la Montaña Roca Negra!
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Se puede crear tras completar el Laboratorio Secreto.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Orco de la vieja Horda
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Orco de la vieja Horda
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Orden de Drakkisath
+   </name>
+   <text>
+    Destruye a un esbirro. Otorga 10 p. de armadura.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pandilla
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    Elige un esbirro. Mete 3 copias de él en tu mazo.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    Si tienes la intención de adentrarte en Arroyo de la Luna, más vale que lo hagas con un par de colegas.
+   </flavor>
+   <howtoget>
+    Se desbloquea al superar la Arena Hierro Negro en las Profundidades de Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear al superar la Arena Hierro Negro en las Profundidades de Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Parroquiano lúgubre
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    Cada vez que este esbirro sobrevive al daño, invoca a otro parroquiano lúgubre.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    Si te encanta recibir mamporros, ¡ven al Tragapenas!
+   </flavor>
+   <howtoget>
+    Se desbloquea al superar el Tragapenas en las Profundidades de Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear al superar el Tragapenas en las Profundidades de Roca Negra.
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    Poción de poderío
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Poder del Señor del Fuego
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 30 p. de daño.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <text>
+    Estadísticas aumentadas.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    Poder dracónico
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Poderío del dragón
+   </name>
+   <text>
+    Cuesta (3) cristales menos este turno.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Portero Hierro Negro
+   </name>
+   <text>
+    Siempre resulta vencedor en las camorras.
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Prototipo cromático
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pulso de magma
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Inflige 1 p. de daño a todos los esbirros.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    Ragnaros, Señor del Fuego
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    Ragnaros, Señor del Fuego
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    Ragnaros, Señor del Fuego
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    Ragnaros, Señor del Fuego
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Recargar
+   </name>
+   <text>
+    Llena todos los cristales de maná vacíos.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    Rend Puño Negro
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rend Puño Negro
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Destruye a un esbirro &lt;b&gt;legendario&lt;/b&gt; si hay un dragón en tu mano.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    Rend está convencido de que él es el auténtico Jefe de Guerra de la Horda y no deja de modificar la página de Wikipedia de "Jefe de Guerra de la Horda" para que aparezca su foto.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar la Cumbre de Roca Negra.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Se puede crear tras completar la Cumbre de Roca Negra.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    Rend Puño Negro
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Resurrección
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    Invoca a un esbirro amistoso aleatorio que haya muerto durante esta partida.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    Entré en una mazmorra y vi a un aventurero muerto. Con sus últimas fuerzas, había escrito un mensaje en el polvo de la pared. Solo dos palabras: "res, porfa".
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al emperador Thaurissan en las Profundidades de Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al emperador Thaurissan en las Profundidades de Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Revancha
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    Inflige $1 p. de daño a todos los esbirros. Si tienes 12 p. de salud o menos, inflige $3 p. de daño.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    Es mejor que Deflagración Arcana, así que parece que los guerreros por fin podrán vengarse de los magos por el hecho de que Golpe mortal fuera peor que Bola de fuego.
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Sangrevaja en la Guarida de Alanegra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Sangrevaja en la Guarida de Alanegra.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Salud aumentada.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    Robustez Crepuscular
+   </name>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    Sangre de dragón
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    Sangrevaja el Indomable
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    Sangrevaja el Indomable
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    Sistema de Defensa de Omnitron
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    Sistema de Defensa de Omnitron
+   </name>
+  </item>
+  <item>
+   <text>
+    Ataque aumentado.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    Te oigo...
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Técnica Alanegra
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Obtiene +1/+1 si hay un dragón en tu mano.
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    Es con quien tienes que hablar si Alanegra necesita un arreglillo. ¡Ni se te ocurra llevarlo a un taller que no sea oficial!
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar al barón Geddon en el Núcleo de Magma.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar al barón Geddon en el Núcleo de Magma.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toxitron
+   </name>
+   <text>
+    Al comienzo de tu turno, inflige 1 p. de daño a todos los demás esbirros.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toxitron
+   </name>
+   <text>
+    Al comienzo de tu turno, inflige 1 p. de daño a todos los demás esbirros.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Tragón
+   </name>
+   <text>
+    &lt;b&gt;Provocar&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Triturador dracónido
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Si tu oponente tiene 15 p. de salud o menos, obtiene +3/+3.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    Los dracónidos poseen las peores partes de un dragón pero con forma de humanoide. ¿De verdad era necesario?
+   </flavor>
+   <howtoget>
+    Se desbloquea al derrotar a Atramedes en el Laboratorio Secreto.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras derrotar a Atramedes en el Laboratorio Secreto.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    Vaelastrasz el Corrupto
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    Vaelastrasz el Corrupto
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Vagador Hierro Negro
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Inflige 2 p. de daño a todos los esbirros enemigos que no hayan recibido daño.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    Vagando, se pasa el día vagando, y los vecinos mientras tanto no paran de molestar.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del pícaro en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del pícaro en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Vigilia solemne
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    Roba 2 cartas. Cuesta (1) cristal menos por cada esbirro que haya muerto este turno.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    Cada año, la gente se reúne frente a la Montaña Roca Negra para llorar a aquellos que, controlados mentalmente, se arrojaron a la lava.
+   </flavor>
+   <howtoget>
+    Se desbloquea al completar el desafío de clase del paladín en la Montaña Roca Negra.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Se puede crear tras completar el desafío de clase del paladín en la Montaña Roca Negra.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    YO MACHACAR
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Destruye a un esbirro enemigo aleatorio.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    YO MACHACAR
+   </name>
+   <text>
+    &lt;b&gt;Poder de héroe&lt;/b&gt;
+Destruye a un esbirro enemigo aleatorio dañado.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <text>
@@ -25496,7 +31113,7 @@ Roba una carta.
     Neutral
    </faction>
    <text>
-    Inflige $3 p. de daño, divididos aleatoriamente entre los personajes enemigos.
+    Inflige $3 p. de daño que se dividen aleatoriamente entre todos los enemigos.
    </text>
    <artist>
     Warren Mahy
@@ -28257,17 +33874,22 @@ Roba una carta y recibe 2 p. de daño.
    <set>
     Debug
    </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
    <type>
     Spell
    </type>
    <id>
-    XXX_028
+    XXX_030
    </id>
-   <name>
-   </name>
-   <rarity>
-    Common
-   </rarity>
   </item>
   <item>
    <mechanics>
@@ -28858,6 +34480,40 @@ Roba una carta y recibe 2 p. de daño.
    </name>
   </item>
   <item>
+   <set>
+    Debug
+   </set>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_028
+   </id>
+   <name>
+   </name>
+   <rarity>
+    Common
+   </rarity>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_029
+   </id>
+  </item>
+  <item>
    <mechanics>
     <item>
      ImmuneToSpellpower
@@ -28881,45 +34537,6 @@ Roba una carta y recibe 2 p. de daño.
    </type>
    <id>
     XXX_002
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_029
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_030
    </id>
   </item>
   <item>
@@ -29331,6 +34948,83 @@ Roba una carta y recibe 2 p. de daño.
    </type>
    <id>
     XXX_057
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
    </id>
   </item>
   <item>
@@ -31023,7 +36717,7 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
     Warren Mahy
    </artist>
    <text>
-    Inflige $3 - $6 p. de daño. &lt;b&gt;Sobrecarga: (1)&lt;/b&gt;
+    Inflige $3 - $6 p. de daño. &lt;b&gt;Sobrecarga:&lt;/b&gt; (1)
    </text>
    <rarity>
     Common
@@ -31629,7 +37323,7 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
     Experimentador gnomo
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Grito de batalla:&lt;/b&gt; Roba una carta. Si es un esbirro, lo convierte en un pollo.
@@ -32530,7 +38224,7 @@ Tiene un 50% de probabilidad de atacar al enemigo que no es.
   </item>
   <item>
    <text>
-    Interruptor de inversión a intercambiado el ataque y la salud.
+    Interruptor de inversión ha intercambiado el ataque y la salud.
    </text>
    <set>
     Goblins vs Gnomes
@@ -32993,7 +38687,7 @@ Si es una bestia, cuesta (4) cristales menos.
     &lt;b&gt;Grito de batalla:&lt;/b&gt; Otorga &lt;b&gt;Escudo divino&lt;/b&gt; y &lt;b&gt;Provocar&lt;/b&gt; a un esbirro amistoso aleatorio.
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic
@@ -34164,7 +39858,7 @@ Tu héroe es &lt;b&gt;Inmune&lt;/b&gt;.
     Ruan Jia
    </artist>
    <text>
-    &lt;b&gt;Grito de batalla:&lt;/b&gt; Añade 4 múrlocs aleatorios a tu mano. &lt;b&gt;Sobrecarga: (3)&lt;/b&gt;
+    &lt;b&gt;Grito de batalla:&lt;/b&gt; Añade 4 múrlocs aleatorios a tu mano. &lt;b&gt;Sobrecarga:&lt;/b&gt; (3)
    </text>
    <rarity>
     Legendary
@@ -35358,7 +41052,7 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
     Sanabot antiguo
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Grito de batalla:&lt;/b&gt; Restaura 8 p. de salud a tu héroe.
@@ -35979,7 +41673,7 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
     Trasto Llavetorno
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Grito de batalla&lt;/b&gt;: Otorga +2/+2 a un robot amistoso.
@@ -36499,7 +42193,7 @@ No puede ser objetivo de hechizos ni de poderes de héroe.
     Zapador goblin
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     Tiene +4 p. de ataque mientras tu oponente tenga 6 cartas o más en la mano.

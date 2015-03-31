@@ -64,26 +64,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   丛林之魂
-  </name>
-  <text>
-   &lt;b&gt;亡语：&lt;/b&gt;召唤一个2/2的树人。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -116,6 +96,26 @@
   </type>
   <id>
    EX1_158
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   丛林之魂
+  </name>
+  <text>
+   &lt;b&gt;亡语：&lt;/b&gt;召唤一个2/2的树人。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -413,7 +413,7 @@
    True
   </elite>
   <text>
-   在你的回合结束时，获得一张梦境牌。
+   在你的回合结束时，将一张梦境牌加入你的手牌。
   </text>
   <artist>
    Gabor Szikszai
@@ -1176,13 +1176,13 @@
    冷血
   </name>
   <text>
-   +4攻击力。
+   +2攻击力。
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e2
+   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -1196,13 +1196,13 @@
    冷血
   </name>
   <text>
-   +2攻击力。
+   +4攻击力。
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e
+   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -1303,6 +1303,46 @@
  <item>
   <mechanics>
    <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   利爪德鲁伊
+  </name>
+  <text>
+   &lt;b&gt;冲锋&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
     Taunt
    </item>
   </mechanics>
@@ -1387,46 +1427,6 @@
  <item>
   <mechanics>
    <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   利爪德鲁伊
-  </name>
-  <text>
-   &lt;b&gt;冲锋&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Combo
    </item>
   </mechanics>
@@ -1486,7 +1486,7 @@
    Neutral
   </faction>
   <text>
-   摧毁你的武器，对所有敌方角色造成等同于其攻击力的伤害。
+   摧毁你的武器，对所有敌人造成等同于其攻击力的伤害。
   </text>
   <artist>
    Hideaki Takamura
@@ -1508,29 +1508,6 @@
   </id>
   <playerclass>
    Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   力量的代价
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   该随从获得+4/+4，但是在回合结束时将死于非命。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_316e
-  </id>
-  <playerclass>
-   Warlock
   </playerclass>
  </item>
  <item>
@@ -1566,6 +1543,29 @@
   </type>
   <id>
    EX1_316
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   力量的代价
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   该随从获得+4/+4，但是在回合结束时将死于非命。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_316e
   </id>
   <playerclass>
    Warlock
@@ -1632,6 +1632,41 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   加拉克苏斯大王
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   15
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Hero
+  </type>
+  <id>
+   EX1_323h
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -1678,41 +1713,6 @@
   </type>
   <id>
    EX1_323
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   加拉克苏斯大王
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <rarity>
-   Legendary
-  </rarity>
-  <attack>
-   0
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   15
-  </health>
-  <race>
-   Demon
-  </race>
-  <type>
-   Hero
-  </type>
-  <id>
-   EX1_323h
   </id>
   <playerclass>
    Warlock
@@ -1772,26 +1772,6 @@
    升级
   </name>
   <text>
-   +1攻击力和+1耐久度。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_409e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   升级
-  </name>
-  <text>
    耐久度增加。
   </text>
   <type>
@@ -1802,6 +1782,26 @@
   </id>
   <playerclass>
    Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   升级
+  </name>
+  <text>
+   +1攻击力和+1耐久度。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_409e
+  </id>
+  <playerclass>
+   Warrior
   </playerclass>
  </item>
  <item>
@@ -2054,6 +2054,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   受祝福的勇士
+  </name>
+  <text>
+   该随从的攻击力翻倍。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_355e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2083,26 +2103,6 @@
   </type>
   <id>
    EX1_355
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   受祝福的勇士
-  </name>
-  <text>
-   该随从的攻击力翻倍。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_355e
   </id>
   <playerclass>
    Paladin
@@ -2323,35 +2323,25 @@
   </name>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
   <set>
    Classic
   </set>
   <name>
    命令怒吼
   </name>
-  <artist>
-   Wayne Reynolds
-  </artist>
   <text>
-   在本回合中，你的随从的生命值无法被降到1点以下。抽一张牌。
+   在本回合中，你的随从的生命值无法被降到1点以下。
   </text>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   2
-  </cost>
-  <flavor>
-   “大声吼出来！把你的怒气吼出来！”——对训练中的战士的建议
-  </flavor>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   NEW1_036
+   NEW1_036e2
   </id>
   <playerclass>
    Warrior
@@ -2383,25 +2373,35 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
+  <collectible>
+   True
+  </collectible>
   <set>
    Classic
   </set>
   <name>
    命令怒吼
   </name>
+  <artist>
+   Wayne Reynolds
+  </artist>
   <text>
-   在本回合中，你的随从的生命值无法被降到1点以下。
+   在本回合中，你的随从的生命值无法被降到1点以下。抽一张牌。
   </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   “大声吼出来！把你的怒气吼出来！”——对训练中的战士的建议
+  </flavor>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   NEW1_036e2
+   NEW1_036
   </id>
   <playerclass>
    Warrior
@@ -2496,23 +2496,6 @@
   </id>
  </item>
  <item>
-  <text>
-   该随从获得+5/+5，但它马上会被消灭。
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   噩梦
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -2534,6 +2517,23 @@
   <playerclass>
    Dream
   </playerclass>
+ </item>
+ <item>
+  <text>
+   该随从获得+5/+5，但它马上会被消灭。
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DREAM_05e
+  </id>
+  <name>
+   噩梦
+  </name>
  </item>
  <item>
   <mechanics>
@@ -2894,7 +2894,7 @@
    Neutral
   </faction>
   <text>
-   造成$8点伤害，随机分配给敌方角色。
+   造成$8点伤害，随机分配到所有敌人身上。
   </text>
   <artist>
    Alex Garner
@@ -3969,7 +3969,7 @@
    True
   </elite>
   <text>
-   &lt;b&gt;亡语：&lt;/b&gt;控制一个随机敌方随从。
+   &lt;b&gt;亡语：&lt;/b&gt;随机获得一个敌方随从的控制权。
   </text>
   <rarity>
    Legendary
@@ -4310,6 +4310,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   心灵之火
+  </name>
+  <text>
+   该随从的攻击力等同于其生命值。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -4342,26 +4362,6 @@
   </type>
   <id>
    CS1_129
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   心灵之火
-  </name>
-  <text>
-   该随从的攻击力等同于其生命值。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_129e
   </id>
   <playerclass>
    Priest
@@ -4916,13 +4916,13 @@
    Neutral
   </faction>
   <text>
-   对一个随从造成$1点伤害，抽一张牌。
+   对一个随从造成$3点伤害。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154b
+   EX1_154a
   </id>
   <playerclass>
    Druid
@@ -4977,13 +4977,13 @@
    Neutral
   </faction>
   <text>
-   对一个随从造成$3点伤害。
+   对一个随从造成$1点伤害，抽一张牌。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154a
+   EX1_154b
   </id>
   <playerclass>
    Druid
@@ -5283,23 +5283,6 @@
   </playerclass>
  </item>
  <item>
-  <text>
-   +1耐久度。
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   打磨
-  </name>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -5520,14 +5503,17 @@
   <name>
    拔根
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
    +5攻击力。
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_178be
+   EX1_178b
   </id>
   <playerclass>
    Druid
@@ -5540,17 +5526,14 @@
   <name>
    拔根
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
    +5攻击力。
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_178b
+   EX1_178be
   </id>
   <playerclass>
    Druid
@@ -5601,31 +5584,6 @@
   <id>
    EX1_405
   </id>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   挫志咆哮
-  </name>
-  <text>
-   在本回合中，该随从获得-3攻击力。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
  </item>
  <item>
   <set>
@@ -5756,28 +5714,6 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   撕咬
-  </name>
-  <text>
-   在本回合中，获得+4攻击力。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -5814,6 +5750,28 @@
   <playerclass>
    Druid
   </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   撕咬
+  </name>
+  <text>
+   在本回合中，获得+4攻击力。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
  </item>
  <item>
   <collectible>
@@ -6041,6 +5999,46 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   星辰坠落
+  </name>
+  <text>
+   对所有敌方随从造成$2点伤害。
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   星辰坠落
+  </name>
+  <text>
+   对一个随从造成$5点伤害。
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -6080,39 +6078,19 @@
    Classic
   </set>
   <name>
-   星辰坠落
+   智慧祝福
   </name>
   <text>
-   对一个随从造成$5点伤害。
+   每当该随从进行攻击，敌方玩家便抽一张牌。
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   NEW1_007b
+   EX1_363e2
   </id>
   <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   星辰坠落
-  </name>
-  <text>
-   对所有敌方随从造成$2点伤害。
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007a
-  </id>
-  <playerclass>
-   Druid
+   Paladin
   </playerclass>
  </item>
  <item>
@@ -6165,26 +6143,6 @@
   </type>
   <id>
    EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   智慧祝福
-  </name>
-  <text>
-   每当该随从进行攻击，敌方玩家便抽一张牌。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e2
   </id>
   <playerclass>
    Paladin
@@ -6304,6 +6262,26 @@
   </id>
   <playerclass>
    Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   暗影狂乱
+  </name>
+  <text>
+   在本回合中，该随从的控制权发生了变化。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
   </playerclass>
  </item>
  <item>
@@ -6847,6 +6825,35 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   树人
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_158t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Taunt
@@ -6875,35 +6882,6 @@
   </type>
   <id>
    EX1_573t
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   树人
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_158t
   </id>
   <playerclass>
    Druid
@@ -7875,13 +7853,13 @@
    Neutral
   </faction>
   <text>
-   抽三张牌。
+   获得两个法力水晶。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_164b
+   EX1_164a
   </id>
   <playerclass>
    Druid
@@ -7898,13 +7876,13 @@
    Neutral
   </faction>
   <text>
-   获得两个法力水晶。
+   抽三张牌。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_164a
+   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -7935,7 +7913,7 @@
    True
   </elite>
   <text>
-   &lt;b&gt;冲锋&lt;/b&gt;，&lt;b&gt;战吼：&lt;/b&gt;为你的对手召唤2只1/1的雏龙。
+   &lt;b&gt;冲锋&lt;/b&gt;，&lt;b&gt;战吼：&lt;/b&gt;为你的对手召唤两只1/1的雏龙。
   </text>
   <artist>
    Gabe from Penny Arcade
@@ -8579,6 +8557,26 @@
    狂暴
   </name>
   <text>
+   +3/+3。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_104e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   狂暴
+  </name>
+  <text>
    攻击力增加。
   </text>
   <type>
@@ -8624,26 +8622,6 @@
   </type>
   <id>
    CS2_104
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   狂暴
-  </name>
-  <text>
-   +3/+3。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_104e
   </id>
   <playerclass>
    Warrior
@@ -9500,6 +9478,29 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   视界术
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   你的一张手牌的法力值消耗减少（3）点。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -9532,29 +9533,6 @@
   </type>
   <id>
    CS2_053
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   视界术
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   你的一张手牌的法力值消耗减少（3）点。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
   </id>
   <playerclass>
    Shaman
@@ -9983,7 +9961,7 @@
    Alliance
   </faction>
   <text>
-   &lt;b&gt;战吼：&lt;/b&gt;如果你的对手拥有4个或者更多随从，随机控制其中一个。
+   &lt;b&gt;战吼：&lt;/b&gt;如果你的对手拥有4个或者更多随从，随机获得其中一个的控制权。
   </text>
   <artist>
    Leo Che
@@ -10601,17 +10579,37 @@
   <name>
    自然印记
   </name>
+  <text>
+   该随从获得+4生命值和&lt;b&gt;嘲讽&lt;/b&gt;。
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   自然印记
+  </name>
   <faction>
    Neutral
   </faction>
   <text>
-   +4攻击力。
+   +4生命值并具有&lt;b&gt;嘲讽&lt;/b&gt;。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155a
+   EX1_155b
   </id>
   <playerclass>
    Druid
@@ -10662,37 +10660,17 @@
   <name>
    自然印记
   </name>
-  <text>
-   该随从获得+4生命值和&lt;b&gt;嘲讽&lt;/b&gt;。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   自然印记
-  </name>
   <faction>
    Neutral
   </faction>
   <text>
-   +4生命值并具有&lt;b&gt;嘲讽&lt;/b&gt;。
+   +4攻击力。
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_155b
+   EX1_155a
   </id>
   <playerclass>
    Druid
@@ -12495,7 +12473,7 @@
    2
   </health>
   <flavor>
-   ”我没说你能够躲过火球。我是说有了这盾，你就不需要躲了。“
+   “我没说你能够躲过火球。我是说有了这盾，你就不需要躲了。”
   </flavor>
   <type>
    Minion
@@ -14047,26 +14025,6 @@
   <id>
    EX1_029
   </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   黑暗命令
-  </name>
-  <text>
-   在本回合中，该随从的控制权发生了变化。
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
  </item>
  <item>
   <mechanics>

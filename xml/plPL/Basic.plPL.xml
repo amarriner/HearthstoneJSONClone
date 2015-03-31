@@ -481,26 +481,6 @@ Dobierz kartę.
   </playerclass>
  </item>
  <item>
-  <set>
-   Basic
-  </set>
-  <name>
-   Dar królów
-  </name>
-  <text>
-   +4/+4.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_092e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -549,19 +529,16 @@ Dobierz kartę.
    Basic
   </set>
   <name>
-   Dar mocy
+   Dar królów
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   +3 do ataku.
+   +4/+4.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_087e
+   CS2_092e
   </id>
   <playerclass>
    Paladin
@@ -606,6 +583,29 @@ Dobierz kartę.
   </type>
   <id>
    CS2_087
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dar mocy
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +3 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_087e
   </id>
   <playerclass>
    Paladin
@@ -794,6 +794,31 @@ Dobierz kartę.
   </id>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Dziki ryk
+  </name>
+  <text>
+   +2 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_011o
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -832,31 +857,6 @@ Dobierz kartę.
   </type>
   <id>
    CS2_011
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Dziki ryk
-  </name>
-  <text>
-   +2 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_011o
   </id>
   <playerclass>
    Druid
@@ -1523,31 +1523,6 @@ Dobierz kartę.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Heroiczny cios
-  </name>
-  <text>
-   +4 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_105e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -1586,6 +1561,31 @@ Dobierz kartę.
   </type>
   <id>
    CS2_105
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Heroiczny cios
+  </name>
+  <text>
+   +4 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_105e
   </id>
   <playerclass>
    Warrior
@@ -1844,6 +1844,32 @@ Dobierz kartę.
   </playerclass>
  </item>
  <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kontrola umysłu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Kontrola nad tym stronnikiem została zamieniona.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_113e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1882,32 +1908,6 @@ Dobierz kartę.
   </type>
   <id>
    CS1_113
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
-  <set>
-   Basic
-  </set>
-  <name>
-   Kontrola umysłu
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Kontrola nad tym stronnikiem została zamieniona.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS1_113e
   </id>
   <playerclass>
    Priest
@@ -1958,31 +1958,6 @@ Dobierz kartę.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Kruszyskalny oręż
-  </name>
-  <text>
-   Ta postać ma +3 do ataku podczas tej tury.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_045e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -2021,6 +1996,31 @@ Dobierz kartę.
   </type>
   <id>
    CS2_045
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Kruszyskalny oręż
+  </name>
+  <text>
+   Ta postać ma +3 do ataku podczas tej tury.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_045e
   </id>
   <playerclass>
    Shaman
@@ -2676,6 +2676,20 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
+  <set>
+   Basic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GAME_005e
+  </id>
+  <name>
+   Moneta
+  </name>
+ </item>
+ <item>
   <text>
    Otrzymujesz 1 kryształ many w tej turze.
   </text>
@@ -2687,20 +2701,6 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
   </type>
   <id>
    GAME_005
-  </id>
-  <name>
-   Moneta
-  </name>
- </item>
- <item>
-  <set>
-   Basic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   GAME_005e
   </id>
   <name>
    Moneta
@@ -2805,55 +2805,6 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
   </type>
   <id>
    EX1_587
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Freeze
-   </item>
-  </mechanics>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Basic
-  </set>
-  <name>
-   Mroźne porażenie
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Zadaj $1 pkt. obrażeń wrogiej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
-  </text>
-  <artist>
-   Alex Horley Orlandelli
-  </artist>
-  <rarity>
-   Free
-  </rarity>
-  <cost>
-   1
-  </cost>
-  <howtogetgold>
-   Odblokowane na poziomie 32.
-  </howtogetgold>
-  <flavor>
-   Idzie mróz, idzie mróz, niesie śniegu cały wóz!
-  </flavor>
-  <howtoget>
-   Odblokowane na poziomie 1.
-  </howtoget>
-  <type>
-   Spell
-  </type>
-  <id>
-   CS2_037
   </id>
   <playerclass>
    Shaman
@@ -3635,31 +3586,6 @@ Otrzymujesz 2 pkt. pancerza.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Pazur
-  </name>
-  <text>
-   +2 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_005o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -3698,6 +3624,31 @@ Otrzymujesz 2 pkt. pancerza.
   </type>
   <id>
    CS2_005
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Pazur
+  </name>
+  <text>
+   +2 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_005o
   </id>
   <playerclass>
    Druid
@@ -5556,26 +5507,6 @@ Dobierz kartę.
    Szarża
   </name>
   <text>
-   Tundrowy nosorożec daje &lt;b&gt;Szarżę&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DS1_178e
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <set>
-   Basic
-  </set>
-  <name>
-   Szarża
-  </name>
-  <text>
    Ten stronnik otrzymuje &lt;b&gt;Szarżę&lt;/b&gt;.
   </text>
   <type>
@@ -5586,6 +5517,26 @@ Dobierz kartę.
   </id>
   <playerclass>
    Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Basic
+  </set>
+  <name>
+   Szarża
+  </name>
+  <text>
+   Tundrowy nosorożec daje &lt;b&gt;Szarżę&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DS1_178e
+  </id>
+  <playerclass>
+   Hunter
   </playerclass>
  </item>
  <item>
@@ -5781,7 +5732,7 @@ Dobierz kartę.
    Neutral
   </faction>
   <text>
-   Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.
+   Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.
   </text>
   <artist>
    Warren Mahy
@@ -7009,6 +6960,55 @@ Przyzwij Rekruta Srebrnej Dłoni 1/1.
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Freeze
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Basic
+  </set>
+  <name>
+   Wstrząs mrozu
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Zadaj $1 pkt. obrażeń wrogiej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
+  </text>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <rarity>
+   Free
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <howtogetgold>
+   Odblokowane na poziomie 32.
+  </howtogetgold>
+  <flavor>
+   Idzie mróz, idzie mróz, niesie śniegu cały wóz!
+  </flavor>
+  <howtoget>
+   Odblokowane na poziomie 1.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   CS2_037
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -7450,6 +7450,31 @@ Wyposaż bohatera w sztylet 1/2.
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Żądza krwi
+  </name>
+  <text>
+   +3 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_046e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -7488,31 +7513,6 @@ Wyposaż bohatera w sztylet 1/2.
   </type>
   <id>
    CS2_046
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Żądza krwi
-  </name>
-  <text>
-   +3 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_046e
   </id>
   <playerclass>
    Shaman
@@ -7669,6 +7669,31 @@ Wyposaż bohatera w sztylet 1/2.
   </name>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Morph
+   </item>
+  </mechanics>
+  <set>
+   Basic
+  </set>
+  <name>
+   Zły urok
+  </name>
+  <text>
+   Ten stronnik został przemieniony!
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_246e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -7707,31 +7732,6 @@ Wyposaż bohatera w sztylet 1/2.
   </type>
   <id>
    EX1_246
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Morph
-   </item>
-  </mechanics>
-  <set>
-   Basic
-  </set>
-  <name>
-   Zły urok
-  </name>
-  <text>
-   Ten stronnik został przemieniony!
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_246e
   </id>
   <playerclass>
    Shaman

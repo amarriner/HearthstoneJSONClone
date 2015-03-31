@@ -180,14 +180,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "CS2_092e",
-        "name": "Dar kr\u00f3l\u00f3w",
-        "playerClass": "Paladin",
-        "set": "Basic",
-        "text": "+4/+4.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Lucas Graciano",
         "collectible": true,
         "cost": 4,
@@ -204,12 +196,11 @@
         "type": "Spell"
     },
     {
-        "faction": "Neutral",
-        "id": "CS2_087e",
-        "name": "Dar mocy",
+        "id": "CS2_092e",
+        "name": "Dar kr\u00f3l\u00f3w",
         "playerClass": "Paladin",
         "set": "Basic",
-        "text": "+3 do ataku.",
+        "text": "+4/+4.",
         "type": "Enchantment"
     },
     {
@@ -227,6 +218,15 @@
         "set": "Basic",
         "text": "Daj stronnikowi +3 do ataku.",
         "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "CS2_087e",
+        "name": "Dar mocy",
+        "playerClass": "Paladin",
+        "set": "Basic",
+        "text": "+3 do ataku.",
+        "type": "Enchantment"
     },
     {
         "artist": "Phill Gonzales",
@@ -298,6 +298,17 @@
         "type": "Minion"
     },
     {
+        "id": "CS2_011o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Dziki ryk",
+        "playerClass": "Druid",
+        "set": "Basic",
+        "text": "+2 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Grace Liu",
         "collectible": true,
         "cost": 3,
@@ -312,17 +323,6 @@
         "set": "Basic",
         "text": "Daj swoim postaciom +2 do ataku w tej turze.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_011o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Dziki ryk",
-        "playerClass": "Druid",
-        "set": "Basic",
-        "text": "+2 do ataku w tej turze.",
-        "type": "Enchantment"
     },
     {
         "artist": "Dany Orizio",
@@ -574,17 +574,6 @@
         "type": "Spell"
     },
     {
-        "id": "CS2_105e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Heroiczny cios",
-        "playerClass": "Warrior",
-        "set": "Basic",
-        "text": "+4 do ataku w tej turze.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Jonboy Meyers",
         "collectible": true,
         "cost": 2,
@@ -599,6 +588,17 @@
         "set": "Basic",
         "text": "Daj twojemu bohaterowi +4 do ataku w tej turze.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_105e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Heroiczny cios",
+        "playerClass": "Warrior",
+        "set": "Basic",
+        "text": "+4 do ataku w tej turze.",
+        "type": "Enchantment"
     },
     {
         "collectible": true,
@@ -697,6 +697,16 @@
         "type": "Spell"
     },
     {
+        "faction": "Neutral",
+        "id": "CS1_113e",
+        "name": "Kontrola umys\u0142u",
+        "playerClass": "Priest",
+        "rarity": "Common",
+        "set": "Basic",
+        "text": "Kontrola nad tym stronnikiem zosta\u0142a zamieniona.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Sean O\u2019Daniels",
         "collectible": true,
         "cost": 10,
@@ -711,16 +721,6 @@
         "set": "Basic",
         "text": "Przejmij kontrol\u0119 nad wrogim stronnikiem.",
         "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
-        "id": "CS1_113e",
-        "name": "Kontrola umys\u0142u",
-        "playerClass": "Priest",
-        "rarity": "Common",
-        "set": "Basic",
-        "text": "Kontrola nad tym stronnikiem zosta\u0142a zamieniona.",
-        "type": "Enchantment"
     },
     {
         "artist": "Alex Garner",
@@ -739,17 +739,6 @@
         "type": "Spell"
     },
     {
-        "id": "CS2_045e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Kruszyskalny or\u0119\u017c",
-        "playerClass": "Shaman",
-        "set": "Basic",
-        "text": "Ta posta\u0107 ma +3 do ataku podczas tej tury.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -764,6 +753,17 @@
         "set": "Basic",
         "text": "Daj przyjaznej postaci +3 do ataku w tej turze.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_045e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Kruszyskalny or\u0119\u017c",
+        "playerClass": "Shaman",
+        "set": "Basic",
+        "text": "Ta posta\u0107 ma +3 do ataku podczas tej tury.",
+        "type": "Enchantment"
     },
     {
         "artist": "Richard Wright",
@@ -1011,17 +1011,17 @@
         "type": "Hero Power"
     },
     {
+        "id": "GAME_005e",
+        "name": "Moneta",
+        "set": "Basic",
+        "type": "Enchantment"
+    },
+    {
         "id": "GAME_005",
         "name": "Moneta",
         "set": "Basic",
         "text": "Otrzymujesz 1 kryszta\u0142 many w tej turze.",
         "type": "Spell"
-    },
-    {
-        "id": "GAME_005e",
-        "name": "Moneta",
-        "set": "Basic",
-        "type": "Enchantment"
     },
     {
         "artist": "Warren Mahy",
@@ -1062,25 +1062,6 @@
         "set": "Basic",
         "text": "<b>Okrzyk bojowy:</b> Daj przyjaznemu stronnikowi <b>Furi\u0119 wichru</b>.",
         "type": "Minion"
-    },
-    {
-        "artist": "Alex Horley Orlandelli",
-        "collectible": true,
-        "cost": 1,
-        "faction": "Neutral",
-        "flavor": "Idzie mr\u00f3z, idzie mr\u00f3z, niesie \u015bniegu ca\u0142y w\u00f3z!",
-        "howToGet": "Odblokowane na poziomie 1.",
-        "howToGetGold": "Odblokowane na poziomie 32.",
-        "id": "CS2_037",
-        "mechanics": [
-            "Freeze"
-        ],
-        "name": "Mro\u017ane pora\u017cenie",
-        "playerClass": "Shaman",
-        "rarity": "Free",
-        "set": "Basic",
-        "text": "Zadaj $1 pkt. obra\u017ce\u0144 wrogiej postaci i j\u0105 <b>Zamro\u017a</b>.",
-        "type": "Spell"
     },
     {
         "artist": "Dan Scott",
@@ -1374,17 +1355,6 @@
         "type": "Hero Power"
     },
     {
-        "id": "CS2_005o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Pazur",
-        "playerClass": "Druid",
-        "set": "Basic",
-        "text": "+2 do ataku w tej turze.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Dany Orizio",
         "collectible": true,
         "cost": 1,
@@ -1399,6 +1369,17 @@
         "set": "Basic",
         "text": "Daj twojemu bohaterowi +2 do ataku w tej turze oraz +2 pkt. pancerza.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_005o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Pazur",
+        "playerClass": "Druid",
+        "set": "Basic",
+        "text": "+2 do ataku w tej turze.",
+        "type": "Enchantment"
     },
     {
         "id": "CS2_017o",
@@ -2095,19 +2076,19 @@
         "type": "Spell"
     },
     {
-        "id": "DS1_178e",
-        "name": "Szar\u017ca",
-        "playerClass": "Hunter",
-        "set": "Basic",
-        "text": "Tundrowy nosoro\u017cec daje <b>Szar\u017c\u0119</b>.",
-        "type": "Enchantment"
-    },
-    {
         "id": "EX1_084e",
         "name": "Szar\u017ca",
         "playerClass": "Warrior",
         "set": "Basic",
         "text": "Ten stronnik otrzymuje <b>Szar\u017c\u0119</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "DS1_178e",
+        "name": "Szar\u017ca",
+        "playerClass": "Hunter",
+        "set": "Basic",
+        "text": "Tundrowy nosoro\u017cec daje <b>Szar\u017c\u0119</b>.",
         "type": "Enchantment"
     },
     {
@@ -2192,7 +2173,7 @@
         "playerClass": "Mage",
         "rarity": "Free",
         "set": "Basic",
-        "text": "Zadaj $3 pkt. obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wrogimi postaciami.",
+        "text": "Zadaj $3 pkt. obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wszystkimi wrogami.",
         "type": "Spell"
     },
     {
@@ -2646,6 +2627,25 @@
         "type": "Hero Power"
     },
     {
+        "artist": "Alex Horley Orlandelli",
+        "collectible": true,
+        "cost": 1,
+        "faction": "Neutral",
+        "flavor": "Idzie mr\u00f3z, idzie mr\u00f3z, niesie \u015bniegu ca\u0142y w\u00f3z!",
+        "howToGet": "Odblokowane na poziomie 1.",
+        "howToGetGold": "Odblokowane na poziomie 32.",
+        "id": "CS2_037",
+        "mechanics": [
+            "Freeze"
+        ],
+        "name": "Wstrz\u0105s mrozu",
+        "playerClass": "Shaman",
+        "rarity": "Free",
+        "set": "Basic",
+        "text": "Zadaj $1 pkt. obra\u017ce\u0144 wrogiej postaci i j\u0105 <b>Zamro\u017a</b>.",
+        "type": "Spell"
+    },
+    {
         "artist": "Matt Gaser",
         "attack": 5,
         "collectible": true,
@@ -2812,6 +2812,17 @@
         "type": "Hero Power"
     },
     {
+        "id": "CS2_046e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "\u017b\u0105dza krwi",
+        "playerClass": "Shaman",
+        "set": "Basic",
+        "text": "+3 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Luca Zontini",
         "collectible": true,
         "cost": 5,
@@ -2826,17 +2837,6 @@
         "set": "Basic",
         "text": "Daj swoim stronnikom +3 do ataku w tej turze.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_046e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "\u017b\u0105dza krwi",
-        "playerClass": "Shaman",
-        "set": "Basic",
-        "text": "+3 do ataku w tej turze.",
-        "type": "Enchantment"
     },
     {
         "artist": "Sean O\u2019Daniels",
@@ -2897,6 +2897,17 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_246e",
+        "mechanics": [
+            "Morph"
+        ],
+        "name": "Z\u0142y urok",
+        "playerClass": "Shaman",
+        "set": "Basic",
+        "text": "Ten stronnik zosta\u0142 przemieniony!",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Steve Hui",
         "collectible": true,
         "cost": 3,
@@ -2911,17 +2922,6 @@
         "set": "Basic",
         "text": "Przemie\u0144 stronnika w \u017cab\u0119 0/1 z <b>Prowokacj\u0105</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_246e",
-        "mechanics": [
-            "Morph"
-        ],
-        "name": "Z\u0142y urok",
-        "playerClass": "Shaman",
-        "set": "Basic",
-        "text": "Ten stronnik zosta\u0142 przemieniony!",
-        "type": "Enchantment"
     },
     {
         "cost": 2,

@@ -158,23 +158,6 @@ Infligge 2 danni.
   </playerclass>
  </item>
  <item>
-  <text>
-   +1 Integrità.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Affilata
-  </name>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -1226,23 +1209,6 @@ Infligge 2 danni.
   </id>
  </item>
  <item>
-  <text>
-   +1/+1.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_014te
-  </id>
-  <name>
-   Banana
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -1261,6 +1227,23 @@ Infligge 2 danni.
   <id>
    EX1_014t
   </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_014te
+  </id>
+  <name>
+   Banana
+  </name>
  </item>
  <item>
   <set>
@@ -1442,6 +1425,26 @@ Infligge 2 danni.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Benedizione: Saggezza
+  </name>
+  <text>
+   Quando questo servitore attacca, l&amp;apos;avversario pesca una carta.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e2
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1471,26 +1474,6 @@ Infligge 2 danni.
   </type>
   <id>
    EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Benedizione: Saggezza
-  </name>
-  <text>
-   Quando questo servitore attacca, l&amp;apos;avversario pesca una carta.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e2
   </id>
   <playerclass>
    Paladin
@@ -1686,6 +1669,31 @@ Infligge 2 danni.
  <item>
   <mechanics>
    <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Blocco di Ghiaccio
+  </name>
+  <text>
+   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt; per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_295o
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
     Secret
    </item>
   </mechanics>
@@ -1721,31 +1729,6 @@ Infligge 2 danni.
   </type>
   <id>
    EX1_295
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Blocco di Ghiaccio
-  </name>
-  <text>
-   Il tuo eroe è &lt;b&gt;Immune&lt;/b&gt; per questo turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_295o
   </id>
   <playerclass>
    Mage
@@ -2739,26 +2722,6 @@ Infligge 2 danni.
   </id>
   <playerclass>
    Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Comando Oscuro
-  </name>
-  <text>
-   Cambio di schieramento per questo turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
   </playerclass>
  </item>
  <item>
@@ -3898,32 +3861,6 @@ Infligge 2 danni.
   <name>
    Draghetto
   </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
-  </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Draghetto
-  </name>
   <faction>
    Neutral
   </faction>
@@ -3944,6 +3881,32 @@ Infligge 2 danni.
   </type>
   <id>
    ds1_whelptoken
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Draghetto
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
   </id>
  </item>
  <item>
@@ -4080,6 +4043,46 @@ Infligge 2 danni.
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Druido dell&amp;apos;Unghia
+  </name>
+  <text>
+   &lt;b&gt;Carica&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -4158,46 +4161,6 @@ Infligge 2 danni.
   </type>
   <id>
    EX1_165t2
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Druido dell&amp;apos;Unghia
-  </name>
-  <text>
-   &lt;b&gt;Carica&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -5190,6 +5153,26 @@ Infligge 2 danni.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Follia d&amp;apos;Ombra
+  </name>
+  <text>
+   Cambio di schieramento per questo turno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -5411,44 +5394,6 @@ Infligge 3 danni.
   </playerclass>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Fuoco Demoniaco
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Infligge $2 danni a un servitore. Se il bersaglio è un tuo Demone, gli fornisce +2/+2.
-  </text>
-  <artist>
-   Ben Wootten
-  </artist>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   2
-  </cost>
-  <flavor>
-   Il Fuoco Demoniaco è come quello normale, tranne che NON SMETTE PIÙ DI BRUCIAREEEEEE!
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_596
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -5472,6 +5417,44 @@ Infligge 3 danni.
   </type>
   <id>
    EX1_596e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Fuoco Demoniaco
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Infligge $2 danni a un servitore. Se il bersaglio è un tuo Demone, gli fornisce invece +2/+2.
+  </text>
+  <artist>
+   Ben Wootten
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <flavor>
+   Il Fuoco Demoniaco è come quello normale, tranne che NON SMETTE PIÙ DI BRUCIAREEEEEE!
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_596
   </id>
   <playerclass>
    Warlock
@@ -7095,17 +7078,14 @@ Infligge 3 danni.
   <name>
    Immobilizzato
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
    +5 Salute e &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_178a
+   EX1_178ae
   </id>
   <playerclass>
    Druid
@@ -7118,14 +7098,17 @@ Infligge 3 danni.
   <name>
    Immobilizzato
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
    +5 Salute e &lt;b&gt;Provocazione&lt;/b&gt;.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_178ae
+   EX1_178a
   </id>
   <playerclass>
    Druid
@@ -7325,23 +7308,6 @@ Infligge 3 danni.
   </playerclass>
  </item>
  <item>
-  <text>
-   +5/+5, però verrà presto distrutto.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   Incubo
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -7363,6 +7329,23 @@ Infligge 3 danni.
   <playerclass>
    Dream
   </playerclass>
+ </item>
+ <item>
+  <text>
+   +5/+5, però verrà presto distrutto.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   DREAM_05e
+  </id>
+  <name>
+   Incubo
+  </name>
  </item>
  <item>
   <mechanics>
@@ -7783,13 +7766,13 @@ Evoca un Infernale 6/6.
    Neutral
   </faction>
   <text>
-   Infligge $1 |4(danno,danni) a un servitore. Pesca una carta.
+   Infligge $3 danni a un servitore.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154b
+   EX1_154a
   </id>
   <playerclass>
    Druid
@@ -7806,13 +7789,13 @@ Evoca un Infernale 6/6.
    Neutral
   </faction>
   <text>
-   Infligge $3 danni a un servitore.
+   Infligge $1 |4(danno,danni) a un servitore. Pesca una carta.
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154a
+   EX1_154b
   </id>
   <playerclass>
    Druid
@@ -8678,26 +8661,6 @@ Evoca un Infernale 6/6.
   <name>
    Marchio della Natura
   </name>
-  <text>
-   +4 Attacco.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155ae
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Marchio della Natura
-  </name>
   <faction>
    Neutral
   </faction>
@@ -8790,6 +8753,26 @@ Evoca un Infernale 6/6.
   </type>
   <id>
    EX1_155be
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Marchio della Natura
+  </name>
+  <text>
+   +4 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155ae
   </id>
   <playerclass>
    Druid
@@ -10096,26 +10079,6 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Penitenza
-  </name>
-  <text>
-   Salute ridotta a 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_379e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Secret
@@ -10153,6 +10116,26 @@ Evoca un Infernale 6/6.
   </type>
   <id>
    EX1_379
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Penitenza
+  </name>
+  <text>
+   Salute ridotta a 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_379e
   </id>
   <playerclass>
    Paladin
@@ -10713,31 +10696,6 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Preparazione
-  </name>
-  <text>
-   La prossima Magia che lanci in questo turno costa (3) Mana in meno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_145o
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -10770,6 +10728,31 @@ Evoca un Infernale 6/6.
   </type>
   <id>
    EX1_145
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Preparazione
+  </name>
+  <text>
+   La prossima Magia che lanci in questo turno costa (3) Mana in meno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_145o
   </id>
   <playerclass>
    Rogue
@@ -11487,31 +11470,6 @@ Evoca un Infernale 6/6.
  <item>
   <mechanics>
    <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Ruggito Demoralizzante
-  </name>
-  <text>
-   -3 Attacco per questo turno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Battlecry
    </item>
   </mechanics>
@@ -11556,6 +11514,46 @@ Evoca un Infernale 6/6.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangue Freddo
+  </name>
+  <text>
+   +4 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sangue Freddo
+  </name>
+  <text>
+   +2 Attacco.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Combo
@@ -11593,46 +11591,6 @@ Evoca un Infernale 6/6.
   </type>
   <id>
    CS2_073
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangue Freddo
-  </name>
-  <text>
-   +4 Attacco.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e2
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sangue Freddo
-  </name>
-  <text>
-   +2 Attacco.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -11967,6 +11925,29 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Sguardo Lontano
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   Una delle tue carte costa (3) Mana in meno.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -11999,29 +11980,6 @@ Evoca un Infernale 6/6.
   </type>
   <id>
    CS2_053
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Sguardo Lontano
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   Una delle tue carte costa (3) Mana in meno.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
   </id>
   <playerclass>
    Shaman
@@ -13398,20 +13356,15 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    Taunt
-   </item>
-  </mechanics>
   <set>
    Classic
   </set>
   <name>
    Treant
   </name>
-  <text>
-   &lt;b&gt;Provocazione&lt;/b&gt;
-  </text>
+  <faction>
+   Neutral
+  </faction>
   <attack>
    2
   </attack>
@@ -13425,7 +13378,7 @@ Evoca un Infernale 6/6.
    Minion
   </type>
   <id>
-   EX1_573t
+   EX1_158t
   </id>
   <playerclass>
    Druid
@@ -13472,15 +13425,20 @@ Evoca un Infernale 6/6.
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
   <set>
    Classic
   </set>
   <name>
    Treant
   </name>
-  <faction>
-   Neutral
-  </faction>
+  <text>
+   &lt;b&gt;Provocazione&lt;/b&gt;
+  </text>
   <attack>
    2
   </attack>
@@ -13494,7 +13452,7 @@ Evoca un Infernale 6/6.
    Minion
   </type>
   <id>
-   EX1_158t
+   EX1_573t
   </id>
   <playerclass>
    Druid
@@ -14147,7 +14105,7 @@ Evoca un Infernale 6/6.
    True
   </elite>
   <text>
-   Alla fine del tuo turno, pesca una carta Sogno.
+   Alla fine del tuo turno, mette una carta Sogno nella tua mano.
   </text>
   <artist>
    Gabor Szikszai

@@ -60,13 +60,6 @@
         "type": "Hero Power"
     },
     {
-        "id": "CS2_146o",
-        "name": "Affilata",
-        "set": "Classic",
-        "text": "+1 Integrit\u00e0.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Chris Moeller",
         "attack": 3,
         "collectible": true,
@@ -464,19 +457,19 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_014te",
-        "name": "Banana",
-        "set": "Classic",
-        "text": "+1/+1.",
-        "type": "Enchantment"
-    },
-    {
         "cost": 1,
         "id": "EX1_014t",
         "name": "Banana",
         "set": "Classic",
         "text": "+1/+1 a un servitore.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_014te",
+        "name": "Banana",
+        "set": "Classic",
+        "text": "+1/+1.",
+        "type": "Enchantment"
     },
     {
         "attack": 2,
@@ -547,6 +540,14 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_363e2",
+        "name": "Benedizione: Saggezza",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Quando questo servitore attacca, l'avversario pesca una carta.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Chippy",
         "collectible": true,
         "cost": 1,
@@ -558,14 +559,6 @@
         "set": "Classic",
         "text": "Seleziona un servitore. Quando attacca, pesca una carta.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_363e2",
-        "name": "Benedizione: Saggezza",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Quando questo servitore attacca, l'avversario pesca una carta.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_363e",
@@ -640,6 +633,17 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_295o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Blocco di Ghiaccio",
+        "playerClass": "Mage",
+        "set": "Classic",
+        "text": "Il tuo eroe \u00e8 <b>Immune</b> per questo turno.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Carl Frank",
         "collectible": true,
         "cost": 3,
@@ -655,17 +659,6 @@
         "set": "Classic",
         "text": "<b>Segreto:</b> quando il tuo eroe subisce danni fatali, li previene e diventa <b>Immune</b> per quel turno.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_295o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Blocco di Ghiaccio",
-        "playerClass": "Mage",
-        "set": "Classic",
-        "text": "Il tuo eroe \u00e8 <b>Immune</b> per questo turno.",
-        "type": "Enchantment"
     },
     {
         "artist": "Laurel D. Austin",
@@ -1050,14 +1043,6 @@
         "set": "Classic",
         "text": "<b>Grido di Battaglia:</b> infligge 1 danno a un altro servitore ma gli fornisce +2 Attacco.",
         "type": "Minion"
-    },
-    {
-        "id": "EX1_334e",
-        "name": "Comando Oscuro",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Cambio di schieramento per questo turno.",
-        "type": "Enchantment"
     },
     {
         "artist": "Tim McBurnie",
@@ -1498,8 +1483,9 @@
     {
         "attack": 1,
         "cost": 1,
+        "faction": "Neutral",
         "health": 1,
-        "id": "EX1_116t",
+        "id": "ds1_whelptoken",
         "name": "Draghetto",
         "race": "Dragon",
         "set": "Classic",
@@ -1508,9 +1494,8 @@
     {
         "attack": 1,
         "cost": 1,
-        "faction": "Neutral",
         "health": 1,
-        "id": "ds1_whelptoken",
+        "id": "EX1_116t",
         "name": "Draghetto",
         "race": "Dragon",
         "set": "Classic",
@@ -1567,6 +1552,22 @@
         "type": "Minion"
     },
     {
+        "attack": 4,
+        "cost": 5,
+        "health": 4,
+        "id": "EX1_165t1",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Druido dell'Unghia",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Carica</b>",
+        "type": "Minion"
+    },
+    {
         "artist": "Luca Zontini",
         "attack": 4,
         "collectible": true,
@@ -1596,22 +1597,6 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>Provocazione</b>",
-        "type": "Minion"
-    },
-    {
-        "attack": 4,
-        "cost": 5,
-        "health": 4,
-        "id": "EX1_165t1",
-        "mechanics": [
-            "Charge"
-        ],
-        "name": "Druido dell'Unghia",
-        "playerClass": "Druid",
-        "race": "Beast",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Carica</b>",
         "type": "Minion"
     },
     {
@@ -1997,6 +1982,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_334e",
+        "name": "Follia d'Ombra",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Cambio di schieramento per questo turno.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 3,
@@ -2081,6 +2074,17 @@
         "type": "Spell"
     },
     {
+        "cost": 0,
+        "faction": "Neutral",
+        "id": "EX1_596e",
+        "name": "Fuoco Demoniaco",
+        "playerClass": "Warlock",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "+2/+2.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Ben Wootten",
         "collectible": true,
         "cost": 2,
@@ -2091,19 +2095,8 @@
         "playerClass": "Warlock",
         "rarity": "Common",
         "set": "Classic",
-        "text": "Infligge $2 danni a un servitore. Se il bersaglio \u00e8 un tuo Demone, gli fornisce +2/+2.",
+        "text": "Infligge $2 danni a un servitore. Se il bersaglio \u00e8 un tuo Demone, gli fornisce invece +2/+2.",
         "type": "Spell"
-    },
-    {
-        "cost": 0,
-        "faction": "Neutral",
-        "id": "EX1_596e",
-        "name": "Fuoco Demoniaco",
-        "playerClass": "Warlock",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "+2/+2.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_561e",
@@ -2720,6 +2713,14 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_178ae",
+        "name": "Immobilizzato",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+5 Salute e <b>Provocazione</b>.",
+        "type": "Enchantment"
+    },
+    {
         "faction": "Neutral",
         "id": "EX1_178a",
         "name": "Immobilizzato",
@@ -2727,14 +2728,6 @@
         "set": "Classic",
         "text": "+5 Salute e <b>Provocazione</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_178ae",
-        "name": "Immobilizzato",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+5 Salute e <b>Provocazione</b>.",
-        "type": "Enchantment"
     },
     {
         "attack": 1,
@@ -2811,13 +2804,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "DREAM_05e",
-        "name": "Incubo",
-        "set": "Classic",
-        "text": "+5/+5, per\u00f2 verr\u00e0 presto distrutto.",
-        "type": "Enchantment"
-    },
-    {
         "cost": 0,
         "id": "DREAM_05",
         "name": "Incubo",
@@ -2825,6 +2811,13 @@
         "set": "Classic",
         "text": "+5/+5 a un servitore: all'inizio del tuo turno, viene distrutto.",
         "type": "Spell"
+    },
+    {
+        "id": "DREAM_05e",
+        "name": "Incubo",
+        "set": "Classic",
+        "text": "+5/+5, per\u00f2 verr\u00e0 presto distrutto.",
+        "type": "Enchantment"
     },
     {
         "artist": "Jim Nelson",
@@ -2985,20 +2978,20 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_154b",
-        "name": "Ira Silvana",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Infligge $1 |4(danno,danni) a un servitore. Pesca una carta.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_154a",
         "name": "Ira Silvana",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Infligge $3 danni a un servitore.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_154b",
+        "name": "Ira Silvana",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Infligge $1 |4(danno,danni) a un servitore. Pesca una carta.",
         "type": "Spell"
     },
     {
@@ -3333,14 +3326,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_155ae",
-        "name": "Marchio della Natura",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 Attacco.",
-        "type": "Enchantment"
-    },
-    {
         "faction": "Neutral",
         "id": "EX1_155b",
         "name": "Marchio della Natura",
@@ -3378,6 +3363,14 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "+4 Salute e <b>Provocazione</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_155ae",
+        "name": "Marchio della Natura",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 Attacco.",
         "type": "Enchantment"
     },
     {
@@ -3885,14 +3878,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_379e",
-        "name": "Penitenza",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Salute ridotta a 1.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 1,
@@ -3908,6 +3893,14 @@
         "set": "Classic",
         "text": "<b>Segreto:</b> quando l'avversario gioca un servitore, riduce la sua Salute a 1.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_379e",
+        "name": "Penitenza",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Salute ridotta a 1.",
+        "type": "Enchantment"
     },
     {
         "artist": "Raven Mimura",
@@ -4122,17 +4115,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_145o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Preparazione",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "La prossima Magia che lanci in questo turno costa (3) Mana in meno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Clint Langley",
         "collectible": true,
         "cost": 0,
@@ -4145,6 +4127,17 @@
         "set": "Classic",
         "text": "La prossima Magia che lanci in questo turno costa (3) Mana in meno.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_145o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Preparazione",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "La prossima Magia che lanci in questo turno costa (3) Mana in meno.",
+        "type": "Enchantment"
     },
     {
         "artist": "Luca Zontini",
@@ -4417,17 +4410,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Ruggito Demoralizzante",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "-3 Attacco per questo turno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Dan Scott",
         "attack": 5,
         "collectible": true,
@@ -4446,6 +4428,22 @@
         "type": "Minion"
     },
     {
+        "id": "CS2_073e2",
+        "name": "Sangue Freddo",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+4 Attacco.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "CS2_073e",
+        "name": "Sangue Freddo",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+2 Attacco.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -4461,22 +4459,6 @@
         "set": "Classic",
         "text": "+2 Attacco a un servitore. <b>Combo:</b> +4 Attacco.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_073e2",
-        "name": "Sangue Freddo",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+4 Attacco.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "CS2_073e",
-        "name": "Sangue Freddo",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+2 Attacco.",
-        "type": "Enchantment"
     },
     {
         "id": "NEW1_012o",
@@ -4608,6 +4590,15 @@
     },
     {
         "artist": "Lars Grant-West",
+        "id": "CS2_053e",
+        "name": "Sguardo Lontano",
+        "playerClass": "Shaman",
+        "set": "Classic",
+        "text": "Una delle tue carte costa (3) Mana in meno.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Lars Grant-West",
         "collectible": true,
         "cost": 3,
         "faction": "Neutral",
@@ -4619,15 +4610,6 @@
         "set": "Classic",
         "text": "Pesca una carta: la carta pescata costa (3) Mana in meno.",
         "type": "Spell"
-    },
-    {
-        "artist": "Lars Grant-West",
-        "id": "CS2_053e",
-        "name": "Sguardo Lontano",
-        "playerClass": "Shaman",
-        "set": "Classic",
-        "text": "Una delle tue carte costa (3) Mana in meno.",
-        "type": "Enchantment"
     },
     {
         "artist": "Linggar Bramanty",
@@ -5158,15 +5140,12 @@
     {
         "attack": 2,
         "cost": 1,
+        "faction": "Neutral",
         "health": 2,
-        "id": "EX1_573t",
-        "mechanics": [
-            "Taunt"
-        ],
+        "id": "EX1_158t",
         "name": "Treant",
         "playerClass": "Druid",
         "set": "Classic",
-        "text": "<b>Provocazione</b>",
         "type": "Minion"
     },
     {
@@ -5188,12 +5167,15 @@
     {
         "attack": 2,
         "cost": 1,
-        "faction": "Neutral",
         "health": 2,
-        "id": "EX1_158t",
+        "id": "EX1_573t",
+        "mechanics": [
+            "Taunt"
+        ],
         "name": "Treant",
         "playerClass": "Druid",
         "set": "Classic",
+        "text": "<b>Provocazione</b>",
         "type": "Minion"
     },
     {
@@ -5456,7 +5438,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "Alla fine del tuo turno, pesca una carta Sogno.",
+        "text": "Alla fine del tuo turno, mette una carta Sogno nella tua mano.",
         "type": "Minion"
     }
 ]

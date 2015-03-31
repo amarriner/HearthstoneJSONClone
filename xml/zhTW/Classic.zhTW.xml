@@ -311,7 +311,7 @@
    True
   </elite>
   <text>
-   在你的回合結束時，抽一張夢境卡
+   在你的回合結束時，放一張夢境卡到你的手牌中
   </text>
   <artist>
    Gabor Szikszai
@@ -646,6 +646,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   先祖之魂
+  </name>
+  <text>
+   &lt;b&gt;死亡之聲:&lt;/b&gt;重新召喚這個手下
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_038e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -678,26 +698,6 @@
   </type>
   <id>
    CS2_038
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   先祖之魂
-  </name>
-  <text>
-   &lt;b&gt;死亡之聲:&lt;/b&gt;重新召喚這個手下
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_038e
   </id>
   <playerclass>
    Shaman
@@ -1191,13 +1191,13 @@
    冷血
   </name>
   <text>
-   +4攻擊力
+   +2攻擊力
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e2
+   CS2_073e
   </id>
   <playerclass>
    Rogue
@@ -1211,13 +1211,13 @@
    冷血
   </name>
   <text>
-   +2攻擊力
+   +4攻擊力
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS2_073e
+   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -1275,46 +1275,6 @@
  <item>
   <mechanics>
    <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   利爪德魯伊
-  </name>
-  <text>
-   &lt;b&gt;衝鋒&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Taunt
    </item>
   </mechanics>
@@ -1347,6 +1307,46 @@
   </type>
   <id>
    EX1_165t2
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   利爪德魯伊
+  </name>
+  <text>
+   &lt;b&gt;衝鋒&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -1703,13 +1703,13 @@
    Neutral
   </faction>
   <text>
-   賦予你其他手下+2/+2
+   +2/+2
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_573a
+   EX1_573ae
   </id>
   <playerclass>
    Druid
@@ -1726,13 +1726,13 @@
    Neutral
   </faction>
   <text>
-   +2/+2
+   賦予你其他手下+2/+2
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_573ae
+   EX1_573a
   </id>
   <playerclass>
    Druid
@@ -2291,13 +2291,13 @@
    命令之吼
   </name>
   <text>
-   你的手下們在本回合內生命值不會低於1點
+   本回合內生命值不會低於1點
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   NEW1_036e2
+   NEW1_036e
   </id>
   <playerclass>
    Warrior
@@ -2316,13 +2316,13 @@
    命令之吼
   </name>
   <text>
-   本回合內生命值不會低於1點
+   你的手下們在本回合內生命值不會低於1點
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   NEW1_036e
+   NEW1_036e2
   </id>
   <playerclass>
    Warrior
@@ -2716,6 +2716,29 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   壓倒性的力量
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   這手下擁有+4/+4，但回合結束時會悲慘地死去
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_316e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2748,29 +2771,6 @@
   </type>
   <id>
    EX1_316
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   壓倒性的力量
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   這手下擁有+4/+4，但回合結束時會悲慘地死去
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_316e
   </id>
   <playerclass>
    Warlock
@@ -4018,6 +4018,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   心靈之怒
+  </name>
+  <text>
+   +2攻擊力
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -4050,26 +4070,6 @@
   </type>
   <id>
    EX1_607
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   心靈之怒
-  </name>
-  <text>
-   +2攻擊力
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
   </id>
   <playerclass>
    Warrior
@@ -4351,6 +4351,35 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   惡魔火焰
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   這個惡魔獲得+2/+2
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_596e
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -4383,35 +4412,6 @@
   </type>
   <id>
    EX1_596
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   惡魔火焰
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   這個惡魔獲得+2/+2
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_596e
   </id>
   <playerclass>
    Warlock
@@ -4553,13 +4553,13 @@
    Neutral
   </faction>
   <text>
-   對一個手下造成$1點傷害。抽一張牌
+   對一個手下造成$3點傷害
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154b
+   EX1_154a
   </id>
   <playerclass>
    Druid
@@ -4576,13 +4576,13 @@
    Neutral
   </faction>
   <text>
-   對一個手下造成$3點傷害
+   對一個手下造成$1點傷害。抽一張牌
   </text>
   <type>
    Spell
   </type>
   <id>
-   EX1_154a
+   EX1_154b
   </id>
   <playerclass>
    Druid
@@ -4989,29 +4989,6 @@
   <name>
    拔根
   </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   +5攻擊力
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_178b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   拔根
-  </name>
   <text>
    +5攻擊力
   </text>
@@ -5026,25 +5003,23 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
   <set>
    Classic
   </set>
   <name>
-   挫志咆哮
+   拔根
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   本回合這個手下-3攻擊力
+   +5攻擊力
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_161o
+   EX1_178b
   </id>
   <playerclass>
    Druid
@@ -5438,26 +5413,6 @@
    星殞術
   </name>
   <text>
-   對一個手下造成$5點傷害
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   星殞術
-  </name>
-  <text>
    對全部敵方手下造成$2點傷害
   </text>
   <type>
@@ -5510,6 +5465,26 @@
    Classic
   </set>
   <name>
+   星殞術
+  </name>
+  <text>
+   對一個手下造成$5點傷害
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
    智慧祝福
   </name>
   <text>
@@ -5520,6 +5495,26 @@
   </type>
   <id>
    EX1_363e2
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   智慧祝福
+  </name>
+  <text>
+   當這個手下進行攻擊，祝福它的玩家抽一張牌
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -5555,26 +5550,6 @@
   </type>
   <id>
    EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   智慧祝福
-  </name>
-  <text>
-   當這個手下進行攻擊，祝福它的玩家抽一張牌
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -5653,6 +5628,26 @@
   </type>
   <id>
    EX1_625
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   暗影狂亂
+  </name>
+  <text>
+   本回合這個手下的控制者換人了
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
   </id>
   <playerclass>
    Priest
@@ -6338,46 +6333,6 @@
  <item>
   <mechanics>
    <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   樹人
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;衝鋒&lt;/b&gt;。在回合結束時，摧毀這個手下
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_tk9
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
     Taunt
    </item>
   </mechanics>
@@ -6433,6 +6388,46 @@
   </type>
   <id>
    EX1_158t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   樹人
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;衝鋒&lt;/b&gt;。在回合結束時，摧毀這個手下
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_tk9
   </id>
   <playerclass>
    Druid
@@ -7352,52 +7347,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   滋補術
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   抽3張牌
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   滋補術
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   獲得2顆法力水晶
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -7430,6 +7379,52 @@
   </type>
   <id>
    EX1_164
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   滋補術
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   獲得2顆法力水晶
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   滋補術
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   抽3張牌
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -8475,14 +8470,17 @@
   <name>
    獸群領袖
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   +1/+1
+   賦予你全部的手下+1/+1
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_160be
+   EX1_160b
   </id>
   <playerclass>
    Druid
@@ -8495,17 +8493,14 @@
   <name>
    獸群領袖
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   賦予你全部的手下+1/+1
+   +1/+1
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_160b
+   EX1_160be
   </id>
   <playerclass>
    Druid
@@ -9088,23 +9083,6 @@
   <playerclass>
    Rogue
   </playerclass>
- </item>
- <item>
-  <text>
-   +1耐久度
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   磨利
-  </name>
  </item>
  <item>
   <mechanics>
@@ -10328,20 +10306,38 @@
   </playerclass>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
   <set>
    Classic
   </set>
   <name>
    自然印記
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   這個手下擁有+4攻擊力
+   &lt;b&gt;二選一:&lt;/b&gt;給一個手下+4攻擊力，或+4生命值及&lt;b&gt;嘲諷&lt;/b&gt;
   </text>
+  <artist>
+   Clint Langley
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <flavor>
+   德魯伊們說這叫「自然印記」。其他人則說他們「該洗澡了」。
+  </flavor>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_155ae
+   EX1_155
   </id>
   <playerclass>
    Druid
@@ -10397,6 +10393,26 @@
   <name>
    自然印記
   </name>
+  <text>
+   這個手下擁有+4攻擊力
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155ae
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   自然印記
+  </name>
   <faction>
    Neutral
   </faction>
@@ -10408,44 +10424,6 @@
   </type>
   <id>
    EX1_155b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   自然印記
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;二選一:&lt;/b&gt;給一個手下+4攻擊力，或+4生命值及&lt;b&gt;嘲諷&lt;/b&gt;
-  </text>
-  <artist>
-   Clint Langley
-  </artist>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   3
-  </cost>
-  <flavor>
-   德魯伊們說這叫「自然印記」。其他人則說他們「該洗澡了」。
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_155
   </id>
   <playerclass>
    Druid
@@ -11789,6 +11767,41 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   賈拉克瑟斯領主
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   15
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Hero
+  </type>
+  <id>
+   EX1_323h
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -11835,41 +11848,6 @@
   </type>
   <id>
    EX1_323
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   賈拉克瑟斯領主
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <rarity>
-   Legendary
-  </rarity>
-  <attack>
-   0
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   15
-  </health>
-  <race>
-   Demon
-  </race>
-  <type>
-   Hero
-  </type>
-  <id>
-   EX1_323h
   </id>
   <playerclass>
    Warlock
@@ -12937,26 +12915,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   隱蔽
-  </name>
-  <text>
-   潛行，直到你的下一回合為止
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_128e
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12989,6 +12947,26 @@
   </type>
   <id>
    EX1_128
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   隱蔽
+  </name>
+  <text>
+   潛行，直到你的下一回合為止
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_128e
   </id>
   <playerclass>
    Rogue
@@ -14064,26 +14042,6 @@
   <id>
    EX1_029
   </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   黑暗敕令
-  </name>
-  <text>
-   本回合這個手下的控制者換人了
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
  </item>
  <item>
   <mechanics>

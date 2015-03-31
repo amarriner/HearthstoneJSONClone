@@ -419,6 +419,26 @@
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Ancestral Spirit
+  </name>
+  <text>
+   &lt;b&gt;Deathrattle:&lt;/b&gt; Resummon this minion.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_038e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -451,26 +471,6 @@
   </type>
   <id>
    CS2_038
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Ancestral Spirit
-  </name>
-  <text>
-   &lt;b&gt;Deathrattle:&lt;/b&gt; Resummon this minion.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_038e
   </id>
   <playerclass>
    Shaman
@@ -1217,7 +1217,7 @@
    Neutral
   </faction>
   <text>
-   Deal $8 damage randomly split among enemy characters.
+   Deal $8 damage randomly split among all enemies.
   </text>
   <artist>
    Alex Garner
@@ -1323,23 +1323,6 @@
   </id>
  </item>
  <item>
-  <text>
-   Has +1/+1.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_014te
-  </id>
-  <name>
-   Bananas
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -1358,6 +1341,23 @@
   <id>
    EX1_014t
   </id>
+ </item>
+ <item>
+  <text>
+   Has +1/+1.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_014te
+  </id>
+  <name>
+   Bananas
+  </name>
  </item>
  <item>
   <collectible>
@@ -1696,6 +1696,28 @@
   </id>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bite
+  </name>
+  <text>
+   +4 Attack this turn.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1732,28 +1754,6 @@
   <playerclass>
    Druid
   </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bite
-  </name>
-  <text>
-   +4 Attack this turn.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
  </item>
  <item>
   <mechanics>
@@ -1816,26 +1816,6 @@
   </name>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Blessed Champion
-  </name>
-  <text>
-   This minion&amp;apos;s Attack has been doubled.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_355e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -1865,6 +1845,26 @@
   </type>
   <id>
    EX1_355
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Blessed Champion
+  </name>
+  <text>
+   This minion&amp;apos;s Attack has been doubled.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_355e
   </id>
   <playerclass>
    Paladin
@@ -2650,6 +2650,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Cold Blood
+  </name>
+  <text>
+   +4 Attack.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Combo
@@ -2687,26 +2707,6 @@
   </type>
   <id>
    CS2_073
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Cold Blood
-  </name>
-  <text>
-   +4 Attack.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -2836,6 +2836,31 @@
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Commanding Shout
+  </name>
+  <text>
+   Can&amp;apos;t be reduced below 1 Health this turn.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NEW1_036e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2865,31 +2890,6 @@
   </type>
   <id>
    NEW1_036
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Commanding Shout
-  </name>
-  <text>
-   Can&amp;apos;t be reduced below 1 Health this turn.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   NEW1_036e
   </id>
   <playerclass>
    Warrior
@@ -3231,26 +3231,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dark Command
-  </name>
-  <text>
-   This minion has switched controllers this turn.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Battlecry
@@ -3550,13 +3530,13 @@
    Neutral
   </faction>
   <text>
-   +2/+2.
+   Give your other minions +2/+2.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_573ae
+   EX1_573a
   </id>
   <playerclass>
    Druid
@@ -3573,13 +3553,13 @@
    Neutral
   </faction>
   <text>
-   Give your other minions +2/+2.
+   +2/+2.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_573a
+   EX1_573ae
   </id>
   <playerclass>
    Druid
@@ -3697,31 +3677,6 @@
   </id>
   <playerclass>
    Warlock
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Demoralizing Roar
-  </name>
-  <text>
-   This minion has -3 Attack this turn.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
   </playerclass>
  </item>
  <item>
@@ -4610,26 +4565,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Equality
-  </name>
-  <text>
-   Health changed to 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -4662,6 +4597,26 @@
   </type>
   <id>
    EX1_619
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Equality
+  </name>
+  <text>
+   Health changed to 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -6837,26 +6792,6 @@ Summon a 6/6 Infernal.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Inner Rage
-  </name>
-  <text>
-   +2 Attack.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -6889,6 +6824,26 @@ Summon a 6/6 Infernal.
   </type>
   <id>
    EX1_607
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Inner Rage
+  </name>
+  <text>
+   +2 Attack.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
   </id>
   <playerclass>
    Warrior
@@ -7851,6 +7806,41 @@ Summon a 6/6 Infernal.
   </id>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Lord Jaraxxus
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   15
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Hero
+  </type>
+  <id>
+   EX1_323h
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -7897,41 +7887,6 @@ Summon a 6/6 Infernal.
   </type>
   <id>
    EX1_323
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Lord Jaraxxus
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <rarity>
-   Legendary
-  </rarity>
-  <attack>
-   0
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   15
-  </health>
-  <race>
-   Demon
-  </race>
-  <type>
-   Hero
-  </type>
-  <id>
-   EX1_323h
   </id>
   <playerclass>
    Warlock
@@ -8284,26 +8239,6 @@ Summon a 6/6 Infernal.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mark of Nature
-  </name>
-  <text>
-   This minion has +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155be
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -8348,17 +8283,14 @@ Summon a 6/6 Infernal.
   <name>
    Mark of Nature
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
+   This minion has +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_155b
+   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -8382,6 +8314,29 @@ Summon a 6/6 Infernal.
   </type>
   <id>
    EX1_155a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Mark of Nature
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_155b
   </id>
   <playerclass>
    Druid
@@ -9338,29 +9293,6 @@ Deal 2 damage.
    Neutral
   </faction>
   <text>
-   Draw 3 cards.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Nourish
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
    Gain 2 Mana Crystals.
   </text>
   <type>
@@ -9406,6 +9338,29 @@ Deal 2 damage.
   </type>
   <id>
    EX1_164
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Nourish
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Draw 3 cards.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -10226,26 +10181,6 @@ Deal 2 damage.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rampage
-  </name>
-  <text>
-   +3/+3.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_104e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -10278,6 +10213,26 @@ Deal 2 damage.
   </type>
   <id>
    CS2_104
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Rampage
+  </name>
+  <text>
+   +3/+3.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_104e
   </id>
   <playerclass>
    Warrior
@@ -10810,6 +10765,26 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Shadow Madness
+  </name>
+  <text>
+   This minion has switched controllers this turn.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -11053,23 +11028,6 @@ Deal 2 damage.
   </id>
   <name>
    Sharp!
-  </name>
- </item>
- <item>
-  <text>
-   +1 Durability.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Sharpened
   </name>
  </item>
  <item>
@@ -11592,26 +11550,6 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Soul of the Forest
-  </name>
-  <text>
-   Deathrattle: Summon a 2/2 Treant.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -11644,6 +11582,26 @@ Deal 2 damage.
   </type>
   <id>
    EX1_158
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Soul of the Forest
+  </name>
+  <text>
+   Deathrattle: Summon a 2/2 Treant.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -11740,35 +11698,6 @@ Deal 2 damage.
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Spellbender
-  </name>
-  <rarity>
-   Epic
-  </rarity>
-  <attack>
-   1
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   3
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   tt_010a
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Secret
@@ -11806,6 +11735,35 @@ Deal 2 damage.
   </type>
   <id>
    tt_010
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Spellbender
+  </name>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   tt_010a
   </id>
   <playerclass>
    Mage
@@ -12081,13 +12039,13 @@ Deal 2 damage.
    Starfall
   </name>
   <text>
-   Deal $2 damage to all enemy minions.
+   Deal $5 damage to a minion.
   </text>
   <type>
    Spell
   </type>
   <id>
-   NEW1_007a
+   NEW1_007b
   </id>
   <playerclass>
    Druid
@@ -12101,13 +12059,13 @@ Deal 2 damage.
    Starfall
   </name>
   <text>
-   Deal $5 damage to a minion.
+   Deal $2 damage to all enemy minions.
   </text>
   <type>
    Spell
   </type>
   <id>
-   NEW1_007b
+   NEW1_007a
   </id>
   <playerclass>
    Druid
@@ -13002,6 +12960,35 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Treant
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_158t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Taunt
@@ -13030,35 +13017,6 @@ Deal 2 damage.
   </type>
   <id>
    EX1_573t
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Treant
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_158t
   </id>
   <playerclass>
    Druid
@@ -13293,26 +13251,6 @@ Deal 2 damage.
    Upgraded
   </name>
   <text>
-   Increased Durability.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_536e
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Upgraded
-  </name>
-  <text>
    +1 Attack and +1 Durability.
   </text>
   <type>
@@ -13323,6 +13261,26 @@ Deal 2 damage.
   </id>
   <playerclass>
    Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Upgraded
+  </name>
+  <text>
+   Increased Durability.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_536e
+  </id>
+  <playerclass>
+   Hunter
   </playerclass>
  </item>
  <item>
@@ -13634,6 +13592,32 @@ Deal 2 damage.
   <name>
    Whelp
   </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Whelp
+  </name>
   <faction>
    Neutral
   </faction>
@@ -13654,32 +13638,6 @@ Deal 2 damage.
   </type>
   <id>
    ds1_whelptoken
-  </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Whelp
-  </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
   </id>
  </item>
  <item>
@@ -13906,52 +13864,6 @@ Deal 2 damage.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Wrath
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Deal $1 damage to a minion. Draw a card.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_154b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Wrath
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   Deal $3 damage to a minion.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_154a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -13984,6 +13896,52 @@ Deal 2 damage.
   </type>
   <id>
    EX1_154
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Wrath
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Deal $3 damage to a minion.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_154a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Wrath
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   Deal $1 damage to a minion. Draw a card.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_154b
   </id>
   <playerclass>
    Druid
@@ -14156,7 +14114,7 @@ Deal 2 damage.
    True
   </elite>
   <text>
-   At the end of your turn, draw a Dream Card.
+   At the end of your turn, add a Dream Card to your hand.
   </text>
   <artist>
    Gabor Szikszai

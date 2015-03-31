@@ -155,6 +155,17 @@
     },
     {
         "cost": 0,
+        "id": "XXX_060",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
+        "name": "Damage All",
+        "set": "Debug",
+        "text": "Set the Health of a character to 0.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
         "id": "XXX_020",
         "mechanics": [
             "ImmuneToSpellpower"
@@ -192,6 +203,14 @@
         "rarity": "Common",
         "set": "Debug",
         "text": "Pick a player and destroy one of his Mana Crystals.",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_059",
+        "name": "Destroy All",
+        "set": "Debug",
+        "text": "Destroy Hero Power, Destory Deck, and Discard Hand.",
         "type": "Spell"
     },
     {
@@ -319,6 +338,13 @@
         "type": "Spell"
     },
     {
+        "id": "XXX_022e",
+        "name": "Free Cards",
+        "set": "Debug",
+        "text": "Your cards cost (0) for the rest of the game.",
+        "type": "Enchantment"
+    },
+    {
         "cost": 0,
         "id": "XXX_022",
         "name": "Free Cards",
@@ -326,13 +352,6 @@
         "set": "Debug",
         "text": "Your cards cost (0) for the rest of the game.",
         "type": "Spell"
-    },
-    {
-        "id": "XXX_022e",
-        "name": "Free Cards",
-        "set": "Debug",
-        "text": "Your cards cost (0) for the rest of the game.",
-        "type": "Enchantment"
     },
     {
         "cost": 0,
@@ -531,6 +550,22 @@
         "id": "XXX_054e",
         "name": "Weapon Buff Enchant",
         "set": "Debug",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_058",
+        "name": "Weapon Nerf",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "Give a weapon a negative enchantment.",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_058e",
+        "name": "Weapon Nerf Enchant",
+        "set": "Debug",
+        "text": "Red Sparkles!",
         "type": "Enchantment"
     }
 ]

@@ -1303,6 +1303,26 @@ Deal 1 damage.
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Ancestral Spirit
+   </name>
+   <text>
+    &lt;b&gt;Deathrattle:&lt;/b&gt; Resummon this minion.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_038e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -1335,26 +1355,6 @@ Deal 1 damage.
    </type>
    <id>
     CS2_038
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Ancestral Spirit
-   </name>
-   <text>
-    &lt;b&gt;Deathrattle:&lt;/b&gt; Resummon this minion.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_038e
    </id>
    <playerclass>
     Shaman
@@ -2101,7 +2101,7 @@ Deal 1 damage.
     Neutral
    </faction>
    <text>
-    Deal $8 damage randomly split among enemy characters.
+    Deal $8 damage randomly split among all enemies.
    </text>
    <artist>
     Alex Garner
@@ -2207,23 +2207,6 @@ Deal 1 damage.
    </id>
   </item>
   <item>
-   <text>
-    Has +1/+1.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_014te
-   </id>
-   <name>
-    Bananas
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -2242,6 +2225,23 @@ Deal 1 damage.
    <id>
     EX1_014t
    </id>
+  </item>
+  <item>
+   <text>
+    Has +1/+1.
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_014te
+   </id>
+   <name>
+    Bananas
+   </name>
   </item>
   <item>
    <collectible>
@@ -2580,6 +2580,28 @@ Deal 1 damage.
    </id>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Bite
+   </name>
+   <text>
+    +4 Attack this turn.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_570e
+   </id>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -2616,28 +2638,6 @@ Deal 1 damage.
    <playerclass>
     Druid
    </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Bite
-   </name>
-   <text>
-    +4 Attack this turn.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_570e
-   </id>
   </item>
   <item>
    <mechanics>
@@ -2700,26 +2700,6 @@ Deal 1 damage.
    </name>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Blessed Champion
-   </name>
-   <text>
-    This minion&amp;apos;s Attack has been doubled.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_355e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -2749,6 +2729,26 @@ Deal 1 damage.
    </type>
    <id>
     EX1_355
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Blessed Champion
+   </name>
+   <text>
+    This minion&amp;apos;s Attack has been doubled.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_355e
    </id>
    <playerclass>
     Paladin
@@ -3534,6 +3534,26 @@ Deal 1 damage.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Cold Blood
+   </name>
+   <text>
+    +4 Attack.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_073e2
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Combo
@@ -3571,26 +3591,6 @@ Deal 1 damage.
    </type>
    <id>
     CS2_073
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Cold Blood
-   </name>
-   <text>
-    +4 Attack.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_073e2
    </id>
    <playerclass>
     Rogue
@@ -3720,6 +3720,31 @@ Deal 1 damage.
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Commanding Shout
+   </name>
+   <text>
+    Can&amp;apos;t be reduced below 1 Health this turn.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    NEW1_036e
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -3749,31 +3774,6 @@ Deal 1 damage.
    </type>
    <id>
     NEW1_036
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Commanding Shout
-   </name>
-   <text>
-    Can&amp;apos;t be reduced below 1 Health this turn.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    NEW1_036e
    </id>
    <playerclass>
     Warrior
@@ -4115,26 +4115,6 @@ Deal 1 damage.
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Dark Command
-   </name>
-   <text>
-    This minion has switched controllers this turn.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_334e
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Battlecry
@@ -4434,13 +4414,13 @@ Deal 1 damage.
     Neutral
    </faction>
    <text>
-    +2/+2.
+    Give your other minions +2/+2.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_573ae
+    EX1_573a
    </id>
    <playerclass>
     Druid
@@ -4457,13 +4437,13 @@ Deal 1 damage.
     Neutral
    </faction>
    <text>
-    Give your other minions +2/+2.
+    +2/+2.
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_573a
+    EX1_573ae
    </id>
    <playerclass>
     Druid
@@ -4581,31 +4561,6 @@ Deal 1 damage.
    </id>
    <playerclass>
     Warlock
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Demoralizing Roar
-   </name>
-   <text>
-    This minion has -3 Attack this turn.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
    </playerclass>
   </item>
   <item>
@@ -5494,26 +5449,6 @@ Deal 1 damage.
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Equality
-   </name>
-   <text>
-    Health changed to 1.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_619e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -5546,6 +5481,26 @@ Deal 1 damage.
    </type>
    <id>
     EX1_619
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Equality
+   </name>
+   <text>
+    Health changed to 1.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_619e
    </id>
    <playerclass>
     Paladin
@@ -7721,26 +7676,6 @@ Summon a 6/6 Infernal.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Inner Rage
-   </name>
-   <text>
-    +2 Attack.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_607e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -7773,6 +7708,26 @@ Summon a 6/6 Infernal.
    </type>
    <id>
     EX1_607
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Inner Rage
+   </name>
+   <text>
+    +2 Attack.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_607e
    </id>
    <playerclass>
     Warrior
@@ -8735,6 +8690,41 @@ Summon a 6/6 Infernal.
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Lord Jaraxxus
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    15
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Hero
+   </type>
+   <id>
+    EX1_323h
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Battlecry
@@ -8781,41 +8771,6 @@ Summon a 6/6 Infernal.
    </elite>
    <id>
     EX1_323
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Lord Jaraxxus
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <rarity>
-    Legendary
-   </rarity>
-   <attack>
-    0
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    15
-   </health>
-   <race>
-    Demon
-   </race>
-   <type>
-    Hero
-   </type>
-   <id>
-    EX1_323h
    </id>
    <playerclass>
     Warlock
@@ -9168,26 +9123,6 @@ Summon a 6/6 Infernal.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Mark of Nature
-   </name>
-   <text>
-    This minion has +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155be
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -9232,17 +9167,14 @@ Summon a 6/6 Infernal.
    <name>
     Mark of Nature
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
+    This minion has +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_155b
+    EX1_155be
    </id>
    <playerclass>
     Druid
@@ -9266,6 +9198,29 @@ Summon a 6/6 Infernal.
    </type>
    <id>
     EX1_155a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Mark of Nature
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    +4 Health and &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_155b
    </id>
    <playerclass>
     Druid
@@ -10222,29 +10177,6 @@ Deal 2 damage.
     Neutral
    </faction>
    <text>
-    Draw 3 cards.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_164b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Nourish
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
     Gain 2 Mana Crystals.
    </text>
    <type>
@@ -10290,6 +10222,29 @@ Deal 2 damage.
    </type>
    <id>
     EX1_164
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Nourish
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Draw 3 cards.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_164b
    </id>
    <playerclass>
     Druid
@@ -11110,26 +11065,6 @@ Deal 2 damage.
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Rampage
-   </name>
-   <text>
-    +3/+3.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_104e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -11162,6 +11097,26 @@ Deal 2 damage.
    </type>
    <id>
     CS2_104
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Rampage
+   </name>
+   <text>
+    +3/+3.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_104e
    </id>
    <playerclass>
     Warrior
@@ -11694,6 +11649,26 @@ Deal 2 damage.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Shadow Madness
+   </name>
+   <text>
+    This minion has switched controllers this turn.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_334e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -11937,23 +11912,6 @@ Deal 2 damage.
    </id>
    <name>
     Sharp!
-   </name>
-  </item>
-  <item>
-   <text>
-    +1 Durability.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    Sharpened
    </name>
   </item>
   <item>
@@ -12476,26 +12434,6 @@ Deal 2 damage.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Soul of the Forest
-   </name>
-   <text>
-    Deathrattle: Summon a 2/2 Treant.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -12528,6 +12466,26 @@ Deal 2 damage.
    </type>
    <id>
     EX1_158
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Soul of the Forest
+   </name>
+   <text>
+    Deathrattle: Summon a 2/2 Treant.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -12624,35 +12582,6 @@ Deal 2 damage.
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Spellbender
-   </name>
-   <rarity>
-    Epic
-   </rarity>
-   <attack>
-    1
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    3
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    tt_010a
-   </id>
-   <playerclass>
-    Mage
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Secret
@@ -12690,6 +12619,35 @@ Deal 2 damage.
    </type>
    <id>
     tt_010
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Spellbender
+   </name>
+   <rarity>
+    Epic
+   </rarity>
+   <attack>
+    1
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    tt_010a
    </id>
    <playerclass>
     Mage
@@ -12965,13 +12923,13 @@ Deal 2 damage.
     Starfall
    </name>
    <text>
-    Deal $2 damage to all enemy minions.
+    Deal $5 damage to a minion.
    </text>
    <type>
     Spell
    </type>
    <id>
-    NEW1_007a
+    NEW1_007b
    </id>
    <playerclass>
     Druid
@@ -12985,13 +12943,13 @@ Deal 2 damage.
     Starfall
    </name>
    <text>
-    Deal $5 damage to a minion.
+    Deal $2 damage to all enemy minions.
    </text>
    <type>
     Spell
    </type>
    <id>
-    NEW1_007b
+    NEW1_007a
    </id>
    <playerclass>
     Druid
@@ -13886,6 +13844,35 @@ Deal 2 damage.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Treant
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_158t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Taunt
@@ -13914,35 +13901,6 @@ Deal 2 damage.
    </type>
    <id>
     EX1_573t
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Treant
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <attack>
-    2
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    2
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_158t
    </id>
    <playerclass>
     Druid
@@ -14177,26 +14135,6 @@ Deal 2 damage.
     Upgraded
    </name>
    <text>
-    Increased Durability.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_536e
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Upgraded
-   </name>
-   <text>
     +1 Attack and +1 Durability.
    </text>
    <type>
@@ -14207,6 +14145,26 @@ Deal 2 damage.
    </id>
    <playerclass>
     Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Upgraded
+   </name>
+   <text>
+    Increased Durability.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_536e
+   </id>
+   <playerclass>
+    Hunter
    </playerclass>
   </item>
   <item>
@@ -14518,6 +14476,32 @@ Deal 2 damage.
    <name>
     Whelp
    </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_116t
+   </id>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Whelp
+   </name>
    <faction>
     Neutral
    </faction>
@@ -14538,32 +14522,6 @@ Deal 2 damage.
    </type>
    <id>
     ds1_whelptoken
-   </id>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Whelp
-   </name>
-   <attack>
-    1
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    1
-   </health>
-   <race>
-    Dragon
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_116t
    </id>
   </item>
   <item>
@@ -14790,52 +14748,6 @@ Deal 2 damage.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Wrath
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Deal $1 damage to a minion. Draw a card.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_154b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Wrath
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Deal $3 damage to a minion.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_154a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -14868,6 +14780,52 @@ Deal 2 damage.
    </type>
    <id>
     EX1_154
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Wrath
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Deal $3 damage to a minion.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_154a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Wrath
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Deal $1 damage to a minion. Draw a card.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_154b
    </id>
    <playerclass>
     Druid
@@ -15037,7 +14995,7 @@ Deal 2 damage.
     Neutral
    </faction>
    <text>
-    At the end of your turn, draw a Dream Card.
+    At the end of your turn, add a Dream Card to your hand.
    </text>
    <artist>
     Gabor Szikszai
@@ -16751,7 +16709,7 @@ Destroy a minion.
     FP1_013
    </id>
    <flavor>
-    Kel&amp;apos;Thuzad could not resist the call of the Lich King.   Even when it&amp;apos;s just a robo-call extolling the Lich King&amp;apos;s virtues.
+    Kel&amp;apos;Thuzad could not resist the call of the Lich King. Even when it&amp;apos;s just a robo-call extolling the Lich King&amp;apos;s virtues.
    </flavor>
    <howtoget>
     Unlocked by defeating every boss in Naxxramas!
@@ -20058,6 +20016,5665 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aberration
+   </name>
+   <text>
+    &lt;b&gt;Charge&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Arcanotron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Arcanotron!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Arcanotron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Arcanotron!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Electron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Electron!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Electron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Electron!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Magmatron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Magmatron!
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Magmatron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Magmatron!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Toxitron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Toxitron!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate Toxitron
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate Toxitron!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate a random Tron.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Activate!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Activate a random Tron.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Arcanotron
+   </name>
+   <text>
+    Both players have &lt;b&gt;Spell Damage +2&lt;/b&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Axe Flinger
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    Whenever this minion takes damage, deal 2 damage to the enemy hero.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    Once a lowly "Stick Flinger", he&amp;apos;s been relentless on the path to his ultimate dream: "Tauren Flinger".
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Warrior Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Warrior Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    Baron Geddon
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    Baron Geddon
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Black Whelp
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Blackwing
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 5/4 Dragonkin. Get a new Hero Power.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Blackwing
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 3/1 Dragonkin. Get a new Hero Power.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Blackwing Corruptor
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Battlecry&lt;/b&gt;: If you&amp;apos;re holding a Dragon, deal 3 damage.
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    He got his name when he gave Blackwing some comic books and rock &amp; roll records.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Maloriak in the Hidden Laboratory.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Maloriak in the Hidden Laboratory.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Blackwing Technician
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; If you&amp;apos;re holding a Dragon, gain +1/+1.
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    This is who you go to when your Blackwing needs a tune up. Don&amp;apos;t go to a cut rate Blackwing tune up shop!
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Baron Geddon in Molten Core.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Baron Geddon in Molten Core.
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    Increased Attack.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    Blind With Rage
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bone Construct
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bone Construct
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bone Minions
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon two 2/1 Bone Constructs.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Bone Minions
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon two 4/2 Bone Constructs.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+At the end of your turn, add a Brood Affliction card to your opponent&amp;apos;s hand.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+At the end of your turn, add a Brood Affliction card to your opponent&amp;apos;s hand.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Black
+   </name>
+   <text>
+    While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Black
+   </name>
+   <text>
+    While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Blue
+   </name>
+   <text>
+    While this is in your hand, Chromaggus&amp;apos; spells cost (1) less.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Blue
+   </name>
+   <text>
+    While this is in your hand, Chromaggus&amp;apos; spells cost (3) less.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Bronze
+   </name>
+   <text>
+    While this is in your hand, Chromaggus&amp;apos; minions cost (3) less.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Bronze
+   </name>
+   <text>
+    While this is in your hand, Chromaggus&amp;apos; minions cost (1) less.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Green
+   </name>
+   <text>
+    While this is in your hand, restore 6 health to your opponent at the start of your turn.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Green
+   </name>
+   <text>
+    While this is in your hand, restore 2 health to your opponent at the start of your turn.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Red
+   </name>
+   <text>
+    While this is in your hand, take 3 damage at the start of your turn.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brood Affliction: Red
+   </name>
+   <text>
+    While this is in your hand, take 1 damage at the start of your turn.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Burning Adrenaline
+   </name>
+   <text>
+    Deal $2 damage to the enemy hero.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromaggus
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    Whenever you draw a card, put another copy into your hand.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    Left head and right head can never agree about what to eat for dinner, so they always end up just eating ramen again.
+   </flavor>
+   <howtoget>
+    Unlocked by completing Blackwing Lair.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Can be crafted after completing Blackwing Lair.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    Chromaggus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    Chromaggus
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatic Dragonkin
+   </name>
+   <text>
+    Whenever your opponent casts a spell, gain +2/+2.
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    Chromatic Dragonkin
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatic Drake
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatic Drake
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatic Mutation
+   </name>
+   <text>
+    Transform a minion into a 2/2 Chromatic Dragonkin.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatic Prototype
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Core Rager
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; If your hand is empty, gain +3/+3.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    It takes a special kind of hunter to venture deep into a firey lava pit and convince a monster who lives there to come home and be a cuddly housepet.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Highlord Omokk in Blackrock Spire.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Highlord Omokk in Blackrock Spire.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    Coren Direbrew
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    Coren Direbrew
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Corrupted Egg
+   </name>
+   <text>
+    When this minion has 4 or more Health, it hatches.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Corrupted Egg
+   </name>
+   <text>
+    When this minion has 5 or more Health, it hatches.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dark Iron Bouncer
+   </name>
+   <text>
+    Always wins Brawls.
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dark Iron Skulker
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; Deal 2 damage to all undamaged enemy minions.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    He loves skulking. He skulks after hours just for the joy of it, but his friends are pretty worried he&amp;apos;ll get burnt out.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Rogue Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Rogue Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dark Iron Spectator
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Demonwrath
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    Deal $2 damage to all non-Demon minions.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    Demons are not angry most of the time. You have to play this card in order to really bring it out of them.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Warlock Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Warlock Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    DIE, INSECT!
+   </name>
+   <text>
+    Deal $8 damage to a random enemy.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    DIE, INSECT!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 8 damage to a random enemy.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    DIE, INSECTS!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 8 damage to a random enemy. TWICE.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dismount
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon Gyth. Get a new Hero Power.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dismount
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon Gyth. Get a new Hero Power.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <text>
+    Increased stats.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    Draconic Power
+   </name>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    Dragon Blood
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragon Consort
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; The next Dragon you play costs (2) less.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating General Drakkisath in Blackrock Spire.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating General Drakkisath in Blackrock Spire.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragon Egg
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    Whenever this minion takes damage, summon a 2/1 Whelp.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    Think of them as bullets for your dragon gun.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Rend Blackhand in Blackrock Spire.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Rend Blackhand in Blackrock Spire.
+   </howtogetgold>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragon&amp;apos;s Breath
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    Deal $4 damage. Costs (1) less for each minion that died this turn.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    Dragons breathe fire, sure, but did you know they can also breathe Cotton Candy?  It&amp;apos;s harder to give them a reason to do that, though.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Mage Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Mage Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragon&amp;apos;s Might
+   </name>
+   <text>
+    Costs (3) less this turn.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonkin
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonkin
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonkin Sorcerer
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    Whenever you target this minion with a spell, gain +1/+1.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    Dragonkin Sorcerers be all "I&amp;apos;m a wizard" and everyone else be all "daaaaang".
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Nefarian in the Hidden Laboratory.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Nefarian in the Hidden Laboratory.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dragonteeth
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    Whenever your opponent plays a card, gain +1 Attack.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakkisath&amp;apos;s Command
+   </name>
+   <text>
+    Destroy a minion. Gain 10 Armor.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakonid Crusher
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; If your opponent has 15 or less Health, gain +3/+3.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    Drakonids were created to have all the bad parts of a dragon in the form of a humaniod. But, like, why?
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Atramedes in the Hidden Laboratory.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Atramedes in the Hidden Laboratory.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druid of the Flame
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druid of the Flame
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druid of the Flame
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;Choose One&lt;/b&gt; - Transform into a 5/2 minion; or a 2/5 minion.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    Druids who fought too long in Northrend were easily seduced by Ragnaros; a mug of hot chocolate was generally all it took.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Garr in Molten Core.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Garr in Molten Core.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Echolocate
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Equip a weapon that grows as your opponent plays cards.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Echolocate
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Equip a weapon that grows as your opponent plays cards.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Electron
+   </name>
+   <text>
+    All spells cost (3) less.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Electron
+   </name>
+   <text>
+    All spells cost (3) less.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    Emperor Thaurissan
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Emperor Thaurissan
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    At the end of your turn, reduce the Cost of cards in your hand by (1).
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    His second greatest regret is summoning an evil Firelord who enslaved his entire people.
+   </flavor>
+   <howtoget>
+    Unlocked by completing Blackrock Depths.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Can be crafted after completing Blackrock Depths.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    Emperor Thaurissan
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Essence of the Red
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Each player draws 3 cards. Gain a Mana Crystal.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Essence of the Red
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Each player draws 2 cards.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Fire Hawk Form
+   </name>
+   <text>
+    Transform into a 2/5 minion.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Firecat Form
+   </name>
+   <text>
+    Transform into a 5/2 minion.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Fireguard Destroyer
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; Gain 1-4 Attack. &lt;b&gt;Overload:&lt;/b&gt; (1)
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    Ragnaros interviews hundreds of Fire Elementals for the position of "Destroyer" but very few have what it takes.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Lord Victor Nefarius in Blackwing Lair.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Lord Victor Nefarius in Blackwing Lair.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Firesworn
+   </name>
+   <text>
+    &lt;b&gt;Deathrattle:&lt;/b&gt; Deal 1 damage to the enemy hero for each Firesworn that died this turn.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Firesworn
+   </name>
+   <text>
+    &lt;b&gt;Deathrattle:&lt;/b&gt; Deal 3 damage to the enemy hero for each Firesworn that died this turn.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Flameheart
+   </name>
+   <text>
+    Draw 2 cards.
+Gain 4 Armor.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Flamewaker
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    After you cast a spell, deal 2 damage randomly split among all enemies.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    Flamewakers HATE being confused for Flamewalkers. They just wake up fire, they don’t walk on it. Walking on fire is CRAZY.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Vaelastrasz in Blackwing Lair.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Vaelastrasz in Blackwing Lair.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Flamewaker Acolyte
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Flamewaker Acolyte
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gang Up
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    Choose a minion. Shuffle 3 copies of it into your deck.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    If you are thinking about visiting Moonbrook, you better roll deep.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating the Dark Iron Arena in Blackrock Depths.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating the Dark Iron Arena in Blackrock Depths.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    General Drakkisath
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    General Drakkisath
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Get &amp;apos;em!
+   </name>
+   <text>
+    Summon four 1/1 Dwarves with &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Grim Patron
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    Whenever this minion survives damage, summon another Grim Patron.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    If you love getting your face punched, come to the Grim Guzzler!
+   </flavor>
+   <howtoget>
+    Unlocked by defeating The Grim Guzzler in Blackrock Depths.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating The Grim Guzzler in Blackrock Depths.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Guzzler
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    High Justice Grimstone
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    High Justice Grimstone
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    Highlord Omokk
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    Highlord Omokk
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Hungry Dragon
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; Summon a random 1-Cost minion for your opponent.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    Hungry Hungry Dragon is NOT a fun game.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Chromaggus in Blackwing Lair.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Chromaggus in Blackwing Lair.
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    Increased Attack.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    I hear you...
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ignite Mana
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 10 damage to the enemy hero if they have any unspent Mana.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ignite Mana
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 5 damage to the enemy hero if they have any unspent Mana.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Imp
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Imp Gang Boss
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    Whenever this minion takes damage, summon a 1/1 Imp.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    His imp gang likes to sneak into Stormwind to spraypaint "Ragnaros Rulez" on the Mage Tower.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Majordomo Executus in Molten Core.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Majordomo Executus in Molten Core.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Costs (1) less.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    Imperial Favor
+   </name>
+  </item>
+  <item>
+   <text>
+    Increased Health.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    Incubation
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Passive Hero Power&lt;/b&gt;
+All cards cost (1). You are capped at 2 Mana Crystals, and opponent at 1.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    Intense Gaze
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Passive Hero Power&lt;/b&gt;
+All cards cost (1). Players are capped at 1 Mana Crystal.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    Intense Gaze
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Jeering Crowd
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 1/1 Spectator with &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Jeering Crowd
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 1/1 Spectator with &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <text>
+    +3/+3.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    Large Talons
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Lava Shock
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    Deal $2 damage.
+Unlock your &lt;b&gt;Overloaded&lt;/b&gt; Mana Crystals.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    Chocolate lava cake is shockingly delicious.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Shaman Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Shaman Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Lava Shock
+   </name>
+   <text>
+    Cards you play this turn don&amp;apos;t cause &lt;b&gt;Overload&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    LAVA!
+   </name>
+   <text>
+    Deal $2 damage to all minions.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <text>
+    On Geddon&amp;apos;s turn, deal 10 damage to all of your stuff.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    Living Bomb
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Living Bomb
+   </name>
+   <text>
+    Choose an enemy minion. If it lives until your next turn, deal $10 damage to all enemies.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    On Geddon&amp;apos;s turn, deal 5 damage to all of your stuff.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    Living Bomb
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Living Bomb
+   </name>
+   <text>
+    Choose an enemy minion. If it lives until your next turn, deal $5 damage to all enemies.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Living Lava
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magma Pulse
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 1 damage to all minions.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Whenever a player plays a card, Magmatron deals 2 damage to them.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Whenever a player plays a card, Magmatron deals 2 damage to them.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmaw
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    Majordomo Executus
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Majordomo Executus
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;Deathrattle:&lt;/b&gt; Replace your hero with Ragnaros, the Firelord.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    You thought Executus turned you into Ragnaros, but really Ragnaros was in you the whole time.
+   </flavor>
+   <howtoget>
+    Unlocked by completing Molten Core.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Can be crafted after completing Molten Core.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    Majordomo Executus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ME SMASH
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Destroy a random enemy minion.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ME SMASH
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Destroy a random damaged enemy minion.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Melt
+   </name>
+   <text>
+    Attack changed to 0 this turn.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Bronzebeard
+   </name>
+   <text>
+    Thaurissan&amp;apos;s Hero Power can&amp;apos;t be used.
+Never attacks minions unless they have &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Bronzebeard
+   </name>
+   <text>
+    Thaurissan&amp;apos;s Hero Power can&amp;apos;t be used.
+Never attacks minions unless they have &lt;b&gt;Taunt&lt;/b&gt;.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Mutation
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Discard a random card.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; Add 2 random spells to your hand &lt;i&gt;(from your opponent&amp;apos;s class)&lt;/i&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    They call him "Blackwing" because he&amp;apos;s a black dragon...... and he&amp;apos;s got wings.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating every boss in Blackrock Mountain!
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Can be crafted after completing the Hidden Laboratory.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian Strikes!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Nefarian rains fire from above!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian Strikes!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Nefarian rains fire from above!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Old Horde
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon two 2/2 Orcs with &lt;b&gt;Taunt&lt;/b&gt;. Get a new Hero Power.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Old Horde
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon two 1/1 Orcs with &lt;b&gt;Taunt&lt;/b&gt;. Get a new Hero Power.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Old Horde Orc
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Old Horde Orc
+   </name>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    Omnotron Defense System
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    Omnotron Defense System
+   </name>
+  </item>
+  <item>
+   <text>
+    Increased Attack.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    On Fire!
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Onyxiclaw
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Open the Gates
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon three 2/2 Whelps. Get a new Hero Power.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Open the Gates
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon three 1/1 Whelps. Get a new Hero Power.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pile On!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Put a minion from each deck into the battlefield.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pile On!
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Put two minions from your deck and one from your opponent&amp;apos;s into the battlefield.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <text>
+    +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    Potion of Might
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Power of the Firelord
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Deal 30 damage.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Power Rager
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Quick Shot
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    Deal $3 damage.
+If your hand is empty, draw a card.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    Han shot first.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Hunter Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Hunter Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    Ragnaros the Firelord
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    Ragnaros the Firelord
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    Ragnaros the Firelord
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    Ragnaros the Firelord
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    Razorgore the Untamed
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    Razorgore the Untamed
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Razorgore&amp;apos;s Claws
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    Whenever a Corrupted Egg dies, gain +1 Attack.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Recharge
+   </name>
+   <text>
+    Fill all empty Mana Crystals.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Release the Aberrations!
+   </name>
+   <text>
+    Summon 3 Aberrations.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rend Blackhand
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; If you&amp;apos;re holding a Dragon, destroy a &lt;b&gt;Legendary&lt;/b&gt; minion.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    Rend believes he is the True Warchief of the Horde and he keeps editing the wikipedia page for "Warchief of the Horde" to include his picture.
+   </flavor>
+   <howtoget>
+    Unlocked by completing Blackrock Spire.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Can be crafted after completing Blackrock Spire.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    Rend Blackhand
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    Rend Blackhand
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Resurrect
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    Summon a random friendly minion that died this game.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    I walked into the dungeon and noticed a slain adventurer. In his final moments, he had scrawled out a message in the dust on the wall beside him. Two words: "rez plz"
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Emperor Thaurissan in Blackrock Depths.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Emperor Thaurissan in Blackrock Depths.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Revenge
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    This is better than Arcane Explosion, so I guess warriors are finally getting revenge on mages for Mortal Strike being worse than Fireball.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Razorgore in Blackwing Lair.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Razorgore in Blackwing Lair.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Reverberating Gong
+   </name>
+   <text>
+    Destroy your opponent&amp;apos;s weapon.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rock Out
+   </name>
+   <text>
+    Summon 3 Firesworn. &lt;b&gt;Overload:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rock Out
+   </name>
+   <text>
+    Summon 3 Firesworn. &lt;b&gt;Overload:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Solemn Vigil
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    Draw 2 cards. Costs (1) less for each minion that died this turn.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    Each year, folk gather in front of Blackrock Mountain to mourn those who were mind-controlled into the lava.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Paladin Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Paladin Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Son of the Flame
+   </name>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; Deal 6 damage.
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <text>
+    +3 Attack.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    Sonic Breath
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Sonic Breath
+   </name>
+   <text>
+    Deal $3 damage to a minion. Give your weapon +3 Attack.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Tail Swipe
+   </name>
+   <text>
+    Deal $4 damage.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Passive Hero Power&lt;/b&gt;
+Minions&amp;apos; Attack and Health are swapped.
+Your minions have +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    The Alchemist
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Passive Hero Power&lt;/b&gt;
+Whenever a minion is summoned, swap its Attack and Health.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    The Alchemist
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    The Majordomo
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 1/3 Flamewaker Acolyte.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    The Majordomo
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Summon a 3/3 Flamewaker Acolyte.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    The Rookery
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Give all Corrupted Eggs +1 Health, then summon one.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    The Rookery
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Give all Corrupted Eggs +1 Health, then summon one.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    The True Warchief
+   </name>
+   <text>
+    Destroy a Legendary minion.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    TIME FOR SMASH
+   </name>
+   <text>
+    Deal $5 damage to a random enemy. Gain 5 Armor.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toxitron
+   </name>
+   <text>
+    At the start of your turn, deal 1 damage to all other minions.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toxitron
+   </name>
+   <text>
+    At the start of your turn, deal 1 damage to all other minions.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    True Form
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Let the games begin!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    True Form
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Let the games begin!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <text>
+    Increased Health.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    Twilight Endurance
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Twilight Whelp
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;Battlecry:&lt;/b&gt; If you&amp;apos;re holding a Dragon, gain +2 Health.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    The twilight whelps are basically magic-vampires. Despite this, they are not a reference to any popular series of novels.
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Priest Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Priest Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Unchained!
+   </name>
+   <text>
+    Your next Dragon costs (2) less.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    Vaelastrasz the Corrupt
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    Vaelastrasz the Corrupt
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Volcanic Drake
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    Costs (1) less for each minion that died this turn.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    Volcanic Drakes breathe lava instead of fire. The antacid vendor at Thorium Point does a brisk business with them.
+   </flavor>
+   <howtoget>
+    Unlocked by defeating Omnotron Defense System in the Hidden Laboratory.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after defeating Omnotron Defense System in the Hidden Laboratory.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Volcanic Lumberer
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;Taunt&lt;/b&gt;
+Costs (1) less for each minion that died this turn.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    The roots, the roots, the roots is on fire!
+   </flavor>
+   <howtoget>
+    Unlocked by completing the Druid Class Challenge in Blackrock Mountain.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Can be crafted after completing the Druid Class Challenge in Blackrock Mountain.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Whelp
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Whelp
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Whelp
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Whirling Ash
+   </name>
+   <text>
+    &lt;b&gt;Windfury&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wild Magic
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Put a random spell from your opponent&amp;apos;s class into your hand.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wild Magic
+   </name>
+   <text>
+    &lt;b&gt;Hero Power&lt;/b&gt;
+Put a random spell from your opponent&amp;apos;s class into your hand.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <mechanics>
@@ -20371,7 +25988,7 @@ Return 2 random enemy minions to your opponent&amp;apos;s hand.
     Neutral
    </faction>
    <text>
-    Deal $3 damage randomly split among enemy characters.
+    Deal $3 damage randomly split among all enemies.
    </text>
    <artist>
     Warren Mahy
@@ -28695,6 +34312,31 @@ Summon a random Totem.
     Debug
    </set>
    <name>
+    Damage All
+   </name>
+   <text>
+    Set the Health of a character to 0.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
     Damage all but 1
    </name>
    <text>
@@ -28786,6 +34428,26 @@ Summon a random Totem.
    </type>
    <id>
     XXX_050
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+    Destroy All
+   </name>
+   <text>
+    Destroy Hero Power, Destory Deck, and Discard Hand.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
    </id>
   </item>
   <item>
@@ -29105,6 +34767,23 @@ Summon a random Totem.
    </id>
   </item>
   <item>
+   <text>
+    Your cards cost (0) for the rest of the game.
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_022e
+   </id>
+   <name>
+    Free Cards
+   </name>
+  </item>
+  <item>
    <set>
     Debug
    </set>
@@ -29126,23 +34805,6 @@ Summon a random Totem.
    <id>
     XXX_022
    </id>
-  </item>
-  <item>
-   <text>
-    Your cards cost (0) for the rest of the game.
-   </text>
-   <set>
-    Debug
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    XXX_022e
-   </id>
-   <name>
-    Free Cards
-   </name>
   </item>
   <item>
    <mechanics>
@@ -29643,6 +35305,46 @@ Summon a random Totem.
    </id>
    <name>
     Weapon Buff Enchant
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+    Weapon Nerf
+   </name>
+   <text>
+    Give a weapon a negative enchantment.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+    Red Sparkles!
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+    Weapon Nerf Enchant
    </name>
   </item>
  </debug>
@@ -30369,7 +36071,7 @@ Summon a random Totem.
     Antique Healbot
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Battlecry:&lt;/b&gt; Restore 8 Health to your hero.
@@ -31107,7 +36809,7 @@ If it&amp;apos;s a Beast, it costs (4) less.
     &lt;b&gt;Battlecry:&lt;/b&gt; Give a random friendly minion &lt;b&gt;Divine Shield&lt;/b&gt; and &lt;b&gt;Taunt&lt;/b&gt;.
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic
@@ -31234,7 +36936,7 @@ If it&amp;apos;s a Beast, it costs (4) less.
     Warren Mahy
    </artist>
    <text>
-    Deal $3-$6 damage. &lt;b&gt;Overload: (1)&lt;/b&gt;
+    Deal $3-$6 damage. &lt;b&gt;Overload:&lt;/b&gt; (1)
    </text>
    <rarity>
     Common
@@ -32547,7 +38249,7 @@ If it&amp;apos;s a Beast, it costs (4) less.
     Gnomish Experimenter
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Battlecry:&lt;/b&gt; Draw a card. If it&amp;apos;s a minion, transform it into a Chicken.
@@ -32685,7 +38387,7 @@ If it&amp;apos;s a Beast, it costs (4) less.
     Goblin Sapper
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     Has +4 Attack while your opponent has 6 or more cards in hand.
@@ -34197,7 +39899,7 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
     Ruan Jia
    </artist>
    <text>
-    &lt;b&gt;Battlecry:&lt;/b&gt; Add 4 random Murlocs to your hand. &lt;b&gt;Overload: (3)&lt;/b&gt;
+    &lt;b&gt;Battlecry:&lt;/b&gt; Add 4 random Murlocs to your hand. &lt;b&gt;Overload:&lt;/b&gt; (3)
    </text>
    <rarity>
     Legendary
@@ -35002,7 +40704,7 @@ Your hero is &lt;b&gt;Immune&lt;/b&gt;.
     Screwjank Clunker
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Battlecry&lt;/b&gt;: Give a friendly Mech +2/+2.

@@ -120,6 +120,13 @@
         "type": "Enchantment"
     },
     {
+        "id": "DREAM_05e",
+        "name": "Alptraum",
+        "set": "Classic",
+        "text": "Dieser Diener hat +5/+5, aber er wird bald vernichtet.",
+        "type": "Enchantment"
+    },
+    {
         "cost": 0,
         "id": "DREAM_05",
         "name": "Alptraum",
@@ -127,13 +134,6 @@
         "set": "Classic",
         "text": "Verleiht einem Diener +5/+5. Zu Beginn Eures n\u00e4chsten Zuges wird er vernichtet.",
         "type": "Spell"
-    },
-    {
-        "id": "DREAM_05e",
-        "name": "Alptraum",
-        "set": "Classic",
-        "text": "Dieser Diener hat +5/+5, aber er wird bald vernichtet.",
-        "type": "Enchantment"
     },
     {
         "artist": "Chippy",
@@ -302,19 +302,19 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_409e",
-        "name": "Aufgewertet",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+1 Angriff und +1 Haltbarkeit.",
-        "type": "Enchantment"
-    },
-    {
         "id": "EX1_536e",
         "name": "Aufgewertet",
         "playerClass": "Hunter",
         "set": "Classic",
         "text": "Erh\u00f6hte Haltbarkeit.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_409e",
+        "name": "Aufgewertet",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+1 Angriff und +1 Haltbarkeit.",
         "type": "Enchantment"
     },
     {
@@ -461,19 +461,6 @@
         "type": "Minion"
     },
     {
-        "artist": "Wayne Reynolds",
-        "collectible": true,
-        "cost": 2,
-        "flavor": "Da bekommt der Ausdruck \u201eguter Ruf\u201c gleich eine ganz andere Bedeutung.",
-        "id": "NEW1_036",
-        "name": "Befehlsruf",
-        "playerClass": "Warrior",
-        "rarity": "Rare",
-        "set": "Classic",
-        "text": "Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen. Zieht eine Karte.",
-        "type": "Spell"
-    },
-    {
         "id": "NEW1_036e",
         "mechanics": [
             "OneTurnEffect"
@@ -494,6 +481,19 @@
         "set": "Classic",
         "text": "Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen.",
         "type": "Enchantment"
+    },
+    {
+        "artist": "Wayne Reynolds",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "Da bekommt der Ausdruck \u201eguter Ruf\u201c gleich eine ganz andere Bedeutung.",
+        "id": "NEW1_036",
+        "name": "Befehlsruf",
+        "playerClass": "Warrior",
+        "rarity": "Rare",
+        "set": "Classic",
+        "text": "Das Leben Eurer Diener kann in diesem Zug nicht unter 1 fallen. Zieht eine Karte.",
+        "type": "Spell"
     },
     {
         "artist": "Samwise",
@@ -758,14 +758,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_379e",
-        "name": "Bu\u00dfe",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Leben auf 1 verringert.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 1,
@@ -781,6 +773,14 @@
         "set": "Classic",
         "text": "<b>Geheimnis:</b> Wenn Euer Gegner einen Diener ausspielt, wird dessen Leben auf 1 verringert.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_379e",
+        "name": "Bu\u00dfe",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Leben auf 1 verringert.",
+        "type": "Enchantment"
     },
     {
         "artist": "Wayne Reynolds",
@@ -834,6 +834,17 @@
         "type": "Spell"
     },
     {
+        "cost": 0,
+        "faction": "Neutral",
+        "id": "EX1_596e",
+        "name": "D\u00e4monenfeuer",
+        "playerClass": "Warlock",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "Dieser D\u00e4mon hat +2/+2.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Ben Wootten",
         "collectible": true,
         "cost": 2,
@@ -846,28 +857,6 @@
         "set": "Classic",
         "text": "F\u00fcgt einem Diener $2 Schaden zu. Wenn das Ziel ein befreundeter D\u00e4mon ist, erh\u00e4lt er stattdessen +2/+2.",
         "type": "Spell"
-    },
-    {
-        "cost": 0,
-        "faction": "Neutral",
-        "id": "EX1_596e",
-        "name": "D\u00e4monenfeuer",
-        "playerClass": "Warlock",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "Dieser D\u00e4mon hat +2/+2.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Demoralisierendes Gebr\u00fcll",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Dieser Diener hat -3 Angriff in diesem Zug.",
-        "type": "Enchantment"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -908,22 +897,6 @@
         "type": "Minion"
     },
     {
-        "attack": 4,
-        "cost": 5,
-        "health": 6,
-        "id": "EX1_165t2",
-        "mechanics": [
-            "Taunt"
-        ],
-        "name": "Druide der Klaue",
-        "playerClass": "Druid",
-        "race": "Beast",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Spott</b>",
-        "type": "Minion"
-    },
-    {
         "artist": "Luca Zontini",
         "attack": 4,
         "collectible": true,
@@ -937,6 +910,22 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>W\u00e4hlt aus:</b> <b>Ansturm</b>; oder +2 Leben und <b>Spott</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 5,
+        "health": 6,
+        "id": "EX1_165t2",
+        "mechanics": [
+            "Taunt"
+        ],
+        "name": "Druide der Klaue",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Spott</b>",
         "type": "Minion"
     },
     {
@@ -994,7 +983,7 @@
     },
     {
         "id": "EX1_334e",
-        "name": "Dunkler Befehl",
+        "name": "Dunkler Wahnsinn",
         "playerClass": "Priest",
         "set": "Classic",
         "text": "Dieser Diener hat f\u00fcr diesen Zug seinen Meister gewechselt.",
@@ -1064,17 +1053,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_295o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Eisblock",
-        "playerClass": "Mage",
-        "set": "Classic",
-        "text": "Euer Held ist <b>immun</b> in diesem Zug.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Carl Frank",
         "collectible": true,
         "cost": 3,
@@ -1090,6 +1068,17 @@
         "set": "Classic",
         "text": "<b>Geheimnis:</b> Wenn Euer Held t\u00f6dlichen Schaden erleidet, wird dieser verhindert und der Held wird <b>immun</b> in diesem Zug.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_295o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Eisblock",
+        "playerClass": "Mage",
+        "set": "Classic",
+        "text": "Euer Held ist <b>immun</b> in diesem Zug.",
+        "type": "Enchantment"
     },
     {
         "artist": "Trevor Jacobs",
@@ -1348,7 +1337,7 @@
         "playerClass": "Shaman",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Zieht eine Karte. Diese Karte kostet (3) weniger.",
+        "text": "Zieht eine Karte. Sie kostet (3) weniger.",
         "type": "Spell"
     },
     {
@@ -1647,14 +1636,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "CS2_038e",
-        "name": "Geist der Ahnen",
-        "playerClass": "Shaman",
-        "set": "Classic",
-        "text": "<b>Todesr\u00f6cheln:</b> Ruft diesen Diener erneut herbei.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Zoltan & Gabor",
         "collectible": true,
         "cost": 2,
@@ -1667,6 +1648,14 @@
         "set": "Classic",
         "text": "Verleiht einem Diener \u201e<b>Todesr\u00f6cheln:</b> Ruft diesen Diener erneut herbei.\u201c",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_038e",
+        "name": "Geist der Ahnen",
+        "playerClass": "Shaman",
+        "set": "Classic",
+        "text": "<b>Todesr\u00f6cheln:</b> Ruft diesen Diener erneut herbei.",
+        "type": "Enchantment"
     },
     {
         "attack": 2,
@@ -1685,13 +1674,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_146o",
-        "name": "Gesch\u00e4rft",
-        "set": "Classic",
-        "text": "+1 Haltbarkeit.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Glenn Rane",
         "attack": 8,
         "collectible": true,
@@ -1706,6 +1688,14 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_355e",
+        "name": "Gesegneter Champion",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Der Angriff dieses Dieners wurde verdoppelt.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Tyler Walpole",
         "collectible": true,
         "cost": 5,
@@ -1717,14 +1707,6 @@
         "set": "Classic",
         "text": "Verdoppelt den Angriff eines Dieners.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_355e",
-        "name": "Gesegneter Champion",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Der Angriff dieses Dieners wurde verdoppelt.",
-        "type": "Enchantment"
     },
     {
         "artist": "Raymond Swanland",
@@ -2153,14 +2135,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_607e",
-        "name": "Innere Wut",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+2 Angriff.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Slawomir Maniak",
         "collectible": true,
         "cost": 0,
@@ -2175,6 +2149,22 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_607e",
+        "name": "Innere Wut",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+2 Angriff.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "CS1_129e",
+        "name": "Inneres Feuer",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Der Angriffswert wurde dem Lebenswert angeglichen.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Steve Prescott",
         "collectible": true,
         "cost": 1,
@@ -2187,14 +2177,6 @@
         "set": "Classic",
         "text": "Setzt den Angriff eines Dieners auf einen Wert, der seinem Leben entspricht.",
         "type": "Spell"
-    },
-    {
-        "id": "CS1_129e",
-        "name": "Inneres Feuer",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Der Angriffswert wurde dem Lebenswert angeglichen.",
-        "type": "Enchantment"
     },
     {
         "artist": "Daren Bader",
@@ -2333,14 +2315,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_073e",
-        "name": "Kaltbl\u00fctigkeit",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+2 Angriff.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -2356,6 +2330,14 @@
         "set": "Classic",
         "text": "Verleiht einem Diener +2 Angriff. <b>Combo:</b> Stattdessen +4 Angriff.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_073e",
+        "name": "Kaltbl\u00fctigkeit",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+2 Angriff.",
+        "type": "Enchantment"
     },
     {
         "id": "CS2_073e2",
@@ -2850,37 +2832,11 @@
         "type": "Minion"
     },
     {
-        "faction": "Neutral",
-        "id": "EX1_155a",
-        "name": "Mal der Natur",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 Angriff.",
-        "type": "Spell"
-    },
-    {
         "id": "EX1_155ae",
         "name": "Mal der Natur",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Dieser Diener hat +4 Angriff.",
-        "type": "Enchantment"
-    },
-    {
-        "faction": "Neutral",
-        "id": "EX1_155b",
-        "name": "Mal der Natur",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 Leben und <b>Spott</b>.",
-        "type": "Spell"
-    },
-    {
-        "id": "EX1_155be",
-        "name": "Mal der Natur",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Dieser Diener hat +4 Leben und <b>Spott</b>.",
         "type": "Enchantment"
     },
     {
@@ -2895,6 +2851,32 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>W\u00e4hlt aus:</b> Verleiht einem Diener +4 Angriff; oder +4 Leben und <b>Spott</b>.",
+        "type": "Spell"
+    },
+    {
+        "id": "EX1_155be",
+        "name": "Mal der Natur",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Dieser Diener hat +4 Leben und <b>Spott</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_155b",
+        "name": "Mal der Natur",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 Leben und <b>Spott</b>.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_155a",
+        "name": "Mal der Natur",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 Angriff.",
         "type": "Spell"
     },
     {
@@ -3308,6 +3290,15 @@
     },
     {
         "faction": "Neutral",
+        "id": "EX1_164a",
+        "name": "Pflege",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Erhaltet 2 Manakristalle.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
         "id": "EX1_164b",
         "name": "Pflege",
         "playerClass": "Druid",
@@ -3327,15 +3318,6 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>W\u00e4hlt aus:</b> Erhaltet 2 Manakristalle; oder zieht 3 Karten.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
-        "id": "EX1_164a",
-        "name": "Pflege",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Erhaltet 2 Manakristalle.",
         "type": "Spell"
     },
     {
@@ -3937,19 +3919,6 @@
         "type": "Spell"
     },
     {
-        "artist": "Chippy",
-        "collectible": true,
-        "cost": 1,
-        "flavor": "Anscheinend kommt mit der Weisheit auch das Wissen, dass man wohl in jedem Zug angreifen sollte.",
-        "id": "EX1_363",
-        "name": "Segen der Weisheit",
-        "playerClass": "Paladin",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "W\u00e4hlt einen Diener aus. Zieht jedes Mal eine Karte, wenn er angreift.",
-        "type": "Spell"
-    },
-    {
         "id": "EX1_363e2",
         "name": "Segen der Weisheit",
         "playerClass": "Paladin",
@@ -3964,6 +3933,19 @@
         "set": "Classic",
         "text": "Der segnende Spieler zieht eine Karte, wenn dieser Diener angreift.",
         "type": "Enchantment"
+    },
+    {
+        "artist": "Chippy",
+        "collectible": true,
+        "cost": 1,
+        "flavor": "Anscheinend kommt mit der Weisheit auch das Wissen, dass man wohl in jedem Zug angreifen sollte.",
+        "id": "EX1_363",
+        "name": "Segen der Weisheit",
+        "playerClass": "Paladin",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "W\u00e4hlt einen Diener aus. Zieht jedes Mal eine Karte, wenn er angreift.",
+        "type": "Spell"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -4129,6 +4111,14 @@
         "type": "Minion"
     },
     {
+        "id": "NEW1_007a",
+        "name": "Sternenregen",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "F\u00fcgt allen feindlichen Dienern $2 Schaden zu.",
+        "type": "Spell"
+    },
+    {
         "id": "NEW1_007b",
         "name": "Sternenregen",
         "playerClass": "Druid",
@@ -4147,14 +4137,6 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>W\u00e4hlt aus:</b> F\u00fcgt einem Diener $5 Schaden zu; oder f\u00fcgt allen feindlichen Dienern $2 Schaden zu.",
-        "type": "Spell"
-    },
-    {
-        "id": "NEW1_007a",
-        "name": "Sternenregen",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "F\u00fcgt allen feindlichen Dienern $2 Schaden zu.",
         "type": "Spell"
     },
     {
@@ -4400,6 +4382,14 @@
         "type": "Minion"
     },
     {
+        "id": "CS2_104e",
+        "name": "Toben",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+3/+3.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Jonboy Meyers",
         "collectible": true,
         "cost": 2,
@@ -4412,14 +4402,6 @@
         "set": "Classic",
         "text": "Verleiht einem verletzten Diener +3/+3.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_104e",
-        "name": "Toben",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+3/+3.",
-        "type": "Enchantment"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -4508,6 +4490,22 @@
         "cost": 1,
         "faction": "Neutral",
         "health": 2,
+        "id": "EX1_tk9",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Treant",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Ansturm</b>. Vernichtet diesen Diener am Ende des Zuges.",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "faction": "Neutral",
+        "health": 2,
         "id": "EX1_158t",
         "name": "Treant",
         "playerClass": "Druid",
@@ -4526,22 +4524,6 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "<b>Spott</b>",
-        "type": "Minion"
-    },
-    {
-        "attack": 2,
-        "cost": 1,
-        "faction": "Neutral",
-        "health": 2,
-        "id": "EX1_tk9",
-        "mechanics": [
-            "Charge"
-        ],
-        "name": "Treant",
-        "playerClass": "Druid",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Ansturm</b>. Vernichtet diesen Diener am Ende des Zuges.",
         "type": "Minion"
     },
     {
@@ -4840,7 +4822,7 @@
         "name": "Verr\u00fcckter Bomber",
         "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Kampfschrei:</b> Verursacht 3 Schaden, der zuf\u00e4llig auf alle anderen Charaktere aufgeteilt wird.",
+        "text": "<b>Kampfschrei:</b> Verursacht 3 Schaden, der zuf\u00e4llig auf alle anderen Charaktere verteilt wird.",
         "type": "Minion"
     },
     {
@@ -4954,17 +4936,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_145o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Vorbereitung",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "Der n\u00e4chste Zauber, den Ihr in diesem Zug wirkt, kostet (3) weniger.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Clint Langley",
         "collectible": true,
         "cost": 0,
@@ -4977,6 +4948,17 @@
         "set": "Classic",
         "text": "Der n\u00e4chste Zauber, den Ihr in diesem Zug wirkt, kostet (3) weniger.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_145o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Vorbereitung",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "Der n\u00e4chste Zauber, den Ihr in diesem Zug wirkt, kostet (3) weniger.",
+        "type": "Enchantment"
     },
     {
         "id": "CS2_221e",
@@ -5258,7 +5240,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "Zieht am Ende Eures Zuges eine Traumkarte.",
+        "text": "Erhaltet am Ende Eures Zuges eine Traumkarte auf die Hand.",
         "type": "Minion"
     },
     {
@@ -5289,6 +5271,17 @@
         "type": "Minion"
     },
     {
+        "attack": 1,
+        "cost": 0,
+        "health": 3,
+        "id": "tt_010a",
+        "name": "Zauberformerin",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Classic",
+        "type": "Minion"
+    },
+    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 3,
@@ -5304,17 +5297,6 @@
         "set": "Classic",
         "text": "<b>Geheimnis:</b> Wenn Euer Gegner einen Zauber auf einen Diener wirkt, ruft Ihr einen Diener (1/3) als neues Ziel herbei.",
         "type": "Spell"
-    },
-    {
-        "attack": 1,
-        "cost": 0,
-        "health": 3,
-        "id": "tt_010a",
-        "name": "Zauberformerin",
-        "playerClass": "Mage",
-        "rarity": "Epic",
-        "set": "Classic",
-        "type": "Minion"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -5367,6 +5349,15 @@
         "type": "Spell"
     },
     {
+        "faction": "Neutral",
+        "id": "EX1_154a",
+        "name": "Zorn",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "F\u00fcgt einem Diener $3 Schaden zu.",
+        "type": "Spell"
+    },
+    {
         "artist": "Raymond Swanland",
         "collectible": true,
         "cost": 2,
@@ -5390,13 +5381,15 @@
         "type": "Spell"
     },
     {
-        "faction": "Neutral",
-        "id": "EX1_154a",
-        "name": "Zorn",
-        "playerClass": "Druid",
+        "id": "EX1_549o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Zorn des Wildtiers",
+        "playerClass": "Hunter",
         "set": "Classic",
-        "text": "F\u00fcgt einem Diener $3 Schaden zu.",
-        "type": "Spell"
+        "text": "+2 Angriff und <b>immun</b> in diesem Zug.",
+        "type": "Enchantment"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -5413,17 +5406,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_549o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Zorn des Wildtiers",
-        "playerClass": "Hunter",
-        "set": "Classic",
-        "text": "+2 Angriff und <b>immun</b> in diesem Zug.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Alex Garner",
         "collectible": true,
         "cost": 6,
@@ -5437,7 +5419,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Verursacht $8 Schaden, der zuf\u00e4llig auf feindliche Charaktere verteilt wird.",
+        "text": "Verursacht $8 Schaden, der zuf\u00e4llig auf alle Feinde verteilt wird.",
         "type": "Spell"
     },
     {

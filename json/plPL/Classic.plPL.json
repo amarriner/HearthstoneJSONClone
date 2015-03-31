@@ -148,19 +148,19 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_014te",
-        "name": "Banany",
-        "set": "Classic",
-        "text": "Ma +1/+1.",
-        "type": "Enchantment"
-    },
-    {
         "cost": 1,
         "id": "EX1_014t",
         "name": "Banany",
         "set": "Classic",
         "text": "Daj stronnikowi +1/+1.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_014te",
+        "name": "Banany",
+        "set": "Classic",
+        "text": "Ma +1/+1.",
+        "type": "Enchantment"
     },
     {
         "attack": 2,
@@ -243,6 +243,17 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_549o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Bestialski gniew",
+        "playerClass": "Hunter",
+        "set": "Classic",
+        "text": "+2 do ataku oraz <b>Niewra\u017cliwo\u015b\u0107</b> w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -255,17 +266,6 @@
         "set": "Classic",
         "text": "Daj przyjaznej Bestii +2 do ataku oraz <b>Niewra\u017cliwo\u015b\u0107</b> w tej turze.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_549o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Bestialski gniew",
-        "playerClass": "Hunter",
-        "set": "Classic",
-        "text": "+2 do ataku oraz <b>Niewra\u017cliwo\u015b\u0107</b> w tej turze.",
-        "type": "Enchantment"
     },
     {
         "artist": "Raymond Swanland",
@@ -618,6 +618,15 @@
     },
     {
         "artist": "Lars Grant-West",
+        "id": "CS2_053e",
+        "name": "Dalekowidzenie",
+        "playerClass": "Shaman",
+        "set": "Classic",
+        "text": "Jedna z twoich kart kosztuje (3) mniej.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Lars Grant-West",
         "collectible": true,
         "cost": 3,
         "faction": "Neutral",
@@ -629,23 +638,6 @@
         "set": "Classic",
         "text": "Dobierz kart\u0119. Ta karta kosztuje (3) mniej.",
         "type": "Spell"
-    },
-    {
-        "artist": "Lars Grant-West",
-        "id": "CS2_053e",
-        "name": "Dalekowidzenie",
-        "playerClass": "Shaman",
-        "set": "Classic",
-        "text": "Jedna z twoich kart kosztuje (3) mniej.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_363e",
-        "name": "Dar m\u0105dro\u015bci",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Gdy ten stronnik zaatakuje, gracz kt\u00f3ry go pob\u0142ogos\u0142awi\u0142 dobiera kart\u0119.",
-        "type": "Enchantment"
     },
     {
         "artist": "Chippy",
@@ -666,6 +658,14 @@
         "playerClass": "Paladin",
         "set": "Classic",
         "text": "Gdy ten stronnik zaatakuje, przeciwnik dobiera kart\u0119.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_363e",
+        "name": "Dar m\u0105dro\u015bci",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Gdy ten stronnik zaatakuje, gracz kt\u00f3ry go pob\u0142ogos\u0142awi\u0142 dobiera kart\u0119.",
         "type": "Enchantment"
     },
     {
@@ -691,17 +691,6 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "Ten Demon ma +2/+2.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Demoralizuj\u0105cy ryk",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Ten stronnik ma w tej turze -3 do ataku.",
         "type": "Enchantment"
     },
     {
@@ -771,22 +760,6 @@
         "type": "Minion"
     },
     {
-        "attack": 4,
-        "cost": 5,
-        "health": 4,
-        "id": "EX1_165t1",
-        "mechanics": [
-            "Charge"
-        ],
-        "name": "Druid Szpon\u00f3w",
-        "playerClass": "Druid",
-        "race": "Beast",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Szar\u017ca</b>",
-        "type": "Minion"
-    },
-    {
         "artist": "Luca Zontini",
         "attack": 4,
         "collectible": true,
@@ -800,6 +773,22 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>Wybierz jedno:</b> <b>Szar\u017ca</b>; lub +2 do zdrowia oraz <b>Prowokacja</b>.",
+        "type": "Minion"
+    },
+    {
+        "attack": 4,
+        "cost": 5,
+        "health": 4,
+        "id": "EX1_165t1",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Druid Szpon\u00f3w",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Szar\u017ca</b>",
         "type": "Minion"
     },
     {
@@ -835,10 +824,15 @@
         "cost": 1,
         "faction": "Neutral",
         "health": 2,
-        "id": "EX1_158t",
+        "id": "EX1_tk9",
+        "mechanics": [
+            "Charge"
+        ],
         "name": "Drzewiec",
         "playerClass": "Druid",
+        "rarity": "Common",
         "set": "Classic",
+        "text": "<b>Szar\u017ca</b>. Na koniec tury zniszcz tego stronnika.",
         "type": "Minion"
     },
     {
@@ -860,15 +854,10 @@
         "cost": 1,
         "faction": "Neutral",
         "health": 2,
-        "id": "EX1_tk9",
-        "mechanics": [
-            "Charge"
-        ],
+        "id": "EX1_158t",
         "name": "Drzewiec",
         "playerClass": "Druid",
-        "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Szar\u017ca</b>. Na pocz\u0105tku nast\u0119pnej tury zniszcz tego stronnika.",
         "type": "Minion"
     },
     {
@@ -941,6 +930,14 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_158e",
+        "name": "Dusza kniei",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Agonia: Przyzwij Drzewca 2/2.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Markus Erdt",
         "collectible": true,
         "cost": 4,
@@ -953,14 +950,6 @@
         "set": "Classic",
         "text": "Daj swoim stronnikom zdolno\u015b\u0107 \u201e<b>Agonia:</b> Przyzwij Drzewca 2/2\u201d.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_158e",
-        "name": "Dusza kniei",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Agonia: Przyzwij Drzewca 2/2.",
-        "type": "Enchantment"
     },
     {
         "artist": "Wei Wang",
@@ -1201,7 +1190,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Zadaj $8 pkt. obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wrogimi postaciami.",
+        "text": "Zadaj $8 pkt. obra\u017ce\u0144 losowo rozdzielone pomi\u0119dzy wszystkimi wrogami.",
         "type": "Spell"
     },
     {
@@ -1987,6 +1976,17 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_295o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Lodowy blok",
+        "playerClass": "Mage",
+        "set": "Classic",
+        "text": "Tw\u00f3j bohater ma w tej turze <b>Niewra\u017cliwo\u015b\u0107</b>.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Carl Frank",
         "collectible": true,
         "cost": 3,
@@ -2002,17 +2002,6 @@
         "set": "Classic",
         "text": "<b>Sekret:</b> Gdy tw\u00f3j bohater otrzyma zab\u00f3jcze obra\u017cenia, zapobiegasz im oraz zyskujesz w tej turze <b>Niewra\u017cliwo\u015b\u0107</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_295o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Lodowy blok",
-        "playerClass": "Mage",
-        "set": "Classic",
-        "text": "Tw\u00f3j bohater ma w tej turze <b>Niewra\u017cliwo\u015b\u0107</b>.",
-        "type": "Enchantment"
     },
     {
         "artist": "E.M. Gist",
@@ -2352,14 +2341,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_334e",
-        "name": "Mroczny rozkaz",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Kontrola nad tym stronnikiem zosta\u0142a zamieniona w tej turze.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Justin Sweet",
         "attack": 4,
         "collectible": true,
@@ -2421,6 +2402,17 @@
         "type": "Enchantment"
     },
     {
+        "attack": 1,
+        "cost": 0,
+        "health": 3,
+        "id": "tt_010a",
+        "name": "Naginaczka zakl\u0119\u0107",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Classic",
+        "type": "Minion"
+    },
+    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 3,
@@ -2436,17 +2428,6 @@
         "set": "Classic",
         "text": "<b>Sekret:</b> Gdy wr\u00f3g rzuci zakl\u0119cie na stronnika, przyzwij stronnika 1/3 jako nowy cel.",
         "type": "Spell"
-    },
-    {
-        "attack": 1,
-        "cost": 0,
-        "health": 3,
-        "id": "tt_010a",
-        "name": "Naginaczka zakl\u0119\u0107",
-        "playerClass": "Mage",
-        "rarity": "Epic",
-        "set": "Classic",
-        "type": "Minion"
     },
     {
         "id": "EX1_531e",
@@ -2471,20 +2452,6 @@
         "type": "Spell"
     },
     {
-        "artist": "Terese Nielsen",
-        "collectible": true,
-        "cost": 5,
-        "faction": "Neutral",
-        "flavor": "Druid\u00f3w syci wiele rzeczy: pot\u0119ga natury, \u015bpiew ptak\u00f3w, tort czekoladowy.",
-        "id": "EX1_164",
-        "name": "Nasycenie",
-        "playerClass": "Druid",
-        "rarity": "Rare",
-        "set": "Classic",
-        "text": "<b>Wybierz jedno:</b> Otrzymujesz 2 kryszta\u0142y many; lub dobierz 3 karty.",
-        "type": "Spell"
-    },
-    {
         "faction": "Neutral",
         "id": "EX1_164a",
         "name": "Nasycenie",
@@ -2500,6 +2467,20 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Dobierz 3 karty.",
+        "type": "Spell"
+    },
+    {
+        "artist": "Terese Nielsen",
+        "collectible": true,
+        "cost": 5,
+        "faction": "Neutral",
+        "flavor": "Druid\u00f3w syci wiele rzeczy: pot\u0119ga natury, \u015bpiew ptak\u00f3w, tort czekoladowy.",
+        "id": "EX1_164",
+        "name": "Nasycenie",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Classic",
+        "text": "<b>Wybierz jedno:</b> Otrzymujesz 2 kryszta\u0142y many; lub dobierz 3 karty.",
         "type": "Spell"
     },
     {
@@ -2810,13 +2791,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "CS2_146o",
-        "name": "Ostro\u015b\u0107",
-        "set": "Classic",
-        "text": "+1 do wytrzyma\u0142o\u015bci.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Daren Bader",
         "attack": 2,
         "collectible": true,
@@ -2930,9 +2904,8 @@
     {
         "attack": 1,
         "cost": 1,
-        "faction": "Neutral",
         "health": 1,
-        "id": "ds1_whelptoken",
+        "id": "EX1_116t",
         "name": "Piskl\u0119",
         "race": "Dragon",
         "set": "Classic",
@@ -2941,8 +2914,9 @@
     {
         "attack": 1,
         "cost": 1,
+        "faction": "Neutral",
         "health": 1,
-        "id": "EX1_116t",
+        "id": "ds1_whelptoken",
         "name": "Piskl\u0119",
         "race": "Dragon",
         "set": "Classic",
@@ -3541,17 +3515,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "NEW1_036e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Rozkazuj\u0105cy okrzyk",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "W tej turze nie mo\u017ce zej\u015b\u0107 poni\u017cej 1 pkt. zdrowia.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Wayne Reynolds",
         "collectible": true,
         "cost": 2,
@@ -3563,6 +3526,17 @@
         "set": "Classic",
         "text": "W tej turze twoi stronnicy nie mog\u0105 zej\u015b\u0107 poni\u017cej 1 pkt. zdrowia. Dobierz kart\u0119.",
         "type": "Spell"
+    },
+    {
+        "id": "NEW1_036e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Rozkazuj\u0105cy okrzyk",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "W tej turze nie mo\u017ce zej\u015b\u0107 poni\u017cej 1 pkt. zdrowia.",
+        "type": "Enchantment"
     },
     {
         "id": "NEW1_036e2",
@@ -3691,6 +3665,14 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_379e",
+        "name": "Skrucha",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Zdrowie zmniejszone do 1.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 1,
@@ -3706,14 +3688,6 @@
         "set": "Classic",
         "text": "<b>Sekret:</b> Gdy tw\u00f3j przeciwnik zagra stronnika, zmniejsz jego zdrowie do 1.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_379e",
-        "name": "Skrucha",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Zdrowie zmniejszone do 1.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_603e",
@@ -3836,6 +3810,14 @@
         "type": "Minion"
     },
     {
+        "id": "NEW1_007b",
+        "name": "Spadaj\u0105ce gwiazdy",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Zadaj $5 pkt. obra\u017ce\u0144 stronnikowi.",
+        "type": "Spell"
+    },
+    {
         "id": "NEW1_007a",
         "name": "Spadaj\u0105ce gwiazdy",
         "playerClass": "Druid",
@@ -3854,14 +3836,6 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>Wybierz jedno:</b> Zadaj $5 pkt. obra\u017ce\u0144 stronnikowi; lub zadaj $2 pkt. obra\u017ce\u0144 wszystkim wrogim stronnikom.",
-        "type": "Spell"
-    },
-    {
-        "id": "NEW1_007b",
-        "name": "Spadaj\u0105ce gwiazdy",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Zadaj $5 pkt. obra\u017ce\u0144 stronnikowi.",
         "type": "Spell"
     },
     {
@@ -4185,6 +4159,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_334e",
+        "name": "Szale\u0144stwo cieni",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Kontrola nad tym stronnikiem zosta\u0142a zamieniona w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Tom Fleming",
         "attack": 2,
         "collectible": true,
@@ -4471,6 +4453,16 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_570e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Ugryzienie",
+        "set": "Classic",
+        "text": "+4 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Tom Baxa",
         "collectible": true,
         "cost": 4,
@@ -4483,16 +4475,6 @@
         "set": "Classic",
         "text": "Daj twojemu bohaterowi +4 do ataku w tej turze oraz +4 pkt. pancerza.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_570e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Ugryzienie",
-        "set": "Classic",
-        "text": "+4 do ataku w tej turze.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_128e",
@@ -4621,14 +4603,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_607e",
-        "name": "Wewn\u0119trzny sza\u0142",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+2 do ataku.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Slawomir Maniak",
         "collectible": true,
         "cost": 0,
@@ -4643,11 +4617,11 @@
         "type": "Spell"
     },
     {
-        "id": "CS1_129e",
-        "name": "Wewn\u0119trzny \u017car",
-        "playerClass": "Priest",
+        "id": "EX1_607e",
+        "name": "Wewn\u0119trzny sza\u0142",
+        "playerClass": "Warrior",
         "set": "Classic",
-        "text": "Atak stronnika jest r\u00f3wny jego zdrowiu.",
+        "text": "+2 do ataku.",
         "type": "Enchantment"
     },
     {
@@ -4663,6 +4637,14 @@
         "set": "Classic",
         "text": "Zmie\u0144 atak stronnika na r\u00f3wny jego zdrowiu.",
         "type": "Spell"
+    },
+    {
+        "id": "CS1_129e",
+        "name": "Wewn\u0119trzny \u017car",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Atak stronnika jest r\u00f3wny jego zdrowiu.",
+        "type": "Enchantment"
     },
     {
         "artist": "Bernie Kang",
@@ -5089,7 +5071,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "Na koniec twojej tury dobierz Kart\u0119 Snu.",
+        "text": "Na koniec twojej tury dodaj Kart\u0119 Snu do twojej r\u0119ki.",
         "type": "Minion"
     },
     {
@@ -5308,22 +5290,6 @@
         "type": "Weapon"
     },
     {
-        "id": "CS2_073e2",
-        "name": "Zimna krew",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+4 do ataku.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "CS2_073e",
-        "name": "Zimna krew",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+2 do ataku.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -5339,6 +5305,22 @@
         "set": "Classic",
         "text": "Daj stronnikowi +2 do ataku. <b>Kombinacja:</b> Zamiast tego daj +4 do ataku.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_073e",
+        "name": "Zimna krew",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+2 do ataku.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "CS2_073e2",
+        "name": "Zimna krew",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+4 do ataku.",
+        "type": "Enchantment"
     },
     {
         "artist": "Blizzard Cinematics",
@@ -5375,15 +5357,6 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_155b",
-        "name": "Znak natury",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 do zdrowia oraz <b>Prowokacja</b>.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_155a",
         "name": "Znak natury",
         "playerClass": "Druid",
@@ -5400,14 +5373,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_155ae",
-        "name": "Znak natury",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Ten stronnik ma +4 do ataku.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Clint Langley",
         "collectible": true,
         "cost": 3,
@@ -5420,6 +5385,23 @@
         "set": "Classic",
         "text": "<b>Wybierz jedno:</b> Daj stronnikowi +4 do ataku; lub daj +4 do zdrowia oraz <b>Prowokacj\u0119</b>.",
         "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_155b",
+        "name": "Znak natury",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 do zdrowia oraz <b>Prowokacja</b>.",
+        "type": "Spell"
+    },
+    {
+        "id": "EX1_155ae",
+        "name": "Znak natury",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Ten stronnik ma +4 do ataku.",
+        "type": "Enchantment"
     },
     {
         "artist": "Dan Scott",

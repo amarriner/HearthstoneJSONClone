@@ -110,13 +110,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_146o",
-        "name": "Aiguis\u00e9",
-        "set": "Classic",
-        "text": "+1 Durabilit\u00e9.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Bernie Kang",
         "attack": 12,
         "collectible": true,
@@ -506,19 +499,19 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_014te",
+        "name": "Banane",
+        "set": "Classic",
+        "text": "A +1/+1.",
+        "type": "Enchantment"
+    },
+    {
         "cost": 1,
         "id": "EX1_014t",
         "name": "Banane",
         "set": "Classic",
         "text": "Conf\u00e8re +1/+1 \u00e0 un serviteur.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_014te",
-        "name": "Banane",
-        "set": "Classic",
-        "text": "A +1/+1.",
-        "type": "Enchantment"
     },
     {
         "attack": 2,
@@ -579,6 +572,22 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_363e",
+        "name": "B\u00e9n\u00e9diction de sagesse",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Quand ce serviteur attaque, le joueur qui l\u2019a b\u00e9ni pioche une carte.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_363e2",
+        "name": "B\u00e9n\u00e9diction de sagesse",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Quand ce serviteur attaque, le joueur adverse pioche une carte.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Chippy",
         "collectible": true,
         "cost": 1,
@@ -590,22 +599,6 @@
         "set": "Classic",
         "text": "Choisissez un serviteur. Chaque fois qu\u2019il attaque, vous piochez une carte.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_363e2",
-        "name": "B\u00e9n\u00e9diction de sagesse",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Quand ce serviteur attaque, le joueur adverse pioche une carte.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_363e",
-        "name": "B\u00e9n\u00e9diction de sagesse",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Quand ce serviteur attaque, le joueur qui l\u2019a b\u00e9ni pioche une carte.",
-        "type": "Enchantment"
     },
     {
         "artist": "Tyler Walpole",
@@ -651,7 +644,7 @@
         "name": "Berserker amani",
         "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Acc\u00e8s de rage\u00a0:</b> +3 ATQ",
+        "text": "<b>Acc\u00e8s de rage\u00a0:</b> +3 ATQ.",
         "type": "Minion"
     },
     {
@@ -704,17 +697,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_295o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Bloc de glace",
-        "playerClass": "Mage",
-        "set": "Classic",
-        "text": "Votre h\u00e9ros est <b>Insensible</b> pour ce tour.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Carl Frank",
         "collectible": true,
         "cost": 3,
@@ -730,6 +712,17 @@
         "set": "Classic",
         "text": "<b>Secret\u00a0:</b> prot\u00e8ge votre h\u00e9ros des d\u00e9g\u00e2ts mortels, et le rend <b>Insensible</b> pendant ce tour.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_295o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Bloc de glace",
+        "playerClass": "Mage",
+        "set": "Classic",
+        "text": "Votre h\u00e9ros est <b>Insensible</b> pour ce tour.",
+        "type": "Enchantment"
     },
     {
         "artist": "Mike Sass",
@@ -843,7 +836,7 @@
         "race": "Pirate",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "<b>Cri de guerre :</b> conf\u00e8re +1/+1 \u00e0 votre arme.",
+        "text": "<b>Cri de guerre\u00a0:</b> conf\u00e8re +1/+1 \u00e0 votre arme.",
         "type": "Minion"
     },
     {
@@ -1071,17 +1064,12 @@
         "type": "Minion"
     },
     {
-        "artist": "Raymond Swanland",
-        "collectible": true,
-        "cost": 2,
         "faction": "Neutral",
-        "flavor": "Les habitu\u00e9s de l\u2019auberge de Gadgetzan trouvent que cette carte devrait \u00eatre l\u00e9gendaire parce qu\u2019elle est vraiment trop g\u00e9niale.",
-        "id": "EX1_154",
+        "id": "EX1_154b",
         "name": "Col\u00e8re",
         "playerClass": "Druid",
-        "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Choix des armes\u00a0:</b> inflige $3 |4(point, points) de d\u00e9g\u00e2ts \u00e0 un serviteur\u00a0; ou inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur et vous piochez une carte.",
+        "text": "Inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur. Vous piochez une carte.",
         "type": "Spell"
     },
     {
@@ -1094,12 +1082,17 @@
         "type": "Spell"
     },
     {
+        "artist": "Raymond Swanland",
+        "collectible": true,
+        "cost": 2,
         "faction": "Neutral",
-        "id": "EX1_154b",
+        "flavor": "Les habitu\u00e9s de l\u2019auberge de Gadgetzan trouvent que cette carte devrait \u00eatre l\u00e9gendaire parce qu\u2019elle est vraiment trop g\u00e9niale.",
+        "id": "EX1_154",
         "name": "Col\u00e8re",
         "playerClass": "Druid",
+        "rarity": "Common",
         "set": "Classic",
-        "text": "Inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur. Vous piochez une carte.",
+        "text": "<b>Choix des armes\u00a0:</b> inflige $3 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur\u00a0; ou inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur et vous piochez une carte.",
         "type": "Spell"
     },
     {
@@ -1324,7 +1317,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Inflige $8 |4(point,points) de d\u00e9g\u00e2ts r\u00e9partis de fa\u00e7on al\u00e9atoire entre les personnages adverses.",
+        "text": "Inflige $8 |4(point,points) de d\u00e9g\u00e2ts r\u00e9partis de fa\u00e7on al\u00e9atoire entre tous les adversaires.",
         "type": "Spell"
     },
     {
@@ -1344,17 +1337,6 @@
         "set": "Classic",
         "text": "<b>Cri de guerre\u00a0:</b> d\u00e9truit un murloc et gagne +2/+2.",
         "type": "Minion"
-    },
-    {
-        "id": "NEW1_036e2",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Cri de commandement",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "Les points de vie de vos serviteurs ne peuvent pas passer en dessous de 1 ce tour-ci.",
-        "type": "Enchantment"
     },
     {
         "id": "NEW1_036e",
@@ -1379,6 +1361,17 @@
         "set": "Classic",
         "text": "Les points de vie de vos serviteurs ne peuvent pas passer en dessous de 1 ce tour-ci. Vous piochez une carte.",
         "type": "Spell"
+    },
+    {
+        "id": "NEW1_036e2",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Cri de commandement",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "Les points de vie de vos serviteurs ne peuvent pas passer en dessous de 1 ce tour-ci.",
+        "type": "Enchantment"
     },
     {
         "artist": "Gonzalo Ordonez",
@@ -1673,15 +1666,6 @@
     },
     {
         "artist": "Lars Grant-West",
-        "id": "CS2_053e",
-        "name": "Double vue",
-        "playerClass": "Shaman",
-        "set": "Classic",
-        "text": "Une de vos cartes co\u00fbte (3) cristaux de moins.",
-        "type": "Enchantment"
-    },
-    {
-        "artist": "Lars Grant-West",
         "collectible": true,
         "cost": 3,
         "faction": "Neutral",
@@ -1693,6 +1677,15 @@
         "set": "Classic",
         "text": "Vous piochez une carte. Elle co\u00fbte (3) cristaux de moins.",
         "type": "Spell"
+    },
+    {
+        "artist": "Lars Grant-West",
+        "id": "CS2_053e",
+        "name": "Double vue",
+        "playerClass": "Shaman",
+        "set": "Classic",
+        "text": "Une de vos cartes co\u00fbte (3) cristaux de moins.",
+        "type": "Enchantment"
     },
     {
         "artist": "Samwise",
@@ -1712,8 +1705,9 @@
     {
         "attack": 1,
         "cost": 1,
+        "faction": "Neutral",
         "health": 1,
-        "id": "EX1_116t",
+        "id": "ds1_whelptoken",
         "name": "Dragonnet",
         "race": "Dragon",
         "set": "Classic",
@@ -1722,9 +1716,8 @@
     {
         "attack": 1,
         "cost": 1,
-        "faction": "Neutral",
         "health": 1,
-        "id": "ds1_whelptoken",
+        "id": "EX1_116t",
         "name": "Dragonnet",
         "race": "Dragon",
         "set": "Classic",
@@ -1921,6 +1914,14 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_619e",
+        "name": "\u00c9galit\u00e9",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Les points de vie sont pass\u00e9s \u00e0 1.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Michal Ivan",
         "collectible": true,
         "cost": 2,
@@ -1933,14 +1934,6 @@
         "set": "Classic",
         "text": "Les points de vie de TOUS les serviteurs passent \u00e0 1.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_619e",
-        "name": "\u00c9galit\u00e9",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Les points de vie sont pass\u00e9s \u00e0 1.",
-        "type": "Enchantment"
     },
     {
         "artist": "Dan Scott",
@@ -1986,7 +1979,7 @@
         "collectible": true,
         "cost": 3,
         "faction": "Neutral",
-        "flavor": "Moi je dirais plut\u00f4t qu\u2019il se d\u00e9lite !",
+        "flavor": "Moi je dirais plut\u00f4t qu\u2019il se d\u00e9lite\u00a0!",
         "health": 4,
         "id": "EX1_258",
         "name": "\u00c9l\u00e9mentaire d\u00e9li\u00e9",
@@ -2265,6 +2258,17 @@
         "type": "Hero Power"
     },
     {
+        "cost": 0,
+        "faction": "Neutral",
+        "id": "EX1_596e",
+        "name": "Feu d\u00e9moniaque",
+        "playerClass": "Warlock",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "Ce d\u00e9mon a +2/+2.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Ben Wootten",
         "collectible": true,
         "cost": 2,
@@ -2277,17 +2281,6 @@
         "set": "Classic",
         "text": "Inflige $2 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur. Si la cible est un de vos d\u00e9mons, lui donne +2/+2 \u00e0 la place.",
         "type": "Spell"
-    },
-    {
-        "cost": 0,
-        "faction": "Neutral",
-        "id": "EX1_596e",
-        "name": "Feu d\u00e9moniaque",
-        "playerClass": "Warlock",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "Ce d\u00e9mon a +2/+2.",
-        "type": "Enchantment"
     },
     {
         "artist": "Malcolm Davis",
@@ -2358,6 +2351,14 @@
         "set": "Classic",
         "text": "Inflige $5 points de d\u00e9g\u00e2ts. Rend #5 PV \u00e0 votre h\u00e9ros.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_334e",
+        "name": "Folie de l\u2019ombre",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Les commandes de ce serviteur sont \u00e9chang\u00e9es pour ce tour.",
+        "type": "Enchantment"
     },
     {
         "artist": "Mark Gibbons",
@@ -2826,7 +2827,7 @@
         "name": "Goule mangeuse de chair",
         "rarity": "Common",
         "set": "Classic",
-        "text": "Chaque fois qu\u2019un serviteur meurt, gagne\n+1 ATQ.",
+        "text": "Chaque fois qu\u2019un serviteur meurt, gagne +1 ATQ.",
         "type": "Minion"
     },
     {
@@ -3697,34 +3698,12 @@
         "type": "Minion"
     },
     {
-        "artist": "Clint Langley",
-        "collectible": true,
-        "cost": 3,
         "faction": "Neutral",
-        "flavor": "Les druides appellent \u00e7a la \u00ab\u00a0Marque de la nature\u00a0\u00bb. Les autres consid\u00e8rent qu\u2019ils ont juste besoin d\u2019un bon bain...",
-        "id": "EX1_155",
-        "name": "Marque de la nature",
-        "playerClass": "Druid",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Choix des armes\u00a0:</b> donne +4 ATQ \u00e0 un serviteur ou +4 PV et <b>Provocation</b>.",
-        "type": "Spell"
-    },
-    {
-        "id": "EX1_155be",
+        "id": "EX1_155a",
         "name": "Marque de la nature",
         "playerClass": "Druid",
         "set": "Classic",
-        "text": "Ce serviteur a +4 PV et <b>Provocation</b>.",
-        "type": "Enchantment"
-    },
-    {
-        "faction": "Neutral",
-        "id": "EX1_155b",
-        "name": "Marque de la nature",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 PV et <b>Provocation</b>.",
+        "text": "+4 ATQ.",
         "type": "Spell"
     },
     {
@@ -3737,11 +3716,33 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_155a",
+        "id": "EX1_155b",
         "name": "Marque de la nature",
         "playerClass": "Druid",
         "set": "Classic",
-        "text": "+4 ATQ.",
+        "text": "+4 PV et <b>Provocation</b>.",
+        "type": "Spell"
+    },
+    {
+        "id": "EX1_155be",
+        "name": "Marque de la nature",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Ce serviteur a +4 PV et <b>Provocation</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "artist": "Clint Langley",
+        "collectible": true,
+        "cost": 3,
+        "faction": "Neutral",
+        "flavor": "Les druides appellent \u00e7a la \u00ab\u00a0Marque de la nature\u00a0\u00bb. Les autres consid\u00e8rent qu\u2019ils ont juste besoin d\u2019un bon bain...",
+        "id": "EX1_155",
+        "name": "Marque de la nature",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Choix des armes\u00a0:</b> donne +4 ATQ \u00e0 un serviteur ou +4 PV et <b>Provocation</b>.",
         "type": "Spell"
     },
     {
@@ -3817,6 +3818,19 @@
         "type": "Minion"
     },
     {
+        "artist": "Richard Wright",
+        "collectible": true,
+        "cost": 5,
+        "flavor": "\u00ab\u00a0Un peu plus pr\u00e8s des \u00e9toiles\u00a0!\u00a0\u00bb\n- Albatros",
+        "id": "NEW1_007",
+        "name": "M\u00e9t\u00e9ores",
+        "playerClass": "Druid",
+        "rarity": "Rare",
+        "set": "Classic",
+        "text": "<b>Choix des armes\u00a0:</b> inflige $5 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur\u00a0; ou $2 |4(point,points) de d\u00e9g\u00e2ts \u00e0 tous les serviteurs adverses.",
+        "type": "Spell"
+    },
+    {
         "id": "NEW1_007a",
         "name": "M\u00e9t\u00e9ores",
         "playerClass": "Druid",
@@ -3830,19 +3844,6 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Inflige $5 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur.",
-        "type": "Spell"
-    },
-    {
-        "artist": "Richard Wright",
-        "collectible": true,
-        "cost": 5,
-        "flavor": "\u00ab\u00a0Un peu plus pr\u00e8s des \u00e9toiles\u00a0!\u00a0\u00bb\n- Albatros",
-        "id": "NEW1_007",
-        "name": "M\u00e9t\u00e9ores",
-        "playerClass": "Druid",
-        "rarity": "Rare",
-        "set": "Classic",
-        "text": "<b>Choix des armes\u00a0:</b> inflige $5 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur\u00a0; ou $2 |4(point,points) de d\u00e9g\u00e2ts \u00e0 tous les serviteurs adverses.",
         "type": "Spell"
     },
     {
@@ -3883,6 +3884,16 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_570e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Morsure",
+        "set": "Classic",
+        "text": "+4 ATQ pendant ce tour.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Tom Baxa",
         "collectible": true,
         "cost": 4,
@@ -3895,16 +3906,6 @@
         "set": "Classic",
         "text": "Conf\u00e8re +4 ATQ au h\u00e9ros pendant ce tour et +4 Armure.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_570e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Morsure",
-        "set": "Classic",
-        "text": "+4 ATQ pendant ce tour.",
-        "type": "Enchantment"
     },
     {
         "artist": "Jim Nelson",
@@ -4025,20 +4026,20 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_164b",
-        "name": "Nourrir",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Vous piochez 3 cartes.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_164a",
         "name": "Nourrir",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Vous gagnez 2 cristaux de mana.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_164b",
+        "name": "Nourrir",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Vous piochez 3 cartes.",
         "type": "Spell"
     },
     {
@@ -4324,7 +4325,7 @@
         "playerClass": "Warlock",
         "rarity": "Common",
         "set": "Classic",
-        "text": "Vos serviteurs co\u00fbtent (2) cristaux de moins, mais jamais moins de (1).",
+        "text": "Vos serviteurs co\u00fbtent (2) cristaux de moins, mais jamais moins\nde (1).",
         "type": "Minion"
     },
     {
@@ -4636,6 +4637,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_607e",
+        "name": "Rage int\u00e9rieure",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+2 Attaque.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Slawomir Maniak",
         "collectible": true,
         "cost": 0,
@@ -4648,14 +4657,6 @@
         "set": "Classic",
         "text": "Inflige $1 |4(point,points) de d\u00e9g\u00e2ts \u00e0 un serviteur et lui conf\u00e8re +2 ATQ.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_607e",
-        "name": "Rage int\u00e9rieure",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+2 Attaque.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_411e",
@@ -4672,7 +4673,7 @@
         "cost": 8,
         "elite": true,
         "faction": "Neutral",
-        "flavor": "Ragnaros a \u00e9t\u00e9 invoqu\u00e9 par les nains sombrefers, qui au final se sont retrouv\u00e9s esclaves du seigneur du feu. Invoquer Ragnaros a souvent des effets secondaires ind\u00e9sirables...",
+        "flavor": "Ragnaros a \u00e9t\u00e9 invoqu\u00e9 par les nains sombrefers, qui finirent par se retrouver esclaves du seigneur du feu. Invoquer Ragnaros a souvent des effets secondaires ind\u00e9sirables...",
         "health": 8,
         "id": "EX1_298",
         "name": "Ragnaros, seigneur du feu",
@@ -4713,7 +4714,7 @@
         "playerClass": "Paladin",
         "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Secret\u00a0:</b> quand un de vos serviteurs meurt, il est ressuscit\u00e9 avec 1 PV.",
+        "text": "<b>Secret\u00a0:</b> quand un de vos serviteurs meurt, il est ressuscit\u00e9 avec\n1 PV.",
         "type": "Spell"
     },
     {
@@ -4838,25 +4839,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Rugissement d\u00e9moralisant",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Ce serviteur a -3 ATQ pendant ce tour.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "CS2_104e",
-        "name": "Saccager",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+3/+3.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Jonboy Meyers",
         "collectible": true,
         "cost": 2,
@@ -4871,11 +4853,19 @@
         "type": "Spell"
     },
     {
-        "id": "CS2_073e",
+        "id": "CS2_104e",
+        "name": "Saccager",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+3/+3.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "CS2_073e2",
         "name": "Sang froid",
         "playerClass": "Rogue",
         "set": "Classic",
-        "text": "+2 ATQ.",
+        "text": "+4 ATQ.",
         "type": "Enchantment"
     },
     {
@@ -4896,11 +4886,11 @@
         "type": "Spell"
     },
     {
-        "id": "CS2_073e2",
+        "id": "CS2_073e",
         "name": "Sang froid",
         "playerClass": "Rogue",
         "set": "Classic",
-        "text": "+4 ATQ.",
+        "text": "+2 ATQ.",
         "type": "Enchantment"
     },
     {
@@ -5054,14 +5044,6 @@
         "set": "Classic",
         "text": "Ne peut pas \u00eatre la cible de sorts ou de pouvoirs h\u00e9ro\u00efques.",
         "type": "Minion"
-    },
-    {
-        "id": "EX1_334e",
-        "name": "Sombre ordre",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Les commandes de ce serviteur sont \u00e9chang\u00e9es pour ce tour.",
-        "type": "Enchantment"
     },
     {
         "artist": "Phroilan Gardner",
@@ -5253,7 +5235,7 @@
         "playerClass": "Paladin",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "<b>Bouclier divin</b>\n<b>Provocation</b>\n<b>R\u00e2le d\u2019agonie\u00a0:</b> vous \u00e9quipe de Porte-cendres 5/3.",
+        "text": "<b>Bouclier divin</b>. <b>Provocation</b>. <b>R\u00e2le d\u2019agonie\u00a0:</b> vous \u00e9quipe de Porte-cendres 5/3.",
         "type": "Minion"
     },
     {
@@ -5432,7 +5414,7 @@
         "playerClass": "Mage",
         "rarity": "Common",
         "set": "Classic",
-        "text": "Chaque fois que vous lancez un sort, gagne\n+1 ATQ.",
+        "text": "Chaque fois que vous lancez un sort, gagne +1 ATQ.",
         "type": "Minion"
     },
     {
@@ -5456,7 +5438,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "Vous piochez une carte R\u00eave \u00e0 la fin de votre tour.",
+        "text": "\u00c0 la fin de votre tour, ajoute une carte R\u00eave dans votre main.",
         "type": "Minion"
     }
 ]

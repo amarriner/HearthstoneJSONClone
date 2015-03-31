@@ -223,7 +223,7 @@
    Neutral
   </faction>
   <text>
-   무작위 적 하수인 둘에게 피해를 $2 줍니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
+   무작위로 선택된 적 하수인 둘에게 피해를 $2 줍니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
   </text>
   <artist>
    Ralph Horsley
@@ -332,26 +332,6 @@
    강화됨
   </name>
   <text>
-   내구도 증가
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_536e
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   강화됨
-  </name>
-  <text>
    공격력 +1, 내구도 +1
   </text>
   <type>
@@ -362,6 +342,26 @@
   </id>
   <playerclass>
    Warrior
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   강화됨
+  </name>
+  <text>
+   내구도 증가
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_536e
+  </id>
+  <playerclass>
+   Hunter
   </playerclass>
  </item>
  <item>
@@ -502,7 +502,7 @@
    E.M. Gist
   </artist>
   <text>
-   내 턴이 끝날 때, 다른 무작위 아군 하수인에게 공격력을 +1 부여합니다.
+   내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 공격력을 +1 부여합니다.
   </text>
   <rarity>
    Rare
@@ -1438,6 +1438,41 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   군주 자락서스
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   15
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Hero
+  </type>
+  <id>
+   EX1_323h
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -1484,41 +1519,6 @@
   </type>
   <id>
    EX1_323
-  </id>
-  <playerclass>
-   Warlock
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   군주 자락서스
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <rarity>
-   Legendary
-  </rarity>
-  <attack>
-   0
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   15
-  </health>
-  <race>
-   Demon
-  </race>
-  <type>
-   Hero
-  </type>
-  <id>
-   EX1_323h
   </id>
   <playerclass>
    Warlock
@@ -1857,35 +1857,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   나무정령
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <attack>
-   2
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   2
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_158t
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Charge
@@ -1960,6 +1931,35 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   나무정령
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_158t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1973,7 +1973,7 @@
    Neutral
   </faction>
   <text>
-   무작위로 선정된 하수인 하나를 제외한 모든 하수인을 처치합니다.
+   무작위로 선택된 하수인 하나를 제외한 모든 하수인을 처치합니다.
   </text>
   <artist>
    Wayne Reynolds
@@ -2016,7 +2016,7 @@
    Daren Bader
   </artist>
   <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력이 2 이하인 무작위 적 하수인 하나를 처치합니다.
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 공격력 2 이하의 하수인 하나를 처치합니다.
   </text>
   <rarity>
    Rare
@@ -2224,6 +2224,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   내면의 분노
+  </name>
+  <text>
+   공격력 +2
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_607e
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2256,26 +2276,6 @@
   </type>
   <id>
    EX1_607
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   내면의 분노
-  </name>
-  <text>
-   공격력 +2
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
   </id>
   <playerclass>
    Warrior
@@ -2478,26 +2478,6 @@
   </id>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   냉혈
-  </name>
-  <text>
-   공격력 +2
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -2561,6 +2541,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   냉혈
+  </name>
+  <text>
+   공격력 +2
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2574,7 +2574,7 @@
    Sean O’Daniels
   </artist>
   <text>
-   내 턴이 시작될 때, 이 하수인이 내 손에 있는 다른 무작위 하수인 하나와 교체됩니다.
+   내 턴이 시작될 때, 이 하수인을 무작위로 선택된 내 손의 다른 하수인 하나와 교체합니다.
   </text>
   <rarity>
    Rare
@@ -2793,7 +2793,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;비밀:&lt;/b&gt; 내 영웅을 공격하는 캐릭터가 다른 무작위 캐릭터 하나를 공격하게 됩니다.
+   &lt;b&gt;비밀:&lt;/b&gt; 내 영웅을 공격하는 캐릭터가 무작위로 선택된 다른 캐릭터 하나를 공격하게 됩니다.
   </text>
   <artist>
    Daren Bader
@@ -2992,7 +2992,7 @@
    Matt Cavotta
   </artist>
   <text>
-   내 하수인이 소환된 후에, 무작위 적 하나에게 피해를 1 줍니다.
+   내 하수인이 소환된 후에, 무작위로 선택된 적 하나에게 피해를 1 줍니다.
   </text>
   <rarity>
    Rare
@@ -4435,23 +4435,6 @@
   </playerclass>
  </item>
  <item>
-  <text>
-   내구도 +1
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   무기 연마
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -4478,14 +4461,17 @@
   <name>
    무리의 우두머리
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   +1/+1
+   내 하수인들에게 +1/+1을 부여합니다.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_160be
+   EX1_160b
   </id>
   <playerclass>
    Druid
@@ -4498,17 +4484,14 @@
   <name>
    무리의 우두머리
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   내 하수인들에게 +1/+1을 부여합니다.
+   +1/+1
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_160b
+   EX1_160be
   </id>
   <playerclass>
    Druid
@@ -4629,28 +4612,6 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   물기
-  </name>
-  <text>
-   이번 턴에 공격력 +4
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -4687,6 +4648,28 @@
   <playerclass>
    Druid
   </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   물기
+  </name>
+  <text>
+   이번 턴에 공격력 +4
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
  </item>
  <item>
   <set>
@@ -4941,23 +4924,6 @@
   </id>
  </item>
  <item>
-  <text>
-   +1/+1
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_014te
-  </id>
-  <name>
-   바나나
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -4976,6 +4942,23 @@
   <id>
    EX1_014t
   </id>
+ </item>
+ <item>
+  <text>
+   +1/+1
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_014te
+  </id>
+  <name>
+   바나나
+  </name>
  </item>
  <item>
   <collectible>
@@ -5116,13 +5099,13 @@
    Neutral
   </faction>
   <text>
-   내 다른 아군 하수인들에게 +2/+2를 부여합니다.
+   +2/+2
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_573a
+   EX1_573ae
   </id>
   <playerclass>
    Druid
@@ -5139,13 +5122,53 @@
    Neutral
   </faction>
   <text>
-   +2/+2
+   내 다른 아군 하수인들에게 +2/+2를 부여합니다.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_573ae
+   EX1_573a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   발톱의 드루이드
+  </name>
+  <text>
+   &lt;b&gt;돌진&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -5191,46 +5214,6 @@
   </type>
   <id>
    EX1_165
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   발톱의 드루이드
-  </name>
-  <text>
-   &lt;b&gt;돌진&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -5624,6 +5607,41 @@
   </playerclass>
  </item>
  <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   별똥별
+  </name>
+  <artist>
+   Richard Wright
+  </artist>
+  <text>
+   &lt;b&gt;선택 -&lt;/b&gt; 하수인 하나에게 피해를 $5 줍니다. 또는 모든 적 하수인에게 피해를 $2 줍니다.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   하늘이 무너지는 거냐고요? 네, 네, 그렇다고 해 둡시다.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <set>
    Classic
   </set>
@@ -5658,41 +5676,6 @@
   </type>
   <id>
    NEW1_007a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   별똥별
-  </name>
-  <artist>
-   Richard Wright
-  </artist>
-  <text>
-   &lt;b&gt;선택 -&lt;/b&gt; 하수인 하나에게 피해를 $5 줍니다. 또는 모든 적 하수인에게 피해를 $2 줍니다.
-  </text>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   5
-  </cost>
-  <flavor>
-   하늘이 무너지는 거냐고요? 네, 네, 그렇다고 해 둡시다.
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007
   </id>
   <playerclass>
    Druid
@@ -5879,7 +5862,7 @@
    True
   </elite>
   <text>
-   이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위 적에게 피해를 8 줍니다.
+   이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위로 선택된 적 하나에게 피해를 8 줍니다.
   </text>
   <artist>
    Greg Staples
@@ -6097,7 +6080,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력 2 이하인 적 하수인 하나를 우리편으로 만듭니다.
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력이 2 이하인 적 하수인 하나를 내 편으로 만듭니다.
   </text>
   <artist>
    Chippy
@@ -6395,6 +6378,49 @@
    Classic
   </set>
   <name>
+   뿌리 내리기
+  </name>
+  <text>
+   생명력 +5, &lt;b&gt;도발&lt;/b&gt;
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_178ae
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   뿌리 내리기
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   생명력 +5와 &lt;b&gt;도발&lt;/b&gt; 능력을 얻습니다.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_178a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
    뿌리 들기
   </name>
   <text>
@@ -6428,49 +6454,6 @@
   </type>
   <id>
    EX1_178b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   뿌리 박기
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   생명력 +5와 &lt;b&gt;도발&lt;/b&gt; 능력을 얻습니다.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_178a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   뿌리 박기
-  </name>
-  <text>
-   생명력 +5, &lt;b&gt;도발&lt;/b&gt;
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_178ae
   </id>
   <playerclass>
    Druid
@@ -6659,32 +6642,6 @@
   <name>
    새끼용
   </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
-  </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   새끼용
-  </name>
   <faction>
    Neutral
   </faction>
@@ -6705,6 +6662,32 @@
   </type>
   <id>
    ds1_whelptoken
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   새끼용
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
   </id>
  </item>
  <item>
@@ -7208,7 +7191,7 @@
    True
   </elite>
   <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 다른 무작위 하수인 하나를 5/5 데빌사우루스 또는 1/1 다람쥐로 변신시킵니다.
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 다른 하수인 하나를 5/5 데빌사우루스 또는 1/1 다람쥐로 변신시킵니다.
   </text>
   <artist>
    Tom Baxa
@@ -7332,6 +7315,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   숲의 영혼
+  </name>
+  <text>
+   죽음의 메아리: 2/2 나무정령 하나 소환
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -7364,26 +7367,6 @@
   </type>
   <id>
    EX1_158
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   숲의 영혼
-  </name>
-  <text>
-   죽음의 메아리: 2/2 나무정령 하나 소환
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -7503,7 +7486,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 모든 플레이어가 카드를 2장 뽑습니다.
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 각 플레이어가 카드를 2장씩 뽑습니다.
   </text>
   <artist>
    Steve Prescott
@@ -7721,7 +7704,7 @@
    True
   </elite>
   <text>
-   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 적 하수인 하나를 우리편으로 만듭니다.
+   &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 적 하수인 하나를 내 편으로 만듭니다.
   </text>
   <rarity>
    Legendary
@@ -7822,7 +7805,7 @@
    Neutral
   </faction>
   <text>
-   상대편의 덱에서 무작위 하수인 하나를 복사하여 내 전장에 놓습니다.
+   상대편 덱에서 무작위로 선택된 하수인 하나를 복사하여 내 전장에 놓습니다.
   </text>
   <artist>
    Zoltan &amp; Gabor
@@ -8142,7 +8125,7 @@
    Neutral
   </faction>
   <text>
-   덱에 있는 무작위 악마 둘을 내 손으로 가져옵니다.
+   내 덱에서 무작위로 선택된 악마 카드 2장을 내 손으로 가져옵니다.
   </text>
   <artist>
    Raven Mimura
@@ -8161,6 +8144,35 @@
   </type>
   <id>
    EX1_317
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   악마의 불꽃
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +2/+2
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   0
+  </cost>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_596e
   </id>
   <playerclass>
    Warlock
@@ -8205,33 +8217,21 @@
   </playerclass>
  </item>
  <item>
+  <text>
+   +5/+5, 하지만 곧 죽음
+  </text>
   <set>
    Classic
   </set>
-  <name>
-   악마의 불꽃
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   +2/+2
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   0
-  </cost>
   <type>
    Enchantment
   </type>
   <id>
-   EX1_596e
+   DREAM_05e
   </id>
-  <playerclass>
-   Warlock
-  </playerclass>
+  <name>
+   악몽
+  </name>
  </item>
  <item>
   <set>
@@ -8255,23 +8255,6 @@
   <playerclass>
    Dream
   </playerclass>
- </item>
- <item>
-  <text>
-   +5/+5, 하지만 곧 죽음
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   DREAM_05e
-  </id>
-  <name>
-   악몽
-  </name>
  </item>
  <item>
   <mechanics>
@@ -8477,6 +8460,26 @@
    Classic
   </set>
   <name>
+   암흑의 광기
+  </name>
+  <text>
+   이번 턴에는 상대편의 명을 따름
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
    압도적인 힘
   </name>
   <faction>
@@ -8653,6 +8656,31 @@
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   야수의 격노
+  </name>
+  <text>
+   이번 턴에 공격력 +2, &lt;b&gt;피해 면역&lt;/b&gt;
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_549o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -8688,51 +8716,6 @@
   </id>
   <playerclass>
    Hunter
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   야수의 격노
-  </name>
-  <text>
-   이번 턴에 공격력 +2, &lt;b&gt;피해 면역&lt;/b&gt;
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_549o
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   어둠의 명령
-  </name>
-  <text>
-   이번 턴에는 상대편의 명을 따름
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
   </playerclass>
  </item>
  <item>
@@ -9621,7 +9604,7 @@
    Glenn Rane
   </artist>
   <text>
-   내 영웅이 입은 피해 1당 비용이 1씩 감소합니다.
+   내 영웅이 입은 피해 1당 비용이 (1)씩 감소합니다.
   </text>
   <rarity>
    Epic
@@ -9659,7 +9642,7 @@
    Neutral
   </faction>
   <text>
-   캐릭터 하나에게 피해를 $2 줍니다. 그 캐릭터가 죽으면 무작위 악마 하나를 소환합니다.
+   캐릭터 하나에게 피해를 $2 줍니다. 그 캐릭터가 죽으면 무작위로 선택된 악마 하나를 소환합니다.
   </text>
   <artist>
    Raymond Swanland
@@ -9816,31 +9799,6 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   위협의 포효
-  </name>
-  <text>
-   이번 턴에 공격력 -3
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -9858,29 +9816,6 @@
   </type>
   <id>
    EX1_164a
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   육성
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   카드를 3장 뽑습니다.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -9919,6 +9854,29 @@
   </type>
   <id>
    EX1_164
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   육성
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   카드를 3장 뽑습니다.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164b
   </id>
   <playerclass>
    Druid
@@ -10142,7 +10100,7 @@
    Neutral
   </faction>
   <text>
-   적 캐릭터들에게 $8의 피해를 무작위로 나누어 입힙니다.
+   모든 적에게 $8의 피해를 무작위로 나누어 입힙니다.
   </text>
   <artist>
    Alex Garner
@@ -10227,7 +10185,7 @@
   </elite>
   <text>
    내 턴이 끝날 때,
-&lt;b&gt;꿈 카드&lt;/b&gt;를 1장 뽑습니다.
+&lt;b&gt;꿈 카드&lt;/b&gt; 1장을 내 손으로 가져옵니다.
   </text>
   <artist>
    Gabor Szikszai
@@ -10492,17 +10450,14 @@
   <name>
    자연의 징표
   </name>
-  <faction>
-   Neutral
-  </faction>
   <text>
-   공격력을 +4 부여합니다.
+   생명력 +4, &lt;b&gt;도발&lt;/b&gt;
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_155a
+   EX1_155be
   </id>
   <playerclass>
    Druid
@@ -10515,14 +10470,17 @@
   <name>
    자연의 징표
   </name>
+  <faction>
+   Neutral
+  </faction>
   <text>
-   생명력 +4, &lt;b&gt;도발&lt;/b&gt;
+   공격력을 +4 부여합니다.
   </text>
   <type>
-   Enchantment
+   Spell
   </type>
   <id>
-   EX1_155be
+   EX1_155a
   </id>
   <playerclass>
    Druid
@@ -10851,7 +10809,7 @@
    True
   </elite>
   <text>
-   각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 넣습니다.
+   각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 추가합니다.
   </text>
   <artist>
    Mark Zug
@@ -11092,7 +11050,7 @@
    Vance Kovacs
   </artist>
   <text>
-   내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.
+   내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 생명력을 +1 부여합니다.
   </text>
   <rarity>
    Rare
@@ -11205,7 +11163,7 @@
    Alliance
   </faction>
   <text>
-   &lt;b&gt;전투의 함성:&lt;/b&gt; 전장에 상대편 하수인이 넷 이상 있으면, 무작위 적 하수인 하나를 우리편으로 만듭니다.
+   &lt;b&gt;전투의 함성:&lt;/b&gt; 전장에 상대편 하수인이 넷 이상 있으면, 무작위로 선택된 적 하수인 하나를 내 편으로 만듭니다.
   </text>
   <artist>
    Leo Che
@@ -11770,41 +11728,6 @@
   </playerclass>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   지혜의 축복
-  </name>
-  <artist>
-   Chippy
-  </artist>
-  <text>
-   하수인 하나를 선택합니다. 그 하수인이 공격할 때마다 카드를 1장 뽑습니다.
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <cost>
-   1
-  </cost>
-  <flavor>
-   이게 어떤 지혜인지는 모르겠지만, 일단 매 턴마다 한 번씩 공격해야 할 것 같군요.
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_363
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -11839,6 +11762,41 @@
   </type>
   <id>
    EX1_363e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   지혜의 축복
+  </name>
+  <artist>
+   Chippy
+  </artist>
+  <text>
+   하수인 하나를 선택합니다. 그 하수인이 공격할 때마다 카드를 1장 뽑습니다.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   1
+  </cost>
+  <flavor>
+   이게 어떤 지혜인지는 모르겠지만, 일단 매 턴마다 한 번씩 공격해야 할 것 같군요.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_363
   </id>
   <playerclass>
    Paladin
@@ -12013,29 +11971,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   천리안
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   카드 1장의 비용이 (3) 감소
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12078,22 +12013,22 @@
    Classic
   </set>
   <name>
-   천벌
+   천리안
   </name>
-  <faction>
-   Neutral
-  </faction>
+  <artist>
+   Lars Grant-West
+  </artist>
   <text>
-   하수인 하나에게 피해를 $3 줍니다.
+   카드 1장의 비용이 (3) 감소
   </text>
   <type>
-   Spell
+   Enchantment
   </type>
   <id>
-   EX1_154a
+   CS2_053e
   </id>
   <playerclass>
-   Druid
+   Shaman
   </playerclass>
  </item>
  <item>
@@ -12158,6 +12093,29 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   천벌
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   하수인 하나에게 피해를 $3 줍니다.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_154a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -12204,26 +12162,6 @@
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   축복받은 용사
-  </name>
-  <text>
-   공격력 2배 증가
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_355e
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12259,6 +12197,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   축복받은 용사
+  </name>
+  <text>
+   공격력 2배 증가
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_355e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -12272,7 +12230,7 @@
    Neutral
   </faction>
   <text>
-   무작위 적 하수인을 하나 처치합니다.
+   무작위로 선택된 적 하수인 하나를 처치합니다.
   </text>
   <artist>
    Steve Prescott
@@ -12829,7 +12787,7 @@
    Neutral
   </faction>
   <text>
-   내 턴이 시작될 때, 무작위 적 하나에게 피해를 2 줍니다.
+   내 턴이 시작될 때, 무작위로 선택된 적 하나에게 피해를 2 줍니다.
   </text>
   <artist>
    Raymond Swanland
@@ -12883,7 +12841,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;돌진&lt;/b&gt;. &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 카드를 2장 버립니다.
+   &lt;b&gt;돌진&lt;/b&gt;. &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 카드 2장을 버립니다.
   </text>
   <artist>
    Lucas Graciano
@@ -12984,6 +12942,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   평등
+  </name>
+  <text>
+   생명력 1로 바뀜
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_619e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -13016,26 +12994,6 @@
   </type>
   <id>
    EX1_619
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   평등
-  </name>
-  <text>
-   생명력 1로 바뀜
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_619e
   </id>
   <playerclass>
    Paladin
@@ -13456,7 +13414,7 @@
    Neutral
   </faction>
   <text>
-   &lt;b&gt;은신&lt;/b&gt;. 내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.
+   &lt;b&gt;은신&lt;/b&gt;. 내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 생명력을 +1 부여합니다.
   </text>
   <artist>
    Bernie Kang

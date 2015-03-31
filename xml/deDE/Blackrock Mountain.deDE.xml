@@ -1,0 +1,5654 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Absteigen
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft Gyth herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_5H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Absteigen
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft Gyth herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Aktivieren!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert eine zufällige Tron-Einheit.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_10
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Aktivieren!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert eine zufällige Tron-Einheit.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_10H
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Andächtige Totenwache
+  </name>
+  <artist>
+   Jaime Jones
+  </artist>
+  <text>
+   Zieht 2 Karten. Kostet (1) weniger für jeden Diener, der in diesem Zug gestorben ist.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <howtogetgold>
+   Kann nach dem Abschluss der Paladinherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Jedes Jahr versammeln sich Angehörige beim Schwarzfels, um derer zu gedenken, die in die Lava hinein gedankenkontrolliert wurden.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Paladinherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_001
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Spellpower
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Arkanotron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Zauberschaden +2&lt;/b&gt; für beide Spieler.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Arkanotron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Arkanotron!
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Arkanotron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Arkanotron!
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_2
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA16_1H
+  </id>
+  <name>
+   Atramedes
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA16_1
+  </id>
+  <name>
+   Atramedes
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Auf sie mit Gebrüll!
+  </name>
+  <text>
+   Ruft vier Zwerge (1/1) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA01_4
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Auferstehung
+  </name>
+  <artist>
+   Luke Mancini
+  </artist>
+  <text>
+   Ruft einen zufälligen verbündeten Diener herbei, der in dieser Partie gestorben ist.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Kann nach dem Sieg über Imperator Thaurissan in den Schwarzfelstiefen hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   „Ich betrat den Dungeon und sah einen getöteten Abenteurer. Mit letzter Kraft hatte er eine Nachricht in die Wand eingeritzt. Es waren nur zwei Worte: afk brb.“
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Imperator Thaurissan in den Schwarzfelstiefen freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_017
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   Erhöhtes Leben.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA10_3e
+  </id>
+  <name>
+   Ausbrüten
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Axtwerfer
+  </name>
+  <artist>
+   Efrem Palacios
+  </artist>
+  <text>
+   Fügt dem feindlichen Helden jedes Mal 2 Schaden zu, wenn dieser Diener Schaden erleidet.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss der Kriegerherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Es gibt eine ganze Menge Dinge, die man werfen kann: Äxte, Speere, Hämmer und sogar Kuchenteller. Aber Zwerge? Ein Zwerg wird von niemandem geworfen!
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Kriegerherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_016
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA05_1
+  </id>
+  <name>
+   Baron Geddon
+  </name>
+ </item>
+ <item>
+  <health>
+   50
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA05_1H
+  </id>
+  <name>
+   Baron Geddon
+  </name>
+ </item>
+ <item>
+  <text>
+   Erhöhter Angriff.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA10_6e
+  </id>
+  <name>
+   Blind vor Wut
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Boss der Wichtelgang
+  </name>
+  <artist>
+   Steve Prescott
+  </artist>
+  <text>
+   Beschwört jedes Mal einen Wichtel (1/1), wenn dieser Diener Schaden erleidet.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Majordomus Exekutus im Geschmolzenen Kern hergestellt werden.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Demon
+  </race>
+  <flavor>
+   Der größte Coup, den die Wichtelgang jemals gelandet hat, war, sich nachts nach Sturmwind reinzuschleichen und „Varian stinkt“ an den Magierturm zu sprühen.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Majordomus Exekutus im Geschmolzenen Kern freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_006
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brandwachenzerstörer
+  </name>
+  <artist>
+   Paul Mafayon
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Erhält 1–4 Angriff. &lt;b&gt;Überladung:&lt;/b&gt; (1)
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Lord Victor Nefarius im Pechschwingenhort hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Brandwachenzerstörer ist unter Feuerelementaren eine sehr beliebte Position, aber nur die wenigsten schaffen es überhaupt, ein Bewerbungsschreiben dafür aufzusetzen.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Lord Victor Nefarius im Pechschwingenhort freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_012
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brennendes Adrenalin
+  </name>
+  <text>
+   Fügt dem feindlichen Helden $2 Schaden zu.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA11_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt der Hand Eures Gegners am Ende Eures Zuges eine Brutgebrechen-Karte hinzu.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA12_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt der Hand Eures Gegners am Ende Eures Zuges eine Brutgebrechen-Karte hinzu.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA12_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Blau
+  </name>
+  <text>
+   Chromaggus&amp;apos; Zauber kosten (3) weniger, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_5H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Blau
+  </name>
+  <text>
+   Chromaggus&amp;apos; Zauber kosten (1) weniger, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Bronze
+  </name>
+  <text>
+   Chromaggus&amp;apos; Diener kosten (3) weniger, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_7H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Bronze
+  </name>
+  <text>
+   Chromaggus&amp;apos; Diener kosten (1) weniger, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_7
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Grün
+  </name>
+  <text>
+   Stellt zu Beginn Eures Zuges beim feindlichen Helden 2 Leben wieder her, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Grün
+  </name>
+  <text>
+   Stellt zu Beginn Eures Zuges beim feindlichen Helden 6 Leben wieder her, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_4H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Rot
+  </name>
+  <text>
+   Erleidet zu Beginn Eures Zuges 1 Schaden, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_3
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    ImmuneToSpellpower
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Rot
+  </name>
+  <text>
+   Erleidet zu Beginn Eures Zuges 3 Schaden, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_3H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Schwarz
+  </name>
+  <text>
+   Chromaggus erhält jede von ihm gezogene Karte doppelt, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_6H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Brutgebrechen: Schwarz
+  </name>
+  <text>
+   Chromaggus erhält jede von ihm gezogene Karte doppelt, solange Ihr diese Karte auf der Hand habt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_6
+  </id>
+ </item>
+ <item>
+  <health>
+   60
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA12_1H
+  </id>
+  <name>
+   Chromaggus
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromaggus
+  </name>
+  <artist>
+   Todd Lockwood
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Jedes Mal, wenn Ihr eine Karte zieht, erhaltet Ihr eine Kopie davon auf die Hand.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss des Pechschwingenhorts hergestellt werden.
+  </howtogetgold>
+  <attack>
+   6
+  </attack>
+  <cost>
+   8
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Der linke und der rechte Kopf sind sich nie einig, was sie abends essen wollen, und bestellen letztendlich jedes Mal einfach Pizza.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Pechschwingenhorts freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_031
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA12_1
+  </id>
+  <name>
+   Chromaggus
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromatische Mutation
+  </name>
+  <text>
+   Verwandelt einen Diener in einen Chromatischen Drachkin (2/2).
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA12_8
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromatischer Drache
+  </name>
+  <attack>
+   7
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA10_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromatischer Drache
+  </name>
+  <attack>
+   7
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   7
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA10_5H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromatischer Drachkin
+  </name>
+  <text>
+   Erhält jedes Mal +2/+2, wenn Euer Gegner einen Zauber wirkt.
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA12_8t
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA12_9
+  </id>
+  <name>
+   Chromatischer Drachkin
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Chromatischer Prototyp
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   4
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA17_7
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA01_1
+  </id>
+  <name>
+   Coren Düsterbräu
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA01_1H
+  </id>
+  <name>
+   Coren Düsterbräu
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AffectedBySpellPower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Dämonenzorn
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   Fügt allen nicht dämonischen Dienern $2 Schaden zu.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   3
+  </cost>
+  <howtogetgold>
+   Kann nach dem Abschluss der Hexenmeisterherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Dämonen sind normalerweise gar nicht zornig. Ihr müsst schon diese Karte ausspielen, wenn Ihr sie so richtig auf die Palme bringen wollt.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Hexenmeisterherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_005
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <text>
+   &lt;b&gt;Passive Heldenfähigkeit&lt;/b&gt;
+Vertauscht jedes Mal, wenn ein Diener herbeigerufen wird, dessen Angriff und Leben.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA15_2
+  </id>
+  <name>
+   Der Alchemist
+  </name>
+ </item>
+ <item>
+  <text>
+   &lt;b&gt;Passive Heldenfähigkeit&lt;/b&gt;
+Vertauscht jedes Mal, wenn ein Diener herbeigerufen wird, dessen Angriff und Leben.
+Verleiht Euren Dienern +2/+2.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA15_2H
+  </id>
+  <name>
+   Der Alchemist
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Der Majordomus
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Flammenschürerakolythen (1/3) herbei.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA06_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Der Majordomus
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Flammenschürerakolythen (3/3) herbei.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA06_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Die alte Horde
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft zwei Orcs (1/1) mit &lt;b&gt;Spott&lt;/b&gt; herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Die alte Horde
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft zwei Orcs (2/2) mit &lt;b&gt;Spott&lt;/b&gt; herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_3H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Die Brutstätte
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Gewährt allen Verderbten Eiern +1 Leben und ruft ein Ei herbei.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA10_3H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Die Brutstätte
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Gewährt allen Verderbten Eiern +1 Leben und ruft ein Ei herbei.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA10_3
+  </id>
+ </item>
+ <item>
+  <text>
+   +1/+1.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_033e
+  </id>
+  <name>
+   Drachenblut
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachenei
+  </name>
+  <artist>
+   Jaemin Kim
+  </artist>
+  <text>
+   Ruft jedes Mal einen Welpling (2/1) herbei, wenn dieser Diener Schaden erleidet.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Rend Schwarzfaust in der Schwarzfelsspitze hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Schlafende Drachen soll man nicht wecken.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Rend Schwarzfaust in der Schwarzfelsspitze freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_022
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachengefährte
+  </name>
+  <artist>
+   Raymond Swanland
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Der nächste Drache, den Ihr ausspielt, kostet (2) weniger.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über General Drakkisath in der Schwarzfelsspitze hergestellt werden.
+  </howtogetgold>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   5
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Eigentlich wollen wir doch alle einfach jemanden zum Kuscheln. Und da bilden auch riesige, furchterregende Drachenbestien keine Ausnahme.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über General Drakkisath in der Schwarzfelsspitze freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_018
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachenodem
+  </name>
+  <artist>
+   Mauricio Herrera
+  </artist>
+  <text>
+   Verursacht $4 Schaden. Kostet (1) weniger für jeden Diener, der in diesem Zug gestorben ist.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <howtogetgold>
+   Kann nach dem Abschluss der Magierherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Ja, Drachen spucken Feuer, aber wusstet Ihr, dass sie auch Zuckerwatte spucken können? Meist ist es nur schwer, sie dazu zu bringen.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Magierherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_003
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachenzähne
+  </name>
+  <durability>
+   6
+  </durability>
+  <text>
+   Erhält jedes Mal +1 Angriff, wenn Euer Gegner eine Karte ausspielt.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   BRMA16_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachkin
+  </name>
+  <attack>
+   5
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_4Ht
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachkin
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_4t
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drachkinzauberer
+  </name>
+  <artist>
+   Edouard Guiton &amp; Stuido HIVE
+  </artist>
+  <text>
+   Erhält jedes Mal +1/+1, wenn Ihr diesen Diener als Ziel eines Zaubers wählt.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Nefarian im Geheimlabor hergestellt werden.
+  </howtogetgold>
+  <attack>
+   3
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   5
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Ihr werdet sehen, einige Zaubererfamilien sind besser als andere. Und Ihr wollt Euch doch bestimmt nicht mit der falschen Sorte abgeben.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Nefarian im Geheimlabor freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_020
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drakkisaths Befehl
+  </name>
+  <text>
+   Vernichtet einen Diener. Erhaltet 10 Rüstung.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA08_3
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Drakonidenzermalmer
+  </name>
+  <artist>
+   Slawomir Maniak
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Erhält +3/+3, wenn Euer Gegner max. 15 Leben hat.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Atramedes im Geheimlabor hergestellt werden.
+  </howtogetgold>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   6
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Drakoniden vereinen alle schlechten Eigenschaften von Drachen in Humanoidenform. Hat die Welt das wirklich gebraucht?
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Atramedes im Geheimlabor freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_024
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Dreierbande
+  </name>
+  <artist>
+   Jim Nelson
+  </artist>
+  <text>
+   Wählt einen Diener. Mischt 3 Kopien davon in Euer Deck.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Kann nach dem Sieg in der Dunkeleisenarena in den Schwarzfelstiefen hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Willkommen in Mondbruch. 34 Seelen und ein ausgelasteter Totengräber.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg in der Dunkeleisenarena in den Schwarzfelstiefen freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_007
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Dröhnender Gong
+  </name>
+  <text>
+   Zerstört die Waffe Eures Gegners.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA16_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Druidin der Flamme
+  </name>
+  <artist>
+   Ben Zhang
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_010t
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Druidin der Flamme
+  </name>
+  <artist>
+   Hideaki Takamura
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   5
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_010t2
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Druidin der Flamme
+  </name>
+  <artist>
+   Stanley Lau
+  </artist>
+  <text>
+   &lt;b&gt;Wählt aus:&lt;/b&gt; Verwandelt sich in eine Feuerkatze (5/2); oder in einen Feuerfalken (2/5).
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   2
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Garr im Geschmolzenen Kern hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Druiden, die von einer langen Kampagne in Nordend zurückkehrten, waren ein gefundenes Fressen für Ragnaros ... sie wurden schon beim Angebot einer heißen Schokolade schwach.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Garr im Geschmolzenen Kern freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_010
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Dunkeleisenlauerer
+  </name>
+  <artist>
+   Eric Braddock
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Fügt allen unverletzten feindlichen Dienern 2 Schaden zu.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss der Schurkenherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Er lauert fürs Leben gern. Manchmal lauert er auch nach Feierabend zum Spaß weiter – meist auf Mauern. Seine Freunde machen sich Sorgen, dass er sich übernimmt.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Schurkenherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_008
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Dunkeleisenzuschauer
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA02_2t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Echo-Ortung
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Legt eine Waffe an, die stärker wird, wenn Euer Gegner Karten ausspielt.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA16_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Echo-Ortung
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Legt eine Waffe an, die stärker wird, wenn Euer Gegner Karten ausspielt.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA16_2H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Elektron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Alle Zauber kosten (3) weniger.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   5
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_7
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Elektron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Alle Zauber kosten (3) weniger.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   6
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   6
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_7H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Elektron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Elektron!
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_6H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Elektron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Elektron!
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_6
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Energieschub
+  </name>
+  <text>
+   Füllt alle leeren Manakristalle auf.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA14_11
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Entartung
+  </name>
+  <text>
+   &lt;b&gt;Ansturm&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA15_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Entartungen freilassen
+  </name>
+  <text>
+   Ruft 3 Entartungen herbei.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA15_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Entfesselt!
+  </name>
+  <text>
+   Euer nächster Drache kostet (2) weniger.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_018e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Essenz der Roten
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Jeder Spieler zieht 2 Karten.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA11_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Essenz der Roten
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Jeder Spieler zieht 3 Karten. Erhaltet 1 Manakristall.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA11_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feuer vom Himmel
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Nefarian lässt Feuer vom Himmel regnen!
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA17_8
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feuer vom Himmel
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Nefarian lässt Feuer vom Himmel regnen!
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA17_8H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feueranbeter
+  </name>
+  <text>
+   &lt;b&gt;Todesröcheln:&lt;/b&gt; Fügt dem feindlichen Helden für jeden Feueranbeter, der in diesem Zug gestorben ist, 3 Schaden zu.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA04_3H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feueranbeter
+  </name>
+  <text>
+   &lt;b&gt;Todesröcheln:&lt;/b&gt; Fügt dem feindlichen Helden für jeden Feueranbeter, der in diesem Zug gestorben ist, 1 Schaden zu.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA04_3
+  </id>
+ </item>
+ <item>
+  <text>
+   Erhöhter Angriff.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_012e
+  </id>
+  <name>
+   Feuereifer
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feuerfalkengestalt
+  </name>
+  <text>
+   In einen Feuerfalken (2/5) verwandelt.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <race>
+   Beast
+  </race>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_010b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feuerkatzengestalt
+  </name>
+  <text>
+   In eine Feuerkatze (5/2) verwandelt.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <race>
+   Beast
+  </race>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_010a
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA10_1
+  </id>
+  <name>
+   Feuerkralle der Ungezähmte
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA10_1H
+  </id>
+  <name>
+   Feuerkralle der Ungezähmte
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Feuerkralles Klauen
+  </name>
+  <durability>
+   5
+  </durability>
+  <text>
+   Erhält jedes Mal +1 Angriff, wenn ein Verderbtes Ei vernichtet wird.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   BRMA10_6
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Flammenherz
+  </name>
+  <text>
+   Zieht 2 Karten. Erhaltet 4 Rüstung.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA_01
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Flammenschürer
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <text>
+   Verursacht 2 Schaden, nachdem Ihr einen Zauber gewirkt habt. Der Schaden wird zufällig auf alle Feinde verteilt.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Vaelastrasz im Pechschwingenhort hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   „Ich liebe den Geruch von Feuer am Morgen. Es riecht nach Sieg.“
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Vaelastrasz im Pechschwingenhort freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_002
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Flammenschürerakolyth
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA06_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Flammenschürerakolyth
+  </name>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA06_4H
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA04_1
+  </id>
+  <name>
+   Garr
+  </name>
+ </item>
+ <item>
+  <health>
+   45
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA04_1H
+  </id>
+  <name>
+   Garr
+  </name>
+ </item>
+ <item>
+  <health>
+   50
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA08_1H
+  </id>
+  <name>
+   General Drakkisath
+  </name>
+ </item>
+ <item>
+  <health>
+   50
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA08_1
+  </id>
+  <name>
+   General Drakkisath
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Grimmiger Gast
+  </name>
+  <artist>
+   Bobby Chiu
+  </artist>
+  <text>
+   Ruft jedes Mal, wenn dieser Diener Schaden erleidet und überlebt, einen weiteren Grimmigen Gast herbei.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   3
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg im Grimmigen Säufer in den Schwarzfelstiefen hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Der Grimmige Säufer passt zu einem durstigen Abenteurer wie die Faust aufs Auge.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg im Grimmigen Säufer in den Schwarzfelstiefen freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_019
+  </id>
+ </item>
+ <item>
+  <text>
+   Kostet (1) weniger.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_028e
+  </id>
+  <name>
+   Gunst des Imperators
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Gyth
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_5t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Gyth
+  </name>
+  <elite>
+   True
+  </elite>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_5Ht
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA07_1H
+  </id>
+  <name>
+   Hochlord Omokk
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA07_1
+  </id>
+  <name>
+   Hochlord Omokk
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Hungriger Drache
+  </name>
+  <artist>
+   John Polidora
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Ruft für Euren Gegner einen zufälligen Diener herbei, der (1) kostet.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Chromaggus im Pechschwingenhort hergestellt werden.
+  </howtogetgold>
+  <attack>
+   5
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   6
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Heißhunger kann man bei diesem Drachen wörtlich nehmen.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Chromaggus im Pechschwingenhort freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_026
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   ICH HAUEN
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Vernichtet einen zufälligen feindlichen Diener.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA07_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   ICH HAUEN
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Vernichtet einen zufälligen verletzten Diener des Feindes.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA07_2
+  </id>
+ </item>
+ <item>
+  <text>
+   Erhöhter Angriff.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA16_5e
+  </id>
+  <name>
+   Ich höre Euch ...
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA03_1H
+  </id>
+  <name>
+   Imperator Thaurissan
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA03_1
+  </id>
+  <name>
+   Imperator Thaurissan
+  </name>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Imperator Thaurissan
+  </name>
+  <artist>
+   Wayne Reynolds
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   Verringert die Kosten Eurer Handkarten am Ende Eures Zuges um (1).
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   5
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss der Schwarzfelstiefen hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Sein zweitgrößtes Bedauern ist, einen bösen Feuerlord beschworen zu haben, der sein gesamtes Volk versklavte.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Schwarzfelstiefen freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_028
+  </id>
+ </item>
+ <item>
+  <text>
+   &lt;b&gt;Passive Heldenfähigkeit&lt;/b&gt;
+Alle Karten kosten (1). Ihr könnt nicht mehr als 2 Manakristalle haben, Euer Gegner nicht mehr als einen.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA08_2H
+  </id>
+  <name>
+   Intensiver Blick
+  </name>
+ </item>
+ <item>
+  <text>
+   &lt;b&gt;Passive Heldenfähigkeit&lt;/b&gt;
+Alle Karten kosten (1). Spieler können nicht mehr als 1 Manakristall haben.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA08_2
+  </id>
+  <name>
+   Intensiver Blick
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Johlende Menge
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Zuschauer (1/1) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA02_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Johlende Menge
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Zuschauer (1/1) mit &lt;b&gt;Spott&lt;/b&gt; herbei.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA02_2
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Kernwüterich
+  </name>
+  <artist>
+   Jomaro Kindred
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Erhält +3/+3, wenn Ihr keine Karten auf der Hand habt.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über Hochlord Omokk in der Schwarzfelsspitze hergestellt werden.
+  </howtogetgold>
+  <attack>
+   4
+  </attack>
+  <cost>
+   4
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <flavor>
+   Man muss schon ein besonderer Schlag Jäger sein, um ein Monster aus einer feurigen Lavagrube als knuddeliges Haustier adoptieren zu wollen.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Hochlord Omokk in der Schwarzfelsspitze freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_014
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Knochendiener
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft zwei Knochenkonstrukte (4/2) herbei.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA17_5H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Knochendiener
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft zwei Knochenkonstrukte (2/1) herbei.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA17_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Knochenkonstrukt
+  </name>
+  <attack>
+   4
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA17_6H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Knochenkonstrukt
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA17_6
+  </id>
+ </item>
+ <item>
+  <text>
+   +3/+3.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_024e
+  </id>
+  <name>
+   Lange Klauen
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   LAVA!
+  </name>
+  <text>
+   Fügt allen Dienern $2 Schaden zu.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA17_4
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Lavaschock
+  </name>
+  <text>
+   Karten, die Ihr in diesem Zug ausspielt, lösen keine &lt;b&gt;Überladung&lt;/b&gt; aus.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_011t
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Lavaschock
+  </name>
+  <artist>
+   Zoltan Boros
+  </artist>
+  <text>
+   Verursacht $2 Schaden. &lt;b&gt;Überladene&lt;/b&gt; Manakristalle sind wieder nutzbar.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Kann nach dem Abschluss der Schamanenherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Wenn Euch das nicht heiß macht, wissen wir auch keinen Rat mehr.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Schamanenherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_011
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Lebende Bombe
+  </name>
+  <text>
+   Wählt einen feindlichen Diener. Wenn dieser zu Beginn Eures nächsten Zuges noch lebt, fügt er allen Feinden $10 Schaden zu.
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA05_3H
+  </id>
+ </item>
+ <item>
+  <text>
+   Fügt allen verbündeten Charakteren 10 Schaden zu, wenn Geddon am Zug ist.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA05_3He
+  </id>
+  <name>
+   Lebende Bombe
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Lebende Bombe
+  </name>
+  <text>
+   Wählt einen feindlichen Diener. Wenn dieser zu Beginn Eures nächsten Zuges noch lebt, fügt er allen Feinden $5 Schaden zu.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA05_3
+  </id>
+ </item>
+ <item>
+  <text>
+   Fügt allen verbündeten Charakteren 5 Schaden zu, wenn Geddon am Zug ist.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA05_3e
+  </id>
+  <name>
+   Lebende Bombe
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Lebendige Lava
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   6
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   6
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA13_6
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA13_1
+  </id>
+  <name>
+   Lord Victor Nefarius
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA13_1H
+  </id>
+  <name>
+   Lord Victor Nefarius
+  </name>
+ </item>
+ <item>
+  <text>
+   Erhöhte Werte.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_020e
+  </id>
+  <name>
+   Macht der Drachen
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Macht des Drachen
+  </name>
+  <text>
+   Kostet in diesem Zug (3) weniger.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_003e
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Macht des Feuerfürsten
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Verursacht 30 Schaden.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA03_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmatron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Jedes Mal, wenn ein Spieler eine Karte ausspielt, fügt ihm Magmatron 2 Schaden zu.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_9H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmatron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Jedes Mal, wenn ein Spieler eine Karte ausspielt, fügt ihm Magmatron 2 Schaden zu.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   7
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_9
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmatron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Magmatron!
+  </text>
+  <cost>
+   6
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_8H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmatron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Magmatron!
+  </text>
+  <cost>
+   8
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_8
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmaul
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   10
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_12
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Magmawelle
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt allen Dienern 1 Schaden zu.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA04_2
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA06_1
+  </id>
+  <name>
+   Majordomus Exekutus
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Deathrattle
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Majordomus Exekutus
+  </name>
+  <artist>
+   Alex Horley Orlandelli
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Todesröcheln:&lt;/b&gt; Ersetzt Euren Helden durch Ragnaros den Feuerfürsten.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   9
+  </attack>
+  <cost>
+   9
+  </cost>
+  <health>
+   7
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss des Geschmolzenen Kerns hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Ihr dachtet, Exekutus hätte Euch in Ragnaros verwandelt ... aber eigentlich war Ragnaros schon immer ein Teil von Euch.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen des Geschmolzenen Kerns freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_027
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA06_1H
+  </id>
+  <name>
+   Majordomus Exekutus
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA15_1H
+  </id>
+  <name>
+   Maloriak
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA15_1
+  </id>
+  <name>
+   Maloriak
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Mana entzünden
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt dem feindlichen Helden 5 Schaden zu, wenn er noch über Mana verfügt.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA05_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Mana entzünden
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt dem feindlichen Helden 10 Schaden zu, wenn er noch über Mana verfügt.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA05_2H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Moira Bronzebart
+  </name>
+  <text>
+   Thaurissan kann seine Heldenfähigkeit nicht einsetzen. Greift keine Diener ohne &lt;b&gt;Spott&lt;/b&gt; an.
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA03_3
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Aura
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Moira Bronzebart
+  </name>
+  <text>
+   Thaurissan kann seine Heldenfähigkeit nicht einsetzen. Greift keine Diener ohne &lt;b&gt;Spott&lt;/b&gt; an.
+  </text>
+  <attack>
+   3
+  </attack>
+  <cost>
+   2
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA03_3H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Mutation
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Werft eine zufällige Karte ab.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA12_10
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA17_2
+  </id>
+  <name>
+   Nefarian
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA13_3
+  </id>
+  <name>
+   Nefarian
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMC_02
+  </id>
+  <name>
+   Nefarian
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Nefarian
+  </name>
+  <artist>
+   Ruan Jia
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Fügt Eurer Hand 2 zufällige Zauber von der Klasse Eures Gegners hinzu.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss des Geheimlabors hergestellt werden.
+  </howtogetgold>
+  <attack>
+   8
+  </attack>
+  <cost>
+   9
+  </cost>
+  <health>
+   8
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Bis heute ist Historikern nicht bekannt, warum sich der Herr der Schwarzfelsspitze ausgerechnet auf einem baufälligen Balkon häuslich einrichtete.
+  </flavor>
+  <howtoget>
+   Wird durch das Bezwingen aller Bosse im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_030
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA13_3H
+  </id>
+  <name>
+   Nefarian
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA17_2H
+  </id>
+  <name>
+   Nefarian
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA02_1H
+  </id>
+  <name>
+   Oberrichter Grimmstein
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA02_1
+  </id>
+  <name>
+   Oberrichter Grimmstein
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Öffnet das Tor!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft drei Welplinge (1/1) herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Öffnet das Tor!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft drei Welplinge (2/2) herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_2H
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA14_1H
+  </id>
+  <name>
+   Omnotron
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA14_1
+  </id>
+  <name>
+   Omnotron
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA17_3H
+  </id>
+  <name>
+   Onyxia
+  </name>
+ </item>
+ <item>
+  <health>
+   15
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA17_3
+  </id>
+  <name>
+   Onyxia
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Onyxias Klauen
+  </name>
+  <durability>
+   6
+  </durability>
+  <attack>
+   2
+  </attack>
+  <cost>
+   2
+  </cost>
+  <type>
+   Weapon
+  </type>
+  <id>
+   BRMA17_9
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Orc der alten Horde
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_3Ht
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Orc der alten Horde
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_3t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Pechschwinge
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Drachkin (5/4) herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_4H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Pechschwinge
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Ruft einen Drachkin (3/1) herbei. Erhaltet eine neue Heldenfähigkeit.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA09_4
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Pechschwingentechnikerin
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Erhält +1/+1, wenn Ihr einen Drachen auf der Hand habt.
+  </text>
+  <artist>
+   Matt Dixon
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   3
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Baron Geddon im Geschmolzenen Kern hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Nur mit Originalersatzteilen der Pechschwingenwerkstatt ist Pechschwingenqualität garantiert!
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Baron Geddon im Geschmolzenen Kern freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_033
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Pechschwingenverderber
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 3 Schaden, wenn Ihr einen Drachen auf der Hand habt.
+  </text>
+  <artist>
+   Greg Staples
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   5
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Kann nach dem Sieg über Maloriak im Geheimlabor hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Seinen Namen erhielt er unfreiwillig, als er Nefarian einst dubiose Comics und Rock-Schallplatten zusteckte.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Maloriak im Geheimlabor freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_034
+  </id>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Rache
+  </name>
+  <artist>
+   Ben Olson
+  </artist>
+  <text>
+   Fügt allen Dienern $1 Schaden zu. Fügt allen Dienern stattdessen $3 Schaden zu, wenn Euer Held max. 12 Leben hat.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Kann nach dem Sieg über Feuerkralle im Pechschwingenhort hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Besser als Arkane Explosion – jetzt können Krieger sich endlich dafür rächen, dass Tödlicher Stoß schlechter ist als Feuerball.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über Feuerkralle im Pechschwingenhort freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_015
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMC_01
+  </id>
+  <name>
+   Ragnaros der Feuerfürst
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA06_3H
+  </id>
+  <name>
+   Ragnaros der Feuerfürst
+  </name>
+ </item>
+ <item>
+  <health>
+   8
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA06_3
+  </id>
+  <name>
+   Ragnaros der Feuerfürst
+  </name>
+ </item>
+ <item>
+  <health>
+   8
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRM_027h
+  </id>
+  <name>
+   Ragnaros der Feuerfürst
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Rend Schwarzfaust
+  </name>
+  <artist>
+   Alex Horley
+  </artist>
+  <elite>
+   True
+  </elite>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Vernichtet einen &lt;b&gt;legendären&lt;/b&gt; Diener, wenn Ihr einen Drachen auf der Hand habt.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   8
+  </attack>
+  <cost>
+   7
+  </cost>
+  <health>
+   4
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss der Schwarzfelsspitze hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Rend hält sich für den wahren Kriegshäuptling der Horde. Er fügt im Wikipedia-Artikel „Kriegshäuptling der Horde“ unermüdlich immer wieder sein Bild ein.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Schwarzfelsspitze freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_029
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA09_1
+  </id>
+  <name>
+   Rend Schwarzfaust
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA09_1H
+  </id>
+  <name>
+   Rend Schwarzfaust
+  </name>
+ </item>
+ <item>
+  <text>
+   +3 Angriff.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA16_3e
+  </id>
+  <name>
+   Schallatem
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schallatem
+  </name>
+  <text>
+   Fügt einem Diener $3 Schaden zu. Verleiht Eurer Waffe +3 Angriff.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA16_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schlägerei!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Legt zwei Diener aus Eurem Deck und einen aus dem Eures Gegners auf das Schlachtfeld.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA01_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schlägerei!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Legt aus jedem Deck einen Diener auf das Schlachtfeld.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA01_2
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schmelzen
+  </name>
+  <text>
+   Angriff in diesem Zug auf 0 gesetzt.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_001e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AffectedBySpellPower
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schneller Schuss
+  </name>
+  <artist>
+   Jonboy Meyers
+  </artist>
+  <text>
+   Verursacht $3 Schaden. Zieht eine Karte, wenn Ihr keine Karten auf der Hand habt.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <cost>
+   2
+  </cost>
+  <howtogetgold>
+   Kann nach dem Abschluss der Jägerherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   So schnell, dass man sogar seinen eigenen Schatten damit erwischen könnte.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Jägerherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_013
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schwanzfeger
+  </name>
+  <text>
+   Verursacht $4 Schaden.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRM_030t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Schwarzer Welpling
+  </name>
+  <artist>
+   Jaemin Kim
+  </artist>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_022t
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Sohn der Flamme
+  </name>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Verursacht 6 Schaden.
+  </text>
+  <attack>
+   6
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA13_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Spiel mit dem Feuer
+  </name>
+  <text>
+   Ruft 3 Feueranbeter herbei. &lt;b&gt;Überladung:&lt;/b&gt; (2)
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA04_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Spiel mit dem Feuer
+  </name>
+  <text>
+   Ruft 3 Feueranbeter herbei. &lt;b&gt;Überladung:&lt;/b&gt; (2)
+  </text>
+  <cost>
+   3
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA04_4H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   STERBT, INSEKT!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt einem zufälligen Feind 8 Schaden zu.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRM_027p
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    AffectedBySpellPower
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   STERBT, INSEKT!
+  </name>
+  <text>
+   Fügt einem zufälligen Feind $8 Schaden zu.
+  </text>
+  <cost>
+   0
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA13_8
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   STERBT, INSEKTEN!
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Fügt einem zufälligen Feind 8 Schaden zu. ZWEIMAL.
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRM_027pH
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Toxitron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Fügt allen anderen Dienern zu Beginn Eures Zuges 1 Schaden zu.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_5H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Toxitron
+  </name>
+  <elite>
+   True
+  </elite>
+  <text>
+   Fügt allen anderen Dienern zu Beginn Eures Zuges 1 Schaden zu.
+  </text>
+  <rarity>
+   Legendary
+  </rarity>
+  <attack>
+   3
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <race>
+   Mech
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA14_5
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Toxitron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Toxitron!
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Toxitron aktivieren
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Aktiviert Toxitron!
+  </text>
+  <cost>
+   2
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA14_4H
+  </id>
+ </item>
+ <item>
+  <text>
+   +2/+2.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRMA15_2He
+  </id>
+  <name>
+   Trank der Macht
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Trunkenbold
+  </name>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;
+  </text>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA01_4t
+  </id>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA11_1
+  </id>
+  <name>
+   Vaelastrasz der Verdorbene
+  </name>
+ </item>
+ <item>
+  <health>
+   30
+  </health>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Hero
+  </type>
+  <id>
+   BRMA11_1H
+  </id>
+  <name>
+   Vaelastrasz der Verdorbene
+  </name>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Verderbtes Ei
+  </name>
+  <text>
+   Schlüpft aus, wenn es 4 oder mehr Leben hat.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA10_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Verderbtes Ei
+  </name>
+  <text>
+   Schlüpft aus, wenn es 5 oder mehr Leben hat.
+  </text>
+  <attack>
+   0
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA10_4H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Taunt
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Vulkanborke
+  </name>
+  <artist>
+   Trent Kaniuga
+  </artist>
+  <text>
+   &lt;b&gt;Spott&lt;/b&gt;. Kostet (1) weniger für jeden Diener, der in diesem Zug gestorben ist.
+  </text>
+  <rarity>
+   Rare
+  </rarity>
+  <attack>
+   7
+  </attack>
+  <cost>
+   9
+  </cost>
+  <health>
+   8
+  </health>
+  <howtogetgold>
+   Kann nach dem Abschluss der Druidenherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <flavor>
+   Er ist für den Hyjal durchs Feuer gegangen.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Druidenherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_009
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Vulkandrache
+  </name>
+  <artist>
+   Lucas Graciano
+  </artist>
+  <text>
+   Kostet (1) weniger für jeden Diener, der in diesem Zug gestorben ist.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Sieg über das Omnotron-Verteidigungssystem im Geheimlabor hergestellt werden.
+  </howtogetgold>
+  <attack>
+   6
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Vulkandrachen spucken Lava anstatt Feuer. Ihr wollt gar nicht wissen, zu welchem Sodbrennen das führt.
+  </flavor>
+  <howtoget>
+   Wird durch den Sieg über das Omnotron-Verteidigungssystem im Geheimlabor freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_025
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wahre Gestalt
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Lasst die Spiele beginnen!
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA13_2
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wahre Gestalt
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Lasst die Spiele beginnen!
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA13_2H
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wahrer Kriegshäuptling
+  </name>
+  <text>
+   Vernichtet einen legendären Diener.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA09_6
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Welpling
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_004t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Welpling
+  </name>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   2
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_2Ht
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Welpling
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA09_2t
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wichtel
+  </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Demon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_006t
+  </id>
+  <playerclass>
+   Warlock
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wilde Magie
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Erhaltet einen zufälligen Zauber von der Klasse Eures Gegners auf die Hand.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA13_4
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wilde Magie
+  </name>
+  <text>
+   &lt;b&gt;Heldenfähigkeit&lt;/b&gt;
+Erhaltet einen zufälligen Zauber von der Klasse Eures Gegners auf die Hand.
+  </text>
+  <cost>
+   1
+  </cost>
+  <type>
+   Hero Power
+  </type>
+  <id>
+   BRMA13_4H
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Windfury
+   </item>
+  </mechanics>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Wirbelnde Asche
+  </name>
+  <text>
+   &lt;b&gt;Windzorn&lt;/b&gt;
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   5
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA13_7
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   ZEIT FÜR HAUEN
+  </name>
+  <text>
+   Fügt einem zufälligen Feind $5 Schaden zu. Erhaltet 5 Rüstung.
+  </text>
+  <cost>
+   4
+  </cost>
+  <type>
+   Spell
+  </type>
+  <id>
+   BRMA07_3
+  </id>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Zur Weißglut gebracht
+  </name>
+  <text>
+   +3/+3.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_014e
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Zwergenrausschmeißer
+  </name>
+  <text>
+   Gewinnt in Scharmützeln immer.
+  </text>
+  <attack>
+   4
+  </attack>
+  <cost>
+   6
+  </cost>
+  <health>
+   8
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRMA01_3
+  </id>
+ </item>
+ <item>
+  <text>
+   Erhöhtes Leben.
+  </text>
+  <set>
+   Blackrock Mountain
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   BRM_004e
+  </id>
+  <name>
+   Zwielichtausdauer
+  </name>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Battlecry
+   </item>
+  </mechanics>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Blackrock Mountain
+  </set>
+  <name>
+   Zwielichtwelpling
+  </name>
+  <artist>
+   Sam Nielson
+  </artist>
+  <text>
+   &lt;b&gt;Kampfschrei:&lt;/b&gt; Erhält +2 Leben, wenn Ihr einen Drachen auf der Hand habt.
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <howtogetgold>
+   Kann nach dem Abschluss der Priesterherausforderung im Schwarzfels hergestellt werden.
+  </howtogetgold>
+  <attack>
+   2
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <flavor>
+   Zwielichtwelplinge sind im Grunde genommen nichts anderes als magische Vampire – nur nicht so betörend und glitzernd wie die, die man aus dem Kino kennt.
+  </flavor>
+  <howtoget>
+   Wird durch das Abschließen der Priesterherausforderung im Schwarzfels freigeschaltet.
+  </howtoget>
+  <type>
+   Minion
+  </type>
+  <id>
+   BRM_004
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+</cards>

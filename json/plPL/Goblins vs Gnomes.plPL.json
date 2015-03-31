@@ -37,7 +37,7 @@
         "type": "Minion"
     },
     {
-        "artist": "Jesper Esjing",
+        "artist": "Jesper Ejsing",
         "attack": 3,
         "collectible": true,
         "cost": 5,
@@ -326,7 +326,7 @@
         "attack": 4,
         "collectible": true,
         "cost": 5,
-        "flavor": "Druidzi K\u0142a pisz\u0105 wy\u0142\u0105cznie w\u0119\u017cykiem.",
+        "flavor": "Druidzi K\u0142\u00f3w pisz\u0105 wy\u0142\u0105cznie w\u0119\u017cykiem.",
         "health": 4,
         "id": "GVG_080",
         "mechanics": [
@@ -537,7 +537,7 @@
         "type": "Minion"
     },
     {
-        "artist": "Jesper Esjing",
+        "artist": "Jesper Ejsing",
         "attack": 3,
         "collectible": true,
         "cost": 3,
@@ -591,7 +591,7 @@
         "type": "Minion"
     },
     {
-        "artist": "Jesper Esjing",
+        "artist": "Jesper Ejsing",
         "attack": 2,
         "collectible": true,
         "cost": 3,
@@ -758,7 +758,7 @@
         "type": "Enchantment"
     },
     {
-        "artist": "Jesper Esjing",
+        "artist": "Jesper Ejsing",
         "attack": 2,
         "collectible": true,
         "cost": 4,
@@ -890,7 +890,7 @@
         "race": "Demon",
         "rarity": "Common",
         "set": "Goblins vs Gnomes",
-        "text": "Otrzymuje +2/+2 za ka\u017cdym razem,  gdy tw\u00f3j bohater otrzymuje obra\u017cenia w twojej turze.",
+        "text": "Otrzymuje +2/+2 za ka\u017cdym razem, gdy tw\u00f3j bohater otrzymuje obra\u017cenia w twojej turze.",
         "type": "Minion"
     },
     {
@@ -1368,13 +1368,6 @@
         "type": "Weapon"
     },
     {
-        "id": "GVG_022a",
-        "name": "Olejek ose\u0142kowy",
-        "set": "Goblins vs Gnomes",
-        "text": "+3 do ataku.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Den",
         "collectible": true,
         "cost": 4,
@@ -1398,10 +1391,10 @@
         "type": "Enchantment"
     },
     {
-        "id": "PART_001e",
-        "name": "Opancerzenie",
+        "id": "GVG_022a",
+        "name": "Olejek ose\u0142kowy",
         "set": "Goblins vs Gnomes",
-        "text": "+1 do zdrowia.",
+        "text": "+3 do ataku.",
         "type": "Enchantment"
     },
     {
@@ -1476,6 +1469,16 @@
         "type": "Minion"
     },
     {
+        "id": "GVG_057a",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Piecz\u0119\u0107 \u015awiat\u0142o\u015bci",
+        "set": "Goblins vs Gnomes",
+        "text": "+2 do ataku w tej turze.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Jason Chan",
         "collectible": true,
         "cost": 2,
@@ -1490,16 +1493,6 @@
         "set": "Goblins vs Gnomes",
         "text": "Przywr\u00f3\u0107 #4 pkt. zdrowia twojemu bohaterowi i zyskaj +2 do ataku w tej turze.",
         "type": "Spell"
-    },
-    {
-        "id": "GVG_057a",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Piecz\u0119\u0107 \u015awiat\u0142o\u015bci",
-        "set": "Goblins vs Gnomes",
-        "text": "+2 do ataku w tej turze.",
-        "type": "Enchantment"
     },
     {
         "artist": "Aleksi Briclot",
@@ -1526,7 +1519,7 @@
         "name": "Podkr\u0119cenie",
         "playerClass": "Mage",
         "set": "Goblins vs Gnomes",
-        "text": "Obra\u017cenia zakl\u0119\u0107 +2.",
+        "text": "Obra\u017cenia zakl\u0119\u0107 +2",
         "type": "Enchantment"
     },
     {
@@ -1534,6 +1527,13 @@
         "name": "Pomsta",
         "set": "Goblins vs Gnomes",
         "text": "Zwi\u0119kszony atak",
+        "type": "Enchantment"
+    },
+    {
+        "id": "PART_001e",
+        "name": "Poszycie",
+        "set": "Goblins vs Gnomes",
+        "text": "+1 do zdrowia.",
         "type": "Enchantment"
     },
     {
@@ -2012,7 +2012,7 @@
         "type": "Spell"
     },
     {
-        "artist": "Danny Orizio",
+        "artist": "Dany Orizio",
         "attack": 2,
         "collectible": true,
         "cost": 3,

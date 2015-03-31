@@ -1,9 +1,11 @@
 [
     {
-        "id": "XXX_028",
+        "cost": 0,
+        "id": "XXX_030",
         "name": "",
         "rarity": "Common",
         "set": "Debug",
+        "text": "",
         "type": "Spell"
     },
     {
@@ -263,15 +265,10 @@
         "type": "Spell"
     },
     {
-        "cost": 0,
-        "id": "XXX_002",
-        "mechanics": [
-            "ImmuneToSpellpower"
-        ],
+        "id": "XXX_028",
         "name": "",
         "rarity": "Common",
         "set": "Debug",
-        "text": "",
         "type": "Spell"
     },
     {
@@ -284,7 +281,10 @@
     },
     {
         "cost": 0,
-        "id": "XXX_030",
+        "id": "XXX_002",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
         "name": "",
         "rarity": "Common",
         "set": "Debug",
@@ -464,6 +464,41 @@
     {
         "cost": 0,
         "id": "XXX_057",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_058",
+        "name": "",
+        "rarity": "Common",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "id": "XXX_058e",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Enchantment"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_059",
+        "name": "",
+        "set": "Debug",
+        "text": "",
+        "type": "Spell"
+    },
+    {
+        "cost": 0,
+        "id": "XXX_060",
+        "mechanics": [
+            "ImmuneToSpellpower"
+        ],
         "name": "",
         "set": "Debug",
         "text": "",

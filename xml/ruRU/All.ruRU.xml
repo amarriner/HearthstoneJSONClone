@@ -2413,6 +2413,26 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Внутренний огонь
+   </name>
+   <text>
+    Атака этого существа равна его здоровью.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS1_129e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -2451,46 +2471,6 @@
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Внутренний огонь
-   </name>
-   <text>
-    Атака этого существа равна его здоровью.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS1_129e
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Внутренняя ярость
-   </name>
-   <text>
-    +2 к атаке.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_607e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -2523,6 +2503,26 @@
    </type>
    <id>
     EX1_607
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Внутренняя ярость
+   </name>
+   <text>
+    +2 к атаке.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_607e
    </id>
    <playerclass>
     Warrior
@@ -2589,17 +2589,14 @@
    <name>
     Вожак стаи
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    Ваши существа получают +1/+1.
+    +1/+1.
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_160b
+    EX1_160be
    </id>
    <playerclass>
     Druid
@@ -2612,14 +2609,17 @@
    <name>
     Вожак стаи
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
-    +1/+1.
+    Ваши существа получают +1/+1.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_160be
+    EX1_160b
    </id>
    <playerclass>
     Druid
@@ -3662,29 +3662,6 @@
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Дальнее зрение
-   </name>
-   <artist>
-    Lars Grant-West
-   </artist>
-   <text>
-    Одна из ваших карт стоит на (3) маны меньше.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_053e
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -3717,6 +3694,29 @@
    </type>
    <id>
     CS2_053
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Дальнее зрение
+   </name>
+   <artist>
+    Lars Grant-West
+   </artist>
+   <text>
+    Одна из ваших карт стоит на (3) маны меньше.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_053e
    </id>
    <playerclass>
     Shaman
@@ -3853,6 +3853,35 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Демонический огонь
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Этот демон получил +2/+2.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_596e
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -3885,35 +3914,6 @@
    </type>
    <id>
     EX1_596
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Демонический огонь
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Этот демон получил +2/+2.
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_596e
    </id>
    <playerclass>
     Warlock
@@ -4156,6 +4156,40 @@
   <item>
    <mechanics>
     <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Древень
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_573t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
      Charge
     </item>
    </mechanics>
@@ -4188,40 +4222,6 @@
    </type>
    <id>
     EX1_tk9
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Taunt
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Древень
-   </name>
-   <text>
-    &lt;b&gt;Провокация&lt;/b&gt;
-   </text>
-   <attack>
-    2
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    2
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_573t
    </id>
    <playerclass>
     Druid
@@ -4327,7 +4327,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;Боевой клич:&lt;/b&gt; находящиеся по обе стороны существа получают способность &lt;b&gt;«Урон от заклинаний +1»&lt;/b&gt;.
+    &lt;b&gt;Боевой клич:&lt;/b&gt; находящиеся по обе стороны существа получают &lt;b&gt;урон от заклинаний +1&lt;/b&gt;.
    </text>
    <artist>
     Howard Lyon
@@ -4523,6 +4523,46 @@
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Друид когтя
+   </name>
+   <text>
+    &lt;b&gt;Рывок&lt;/b&gt;
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_165t1
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -4561,46 +4601,6 @@
    </type>
    <id>
     EX1_165
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Charge
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Друид когтя
-   </name>
-   <text>
-    &lt;b&gt;Рывок&lt;/b&gt;
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <attack>
-    4
-   </attack>
-   <cost>
-    5
-   </cost>
-   <health>
-    4
-   </health>
-   <race>
-    Beast
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_165t1
    </id>
    <playerclass>
     Druid
@@ -4685,26 +4685,6 @@
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Дух предков
-   </name>
-   <text>
-    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; после смерти это существо вернется на поле боя.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_038e
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -4743,6 +4723,46 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Дух предков
+   </name>
+   <text>
+    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; после смерти это существо вернется на поле боя.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_038e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Душа леса
+   </name>
+   <text>
+    Предсмертный хрип: призывает на поле боя древня 2/2.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -4775,26 +4795,6 @@
    </type>
    <id>
     EX1_158
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Душа леса
-   </name>
-   <text>
-    Предсмертный хрип: призывает на поле боя древня 2/2.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -5315,6 +5315,43 @@
    </id>
   </item>
   <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Classic
+   </set>
+   <name>
+    Звездопад
+   </name>
+   <artist>
+    Richard Wright
+   </artist>
+   <text>
+    &lt;b&gt;Выберите эффект:&lt;/b&gt; наносит существу $5 ед. урона; или $2 ед. урона всем существам противника.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <flavor>
+    «Если вы встретили друида и заметили падающую звезду, не загадывайте желание... Бегите!»
+
+Андрей М. «Wishmaster»
+   </flavor>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <set>
     Classic
    </set>
@@ -5355,40 +5392,28 @@
    </playerclass>
   </item>
   <item>
-   <collectible>
-    True
-   </collectible>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
    <set>
     Classic
    </set>
    <name>
-    Звездопад
+    Звериный гнев
    </name>
-   <artist>
-    Richard Wright
-   </artist>
    <text>
-    &lt;b&gt;Выберите эффект:&lt;/b&gt; наносит существу $5 ед. урона; или $2 ед. урона всем существам противника.
+    +2 к атаке и &lt;b&gt;неуязвимость&lt;/b&gt; до конца хода.
    </text>
-   <rarity>
-    Rare
-   </rarity>
-   <cost>
-    5
-   </cost>
-   <flavor>
-    «Если вы встретили друида и заметили падающую звезду, не загадывайте желание... Бегите!»
-
-Андрей М. «Wishmaster»
-   </flavor>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    NEW1_007
+    EX1_549o
    </id>
    <playerclass>
-    Druid
+    Hunter
    </playerclass>
   </item>
   <item>
@@ -5424,31 +5449,6 @@
    </type>
    <id>
     EX1_549
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Звериный гнев
-   </name>
-   <text>
-    +2 к атаке и &lt;b&gt;неуязвимость&lt;/b&gt; до конца хода.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_549o
    </id>
    <playerclass>
     Hunter
@@ -5731,53 +5731,13 @@
     Neutral
    </faction>
    <text>
-    +4 к атаке.
+    +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_155a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Знак природы
-   </name>
-   <text>
-    +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155be
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Знак природы
-   </name>
-   <text>
-    Это существо получило +4 к атаке.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155ae
+    EX1_155b
    </id>
    <playerclass>
     Druid
@@ -5828,17 +5788,57 @@
    <name>
     Знак природы
    </name>
+   <text>
+    +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155be
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Знак природы
+   </name>
    <faction>
     Neutral
    </faction>
    <text>
-    +4 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
+    +4 к атаке.
    </text>
    <type>
     Spell
    </type>
    <id>
-    EX1_155b
+    EX1_155a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Знак природы
+   </name>
+   <text>
+    Это существо получило +4 к атаке.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155ae
    </id>
    <playerclass>
     Druid
@@ -5898,7 +5898,7 @@
     Neutral
    </faction>
    <text>
-    В конце вашего хода вы берете карту Сна.
+    В конце вашего хода вы кладете в руку карту Сна.
    </text>
    <artist>
     Gabor Szikszai
@@ -7197,31 +7197,6 @@
   <item>
    <mechanics>
     <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Ледяная глыба
-   </name>
-   <text>
-    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt; до конца хода.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_295o
-   </id>
-   <playerclass>
-    Mage
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
      Secret
     </item>
    </mechanics>
@@ -7257,6 +7232,31 @@
    </type>
    <id>
     EX1_295
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Ледяная глыба
+   </name>
+   <text>
+    Ваш герой &lt;b&gt;неуязвим&lt;/b&gt; до конца хода.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_295o
    </id>
    <playerclass>
     Mage
@@ -7496,6 +7496,41 @@
    </id>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Лорд Джараксус
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    15
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Hero
+   </type>
+   <id>
+    EX1_323h
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Battlecry
@@ -7542,41 +7577,6 @@
    </elite>
    <id>
     EX1_323
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Лорд Джараксус
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <rarity>
-    Legendary
-   </rarity>
-   <attack>
-    0
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    15
-   </health>
-   <race>
-    Demon
-   </race>
-   <type>
-    Hero
-   </type>
-   <id>
-    EX1_323h
    </id>
    <playerclass>
     Warlock
@@ -9920,23 +9920,6 @@
    </playerclass>
   </item>
   <item>
-   <text>
-    +1 к прочности.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    Отточенный до блеска
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -10059,6 +10042,29 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Переполняющая мощь
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Это существо получило +4/+4, но в конце хода его ждет ужасная смерть.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_316e
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -10097,49 +10103,6 @@
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Переполняющая мощь
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Это существо получило +4/+4, но в конце хода его ждет ужасная смерть.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_316e
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Печать мудрости
-   </name>
-   <text>
-    Когда атакует, игрок, использовавший печать, берет карту.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_363e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -10169,6 +10132,26 @@
    </type>
    <id>
     EX1_363
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Печать мудрости
+   </name>
+   <text>
+    Когда атакует, игрок, использовавший печать, берет карту.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_363e
    </id>
    <playerclass>
     Paladin
@@ -11153,6 +11136,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Равенство
+   </name>
+   <text>
+    Здоровье стало равно 1.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_619e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -11185,26 +11188,6 @@
    </type>
    <id>
     EX1_619
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Равенство
-   </name>
-   <text>
-    Здоровье стало равно 1.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_619e
    </id>
    <playerclass>
     Paladin
@@ -12965,7 +12948,7 @@
     Classic
    </set>
    <name>
-    Темная власть
+    Темное безумие
    </name>
    <text>
     Это существо сменило владельца до конца хода.
@@ -13865,31 +13848,6 @@
    </id>
    <playerclass>
     Priest
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Устрашающий рев
-   </name>
-   <text>
-    Это существо получило -3 к атаке до конца хода.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
    </playerclass>
   </item>
   <item>
@@ -14966,7 +14924,8 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;Провокация&lt;/b&gt;. &lt;b&gt;Перегрузка:&lt;/b&gt; (3)
+    &lt;b&gt;Провокация&lt;/b&gt;.
+&lt;b&gt;Перегрузка:&lt;/b&gt; (3)
    </text>
    <artist>
     Dan Scott
@@ -17962,7 +17921,7 @@
     FP1_008
    </id>
    <flavor>
-    Что общего у чудесных дракончиков и призрачных рыцарей? Они оба любят покушать!
+    Что общего у чудесных дракончиков и призрачных рыцарей? И те, и другие любят покушать!
    </flavor>
    <howtoget>
     Награда за победу над Готиком Жнецом в Военном квартале.
@@ -18489,7 +18448,7 @@
     FP1_014
    </id>
    <flavor>
-    Сталагг сам придумал себе художественный текст:  "Сталагг хороший!"
+    Сталагг сам придумал себе художественный текст:  «Сталагг хороший!»
    </flavor>
    <howtoget>
     Награда за победу над всеми боссами Квартала Мерзости.
@@ -20041,6 +20000,5664 @@
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Аберрация
+   </name>
+   <text>
+    &lt;b&gt;Рывок&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Магматрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Магматрона!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Магматрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Магматрона!
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Токситрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Токситрона!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Токситрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Токситрона!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Чаротрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Чаротрона!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Чаротрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Чаротрона!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Электрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Электрона!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация Электрона
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует Электрона!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует случайного Трона.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Активация!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+ Активирует случайного Трона.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Пассивная сила героя&lt;/b&gt;
+Каждый раз, когда на поле боя призывается существо, его атака и здоровье меняются местами.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    Алхимик
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Пассивная сила героя&lt;/b&gt;
+Меняет местами атаку и здоровье существ.
+Ваши существа получают +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    Алхимик
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    Атрамед
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    Атрамед
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    Барон Геддон
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    Барон Геддон
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Бес
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    Бритвосмерт Неукротимый
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    Бритвосмерт Неукротимый
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    В отрыв!
+   </name>
+   <text>
+    Призывает на поле боя 3 огнекамня. &lt;b&gt;Перегрузка:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    В отрыв!
+   </name>
+   <text>
+    Призывает на поле боя 3 огнекамня. &lt;b&gt;Перегрузка:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    Валестраз Порочный
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    Валестраз Порочный
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Взять их!
+   </name>
+   <text>
+    Призывает на поле боя четырех дворфов 1/1 со способностью &lt;b&gt;«Провокация»&lt;/b&gt;.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    Вождь Омокк
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    Вождь Омокк
+   </name>
+  </item>
+  <item>
+   <text>
+    Атака увеличена.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    Возгорание!
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Возмездие
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    Наносит $1 ед. урона всем существам. Если у вашего героя 12 или меньше ед. здоровья, вместо этого наносит $3 ед. урона.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    Это лучше, чем «Чародейский взрыв». Уж теперь воины перестанут жаловаться, что «Огненный шар» магов лучше, чем их «Смертельный удар».
+   </flavor>
+   <howtoget>
+    Награда за победу над Бритвосмертом в Логове Крыла Тьмы.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Бритвосмертом в Логове Крыла Тьмы.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Волновое дыхание
+   </name>
+   <text>
+    Наносит $3 ед. урона выбранному существу. Ваше оружие получает +3 к атаке.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <text>
+    +3 к атаке.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    Волновое дыхание
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Воскрешение
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    Призывает на поле боя ваше случайное существо, которое умерло в течение этого матча.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    Я зашел в подземелье и увидел мертвого искателя приключений. Перед самой смертью он успел нацарапать на стене что-то непонятное и зловещее: «рес плз».
+   </flavor>
+   <howtoget>
+    Награда за победу над императором Тауриссаном в Глубинах Черной горы.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после победы над императором Тауриссаном в Глубинах Черной горы.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Воспламенение маны
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Если у героя противника осталась неистраченная мана, наносит ему 10 ед. урона.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Воспламенение маны
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Если у героя противника осталась неистраченная мана, наносит ему 5 ед. урона.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Вулканический дракон
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    Стоит на (1) ману меньше за каждое существо, умершее на этом ходу.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    Вулканические драконы выдыхают не пламя, но потоки лавы. А из нее можно делать забавные безделушки, и ребята из лагеря Братства Тория на этом зарабатывают.
+   </flavor>
+   <howtoget>
+    Награда за победу над защитной системой «Омнитрон» в Тайной лаборатории.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над защитной системой «Омнитрон» в Тайной лаборатории.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Вулканический древень
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;Провокация.&lt;/b&gt;
+Стоит на (1) ману меньше за каждое существо, умершее на этом ходу.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    А я теряю корни-и-и-и!
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания друида в Черной горе.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания друида в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    Гарр
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    Гарр
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    Генерал Драккисат
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    Генерал Драккисат
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Гит
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Гит
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Главарь банды бесов
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    Призывает на поле боя беса 1/1 каждый раз, когда получает урон.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    Бесы из его банды любят пробираться к Башне Магов в Штормграде и покрывать ее стены надписями вроде «Рагнарос рулит».
+   </flavor>
+   <howtoget>
+    Награда за победу над Мажордомом Экзекутусом в Огненных Недрах.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Мажордомом Экзекутусом в Огненных Недрах.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Гнездовье
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Все оскверненные яйца получают +1 к здоровью, после чего призывает оскверненное яйцо.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Гнездовье
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Все оскверненные яйца получают +1 к здоровью, после чего призывает оскверненное яйцо.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Голодный дракон
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; призывает случайное существо за 1 ману на сторону вашего противника.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    Очень голодный и злой дракон – это НЕ весело.
+   </flavor>
+   <howtoget>
+    Награда за победу над Хромаггусом в Логове Крыла Тьмы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Хромаггусом в Логове Крыла Тьмы.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Горящий адреналин
+   </name>
+   <text>
+    Наносит $2 ед. урона герою противника.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Губитель Крыла Тьмы
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; наносит 3 ед. урона, если у вас в руке есть дракон.
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    Он получил свое прозвище, когда принес в логово Крыла Тьмы комиксы и записи рок-концертов.
+   </flavor>
+   <howtoget>
+    Награда за победу над Малориаком в Тайной лаборатории.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Малориаком в Тайной лаборатории.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дворф-вышибала
+   </name>
+   <text>
+    Всегда выигрывает в потасовке.
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Демонический гнев
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    Наносит $2 ед. урона всем существам, не являющимся демонами.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    Большую часть времени демоны притворяются довольно милыми существами, но они не могут сдержать злорадство, когда кто-то разыгрывает эту карту.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания чернокнижника в Черной горе.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания чернокнижника в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дикая магия
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Кладет в руку случайное классовое заклинание противника.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дикая магия
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Кладет в руку случайное классовое заклинание противника.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Драконид-сокрушитель
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; получает +3/+3, если у героя вашего противника осталось 15 или меньше ед. здоровья.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    Дракониды, будучи гуманоидами, сочетают в себе самые худшие черты драконов. Такими они были созданы. Но вот зачем?
+   </flavor>
+   <howtoget>
+    Награда за победу над Атрамедом в Тайной лаборатории.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Атрамедом в Тайной лаборатории.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Драконор
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Драконор
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Драконор-чародей
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    Получает +1/+1, когда вы выбираете это существо целью заклинания.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    Драконоры-чародеи такие: «Мы волшебники». А все остальные такие: «Ой неееет».
+   </flavor>
+   <howtoget>
+    Награда за победу над Нефарианом в Тайной лаборатории.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Нефарианом в Тайной лаборатории.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дракончик
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дракончик
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дракончик
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Друид пламени
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Друид пламени
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;Выберите эффект:&lt;/b&gt; превращается в существо 5/2 или в существо 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    Рагнарос легко привлек на свою сторону тех из друидов, кто слишком долго сражался на ледяных просторах Нордскола. Чашка горячего какао порой творит чудеса.
+   </flavor>
+   <howtoget>
+    Награда за победу над Гарром в Огненных Недрах.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Гарром в Огненных Недрах.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Друид пламени
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Душа красных драконов
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Каждый игрок берет 2 карты.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Душа красных драконов
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Получает кристалл маны. Каждый игрок берет 3 карты.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Дыхание дракона
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    Наносит $4 ед. урона. Это заклинание стоит на (1) ману меньше за каждое существо, умершее на этом ходу.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    А вы знали, что драконы могут выдыхать не только огонь, но и сахарную вату? Правда, их довольно сложно на это уговорить.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания мага в Черной горе.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания мага в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Живая бомба
+   </name>
+   <text>
+    Выберите существо противника. Если оно останется на поле боя в начале вашего следующего хода, живая бомба нанесет $10 ед. урона всем персонажам противника.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    Наносит всем вашим персонажам 5 ед. урона в начале хода Геддона.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    Живая бомба
+   </name>
+  </item>
+  <item>
+   <text>
+    Наносит всем вашим персонажам 10 ед. урона в начале хода Геддона.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    Живая бомба
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Живая бомба
+   </name>
+   <text>
+    Выберите существо противника. Если оно останется на поле боя в начале вашего следующего хода, живая бомба нанесет $5 ед. урона всем персонажам противника.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Живая лава
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+  <item>
+   <text>
+    +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    Зелье силы
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Зритель Черного Железа
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Зубы дракона
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    Каждый раз, когда ваш противник разыгрывает карту, это оружие получает +1 к атаке.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    Император Тауриссан
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Император Тауриссан
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    В конце вашего хода уменьшает стоимость карт в вашей руке на (1) ману.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    Вторым поступком, о котором он жалеет, был призыв Повелителя Огня, поработившего в итоге его народ.
+   </flavor>
+   <howtoget>
+    Награда за победу над всеми боссами Глубин Черной горы.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Можно создать после убийства всех боссов в Глубинах Черной горы.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    Император Тауриссан
+   </name>
+  </item>
+  <item>
+   <text>
+    Здоровье увеличено.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    Инкубация
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Истинная форма
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Ну что ж, поиграем!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Истинная форма
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Ну что ж, поиграем!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Истинный вождь
+   </name>
+   <text>
+    Уничтожает выбранное легендарное существо.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Коготь Ониксии
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Когти Бритвосмерта
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    Получает +1 к атаке каждый раз, когда умирает оскверненное яйцо.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    Корен Худовар
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    Корен Худовар
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Костяное создание
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Костяное создание
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Костяные прислужники
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает два костяных создания 2/1.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Костяные прислужники
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает два костяных создания 4/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <text>
+    +1/+1.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    Кровь дракона
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Кружащийся пепел
+   </name>
+   <text>
+    &lt;b&gt;Неистовство ветра&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    КРУШИ-И-ИТЬ!!
+   </name>
+   <text>
+    Наносит $5 ед. урона случайному персонажу противника. Вы получаете +5 к броне.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Крыло Тьмы
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя драконора 3/1. Изменяет силу героя.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Крыло Тьмы
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя драконора 5/4. Изменяет силу героя.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Куча мала!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Кладет на поле боя по одному существу из каждой колоды.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Куча мала!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Кладет на поле боя два существа из своей колоды и одно существо из колоды противника.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    ЛАВА!
+   </name>
+   <text>
+    Наносит $2 ед. урона всем существам.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Лавовый шок
+   </name>
+   <text>
+    Карты, которые вы разыграете на этом ходу, не вызывают &lt;b&gt;Перегрузку&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Лавовый шок
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    Наносит $2 ед. урона.
+Все ваши кристаллы маны освобождаются от эффекта &lt;b&gt;Перегрузки&lt;/b&gt;.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    Шокирующие новости от оргриммарских ученых! Оказывается, лава обжигает!
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания шамана в Черной горе.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания шамана в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    Лорд Виктор Нефарий
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    Лорд Виктор Нефарий
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия бронзовых драконов
+   </name>
+   <text>
+    Существа Хромаггуса стоят на (1) ману меньше, пока у вас в руке находится эта карта.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия бронзовых драконов
+   </name>
+   <text>
+    Существа Хромаггуса стоят на (3) маны меньше, пока у вас в руке находится эта карта.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия драконов
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+В конце вашего хода противник кладет в руку карту «Магия драконов».
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия драконов
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+В конце вашего хода противник получает в руку карту «Магия драконов»
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия зеленых драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, вы восстанавливаете 6 ед. здоровья герою противника в начале вашего хода.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия зеленых драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, вы восстанавливаете 2 ед. здоровья герою противника в начале вашего хода.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия красных драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, ваш герой получает 1 ед. урона в начале вашего хода.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия красных драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, ваш герой получает 3 ед. урона в начале вашего хода.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия синих драконов
+   </name>
+   <text>
+    Заклинания Хромаггуса стоят на (1) ману меньше, пока у вас в руке находится эта карта.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия синих драконов
+   </name>
+   <text>
+    Заклинания Хромаггуса стоят на (3) маны меньше, пока у вас в руке находится эта карта.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия черных драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, Хромаггус получает в руку копию каждой карты, которую берет из колоды.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магия черных драконов
+   </name>
+   <text>
+    Пока у вас в руке находится эта карта, Хромаггус получает в руку копию каждой карты, которую берет из колоды.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магмарь
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магматрон
+   </name>
+   <text>
+    Каждый раз, когда игрок разыгрывает карту, Магматрон наносит ему 2 ед. урона.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Магматрон
+   </name>
+   <text>
+    Каждый раз, когда игрок разыгрывает карту, Магматрон наносит ему 2 ед. урона.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мажордом
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя поджигателя-послушника 1/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мажордом
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя поджигателя-послушника 3/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мажордом Экзекутус
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; заменяет вашего героя Рагнаросом.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    Думаешь, Экзекутус превратил тебя в Рагнароса? На самом деле, Рагнарос жил в твоей душе все это время.
+   </flavor>
+   <howtoget>
+    Награда за победу над всеми боссами Огненных Недр.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Можно создать после убийства всех боссов в Огненных Недрах.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    Мажордом Экзекутус
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    Мажордом Экзекутус
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    Малориак
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    Малориак
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Метатель топоров
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    Наносит герою противника 2 ед. урона каждый раз, когда это существо получает урон.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    Он фанат своего дела. Начинал с метания прутиков, но стремится в будущем научиться метать тауренов.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания воина в Черной горе.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания воина в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Стоит на (1) ману меньше.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    Милость императора
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Могучий яростень
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мойра Бронзобород
+   </name>
+   <text>
+    Тауриссан не может использовать свою силу героя.
+Не может атаковать существ без способности &lt;b&gt;«Провокация»&lt;/b&gt;.
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мойра Бронзобород
+   </name>
+   <text>
+    Тауриссан не может использовать свою силу героя.
+Не может атаковать существ без способности &lt;b&gt;«Провокация»&lt;/b&gt;.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мощь дракона
+   </name>
+   <text>
+    Стоит на (3) маны меньше до конца хода.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мощь Повелителя Огня
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Наносит 30 ед. урона.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мрачный завсегдатай
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    Призывает на поле боя свою копию каждый раз, когда получает несмертельный урон.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    Нравится получать по лицу? Добро пожаловать в таверну «Угрюмый обжора»!
+   </flavor>
+   <howtoget>
+    Награда за победу в «Угрюмом обжоре» в Глубинах Черной горы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы в «Угрюмом обжоре» в Глубинах Черной горы.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Мутация
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Заставляет сбросить случайную карту.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Насмехающаяся толпа
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя зрителя 1/1 со способностью &lt;b&gt;Провокация&lt;/b&gt;.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Насмехающаяся толпа
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя зрителя 1/1 со способностью &lt;b&gt;Провокация&lt;/b&gt;.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    Нефариан
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    Нефариан
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    Нефариан
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    Нефариан
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Нефариан
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; вы кладете в руку два случайных заклинания &lt;i&gt;(класса вашего противника)&lt;/i&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    Его называют «Крыло Тьмы» потому что он – темный дракон... и у него есть крылья.
+   </flavor>
+   <howtoget>
+    Награда за победу над всеми боссами Черной Горы!
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Можно создать после убийства всех боссов в Тайной лаборатории.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    Нефариан
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Обжора
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Облик огненной кошки
+   </name>
+   <text>
+    Превратить в существо 5/2.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Облик огнеястреба
+   </name>
+   <text>
+    Превратить в существо 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Огнекамень
+   </name>
+   <text>
+    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; наносит 3 ед. урона герою противника за каждый огнекамень, умерший на этом ходу.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Огнекамень
+   </name>
+   <text>
+    &lt;b&gt;Предсмертный хрип:&lt;/b&gt; наносит 1 ед. урона герою противника за каждый огнекамень, умерший на этом ходу.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Огнестраж-разрушитель
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; получает +1-4 к атаке. &lt;b&gt;Перегрузка:&lt;/b&gt; (1)
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    Многие огненные элементали претендовали на должность разрушителя. Но собеседование у Рагнароса успешно прошли единицы.
+   </flavor>
+   <howtoget>
+    Награда за победу над лордом Виктором Нефарием в Логове Крыла Тьмы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над лордом Виктором Нефарием в Логове Крыла Тьмы.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    +3/+3.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    Огромные когти
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    Ониксия
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    Ониксия
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Орк Старой Орды
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Орк Старой Орды
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Освобождение аберраций!
+   </name>
+   <text>
+    Призывает на поле боя 3 аберрации.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Оскверненное яйцо
+   </name>
+   <text>
+    Когда это существо имеет 5 или больше ед. здоровья, оно вылупляется.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Оскверненное яйцо
+   </name>
+   <text>
+    Когда это существо имеет 4 или больше ед. здоровья, оно вылупляется.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Открыть ворота
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя трех дракончиков 1/1. Изменяет силу героя.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Открыть ворота
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя трех дракончиков 2/2. Изменяет силу героя.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Перезарядка
+   </name>
+   <text>
+    Восполняет все пустые кристаллы маны.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Пламенное сердце
+   </name>
+   <text>
+    Вы берете 2 карты и получаете +4 к броне.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Пламя Нефариана
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Нефариан обрушивает с небес огненный ливень!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Пламя Нефариана
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Нефариан обрушивает с небес огненный ливень!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Повеление Драккисата
+   </name>
+   <text>
+    Уничтожает выбранное существо. Вы получаете +10 к броне.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Поджигатель
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    После розыгрыша карты заклинания наносит 2 ед. урона, случайно распределяемого между всеми персонажами противника.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    Нет, поджигатели и Возжигатель – не родственники. Они даже не похожи!
+   </flavor>
+   <howtoget>
+    Награда за победу над Валестразом в Логове Крыла Тьмы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Валестразом в Логове Крыла Тьмы.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Поджигатель-послушник
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Поджигатель-послушник
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Пассивная сила героя&lt;/b&gt;
+Все карты стоят (1) ману. У вас есть (2) кристалла маны, у вашего противника – (1).
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    Пристальный взгляд
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Пассивная сила героя&lt;/b&gt;
+Все карты стоят (1) ману. У всех игроков может быть не больше (1) кристалла маны.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    Пристальный взгляд
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Пульсация магмы
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Наносит 1 ед. урона всем существам.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    Рагнарос
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    Рагнарос
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    Рагнарос
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    Рагнарос
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Раскатистый гонг
+   </name>
+   <text>
+    Уничтожает оружие противника.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Растапливание
+   </name>
+   <text>
+    Атака стала равна 0 до конца хода.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    Ренд Чернорук
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    Ренд Чернорук
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ренд Чернорук
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; уничтожает &lt;b&gt;легендарное&lt;/b&gt; существо, если у вас в руке есть дракон.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    Ренд считает себя истинным вождем Орды и постоянно редактирует страничку «Википедии» «Вождь Орды», вставляя туда свой портрет. Модераторы не пропускают.
+   </flavor>
+   <howtoget>
+    Награда за победу над всеми боссами Пика Черной горы.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Можно создать после убийства всех боссов в Пике Черной горы.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Свобода!
+   </name>
+   <text>
+    Следующий дракон, которого вы разыграете, стоит на (2) маны меньше.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Священное бдение
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    Вы берете 2 карты. Это заклинание стоит на (1) ману меньше за каждое существо, умершее на этом ходу.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    Каждый год герои собираются у подножия Черной горы, чтобы почтить память тех, кто под контролем разума спрыгнул в лаву.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания паладина в Черной горе.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания паладина в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Характеристики увеличены.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    Сила дракона
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    Система «Омнитрон»
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    Система «Омнитрон»
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Скорострельность
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    Наносит $3 ед. урона.
+Если у вас в руке нет карт, вы берете карту.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    Хан стрелял первым.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания охотника в Черной горе.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания охотника в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Атака увеличена.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    Слепая ярость
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Спешиться
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает Гита. Изменяет силу героя.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Спешиться
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает Гита. Изменяет силу героя.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Старая Орда
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя двух орков 2/2 со способностью &lt;b&gt;Провокация&lt;/b&gt;. Изменяет силу героя.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Старая Орда
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Призывает на поле боя двух орков 1/1 со способностью &lt;b&gt;Провокация&lt;/b&gt;. Изменяет силу героя.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    Судья Мрачнокамень
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    Судья Мрачнокамень
+   </name>
+  </item>
+  <item>
+   <text>
+    Здоровье увеличено.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    Сумеречная стойкость
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Сумеречный дракончик
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; получает +2 к здоровью, если у вас в руке есть дракон.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    Да, сумеречные дракончики по сути – магические вампиры. И нет, это не намек на какой-то популярный фильм или книгу.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания жреца в Черной горе.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания жреца в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Супруга дракона
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; следующий дракон, которого вы разыграете, будет стоить на (2) маны меньше.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    Все хотят обнимашек. Даже огромные, чешуйчатые и смертоносные драконы.
+   </flavor>
+   <howtoget>
+    Награда за победу над генералом Драккисатом в Пике Черной горы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над генералом Драккисатом в Пике Черной горы.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Сходка
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    Выберите существо. Вы замешиваете в колоду 3 его копии.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    Не показывайся в Луноречье в одиночку. Запинают толпой.
+   </flavor>
+   <howtoget>
+    Награда за победу на Арене Черного Железа в Глубинах Черной горы.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Можно создать после победы на Арене Черного Железа в Глубинах Черной горы.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Сын пламени
+   </name>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; наносит 6 ед. урона.
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Техник Крыла Тьмы
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; получает +1/+1, если у вас в руке есть дракон.
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    К кому ты идешь, когда надо «прокачать» логово Крыла Тьмы? То-то же.
+   </flavor>
+   <howtoget>
+    Награда за победу над Бароном Геддоном в Огненных Недрах.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Бароном Геддоном в Огненных Недрах.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Тихоступ Черного Железа
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; наносит 2 ед. урона всем существам противника с полным здоровьем.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    Он любит подкрадываться. Везде и всегда. На его счету уже несколько десятков инфарктов.
+   </flavor>
+   <howtoget>
+    Награда за прохождение испытания разбойника в Черной горе.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после завершения испытания разбойника в Черной горе.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Токситрон
+   </name>
+   <text>
+    В начале вашего хода наносит 1 ед. урона всем прочим существам.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Токситрон
+   </name>
+   <text>
+    В начале вашего хода наносит 1 ед. урона всем прочим существам.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Удар хвостом
+   </name>
+   <text>
+    Наносит $4 ед. урона.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    УМРИ, НАСЕКОМОЕ!
+   </name>
+   <text>
+    Наносит $8 ед. урона случайному персонажу противника.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    УМРИ, НАСЕКОМОЕ!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Наносит 8 ед. урона случайному персонажу противника.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    УМРИТЕ, НАСЕКОМЫЕ!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Наносит 8 ед. урона случайному персонажу противника. ДВАЖДЫ.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хромаггус
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    Каждый раз, когда вы берете карту, вы кладете к себе в руку ее копию.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    Левая голова постоянно спорит с правой о том, кого бы съесть на ужин. Договориться не получается никогда, и в итоге они питаются одной китайской лапшой.
+   </flavor>
+   <howtoget>
+    Награда за победу над всеми боссами Логова Крыла Тьмы.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Можно создать после убийства всех боссов в Логове Крыла Тьмы.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    Хромаггус
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    Хромаггус
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хроматическая мутация
+   </name>
+   <text>
+    Превращает выбранное существо в хроматического драконора 2/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хроматический дракон
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хроматический дракон
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    Хроматический драконор
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хроматический драконор
+   </name>
+   <text>
+    Каждый раз, когда ваш противник разыгрывает карту заклинания, это существо получает +2/+2.
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Хроматический прототип
+   </name>
+   <text>
+    &lt;b&gt;Провокация&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Чаротрон
+   </name>
+   <text>
+    Оба игрока получают &lt;b&gt;урон от заклинаний +2&lt;/b&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Черный дракончик
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Электрон
+   </name>
+   <text>
+    Все заклинания стоят на (3) маны меньше.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Электрон
+   </name>
+   <text>
+    Все заклинания стоят на (3) маны меньше.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Эхолокация
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Снаряжает оружием, которое становится сильнее всякий раз, когда противник разыгрывает карту.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Эхолокация
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Снаряжает оружием, которое становится сильнее всякий раз, когда противник разыгрывает карту.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Я КРУШИТЬ!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Уничтожает случайное существо противника.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Я КРУШИТЬ!
+   </name>
+   <text>
+    &lt;b&gt;Сила героя&lt;/b&gt;
+Уничтожает случайное существо противника с неполным здоровьем.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+  <item>
+   <text>
+    Атака увеличена.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    Я тебя слышу...
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Яйцо дракона
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    Призывает на поле боя дракончика 2/1 каждый раз, когда это существо получает урон.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    Это как снаряд для твоего дракономета.
+   </flavor>
+   <howtoget>
+    Награда за победу над Рендом Черноруком в Пике Черной горы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над Рендом Черноруком в Пике Черной горы.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Яростень Недр
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;Боевой клич:&lt;/b&gt; получает +3/+3, если у вас в руке больше нет карт.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    Не каждый охотник отважится забраться в наполненную лавой нору и попытаться уговорить живущего в ней монстра стать его милым домашним любимцем.
+   </flavor>
+   <howtoget>
+    Награда за победу над вождем Омокком в Пике Черной Горы.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Можно создать после победы над вождем Омокком в Пике Черной Горы.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <collectible>
@@ -25913,7 +31530,7 @@
     Присутствие хозяина
    </name>
    <text>
-    +2 к здоровью и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
+    +2/+2 и способность &lt;b&gt;«Провокация»&lt;/b&gt;.
    </text>
    <type>
     Enchantment
@@ -28276,17 +33893,22 @@
    <set>
     Debug
    </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
    <type>
     Spell
    </type>
    <id>
-    XXX_028
+    XXX_030
    </id>
-   <name>
-   </name>
-   <rarity>
-    Common
-   </rarity>
   </item>
   <item>
    <mechanics>
@@ -28877,6 +34499,40 @@
    </name>
   </item>
   <item>
+   <set>
+    Debug
+   </set>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_028
+   </id>
+   <name>
+   </name>
+   <rarity>
+    Common
+   </rarity>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_029
+   </id>
+  </item>
+  <item>
    <mechanics>
     <item>
      ImmuneToSpellpower
@@ -28900,45 +34556,6 @@
    </type>
    <id>
     XXX_002
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_029
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_030
    </id>
   </item>
   <item>
@@ -29350,6 +34967,83 @@
    </type>
    <id>
     XXX_057
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
    </id>
   </item>
   <item>
@@ -30988,7 +36682,7 @@
     Гном-экспериментатор
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Боевой клич:&lt;/b&gt; вы берете карту. Если это карта существа, оно превращается в курицу.
@@ -31077,7 +36771,7 @@
     Гоблин-сапер
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     Получает +4 к атаке, если у противника в руке 6 или больше карт.
@@ -31475,7 +37169,7 @@
     Древний исцелятор
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Боевой клич:&lt;/b&gt; восстанавливает 8 ед. здоровья вашему герою.
@@ -31987,7 +37681,7 @@
     Chris Seaman
    </artist>
    <text>
-    Когда вы кладете эту карту в руку, она взрывается. Вы получаете 10 ед. урона и берете карту.
+    Когда вы вытаскиваете эту карту из своей колоды, она взрывается. Вы получаете 10 ед. урона и берете карту.
    </text>
    <cost>
     0
@@ -32154,7 +37848,7 @@
     &lt;b&gt;Боевой клич:&lt;/b&gt; ваше случайное существо получает способности &lt;b&gt;«Божественный щит»&lt;/b&gt; и &lt;b&gt;«Провокация»&lt;/b&gt;.
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic
@@ -32192,7 +37886,7 @@
     Alex Horley Orlandelli
    </artist>
    <text>
-    Выбранное существо получает +2/+4 и способность &lt;b&gt;«Урон от заклинаний +1»&lt;/b&gt;.
+    Выбранное существо получает +2/+4 и &lt;b&gt;урон от заклинаний +1&lt;/b&gt;.
    </text>
    <rarity>
     Common
@@ -32215,7 +37909,7 @@
   </item>
   <item>
    <text>
-    +2/+4 и способность &lt;b&gt;«Урон от заклинаний +1»&lt;/b&gt;.
+    +2/+4 и &lt;b&gt;урон от заклинаний +1&lt;/b&gt;.
    </text>
    <set>
     Goblins vs Gnomes
@@ -33013,7 +38707,7 @@
     Mech
    </race>
    <flavor>
-    Эта киска терпеть не может "Вискас". Да и мед, в общем, тоже.
+    Эта киска терпеть не может «Вискас». Да и мед, в общем, тоже.
    </flavor>
    <type>
     Minion
@@ -34275,7 +39969,7 @@
     6
    </cost>
    <flavor>
-    Друиды очень внимательно относятся к экологии. Они всегда выбрасывают пластик в одну корзину, а существ противника - в другую.
+    Друиды очень внимательно относятся к экологии. Они всегда выбрасывают пластик в одну корзину, а существ противника – в другую.
    </flavor>
    <type>
     Spell
@@ -34433,7 +40127,7 @@
     Mech
    </race>
    <flavor>
-    Крошшер - это не роскошь, а средство передвижения!
+    Крошшер – это не роскошь, а средство передвижения!
    </flavor>
    <type>
     Minion
@@ -34499,7 +40193,7 @@
     3
    </cost>
    <flavor>
-    "Я принес печеньки!" — лучший способ объявить общий сбор войск.
+    «Я принес печеньки!» — лучший способ объявить общий сбор войск.
    </flavor>
    <type>
     Spell
@@ -35078,7 +40772,7 @@
     Ржавый голем
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Боевой клич&lt;/b&gt;: ваш выбранный механизм получает +2/+2.
@@ -36535,7 +42229,7 @@
     3
    </health>
    <flavor>
-    Экзорцисты открыли телефон доверия для чернокнижников - ведь всегда есть шанс вызвать не того демона.
+    Экзорцисты открыли телефон доверия для чернокнижников –ведь всегда есть шанс вызвать не того демона.
    </flavor>
    <type>
     Minion

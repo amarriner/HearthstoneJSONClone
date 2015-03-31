@@ -392,23 +392,6 @@
   </id>
  </item>
  <item>
-  <text>
-   Ma +1/+1.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_014te
-  </id>
-  <name>
-   Banany
-  </name>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -427,6 +410,23 @@
   <id>
    EX1_014t
   </id>
+ </item>
+ <item>
+  <text>
+   Ma +1/+1.
+  </text>
+  <set>
+   Classic
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_014te
+  </id>
+  <name>
+   Banany
+  </name>
  </item>
  <item>
   <set>
@@ -641,6 +641,31 @@
   </id>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Bestialski gniew
+  </name>
+  <text>
+   +2 do ataku oraz &lt;b&gt;Niewrażliwość&lt;/b&gt; w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_549o
+  </id>
+  <playerclass>
+   Hunter
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -673,31 +698,6 @@
   </type>
   <id>
    EX1_549
-  </id>
-  <playerclass>
-   Hunter
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Bestialski gniew
-  </name>
-  <text>
-   +2 do ataku oraz &lt;b&gt;Niewrażliwość&lt;/b&gt; w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_549o
   </id>
   <playerclass>
    Hunter
@@ -1621,6 +1621,29 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dalekowidzenie
+  </name>
+  <artist>
+   Lars Grant-West
+  </artist>
+  <text>
+   Jedna z twoich kart kosztuje (3) mniej.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_053e
+  </id>
+  <playerclass>
+   Shaman
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -1656,49 +1679,6 @@
   </id>
   <playerclass>
    Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dalekowidzenie
-  </name>
-  <artist>
-   Lars Grant-West
-  </artist>
-  <text>
-   Jedna z twoich kart kosztuje (3) mniej.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_053e
-  </id>
-  <playerclass>
-   Shaman
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dar mądrości
-  </name>
-  <text>
-   Gdy ten stronnik zaatakuje, gracz który go pobłogosławił dobiera kartę.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_363e
-  </id>
-  <playerclass>
-   Paladin
   </playerclass>
  </item>
  <item>
@@ -1751,6 +1731,26 @@
   </type>
   <id>
    EX1_363e2
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dar mądrości
+  </name>
+  <text>
+   Gdy ten stronnik zaatakuje, gracz który go pobłogosławił dobiera kartę.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_363e
   </id>
   <playerclass>
    Paladin
@@ -1821,31 +1821,6 @@
   </id>
   <playerclass>
    Warlock
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Demoralizujący ryk
-  </name>
-  <text>
-   Ten stronnik ma w tej turze -3 do ataku.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_161o
-  </id>
-  <playerclass>
-   Druid
   </playerclass>
  </item>
  <item>
@@ -2023,46 +1998,6 @@
   </id>
  </item>
  <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Druid Szponów
-  </name>
-  <text>
-   &lt;b&gt;Szarża&lt;/b&gt;
-  </text>
-  <rarity>
-   Common
-  </rarity>
-  <attack>
-   4
-  </attack>
-  <cost>
-   5
-  </cost>
-  <health>
-   4
-  </health>
-  <race>
-   Beast
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_165t1
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -2101,6 +2036,46 @@
   </type>
   <id>
    EX1_165
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Druid Szponów
+  </name>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;
+  </text>
+  <rarity>
+   Common
+  </rarity>
+  <attack>
+   4
+  </attack>
+  <cost>
+   5
+  </cost>
+  <health>
+   4
+  </health>
+  <race>
+   Beast
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_165t1
   </id>
   <playerclass>
    Druid
@@ -2178,6 +2153,11 @@
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    Charge
+   </item>
+  </mechanics>
   <set>
    Classic
   </set>
@@ -2187,6 +2167,12 @@
   <faction>
    Neutral
   </faction>
+  <text>
+   &lt;b&gt;Szarża&lt;/b&gt;. Na koniec tury zniszcz tego stronnika.
+  </text>
+  <rarity>
+   Common
+  </rarity>
   <attack>
    2
   </attack>
@@ -2200,7 +2186,7 @@
    Minion
   </type>
   <id>
-   EX1_158t
+   EX1_tk9
   </id>
   <playerclass>
    Druid
@@ -2241,11 +2227,6 @@
   </playerclass>
  </item>
  <item>
-  <mechanics>
-   <item>
-    Charge
-   </item>
-  </mechanics>
   <set>
    Classic
   </set>
@@ -2255,12 +2236,6 @@
   <faction>
    Neutral
   </faction>
-  <text>
-   &lt;b&gt;Szarża&lt;/b&gt;. Na początku następnej tury zniszcz tego stronnika.
-  </text>
-  <rarity>
-   Common
-  </rarity>
   <attack>
    2
   </attack>
@@ -2274,7 +2249,7 @@
    Minion
   </type>
   <id>
-   EX1_tk9
+   EX1_158t
   </id>
   <playerclass>
    Druid
@@ -2465,6 +2440,26 @@
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Dusza kniei
+  </name>
+  <text>
+   Agonia: Przyzwij Drzewca 2/2.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_158e
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -2497,26 +2492,6 @@
   </type>
   <id>
    EX1_158
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Dusza kniei
-  </name>
-  <text>
-   Agonia: Przyzwij Drzewca 2/2.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_158e
   </id>
   <playerclass>
    Druid
@@ -3135,7 +3110,7 @@ Magiczna siła, boję się...”
    Neutral
   </faction>
   <text>
-   Zadaj $8 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.
+   Zadaj $8 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.
   </text>
   <artist>
    Alex Garner
@@ -5176,6 +5151,31 @@ Przyzwij Infernala 6/6.
  <item>
   <mechanics>
    <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Lodowy blok
+  </name>
+  <text>
+   Twój bohater ma w tej turze &lt;b&gt;Niewrażliwość&lt;/b&gt;.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_295o
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
     Secret
    </item>
   </mechanics>
@@ -5211,31 +5211,6 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    EX1_295
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Lodowy blok
-  </name>
-  <text>
-   Twój bohater ma w tej turze &lt;b&gt;Niewrażliwość&lt;/b&gt;.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_295o
   </id>
   <playerclass>
    Mage
@@ -6119,26 +6094,6 @@ Przyzwij Infernala 6/6.
   </name>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Mroczny rozkaz
-  </name>
-  <text>
-   Kontrola nad tym stronnikiem została zamieniona w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_334e
-  </id>
-  <playerclass>
-   Priest
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Enrage
@@ -6297,6 +6252,35 @@ Przyzwij Infernala 6/6.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Naginaczka zaklęć
+  </name>
+  <rarity>
+   Epic
+  </rarity>
+  <attack>
+   1
+  </attack>
+  <cost>
+   0
+  </cost>
+  <health>
+   3
+  </health>
+  <type>
+   Minion
+  </type>
+  <id>
+   tt_010a
+  </id>
+  <playerclass>
+   Mage
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Secret
@@ -6334,35 +6318,6 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    tt_010
-  </id>
-  <playerclass>
-   Mage
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Naginaczka zaklęć
-  </name>
-  <rarity>
-   Epic
-  </rarity>
-  <attack>
-   1
-  </attack>
-  <cost>
-   0
-  </cost>
-  <health>
-   3
-  </health>
-  <type>
-   Minion
-  </type>
-  <id>
-   tt_010a
   </id>
   <playerclass>
    Mage
@@ -6427,44 +6382,6 @@ Przyzwij Infernala 6/6.
   </playerclass>
  </item>
  <item>
-  <collectible>
-   True
-  </collectible>
-  <set>
-   Classic
-  </set>
-  <name>
-   Nasycenie
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
-   &lt;b&gt;Wybierz jedno:&lt;/b&gt; Otrzymujesz 2 kryształy many; lub dobierz 3 karty.
-  </text>
-  <artist>
-   Terese Nielsen
-  </artist>
-  <rarity>
-   Rare
-  </rarity>
-  <cost>
-   5
-  </cost>
-  <flavor>
-   Druidów syci wiele rzeczy: potęga natury, śpiew ptaków, tort czekoladowy.
-  </flavor>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_164
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
   <set>
    Classic
   </set>
@@ -6505,6 +6422,44 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    EX1_164b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <collectible>
+   True
+  </collectible>
+  <set>
+   Classic
+  </set>
+  <name>
+   Nasycenie
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   &lt;b&gt;Wybierz jedno:&lt;/b&gt; Otrzymujesz 2 kryształy many; lub dobierz 3 karty.
+  </text>
+  <artist>
+   Terese Nielsen
+  </artist>
+  <rarity>
+   Rare
+  </rarity>
+  <cost>
+   5
+  </cost>
+  <flavor>
+   Druidów syci wiele rzeczy: potęga natury, śpiew ptaków, tort czekoladowy.
+  </flavor>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_164
   </id>
   <playerclass>
    Druid
@@ -7317,23 +7272,6 @@ Przyzwij Infernala 6/6.
   </name>
  </item>
  <item>
-  <text>
-   +1 do wytrzymałości.
-  </text>
-  <set>
-   Classic
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_146o
-  </id>
-  <name>
-   Ostrość
-  </name>
- </item>
- <item>
   <mechanics>
    <item>
     Battlecry
@@ -7628,6 +7566,32 @@ Przyzwij Infernala 6/6.
   <name>
    Pisklę
   </name>
+  <attack>
+   1
+  </attack>
+  <cost>
+   1
+  </cost>
+  <health>
+   1
+  </health>
+  <race>
+   Dragon
+  </race>
+  <type>
+   Minion
+  </type>
+  <id>
+   EX1_116t
+  </id>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Pisklę
+  </name>
   <faction>
    Neutral
   </faction>
@@ -7648,32 +7612,6 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    ds1_whelptoken
-  </id>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Pisklę
-  </name>
-  <attack>
-   1
-  </attack>
-  <cost>
-   1
-  </cost>
-  <health>
-   1
-  </health>
-  <race>
-   Dragon
-  </race>
-  <type>
-   Minion
-  </type>
-  <id>
-   EX1_116t
   </id>
  </item>
  <item>
@@ -9219,31 +9157,6 @@ Przyzwij Infernala 6/6.
   </name>
  </item>
  <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Rozkazujący okrzyk
-  </name>
-  <text>
-   W tej turze nie może zejść poniżej 1 pkt. zdrowia.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   NEW1_036e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -9273,6 +9186,31 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    NEW1_036
+  </id>
+  <playerclass>
+   Warrior
+  </playerclass>
+ </item>
+ <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Rozkazujący okrzyk
+  </name>
+  <text>
+   W tej turze nie może zejść poniżej 1 pkt. zdrowia.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   NEW1_036e
   </id>
   <playerclass>
    Warrior
@@ -9601,6 +9539,26 @@ Przyzwij Infernala 6/6.
   </name>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Skrucha
+  </name>
+  <text>
+   Zdrowie zmniejszone do 1.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_379e
+  </id>
+  <playerclass>
+   Paladin
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Secret
@@ -9638,26 +9596,6 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    EX1_379
-  </id>
-  <playerclass>
-   Paladin
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Skrucha
-  </name>
-  <text>
-   Zdrowie zmniejszone do 1.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_379e
   </id>
   <playerclass>
    Paladin
@@ -9979,6 +9917,26 @@ Przyzwij Infernala 6/6.
    Spadające gwiazdy
   </name>
   <text>
+   Zadaj $5 pkt. obrażeń stronnikowi.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   NEW1_007b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Spadające gwiazdy
+  </name>
+  <text>
    Zadaj $2 pkt. obrażeń wszystkim wrogim stronnikom.
   </text>
   <type>
@@ -10021,26 +9979,6 @@ Przyzwij Infernala 6/6.
   </type>
   <id>
    NEW1_007
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Spadające gwiazdy
-  </name>
-  <text>
-   Zadaj $5 pkt. obrażeń stronnikowi.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   NEW1_007b
   </id>
   <playerclass>
    Druid
@@ -10887,6 +10825,26 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Szaleństwo cieni
+  </name>
+  <text>
+   Kontrola nad tym stronnikiem została zamieniona w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_334e
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
   <mechanics>
    <item>
     Battlecry
@@ -11627,6 +11585,28 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
+  <mechanics>
+   <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Classic
+  </set>
+  <name>
+   Ugryzienie
+  </name>
+  <text>
+   +4 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_570e
+  </id>
+ </item>
+ <item>
   <collectible>
    True
   </collectible>
@@ -11663,28 +11643,6 @@ Zadaj 3 pkt. obrażeń.
   <playerclass>
    Druid
   </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Classic
-  </set>
-  <name>
-   Ugryzienie
-  </name>
-  <text>
-   +4 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_570e
-  </id>
  </item>
  <item>
   <set>
@@ -12013,26 +11971,6 @@ Zadaj 3 pkt. obrażeń.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Wewnętrzny szał
-  </name>
-  <text>
-   +2 do ataku.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_607e
-  </id>
-  <playerclass>
-   Warrior
-  </playerclass>
- </item>
- <item>
   <collectible>
    True
   </collectible>
@@ -12075,19 +12013,19 @@ Zadaj 3 pkt. obrażeń.
    Classic
   </set>
   <name>
-   Wewnętrzny żar
+   Wewnętrzny szał
   </name>
   <text>
-   Atak stronnika jest równy jego zdrowiu.
+   +2 do ataku.
   </text>
   <type>
    Enchantment
   </type>
   <id>
-   CS1_129e
+   EX1_607e
   </id>
   <playerclass>
-   Priest
+   Warrior
   </playerclass>
  </item>
  <item>
@@ -12123,6 +12061,26 @@ Zadaj 3 pkt. obrażeń.
   </type>
   <id>
    CS1_129
+  </id>
+  <playerclass>
+   Priest
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Wewnętrzny żar
+  </name>
+  <text>
+   Atak stronnika jest równy jego zdrowiu.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS1_129e
   </id>
   <playerclass>
    Priest
@@ -13205,7 +13163,7 @@ i zniszczonych stronników.
    True
   </elite>
   <text>
-   Na koniec twojej tury dobierz Kartę Snu.
+   Na koniec twojej tury dodaj Kartę Snu do twojej ręki.
   </text>
   <artist>
    Gabor Szikszai
@@ -13792,46 +13750,6 @@ i zniszczonych stronników.
   </playerclass>
  </item>
  <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Zimna krew
-  </name>
-  <text>
-   +4 do ataku.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e2
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Zimna krew
-  </name>
-  <text>
-   +2 do ataku.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   CS2_073e
-  </id>
-  <playerclass>
-   Rogue
-  </playerclass>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -13869,6 +13787,46 @@ i zniszczonych stronników.
   </type>
   <id>
    CS2_073
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Zimna krew
+  </name>
+  <text>
+   +2 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e
+  </id>
+  <playerclass>
+   Rogue
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Zimna krew
+  </name>
+  <text>
+   +4 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   CS2_073e2
   </id>
   <playerclass>
    Rogue
@@ -13971,29 +13929,6 @@ i zniszczonych stronników.
    Neutral
   </faction>
   <text>
-   +4 do zdrowia oraz &lt;b&gt;Prowokacja&lt;/b&gt;.
-  </text>
-  <type>
-   Spell
-  </type>
-  <id>
-   EX1_155b
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Znak natury
-  </name>
-  <faction>
-   Neutral
-  </faction>
-  <text>
    +4 do ataku.
   </text>
   <type>
@@ -14021,26 +13956,6 @@ i zniszczonych stronników.
   </type>
   <id>
    EX1_155be
-  </id>
-  <playerclass>
-   Druid
-  </playerclass>
- </item>
- <item>
-  <set>
-   Classic
-  </set>
-  <name>
-   Znak natury
-  </name>
-  <text>
-   Ten stronnik ma +4 do ataku.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   EX1_155ae
   </id>
   <playerclass>
    Druid
@@ -14079,6 +13994,49 @@ i zniszczonych stronników.
   </type>
   <id>
    EX1_155
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Znak natury
+  </name>
+  <faction>
+   Neutral
+  </faction>
+  <text>
+   +4 do zdrowia oraz &lt;b&gt;Prowokacja&lt;/b&gt;.
+  </text>
+  <type>
+   Spell
+  </type>
+  <id>
+   EX1_155b
+  </id>
+  <playerclass>
+   Druid
+  </playerclass>
+ </item>
+ <item>
+  <set>
+   Classic
+  </set>
+  <name>
+   Znak natury
+  </name>
+  <text>
+   Ten stronnik ma +4 do ataku.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   EX1_155ae
   </id>
   <playerclass>
    Druid

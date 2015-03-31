@@ -113,7 +113,7 @@
    Antyczny medibot
   </name>
   <artist>
-   Jesper Esjing
+   Jesper Ejsing
   </artist>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przywróć 8 pkt. zdrowia twojemu bohaterowi.
@@ -870,7 +870,7 @@
    4
   </health>
   <flavor>
-   Druidzi Kła piszą wyłącznie wężykiem.
+   Druidzi Kłów piszą wyłącznie wężykiem.
   </flavor>
   <type>
    Minion
@@ -1421,7 +1421,7 @@
    Gnom eksperymentator
   </name>
   <artist>
-   Jesper Esjing
+   Jesper Ejsing
   </artist>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz kartę. Jeśli to stronnik, zamieni się w Kurczaka.
@@ -1559,7 +1559,7 @@
    Gobliński saper
   </name>
   <artist>
-   Jesper Esjing
+   Jesper Ejsing
   </artist>
   <text>
    Ma +4 do ataku, kiedy twój przeciwnik ma w ręce 6 lub więcej kart.
@@ -2000,7 +2000,7 @@
    Klekotnik Wyśrubny
   </name>
   <artist>
-   Jesper Esjing
+   Jesper Ejsing
   </artist>
   <text>
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przyjaznemu Mechowi +2/+2.
@@ -2310,7 +2310,7 @@
    Todd Lockwood
   </artist>
   <text>
-   Otrzymuje +2/+2 za każdym razem,  gdy twój bohater otrzymuje obrażenia w twojej turze.
+   Otrzymuje +2/+2 za każdym razem, gdy twój bohater otrzymuje obrażenia w twojej turze.
   </text>
   <rarity>
    Common
@@ -3588,23 +3588,6 @@ wroga.
   </playerclass>
  </item>
  <item>
-  <text>
-   +3 do ataku.
-  </text>
-  <set>
-   Goblins vs Gnomes
-  </set>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   GVG_022a
-  </id>
-  <name>
-   Olejek osełkowy
-  </name>
- </item>
- <item>
   <mechanics>
    <item>
     Combo
@@ -3663,7 +3646,7 @@ wroga.
  </item>
  <item>
   <text>
-   +1 do zdrowia.
+   +3 do ataku.
   </text>
   <set>
    Goblins vs Gnomes
@@ -3672,10 +3655,10 @@ wroga.
    Enchantment
   </type>
   <id>
-   PART_001e
+   GVG_022a
   </id>
   <name>
-   Opancerzenie
+   Olejek osełkowy
   </name>
  </item>
  <item>
@@ -3871,6 +3854,28 @@ wroga.
  <item>
   <mechanics>
    <item>
+    OneTurnEffect
+   </item>
+  </mechanics>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <name>
+   Pieczęć Światłości
+  </name>
+  <text>
+   +2 do ataku w tej turze.
+  </text>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   GVG_057a
+  </id>
+ </item>
+ <item>
+  <mechanics>
+   <item>
     ImmuneToSpellpower
    </item>
   </mechanics>
@@ -3907,28 +3912,6 @@ wroga.
   <playerclass>
    Paladin
   </playerclass>
- </item>
- <item>
-  <mechanics>
-   <item>
-    OneTurnEffect
-   </item>
-  </mechanics>
-  <set>
-   Goblins vs Gnomes
-  </set>
-  <name>
-   Pieczęć Światłości
-  </name>
-  <text>
-   +2 do ataku w tej turze.
-  </text>
-  <type>
-   Enchantment
-  </type>
-  <id>
-   GVG_057a
-  </id>
  </item>
  <item>
   <collectible>
@@ -3990,7 +3973,7 @@ wroga.
    Podkręcenie
   </name>
   <text>
-   Obrażenia zaklęć +2.
+   Obrażenia zaklęć +2
   </text>
   <type>
    Enchantment
@@ -4017,6 +4000,23 @@ wroga.
   </id>
   <name>
    Pomsta
+  </name>
+ </item>
+ <item>
+  <text>
+   +1 do zdrowia.
+  </text>
+  <set>
+   Goblins vs Gnomes
+  </set>
+  <type>
+   Enchantment
+  </type>
+  <id>
+   PART_001e
+  </id>
+  <name>
+   Poszycie
   </name>
  </item>
  <item>
@@ -5265,7 +5265,7 @@ Przeciążenie:&lt;/b&gt; (1)
    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj losowemu przyjaznemu stronnikowi &lt;b&gt;Boską tarczę&lt;/b&gt; oraz &lt;b&gt;Prowokację&lt;/b&gt;.
   </text>
   <artist>
-   Danny Orizio
+   Dany Orizio
   </artist>
   <rarity>
    Epic

@@ -162,6 +162,14 @@
         "type": "Minion"
     },
     {
+        "id": "CS2_038e",
+        "name": "Ancestral Spirit",
+        "playerClass": "Shaman",
+        "set": "Classic",
+        "text": "<b>Deathrattle:</b> Resummon this minion.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Zoltan & Gabor",
         "collectible": true,
         "cost": 2,
@@ -174,14 +182,6 @@
         "set": "Classic",
         "text": "Give a minion \"<b>Deathrattle:</b> Resummon this minion.\"",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_038e",
-        "name": "Ancestral Spirit",
-        "playerClass": "Shaman",
-        "set": "Classic",
-        "text": "<b>Deathrattle:</b> Resummon this minion.",
-        "type": "Enchantment"
     },
     {
         "artist": "Bernie Kang",
@@ -472,7 +472,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Deal $8 damage randomly split among enemy characters.",
+        "text": "Deal $8 damage randomly split among all enemies.",
         "type": "Spell"
     },
     {
@@ -507,19 +507,19 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_014te",
-        "name": "Bananas",
-        "set": "Classic",
-        "text": "Has +1/+1.",
-        "type": "Enchantment"
-    },
-    {
         "cost": 1,
         "id": "EX1_014t",
         "name": "Bananas",
         "set": "Classic",
         "text": "Give a minion +1/+1.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_014te",
+        "name": "Bananas",
+        "set": "Classic",
+        "text": "Has +1/+1.",
+        "type": "Enchantment"
     },
     {
         "artist": "Raymond Swanland",
@@ -650,6 +650,16 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_570e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Bite",
+        "set": "Classic",
+        "text": "+4 Attack this turn.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Tom Baxa",
         "collectible": true,
         "cost": 4,
@@ -662,16 +672,6 @@
         "set": "Classic",
         "text": "Give your hero +4 Attack this turn and 4 Armor.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_570e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Bite",
-        "set": "Classic",
-        "text": "+4 Attack this turn.",
-        "type": "Enchantment"
     },
     {
         "artist": "Hideaki Takamura",
@@ -698,14 +698,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_355e",
-        "name": "Blessed Champion",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "This minion's Attack has been doubled.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Tyler Walpole",
         "collectible": true,
         "cost": 5,
@@ -717,6 +709,14 @@
         "set": "Classic",
         "text": "Double a minion's Attack.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_355e",
+        "name": "Blessed Champion",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "This minion's Attack has been doubled.",
+        "type": "Enchantment"
     },
     {
         "artist": "Chippy",
@@ -1020,6 +1020,14 @@
         "type": "Enchantment"
     },
     {
+        "id": "CS2_073e2",
+        "name": "Cold Blood",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+4 Attack.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -1035,14 +1043,6 @@
         "set": "Classic",
         "text": "Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_073e2",
-        "name": "Cold Blood",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+4 Attack.",
-        "type": "Enchantment"
     },
     {
         "artist": "Steve Prescott",
@@ -1094,6 +1094,17 @@
         "type": "Enchantment"
     },
     {
+        "id": "NEW1_036e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Commanding Shout",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "Can't be reduced below 1 Health this turn.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Wayne Reynolds",
         "collectible": true,
         "cost": 2,
@@ -1105,17 +1116,6 @@
         "set": "Classic",
         "text": "Your minions can't be reduced below 1 Health this turn. Draw a card.",
         "type": "Spell"
-    },
-    {
-        "id": "NEW1_036e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Commanding Shout",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "Can't be reduced below 1 Health this turn.",
-        "type": "Enchantment"
     },
     {
         "artist": "Steve Hui",
@@ -1247,14 +1247,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_334e",
-        "name": "Dark Command",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "This minion has switched controllers this turn.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Scott Hampton",
         "attack": 4,
         "collectible": true,
@@ -1367,21 +1359,21 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_573ae",
-        "name": "Demigod's Favor",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+2/+2.",
-        "type": "Enchantment"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_573a",
         "name": "Demigod's Favor",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Give your other minions +2/+2.",
         "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_573ae",
+        "name": "Demigod's Favor",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+2/+2.",
+        "type": "Enchantment"
     },
     {
         "artist": "Raymond Swanland",
@@ -1423,17 +1415,6 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "This Demon has +2/+2.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Demoralizing Roar",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "This minion has -3 Attack this turn.",
         "type": "Enchantment"
     },
     {
@@ -1780,14 +1761,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_619e",
-        "name": "Equality",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Health changed to 1.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Michal Ivan",
         "collectible": true,
         "cost": 2,
@@ -1800,6 +1773,14 @@
         "set": "Classic",
         "text": "Change the Health of ALL minions to 1.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_619e",
+        "name": "Equality",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Health changed to 1.",
+        "type": "Enchantment"
     },
     {
         "collectible": false,
@@ -2631,14 +2612,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_607e",
-        "name": "Inner Rage",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+2 Attack.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Slawomir Maniak",
         "collectible": true,
         "cost": 0,
@@ -2651,6 +2624,14 @@
         "set": "Classic",
         "text": "Deal $1 damage to a minion and give it +2 Attack.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_607e",
+        "name": "Inner Rage",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+2 Attack.",
+        "type": "Enchantment"
     },
     {
         "artist": "Trevor Jacobs",
@@ -3017,6 +2998,19 @@
         "type": "Minion"
     },
     {
+        "attack": 0,
+        "cost": 0,
+        "faction": "Neutral",
+        "health": 15,
+        "id": "EX1_323h",
+        "name": "Lord Jaraxxus",
+        "playerClass": "Warlock",
+        "race": "Demon",
+        "rarity": "Legendary",
+        "set": "Classic",
+        "type": "Hero"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "attack": 3,
         "collectible": true,
@@ -3035,19 +3029,6 @@
         "set": "Classic",
         "text": "<b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.",
         "type": "Minion"
-    },
-    {
-        "attack": 0,
-        "cost": 0,
-        "faction": "Neutral",
-        "health": 15,
-        "id": "EX1_323h",
-        "name": "Lord Jaraxxus",
-        "playerClass": "Warlock",
-        "race": "Demon",
-        "rarity": "Legendary",
-        "set": "Classic",
-        "type": "Hero"
     },
     {
         "artist": "Mark Zug",
@@ -3180,14 +3161,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_155be",
-        "name": "Mark of Nature",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "This minion has +4 Health and <b>Taunt</b>.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Clint Langley",
         "collectible": true,
         "cost": 3,
@@ -3202,13 +3175,12 @@
         "type": "Spell"
     },
     {
-        "faction": "Neutral",
-        "id": "EX1_155b",
+        "id": "EX1_155be",
         "name": "Mark of Nature",
         "playerClass": "Druid",
         "set": "Classic",
-        "text": "+4 Health and <b>Taunt</b>.",
-        "type": "Spell"
+        "text": "This minion has +4 Health and <b>Taunt</b>.",
+        "type": "Enchantment"
     },
     {
         "faction": "Neutral",
@@ -3217,6 +3189,15 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "+4 Attack.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_155b",
+        "name": "Mark of Nature",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 Health and <b>Taunt</b>.",
         "type": "Spell"
     },
     {
@@ -3583,15 +3564,6 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_164b",
-        "name": "Nourish",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Draw 3 cards.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_164a",
         "name": "Nourish",
         "playerClass": "Druid",
@@ -3611,6 +3583,15 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_164b",
+        "name": "Nourish",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Draw 3 cards.",
         "type": "Spell"
     },
     {
@@ -3924,14 +3905,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_104e",
-        "name": "Rampage",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+3/+3.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Jonboy Meyers",
         "collectible": true,
         "cost": 2,
@@ -3944,6 +3917,14 @@
         "set": "Classic",
         "text": "Give a damaged minion +3/+3.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_104e",
+        "name": "Rampage",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+3/+3.",
+        "type": "Enchantment"
     },
     {
         "artist": "Ralph Horsley",
@@ -4148,6 +4129,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_334e",
+        "name": "Shadow Madness",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "This minion has switched controllers this turn.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Mark Gibbons",
         "collectible": true,
         "cost": 4,
@@ -4239,13 +4228,6 @@
         "name": "Sharp!",
         "set": "Classic",
         "text": "+2 Attack from Spiteful Smith.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "CS2_146o",
-        "name": "Sharpened",
-        "set": "Classic",
-        "text": "+1 Durability.",
         "type": "Enchantment"
     },
     {
@@ -4450,14 +4432,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_158e",
-        "name": "Soul of the Forest",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Deathrattle: Summon a 2/2 Treant.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Markus Erdt",
         "collectible": true,
         "cost": 4,
@@ -4470,6 +4444,14 @@
         "set": "Classic",
         "text": "Give your minions \"<b>Deathrattle:</b> Summon a 2/2 Treant.\"",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_158e",
+        "name": "Soul of the Forest",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Deathrattle: Summon a 2/2 Treant.",
+        "type": "Enchantment"
     },
     {
         "artist": "Ken Steacy",
@@ -4506,17 +4488,6 @@
         "type": "Minion"
     },
     {
-        "attack": 1,
-        "cost": 0,
-        "health": 3,
-        "id": "tt_010a",
-        "name": "Spellbender",
-        "playerClass": "Mage",
-        "rarity": "Epic",
-        "set": "Classic",
-        "type": "Minion"
-    },
-    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 3,
@@ -4532,6 +4503,17 @@
         "set": "Classic",
         "text": "<b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target.",
         "type": "Spell"
+    },
+    {
+        "attack": 1,
+        "cost": 0,
+        "health": 3,
+        "id": "tt_010a",
+        "name": "Spellbender",
+        "playerClass": "Mage",
+        "rarity": "Epic",
+        "set": "Classic",
+        "type": "Minion"
     },
     {
         "artist": "Matt Cavotta",
@@ -4636,19 +4618,19 @@
         "type": "Enchantment"
     },
     {
-        "id": "NEW1_007a",
-        "name": "Starfall",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Deal $2 damage to all enemy minions.",
-        "type": "Spell"
-    },
-    {
         "id": "NEW1_007b",
         "name": "Starfall",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Deal $5 damage to a minion.",
+        "type": "Spell"
+    },
+    {
+        "id": "NEW1_007a",
+        "name": "Starfall",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Deal $2 damage to all enemy minions.",
         "type": "Spell"
     },
     {
@@ -4998,6 +4980,17 @@
     {
         "attack": 2,
         "cost": 1,
+        "faction": "Neutral",
+        "health": 2,
+        "id": "EX1_158t",
+        "name": "Treant",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
         "health": 2,
         "id": "EX1_573t",
         "mechanics": [
@@ -5007,17 +5000,6 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "<b>Taunt</b>",
-        "type": "Minion"
-    },
-    {
-        "attack": 2,
-        "cost": 1,
-        "faction": "Neutral",
-        "health": 2,
-        "id": "EX1_158t",
-        "name": "Treant",
-        "playerClass": "Druid",
-        "set": "Classic",
         "type": "Minion"
     },
     {
@@ -5104,19 +5086,19 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_536e",
-        "name": "Upgraded",
-        "playerClass": "Hunter",
-        "set": "Classic",
-        "text": "Increased Durability.",
-        "type": "Enchantment"
-    },
-    {
         "id": "EX1_409e",
         "name": "Upgraded",
         "playerClass": "Warrior",
         "set": "Classic",
         "text": "+1 Attack and +1 Durability.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_536e",
+        "name": "Upgraded",
+        "playerClass": "Hunter",
+        "set": "Classic",
+        "text": "Increased Durability.",
         "type": "Enchantment"
     },
     {
@@ -5240,9 +5222,8 @@
     {
         "attack": 1,
         "cost": 1,
-        "faction": "Neutral",
         "health": 1,
-        "id": "ds1_whelptoken",
+        "id": "EX1_116t",
         "name": "Whelp",
         "race": "Dragon",
         "set": "Classic",
@@ -5251,8 +5232,9 @@
     {
         "attack": 1,
         "cost": 1,
+        "faction": "Neutral",
         "health": 1,
-        "id": "EX1_116t",
+        "id": "ds1_whelptoken",
         "name": "Whelp",
         "race": "Dragon",
         "set": "Classic",
@@ -5344,12 +5326,17 @@
         "type": "Minion"
     },
     {
+        "artist": "Raymond Swanland",
+        "collectible": true,
+        "cost": 2,
         "faction": "Neutral",
-        "id": "EX1_154b",
+        "flavor": "The talk around the Ratchet Inn is that this card is too good and should be a Legendary.",
+        "id": "EX1_154",
         "name": "Wrath",
         "playerClass": "Druid",
+        "rarity": "Common",
         "set": "Classic",
-        "text": "Deal $1 damage to a minion. Draw a card.",
+        "text": "<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.",
         "type": "Spell"
     },
     {
@@ -5362,17 +5349,12 @@
         "type": "Spell"
     },
     {
-        "artist": "Raymond Swanland",
-        "collectible": true,
-        "cost": 2,
         "faction": "Neutral",
-        "flavor": "The talk around the Ratchet Inn is that this card is too good and should be a Legendary.",
-        "id": "EX1_154",
+        "id": "EX1_154b",
         "name": "Wrath",
         "playerClass": "Druid",
-        "rarity": "Common",
         "set": "Classic",
-        "text": "<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.",
+        "text": "Deal $1 damage to a minion. Draw a card.",
         "type": "Spell"
     },
     {
@@ -5447,7 +5429,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "At the end of your turn, draw a Dream Card.",
+        "text": "At the end of your turn, add a Dream Card to your hand.",
         "type": "Minion"
     },
     {

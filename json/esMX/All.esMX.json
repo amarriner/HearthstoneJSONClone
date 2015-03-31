@@ -2059,7 +2059,7 @@
             "playerClass": "Mage",
             "rarity": "Free",
             "set": "Basic",
-            "text": "Inflige $3 de da\u00f1o dividido aleatoriamente entre los personajes enemigos.",
+            "text": "Inflige $3 de da\u00f1o dividido aleatoriamente entre todos los enemigos.",
             "type": "Spell"
         },
         {
@@ -3109,6 +3109,2219 @@
             "type": "Spell"
         }
     ],
+    "Blackrock Mountain": [
+        {
+            "cost": 3,
+            "id": "BRMA01_4",
+            "name": "\u00a1A ellos!",
+            "set": "Blackrock Mountain",
+            "text": "Invoca cuatro enanos 1/1 con <b>Provocaci\u00f3n</b>.",
+            "type": "Spell"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA14_10",
+            "name": "\u00a1Activado!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nActiva un Tron aleatorio.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA14_10H",
+            "name": "\u00a1Activado!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nActiva un Tron aleatorio.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRM_018e",
+            "name": "\u00a1Desencadenado!",
+            "playerClass": "Paladin",
+            "set": "Blackrock Mountain",
+            "text": "Tu pr\u00f3ximo Drag\u00f3n cuesta (2) menos.",
+            "type": "Enchantment"
+        },
+        {
+            "id": "BRM_012e",
+            "name": "\u00a1En llamas!",
+            "set": "Blackrock Mountain",
+            "text": "Ataque aumentado.",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA01_2H",
+            "name": "\u00a1Fiest\u00f3n!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nColoca dos esbirros de tu mazo y uno del de tu adversario en el campo de batalla.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA01_2",
+            "name": "\u00a1Fiest\u00f3n!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nColoca un esbirro de cada mazo en el campo de batalla.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA17_4",
+            "name": "\u00a1LAVA!",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $2 de da\u00f1o a todos los esbirros.",
+            "type": "Spell"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA15_3",
+            "name": "\u00a1Liberen a las Aberraciones!",
+            "set": "Blackrock Mountain",
+            "text": "Invoca 3 Aberraciones.",
+            "type": "Spell"
+        },
+        {
+            "cost": 2,
+            "id": "BRM_027pH",
+            "name": "\u00a1MUERAN, INSECTOS!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 8 de da\u00f1o a un enemigo aleatorio. DOS VECES.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA13_8",
+            "mechanics": [
+                "AffectedBySpellPower"
+            ],
+            "name": "\u00a1MUERE, INSECTO!",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $8 de da\u00f1o a un enemigo aleatorio.",
+            "type": "Spell"
+        },
+        {
+            "cost": 2,
+            "id": "BRM_027p",
+            "name": "\u00a1MUERE, INSECTO!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 8 de da\u00f1o a un enemigo aleatorio.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA17_8H",
+            "name": "\u00a1Nefarian quiere sangre!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Nefarian hace que llueva fuego!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA17_8",
+            "name": "\u00a1Nefarian quiere sangre!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Nefarian hace que llueva fuego!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA07_2",
+            "name": "\u00a1YO APLASTAR!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nDestruye un esbirro enemigo da\u00f1ado aleatorio.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA07_2H",
+            "name": "\u00a1YO APLASTAR!",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nDestruye un esbirro enemigo da\u00f1ado aleatorio.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA04_4",
+            "name": "A rodar",
+            "set": "Blackrock Mountain",
+            "text": "Invoca 3 Jurafuegos. <b>Sobrecarga:</b> (2)",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA04_4H",
+            "name": "A rodar",
+            "set": "Blackrock Mountain",
+            "text": "Invoca 3 Jurafuegos. <b>Sobrecarga:</b> (2)",
+            "type": "Spell"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA15_4",
+            "mechanics": [
+                "Charge"
+            ],
+            "name": "Aberraci\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Carga</b>",
+            "type": "Minion"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA09_2",
+            "name": "Abran las puertas",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca tres Cr\u00edas 1/1. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA09_2H",
+            "name": "Abran las puertas",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca tres Cr\u00edas 2/2. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "attack": 1,
+            "cost": 2,
+            "health": 3,
+            "id": "BRMA06_4",
+            "name": "Ac\u00f3lito despiertallamas",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 3,
+            "cost": 2,
+            "health": 3,
+            "id": "BRMA06_4H",
+            "name": "Ac\u00f3lito despiertallamas",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA14_2H",
+            "name": "Activar Arcanotr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Arcanotr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA14_2",
+            "name": "Activar Arcanotr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Arcanotr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA14_6H",
+            "name": "Activar Electr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Electr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 6,
+            "id": "BRMA14_6",
+            "name": "Activar Electr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Electr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 8,
+            "id": "BRMA14_8",
+            "name": "Activar Magmatr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Magmatr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 6,
+            "id": "BRMA14_8H",
+            "name": "Activar Magmatr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Magmatr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA14_4",
+            "name": "Activar Toxitr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Toxitr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA14_4H",
+            "name": "Activar Toxitr\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Activa a Toxitr\u00f3n!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA11_3",
+            "name": "Adrenalina ardiente",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $2 de da\u00f1o al h\u00e9roe enemigo.",
+            "type": "Spell"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA12_2H",
+            "name": "Aflicci\u00f3n del linaje",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nAl final de tu turno, agrega una carta de Aflicci\u00f3n del linaje a la mano de tu adversario.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA12_2",
+            "name": "Aflicci\u00f3n del linaje",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nAl final de tu turno, agrega una carta de Aflicci\u00f3n del linaje a la mano de tu adversario.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_5",
+            "name": "Aflicci\u00f3n del linaje: azul",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, los hechizos de Chromaggus cuestan (1) menos.",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA12_5H",
+            "name": "Aflicci\u00f3n del linaje: azul",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, los hechizos de Chromaggus cuestan (3) menos.",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA12_7H",
+            "name": "Aflicci\u00f3n del linaje: bronce",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, los esbirros de Chromaggus cuestan (3) menos.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_7",
+            "name": "Aflicci\u00f3n del linaje: bronce",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, los esbirros de Chromaggus cuestan (1) menos.",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA12_6H",
+            "name": "Aflicci\u00f3n del linaje: negro",
+            "set": "Blackrock Mountain",
+            "text": "Si esta carta est\u00e1 en tu mano, cada vez que Chromaggus roba una carta, obtiene otra igual.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_6",
+            "name": "Aflicci\u00f3n del linaje: negro",
+            "set": "Blackrock Mountain",
+            "text": "Si esta carta est\u00e1 en tu mano, cada vez que Chromaggus roba una carta, obtiene otra igual.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_3",
+            "mechanics": [
+                "ImmuneToSpellpower"
+            ],
+            "name": "Aflicci\u00f3n del linaje: rojo",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, recibes 1 de da\u00f1o al comienzo de tu turno.",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA12_3H",
+            "mechanics": [
+                "ImmuneToSpellpower"
+            ],
+            "name": "Aflicci\u00f3n del linaje: rojo",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, recibes 3 de da\u00f1o al comienzo de tu turno.",
+            "type": "Spell"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA12_4H",
+            "name": "Aflicci\u00f3n del linaje: verde",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, restaura 6 de Salud al adversario al comienzo de tu turno.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_4",
+            "name": "Aflicci\u00f3n del linaje: verde",
+            "set": "Blackrock Mountain",
+            "text": "Mientras est\u00e1 en tu mano, restaura 2 de Salud al adversario al comienzo de tu turno.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA09_4",
+            "name": "Alanegra",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Dragonante 3/1. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA09_4H",
+            "name": "Alanegra",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Dragonante 5/4. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "artist": "Mauricio Herrera",
+            "collectible": true,
+            "cost": 5,
+            "flavor": "S\u00ed, s\u00ed, los dragones lanzan llamas. Pero lo que nadie sabe es que tambi\u00e9n pueden lanzar algod\u00f3n de az\u00facar. Solo hay que darles un buen motivo.",
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Mago en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Mago en Monta\u00f1a Roca Negra.",
+            "id": "BRM_003",
+            "name": "Aliento de drag\u00f3n",
+            "playerClass": "Mage",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $4 de da\u00f1o. Cuesta (1) menos por cada esbirro que haya muerto en este turno.",
+            "type": "Spell"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA16_3",
+            "name": "Aliento s\u00f3nico",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $3 de da\u00f1o a un esbirro. Le otorga a tu arma +3 de Ataque.",
+            "type": "Spell"
+        },
+        {
+            "id": "BRMA16_3e",
+            "name": "Aliento s\u00f3nico",
+            "set": "Blackrock Mountain",
+            "text": "+3 de Ataque.",
+            "type": "Enchantment"
+        },
+        {
+            "health": 30,
+            "id": "BRMA02_1H",
+            "name": "Alto justiciero Pedrasiniestra",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA02_1",
+            "name": "Alto justiciero Pedrasiniestra",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA07_1H",
+            "name": "Alto se\u00f1or Omokk",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA07_1",
+            "name": "Alto se\u00f1or Omokk",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Trent Kaniuga",
+            "attack": 7,
+            "collectible": true,
+            "cost": 9,
+            "flavor": "Qu\u00e9-madera, qu\u00e9-maciza... \u00a1Quema, quema, quema...!",
+            "health": 8,
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Druida en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Druida en Monta\u00f1a Roca Negra.",
+            "id": "BRM_009",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Ant\u00e1rbol volc\u00e1nico",
+            "playerClass": "Druid",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>\nCuesta (1) menos por cada esbirro que haya muerto en este turno.",
+            "type": "Minion"
+        },
+        {
+            "attack": 2,
+            "cost": 0,
+            "elite": true,
+            "health": 2,
+            "id": "BRMA14_3",
+            "mechanics": [
+                "Spellpower"
+            ],
+            "name": "Arcanotr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Ambos jugadores tienen <b>Da\u00f1o de hechizo +2</b>.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA16_1H",
+            "name": "Atramedes",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA16_1",
+            "name": "Atramedes",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA05_1",
+            "name": "Bar\u00f3n Geddon",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 50,
+            "id": "BRMA05_1H",
+            "name": "Bar\u00f3n Geddon",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "id": "BRMA05_3He",
+            "name": "Bomba viviente",
+            "set": "Blackrock Mountain",
+            "text": "En el turno de Geddon, inflige 10 de da\u00f1o a todo lo que tengas.",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA05_3H",
+            "name": "Bomba viviente",
+            "set": "Blackrock Mountain",
+            "text": "Elige un esbirro enemigo. Si en tu pr\u00f3ximo turno sigue vivo, inflige $10 de da\u00f1o a todos los enemigos.",
+            "type": "Spell"
+        },
+        {
+            "id": "BRMA05_3e",
+            "name": "Bomba viviente",
+            "set": "Blackrock Mountain",
+            "text": "En el turno de Geddon, inflige 5 de da\u00f1o a todo lo que tengas.",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA05_3",
+            "name": "Bomba viviente",
+            "set": "Blackrock Mountain",
+            "text": "Elige un esbirro enemigo. Si en tu pr\u00f3ximo turno sigue vivo, inflige $5 de da\u00f1o a todos los enemigos.",
+            "type": "Spell"
+        },
+        {
+            "artist": "Zoltan Boros",
+            "collectible": true,
+            "cost": 2,
+            "flavor": "La especialidad de la casa es el volc\u00e1n de chocolate.",
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Cham\u00e1n en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Cham\u00e1n en Monta\u00f1a Roca Negra.",
+            "id": "BRM_011",
+            "name": "Choque de lava",
+            "playerClass": "Shaman",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $2 de da\u00f1o.\nDesbloquea tus cristales de man\u00e1 <b>Sobrecargados</b>.",
+            "type": "Spell"
+        },
+        {
+            "id": "BRM_011t",
+            "mechanics": [
+                "OneTurnEffect"
+            ],
+            "name": "Choque de lava",
+            "playerClass": "Shaman",
+            "set": "Blackrock Mountain",
+            "text": "Las cartas que juegas este turno no provocan <b>Sobrecarga</b>.",
+            "type": "Enchantment"
+        },
+        {
+            "artist": "Todd Lockwood",
+            "attack": 6,
+            "collectible": true,
+            "cost": 8,
+            "elite": true,
+            "flavor": "Todas las noches, la cabeza izquierda y la derecha pelean durante horas sobre qu\u00e9 elegir para la cena... y siempre terminan comiendo arroz.",
+            "health": 8,
+            "howToGet": "Desbloqueada por completar la Guarida de Alanegra.",
+            "howToGetGold": "Se puede crear luego de completar la Guarida de Alanegra.",
+            "id": "BRM_031",
+            "name": "Chromaggus",
+            "race": "Dragon",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que robas una carta, pone otra igual en tu mano.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA12_1",
+            "name": "Chromaggus",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 60,
+            "id": "BRMA12_1H",
+            "name": "Chromaggus",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "id": "BRMA10_6e",
+            "name": "Ciego de ira",
+            "set": "Blackrock Mountain",
+            "text": "Ataque aumentado.",
+            "type": "Enchantment"
+        },
+        {
+            "artist": "Raymond Swanland",
+            "collectible": true,
+            "cost": 3,
+            "flavor": "En realidad los demonios tienen un car\u00e1cter divino. Si quieres verlos enojados, esta es tu carta.",
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Brujo en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Brujo en Monta\u00f1a Roca Negra.",
+            "id": "BRM_005",
+            "mechanics": [
+                "AffectedBySpellPower"
+            ],
+            "name": "C\u00f3lera demon\u00edaca",
+            "playerClass": "Warlock",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $2 de da\u00f1o a todos los esbirros que no son Demonios.",
+            "type": "Spell"
+        },
+        {
+            "cost": 4,
+            "id": "BRM_030t",
+            "name": "Coletazo",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $4 de da\u00f1o.",
+            "type": "Spell"
+        },
+        {
+            "artist": "Raymond Swanland",
+            "attack": 5,
+            "collectible": true,
+            "cost": 5,
+            "flavor": "Todos quieren a alguien para abrazar... Hasta las enormes bestias draconianas con armadura de escamas dise\u00f1adas para destruirlo todo.",
+            "health": 5,
+            "howToGet": "Desbloqueada por derrotar al General Drakkisath en la Cumbre de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de derrotar al General Drakkisath en la Cumbre de Roca Negra.",
+            "id": "BRM_018",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Consorte drag\u00f3n",
+            "playerClass": "Paladin",
+            "race": "Dragon",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> El pr\u00f3ximo Drag\u00f3n que juegues cuesta (2) menos.",
+            "type": "Minion"
+        },
+        {
+            "cost": 3,
+            "id": "BRMA_01",
+            "name": "Coraz\u00f3n \u00edgneo",
+            "set": "Blackrock Mountain",
+            "text": "Roba 2 cartas.\nObtienes 4 de Armadura.",
+            "type": "Spell"
+        },
+        {
+            "health": 30,
+            "id": "BRMA01_1H",
+            "name": "Coren Cerveza Temible",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA01_1",
+            "name": "Coren Cerveza Temible",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Greg Staples",
+            "attack": 5,
+            "collectible": true,
+            "cost": 5,
+            "faction": "Neutral",
+            "flavor": "Se gan\u00f3 su nombre cuando le prest\u00f3 algunos c\u00f3mics y discos de rock & roll a Alanegra.",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar a Maloriak en el Laboratorio oculto.",
+            "howToGetGold": "Se puede crear luego de derrotar a Maloriak en el Laboratorio oculto.",
+            "id": "BRM_034",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Corruptor de Alanegra",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla</b>: si tienes un Drag\u00f3n en tu mano, inflige 3 de da\u00f1o.",
+            "type": "Minion"
+        },
+        {
+            "attack": 2,
+            "cost": 1,
+            "health": 2,
+            "id": "BRMA09_2Ht",
+            "name": "Cr\u00eda",
+            "race": "Dragon",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA09_2t",
+            "name": "Cr\u00eda",
+            "race": "Dragon",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRM_004t",
+            "name": "Cr\u00eda",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "artist": "Sam Nielson",
+            "attack": 2,
+            "collectible": true,
+            "cost": 1,
+            "flavor": "Las cr\u00edas crepusculares son b\u00e1sicamente vampiros m\u00e1gicos. \u00bfQue son una referencia a cierta serie de novelas de moda? \u00a1De ninguna manera!",
+            "health": 1,
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Sacerdote en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Sacerdote en Monta\u00f1a Roca Negra.",
+            "id": "BRM_004",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Cr\u00eda crepuscular",
+            "playerClass": "Priest",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> si tienes un Drag\u00f3n en tu mano, obtiene +2 de Salud.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Jaemin Kim",
+            "attack": 2,
+            "cost": 1,
+            "health": 1,
+            "id": "BRM_022t",
+            "name": "Cr\u00eda negra",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA09_5",
+            "name": "Desmontar",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca a Gyth. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA09_5H",
+            "name": "Desmontar",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca a Gyth. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "artist": "Alex Horley Orlandelli",
+            "attack": 2,
+            "collectible": true,
+            "cost": 3,
+            "flavor": "Los despiertallamas ODIAN que los confundan con los caminallamas. Ellos despiertan al fuego. Andar pisando llamas ser\u00eda una LOCURA.",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar a Vaelastrasz en la Guarida de Alanegra.",
+            "howToGetGold": "Se puede crear luego de derrotar a Vaelastrasz en la Guarida de Alanegra.",
+            "id": "BRM_002",
+            "name": "Despiertallamas",
+            "playerClass": "Mage",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Despu\u00e9s de lanzar un hechizo, inflige 2 de da\u00f1o dividido aleatoriamente entre todos los enemigos.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Paul Mafayon",
+            "attack": 3,
+            "collectible": true,
+            "cost": 4,
+            "flavor": "Ragnaros entrevista a cientos de Elementales de fuego por semana para el puesto de \"Destructor\", pero solo unos pocos tiene la chispa necesaria.",
+            "health": 6,
+            "howToGet": "Desbloqueada por derrotar a Lord Victor Nefarius en la Guarida de Alanegra.",
+            "howToGetGold": "Puede crearse luego de derrotar a Lord Victor Nefarius en la Guarida de Alanegra.",
+            "id": "BRM_012",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Destructor guardia de fuego",
+            "playerClass": "Shaman",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> Obtiene 1-4 de Ataque. <b>Sobrecarga:</b> (1)",
+            "type": "Minion"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRM_006t",
+            "name": "Diablillo",
+            "playerClass": "Warlock",
+            "race": "Demon",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "artist": "Steve Prescott",
+            "attack": 2,
+            "collectible": true,
+            "cost": 3,
+            "flavor": "Con su pandilla de diablillos, se meten en Ventormenta para pintar grafitis de \"Ragnaros por siempre\" en la Torre de los Magos.",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar al Mayordomo Executus en el N\u00facleo de magma.",
+            "howToGetGold": "Se puede crear luego de derrotar al Mayordomo Executus en el N\u00facleo de magma.",
+            "id": "BRM_006",
+            "name": "Diablillo pandillero",
+            "playerClass": "Warlock",
+            "race": "Demon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que este esbirro recibe da\u00f1o, invoca un Diablillo 1/1.",
+            "type": "Minion"
+        },
+        {
+            "attack": 0,
+            "cost": 1,
+            "durability": 6,
+            "id": "BRMA16_5",
+            "name": "Dientes de drag\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que tu adversario juega una carta, obtiene +1 de Ataque.",
+            "type": "Weapon"
+        },
+        {
+            "artist": "Jonboy Meyers",
+            "collectible": true,
+            "cost": 2,
+            "flavor": "Han dispar\u00f3 primero.",
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Cazador en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Cazador en Monta\u00f1a Roca Negra.",
+            "id": "BRM_013",
+            "mechanics": [
+                "AffectedBySpellPower"
+            ],
+            "name": "Disparo presuroso",
+            "playerClass": "Hunter",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $3 de da\u00f1o.\nSi tu mano est\u00e1 vac\u00eda, roba una carta.",
+            "type": "Spell"
+        },
+        {
+            "attack": 7,
+            "cost": 4,
+            "health": 3,
+            "id": "BRMA10_5",
+            "name": "Draco crom\u00e1tico",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 7,
+            "cost": 4,
+            "health": 7,
+            "id": "BRMA10_5H",
+            "name": "Draco crom\u00e1tico",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "artist": "Lucas Graciano",
+            "attack": 6,
+            "collectible": true,
+            "cost": 6,
+            "flavor": "Los Dracos volc\u00e1nicos lanzan lava en lugar de fuego. En el Puesto del Torio, el vendedor de anti\u00e1cidos amas\u00f3 una peque\u00f1a fortuna gracias a ellos.",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar al Sistema de Defensa de Omnitr\u00f3n en el Laboratorio oculto.",
+            "howToGetGold": "Se puede crear luego de derrotar al Sistema de Defensa de Omnitr\u00f3n en el Laboratorio oculto.",
+            "id": "BRM_025",
+            "name": "Draco volc\u00e1nico",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Cuesta (1) menos por cada esbirro que haya muerto en este turno.",
+            "type": "Minion"
+        },
+        {
+            "artist": "John Polidora",
+            "attack": 5,
+            "collectible": true,
+            "cost": 4,
+            "flavor": "No te conviene molestarlo... hace semanas que est\u00e1 a dieta.",
+            "health": 6,
+            "howToGet": "Desbloqueada por derrotar a Chromaggus en la Guarida de Alanegra.",
+            "howToGetGold": "Se puede crear luego de derrotar a Chromaggus en la Guarida de Alanegra.",
+            "id": "BRM_026",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Drag\u00f3n hambriento",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> invoca aleatoriamente un esbirro que cueste 1 de man\u00e1 para tu adversario.",
+            "type": "Minion"
+        },
+        {
+            "attack": 3,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA09_4t",
+            "name": "Dragonante",
+            "race": "Dragon",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 5,
+            "cost": 1,
+            "health": 4,
+            "id": "BRMA09_4Ht",
+            "name": "Dragonante",
+            "race": "Dragon",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 2,
+            "cost": 2,
+            "health": 3,
+            "id": "BRMA12_8t",
+            "name": "Dragonante crom\u00e1tico",
+            "race": "Dragon",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que tu adversario juega un hechizo, obtiene +2/+2.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA12_9",
+            "name": "Dragonante crom\u00e1tico",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Ben Zhang",
+            "attack": 5,
+            "cost": 3,
+            "health": 2,
+            "id": "BRM_010t",
+            "name": "Druida de la Llama",
+            "playerClass": "Druid",
+            "race": "Beast",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "artist": "Stanley Lau",
+            "attack": 2,
+            "collectible": true,
+            "cost": 3,
+            "flavor": "Los druidas que pelearon largo tiempo en Rasganorte cayeron f\u00e1cilmente en las garras de Ragnaros... Una taza de chocolate caliente y todos vendidos.",
+            "health": 2,
+            "howToGet": "Desbloqueada por derrotar a Garr en el N\u00facleo de magma.",
+            "howToGetGold": "Se puede crear luego de derrotar a Garr en el N\u00facleo de magma.",
+            "id": "BRM_010",
+            "name": "Druida de la Llama",
+            "playerClass": "Druid",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Elige una opci\u00f3n:</b> Transf\u00f3rmala en un esbirro 5/2 o un esbirro 2/5.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Hideaki Takamura",
+            "attack": 2,
+            "cost": 3,
+            "health": 5,
+            "id": "BRM_010t2",
+            "name": "Druida de la Llama",
+            "playerClass": "Druid",
+            "race": "Beast",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA16_2",
+            "name": "Ecolocaci\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nEquipa un arma que crece a medida que tu adversario juega cartas.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA16_2H",
+            "name": "Ecolocaci\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nEquipa un arma que crece a medida que tu adversario juega cartas.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRMA15_2H",
+            "name": "El alquimista",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe pasivo</b>\nIntercambia el Ataque y la Salud de los esbirros.\nTus esbirros tienen +2/+2.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRMA15_2",
+            "name": "El alquimista",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe pasivo</b>\nCada vez que se invoca un esbirro, intercambia su Ataque y Salud.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA10_3",
+            "name": "El grajero",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nOtorga +1 de Salud a todos los Huevos corrompidos y luego invoca uno.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA10_3H",
+            "name": "El grajero",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nOtorga +1 de Salud a todos los Huevos corrompidos y luego invoca uno.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA06_2H",
+            "name": "El mayordomo",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Ac\u00f3lito despiertallamas 3/3.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA06_2",
+            "name": "El mayordomo",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Ac\u00f3lito despiertallamas 1/3.",
+            "type": "Hero Power"
+        },
+        {
+            "attack": 5,
+            "cost": 3,
+            "elite": true,
+            "health": 5,
+            "id": "BRMA14_7",
+            "mechanics": [
+                "Aura"
+            ],
+            "name": "Electr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Todos los hechizos cuestan (3) menos.",
+            "type": "Minion"
+        },
+        {
+            "attack": 6,
+            "cost": 3,
+            "elite": true,
+            "health": 6,
+            "id": "BRMA14_7H",
+            "name": "Electr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Todos los hechizos cuestan (3) menos.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA03_1",
+            "name": "Emperador Thaurissan",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Wayne Reynolds",
+            "attack": 5,
+            "collectible": true,
+            "cost": 6,
+            "elite": true,
+            "flavor": "Su segundo mayor arrepentimiento es haber invocado a un malvado Se\u00f1or del Fuego que esclaviz\u00f3 a todo su pueblo.",
+            "health": 5,
+            "howToGet": "Desbloqueada por completar las Profundidades de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar las Profundidades de Roca Negra.",
+            "id": "BRM_028",
+            "name": "Emperador Thaurissan",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Al final de tu turno, reduce en (1) el costo de las cartas en tu mano.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA03_1H",
+            "name": "Emperador Thaurissan",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Jim Nelson",
+            "collectible": true,
+            "cost": 2,
+            "flavor": "Si pensabas visitar Arroyo de la Luna, ser\u00e1 mejor que lleves compa\u00f1\u00eda.",
+            "howToGet": "Desbloqueada por superar la Arena Hierro Negro en las Profundidades de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de superar la Arena Hierro Negro en las Profundidades de Roca Negra.",
+            "id": "BRM_007",
+            "name": "En grupo",
+            "playerClass": "Rogue",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Elige un esbirro. Coloca 3 copias de \u00e9l en tu mazo.",
+            "type": "Spell"
+        },
+        {
+            "attack": 4,
+            "cost": 1,
+            "health": 2,
+            "id": "BRMA17_6H",
+            "name": "Ensamblaje osario",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 2,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA17_6",
+            "name": "Ensamblaje osario",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA17_5",
+            "name": "Esbirros \u00f3seos",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca dos Ensamblajes osarios 2/1.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA17_5H",
+            "name": "Esbirros \u00f3seos",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca dos Ensamblajes osarios 4/2.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA11_2",
+            "name": "Esencia del Vuelo Rojo",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nCada jugador roba 2 cartas.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA11_2H",
+            "name": "Esencia del Vuelo Rojo",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nCada jugador roba 3 cartas. Obtienes un cristal de man\u00e1.",
+            "type": "Hero Power"
+        },
+        {
+            "attack": 10,
+            "cost": 5,
+            "elite": true,
+            "health": 2,
+            "id": "BRMA14_12",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Faucemagma",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>",
+            "type": "Minion"
+        },
+        {
+            "id": "BRM_028e",
+            "name": "Favor imperial",
+            "set": "Blackrock Mountain",
+            "text": "Cuesta (1) menos.",
+            "type": "Enchantment"
+        },
+        {
+            "id": "BRM_010a",
+            "name": "Forma de felino de fuego",
+            "playerClass": "Druid",
+            "race": "Beast",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Se transforma en un esbirro 5/2.",
+            "type": "Spell"
+        },
+        {
+            "id": "BRM_010b",
+            "name": "Forma de halc\u00f3n de fuego",
+            "playerClass": "Druid",
+            "race": "Beast",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Se transforma en un esbirro 2/5.",
+            "type": "Spell"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA13_2",
+            "name": "Forma verdadera",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Que comiencen los juegos!",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA13_2H",
+            "name": "Forma verdadera",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\n\u00a1Que comiencen los juegos!",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRM_001e",
+            "mechanics": [
+                "OneTurnEffect"
+            ],
+            "name": "Fundici\u00f3n",
+            "playerClass": "Priest",
+            "set": "Blackrock Mountain",
+            "text": "Cambia el ataque a 0 por este turno.",
+            "type": "Enchantment"
+        },
+        {
+            "id": "BRM_014e",
+            "name": "Furibundo de poder",
+            "playerClass": "Hunter",
+            "set": "Blackrock Mountain",
+            "text": "+3/+3",
+            "type": "Enchantment"
+        },
+        {
+            "artist": "Jomaro Kindred",
+            "attack": 4,
+            "collectible": true,
+            "cost": 4,
+            "flavor": "No cualquier cazador se aventura a las profundidades de un foso de lava ardiente y convence al monstruo que vive all\u00ed para que se mude con \u00e9l y sea su perrito faldero.",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar al Alto se\u00f1or Omokk en la Cumbre de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de derrotar al Alto se\u00f1or Omokk en la Cumbre de Roca Negra.",
+            "id": "BRM_014",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Furibundo del N\u00facleo",
+            "playerClass": "Hunter",
+            "race": "Beast",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> Si tu mano est\u00e1 vac\u00eda, obtiene +3/+3.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA04_1",
+            "name": "Garr",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 45,
+            "id": "BRMA04_1H",
+            "name": "Garr",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "attack": 2,
+            "cost": 2,
+            "durability": 6,
+            "id": "BRMA17_9",
+            "name": "Garra de Onyxia",
+            "set": "Blackrock Mountain",
+            "type": "Weapon"
+        },
+        {
+            "id": "BRM_024e",
+            "name": "Garras afiladas",
+            "set": "Blackrock Mountain",
+            "text": "+3/+3.",
+            "type": "Enchantment"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "durability": 5,
+            "id": "BRMA10_6",
+            "name": "Garras de Sangrevaja",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que muere un Huevo corrompido, obtiene +1 de Ataque.",
+            "type": "Weapon"
+        },
+        {
+            "health": 50,
+            "id": "BRMA08_1H",
+            "name": "General Drakkisath",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 50,
+            "id": "BRMA08_1",
+            "name": "General Drakkisath",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA16_4",
+            "name": "Gong reverberante",
+            "set": "Blackrock Mountain",
+            "text": "Destruye el arma de tu adversario.",
+            "type": "Spell"
+        },
+        {
+            "attack": 4,
+            "cost": 6,
+            "health": 8,
+            "id": "BRMA01_3",
+            "name": "Gorila Hierro Negro",
+            "set": "Blackrock Mountain",
+            "text": "Gana todas las grescas.",
+            "type": "Minion"
+        },
+        {
+            "attack": 8,
+            "cost": 3,
+            "elite": true,
+            "health": 8,
+            "id": "BRMA09_5Ht",
+            "name": "Gyth",
+            "race": "Dragon",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "attack": 8,
+            "cost": 3,
+            "elite": true,
+            "health": 4,
+            "id": "BRMA09_5t",
+            "name": "Gyth",
+            "race": "Dragon",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "type": "Minion"
+        },
+        {
+            "artist": "Edouard Guiton & Stuido HIVE",
+            "attack": 3,
+            "collectible": true,
+            "cost": 4,
+            "flavor": "Los hechiceros dragonantes, \u00bferan drag\u00f3n antes?",
+            "health": 5,
+            "howToGet": "Desbloqueada por derrotar a Nefarian en el Laboratorio oculto.",
+            "howToGetGold": "Se puede crear luego de derrotar a Nefarian en el Laboratorio oculto.",
+            "id": "BRM_020",
+            "name": "Hechicero dragonante",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que usas un hechizo en este esbirro, obtiene +1/+1.",
+            "type": "Minion"
+        },
+        {
+            "attack": 6,
+            "cost": 0,
+            "health": 3,
+            "id": "BRMA13_5",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Hijo del fuego",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> inflige 6 de da\u00f1o.",
+            "type": "Minion"
+        },
+        {
+            "cost": 4,
+            "id": "BRMA07_3",
+            "name": "HORA DE APLASTAR",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $5 de da\u00f1o a un enemigo aleatorio. Obtiene 5 de Armadura.",
+            "type": "Spell"
+        },
+        {
+            "attack": 0,
+            "cost": 1,
+            "health": 3,
+            "id": "BRMA10_4H",
+            "name": "Huevo corrompido",
+            "set": "Blackrock Mountain",
+            "text": "Cuando este esbirro tiene 5 o m\u00e1s de Salud, eclosiona.",
+            "type": "Minion"
+        },
+        {
+            "attack": 0,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA10_4",
+            "name": "Huevo corrompido",
+            "set": "Blackrock Mountain",
+            "text": "Cuando este esbirro tiene 4 o m\u00e1s de Salud, eclosiona.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Jaemin Kim",
+            "attack": 0,
+            "collectible": true,
+            "cost": 1,
+            "flavor": "Consid\u00e9ralos municiones para tu pistola de drag\u00f3n.",
+            "health": 2,
+            "howToGet": "Desbloqueada por derrotar a Rend Pu\u00f1o Negro en la Cumbre de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de derrotar a Rend Pu\u00f1o Negro en la Cumbre de Roca Negra.",
+            "id": "BRM_022",
+            "name": "Huevo de drag\u00f3n",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que este esbirro recibe da\u00f1o, invoca una Cr\u00eda 2/1.",
+            "type": "Minion"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA05_2",
+            "name": "Ignici\u00f3n de man\u00e1",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 5 de da\u00f1o al h\u00e9roe enemigo si tiene cristales de man\u00e1 sin usar.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA05_2H",
+            "name": "Ignici\u00f3n de man\u00e1",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 10 de da\u00f1o al h\u00e9roe enemigo si tiene cristales de man\u00e1 sin usar.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRMA10_3e",
+            "name": "Incubaci\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "Salud aumentada.",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA09_6",
+            "name": "Jefe de Guerra verdadero",
+            "set": "Blackrock Mountain",
+            "text": "Destruye un esbirro legendario.",
+            "type": "Spell"
+        },
+        {
+            "attack": 0,
+            "cost": 0,
+            "health": 5,
+            "id": "BRMA04_3",
+            "mechanics": [
+                "Deathrattle"
+            ],
+            "name": "Jurafuegos",
+            "set": "Blackrock Mountain",
+            "text": "<b>Estertor:</b> inflige 1 de da\u00f1o al h\u00e9roe enemigo por cada Jurafuegos que haya muerto este turno.",
+            "type": "Minion"
+        },
+        {
+            "attack": 0,
+            "cost": 0,
+            "health": 5,
+            "id": "BRMA04_3H",
+            "mechanics": [
+                "Deathrattle"
+            ],
+            "name": "Jurafuegos",
+            "set": "Blackrock Mountain",
+            "text": "<b>Estertor:</b> inflige 3 de da\u00f1o al h\u00e9roe enemigo por cada Jurafuegos que haya muerto este turno.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Efrem Palacios",
+            "attack": 2,
+            "collectible": true,
+            "cost": 4,
+            "flavor": "Antes no era m\u00e1s que un simple \"Lanzador de ramas\", pero ahora nada lo detendr\u00e1 hasta lograr su sue\u00f1o: \"Lanzador de Tauren\".",
+            "health": 5,
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Guerrero en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Guerrero en Monta\u00f1a Roca Negra.",
+            "id": "BRM_016",
+            "name": "Lanzador de hachas",
+            "playerClass": "Warrior",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que este esbirro recibe da\u00f1o, inflige 2 de da\u00f1o al h\u00e9roe enemigo.",
+            "type": "Minion"
+        },
+        {
+            "attack": 6,
+            "cost": 0,
+            "health": 6,
+            "id": "BRMA13_6",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Lava viviente",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA13_1",
+            "name": "Lord Victor Nefarius",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA13_1H",
+            "name": "Lord Victor Nefarius",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA13_4",
+            "name": "Magia salvaje",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nColoca un hechizo aleatorio de la clase de tu adversario en tu mano.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA13_4H",
+            "name": "Magia salvaje",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nColoca un hechizo aleatorio de la clase de tu adversario en tu mano.",
+            "type": "Hero Power"
+        },
+        {
+            "attack": 7,
+            "cost": 5,
+            "elite": true,
+            "health": 7,
+            "id": "BRMA14_9",
+            "mechanics": [
+                "Aura"
+            ],
+            "name": "Magmatr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que un jugador juega una carta, Magmatr\u00f3n le inflige 2 de da\u00f1o al h\u00e9roe.",
+            "type": "Minion"
+        },
+        {
+            "attack": 8,
+            "cost": 5,
+            "elite": true,
+            "health": 8,
+            "id": "BRMA14_9H",
+            "name": "Magmatr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que un jugador juega una carta, Magmatr\u00f3n le inflige 2 de da\u00f1o al h\u00e9roe.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA15_1",
+            "name": "Maloriak",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA15_1H",
+            "name": "Maloriak",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Alex Horley Orlandelli",
+            "attack": 9,
+            "collectible": true,
+            "cost": 9,
+            "elite": true,
+            "flavor": "Cre\u00edste que Executus te hab\u00eda transformado en Ragnaros, pero en realidad Ragnaros siempre estuvo en tu interior.",
+            "health": 7,
+            "howToGet": "Desbloqueada por completar el N\u00facleo de magma.",
+            "howToGetGold": "Se puede crear luego de completar el N\u00facleo de magma.",
+            "id": "BRM_027",
+            "mechanics": [
+                "Deathrattle"
+            ],
+            "name": "Mayordomo Executus",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "<b>Estertor:</b> reemplaza a tu h\u00e9roe con Ragnaros, el Se\u00f1or del Fuego.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA06_1",
+            "name": "Mayordomo Executus",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA06_1H",
+            "name": "Mayordomo Executus",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "id": "BRMA08_2H",
+            "name": "Mirada penetrante",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe pasivo</b>\nTodas las cartas cuestan (1). T\u00fa no puedes tener m\u00e1s de 2 cristales de man\u00e1, ni tu adversario m\u00e1s de 1.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRMA08_2",
+            "name": "Mirada penetrante",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe pasivo</b>\nTodas las cartas cuestan (1). Los jugadores no pueden tener m\u00e1s de 1 cristal de man\u00e1.",
+            "type": "Hero Power"
+        },
+        {
+            "attack": 1,
+            "cost": 2,
+            "health": 3,
+            "id": "BRMA03_3",
+            "mechanics": [
+                "Aura"
+            ],
+            "name": "Moira Barbabronce",
+            "set": "Blackrock Mountain",
+            "text": "Solo ataca a los esbirros con <b>Provocaci\u00f3n</b>.\nEvita que Thaurissan use su poder de h\u00e9roe.",
+            "type": "Minion"
+        },
+        {
+            "attack": 3,
+            "cost": 2,
+            "health": 1,
+            "id": "BRMA03_3H",
+            "mechanics": [
+                "Aura"
+            ],
+            "name": "Moira Barbabronce",
+            "set": "Blackrock Mountain",
+            "text": "Solo ataca a los esbirros con <b>Provocaci\u00f3n</b>.\nEvita que Thaurissan use su poder de h\u00e9roe.",
+            "type": "Minion"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA12_10",
+            "name": "Mutaci\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nDescarta una carta aleatoria.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA12_8",
+            "name": "Mutaci\u00f3n crom\u00e1tica",
+            "set": "Blackrock Mountain",
+            "text": "Transforma a un esbirro en un Dragonante crom\u00e1tico 2/2.",
+            "type": "Spell"
+        },
+        {
+            "health": 30,
+            "id": "BRMA13_3H",
+            "name": "Nefarian",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Ruan Jia",
+            "attack": 8,
+            "collectible": true,
+            "cost": 9,
+            "elite": true,
+            "flavor": "Lo llaman \"Alanegra\" porque es un gran drag\u00f3n negro... y tiene alas.",
+            "health": 8,
+            "howToGet": "\u00a1Desbloqueada por derrotar a todos los jefes de Monta\u00f1a Roca Negra!",
+            "howToGetGold": "Se puede crear luego de completar el Laboratorio oculto.",
+            "id": "BRM_030",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Nefarian",
+            "race": "Dragon",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> agrega 2 hechizos aleatorios a tu mano <i>(de la clase de tu adversario)</i>.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA17_2H",
+            "name": "Nefarian",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA17_2",
+            "name": "Nefarian",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMC_02",
+            "name": "Nefarian",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA13_3",
+            "name": "Nefarian",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA02_2t",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Observador Hierro Negro",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>.",
+            "type": "Minion"
+        },
+        {
+            "health": 15,
+            "id": "BRMA17_3",
+            "name": "Onyxia",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA17_3H",
+            "name": "Onyxia",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "attack": 2,
+            "cost": 1,
+            "health": 2,
+            "id": "BRMA09_3Ht",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Orco de la vieja Horda",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>",
+            "type": "Minion"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA09_3t",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Orco de la vieja Horda",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>",
+            "type": "Minion"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA08_3",
+            "name": "\u00d3rdenes de Drakkisath",
+            "set": "Blackrock Mountain",
+            "text": "Destruye un esbirro. Obtienes 10 de Armadura.",
+            "type": "Spell"
+        },
+        {
+            "artist": "Bobby Chiu",
+            "attack": 3,
+            "collectible": true,
+            "cost": 5,
+            "flavor": "Si te gusta recibir golpes en la cara, \u00a1ven al Tragapenas!",
+            "health": 3,
+            "howToGet": "Desbloqueada por superar el Tragapenas en las Profundidades de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de superar al Tragapenas en las Profundidades de Roca Negra.",
+            "id": "BRM_019",
+            "name": "Parroquiano l\u00fagubre",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Cada vez que este esbirro sobrevive al da\u00f1o recibido, invoca a otro Parroquiano l\u00fagubre.",
+            "type": "Minion"
+        },
+        {
+            "id": "BRMA15_2He",
+            "name": "Poci\u00f3n de poder\u00edo",
+            "set": "Blackrock Mountain",
+            "text": "+2/+2.",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA03_2",
+            "name": "Poder del Se\u00f1or del Fuego",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 30 de da\u00f1o.",
+            "type": "Hero Power"
+        },
+        {
+            "id": "BRM_020e",
+            "name": "Poder drac\u00f3nico",
+            "set": "Blackrock Mountain",
+            "text": "Estad\u00edsticas aumentadas.",
+            "type": "Enchantment"
+        },
+        {
+            "id": "BRM_003e",
+            "mechanics": [
+                "OneTurnEffect"
+            ],
+            "name": "Poder\u00edo de drag\u00f3n",
+            "playerClass": "Mage",
+            "set": "Blackrock Mountain",
+            "text": "Cuesta (3) menos en este turno.",
+            "type": "Enchantment"
+        },
+        {
+            "attack": 1,
+            "cost": 2,
+            "health": 4,
+            "id": "BRMA17_7",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Prototipo crom\u00e1tico",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>",
+            "type": "Minion"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA02_2",
+            "name": "P\u00fablico dif\u00edcil",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Observador 1/1 con <b>Provocaci\u00f3n</b>.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA02_2H",
+            "name": "P\u00fablico dif\u00edcil",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca un Observador 1/1 con <b>Provocaci\u00f3n</b>.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 1,
+            "id": "BRMA04_2",
+            "name": "Pulso magm\u00e1tico",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInflige 1 de da\u00f1o a todos los esbirros.",
+            "type": "Hero Power"
+        },
+        {
+            "health": 30,
+            "id": "BRMC_01",
+            "name": "Ragnaros el Se\u00f1or del Fuego",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA06_3H",
+            "name": "Ragnaros el Se\u00f1or del Fuego",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 8,
+            "id": "BRMA06_3",
+            "name": "Ragnaros el Se\u00f1or del Fuego",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 8,
+            "id": "BRM_027h",
+            "name": "Ragnaros el Se\u00f1or del Fuego",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "cost": 0,
+            "id": "BRMA14_11",
+            "name": "Recarga",
+            "set": "Blackrock Mountain",
+            "text": "Carga todos los cristales de man\u00e1 vac\u00edos.",
+            "type": "Spell"
+        },
+        {
+            "attack": 4,
+            "cost": 0,
+            "health": 5,
+            "id": "BRMA13_7",
+            "mechanics": [
+                "Windfury"
+            ],
+            "name": "Remolino de cenizas",
+            "set": "Blackrock Mountain",
+            "text": "<b>Viento furioso</b>",
+            "type": "Minion"
+        },
+        {
+            "artist": "Alex Horley",
+            "attack": 8,
+            "collectible": true,
+            "cost": 7,
+            "elite": true,
+            "flavor": "Rend cree que es el verdadero Jefe de guerra de la Horda y vive editando la p\u00e1gina de wikipedia de \"Jefe de guerra de la Horda\" para que muestre su imagen.",
+            "health": 4,
+            "howToGet": "Desbloqueada por completar la Cumbre de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar la Cumbre de Roca Negra.",
+            "id": "BRM_029",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Rend Pu\u00f1o Negro",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> si tienes un Drag\u00f3n en tu mano, destruye un esbirro <b>Legendario</b>.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA09_1H",
+            "name": "Rend Pu\u00f1o Negro",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA09_1",
+            "name": "Rend Pu\u00f1o Negro",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "id": "BRM_004e",
+            "name": "Resistencia crepuscular",
+            "set": "Blackrock Mountain",
+            "text": "Salud aumentada.",
+            "type": "Enchantment"
+        },
+        {
+            "artist": "Luke Mancini",
+            "collectible": true,
+            "cost": 2,
+            "flavor": "Entr\u00e9 al calabozo y vi a un aventurero muerto. Con sus \u00faltimas fuerzas, garabate\u00f3 un mensaje en el polvo de la pared a su lado. Dos palabras: \"rez porfa\".",
+            "howToGet": "Desbloqueada por derrotar al Emperador Thaurissan en las Profundidades de Roca Negra.",
+            "howToGetGold": "Se puede crear luego de derrotar al Emperador Thaurissan en las Profundidades de Roca Negra.",
+            "id": "BRM_017",
+            "name": "Resurrecci\u00f3n",
+            "playerClass": "Priest",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Invoca a un esbirro aliado aleatorio que haya muerto en esta partida.",
+            "type": "Spell"
+        },
+        {
+            "artist": "Ben Olson",
+            "collectible": true,
+            "cost": 2,
+            "flavor": "\u00a1Esto es mejor que Deflagraci\u00f3n arcana! Parece que por fin los guerreros les est\u00e1n cobrando a los magos la imperdonable traici\u00f3n de que Golpe mortal fuera peor que Bola de fuego.",
+            "howToGet": "Desbloqueada por derrotar a Sangrevaja en la Guarida de Alanegra.",
+            "howToGetGold": "Se puede crear luego de derrotar a Sangrevaja en la Guarida de Alanegra.",
+            "id": "BRM_015",
+            "name": "Revancha",
+            "playerClass": "Warrior",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "Inflige $1 de da\u00f1o a todos los esbirros. Si tienes 12 o menos de Salud, inflige $3 de da\u00f1o.",
+            "type": "Spell"
+        },
+        {
+            "id": "BRM_033e",
+            "name": "Sangre de drag\u00f3n",
+            "set": "Blackrock Mountain",
+            "text": "+1/+1",
+            "type": "Enchantment"
+        },
+        {
+            "health": 30,
+            "id": "BRMA10_1",
+            "name": "Sangrevaja el Indomable",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA10_1H",
+            "name": "Sangrevaja el Indomable",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA14_1",
+            "name": "Sistema de Defensa de Omnitr\u00f3n",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA14_1H",
+            "name": "Sistema de Defensa de Omnitr\u00f3n",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "id": "BRMA16_5e",
+            "name": "Te oigo...",
+            "set": "Blackrock Mountain",
+            "text": "Ataque aumentado.",
+            "type": "Enchantment"
+        },
+        {
+            "artist": "Matt Dixon",
+            "attack": 2,
+            "collectible": true,
+            "cost": 3,
+            "faction": "Neutral",
+            "flavor": "Ella es la persona indicada cuando tu Alanegra necesita alg\u00fan ajuste. \u00a1Que no te enga\u00f1en con repuestos baratos de mala calidad!",
+            "health": 4,
+            "howToGet": "Desbloqueada por derrotar al Bar\u00f3n Geddon en el N\u00facleo de magma.",
+            "howToGetGold": "Se puede crear luego de derrotar al Bar\u00f3n Geddon en el N\u00facleo de magma.",
+            "id": "BRM_033",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "T\u00e9cnica de Alanegra",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> si tienes un Drag\u00f3n en tu mano, obtiene +1/+1.",
+            "type": "Minion"
+        },
+        {
+            "attack": 4,
+            "cost": 1,
+            "elite": true,
+            "health": 4,
+            "id": "BRMA14_5H",
+            "name": "Toxitr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Al comienzo de tu turno, inflige 1 de da\u00f1o a todos los dem\u00e1s esbirros.",
+            "type": "Minion"
+        },
+        {
+            "attack": 3,
+            "cost": 1,
+            "elite": true,
+            "health": 3,
+            "id": "BRMA14_5",
+            "name": "Toxitr\u00f3n",
+            "race": "Mech",
+            "rarity": "Legendary",
+            "set": "Blackrock Mountain",
+            "text": "Al comienzo de tu turno, inflige 1 de da\u00f1o a todos los dem\u00e1s esbirros.",
+            "type": "Minion"
+        },
+        {
+            "artist": "Slawomir Maniak",
+            "attack": 6,
+            "collectible": true,
+            "cost": 6,
+            "flavor": "Cuando se cre\u00f3 a los drac\u00f3nidos, se puso todo lo malo de los dragones en la forma de un humanoide. Nunca se supo bien por qu\u00e9...",
+            "health": 6,
+            "howToGet": "Desbloqueada por derrotar a Atramedes en el Laboratorio oculto.",
+            "howToGetGold": "Se puede crear luego de derrotar a Atramedes en el Laboratorio oculto.",
+            "id": "BRM_024",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Triturador drac\u00f3nido",
+            "race": "Dragon",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> si tu adversario tiene 15 o menos de Salud, obtiene +3/+3.",
+            "type": "Minion"
+        },
+        {
+            "health": 30,
+            "id": "BRMA11_1H",
+            "name": "Vaelastrasz el Corrupto",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "health": 30,
+            "id": "BRMA11_1",
+            "name": "Vaelastrasz el Corrupto",
+            "set": "Blackrock Mountain",
+            "type": "Hero"
+        },
+        {
+            "artist": "Eric Braddock",
+            "attack": 4,
+            "collectible": true,
+            "cost": 5,
+            "flavor": "Le encanta vagar por ah\u00ed. Se queda vagando despu\u00e9s de hora solo por diversi\u00f3n, pero sus amigos est\u00e1n preocupados de que termine con un pico de estr\u00e9s.",
+            "health": 3,
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase P\u00edcaro en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase P\u00edcaro en Monta\u00f1a Roca Negra.",
+            "id": "BRM_008",
+            "mechanics": [
+                "Battlecry"
+            ],
+            "name": "Vagador Hierro Negro",
+            "playerClass": "Rogue",
+            "rarity": "Rare",
+            "set": "Blackrock Mountain",
+            "text": "<b>Grito de batalla:</b> inflige 2 de da\u00f1o a todos los esbirros enemigos que no hayan recibido da\u00f1o.",
+            "type": "Minion"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA09_3H",
+            "name": "Vieja Horda",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca dos Orcos 2/2 con <b>Provocaci\u00f3n</b>. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "cost": 2,
+            "id": "BRMA09_3",
+            "name": "Vieja Horda",
+            "set": "Blackrock Mountain",
+            "text": "<b>Poder de h\u00e9roe</b>\nInvoca dos Orcos 1/1 con <b>Provocaci\u00f3n</b>. Obtiene un nuevo Poder de h\u00e9roe.",
+            "type": "Hero Power"
+        },
+        {
+            "artist": "Jaime Jones",
+            "collectible": true,
+            "cost": 5,
+            "flavor": "Todos los a\u00f1os, la gente se re\u00fane frente a la Monta\u00f1a Roca Negra para llorar a quienes cayeron a la lava, v\u00edctimas del control mental.",
+            "howToGet": "Desbloqueada por completar el desaf\u00edo de clase Palad\u00edn en Monta\u00f1a Roca Negra.",
+            "howToGetGold": "Se puede crear luego de completar el desaf\u00edo de clase Palad\u00edn en Monta\u00f1a Roca Negra.",
+            "id": "BRM_001",
+            "name": "Vigilia solemne",
+            "playerClass": "Paladin",
+            "rarity": "Common",
+            "set": "Blackrock Mountain",
+            "text": "Roba 2 cartas. Cuesta (1) menos por cada esbirro que haya muerto en este turno.",
+            "type": "Spell"
+        },
+        {
+            "attack": 1,
+            "cost": 1,
+            "health": 1,
+            "id": "BRMA01_4t",
+            "mechanics": [
+                "Taunt"
+            ],
+            "name": "Voraz",
+            "set": "Blackrock Mountain",
+            "text": "<b>Provocaci\u00f3n</b>.",
+            "type": "Minion"
+        }
+    ],
     "Classic": [
         {
             "id": "NEW1_027e",
@@ -3259,13 +5472,6 @@
             "set": "Classic",
             "text": "Cada vez que lanzas un hechizo, obtiene +2 de Ataque en este turno.",
             "type": "Minion"
-        },
-        {
-            "id": "CS2_146o",
-            "name": "Afilado",
-            "set": "Classic",
-            "text": "+1 de Durabilidad.",
-            "type": "Enchantment"
         },
         {
             "artist": "Chris Moeller",
@@ -4347,7 +6553,7 @@
             "playerClass": "Paladin",
             "rarity": "Epic",
             "set": "Classic",
-            "text": "Inflige $8 de da\u00f1o dividido aleatoriamente entre los personajes enemigos.",
+            "text": "Inflige $8 de da\u00f1o dividido aleatoriamente entre todos los enemigos.",
             "type": "Spell"
         },
         {
@@ -4838,6 +7044,17 @@
             "type": "Spell"
         },
         {
+            "attack": 1,
+            "cost": 0,
+            "health": 3,
+            "id": "tt_010a",
+            "name": "Dominahechizos",
+            "playerClass": "Mage",
+            "rarity": "Epic",
+            "set": "Classic",
+            "type": "Minion"
+        },
+        {
             "artist": "Gonzalo Ordonez",
             "collectible": true,
             "cost": 3,
@@ -4853,17 +7070,6 @@
             "set": "Classic",
             "text": "<b>Secreto:</b> cuando un enemigo lanza un hechizo sobre un esbirro, invoca un esbirro 1/3 como el nuevo objetivo.",
             "type": "Spell"
-        },
-        {
-            "attack": 1,
-            "cost": 0,
-            "health": 3,
-            "id": "tt_010a",
-            "name": "Dominahechizos",
-            "playerClass": "Mage",
-            "rarity": "Epic",
-            "set": "Classic",
-            "type": "Minion"
         },
         {
             "artist": "Ben Zhang",
@@ -5185,6 +7391,14 @@
             "type": "Enchantment"
         },
         {
+            "id": "EX1_178ae",
+            "name": "Enraizado",
+            "playerClass": "Druid",
+            "set": "Classic",
+            "text": "+5 de Salud y <b>Provocaci\u00f3n</b>.",
+            "type": "Enchantment"
+        },
+        {
             "faction": "Neutral",
             "id": "EX1_178a",
             "name": "Enraizado",
@@ -5192,14 +7406,6 @@
             "set": "Classic",
             "text": "+5 de Salud y <b>Provocaci\u00f3n</b>.",
             "type": "Spell"
-        },
-        {
-            "id": "EX1_178ae",
-            "name": "Enraizado",
-            "playerClass": "Druid",
-            "set": "Classic",
-            "text": "+5 de Salud y <b>Provocaci\u00f3n</b>.",
-            "type": "Enchantment"
         },
         {
             "id": "NEW1_008a",
@@ -5304,14 +7510,6 @@
             "type": "Weapon"
         },
         {
-            "id": "CS2_038e",
-            "name": "Esp\u00edritu ancestral",
-            "playerClass": "Shaman",
-            "set": "Classic",
-            "text": "<b>Estertor:</b> reinvoca a este esbirro.",
-            "type": "Enchantment"
-        },
-        {
             "artist": "Zoltan & Gabor",
             "collectible": true,
             "cost": 2,
@@ -5324,6 +7522,14 @@
             "set": "Classic",
             "text": "Otorga \"<b>Estertor:</b> reinvoca a este esbirro\" a un esbirro.",
             "type": "Spell"
+        },
+        {
+            "id": "CS2_038e",
+            "name": "Esp\u00edritu ancestral",
+            "playerClass": "Shaman",
+            "set": "Classic",
+            "text": "<b>Estertor:</b> reinvoca a este esbirro.",
+            "type": "Enchantment"
         },
         {
             "attack": 2,
@@ -5374,21 +7580,21 @@
         },
         {
             "faction": "Neutral",
-            "id": "EX1_573a",
-            "name": "Favor de semidi\u00f3s",
-            "playerClass": "Druid",
-            "set": "Classic",
-            "text": "Otorga +2/+2 a tus otros esbirros.",
-            "type": "Spell"
-        },
-        {
-            "faction": "Neutral",
             "id": "EX1_573ae",
             "name": "Favor de semidi\u00f3s",
             "playerClass": "Druid",
             "set": "Classic",
             "text": "+2/+2.",
             "type": "Enchantment"
+        },
+        {
+            "faction": "Neutral",
+            "id": "EX1_573a",
+            "name": "Favor de semidi\u00f3s",
+            "playerClass": "Druid",
+            "set": "Classic",
+            "text": "Otorga +2/+2 a tus otros esbirros.",
+            "type": "Spell"
         },
         {
             "artist": "Lucas Graciano",
@@ -5549,6 +7755,14 @@
             "type": "Minion"
         },
         {
+            "id": "CS1_129e",
+            "name": "Fuego interno",
+            "playerClass": "Priest",
+            "set": "Classic",
+            "text": "El Ataque de este esbirro es equivalente a su Salud.",
+            "type": "Enchantment"
+        },
+        {
             "artist": "Steve Prescott",
             "collectible": true,
             "cost": 1,
@@ -5561,14 +7775,6 @@
             "set": "Classic",
             "text": "Cambia el Ataque de un esbirro para que sea equivalente a su Salud.",
             "type": "Spell"
-        },
-        {
-            "id": "CS1_129e",
-            "name": "Fuego interno",
-            "playerClass": "Priest",
-            "set": "Classic",
-            "text": "El Ataque de este esbirro es equivalente a su Salud.",
-            "type": "Enchantment"
         },
         {
             "faction": "Neutral",
@@ -6129,6 +8335,14 @@
             "type": "Minion"
         },
         {
+            "id": "EX1_619e",
+            "name": "Igualdad",
+            "playerClass": "Paladin",
+            "set": "Classic",
+            "text": "Salud cambiada a 1.",
+            "type": "Enchantment"
+        },
+        {
             "artist": "Michal Ivan",
             "collectible": true,
             "cost": 2,
@@ -6141,14 +8355,6 @@
             "set": "Classic",
             "text": "Cambia la Salud de TODOS los esbirros a 1.",
             "type": "Spell"
-        },
-        {
-            "id": "EX1_619e",
-            "name": "Igualdad",
-            "playerClass": "Paladin",
-            "set": "Classic",
-            "text": "Salud cambiada a 1.",
-            "type": "Enchantment"
         },
         {
             "artist": "Alex Horley Orlandelli",
@@ -6554,6 +8760,14 @@
             "type": "Minion"
         },
         {
+            "id": "EX1_334e",
+            "name": "Locura sombr\u00eda",
+            "playerClass": "Priest",
+            "set": "Classic",
+            "text": "Este esbirro ha cambiado de controlador en este turno.",
+            "type": "Enchantment"
+        },
+        {
             "artist": "Mark Gibbons",
             "collectible": true,
             "cost": 4,
@@ -6871,14 +9085,6 @@
             "type": "Enchantment"
         },
         {
-            "id": "EX1_155ae",
-            "name": "Marca de la naturaleza",
-            "playerClass": "Druid",
-            "set": "Classic",
-            "text": "Este esbirro tiene +4 de Ataque.",
-            "type": "Enchantment"
-        },
-        {
             "faction": "Neutral",
             "id": "EX1_155a",
             "name": "Marca de la naturaleza",
@@ -6886,6 +9092,14 @@
             "set": "Classic",
             "text": "+4 de Ataque.",
             "type": "Spell"
+        },
+        {
+            "id": "EX1_155be",
+            "name": "Marca de la naturaleza",
+            "playerClass": "Druid",
+            "set": "Classic",
+            "text": "Este esbirro tiene +4 de Salud y <b>Provocaci\u00f3n</b>.",
+            "type": "Enchantment"
         },
         {
             "artist": "Clint Langley",
@@ -6911,11 +9125,11 @@
             "type": "Spell"
         },
         {
-            "id": "EX1_155be",
+            "id": "EX1_155ae",
             "name": "Marca de la naturaleza",
             "playerClass": "Druid",
             "set": "Classic",
-            "text": "Este esbirro tiene +4 de Salud y <b>Provocaci\u00f3n</b>.",
+            "text": "Este esbirro tiene +4 de Ataque.",
             "type": "Enchantment"
         },
         {
@@ -7007,16 +9221,6 @@
             "type": "Minion"
         },
         {
-            "id": "EX1_570e",
-            "mechanics": [
-                "OneTurnEffect"
-            ],
-            "name": "Mordedura",
-            "set": "Classic",
-            "text": "+4 de Ataque en este turno.",
-            "type": "Enchantment"
-        },
-        {
             "artist": "Tom Baxa",
             "collectible": true,
             "cost": 4,
@@ -7029,6 +9233,16 @@
             "set": "Classic",
             "text": "Otorga a tu h\u00e9roe +4 de Ataque en este turno y 4 de Armadura.",
             "type": "Spell"
+        },
+        {
+            "id": "EX1_570e",
+            "mechanics": [
+                "OneTurnEffect"
+            ],
+            "name": "Mordedura",
+            "set": "Classic",
+            "text": "+4 de Ataque en este turno.",
+            "type": "Enchantment"
         },
         {
             "id": "EX1_103e",
@@ -7103,6 +9317,20 @@
             "type": "Minion"
         },
         {
+            "artist": "Terese Nielsen",
+            "collectible": true,
+            "cost": 5,
+            "faction": "Neutral",
+            "flavor": "Los druidas se nutren de distintas cosas: el poder de la naturaleza, el canto de las aves, un pastel de chocolate...",
+            "id": "EX1_164",
+            "name": "Nutrir",
+            "playerClass": "Druid",
+            "rarity": "Rare",
+            "set": "Classic",
+            "text": "<b>Elige una opci\u00f3n:</b> obt\u00e9n 2 Cristales de man\u00e1 o roba 3 cartas.",
+            "type": "Spell"
+        },
+        {
             "faction": "Neutral",
             "id": "EX1_164b",
             "name": "Nutrir",
@@ -7118,20 +9346,6 @@
             "playerClass": "Druid",
             "set": "Classic",
             "text": "Obtienes 2 Cristales de man\u00e1.",
-            "type": "Spell"
-        },
-        {
-            "artist": "Terese Nielsen",
-            "collectible": true,
-            "cost": 5,
-            "faction": "Neutral",
-            "flavor": "Los druidas se nutren de distintas cosas: el poder de la naturaleza, el canto de las aves, un pastel de chocolate...",
-            "id": "EX1_164",
-            "name": "Nutrir",
-            "playerClass": "Druid",
-            "rarity": "Rare",
-            "set": "Classic",
-            "text": "<b>Elige una opci\u00f3n:</b> obt\u00e9n 2 Cristales de man\u00e1 o roba 3 cartas.",
             "type": "Spell"
         },
         {
@@ -7217,14 +9431,6 @@
             "name": "Orden de Verdetez",
             "set": "Classic",
             "text": "+1/+1.",
-            "type": "Enchantment"
-        },
-        {
-            "id": "EX1_334e",
-            "name": "Orden oscura",
-            "playerClass": "Priest",
-            "set": "Classic",
-            "text": "Este esbirro ha cambiado de controlador en este turno.",
             "type": "Enchantment"
         },
         {
@@ -7331,13 +9537,6 @@
             "type": "Spell"
         },
         {
-            "id": "DREAM_05e",
-            "name": "Pesadilla",
-            "set": "Classic",
-            "text": "Este esbirro tiene +5/+5, pero pronto ser\u00e1 destruido.",
-            "type": "Enchantment"
-        },
-        {
             "cost": 0,
             "id": "DREAM_05",
             "name": "Pesadilla",
@@ -7345,6 +9544,13 @@
             "set": "Classic",
             "text": "Otorga +5/+5 a un esbirro. Al comienzo de tu pr\u00f3ximo turno, destr\u00fayelo.",
             "type": "Spell"
+        },
+        {
+            "id": "DREAM_05e",
+            "name": "Pesadilla",
+            "set": "Classic",
+            "text": "Este esbirro tiene +5/+5, pero pronto ser\u00e1 destruido.",
+            "type": "Enchantment"
         },
         {
             "artist": "Luca Zontini",
@@ -7400,6 +9606,15 @@
             "type": "Enchantment"
         },
         {
+            "faction": "Neutral",
+            "id": "EX1_316e",
+            "name": "Poder sobrecogedor",
+            "playerClass": "Warlock",
+            "set": "Classic",
+            "text": "Este esbirro tiene +4/+4, pero morir\u00e1 horriblemente al final del turno.",
+            "type": "Enchantment"
+        },
+        {
             "artist": "Tom Baxa",
             "collectible": true,
             "cost": 1,
@@ -7412,15 +9627,6 @@
             "set": "Classic",
             "text": "Otorga +4/+4 a un esbirro aliado hasta el final del turno. Luego muere. De una forma horrible.",
             "type": "Spell"
-        },
-        {
-            "faction": "Neutral",
-            "id": "EX1_316e",
-            "name": "Poder sobrecogedor",
-            "playerClass": "Warlock",
-            "set": "Classic",
-            "text": "Este esbirro tiene +4/+4, pero morir\u00e1 horriblemente al final del turno.",
-            "type": "Enchantment"
         },
         {
             "artist": "Mike Sass",
@@ -7810,17 +10016,6 @@
             "type": "Minion"
         },
         {
-            "id": "EX1_161o",
-            "mechanics": [
-                "OneTurnEffect"
-            ],
-            "name": "Rugido desmoralizador",
-            "playerClass": "Druid",
-            "set": "Classic",
-            "text": "Este esbirro tiene -3 de Ataque en este turno.",
-            "type": "Enchantment"
-        },
-        {
             "attack": 1,
             "cost": 1,
             "health": 1,
@@ -7940,6 +10135,22 @@
             "type": "Spell"
         },
         {
+            "id": "CS2_073e",
+            "name": "Sangre fr\u00eda",
+            "playerClass": "Rogue",
+            "set": "Classic",
+            "text": "+2 de Ataque.",
+            "type": "Enchantment"
+        },
+        {
+            "id": "CS2_073e2",
+            "name": "Sangre fr\u00eda",
+            "playerClass": "Rogue",
+            "set": "Classic",
+            "text": "+4 de Ataque.",
+            "type": "Enchantment"
+        },
+        {
             "artist": "Alex Horley Orlandelli",
             "collectible": true,
             "cost": 1,
@@ -7955,22 +10166,6 @@
             "set": "Classic",
             "text": "Otorga +2 de Ataque a un esbirro. <b>Combo:</b> +4 de Ataque.",
             "type": "Spell"
-        },
-        {
-            "id": "CS2_073e",
-            "name": "Sangre fr\u00eda",
-            "playerClass": "Rogue",
-            "set": "Classic",
-            "text": "+2 de Ataque.",
-            "type": "Enchantment"
-        },
-        {
-            "id": "CS2_073e2",
-            "name": "Sangre fr\u00eda",
-            "playerClass": "Rogue",
-            "set": "Classic",
-            "text": "+4 de Ataque.",
-            "type": "Enchantment"
         },
         {
             "artist": "Luca Zontini",
@@ -8532,15 +10727,6 @@
         },
         {
             "artist": "Lars Grant-West",
-            "id": "CS2_053e",
-            "name": "Visi\u00f3n lejana",
-            "playerClass": "Shaman",
-            "set": "Classic",
-            "text": "Una de tus cartas cuesta (3) menos.",
-            "type": "Enchantment"
-        },
-        {
-            "artist": "Lars Grant-West",
             "collectible": true,
             "cost": 3,
             "faction": "Neutral",
@@ -8552,6 +10738,15 @@
             "set": "Classic",
             "text": "Roba una carta. Esa carta cuesta (3) menos.",
             "type": "Spell"
+        },
+        {
+            "artist": "Lars Grant-West",
+            "id": "CS2_053e",
+            "name": "Visi\u00f3n lejana",
+            "playerClass": "Shaman",
+            "set": "Classic",
+            "text": "Una de tus cartas cuesta (3) menos.",
+            "type": "Enchantment"
         },
         {
             "artist": "Gabor Szikszai",
@@ -8567,7 +10762,7 @@
             "race": "Dragon",
             "rarity": "Legendary",
             "set": "Classic",
-            "text": "Al final de tu turno, roba una carta de Sue\u00f1o.",
+            "text": "Al final de tu turno, agrega una carta on\u00edrica a tu mano.",
             "type": "Minion"
         }
     ],
@@ -9759,7 +11954,7 @@
             "collectible": true,
             "cost": 8,
             "elite": true,
-            "flavor": "Kel'Thuzad no pudo resistirse al llamado del Rey Ex\u00e1nime. Y eso que era solo un mensaje grabado.",
+            "flavor": "Kel'Thuzad no pudo resistirse al llamado del Rey Ex\u00e1nime. Y eso que era un simple mensaje grabado.",
             "health": 8,
             "howToGet": "\u00a1Desbloqueada por derrotar a todos los jefes de Naxxramas!",
             "howToGetGold": "Se puede crear luego de derrotar a todos los jefes de Naxxramas.",
@@ -10505,10 +12700,12 @@
     ],
     "Debug": [
         {
-            "id": "XXX_028",
+            "cost": 0,
+            "id": "XXX_030",
             "name": "",
             "rarity": "Common",
             "set": "Debug",
+            "text": "",
             "type": "Spell"
         },
         {
@@ -10768,15 +12965,10 @@
             "type": "Spell"
         },
         {
-            "cost": 0,
-            "id": "XXX_002",
-            "mechanics": [
-                "ImmuneToSpellpower"
-            ],
+            "id": "XXX_028",
             "name": "",
             "rarity": "Common",
             "set": "Debug",
-            "text": "",
             "type": "Spell"
         },
         {
@@ -10789,7 +12981,10 @@
         },
         {
             "cost": 0,
-            "id": "XXX_030",
+            "id": "XXX_002",
+            "mechanics": [
+                "ImmuneToSpellpower"
+            ],
             "name": "",
             "rarity": "Common",
             "set": "Debug",
@@ -10975,6 +13170,41 @@
             "type": "Spell"
         },
         {
+            "cost": 0,
+            "id": "XXX_058",
+            "name": "",
+            "rarity": "Common",
+            "set": "Debug",
+            "text": "",
+            "type": "Spell"
+        },
+        {
+            "id": "XXX_058e",
+            "name": "",
+            "set": "Debug",
+            "text": "",
+            "type": "Enchantment"
+        },
+        {
+            "cost": 0,
+            "id": "XXX_059",
+            "name": "",
+            "set": "Debug",
+            "text": "",
+            "type": "Spell"
+        },
+        {
+            "cost": 0,
+            "id": "XXX_060",
+            "mechanics": [
+                "ImmuneToSpellpower"
+            ],
+            "name": "",
+            "set": "Debug",
+            "text": "",
+            "type": "Spell"
+        },
+        {
             "attack": 1,
             "cost": 0,
             "health": 1,
@@ -11121,7 +13351,7 @@
             "type": "Minion"
         },
         {
-            "artist": "Jesper Esjing",
+            "artist": "Jesper Ejsing",
             "attack": 2,
             "collectible": true,
             "cost": 4,
@@ -11454,7 +13684,7 @@
             "playerClass": "Shaman",
             "rarity": "Common",
             "set": "Goblins vs Gnomes",
-            "text": "Inflige $3-$6 de da\u00f1o. <b>Sobrecarga: (1)</b>",
+            "text": "Inflige $3-$6 de da\u00f1o. <b>Sobrecarga:</b> (1)",
             "type": "Spell"
         },
         {
@@ -11771,7 +14001,7 @@
             "type": "Minion"
         },
         {
-            "artist": "Jesper Esjing",
+            "artist": "Jesper Ejsing",
             "attack": 3,
             "collectible": true,
             "cost": 3,
@@ -12469,7 +14699,7 @@
             "type": "Minion"
         },
         {
-            "artist": "Danny Orizio",
+            "artist": "Dany Orizio",
             "attack": 2,
             "collectible": true,
             "cost": 3,
@@ -12776,7 +15006,7 @@
             "playerClass": "Shaman",
             "rarity": "Legendary",
             "set": "Goblins vs Gnomes",
-            "text": "<b>Grito de batalla:</b> agrega 4 M\u00farlocs aleatorios a tu mano. <b>Sobrecarga: (3)</b>",
+            "text": "<b>Grito de batalla:</b> agrega 4 M\u00farlocs aleatorios a tu mano. <b>Sobrecarga:</b> (3)",
             "type": "Minion"
         },
         {
@@ -13075,7 +15305,7 @@
             "type": "Minion"
         },
         {
-            "artist": "Jesper Esjing",
+            "artist": "Jesper Ejsing",
             "attack": 3,
             "collectible": true,
             "cost": 5,
@@ -13527,7 +15757,7 @@
             "type": "Minion"
         },
         {
-            "artist": "Jesper Esjing",
+            "artist": "Jesper Ejsing",
             "attack": 2,
             "collectible": true,
             "cost": 3,

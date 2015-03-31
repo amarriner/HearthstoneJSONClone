@@ -142,13 +142,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_146o",
-        "name": "Afilada",
-        "set": "Classic",
-        "text": "+1 p. de durabilidad.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Chris Moeller",
         "attack": 3,
         "collectible": true,
@@ -229,6 +222,14 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_158e",
+        "name": "Alma del bosque",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "\u00daltimo aliento: Invoca a un ant\u00e1rbol 2/2.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Markus Erdt",
         "collectible": true,
         "cost": 4,
@@ -241,14 +242,6 @@
         "set": "Classic",
         "text": "Otorga a tus esbirros \"<b>\u00daltimo aliento:</b> Invoca a un ant\u00e1rbol 2/2\".",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_158e",
-        "name": "Alma del bosque",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "\u00daltimo aliento: Invoca a un ant\u00e1rbol 2/2.",
-        "type": "Enchantment"
     },
     {
         "artist": "Tom Fleming",
@@ -695,14 +688,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_363e",
-        "name": "Bendici\u00f3n de sabidur\u00eda",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Cada vez que este esbirro ataca, el jugador que lo ha bendecido roba una carta.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Chippy",
         "collectible": true,
         "cost": 1,
@@ -714,6 +699,14 @@
         "set": "Classic",
         "text": "Elige a un esbirro. Cada vez que ataca, roba una carta.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_363e",
+        "name": "Bendici\u00f3n de sabidur\u00eda",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Cada vez que este esbirro ataca, el jugador que lo ha bendecido roba una carta.",
+        "type": "Enchantment"
     },
     {
         "id": "EX1_363e2",
@@ -1171,24 +1164,6 @@
         "type": "Minion"
     },
     {
-        "faction": "Neutral",
-        "id": "EX1_154b",
-        "name": "C\u00f3lera",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Inflige $1 p. de da\u00f1o a un esbirro. Roba una carta.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
-        "id": "EX1_154a",
-        "name": "C\u00f3lera",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Inflige $3 p. de da\u00f1o a un esbirro.",
-        "type": "Spell"
-    },
-    {
         "artist": "Raymond Swanland",
         "collectible": true,
         "cost": 2,
@@ -1203,15 +1178,22 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_549o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "C\u00f3lera de las bestias",
-        "playerClass": "Hunter",
+        "faction": "Neutral",
+        "id": "EX1_154a",
+        "name": "C\u00f3lera",
+        "playerClass": "Druid",
         "set": "Classic",
-        "text": "+2 p. de ataque e <b>Inmune</b> este turno.",
-        "type": "Enchantment"
+        "text": "Inflige $3 p. de da\u00f1o a un esbirro.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_154b",
+        "name": "C\u00f3lera",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Inflige $1 p. de da\u00f1o a un esbirro. Roba una carta.",
+        "type": "Spell"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -1226,6 +1208,17 @@
         "set": "Classic",
         "text": "Otorga +2 p. de ataque e <b>Inmune</b> a una bestia amistosa este turno.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_549o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "C\u00f3lera de las bestias",
+        "playerClass": "Hunter",
+        "set": "Classic",
+        "text": "+2 p. de ataque e <b>Inmune</b> este turno.",
+        "type": "Enchantment"
     },
     {
         "artist": "Justin Sweet",
@@ -1255,7 +1248,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Inflige $8 p. de da\u00f1o, divididos aleatoriamente entre los personajes enemigos.",
+        "text": "Inflige $8 p. de da\u00f1o que se dividen aleatoriamente entre todos los enemigos.",
         "type": "Spell"
     },
     {
@@ -1500,6 +1493,14 @@
         "set": "Classic",
         "text": "Toma el control de un esbirro enemigo con 3 p. de ataque o menos hasta el final del turno.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_334e",
+        "name": "Demencia oscura",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "Este esbirro ha cambiado de due\u00f1o este turno.",
+        "type": "Enchantment"
     },
     {
         "artist": "Raymond Swanland",
@@ -1853,6 +1854,22 @@
         "type": "Minion"
     },
     {
+        "attack": 4,
+        "cost": 5,
+        "health": 4,
+        "id": "EX1_165t1",
+        "mechanics": [
+            "Charge"
+        ],
+        "name": "Druida de la Zarpa",
+        "playerClass": "Druid",
+        "race": "Beast",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Cargar</b>",
+        "type": "Minion"
+    },
+    {
         "artist": "Luca Zontini",
         "attack": 4,
         "collectible": true,
@@ -1882,22 +1899,6 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>Provocar</b>",
-        "type": "Minion"
-    },
-    {
-        "attack": 4,
-        "cost": 5,
-        "health": 4,
-        "id": "EX1_165t1",
-        "mechanics": [
-            "Charge"
-        ],
-        "name": "Druida de la Zarpa",
-        "playerClass": "Druid",
-        "race": "Beast",
-        "rarity": "Common",
-        "set": "Classic",
-        "text": "<b>Cargar</b>",
         "type": "Minion"
     },
     {
@@ -2088,6 +2089,14 @@
         "type": "Minion"
     },
     {
+        "id": "EX1_178ae",
+        "name": "Enraizado",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+5 p. de salud y <b>Provocar</b>.",
+        "type": "Enchantment"
+    },
+    {
         "faction": "Neutral",
         "id": "EX1_178a",
         "name": "Enraizado",
@@ -2095,14 +2104,6 @@
         "set": "Classic",
         "text": "+5 p. de salud y <b>Provocar</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_178ae",
-        "name": "Enraizado",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+5 p. de salud y <b>Provocar</b>.",
-        "type": "Enchantment"
     },
     {
         "id": "NEW1_008a",
@@ -2406,6 +2407,14 @@
         "type": "Minion"
     },
     {
+        "id": "CS1_129e",
+        "name": "Fuego interno",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "El ataque de este esbirro es igual a su salud.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Steve Prescott",
         "collectible": true,
         "cost": 1,
@@ -2418,14 +2427,6 @@
         "set": "Classic",
         "text": "Cambia el ataque de un esbirro para que sea igual a su salud.",
         "type": "Spell"
-    },
-    {
-        "id": "CS1_129e",
-        "name": "Fuego interno",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "El ataque de este esbirro es igual a su salud.",
-        "type": "Enchantment"
     },
     {
         "faction": "Neutral",
@@ -2646,6 +2647,19 @@
         "type": "Enchantment"
     },
     {
+        "artist": "Wayne Reynolds",
+        "collectible": true,
+        "cost": 2,
+        "flavor": "\"\u00a1NO TE OIGO!\" - Instructor de guerreros",
+        "id": "NEW1_036",
+        "name": "Grito de orden",
+        "playerClass": "Warrior",
+        "rarity": "Rare",
+        "set": "Classic",
+        "text": "La salud de tus esbirros no puede bajar de 1 p. este turno. Roba una carta.",
+        "type": "Spell"
+    },
+    {
         "id": "NEW1_036e2",
         "mechanics": [
             "OneTurnEffect"
@@ -2666,19 +2680,6 @@
         "set": "Classic",
         "text": "La salud no puede bajar de 1 p. este turno.",
         "type": "Enchantment"
-    },
-    {
-        "artist": "Wayne Reynolds",
-        "collectible": true,
-        "cost": 2,
-        "flavor": "\"\u00a1NO TE OIGO!\" - Instructor de guerreros",
-        "id": "NEW1_036",
-        "name": "Grito de orden",
-        "playerClass": "Warrior",
-        "rarity": "Rare",
-        "set": "Classic",
-        "text": "La salud de tus esbirros no puede bajar de 1 p. este turno. Roba una carta.",
-        "type": "Spell"
     },
     {
         "artist": "Glenn Rane",
@@ -3122,6 +3123,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_607e",
+        "name": "Ira interna",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+2 p. de ataque.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Slawomir Maniak",
         "collectible": true,
         "cost": 0,
@@ -3134,14 +3143,6 @@
         "set": "Classic",
         "text": "Inflige $1 p. de da\u00f1o a un esbirro y le otorga +2 p. de ataque.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_607e",
-        "name": "Ira interna",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+2 p. de ataque.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_411e",
@@ -3303,14 +3304,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_160be",
-        "name": "L\u00edder de la manada",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+1/+1",
-        "type": "Enchantment"
-    },
-    {
         "faction": "Neutral",
         "id": "EX1_160b",
         "name": "L\u00edder de la manada",
@@ -3318,6 +3311,14 @@
         "set": "Classic",
         "text": "Otorga +1/+1 a tus esbirros.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_160be",
+        "name": "L\u00edder de la manada",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+1/+1",
+        "type": "Enchantment"
     },
     {
         "attack": 2,
@@ -3354,14 +3355,6 @@
         "type": "Spell"
     },
     {
-        "id": "NEW1_007a",
-        "name": "Lluvia de estrellas",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Inflige $2 p. de da\u00f1o a todos los esbirros enemigos.",
-        "type": "Spell"
-    },
-    {
         "artist": "Richard Wright",
         "collectible": true,
         "cost": 5,
@@ -3372,6 +3365,14 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>Elige una:</b> Inflige $5 p. de da\u00f1o a un esbirro, o bien inflige $2 p. de da\u00f1o a todos los esbirros enemigos.",
+        "type": "Spell"
+    },
+    {
+        "id": "NEW1_007a",
+        "name": "Lluvia de estrellas",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Inflige $2 p. de da\u00f1o a todos los esbirros enemigos.",
         "type": "Spell"
     },
     {
@@ -3692,6 +3693,14 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_155be",
+        "name": "Marca de la Naturaleza",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Este esbirro tiene +4 p. de salud y <b>Provocar</b>.",
+        "type": "Enchantment"
+    },
+    {
         "faction": "Neutral",
         "id": "EX1_155a",
         "name": "Marca de la Naturaleza",
@@ -3699,6 +3708,14 @@
         "set": "Classic",
         "text": "+4 p. de ataque.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_155ae",
+        "name": "Marca de la Naturaleza",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Este esbirro tiene +4 p. de ataque.",
+        "type": "Enchantment"
     },
     {
         "artist": "Clint Langley",
@@ -3722,22 +3739,6 @@
         "set": "Classic",
         "text": "+4 p. de salud y <b>Provocar</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_155be",
-        "name": "Marca de la Naturaleza",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Este esbirro tiene +4 p. de salud y <b>Provocar</b>.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_155ae",
-        "name": "Marca de la Naturaleza",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Este esbirro tiene +4 p. de ataque.",
-        "type": "Enchantment"
     },
     {
         "artist": "Dan Brereton",
@@ -3950,20 +3951,20 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_164a",
-        "name": "Nutrir",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Obt\u00e9n 2 cristales de man\u00e1.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_164b",
         "name": "Nutrir",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Roba 3 cartas.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_164a",
+        "name": "Nutrir",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Obt\u00e9n 2 cristales de man\u00e1.",
         "type": "Spell"
     },
     {
@@ -4058,14 +4059,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "EX1_334e",
-        "name": "Orden oscura",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Este esbirro ha cambiado de due\u00f1o este turno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Dany Orizio",
         "attack": 3,
         "collectible": true,
@@ -4153,6 +4146,13 @@
         "type": "Minion"
     },
     {
+        "id": "DREAM_05e",
+        "name": "Pesadilla",
+        "set": "Classic",
+        "text": "Este esbirro tiene +5/+5, pero se destruir\u00e1 pronto.",
+        "type": "Enchantment"
+    },
+    {
         "cost": 0,
         "id": "DREAM_05",
         "name": "Pesadilla",
@@ -4160,13 +4160,6 @@
         "set": "Classic",
         "text": "Otorga +5/+5 a un esbirro. Al comienzo de tu siguiente turno, lo destruyes.",
         "type": "Spell"
-    },
-    {
-        "id": "DREAM_05e",
-        "name": "Pesadilla",
-        "set": "Classic",
-        "text": "Este esbirro tiene +5/+5, pero se destruir\u00e1 pronto.",
-        "type": "Enchantment"
     },
     {
         "artist": "Luca Zontini",
@@ -4197,19 +4190,19 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_014te",
-        "name": "Pl\u00e1tanos",
-        "set": "Classic",
-        "text": "Tiene +1/+1.",
-        "type": "Enchantment"
-    },
-    {
         "cost": 1,
         "id": "EX1_014t",
         "name": "Pl\u00e1tanos",
         "set": "Classic",
         "text": "Otorga +1/+1 a un esbirro.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_014te",
+        "name": "Pl\u00e1tanos",
+        "set": "Classic",
+        "text": "Tiene +1/+1.",
+        "type": "Enchantment"
     },
     {
         "artist": "Steve Tappin",
@@ -4351,17 +4344,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_145o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Preparaci\u00f3n",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "El pr\u00f3ximo hechizo que lances este turno costar\u00e1 (3) cristales menos.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Clint Langley",
         "collectible": true,
         "cost": 0,
@@ -4374,6 +4356,17 @@
         "set": "Classic",
         "text": "El pr\u00f3ximo hechizo que lances este turno costar\u00e1 (3) cristales menos.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_145o",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Preparaci\u00f3n",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "El pr\u00f3ximo hechizo que lances este turno costar\u00e1 (3) cristales menos.",
+        "type": "Enchantment"
     },
     {
         "artist": "James Ryman",
@@ -4702,17 +4695,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Rugido desmoralizador",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Este esbirro tiene -3 p. de ataque este turno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Doug Alexander",
         "attack": 3,
         "collectible": true,
@@ -4800,14 +4782,6 @@
         "type": "Spell"
     },
     {
-        "id": "CS2_073e2",
-        "name": "Sangre fr\u00eda",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+4 p. de ataque.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -4823,6 +4797,14 @@
         "set": "Classic",
         "text": "Otorga a un esbirro +2 p. de ataque. <b>Combo:</b> +4 p. de ataque.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_073e2",
+        "name": "Sangre fr\u00eda",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+4 p. de ataque.",
+        "type": "Enchantment"
     },
     {
         "id": "CS2_073e",
@@ -5447,7 +5429,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "Al final de tu turno, roba una carta de sue\u00f1o.",
+        "text": "Al final de tu turno, a\u00f1ade una carta de sue\u00f1o a tu mano.",
         "type": "Minion"
     },
     {

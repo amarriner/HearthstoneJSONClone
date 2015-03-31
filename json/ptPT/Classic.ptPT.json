@@ -81,13 +81,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_146o",
-        "name": "Afiada",
-        "set": "Classic",
-        "text": "+1 de Durabilidade.",
-        "type": "Enchantment"
-    },
-    {
         "id": "CS2_221e",
         "name": "Afiado!",
         "set": "Classic",
@@ -194,14 +187,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_158e",
-        "name": "Alma da Floresta",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "\u00daltimo Suspiro: Evoque um Arvoroso 2/2.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Markus Erdt",
         "collectible": true,
         "cost": 4,
@@ -214,6 +199,14 @@
         "set": "Classic",
         "text": "Conceda aos seus lacaios: <b>\u00daltimo Suspiro:</b> Evoque um Arvoroso 2/2.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_158e",
+        "name": "Alma da Floresta",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "\u00daltimo Suspiro: Evoque um Arvoroso 2/2.",
+        "type": "Enchantment"
     },
     {
         "artist": "Tom Fleming",
@@ -234,14 +227,6 @@
         "type": "Minion"
     },
     {
-        "id": "CS2_104e",
-        "name": "Alvoro\u00e7o",
-        "playerClass": "Warrior",
-        "set": "Classic",
-        "text": "+3/+3.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Jonboy Meyers",
         "collectible": true,
         "cost": 2,
@@ -254,6 +239,14 @@
         "set": "Classic",
         "text": "Conceda +3/+3 a um lacaio ferido.",
         "type": "Spell"
+    },
+    {
+        "id": "CS2_104e",
+        "name": "Alvoro\u00e7o",
+        "playerClass": "Warrior",
+        "set": "Classic",
+        "text": "+3/+3.",
+        "type": "Enchantment"
     },
     {
         "artist": "Scott Hampton",
@@ -556,17 +549,6 @@
         "cost": 1,
         "faction": "Neutral",
         "health": 2,
-        "id": "EX1_158t",
-        "name": "Arvoroso",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "type": "Minion"
-    },
-    {
-        "attack": 2,
-        "cost": 1,
-        "faction": "Neutral",
-        "health": 2,
         "id": "EX1_tk9",
         "mechanics": [
             "Charge"
@@ -590,6 +572,17 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "<b>Provocar</b>",
+        "type": "Minion"
+    },
+    {
+        "attack": 2,
+        "cost": 1,
+        "faction": "Neutral",
+        "health": 2,
+        "id": "EX1_158t",
+        "name": "Arvoroso",
+        "playerClass": "Druid",
+        "set": "Classic",
         "type": "Minion"
     },
     {
@@ -774,6 +767,22 @@
         "type": "Enchantment"
     },
     {
+        "id": "EX1_363e",
+        "name": "B\u00ean\u00e7\u00e3o de Sabedoria",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Quando este lacaio atacar, o jogador que o aben\u00e7oou compra um card.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "EX1_363e2",
+        "name": "B\u00ean\u00e7\u00e3o de Sabedoria",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Quando este lacaio atacar, o inimigo comprar\u00e1 um card.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Chippy",
         "collectible": true,
         "cost": 1,
@@ -785,22 +794,6 @@
         "set": "Classic",
         "text": "Escolha um lacaio. Sempre que ele atacar, compre um card.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_363e2",
-        "name": "B\u00ean\u00e7\u00e3o de Sabedoria",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Quando este lacaio atacar, o inimigo comprar\u00e1 um card.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "EX1_363e",
-        "name": "B\u00ean\u00e7\u00e3o de Sabedoria",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Quando este lacaio atacar, o jogador que o aben\u00e7oou compra um card.",
-        "type": "Enchantment"
     },
     {
         "id": "EX1_604o",
@@ -899,14 +892,14 @@
         "type": "Minion"
     },
     {
-        "id": "NEW1_036e",
+        "id": "NEW1_036e2",
         "mechanics": [
             "OneTurnEffect"
         ],
         "name": "Brado de Comando",
         "playerClass": "Warrior",
         "set": "Classic",
-        "text": "N\u00e3o podem ser reduzidos a menos de 1 de Vida neste turno.",
+        "text": "A Vida de seus lacaios n\u00e3o pode ser reduzida a menos de 1 neste turno.",
         "type": "Enchantment"
     },
     {
@@ -923,14 +916,14 @@
         "type": "Spell"
     },
     {
-        "id": "NEW1_036e2",
+        "id": "NEW1_036e",
         "mechanics": [
             "OneTurnEffect"
         ],
         "name": "Brado de Comando",
         "playerClass": "Warrior",
         "set": "Classic",
-        "text": "A Vida de seus lacaios n\u00e3o pode ser reduzida a menos de 1 neste turno.",
+        "text": "N\u00e3o podem ser reduzidos a menos de 1 de Vida neste turno.",
         "type": "Enchantment"
     },
     {
@@ -984,14 +977,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_355e",
-        "name": "Campe\u00e3o Aben\u00e7oado",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "O Ataque do seu lacaio foi dobrado.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Tyler Walpole",
         "collectible": true,
         "cost": 5,
@@ -1003,6 +988,14 @@
         "set": "Classic",
         "text": "Dobre o Ataque de um lacaio.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_355e",
+        "name": "Campe\u00e3o Aben\u00e7oado",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "O Ataque do seu lacaio foi dobrado.",
+        "type": "Enchantment"
     },
     {
         "id": "tt_004o",
@@ -1262,14 +1255,6 @@
         "type": "Spell"
     },
     {
-        "id": "NEW1_007a",
-        "name": "Chuva Estelar",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Cause $2 de dano a todos os lacaios inimigos.",
-        "type": "Spell"
-    },
-    {
         "artist": "Richard Wright",
         "collectible": true,
         "cost": 5,
@@ -1280,6 +1265,14 @@
         "rarity": "Rare",
         "set": "Classic",
         "text": "<b>Escolha Um</b> - Cause $5 de dano a um lacaio ou $2 de dano a todos os lacaios inimigos.",
+        "type": "Spell"
+    },
+    {
+        "id": "NEW1_007a",
+        "name": "Chuva Estelar",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Cause $2 de dano a todos os lacaios inimigos.",
         "type": "Spell"
     },
     {
@@ -1371,14 +1364,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_334e",
-        "name": "Comando Negro",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "Este lacaio trocou de controlador neste turno.",
-        "type": "Enchantment"
-    },
-    {
         "id": "NEW1_024o",
         "name": "Comando Peleverde",
         "set": "Classic",
@@ -1428,6 +1413,14 @@
         "type": "Spell"
     },
     {
+        "id": "EX1_379e",
+        "name": "Contri\u00e7\u00e3o",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Vida reduzida a 1.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Gonzalo Ordonez",
         "collectible": true,
         "cost": 1,
@@ -1443,14 +1436,6 @@
         "set": "Classic",
         "text": "<b>Segredo:</b> Quando seu oponente jogar um lacaio, reduza a Vida dele para 1.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_379e",
-        "name": "Contri\u00e7\u00e3o",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Vida reduzida a 1.",
-        "type": "Enchantment"
     },
     {
         "faction": "Neutral",
@@ -1919,17 +1904,6 @@
     {
         "attack": 1,
         "cost": 1,
-        "faction": "Neutral",
-        "health": 1,
-        "id": "ds1_whelptoken",
-        "name": "Dragonete",
-        "race": "Dragon",
-        "set": "Classic",
-        "type": "Minion"
-    },
-    {
-        "attack": 1,
-        "cost": 1,
         "health": 1,
         "id": "EX1_116t",
         "name": "Dragonete",
@@ -1938,19 +1912,14 @@
         "type": "Minion"
     },
     {
-        "artist": "Luca Zontini",
-        "attack": 4,
-        "collectible": true,
-        "cost": 5,
+        "attack": 1,
+        "cost": 1,
         "faction": "Neutral",
-        "flavor": "Felino ou Urso? Felino ou Urso?! Eu n\u00e3o consigo ESCOLHER!",
-        "health": 4,
-        "id": "EX1_165",
-        "name": "Druida da Garra",
-        "playerClass": "Druid",
-        "rarity": "Common",
+        "health": 1,
+        "id": "ds1_whelptoken",
+        "name": "Dragonete",
+        "race": "Dragon",
         "set": "Classic",
-        "text": "<b>Escolha Um -</b> <b>Investida</b>; ou +2 de Vida e <b>Provocar</b>.",
         "type": "Minion"
     },
     {
@@ -1983,6 +1952,22 @@
         "rarity": "Common",
         "set": "Classic",
         "text": "<b>Investida</b>",
+        "type": "Minion"
+    },
+    {
+        "artist": "Luca Zontini",
+        "attack": 4,
+        "collectible": true,
+        "cost": 5,
+        "faction": "Neutral",
+        "flavor": "Felino ou Urso? Felino ou Urso?! Eu n\u00e3o consigo ESCOLHER!",
+        "health": 4,
+        "id": "EX1_165",
+        "name": "Druida da Garra",
+        "playerClass": "Druid",
+        "rarity": "Common",
+        "set": "Classic",
+        "text": "<b>Escolha Um -</b> <b>Investida</b>; ou +2 de Vida e <b>Provocar</b>.",
         "type": "Minion"
     },
     {
@@ -2060,14 +2045,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_178ae",
-        "name": "Enraizado",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+5 de Vida e <b>Provocar</b>.",
-        "type": "Enchantment"
-    },
-    {
         "faction": "Neutral",
         "id": "EX1_178a",
         "name": "Enraizado",
@@ -2075,6 +2052,14 @@
         "set": "Classic",
         "text": "+5 de Vida e <b>Provocar</b>.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_178ae",
+        "name": "Enraizado",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+5 de Vida e <b>Provocar</b>.",
+        "type": "Enchantment"
     },
     {
         "id": "NEW1_008a",
@@ -2401,14 +2386,6 @@
         "type": "Enchantment"
     },
     {
-        "id": "CS1_129e",
-        "name": "Fogo Interior",
-        "playerClass": "Priest",
-        "set": "Classic",
-        "text": "O Ataque deste lacaio \u00e9 igual \u00e0 Vida dele.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Steve Prescott",
         "collectible": true,
         "cost": 1,
@@ -2421,6 +2398,14 @@
         "set": "Classic",
         "text": "Mude o Ataque de um lacaio para ser igual \u00e0 Vida dele.",
         "type": "Spell"
+    },
+    {
+        "id": "CS1_129e",
+        "name": "Fogo Interior",
+        "playerClass": "Priest",
+        "set": "Classic",
+        "text": "O Ataque deste lacaio \u00e9 igual \u00e0 Vida dele.",
+        "type": "Enchantment"
     },
     {
         "faction": "Neutral",
@@ -3002,14 +2987,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_619e",
-        "name": "Igualdade",
-        "playerClass": "Paladin",
-        "set": "Classic",
-        "text": "Vida mudada para 1.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Michal Ivan",
         "collectible": true,
         "cost": 2,
@@ -3022,6 +2999,14 @@
         "set": "Classic",
         "text": "Mude a Vida de TODOS os lacaios para 1.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_619e",
+        "name": "Igualdade",
+        "playerClass": "Paladin",
+        "set": "Classic",
+        "text": "Vida mudada para 1.",
+        "type": "Enchantment"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -3136,13 +3121,12 @@
         "type": "Spell"
     },
     {
-        "faction": "Neutral",
-        "id": "EX1_154a",
-        "name": "Ira",
-        "playerClass": "Druid",
+        "id": "EX1_334e",
+        "name": "Insanidade Sombria",
+        "playerClass": "Priest",
         "set": "Classic",
-        "text": "Cause $3 de dano a um lacaio.",
-        "type": "Spell"
+        "text": "Este lacaio trocou de controlador neste turno.",
+        "type": "Enchantment"
     },
     {
         "faction": "Neutral",
@@ -3151,6 +3135,15 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Cause $1 de dano a um lacaio. Compre um card.",
+        "type": "Spell"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_154a",
+        "name": "Ira",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Cause $3 de dano a um lacaio.",
         "type": "Spell"
     },
     {
@@ -3234,7 +3227,7 @@
         "playerClass": "Paladin",
         "rarity": "Epic",
         "set": "Classic",
-        "text": "Cause $8 de dano dividido aleatoriamente entre os personagens inimigos.",
+        "text": "Cause $8 de dano dividido aleatoriamente entre todos os inimigos.",
         "type": "Spell"
     },
     {
@@ -3719,20 +3712,28 @@
     },
     {
         "faction": "Neutral",
-        "id": "EX1_155b",
-        "name": "Marca da Natureza",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "+4 de Vida e <b>Provocar</b>.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
         "id": "EX1_155a",
         "name": "Marca da Natureza",
         "playerClass": "Druid",
         "set": "Classic",
         "text": "+4 de Ataque",
+        "type": "Spell"
+    },
+    {
+        "id": "EX1_155be",
+        "name": "Marca da Natureza",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Este lacaio tem +4 de Vida e <b>Provocar</b>.",
+        "type": "Enchantment"
+    },
+    {
+        "faction": "Neutral",
+        "id": "EX1_155b",
+        "name": "Marca da Natureza",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "+4 de Vida e <b>Provocar</b>.",
         "type": "Spell"
     },
     {
@@ -3756,14 +3757,6 @@
         "set": "Classic",
         "text": "<b>Escolha Um</b> - Conceda +4 de Ataque a um lacaio; ou +4 de Vida e <b>Provocar</b>.",
         "type": "Spell"
-    },
-    {
-        "id": "EX1_155be",
-        "name": "Marca da Natureza",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Este lacaio tem +4 de Vida e <b>Provocar</b>.",
-        "type": "Enchantment"
     },
     {
         "artist": "John Polidora",
@@ -3969,16 +3962,6 @@
         "type": "Minion"
     },
     {
-        "id": "EX1_570e",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Morder",
-        "set": "Classic",
-        "text": "+4 de Ataque neste turno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Tom Baxa",
         "collectible": true,
         "cost": 4,
@@ -3991,6 +3974,16 @@
         "set": "Classic",
         "text": "Conceda +4 de Ataque ao seu her\u00f3i neste turno e 4 de Armadura.",
         "type": "Spell"
+    },
+    {
+        "id": "EX1_570e",
+        "mechanics": [
+            "OneTurnEffect"
+        ],
+        "name": "Morder",
+        "set": "Classic",
+        "text": "+4 de Ataque neste turno.",
+        "type": "Enchantment"
     },
     {
         "artist": "Blizzard Cinematics",
@@ -4109,6 +4102,15 @@
         "type": "Minion"
     },
     {
+        "faction": "Neutral",
+        "id": "EX1_164a",
+        "name": "Nutrir",
+        "playerClass": "Druid",
+        "set": "Classic",
+        "text": "Receba 2 Cristais de Mana.",
+        "type": "Spell"
+    },
+    {
         "artist": "Terese Nielsen",
         "collectible": true,
         "cost": 5,
@@ -4129,15 +4131,6 @@
         "playerClass": "Druid",
         "set": "Classic",
         "text": "Compre 3 cards.",
-        "type": "Spell"
-    },
-    {
-        "faction": "Neutral",
-        "id": "EX1_164a",
-        "name": "Nutrir",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Receba 2 Cristais de Mana.",
         "type": "Spell"
     },
     {
@@ -4309,6 +4302,13 @@
         "type": "Spell"
     },
     {
+        "id": "DREAM_05e",
+        "name": "Pesadelo",
+        "set": "Classic",
+        "text": "Este lacaio tem +5/+5, mas ser\u00e1 destru\u00eddo em breve.",
+        "type": "Enchantment"
+    },
+    {
         "cost": 0,
         "id": "DREAM_05",
         "name": "Pesadelo",
@@ -4316,13 +4316,6 @@
         "set": "Classic",
         "text": "Conceda +5/+5 a um lacaio. No in\u00edcio do pr\u00f3ximo turno, destrua-o.",
         "type": "Spell"
-    },
-    {
-        "id": "DREAM_05e",
-        "name": "Pesadelo",
-        "set": "Classic",
-        "text": "Este lacaio tem +5/+5, mas ser\u00e1 destru\u00eddo em breve.",
-        "type": "Enchantment"
     },
     {
         "artist": "Alex Horley Orlandelli",
@@ -4794,17 +4787,6 @@
         "type": "Spell"
     },
     {
-        "id": "EX1_161o",
-        "mechanics": [
-            "OneTurnEffect"
-        ],
-        "name": "Rugido Desmoralizante",
-        "playerClass": "Druid",
-        "set": "Classic",
-        "text": "Este lacaio tem -3 de Ataque neste turno.",
-        "type": "Enchantment"
-    },
-    {
         "artist": "Raymond Swanland",
         "collectible": true,
         "cost": 5,
@@ -4915,6 +4897,22 @@
         "type": "Spell"
     },
     {
+        "id": "CS2_073e2",
+        "name": "Sangue Frio",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+4 de Ataque.",
+        "type": "Enchantment"
+    },
+    {
+        "id": "CS2_073e",
+        "name": "Sangue Frio",
+        "playerClass": "Rogue",
+        "set": "Classic",
+        "text": "+2 de Ataque.",
+        "type": "Enchantment"
+    },
+    {
         "artist": "Alex Horley Orlandelli",
         "collectible": true,
         "cost": 1,
@@ -4930,22 +4928,6 @@
         "set": "Classic",
         "text": "Conceda +2 de Ataque a um lacaio. <b>Combo:</b> +4 de Ataque em vez de +2.",
         "type": "Spell"
-    },
-    {
-        "id": "CS2_073e2",
-        "name": "Sangue Frio",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+4 de Ataque.",
-        "type": "Enchantment"
-    },
-    {
-        "id": "CS2_073e",
-        "name": "Sangue Frio",
-        "playerClass": "Rogue",
-        "set": "Classic",
-        "text": "+2 de Ataque.",
-        "type": "Enchantment"
     },
     {
         "artist": "Jim Nelson",
@@ -5456,7 +5438,7 @@
         "race": "Dragon",
         "rarity": "Legendary",
         "set": "Classic",
-        "text": "No final do seu turno, compre um Card de Sonho.",
+        "text": "No fim do seu turno, adicione um Card de Sonho \u00e0 sua m\u00e3o.",
         "type": "Minion"
     }
 ]

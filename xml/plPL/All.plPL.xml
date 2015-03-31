@@ -1275,23 +1275,6 @@ Zadaj 1 pkt. obrażeń.
    </id>
   </item>
   <item>
-   <text>
-    Ma +1/+1.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_014te
-   </id>
-   <name>
-    Banany
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -1310,6 +1293,23 @@ Zadaj 1 pkt. obrażeń.
    <id>
     EX1_014t
    </id>
+  </item>
+  <item>
+   <text>
+    Ma +1/+1.
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_014te
+   </id>
+   <name>
+    Banany
+   </name>
   </item>
   <item>
    <set>
@@ -1524,6 +1524,31 @@ Zadaj 1 pkt. obrażeń.
    </id>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Bestialski gniew
+   </name>
+   <text>
+    +2 do ataku oraz &lt;b&gt;Niewrażliwość&lt;/b&gt; w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_549o
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -1556,31 +1581,6 @@ Zadaj 1 pkt. obrażeń.
    </type>
    <id>
     EX1_549
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Bestialski gniew
-   </name>
-   <text>
-    +2 do ataku oraz &lt;b&gt;Niewrażliwość&lt;/b&gt; w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_549o
    </id>
    <playerclass>
     Hunter
@@ -2504,6 +2504,29 @@ Zadaj 1 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Dalekowidzenie
+   </name>
+   <artist>
+    Lars Grant-West
+   </artist>
+   <text>
+    Jedna z twoich kart kosztuje (3) mniej.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_053e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -2539,49 +2562,6 @@ Zadaj 1 pkt. obrażeń.
    </id>
    <playerclass>
     Shaman
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Dalekowidzenie
-   </name>
-   <artist>
-    Lars Grant-West
-   </artist>
-   <text>
-    Jedna z twoich kart kosztuje (3) mniej.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_053e
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Dar mądrości
-   </name>
-   <text>
-    Gdy ten stronnik zaatakuje, gracz który go pobłogosławił dobiera kartę.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_363e
-   </id>
-   <playerclass>
-    Paladin
    </playerclass>
   </item>
   <item>
@@ -2634,6 +2614,26 @@ Zadaj 1 pkt. obrażeń.
    </type>
    <id>
     EX1_363e2
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Dar mądrości
+   </name>
+   <text>
+    Gdy ten stronnik zaatakuje, gracz który go pobłogosławił dobiera kartę.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_363e
    </id>
    <playerclass>
     Paladin
@@ -2704,31 +2704,6 @@ Zadaj 1 pkt. obrażeń.
    </id>
    <playerclass>
     Warlock
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Demoralizujący ryk
-   </name>
-   <text>
-    Ten stronnik ma w tej turze -3 do ataku.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
    </playerclass>
   </item>
   <item>
@@ -2906,46 +2881,6 @@ Zadaj 1 pkt. obrażeń.
    </id>
   </item>
   <item>
-   <mechanics>
-    <item>
-     Charge
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Druid Szponów
-   </name>
-   <text>
-    &lt;b&gt;Szarża&lt;/b&gt;
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <attack>
-    4
-   </attack>
-   <cost>
-    5
-   </cost>
-   <health>
-    4
-   </health>
-   <race>
-    Beast
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_165t1
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -2984,6 +2919,46 @@ Zadaj 1 pkt. obrażeń.
    </type>
    <id>
     EX1_165
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Druid Szponów
+   </name>
+   <text>
+    &lt;b&gt;Szarża&lt;/b&gt;
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_165t1
    </id>
    <playerclass>
     Druid
@@ -3061,6 +3036,11 @@ Zadaj 1 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
    <set>
     Classic
    </set>
@@ -3070,6 +3050,12 @@ Zadaj 1 pkt. obrażeń.
    <faction>
     Neutral
    </faction>
+   <text>
+    &lt;b&gt;Szarża&lt;/b&gt;. Na koniec tury zniszcz tego stronnika.
+   </text>
+   <rarity>
+    Common
+   </rarity>
    <attack>
     2
    </attack>
@@ -3083,7 +3069,7 @@ Zadaj 1 pkt. obrażeń.
     Minion
    </type>
    <id>
-    EX1_158t
+    EX1_tk9
    </id>
    <playerclass>
     Druid
@@ -3124,11 +3110,6 @@ Zadaj 1 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     Charge
-    </item>
-   </mechanics>
    <set>
     Classic
    </set>
@@ -3138,12 +3119,6 @@ Zadaj 1 pkt. obrażeń.
    <faction>
     Neutral
    </faction>
-   <text>
-    &lt;b&gt;Szarża&lt;/b&gt;. Na początku następnej tury zniszcz tego stronnika.
-   </text>
-   <rarity>
-    Common
-   </rarity>
    <attack>
     2
    </attack>
@@ -3157,7 +3132,7 @@ Zadaj 1 pkt. obrażeń.
     Minion
    </type>
    <id>
-    EX1_tk9
+    EX1_158t
    </id>
    <playerclass>
     Druid
@@ -3348,6 +3323,26 @@ Zadaj 1 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Dusza kniei
+   </name>
+   <text>
+    Agonia: Przyzwij Drzewca 2/2.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -3380,26 +3375,6 @@ Zadaj 1 pkt. obrażeń.
    </type>
    <id>
     EX1_158
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Dusza kniei
-   </name>
-   <text>
-    Agonia: Przyzwij Drzewca 2/2.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -4018,7 +3993,7 @@ Magiczna siła, boję się...”
     Neutral
    </faction>
    <text>
-    Zadaj $8 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.
+    Zadaj $8 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.
    </text>
    <artist>
     Alex Garner
@@ -6059,6 +6034,31 @@ Przyzwij Infernala 6/6.
   <item>
    <mechanics>
     <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Lodowy blok
+   </name>
+   <text>
+    Twój bohater ma w tej turze &lt;b&gt;Niewrażliwość&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_295o
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
      Secret
     </item>
    </mechanics>
@@ -6094,31 +6094,6 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     EX1_295
-   </id>
-   <playerclass>
-    Mage
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Lodowy blok
-   </name>
-   <text>
-    Twój bohater ma w tej turze &lt;b&gt;Niewrażliwość&lt;/b&gt;.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_295o
    </id>
    <playerclass>
     Mage
@@ -7002,26 +6977,6 @@ Przyzwij Infernala 6/6.
    </name>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Mroczny rozkaz
-   </name>
-   <text>
-    Kontrola nad tym stronnikiem została zamieniona w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_334e
-   </id>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Enrage
@@ -7180,6 +7135,35 @@ Przyzwij Infernala 6/6.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Naginaczka zaklęć
+   </name>
+   <rarity>
+    Epic
+   </rarity>
+   <attack>
+    1
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    tt_010a
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Secret
@@ -7217,35 +7201,6 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     tt_010
-   </id>
-   <playerclass>
-    Mage
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Naginaczka zaklęć
-   </name>
-   <rarity>
-    Epic
-   </rarity>
-   <attack>
-    1
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    3
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    tt_010a
    </id>
    <playerclass>
     Mage
@@ -7310,44 +7265,6 @@ Przyzwij Infernala 6/6.
    </playerclass>
   </item>
   <item>
-   <collectible>
-    True
-   </collectible>
-   <set>
-    Classic
-   </set>
-   <name>
-    Nasycenie
-   </name>
-   <artist>
-    Terese Nielsen
-   </artist>
-   <text>
-    &lt;b&gt;Wybierz jedno:&lt;/b&gt; Otrzymujesz 2 kryształy many; lub dobierz 3 karty.
-   </text>
-   <faction>
-    Neutral
-   </faction>
-   <rarity>
-    Rare
-   </rarity>
-   <cost>
-    5
-   </cost>
-   <flavor>
-    Druidów syci wiele rzeczy: potęga natury, śpiew ptaków, tort czekoladowy.
-   </flavor>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_164
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -7388,6 +7305,44 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     EX1_164b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Classic
+   </set>
+   <name>
+    Nasycenie
+   </name>
+   <artist>
+    Terese Nielsen
+   </artist>
+   <text>
+    &lt;b&gt;Wybierz jedno:&lt;/b&gt; Otrzymujesz 2 kryształy many; lub dobierz 3 karty.
+   </text>
+   <faction>
+    Neutral
+   </faction>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <flavor>
+    Druidów syci wiele rzeczy: potęga natury, śpiew ptaków, tort czekoladowy.
+   </flavor>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_164
    </id>
    <playerclass>
     Druid
@@ -8200,23 +8155,6 @@ Przyzwij Infernala 6/6.
    </name>
   </item>
   <item>
-   <text>
-    +1 do wytrzymałości.
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    Ostrość
-   </name>
-  </item>
-  <item>
    <mechanics>
     <item>
      Battlecry
@@ -8511,6 +8449,32 @@ Przyzwij Infernala 6/6.
    <name>
     Pisklę
    </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_116t
+   </id>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Pisklę
+   </name>
    <faction>
     Neutral
    </faction>
@@ -8531,32 +8495,6 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     ds1_whelptoken
-   </id>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Pisklę
-   </name>
-   <attack>
-    1
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    1
-   </health>
-   <race>
-    Dragon
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_116t
    </id>
   </item>
   <item>
@@ -10102,31 +10040,6 @@ Przyzwij Infernala 6/6.
    </name>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Rozkazujący okrzyk
-   </name>
-   <text>
-    W tej turze nie może zejść poniżej 1 pkt. zdrowia.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    NEW1_036e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -10156,6 +10069,31 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     NEW1_036
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Rozkazujący okrzyk
+   </name>
+   <text>
+    W tej turze nie może zejść poniżej 1 pkt. zdrowia.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    NEW1_036e
    </id>
    <playerclass>
     Warrior
@@ -10484,6 +10422,26 @@ Przyzwij Infernala 6/6.
    </name>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Skrucha
+   </name>
+   <text>
+    Zdrowie zmniejszone do 1.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_379e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Secret
@@ -10521,26 +10479,6 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     EX1_379
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Skrucha
-   </name>
-   <text>
-    Zdrowie zmniejszone do 1.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_379e
    </id>
    <playerclass>
     Paladin
@@ -10862,6 +10800,26 @@ Przyzwij Infernala 6/6.
     Spadające gwiazdy
    </name>
    <text>
+    Zadaj $5 pkt. obrażeń stronnikowi.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Spadające gwiazdy
+   </name>
+   <text>
     Zadaj $2 pkt. obrażeń wszystkim wrogim stronnikom.
    </text>
    <type>
@@ -10904,26 +10862,6 @@ Przyzwij Infernala 6/6.
    </type>
    <id>
     NEW1_007
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Spadające gwiazdy
-   </name>
-   <text>
-    Zadaj $5 pkt. obrażeń stronnikowi.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    NEW1_007b
    </id>
    <playerclass>
     Druid
@@ -11770,6 +11708,26 @@ Zadaj 3 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Szaleństwo cieni
+   </name>
+   <text>
+    Kontrola nad tym stronnikiem została zamieniona w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_334e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Battlecry
@@ -12510,6 +12468,28 @@ Zadaj 3 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    Ugryzienie
+   </name>
+   <text>
+    +4 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_570e
+   </id>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -12546,28 +12526,6 @@ Zadaj 3 pkt. obrażeń.
    <playerclass>
     Druid
    </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    Ugryzienie
-   </name>
-   <text>
-    +4 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_570e
-   </id>
   </item>
   <item>
    <set>
@@ -12896,26 +12854,6 @@ Zadaj 3 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Wewnętrzny szał
-   </name>
-   <text>
-    +2 do ataku.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_607e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -12958,19 +12896,19 @@ Zadaj 3 pkt. obrażeń.
     Classic
    </set>
    <name>
-    Wewnętrzny żar
+    Wewnętrzny szał
    </name>
    <text>
-    Atak stronnika jest równy jego zdrowiu.
+    +2 do ataku.
    </text>
    <type>
     Enchantment
    </type>
    <id>
-    CS1_129e
+    EX1_607e
    </id>
    <playerclass>
-    Priest
+    Warrior
    </playerclass>
   </item>
   <item>
@@ -13006,6 +12944,26 @@ Zadaj 3 pkt. obrażeń.
    </type>
    <id>
     CS1_129
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Wewnętrzny żar
+   </name>
+   <text>
+    Atak stronnika jest równy jego zdrowiu.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS1_129e
    </id>
    <playerclass>
     Priest
@@ -14085,7 +14043,7 @@ i zniszczonych stronników.
     Neutral
    </faction>
    <text>
-    Na koniec twojej tury dobierz Kartę Snu.
+    Na koniec twojej tury dodaj Kartę Snu do twojej ręki.
    </text>
    <artist>
     Gabor Szikszai
@@ -14675,46 +14633,6 @@ i zniszczonych stronników.
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Zimna krew
-   </name>
-   <text>
-    +4 do ataku.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_073e2
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Zimna krew
-   </name>
-   <text>
-    +2 do ataku.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_073e
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Combo
@@ -14752,6 +14670,46 @@ i zniszczonych stronników.
    </type>
    <id>
     CS2_073
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Zimna krew
+   </name>
+   <text>
+    +2 do ataku.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_073e
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Zimna krew
+   </name>
+   <text>
+    +4 do ataku.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_073e2
    </id>
    <playerclass>
     Rogue
@@ -14854,29 +14812,6 @@ i zniszczonych stronników.
     Neutral
    </faction>
    <text>
-    +4 do zdrowia oraz &lt;b&gt;Prowokacja&lt;/b&gt;.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_155b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Znak natury
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
     +4 do ataku.
    </text>
    <type>
@@ -14904,26 +14839,6 @@ i zniszczonych stronników.
    </type>
    <id>
     EX1_155be
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    Znak natury
-   </name>
-   <text>
-    Ten stronnik ma +4 do ataku.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_155ae
    </id>
    <playerclass>
     Druid
@@ -14962,6 +14877,49 @@ i zniszczonych stronników.
    </type>
    <id>
     EX1_155
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Znak natury
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    +4 do zdrowia oraz &lt;b&gt;Prowokacja&lt;/b&gt;.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_155b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    Znak natury
+   </name>
+   <text>
+    Ten stronnik ma +4 do ataku.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_155ae
    </id>
    <playerclass>
     Druid
@@ -20030,6 +19988,5675 @@ Dobierz kartę.
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aberracja
+   </name>
+   <text>
+    &lt;b&gt;Szarża&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Arkanotrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Arkanotrona!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Arkanotrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Arkanotrona!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Elektrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Elektrona!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Elektrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Elektrona!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Magmatrona.
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Magmatrona!
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Magmatrona.
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Magmatrona!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Toksytrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Toksytrona!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja Toksytrona
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj Toksytrona!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj losowego trona.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Aktywacja!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Aktywuj losowego trona.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Pasywna moc specjalna&lt;/b&gt;
+Zdrowie i atak stronnika są zamienione.
+Twoi stronnicy mają +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    Alchemik
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Pasywna moc specjalna&lt;/b&gt;
+Za każdym razem gdy zostanie przyzwany stronnik, zamień jego atak i zdrowie.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    Alchemik
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Arkanotron
+   </name>
+   <text>
+    Obaj gracze mają &lt;b&gt;Obrażenia zaklęć +2&lt;/b&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    Atramedes
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    Baron Geddon
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    Baron Geddon
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brązowe Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, stronnicy Chromagusa kosztują (3) mniej.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Brązowe Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, stronnicy Chromagusa kosztują (1) mniej.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    Brzytworóg Nieokiełznany
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    Brzytworóg Nieokiełznany
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chochlik
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    Chromagus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    Chromagus
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromagus
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    Za każdym razem gdy dobierasz kartę, umieść jej dodatkową kopię w ręce.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    Lewa głowa nie lubi pieczarek, prawa głowa nie znosi owoców morza, natomiast obie nienawidzą ananasów, więc zawsze zamawiają margaritę bez dodatków.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ Leże Czarnoskrzydłego.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Można wykonać po ukończeniu
+Leża Czarnoskrzydłego.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatyczna Mutacja
+   </name>
+   <text>
+    Przemień stronnika w Chromatycznego drakanina 2/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    Chromatyczny drakanin
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatyczny drakanin
+   </name>
+   <text>
+    Otrzymuje +2/+2 za każdym razem, gdy przeciwnik rzuci zaklęcie.
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatyczny prototyp
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatyczny smokowiec
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Chromatyczny smokowiec
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    Coren Bimberhaust
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    Coren Bimberhaust
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czarne Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, Chromagus wraz z każdą dobraną kartą otrzyma jej kopię.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czarne Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, Chromagus wraz z każdą dobraną kartą otrzyma jej kopię.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czarne pisklę
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czarnoskrzydły
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Drakanina 3/1. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czarnoskrzydły
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Drakanina 5/4. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    CZAS WALIĆ!
+   </name>
+   <text>
+    Zadaj $5 pkt. obrażeń losowemu wrogowi. Otrzymujesz 5 pkt. pancerza.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czerwone Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, otrzymujesz 1 pkt. obrażeń na początku twojej tury.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Czerwone Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, otrzymujesz 3 pkt. obrażeń na początku twojej tury.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dawna Horda
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij dwa Orki 2/2 z &lt;b&gt;Prowokacją&lt;/b&gt;. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dawna Horda
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij dwa Orki 1/1 z &lt;b&gt;Prowokacją&lt;/b&gt;. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dokładka!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Umieść na polu bitwy po jednym stronniku z każdej talii.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dokładka!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Umieść na polu bitwy dwóch stronników z twojej talii i jednego z talii przeciwnika.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Doładowanie
+   </name>
+   <text>
+    Zapełnij wszystkie puste kryształy many.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakanin
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakanin
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakanin czarownik
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    Otrzymuje +1/+1 za każdym razem, gdy stanie się celem twojego zaklęcia.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    Drakanin czarownik często zastanawia się, dlaczego każdy napotkany goblin i gnom krzyczy do niego z rozbawieniem: „Czarownik, czarownik, zepsuć mi się pokrętło od machina!”.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Nefariana w Ukrytym Laboratorium.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Nefariana
+w Ukrytym Laboratorium.
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    Zwiększone statystyki.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    Drakoniczna moc
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Drakonid miażdżyciel
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje +3/+3, jeśli twój przeciwnik ma 15 zdrowia lub mniej.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    Ponieważ dobry przeciwnik to płaski przeciwnik.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Atramedesa w Ukrytym Laboratorium.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Atramedesa
+w Ukrytym Laboratorium.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druidka Płomieni
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druidka Płomieni
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Druidka Płomieni
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;Wybierz jedno:&lt;/b&gt; Przemień w stronnika 5/2; lub w stronnika 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    Druidzi zbyt długo walczący na Północnej Grani bardzo łatwo wpadali w sidła Ragnarosa. W zasadzie wystarczył kubek gorącej czekolady…
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Garra w Ognistej Czeluści.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Garra
+w Ognistej Czeluści.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dzika magia
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Umieść losowe zaklęcie z klasy przeciwnika w twojej ręce.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Dzika magia
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Umieść losowe zaklęcie z klasy przeciwnika w twojej ręce.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Echolokacja
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Wyposaż się w broń, która staje się potężniejsza, gdy przeciwnik zagrywa karty.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Echolokacja
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Wyposaż się w broń, która staje się potężniejsza, gdy przeciwnik zagrywa karty.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Elektron
+   </name>
+   <text>
+    Wszystkie zaklęcia kosztują (3) mniej.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Elektron
+   </name>
+   <text>
+    Wszystkie zaklęcia kosztują (3) mniej.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esencja Czerwieni
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Każdy gracz dobiera 2 karty.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Esencja Czerwieni
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Każdy gracz dobiera 3 karty. Otrzymujesz kryształ many.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Furiat mocy
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    Garr
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    Generał Drakkisat
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    Generał Drakkisat
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    GIŃ, ROBAKU!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 8 pkt. obrażeń losowemu wrogowi.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    GIŃ, ROBAKU!
+   </name>
+   <text>
+    Zadaj $8 pkt. obrażeń losowemu wrogowi.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    GIŃCIE, ROBAKI!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 8 pkt. obrażeń losowemu wrogowi. DWUKROTNIE.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Głodny smok
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przyzwij losowego stronnika o koszcie 1 twojemu przeciwnikowi.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    Szczególnie chętnie zeżarłby Dratewkę.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Chromagusa w Leżu Czarnoskrzydłego.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Chromagusa
+w Leżu Czarnoskrzydłego.
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gniew demona
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    Zadaj $2 pkt. obrażeń wszystkim stronnikom nie będącym Demonami.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    Demony zwykle są dość spolegliwe. Musisz zagrać tę kartę, aby naprawdę je rozgniewać.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla czarnoksiężnika w Czarnej Górze.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla czarnoksiężnika w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Gyth
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Imperator Thaurissan
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    Na koniec twojej tury zmniejsz koszt kart w twojej ręce o (1).
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    Miałby całkiem klawe życie, gdyby nie fakt, że wezwany przez niego zły Władca Ognia zniewolił cały jego lud.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ Otchłań Czarnej Góry.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Można wykonać po ukończeniu
+Otchłani Czarnej Góry.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    Imperator Thaurissan
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    Imperator Thaurissan
+   </name>
+  </item>
+  <item>
+   <text>
+    Zwiększone zdrowie.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    Inkubacja
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Pasywna moc specjalna&lt;/b&gt;
+Wszystkie karty kosztują (1). Gracze mają limit 1 kryształu many.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    Intensywne spojrzenie
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;Pasywna moc specjalna&lt;/b&gt;
+Wszystkie karty kosztują (1). Masz limit 2 kryształów many, a przeciwnik 1.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    Intensywne spojrzenie
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    JA WALIĆ!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zniszcz losowego wrogiego stronnika.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    JA WALIĆ!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zniszcz losowego, rannego wrogiego stronnika.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kamieniowanie
+   </name>
+   <text>
+    Przyzwij 3 Sługi Ognia. &lt;b&gt;Przeciążenie:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kamieniowanie
+   </name>
+   <text>
+    Przyzwij 3 Sługi Ognia. &lt;b&gt;Przeciążenie:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kibic Czarnorytnych
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kościani stronnicy
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij dwa Kościane konstrukty 2/1.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kościani stronnicy
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij dwa Kościane konstrukty 4/2.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kościany konstrukt
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Kościany konstrukt
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <text>
+    Kosztuje (1) mniej.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    Łaska Imperatora
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    LAWA!
+   </name>
+   <text>
+    Zadaj $2 pkt. obrażeń wszystkim stronnikom.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    Lord Victor Nefarius
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Za każdym razem gdy gracz zagra kartę, Magmatron zada mu 2 pkt. obrażeń.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmatron
+   </name>
+   <text>
+    Za każdym razem gdy gracz zagra kartę, Magmatron zada mu 2 pkt. obrażeń.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Magmor
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Majordomus
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Żarzyciela Akolitę 3/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Majordomus
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Żarzyciela Akolitę 1/3.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    Majordomus Egzekutus
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    Majordomus Egzekutus
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Majordomus Egzekutus
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;Agonia:&lt;/b&gt; Zastąp twojego bohatera Ragnarosem, Władcą Ognia.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    Ogień. Nosisz go w sobie!
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ Ognistą Czeluść.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Można wykonać po ukończeniu
+Ognistej Czeluści.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    Maloriak
+   </name>
+  </item>
+  <item>
+   <text>
+    +2/+2.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    Mikstura mocy
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Miotacz toporów
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    Za każdym razem gdy ten stronnik otrzyma obrażenia, zadaj 2 pkt. obrażeń wrogiemu bohaterowi.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    Zawsze chciał zostać miotaczem ognia, ale okrutny los zadecydował inaczej.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla wojownika w Czarnej Górze.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla wojownika w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Miedziobroda
+   </name>
+   <text>
+    Moc specjalna Thaurissana nie może zostać użyta. Moira nie atakuje stronników bez &lt;b&gt;Prowokacji&lt;/b&gt;.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Moira Miedziobroda
+   </name>
+   <text>
+    Moc specjalna Thaurissana nie może zostać użyta. Moira nie atakuje stronników bez &lt;b&gt;Prowokacji&lt;/b&gt;.
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Mutacja
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna:&lt;/b&gt;
+Odrzuć losową kartę.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    Nadzorca Omokk
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    Nadzorca Omokk
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    Najwyższy Sędzia Groźnoskały
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    Najwyższy Sędzia Groźnoskały
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dodaj 2 losowe zaklęcia do twojej ręki &lt;i&gt;(z klasy przeciwnika)&lt;/i&gt;.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    Mówią na niego „Czarnoskrzydły” bo jest czarnym smokiem... i ma te, jak im tam... skrzydła!
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj wszystkich bossów w Czarnej Górze!
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Można wykonać po ukończeniu
+Ukrytego Laboratorium.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    Nefarian
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian uderza!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Nefarian zsyła ognisty deszcz!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Nefarian uderza!
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Nefarian zsyła ognisty deszcz!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Niebieskie Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, zaklęcia Chromagusa kosztują (3) mniej.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Niebieskie Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, zaklęcia Chromagusa kosztują (1) mniej.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Niszczyciel Ogniostraży
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje 1-4 do ataku. &lt;b&gt;Przeciążenie:&lt;/b&gt; (1)
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    Ragnaros przesłuchał setki kandydatów na stanowisko „Niszczyciela”, ale rzadko który do czegoś się nadawał.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Lorda Victora Nefariusa w Leżu Czarnoskrzydłego.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Lorda Victora Nefariusa w Leżu Czarnoskrzydłego.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    Zwiększony atak.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    Ogień!
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ogniste Serce
+   </name>
+   <text>
+    Dobierz 2 karty.
+Otrzymujesz 4 pkt. pancerza.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ognisty furiat
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje +3/+3, jeśli masz pustą rękę.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    Trzeba mieć spory dar przekonywania, aby obłaskawić potwora żyjącego w gorącym sercu wulkanu i zrobić z niego zwierzątko domowe.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Nadzorcę Omokka w Iglicy Czarnej Góry.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Nadzorcy Omokka w Iglicy Czarnej Góry.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    Onyxia
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Opoj
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Oprawca z Czarnorytnych
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 2 pkt. obrażeń wszystkim niezranionym wrogim stronnikom.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    Odpowiada za odpowiednią oprawę podczas imprez.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla łotra w Czarnej Górze.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla łotra w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ork z Dawnej Hordy
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ork z Dawnej Hordy
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Otwarcie wrót
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij trzy Pisklęta 2/2. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Otwarcie wrót
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij trzy Pisklęta 1/1. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Piętno
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Na koniec twojej tury dodaj kartę Piętna do ręki przeciwnika.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Piętno
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Na koniec twojej tury dodaj kartę Piętna do ręki przeciwnika.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pisklę
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pisklę
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pisklę
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Pisklę Zmierzchu
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje +2 do zdrowia, jeśli masz w ręku Smoka.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    Mimo, że Pisklęta Zmierzchu są w zasadzie magicznymi wampirami, nie mają nic wspólnego z żadną popularną serią książek.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla kapłana w Czarnej Górze.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla kapłana w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Płonąca adrenalina
+   </name>
+   <text>
+    Zadaj $2 pkt. obrażeń wrogiemu bohaterowi.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Plugawiciel
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 3 pkt. obrażeń, jeśli masz w ręku Smoka.
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    Dla Plugawiciela Czarnoskrzydłego profesjonalne plugawienie to nie zawód – to powołanie.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Maloriaka w Ukrytym Laboratorium.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Maloriaka
+w Ukrytym Laboratorium.
+   </howtogetgold>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Ponury klient
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    Za każdym razem gdy ten stronnik przetrwa otrzymanie obrażeń, przyzwij kolejnego Ponurego klienta.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    Jeśli lubisz obrywać po buzi, zapraszamy do karczmy „Pod Ponurym Opojem”!
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Ponurego Opoja w Otchłani Czarnej Góry.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Ponurego Opoja w Otchłani Czarnej Góry.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Postać żarokota
+   </name>
+   <text>
+    Przemień w stronnika 5/2.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Postać żaroptaka
+   </name>
+   <text>
+    Przemień w stronnika 2/5.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Potęga Władcy Ognia
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 30 pkt. obrażeń.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Prawdziwa postać
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Niech rozpocznie się gra!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Prawdziwa postać
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Niech rozpocznie się gra!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Prawdziwy Wódz
+   </name>
+   <text>
+    Zniszcz legendarnego stronnika.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Puls magmy
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 1 pkt. obrażeń wszystkim stronnikom.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    Ragnaros Władca Ognia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    Ragnaros Władca Ognia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    Ragnaros Władca Ognia
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    Ragnaros Władca Ognia
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rozbrzmiewający gong
+   </name>
+   <text>
+    Zniszcz broń przeciwnika.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rozkaz Drakkisata
+   </name>
+   <text>
+    Zniszcz stronnika. Otrzymujesz 10 pkt. pancerza.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    Rwij Czarnoręki
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Rwij Czarnoręki
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Jeśli masz w ręku Smoka, zniszcz &lt;b&gt;legendarnego&lt;/b&gt; stronnika.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    Z takim przydomkiem nie ma żadnych oporów przed pobrudzeniem sobie rąk.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ Iglicę Czarnej Góry.
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    Można wykonać po ukończeniu
+Iglicy Czarnej Góry.
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    Rwij Czarnoręki
+   </name>
+  </item>
+  <item>
+   <text>
+    Zwiększony atak.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    Ślepy szał
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Sługa Ognia
+   </name>
+   <text>
+    &lt;b&gt;Agonia:&lt;/b&gt; Zadaj 1 pkt. obrażeń wrogiemu bohaterowi za każdego Sługę Ognia, który zginął w tej turze.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Sługa Ognia
+   </name>
+   <text>
+    &lt;b&gt;Agonia:&lt;/b&gt; Zadaj 3 pkt. obrażeń wrogiemu bohaterowi za każdego Sługę Ognia, który zginął w tej turze.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    Zwiększony atak.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    Słyszę cię...
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smagnięcie
+   </name>
+   <text>
+    Zadaj $4 pkt. obrażeń.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    Smocza krew
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smocza potęga
+   </name>
+   <text>
+    Kosztuje (3) mniej w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smocze jajo
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    Za każdym razem gdy ten stronnik zostanie zraniony, przyzwij Pisklę 2/1.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    Traktuj je jak amunicję do smoczego działa.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Rwija Czarnorękiego w Iglicy Czarnej Góry.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Rwija Czarnorękiego w Iglicy Czarnej Góry.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smocze Kły
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    Otrzymuje +1 do ataku za każdym razem, gdy przeciwnik zagra kartę.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smocze zionięcie
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    Zadaj $4 pkt. obrażeń. Kosztuje (1) mniej za każdego stronnika, który zginął w tej turze.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    Smocze zionięcie jest najintensywniejsze zaraz po przebudzeniu.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla maga w Czarnej Górze.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla maga w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Smoczy towarzysz
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Następny Smok, którego zagrasz, kosztuje (2) mniej.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    Każdy potrzebuje w życiu odrobiny miłości. Nawet gruboskórne bestie.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Generała Drakkisata w Iglicy Czarnej Góry.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Generała Drakkisata w Iglicy Czarnej Góry.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Soniczne zionięcie
+   </name>
+   <text>
+    Zadaj $3 pkt. obrażeń stronnikowi. Daj twojej broni +3 do ataku
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <text>
+    +3 do ataku.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    Soniczne zionięcie
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Splugawione jajo
+   </name>
+   <text>
+    Kiedy ten stronnik ma 4 lub więcej pkt. zdrowia, następuje wylęg.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Splugawione jajo
+   </name>
+   <text>
+    Kiedy ten stronnik ma 5 lub więcej pkt. zdrowia, następuje wylęg.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Stopienie
+   </name>
+   <text>
+    Atak zmieniony na 0 w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Syn Płomienia
+   </name>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Zadaj 6 pkt. obrażeń.
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    System Obronny Omnotron
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    System Obronny Omnotron
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szef chochlików
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    Za każdym razem gdy ten stronnik zostanie zraniony, przyzwij Chochlika 1/1.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    Wraz ze swoim gangiem chochlików lubi zakradać się do Wichrogrodu i pisać „Ragnaros rządzi!” na wieży magów.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Mojordomusa Egzekutusa w Ognistej Czeluści.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Mojordomusa Egzekutusa w Ognistej Czeluści.
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szpon Onyxii
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szpony Brzytworoga
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    Otrzymuje +1 do ataku za każdym razem, gdy zginie Splugawione jajo.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szybki strzał
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    Zadaj $3 pkt. obrażeń.
+Jeśli masz pustą rękę, dobierz kartę.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    To Han strzelił pierwszy!
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla łowcy w Czarnej Górze.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla łowcy w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szyderczy tłum
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Kibica 1/1 z &lt;b&gt;Prowokacją&lt;/b&gt;.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Szyderczy tłum
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Kibica 1/1 z &lt;b&gt;Prowokacją&lt;/b&gt;.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Technik Czarnoskrzydłego
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Otrzymuje +1/+1, jeśli masz w ręku Smoka.
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    Na studiach szkoliła się pod okiem człowieka-nietoperza.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Barona Geddona w Ognistej Czeluści.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Barona Geddona w Ognistej Czeluści.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toksytron
+   </name>
+   <text>
+    Na początku twojej tury zadaje 1 pkt. obrażeń wszystkim pozostałym stronnikom.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Toksytron
+   </name>
+   <text>
+    Na początku twojej tury zadaje 1 pkt. obrażeń wszystkim pozostałym stronnikom.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Trzech na jednego
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    Wybierz stronnika. Wtasuj 3 kopie jego karty do twojej talii.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    ...to banda Łysego.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Arenę Czarnorytnych w Otchłani Czarnej Góry.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Areny Czarnorytnych w Otchłani Czarnej Góry.
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Uroczyste czuwanie
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    Dobierz 2 karty. Kosztuje (1) mniej za każdego stronnika, który zginął w tej turze.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    Co roku, pod Czarną Górą gromadzą się tłumy opłakujące tych, których kontrolą umysłu zmuszono do utopienia się w lawie.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla paladyna w Czarnej Górze.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla paladyna w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    Vaelastraz Plugawy
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    Vaelastraz Plugawy
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Walimy!
+   </name>
+   <text>
+    Przyzwij czterech krasnoludów 1/1 z &lt;b&gt;Prowokacją&lt;/b&gt;.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <text>
+    +3/+3.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    Wielkie pazury
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wirujący popiół
+   </name>
+   <text>
+    &lt;b&gt;Furia wichru&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wskrzeszenie
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    Przyzwij losowego przyjaznego stronnika, który zginął w tej grze.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    Po wejściu do podziemi zauważyłem powalonego awanturnika. W ostatnich chwilach życia wydrapał w kurzu na ścianie za sobą krótką wiadomość: „rez plz”.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Imperatora Thaurissana w Otchłani Czarnej Góry.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Imperatora Thaurissana w Otchłani Czarnej Góry.
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wstrząs lawy
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    Zadaj $2 pkt. obrażeń.
+Odblokuj twoje &lt;b&gt;Przeciążone&lt;/b&gt; kryształy many.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    Bliskie spotkanie z lawą może być zaprawdę wstrząsające!
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla szamana w Czarnej Górze.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla szamana w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wstrząs lawy
+   </name>
+   <text>
+    Karty zagrane w tej turze nie powodują &lt;b&gt;Przeciążenia&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wulkaniczny drzewion
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;Prowokacja.&lt;/b&gt;
+Kosztuje (1) mniej za każdego stronnika, który zginął w tej turze.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    Profesjonalnie zajmuje się rozpalaniem ognia przez pocieranie gałęzi.
+   </flavor>
+   <howtoget>
+    Aby odblokować, ukończ wyzwanie klasowe dla druida w Czarnej Górze.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po ukończeniu wyzwania klasowego dla druida w Czarnej Górze.
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wulkaniczny smokowiec
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    Kosztuje (1) mniej za każdego stronnika, który zginął w tej turze.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    Po godzinach dorabia w zakładzie wulkanizacyjnym.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj System Obronny Omnotron w Ukrytym Laboratorium.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Systemu Obronnego Omnotron w Ukrytym Laboratorium.
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wybuch many
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 10 pkt. obrażeń wrogiemu bohaterowi, jeśli ma niewydaną manę.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wybuch many
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Zadaj 5 pkt. obrażeń wrogiemu bohaterowi, jeśli ma niewydaną manę.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wykidajło Czarnorytnych
+   </name>
+   <text>
+    Zawsze wygrywa Bójki.
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wylęgarnia
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Daj wszystkim Splugawionym jajom +1 do zdrowia i przyzwij kolejne jajo.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wylęgarnia
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Daj wszystkim Splugawionym jajom +1 do zdrowia i przyzwij kolejne jajo.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <text>
+    Zwiększone zdrowie.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    Wytrwałość Zmierzchu
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wyzwól Aberracje!
+   </name>
+   <text>
+    Przyzwij 3 Aberracje.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Wyzwolenie!
+   </name>
+   <text>
+    Twój następny Smok kosztuje (2) mniej.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żarzyciel
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    Gdy rzucisz zaklęcie, zadaj 2 pkt. obrażeń rozdzielone losowo pomiędzy wszystkimi wrogami.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    Ukrytą pasją Żarzycieli jest ortografia. Godzinami potrafią rozmawiać o różnicach miedzy „ż” a „rz”.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Vaelastraza w Leżu Czarnoskrzydłego.
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Vaelastraza
+w Leżu Czarnoskrzydłego.
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żarzyciel Akolita
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żarzyciel Akolita
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Zejście
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Gytha. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Zejście
+   </name>
+   <text>
+    &lt;b&gt;Moc specjalna&lt;/b&gt;
+Przyzwij Gytha. Otrzymujesz nową moc specjalną.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Zemsta
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    Zadaj $1 pkt. obrażeń wszystkim stronnikom. Jeśli masz 12 pkt. zdrowia lub mniej, zamiast tego zadaj $3 pkt. obrażeń.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    Jest słodka i ponoć najlepiej smakuje na zimno.
+   </flavor>
+   <howtoget>
+    Aby odblokować, pokonaj Brzytworoga w Leżu Czarnoskrzydłego.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Można wykonać po pokonaniu Brzytworoga
+w Leżu Czarnoskrzydłego.
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Zielone Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, przywracasz 2 pkt. zdrowia przeciwnikowi na początku twojej tury.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Zielone Piętno
+   </name>
+   <text>
+    Gdy masz tę kartę w ręce, przywracasz 6 pkt. zdrowia przeciwnikowi na początku twojej tury.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <text>
+    W turze Geddona zadaj 10 pkt. obrażeń wszystkim twoim postaciom.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    Żywa bomba
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żywa bomba
+   </name>
+   <text>
+    Wybierz wrogiego stronnika. Jeśli przeżyje do twojej następnej tury, zadaj $10 pkt. obrażeń wszystkim wrogom.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <text>
+    W turze Geddona zadaj zadaj 5 pkt. obrażeń wszystkim twoim postaciom.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    Żywa bomba
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żywa bomba
+   </name>
+   <text>
+    Wybierz wrogiego stronnika. Jeśli przeżyje do twojej następnej tury, zadaj $5 pkt. obrażeń wszystkim wrogom.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    Żywa lawa
+   </name>
+   <text>
+    &lt;b&gt;Prowokacja&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <collectible>
@@ -20512,26 +26139,6 @@ Dobierz kartę.
    </playerclass>
   </item>
   <item>
-   <set>
-    Basic
-   </set>
-   <name>
-    Dar królów
-   </name>
-   <text>
-    +4/+4.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_092e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -20580,19 +26187,16 @@ Dobierz kartę.
     Basic
    </set>
    <name>
-    Dar mocy
+    Dar królów
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    +3 do ataku.
+    +4/+4.
    </text>
    <type>
     Enchantment
    </type>
    <id>
-    CS2_087e
+    CS2_092e
    </id>
    <playerclass>
     Paladin
@@ -20638,6 +26242,29 @@ Dobierz kartę.
    <howtogetgold>
     Odblokowane na poziomie 45.
    </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Basic
+   </set>
+   <name>
+    Dar mocy
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    +3 do ataku.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_087e
+   </id>
    <playerclass>
     Paladin
    </playerclass>
@@ -20825,6 +26452,31 @@ Dobierz kartę.
    </howtogetgold>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Dziki ryk
+   </name>
+   <text>
+    +2 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_011o
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -20864,31 +26516,6 @@ Dobierz kartę.
    <howtogetgold>
     Odblokowane na poziomie 43.
    </howtogetgold>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Dziki ryk
-   </name>
-   <text>
-    +2 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_011o
-   </id>
    <playerclass>
     Druid
    </playerclass>
@@ -21554,31 +27181,6 @@ Dobierz kartę.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Heroiczny cios
-   </name>
-   <text>
-    +4 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_105e
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -21618,6 +27220,31 @@ Dobierz kartę.
    <howtogetgold>
     Odblokowane na poziomie 15.
    </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Heroiczny cios
+   </name>
+   <text>
+    +4 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_105e
+   </id>
    <playerclass>
     Warrior
    </playerclass>
@@ -21875,6 +27502,32 @@ Dobierz kartę.
    </playerclass>
   </item>
   <item>
+   <set>
+    Basic
+   </set>
+   <name>
+    Kontrola umysłu
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Kontrola nad tym stronnikiem została zamieniona.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS1_113e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -21914,32 +27567,6 @@ Dobierz kartę.
    <howtogetgold>
     Odblokowane na poziomie 49.
    </howtogetgold>
-   <playerclass>
-    Priest
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Basic
-   </set>
-   <name>
-    Kontrola umysłu
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Kontrola nad tym stronnikiem została zamieniona.
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS1_113e
-   </id>
    <playerclass>
     Priest
    </playerclass>
@@ -21989,31 +27616,6 @@ Dobierz kartę.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Kruszyskalny oręż
-   </name>
-   <text>
-    Ta postać ma +3 do ataku podczas tej tury.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_045e
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -22053,6 +27655,31 @@ Dobierz kartę.
    <howtogetgold>
     Odblokowane na poziomie 36.
    </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Kruszyskalny oręż
+   </name>
+   <text>
+    Ta postać ma +3 do ataku podczas tej tury.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_045e
+   </id>
    <playerclass>
     Shaman
    </playerclass>
@@ -22707,6 +28334,20 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
    </playerclass>
   </item>
   <item>
+   <set>
+    Basic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    GAME_005e
+   </id>
+   <name>
+    Moneta
+   </name>
+  </item>
+  <item>
    <text>
     Otrzymujesz 1 kryształ many w tej turze.
    </text>
@@ -22718,20 +28359,6 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
    </type>
    <id>
     GAME_005
-   </id>
-   <name>
-    Moneta
-   </name>
-  </item>
-  <item>
-   <set>
-    Basic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    GAME_005e
    </id>
    <name>
     Moneta
@@ -22836,55 +28463,6 @@ Dobierz kartę i otrzymaj 2 pkt. obrażeń.
    </type>
    <howtogetgold>
     Odblokowane na poziomie 45.
-   </howtogetgold>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Freeze
-    </item>
-   </mechanics>
-   <collectible>
-    True
-   </collectible>
-   <set>
-    Basic
-   </set>
-   <name>
-    Mroźne porażenie
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    Zadaj $1 pkt. obrażeń wrogiej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
-   </text>
-   <artist>
-    Alex Horley Orlandelli
-   </artist>
-   <rarity>
-    Free
-   </rarity>
-   <cost>
-    1
-   </cost>
-   <id>
-    CS2_037
-   </id>
-   <flavor>
-    Idzie mróz, idzie mróz, niesie śniegu cały wóz!
-   </flavor>
-   <howtoget>
-    Odblokowane na poziomie 1.
-   </howtoget>
-   <type>
-    Spell
-   </type>
-   <howtogetgold>
-    Odblokowane na poziomie 32.
    </howtogetgold>
    <playerclass>
     Shaman
@@ -23666,31 +29244,6 @@ Otrzymujesz 2 pkt. pancerza.
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Pazur
-   </name>
-   <text>
-    +2 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_005o
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -23730,6 +29283,31 @@ Otrzymujesz 2 pkt. pancerza.
    <howtogetgold>
     Odblokowane na poziomie 32.
    </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Pazur
+   </name>
+   <text>
+    +2 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_005o
+   </id>
    <playerclass>
     Druid
    </playerclass>
@@ -25587,26 +31165,6 @@ Dobierz kartę.
     Szarża
    </name>
    <text>
-    Tundrowy nosorożec daje &lt;b&gt;Szarżę&lt;/b&gt;.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    DS1_178e
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Basic
-   </set>
-   <name>
-    Szarża
-   </name>
-   <text>
     Ten stronnik otrzymuje &lt;b&gt;Szarżę&lt;/b&gt;.
    </text>
    <type>
@@ -25617,6 +31175,26 @@ Dobierz kartę.
    </id>
    <playerclass>
     Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Basic
+   </set>
+   <name>
+    Szarża
+   </name>
+   <text>
+    Tundrowy nosorożec daje &lt;b&gt;Szarżę&lt;/b&gt;.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    DS1_178e
+   </id>
+   <playerclass>
+    Hunter
    </playerclass>
   </item>
   <item>
@@ -25812,7 +31390,7 @@ Dobierz kartę.
     Neutral
    </faction>
    <text>
-    Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wrogimi postaciami.
+    Zadaj $3 pkt. obrażeń losowo rozdzielone pomiędzy wszystkimi wrogami.
    </text>
    <artist>
     Warren Mahy
@@ -27040,6 +32618,55 @@ Przyzwij Rekruta Srebrnej Dłoni 1/1.
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     Freeze
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Basic
+   </set>
+   <name>
+    Wstrząs mrozu
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    Zadaj $1 pkt. obrażeń wrogiej postaci i ją &lt;b&gt;Zamroź&lt;/b&gt;.
+   </text>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <rarity>
+    Free
+   </rarity>
+   <cost>
+    1
+   </cost>
+   <id>
+    CS2_037
+   </id>
+   <flavor>
+    Idzie mróz, idzie mróz, niesie śniegu cały wóz!
+   </flavor>
+   <howtoget>
+    Odblokowane na poziomie 1.
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    Odblokowane na poziomie 32.
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -27481,6 +33108,31 @@ Wyposaż bohatera w sztylet 1/2.
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Żądza krwi
+   </name>
+   <text>
+    +3 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_046e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -27520,31 +33172,6 @@ Wyposaż bohatera w sztylet 1/2.
    <howtogetgold>
     Odblokowane na poziomie 40.
    </howtogetgold>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Żądza krwi
-   </name>
-   <text>
-    +3 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_046e
-   </id>
    <playerclass>
     Shaman
    </playerclass>
@@ -27700,6 +33327,31 @@ Wyposaż bohatera w sztylet 1/2.
    </name>
   </item>
   <item>
+   <mechanics>
+    <item>
+     Morph
+    </item>
+   </mechanics>
+   <set>
+    Basic
+   </set>
+   <name>
+    Zły urok
+   </name>
+   <text>
+    Ten stronnik został przemieniony!
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_246e
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -27739,31 +33391,6 @@ Wyposaż bohatera w sztylet 1/2.
    <howtogetgold>
     Odblokowane na poziomie 47.
    </howtogetgold>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Morph
-    </item>
-   </mechanics>
-   <set>
-    Basic
-   </set>
-   <name>
-    Zły urok
-   </name>
-   <text>
-    Ten stronnik został przemieniony!
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_246e
-   </id>
    <playerclass>
     Shaman
    </playerclass>
@@ -28263,17 +33890,22 @@ Wyposaż bohatera w sztylet 1/2.
    <set>
     Debug
    </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
    <type>
     Spell
    </type>
    <id>
-    XXX_028
+    XXX_030
    </id>
-   <name>
-   </name>
-   <rarity>
-    Common
-   </rarity>
   </item>
   <item>
    <mechanics>
@@ -28864,6 +34496,40 @@ Wyposaż bohatera w sztylet 1/2.
    </name>
   </item>
   <item>
+   <set>
+    Debug
+   </set>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_028
+   </id>
+   <name>
+   </name>
+   <rarity>
+    Common
+   </rarity>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_029
+   </id>
+  </item>
+  <item>
    <mechanics>
     <item>
      ImmuneToSpellpower
@@ -28887,45 +34553,6 @@ Wyposaż bohatera w sztylet 1/2.
    </type>
    <id>
     XXX_002
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_029
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_030
    </id>
   </item>
   <item>
@@ -29347,6 +34974,83 @@ Wyposaż bohatera w sztylet 1/2.
    </name>
    <text>
    </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
    <attack>
     1
    </attack>
@@ -29562,7 +35266,7 @@ Wyposaż bohatera w sztylet 1/2.
     Alliance
    </faction>
    <text>
-    Na początku twojej tury przemień losowego stronnika w kurczaka 1/1.
+    Na początku twojej tury przemień losowego stronnika w Kurczaka 1/1.
    </text>
    <rarity>
     Common
@@ -30129,7 +35833,7 @@ Wyposaż bohatera w sztylet 1/2.
     Antyczny medibot
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Przywróć 8 pkt. zdrowia twojemu bohaterowi.
@@ -30886,7 +36590,7 @@ Wyposaż bohatera w sztylet 1/2.
     4
    </health>
    <flavor>
-    Druidzi Kła piszą wyłącznie wężykiem.
+    Druidzi Kłów piszą wyłącznie wężykiem.
    </flavor>
    <type>
     Minion
@@ -31437,7 +37141,7 @@ Wyposaż bohatera w sztylet 1/2.
     Gnom eksperymentator
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Dobierz kartę. Jeśli to stronnik, zamieni się w Kurczaka.
@@ -31575,7 +37279,7 @@ Wyposaż bohatera w sztylet 1/2.
     Gobliński saper
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     Ma +4 do ataku, kiedy twój przeciwnik ma w ręce 6 lub więcej kart.
@@ -32016,7 +37720,7 @@ Wyposaż bohatera w sztylet 1/2.
     Klekotnik Wyśrubny
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj przyjaznemu Mechowi +2/+2.
@@ -32326,7 +38030,7 @@ Wyposaż bohatera w sztylet 1/2.
     Todd Lockwood
    </artist>
    <text>
-    Otrzymuje +2/+2 za każdym razem,  gdy twój bohater otrzymuje obrażenia w twojej turze.
+    Otrzymuje +2/+2 za każdym razem, gdy twój bohater otrzymuje obrażenia w twojej turze.
    </text>
    <rarity>
     Common
@@ -33604,23 +39308,6 @@ wroga.
    </playerclass>
   </item>
   <item>
-   <text>
-    +3 do ataku.
-   </text>
-   <set>
-    Goblins vs Gnomes
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    GVG_022a
-   </id>
-   <name>
-    Olejek osełkowy
-   </name>
-  </item>
-  <item>
    <mechanics>
     <item>
      Combo
@@ -33679,7 +39366,7 @@ wroga.
   </item>
   <item>
    <text>
-    +1 do zdrowia.
+    +3 do ataku.
    </text>
    <set>
     Goblins vs Gnomes
@@ -33688,10 +39375,10 @@ wroga.
     Enchantment
    </type>
    <id>
-    PART_001e
+    GVG_022a
    </id>
    <name>
-    Opancerzenie
+    Olejek osełkowy
    </name>
   </item>
   <item>
@@ -33887,6 +39574,28 @@ wroga.
   <item>
    <mechanics>
     <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Goblins vs Gnomes
+   </set>
+   <name>
+    Pieczęć Światłości
+   </name>
+   <text>
+    +2 do ataku w tej turze.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    GVG_057a
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
      ImmuneToSpellpower
     </item>
    </mechanics>
@@ -33923,28 +39632,6 @@ wroga.
    <playerclass>
     Paladin
    </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Goblins vs Gnomes
-   </set>
-   <name>
-    Pieczęć Światłości
-   </name>
-   <text>
-    +2 do ataku w tej turze.
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    GVG_057a
-   </id>
   </item>
   <item>
    <collectible>
@@ -34006,7 +39693,7 @@ wroga.
     Podkręcenie
    </name>
    <text>
-    Obrażenia zaklęć +2.
+    Obrażenia zaklęć +2
    </text>
    <type>
     Enchantment
@@ -34033,6 +39720,23 @@ wroga.
    </id>
    <name>
     Pomsta
+   </name>
+  </item>
+  <item>
+   <text>
+    +1 do zdrowia.
+   </text>
+   <set>
+    Goblins vs Gnomes
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    PART_001e
+   </id>
+   <name>
+    Poszycie
    </name>
   </item>
   <item>
@@ -35281,7 +40985,7 @@ Przeciążenie:&lt;/b&gt; (1)
     &lt;b&gt;Okrzyk bojowy:&lt;/b&gt; Daj losowemu przyjaznemu stronnikowi &lt;b&gt;Boską tarczę&lt;/b&gt; oraz &lt;b&gt;Prowokację&lt;/b&gt;.
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic

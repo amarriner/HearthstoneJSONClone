@@ -826,7 +826,7 @@
     화염 폭발
    </name>
    <text>
-    피해를 $1씩 주는 화살 5개를 무작위 적들에게 발사합니다.
+    피해를 $1씩 주는 화살 5개를 무작위로 선택된 적들에게 발사합니다.
    </text>
    <rarity>
     Common
@@ -1106,7 +1106,7 @@
     Ralph Horsley
    </artist>
    <text>
-    무작위 적 하수인 둘에게 피해를 $2 줍니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
+    무작위로 선택된 적 하수인 둘에게 피해를 $2 줍니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
    </text>
    <faction>
     Neutral
@@ -1215,26 +1215,6 @@
     강화됨
    </name>
    <text>
-    내구도 증가
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_536e
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    강화됨
-   </name>
-   <text>
     공격력 +1, 내구도 +1
    </text>
    <type>
@@ -1245,6 +1225,26 @@
    </id>
    <playerclass>
     Warrior
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    강화됨
+   </name>
+   <text>
+    내구도 증가
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_536e
+   </id>
+   <playerclass>
+    Hunter
    </playerclass>
   </item>
   <item>
@@ -1385,7 +1385,7 @@
     E.M. Gist
    </artist>
    <text>
-    내 턴이 끝날 때, 다른 무작위 아군 하수인에게 공격력을 +1 부여합니다.
+    내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 공격력을 +1 부여합니다.
    </text>
    <rarity>
     Rare
@@ -2321,6 +2321,41 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    군주 자락서스
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    15
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Hero
+   </type>
+   <id>
+    EX1_323h
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
    <mechanics>
     <item>
      Battlecry
@@ -2367,41 +2402,6 @@
    </elite>
    <id>
     EX1_323
-   </id>
-   <playerclass>
-    Warlock
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    군주 자락서스
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <rarity>
-    Legendary
-   </rarity>
-   <attack>
-    0
-   </attack>
-   <cost>
-    0
-   </cost>
-   <health>
-    15
-   </health>
-   <race>
-    Demon
-   </race>
-   <type>
-    Hero
-   </type>
-   <id>
-    EX1_323h
    </id>
    <playerclass>
     Warlock
@@ -2740,35 +2740,6 @@
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    나무정령
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <attack>
-    2
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    2
-   </health>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_158t
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Charge
@@ -2843,6 +2814,35 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    나무정령
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_158t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -2856,7 +2856,7 @@
     Wayne Reynolds
    </artist>
    <text>
-    무작위로 선정된 하수인 하나를 제외한 모든 하수인을 처치합니다.
+    무작위로 선택된 하수인 하나를 제외한 모든 하수인을 처치합니다.
    </text>
    <faction>
     Neutral
@@ -2899,7 +2899,7 @@
     Daren Bader
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력이 2 이하인 무작위 적 하수인 하나를 처치합니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 공격력 2 이하의 하수인 하나를 처치합니다.
    </text>
    <rarity>
     Rare
@@ -3107,6 +3107,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    내면의 분노
+   </name>
+   <text>
+    공격력 +2
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_607e
+   </id>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -3139,26 +3159,6 @@
    </type>
    <id>
     EX1_607
-   </id>
-   <playerclass>
-    Warrior
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    내면의 분노
-   </name>
-   <text>
-    공격력 +2
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_607e
    </id>
    <playerclass>
     Warrior
@@ -3361,26 +3361,6 @@
    </id>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    냉혈
-   </name>
-   <text>
-    공격력 +2
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_073e
-   </id>
-   <playerclass>
-    Rogue
-   </playerclass>
-  </item>
-  <item>
    <mechanics>
     <item>
      Combo
@@ -3444,6 +3424,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    냉혈
+   </name>
+   <text>
+    공격력 +2
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    CS2_073e
+   </id>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -3457,7 +3457,7 @@
     Sean O’Daniels
    </artist>
    <text>
-    내 턴이 시작될 때, 이 하수인이 내 손에 있는 다른 무작위 하수인 하나와 교체됩니다.
+    내 턴이 시작될 때, 이 하수인을 무작위로 선택된 내 손의 다른 하수인 하나와 교체합니다.
    </text>
    <rarity>
     Rare
@@ -3676,7 +3676,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;비밀:&lt;/b&gt; 내 영웅을 공격하는 캐릭터가 다른 무작위 캐릭터 하나를 공격하게 됩니다.
+    &lt;b&gt;비밀:&lt;/b&gt; 내 영웅을 공격하는 캐릭터가 무작위로 선택된 다른 캐릭터 하나를 공격하게 됩니다.
    </text>
    <artist>
     Daren Bader
@@ -3875,7 +3875,7 @@
     Matt Cavotta
    </artist>
    <text>
-    내 하수인이 소환된 후에, 무작위 적 하나에게 피해를 1 줍니다.
+    내 하수인이 소환된 후에, 무작위로 선택된 적 하나에게 피해를 1 줍니다.
    </text>
    <rarity>
     Rare
@@ -5318,23 +5318,6 @@
    </playerclass>
   </item>
   <item>
-   <text>
-    내구도 +1
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_146o
-   </id>
-   <name>
-    무기 연마
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -5361,14 +5344,17 @@
    <name>
     무리의 우두머리
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
-    +1/+1
+    내 하수인들에게 +1/+1을 부여합니다.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_160be
+    EX1_160b
    </id>
    <playerclass>
     Druid
@@ -5381,17 +5367,14 @@
    <name>
     무리의 우두머리
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    내 하수인들에게 +1/+1을 부여합니다.
+    +1/+1
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_160b
+    EX1_160be
    </id>
    <playerclass>
     Druid
@@ -5512,28 +5495,6 @@
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    물기
-   </name>
-   <text>
-    이번 턴에 공격력 +4
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_570e
-   </id>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -5570,6 +5531,28 @@
    <playerclass>
     Druid
    </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    물기
+   </name>
+   <text>
+    이번 턴에 공격력 +4
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_570e
+   </id>
   </item>
   <item>
    <set>
@@ -5824,23 +5807,6 @@
    </id>
   </item>
   <item>
-   <text>
-    +1/+1
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_014te
-   </id>
-   <name>
-    바나나
-   </name>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -5859,6 +5825,23 @@
    <id>
     EX1_014t
    </id>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Classic
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_014te
+   </id>
+   <name>
+    바나나
+   </name>
   </item>
   <item>
    <collectible>
@@ -5999,13 +5982,13 @@
     Neutral
    </faction>
    <text>
-    내 다른 아군 하수인들에게 +2/+2를 부여합니다.
+    +2/+2
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_573a
+    EX1_573ae
    </id>
    <playerclass>
     Druid
@@ -6022,13 +6005,53 @@
     Neutral
    </faction>
    <text>
-    +2/+2
+    내 다른 아군 하수인들에게 +2/+2를 부여합니다.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_573ae
+    EX1_573a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    발톱의 드루이드
+   </name>
+   <text>
+    &lt;b&gt;돌진&lt;/b&gt;
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_165t1
    </id>
    <playerclass>
     Druid
@@ -6074,46 +6097,6 @@
    </type>
    <id>
     EX1_165
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     Charge
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    발톱의 드루이드
-   </name>
-   <text>
-    &lt;b&gt;돌진&lt;/b&gt;
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <attack>
-    4
-   </attack>
-   <cost>
-    5
-   </cost>
-   <health>
-    4
-   </health>
-   <race>
-    Beast
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_165t1
    </id>
    <playerclass>
     Druid
@@ -6507,6 +6490,41 @@
    </playerclass>
   </item>
   <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Classic
+   </set>
+   <name>
+    별똥별
+   </name>
+   <artist>
+    Richard Wright
+   </artist>
+   <text>
+    &lt;b&gt;선택 -&lt;/b&gt; 하수인 하나에게 피해를 $5 줍니다. 또는 모든 적 하수인에게 피해를 $2 줍니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <flavor>
+    하늘이 무너지는 거냐고요? 네, 네, 그렇다고 해 둡시다.
+   </flavor>
+   <type>
+    Spell
+   </type>
+   <id>
+    NEW1_007
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <set>
     Classic
    </set>
@@ -6541,41 +6559,6 @@
    </type>
    <id>
     NEW1_007a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <collectible>
-    True
-   </collectible>
-   <set>
-    Classic
-   </set>
-   <name>
-    별똥별
-   </name>
-   <artist>
-    Richard Wright
-   </artist>
-   <text>
-    &lt;b&gt;선택 -&lt;/b&gt; 하수인 하나에게 피해를 $5 줍니다. 또는 모든 적 하수인에게 피해를 $2 줍니다.
-   </text>
-   <rarity>
-    Rare
-   </rarity>
-   <cost>
-    5
-   </cost>
-   <flavor>
-    하늘이 무너지는 거냐고요? 네, 네, 그렇다고 해 둡시다.
-   </flavor>
-   <type>
-    Spell
-   </type>
-   <id>
-    NEW1_007
    </id>
    <playerclass>
     Druid
@@ -6759,7 +6742,7 @@
     Neutral
    </faction>
    <text>
-    이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위 적에게 피해를 8 줍니다.
+    이 하수인은 적을 공격할 수 없습니다. 내 턴이 끝날 때 무작위로 선택된 적 하나에게 피해를 8 줍니다.
    </text>
    <artist>
     Greg Staples
@@ -6980,7 +6963,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력 2 이하인 적 하수인 하나를 우리편으로 만듭니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력이 2 이하인 적 하수인 하나를 내 편으로 만듭니다.
    </text>
    <artist>
     Chippy
@@ -7278,6 +7261,49 @@
     Classic
    </set>
    <name>
+    뿌리 내리기
+   </name>
+   <text>
+    생명력 +5, &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_178ae
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    뿌리 내리기
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    생명력 +5와 &lt;b&gt;도발&lt;/b&gt; 능력을 얻습니다.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_178a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
     뿌리 들기
    </name>
    <text>
@@ -7311,49 +7337,6 @@
    </type>
    <id>
     EX1_178b
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    뿌리 박기
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    생명력 +5와 &lt;b&gt;도발&lt;/b&gt; 능력을 얻습니다.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_178a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    뿌리 박기
-   </name>
-   <text>
-    생명력 +5, &lt;b&gt;도발&lt;/b&gt;
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_178ae
    </id>
    <playerclass>
     Druid
@@ -7542,32 +7525,6 @@
    <name>
     새끼용
    </name>
-   <attack>
-    1
-   </attack>
-   <cost>
-    1
-   </cost>
-   <health>
-    1
-   </health>
-   <race>
-    Dragon
-   </race>
-   <type>
-    Minion
-   </type>
-   <id>
-    EX1_116t
-   </id>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    새끼용
-   </name>
    <faction>
     Neutral
    </faction>
@@ -7588,6 +7545,32 @@
    </type>
    <id>
     ds1_whelptoken
+   </id>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    새끼용
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    EX1_116t
    </id>
   </item>
   <item>
@@ -8088,7 +8071,7 @@
     Alliance
    </faction>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 다른 무작위 하수인 하나를 5/5 데빌사우루스 또는 1/1 다람쥐로 변신시킵니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 다른 하수인 하나를 5/5 데빌사우루스 또는 1/1 다람쥐로 변신시킵니다.
    </text>
    <artist>
     Tom Baxa
@@ -8215,6 +8198,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    숲의 영혼
+   </name>
+   <text>
+    죽음의 메아리: 2/2 나무정령 하나 소환
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_158e
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -8247,26 +8250,6 @@
    </type>
    <id>
     EX1_158
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    숲의 영혼
-   </name>
-   <text>
-    죽음의 메아리: 2/2 나무정령 하나 소환
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_158e
    </id>
    <playerclass>
     Druid
@@ -8386,7 +8369,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 모든 플레이어가 카드를 2장 뽑습니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 각 플레이어가 카드를 2장씩 뽑습니다.
    </text>
    <artist>
     Steve Prescott
@@ -8601,7 +8584,7 @@
     Glenn Rane
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 적 하수인 하나를 우리편으로 만듭니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 적 하수인 하나를 내 편으로 만듭니다.
    </text>
    <rarity>
     Legendary
@@ -8705,7 +8688,7 @@
     Zoltan &amp; Gabor
    </artist>
    <text>
-    상대편의 덱에서 무작위 하수인 하나를 복사하여 내 전장에 놓습니다.
+    상대편 덱에서 무작위로 선택된 하수인 하나를 복사하여 내 전장에 놓습니다.
    </text>
    <faction>
     Neutral
@@ -9025,7 +9008,7 @@
     Raven Mimura
    </artist>
    <text>
-    덱에 있는 무작위 악마 둘을 내 손으로 가져옵니다.
+    내 덱에서 무작위로 선택된 악마 카드 2장을 내 손으로 가져옵니다.
    </text>
    <faction>
     Neutral
@@ -9044,6 +9027,35 @@
    </type>
    <id>
     EX1_317
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    악마의 불꽃
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    +2/+2
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_596e
    </id>
    <playerclass>
     Warlock
@@ -9088,33 +9100,21 @@
    </playerclass>
   </item>
   <item>
+   <text>
+    +5/+5, 하지만 곧 죽음
+   </text>
    <set>
     Classic
    </set>
-   <name>
-    악마의 불꽃
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    +2/+2
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
    <type>
     Enchantment
    </type>
    <id>
-    EX1_596e
+    DREAM_05e
    </id>
-   <playerclass>
-    Warlock
-   </playerclass>
+   <name>
+    악몽
+   </name>
   </item>
   <item>
    <set>
@@ -9138,23 +9138,6 @@
    <playerclass>
     Dream
    </playerclass>
-  </item>
-  <item>
-   <text>
-    +5/+5, 하지만 곧 죽음
-   </text>
-   <set>
-    Classic
-   </set>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    DREAM_05e
-   </id>
-   <name>
-    악몽
-   </name>
   </item>
   <item>
    <mechanics>
@@ -9360,6 +9343,26 @@
     Classic
    </set>
    <name>
+    암흑의 광기
+   </name>
+   <text>
+    이번 턴에는 상대편의 명을 따름
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_334e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
     압도적인 힘
    </name>
    <faction>
@@ -9536,6 +9539,31 @@
    </playerclass>
   </item>
   <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Classic
+   </set>
+   <name>
+    야수의 격노
+   </name>
+   <text>
+    이번 턴에 공격력 +2, &lt;b&gt;피해 면역&lt;/b&gt;
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_549o
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -9571,51 +9599,6 @@
    </id>
    <playerclass>
     Hunter
-   </playerclass>
-  </item>
-  <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    야수의 격노
-   </name>
-   <text>
-    이번 턴에 공격력 +2, &lt;b&gt;피해 면역&lt;/b&gt;
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_549o
-   </id>
-   <playerclass>
-    Hunter
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    어둠의 명령
-   </name>
-   <text>
-    이번 턴에는 상대편의 명을 따름
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_334e
-   </id>
-   <playerclass>
-    Priest
    </playerclass>
   </item>
   <item>
@@ -10504,7 +10487,7 @@
     Glenn Rane
    </artist>
    <text>
-    내 영웅이 입은 피해 1당 비용이 1씩 감소합니다.
+    내 영웅이 입은 피해 1당 비용이 (1)씩 감소합니다.
    </text>
    <rarity>
     Epic
@@ -10542,7 +10525,7 @@
     Raymond Swanland
    </artist>
    <text>
-    캐릭터 하나에게 피해를 $2 줍니다. 그 캐릭터가 죽으면 무작위 악마 하나를 소환합니다.
+    캐릭터 하나에게 피해를 $2 줍니다. 그 캐릭터가 죽으면 무작위로 선택된 악마 하나를 소환합니다.
    </text>
    <faction>
     Neutral
@@ -10699,31 +10682,6 @@
    </playerclass>
   </item>
   <item>
-   <mechanics>
-    <item>
-     OneTurnEffect
-    </item>
-   </mechanics>
-   <set>
-    Classic
-   </set>
-   <name>
-    위협의 포효
-   </name>
-   <text>
-    이번 턴에 공격력 -3
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_161o
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -10741,29 +10699,6 @@
    </type>
    <id>
     EX1_164a
-   </id>
-   <playerclass>
-    Druid
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    육성
-   </name>
-   <faction>
-    Neutral
-   </faction>
-   <text>
-    카드를 3장 뽑습니다.
-   </text>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_164b
    </id>
    <playerclass>
     Druid
@@ -10802,6 +10737,29 @@
    </type>
    <id>
     EX1_164
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    육성
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    카드를 3장 뽑습니다.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_164b
    </id>
    <playerclass>
     Druid
@@ -11025,7 +10983,7 @@
     Neutral
    </faction>
    <text>
-    적 캐릭터들에게 $8의 피해를 무작위로 나누어 입힙니다.
+    모든 적에게 $8의 피해를 무작위로 나누어 입힙니다.
    </text>
    <artist>
     Alex Garner
@@ -11107,7 +11065,7 @@
    </faction>
    <text>
     내 턴이 끝날 때,
-&lt;b&gt;꿈 카드&lt;/b&gt;를 1장 뽑습니다.
+&lt;b&gt;꿈 카드&lt;/b&gt; 1장을 내 손으로 가져옵니다.
    </text>
    <artist>
     Gabor Szikszai
@@ -11375,17 +11333,14 @@
    <name>
     자연의 징표
    </name>
-   <faction>
-    Neutral
-   </faction>
    <text>
-    공격력을 +4 부여합니다.
+    생명력 +4, &lt;b&gt;도발&lt;/b&gt;
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_155a
+    EX1_155be
    </id>
    <playerclass>
     Druid
@@ -11398,14 +11353,17 @@
    <name>
     자연의 징표
    </name>
+   <faction>
+    Neutral
+   </faction>
    <text>
-    생명력 +4, &lt;b&gt;도발&lt;/b&gt;
+    공격력을 +4 부여합니다.
    </text>
    <type>
-    Enchantment
+    Spell
    </type>
    <id>
-    EX1_155be
+    EX1_155a
    </id>
    <playerclass>
     Druid
@@ -11731,7 +11689,7 @@
     Neutral
    </faction>
    <text>
-    각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 넣습니다.
+    각 플레이어가 주문을 시전할 때마다 동일한 주문을 다른 플레이어의 손에 추가합니다.
    </text>
    <artist>
     Mark Zug
@@ -11975,7 +11933,7 @@
     Vance Kovacs
    </artist>
    <text>
-    내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.
+    내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 생명력을 +1 부여합니다.
    </text>
    <rarity>
     Rare
@@ -12088,7 +12046,7 @@
     Alliance
    </faction>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 전장에 상대편 하수인이 넷 이상 있으면, 무작위 적 하수인 하나를 우리편으로 만듭니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 전장에 상대편 하수인이 넷 이상 있으면, 무작위로 선택된 적 하수인 하나를 내 편으로 만듭니다.
    </text>
    <artist>
     Leo Che
@@ -12653,41 +12611,6 @@
    </playerclass>
   </item>
   <item>
-   <collectible>
-    True
-   </collectible>
-   <set>
-    Classic
-   </set>
-   <name>
-    지혜의 축복
-   </name>
-   <artist>
-    Chippy
-   </artist>
-   <text>
-    하수인 하나를 선택합니다. 그 하수인이 공격할 때마다 카드를 1장 뽑습니다.
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    1
-   </cost>
-   <flavor>
-    이게 어떤 지혜인지는 모르겠지만, 일단 매 턴마다 한 번씩 공격해야 할 것 같군요.
-   </flavor>
-   <type>
-    Spell
-   </type>
-   <id>
-    EX1_363
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <set>
     Classic
    </set>
@@ -12722,6 +12645,41 @@
    </type>
    <id>
     EX1_363e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Classic
+   </set>
+   <name>
+    지혜의 축복
+   </name>
+   <artist>
+    Chippy
+   </artist>
+   <text>
+    하수인 하나를 선택합니다. 그 하수인이 공격할 때마다 카드를 1장 뽑습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    1
+   </cost>
+   <flavor>
+    이게 어떤 지혜인지는 모르겠지만, 일단 매 턴마다 한 번씩 공격해야 할 것 같군요.
+   </flavor>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_363
    </id>
    <playerclass>
     Paladin
@@ -12896,29 +12854,6 @@
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    천리안
-   </name>
-   <artist>
-    Lars Grant-West
-   </artist>
-   <text>
-    카드 1장의 비용이 (3) 감소
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    CS2_053e
-   </id>
-   <playerclass>
-    Shaman
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -12961,22 +12896,22 @@
     Classic
    </set>
    <name>
-    천벌
+    천리안
    </name>
-   <faction>
-    Neutral
-   </faction>
+   <artist>
+    Lars Grant-West
+   </artist>
    <text>
-    하수인 하나에게 피해를 $3 줍니다.
+    카드 1장의 비용이 (3) 감소
    </text>
    <type>
-    Spell
+    Enchantment
    </type>
    <id>
-    EX1_154a
+    CS2_053e
    </id>
    <playerclass>
-    Druid
+    Shaman
    </playerclass>
   </item>
   <item>
@@ -13041,6 +12976,29 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    천벌
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    하수인 하나에게 피해를 $3 줍니다.
+   </text>
+   <type>
+    Spell
+   </type>
+   <id>
+    EX1_154a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -13087,26 +13045,6 @@
    </playerclass>
   </item>
   <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    축복받은 용사
-   </name>
-   <text>
-    공격력 2배 증가
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_355e
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
    <collectible>
     True
    </collectible>
@@ -13142,6 +13080,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    축복받은 용사
+   </name>
+   <text>
+    공격력 2배 증가
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_355e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -13155,7 +13113,7 @@
     Steve Prescott
    </artist>
    <text>
-    무작위 적 하수인을 하나 처치합니다.
+    무작위로 선택된 적 하수인 하나를 처치합니다.
    </text>
    <faction>
     Neutral
@@ -13712,7 +13670,7 @@
     Raymond Swanland
    </artist>
    <text>
-    내 턴이 시작될 때, 무작위 적 하나에게 피해를 2 줍니다.
+    내 턴이 시작될 때, 무작위로 선택된 적 하나에게 피해를 2 줍니다.
    </text>
    <faction>
     Neutral
@@ -13766,7 +13724,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;돌진&lt;/b&gt;. &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 카드를 2장 버립니다.
+    &lt;b&gt;돌진&lt;/b&gt;. &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 카드 2장을 버립니다.
    </text>
    <artist>
     Lucas Graciano
@@ -13867,6 +13825,26 @@
    </playerclass>
   </item>
   <item>
+   <set>
+    Classic
+   </set>
+   <name>
+    평등
+   </name>
+   <text>
+    생명력 1로 바뀜
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    EX1_619e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
    <collectible>
     True
    </collectible>
@@ -13899,26 +13877,6 @@
    </type>
    <id>
     EX1_619
-   </id>
-   <playerclass>
-    Paladin
-   </playerclass>
-  </item>
-  <item>
-   <set>
-    Classic
-   </set>
-   <name>
-    평등
-   </name>
-   <text>
-    생명력 1로 바뀜
-   </text>
-   <type>
-    Enchantment
-   </type>
-   <id>
-    EX1_619e
    </id>
    <playerclass>
     Paladin
@@ -14339,7 +14297,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;은신&lt;/b&gt;. 내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.
+    &lt;b&gt;은신&lt;/b&gt;. 내 턴이 끝날 때, 무작위로 선택된 다른 아군 하수인 하나에게 생명력을 +1 부여합니다.
    </text>
    <artist>
     Bernie Kang
@@ -15303,7 +15261,7 @@
    </name>
    <text>
     &lt;b&gt;영웅 능력&lt;/b&gt;
-무작위 적 하수인 하나를 상대편의 손으로 돌려보냅니다.
+무작위로 선택된 적 하수인 하나를 상대편의 손으로 돌려보냅니다.
    </text>
    <cost>
     3
@@ -15324,7 +15282,7 @@
    </name>
    <text>
     &lt;b&gt;영웅 능력&lt;/b&gt;
-무작위 적 하수인 둘을 상대편의 손으로 돌려보냅니다.
+무작위로 선택된 적 하수인 둘을 상대편의 손으로 돌려보냅니다.
    </text>
    <cost>
     0
@@ -15446,7 +15404,7 @@
     Robb Shoberg
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 내 손의 무작위 악마 하나를 전장에 놓습니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 내 손에서 무작위로 선택된 악마 하나를 전장에 놓습니다.
    </text>
    <rarity>
     Common
@@ -15569,7 +15527,7 @@
     Dan Brereton
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 야수 카드 1장을 손으로 가져옵니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 야수 카드 1장을 내 손으로 가져옵니다.
    </text>
    <rarity>
     Common
@@ -17050,7 +17008,7 @@
    </name>
    <text>
     &lt;b&gt;영웅 능력&lt;/b&gt;
-무작위 적 하수인 하나를 우리편으로 만듭니다.
+무작위로 선택된 적 하수인 하나를 내 편으로 만듭니다.
    </text>
    <cost>
     8
@@ -17071,7 +17029,7 @@
    </name>
    <text>
     &lt;b&gt;영웅 능력&lt;/b&gt;
-무작위 적 하수인 하나를 이번 턴에만 우리편으로 만듭니다.
+무작위로 선택된 적 하수인 하나를 이번 턴에만 내 편으로 만듭니다.
    </text>
    <cost>
     8
@@ -17547,7 +17505,7 @@
     Nate Bowden
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 아군 하수인 하나를 내 손으로 다시 가져옵니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 아군 하수인 하나를 내 손으로 다시 가져옵니다.
    </text>
    <rarity>
     Common
@@ -17599,7 +17557,7 @@
     Zoltan &amp; Gabor
    </artist>
    <text>
-    &lt;b&gt;비밀:&lt;/b&gt; 내 하수인 중 하나가 죽으면, 무작위 아군 하수인 하나에게 +3/+2를 부여합니다.
+    &lt;b&gt;비밀:&lt;/b&gt; 내 하수인 중 하나가 죽으면, 무작위로 선택된 아군 하수인 하나에게 +3/+2를 부여합니다.
    </text>
    <rarity>
     Common
@@ -17662,7 +17620,7 @@
     Phroilan Gardner
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 아군 하수인 하나에게 생명력을 +3 부여합니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 아군 하수인 하나에게 생명력을 +3 부여합니다.
    </text>
    <rarity>
     Common
@@ -18988,7 +18946,7 @@
     FP1_013
    </id>
    <flavor>
-    켈투자드는 리치 왕의 부름에 저항할 수 없었습니다. 리치 왕의 덕을 찬양하는 자동 녹음 전화가 계속해서 걸려왔거든요.
+    켈투자드는 리치 왕의 부름에 저항할 수 없었습니다. 녹음된 목소리로 리치 왕의 덕을 찬미하는 전화가 계속해서 걸려왔거든요.
    </flavor>
    <howtoget>
     낙스라마스의 모든 우두머리를 쓰러뜨려 잠금 해제
@@ -19717,7 +19675,7 @@
     브라이언 슈와브
    </name>
    <text>
-    내 턴이 끝날 때, 무작위 하수인 하나에게 공격력을 +1 부여합니다.
+    내 턴이 끝날 때, 무작위로 선택된 하수인 하나에게 공격력을 +1 부여합니다.
    </text>
    <rarity>
     Legendary
@@ -19877,7 +19835,7 @@
     제이 백스터
    </name>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위 발명품 &lt;b&gt;5개&lt;/b&gt;를 소환합니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 발명품 &lt;b&gt;5개&lt;/b&gt;를 소환합니다.
    </text>
    <rarity>
     Legendary
@@ -20030,6 +19988,5665 @@
    </id>
   </item>
  </credits>
+ <blackrock_mountain>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    가동!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 골렘 하나를 가동시킵니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    가동!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 골렘 하나를 가동시킵니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_10H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    45
+   </health>
+   <id>
+    BRMA04_1H
+   </id>
+   <name>
+    가르
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA04_1
+   </id>
+   <name>
+    가르
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;지속 영웅 능력&lt;/b&gt;
+모든 카드의 비용이 (1)이 됩니다. 내 최대 마나 수정이 2개로, 적은 1개로 고정됩니다.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2H
+   </id>
+   <name>
+    강렬한 시선
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;지속 영웅 능력&lt;/b&gt;
+모든 카드의 비용이 (1)이 됩니다. 각 플레이어의 최대 마나 수정이 1개로 고정됩니다.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA08_2
+   </id>
+   <name>
+    강렬한 시선
+   </name>
+  </item>
+  <item>
+   <text>
+    +3/+3
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_024e
+   </id>
+   <name>
+    거대한 발톱
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은 새끼용
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_022t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은날개 기술병
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 용족 하수인이 있으면 +1/+1을 얻습니다.
+   </text>
+   <artist>
+    Matt Dixon
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_033
+   </id>
+   <flavor>
+    튜닝하고 싶으시다고요? 검은날개 할인 튜닝샵에 가지 마시고 이 친구를 찾으세요. 얼굴까지 다 튜닝해드립니다.
+   </flavor>
+   <howtoget>
+    화산 심장부의 남작 게돈을 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    화산 심장부의 남작 게돈을 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은날개 지원군
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+3/1 용혈족 하나를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은날개 지원군
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+5/4 용혈족 하나를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_4H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은날개 타락자
+   </name>
+   <faction>
+    Neutral
+   </faction>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 용족 하수인이 있으면 피해를 3 줍니다.
+   </text>
+   <artist>
+    Greg Staples
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_034
+   </id>
+   <flavor>
+    검은날개 내부에 선정적인 만화와 과격한 록큰롤 음악을 공급하여 붙여진 이름입니다.
+   </flavor>
+   <howtoget>
+    숨겨진 연구실의 말로리악을 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    숨겨진 연구실의 말로리악을 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은무쇠 구경꾼
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA02_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은무쇠 싸움꾼
+   </name>
+   <text>
+    난투에서 무조건 승리합니다.
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    8
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    검은무쇠 잠복자
+   </name>
+   <artist>
+    Eric Braddock
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 피해를 입지 않은 모든 적 하수인에게 피해를 2 줍니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_008
+   </id>
+   <flavor>
+    잠복하는 걸 아주 좋아합니다. 몇 시간이고 가만히 잠복해 있곤 합니다. 그래서 친구가 없습니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 도적 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 산의 도적 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    격노의 힘
+   </name>
+   <text>
+    +3/+3
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_014e
+   </id>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1
+   </id>
+   <name>
+    군주 빅터 네파리우스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_1H
+   </id>
+   <name>
+    군주 빅터 네파리우스
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    굶주린 용
+   </name>
+   <artist>
+    John Polidora
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 비용 1짜리 하수인 하나를 상대편에게 소환해 줍니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_026
+   </id>
+   <flavor>
+    이봐 용 친구, 안색이 안 좋군. 밤이 오기 전에 먹을 걸 찾는 게 좋을 거야!
+   </flavor>
+   <howtoget>
+    검은날개 둥지의 크로마구스를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은날개 둥지의 크로마구스를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    기스
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    기스
+   </name>
+   <type>
+    Minion
+   </type>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA09_5Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    꼬리 휩쓸기
+   </name>
+   <text>
+    피해를 $4 줍니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_030t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA05_1H
+   </id>
+   <name>
+    남작 게돈
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA05_1
+   </id>
+   <name>
+    남작 게돈
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    너 박살낸다!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 적 하수인 하나를 처치합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    너 박살낸다!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+피해를 입은 적 하수인 중에 무작위로 선택된 하수인 하나를 처치합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA07_2
+   </id>
+  </item>
+  <item>
+   <text>
+    공격력 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_5e
+   </id>
+   <name>
+    네 소리가 들린다...
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    네파리안
+   </name>
+   <artist>
+    Ruan Jia
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 &lt;i&gt;상대편 직업&lt;/i&gt;의 주문 카드 2장을 내 손으로 가져옵니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_030
+   </id>
+   <flavor>
+    왠지 사제가 애용할 것 같은 카드입니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 모든 우두머리를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    숨겨진 연구실을 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2
+   </id>
+   <name>
+    네파리안
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3H
+   </id>
+   <name>
+    네파리안
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA13_3
+   </id>
+   <name>
+    네파리안
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_02
+   </id>
+   <name>
+    네파리안
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_2H
+   </id>
+   <name>
+    네파리안
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    네파리안의 공격!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+네파리안이 하늘에서 불의 비를 내립니다!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    네파리안의 공격!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+네파리안이 하늘에서 불의 비를 내립니다!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_8H
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1
+   </id>
+   <name>
+    대법관 그림스톤
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA02_1H
+   </id>
+   <name>
+    대법관 그림스톤
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1
+   </id>
+   <name>
+    대영주 오모크
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA07_1H
+   </id>
+   <name>
+    대영주 오모크
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    도끼 투척수
+   </name>
+   <artist>
+    Efrem Palacios
+   </artist>
+   <text>
+    이 하수인이 피해를 입을 때마다, 적 영웅에게 피해를 2 줍니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <id>
+    BRM_016
+   </id>
+   <flavor>
+    사실 주위에 있는 것이면 무엇이든 던집니다. 그게 나뭇가지든 타우렌이든 말이죠.
+   </flavor>
+   <howtoget>
+    검은바위 산의 전사 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 산의 전사 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Charge
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    돌연변이
+   </name>
+   <text>
+    &lt;b&gt;돌진&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA15_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    돌연변이
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 카드 1장을 버립니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_10
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    돌연변이를 풀어라!
+   </name>
+   <text>
+    돌연변이를 3마리 소환합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA15_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    드라키사스의 명령
+   </name>
+   <text>
+    하수인 하나를 처치합니다. 방어도를 +10 얻습니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA08_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    렌드 블랙핸드
+   </name>
+   <artist>
+    Alex Horley
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 손에 용족 하수인이 있으면 &lt;b&gt;전설&lt;/b&gt; 하수인 하나를 처치합니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    7
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_029
+   </id>
+   <flavor>
+    자신이 진정한 호드의 대족장이라 믿고 있는 렌드 블랙핸드는 오늘도 "호드의 대족장" 위키백과 문서에 자신의 사진을 넣기 위해 애쓰고 있습니다.
+   </flavor>
+   <howtoget>
+    검은바위 첨탑을 완료하여 잠금 해제
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    검은바위 첨탑을 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1
+   </id>
+   <name>
+    렌드 블랙핸드
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA09_1H
+   </id>
+   <name>
+    렌드 블랙핸드
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    마그마 분출
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA04_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    마나 점화
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 마나가 남아 있다면 피해를 10 줍니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    마나 점화
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+적 영웅에게 마나가 남아 있다면 피해를 5 줍니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA05_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    마법 폭주
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 상대편 직업의 주문 카드 1장을 내 손으로 가져옵니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    마법 폭주
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 상대편 직업의 주문 카드 1장을 내 손으로 가져옵니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_4
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1H
+   </id>
+   <name>
+    만능골렘 방어 시스템
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA14_1
+   </id>
+   <name>
+    만능골렘 방어 시스템
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1
+   </id>
+   <name>
+    말로리악
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA15_1H
+   </id>
+   <name>
+    말로리악
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    맹독골렘
+   </name>
+   <text>
+    내 턴이 시작될 때, 다른 &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    맹독골렘
+   </name>
+   <text>
+    내 턴이 시작될 때, 다른 &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 1 줍니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    맹독골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+맹독골렘 가동!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    맹독골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+맹독골렘 가동!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    모이라 브론즈비어드
+   </name>
+   <text>
+    타우릿산이 영웅 능력을 쓸 수 없습니다.
+&lt;b&gt;도발&lt;/b&gt; 능력이 없는 하수인은 절대로 공격하지 않습니다.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    모이라 브론즈비어드
+   </name>
+   <text>
+    타우릿산이 영웅 능력을 쓸 수 없습니다.
+&lt;b&gt;도발&lt;/b&gt; 능력이 없는 하수인은 절대로 공격하지 않습니다.
+   </text>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA03_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    문을 열어라!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+1/1 새끼용 3마리를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    문을 열어라!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+2/2 새끼용 3마리를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    바위의 습격
+   </name>
+   <text>
+    불꽃의 추종자 셋을 소환합니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    바위의 습격
+   </name>
+   <text>
+    불꽃의 추종자 셋을 소환합니다. &lt;b&gt;과부하:&lt;/b&gt; (2)
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA04_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    박살낼 시간이다!
+   </name>
+   <text>
+    무작위로 선택된 적 하나에게 피해를 $5 줍니다. 방어도를 +5 얻습니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA07_3
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    복수
+   </name>
+   <artist>
+    Ben Olson
+   </artist>
+   <text>
+    &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 $1 줍니다. 만약 내 생명력이 12 이하라면 피해를 $3 줍니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_015
+   </id>
+   <flavor>
+    화염구가 필사의 일격보다 좋아서 서운하셨다고요? 이제 마법사 친구가 잘난 척 하는 꼴을 볼 필요가 없습니다. 복수가 신비한 폭발보다 좋으니까요! ...아마도.
+   </flavor>
+   <howtoget>
+    검은날개 둥지의 서슬송곳니를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은날개 둥지의 서슬송곳니를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Warrior
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    생명력 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_3e
+   </id>
+   <name>
+    부화
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    부화장
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+모든 타락한 알에게 생명력을 +1 부여한 후, 타락한 알을 하나 더 소환합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    부화장
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+모든 타락한 알에게 생명력을 +1 부여한 후, 타락한 알을 하나 더 소환합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA10_3
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    부활
+   </name>
+   <artist>
+    Luke Mancini
+   </artist>
+   <text>
+    이번 게임에서 죽은 아군 하수인 중에 무작위로 선택된 하수인 하나를 소환합니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_017
+   </id>
+   <flavor>
+    던전에 들어간 나는 죽은 모험가를 발견했다. 마지막 순간 그는 온 힘을 짜내어, 먼지 덮인 벽에 이승에서 남기고 싶은 마지막 말을 썼던 것 같다. 두 마디였다. "부활 좀"
+   </flavor>
+   <howtoget>
+    검은바위 나락의 제왕 타우릿산을 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 나락의 제왕 타우릿산을 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    공격력 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA10_6e
+   </id>
+   <name>
+    분노에 눈이 멈
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃꼬리 수행사제
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃꼬리 수행사제
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA06_4H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃꼬리 전사
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    내 주문이 시전된 후에, 모든 적에게 2의 피해를 무작위로 나누어 입힙니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <id>
+    BRM_002
+   </id>
+   <flavor>
+    불꽃꼬리 전사는 빨간색 나가라고 불리는 것을 엄청나게 싫어합니다. 이들은 불꽃꼬리 전사입니다. 나가는 물에서 찾으세요!
+   </flavor>
+   <howtoget>
+    검은날개 둥지의 밸라스트라즈를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은날개 둥지의 밸라스트라즈를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃매 변신
+   </name>
+   <text>
+    2/5 하수인으로 변신합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010b
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃의 추종자
+   </name>
+   <text>
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 적 영웅에게 이번 턴에 죽은 불꽃의 추종자 하나당 피해를 1씩 줍니다.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃의 추종자
+   </name>
+   <text>
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 적 영웅에게 이번 턴에 죽은 불꽃의 추종자 하나당 피해를 3씩 줍니다.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA04_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불꽃표범 변신
+   </name>
+   <text>
+    5/2 하수인으로 변신합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <race>
+    Beast
+   </race>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRM_010a
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRMA06_3
+   </id>
+   <name>
+    불의 군주 라그나로스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMC_01
+   </id>
+   <name>
+    불의 군주 라그나로스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_027h
+   </id>
+   <name>
+    불의 군주 라그나로스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_3H
+   </id>
+   <name>
+    불의 군주 라그나로스
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불의 군주의 힘
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+피해를 30 줍니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA03_2
+   </id>
+  </item>
+  <item>
+   <text>
+    공격력 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_012e
+   </id>
+   <name>
+    불이다!
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    불타는 아드레날린
+   </name>
+   <text>
+    적 영웅에게 피해를 $2 줍니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA11_3
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Spellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    비전골렘
+   </name>
+   <text>
+    두 플레이어 모두 &lt;b&gt;주문 공격력 +2&lt;/b&gt;를 얻습니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    비전골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+비전골렘 가동!
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    비전골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+비전골렘 가동!
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1
+   </id>
+   <name>
+    사령관 드라키사스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    50
+   </health>
+   <id>
+    BRMA08_1H
+   </id>
+   <name>
+    사령관 드라키사스
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    살아있는 용암
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    6
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_6
+   </id>
+  </item>
+  <item>
+   <text>
+    게돈의 턴에 모든 아군에게 5의 피해
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3e
+   </id>
+   <name>
+    살아있는 폭탄
+   </name>
+  </item>
+  <item>
+   <text>
+    게돈의 턴에 모든 아군에게 10의 피해
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA05_3He
+   </id>
+   <name>
+    살아있는 폭탄
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    살아있는 폭탄
+   </name>
+   <text>
+    적 하수인을 하나 선택합니다. 그 하수인이 다음 턴까지 살아남으면 &lt;b&gt;모든&lt;/b&gt; 적에게 피해를 $10 줍니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    살아있는 폭탄
+   </name>
+   <text>
+    적 하수인을 하나 선택합니다. 그 하수인이 다음 턴까지 살아남으면 &lt;b&gt;모든&lt;/b&gt; 적에게 피해를 $5 줍니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA05_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    새끼용
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    새끼용
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_2Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    새끼용
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_004t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    서슬송곳니의 발톱
+   </name>
+   <durability>
+    5
+   </durability>
+   <text>
+    타락한 알이 죽을 때마다 공격력이 +1 증가합니다.
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA10_6
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Windfury
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    소용돌이치는 잿불덩이
+   </name>
+   <text>
+    &lt;b&gt;질풍&lt;/b&gt;
+   </text>
+   <attack>
+    4
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_7
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    속사
+   </name>
+   <artist>
+    Jonboy Meyers
+   </artist>
+   <text>
+    피해를 $3 줍니다.
+만약 내 손에 카드가 없으면 카드를 1장 뽑습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_013
+   </id>
+   <flavor>
+    이번 턴엔 내가 쏜다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 사냥꾼 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 산의 사냥꾼 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1H
+   </id>
+   <name>
+    아트라메데스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA16_1
+   </id>
+   <name>
+    아트라메데스
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    악마의 격노
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    악마를 제외한 &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 $2 줍니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    3
+   </cost>
+   <id>
+    BRM_005
+   </id>
+   <flavor>
+    사실 악마들은 점잖아서 화를 잘 내지 않기 때문에, 이 카드가 나오면 상당히 난감해 합니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 흑마법사 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 산의 흑마법사 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    야유하는 군중
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;도발&lt;/b&gt; 능력을 가진 1/1 구경꾼을 하나 소환합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    야유하는 군중
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;도발&lt;/b&gt; 능력을 가진 1/1 구경꾼을 하나 소환합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA02_2H
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    엄숙한 애도
+   </name>
+   <artist>
+    Jaime Jones
+   </artist>
+   <text>
+    카드를 2장 뽑습니다. 이번 턴에 죽은 하수인 하나당 비용이 (1)씩 감소합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_001
+   </id>
+   <flavor>
+    매년 검은바위 산 앞에서는, 정신 지배 주문에 당해 용암 속으로 뛰어들어간 이들을 추모하는 행사가 열립니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 성기사 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 산의 성기사 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;지속 영웅 능력&lt;/b&gt;
+하수인들의 공격력과 생명력이 바뀝니다.
+내 하수인은 +2/+2를 얻습니다.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2H
+   </id>
+   <name>
+    연금술사
+   </name>
+  </item>
+  <item>
+   <text>
+    &lt;b&gt;지속 영웅 능력&lt;/b&gt;
+하수인이 소환될 때마다 그 하수인의 공격력과 생명력을 바꿉니다.
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA15_2
+   </id>
+   <name>
+    연금술사
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    옛 호드
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;도발&lt;/b&gt; 능력을 가진 1/1 오크 2명을 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    옛 호드
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+&lt;b&gt;도발&lt;/b&gt; 능력을 가진 2/2 오크 2명을 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    옛 호드 오크
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3Ht
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    옛 호드 오크
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_3t
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA17_3H
+   </id>
+   <name>
+    오닉시아
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    15
+   </health>
+   <id>
+    BRMA17_3
+   </id>
+   <name>
+    오닉시아
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오닉시아의 발톱
+   </name>
+   <durability>
+    6
+   </durability>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA17_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오색 돌연변이
+   </name>
+   <text>
+    하수인 하나를 2/2 오색 용혈족으로 변신시킵니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오색 비룡
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오색 비룡
+   </name>
+   <attack>
+    7
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_5H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오색 실험체
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    4
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_7
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_9
+   </id>
+   <name>
+    오색 용혈족
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    오색 용혈족
+   </name>
+   <text>
+    상대편이 주문을 시전할 때마다, +2/+2를 얻습니다.
+   </text>
+   <attack>
+    2
+   </attack>
+   <cost>
+    2
+   </cost>
+   <health>
+    3
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA12_8t
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용기병 분쇄자
+   </name>
+   <artist>
+    Slawomir Maniak
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 만약 상대편의 생명력이 15 이하라면 +3/+3을 얻습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_024
+   </id>
+   <flavor>
+    용기병은 용의 모든 단점을 지닌 인간형으로 설계되었습니다. 왜? 대체 왜?
+   </flavor>
+   <howtoget>
+    숨겨진 연구실의 아트라메데스를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    숨겨진 연구실의 아트라메데스를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암 충격
+   </name>
+   <artist>
+    Zoltan Boros
+   </artist>
+   <text>
+    피해를 $2 줍니다.
+&lt;b&gt;과부하&lt;/b&gt;된 내 마나 수정이 모두 잠금 해제됩니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_011
+   </id>
+   <flavor>
+    허니 용암 칩은 충격적으로 맛있습니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 주술사 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 산의 주술사 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암 충격
+   </name>
+   <text>
+    이번 턴에 내가 내는 카드는 &lt;b&gt;과부하&lt;/b&gt; 효과가 발동하지 않습니다.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_011t
+   </id>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암!
+   </name>
+   <text>
+    &lt;b&gt;모든&lt;/b&gt; 하수인에게 피해를 $2 줍니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA17_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암골렘
+   </name>
+   <text>
+    각 플레이어가 카드를 낼 때마다 그 플레이어에게 피해를 2 줍니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    7
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암골렘
+   </name>
+   <text>
+    각 플레이어가 카드를 낼 때마다 그 플레이어에게 피해를 2 줍니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    8
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_9H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+용암골렘 가동!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+용암골렘 가동!
+   </text>
+   <cost>
+    8
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_8
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용암아귀
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    10
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_12
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용의 배우자
+   </name>
+   <artist>
+    Raymond Swanland
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 다음에 내가 내는 용족 하수인의 비용이 (2) 감소합니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_018
+   </id>
+   <flavor>
+    누구에게나 꼭 달라붙어 온기를 나눌 존재가 필요한 법입니다. 강철 같은 비늘로 무장하고 파괴를 자행하는 커다란 용들도 마찬가지입니다.
+   </flavor>
+   <howtoget>
+    검은바위 첨탑의 사령관 드라키사스를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 첨탑의 사령관 드라키사스를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용의 숨결
+   </name>
+   <artist>
+    Mauricio Herrera
+   </artist>
+   <text>
+    피해를 $4 줍니다. 이번 턴에 죽은 하수인 하나당 비용이 (1)씩 감소합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    5
+   </cost>
+   <id>
+    BRM_003
+   </id>
+   <flavor>
+    사실 용은 솜사탕도 뿜어낼 줄 압니다. 없어 보이니까 불만 뿜는 거죠.
+   </flavor>
+   <howtoget>
+    검은바위 산의 마법사 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 산의 마법사 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용의 알
+   </name>
+   <artist>
+    Jaemin Kim
+   </artist>
+   <text>
+    이 하수인은 피해를 입을 때마다 2/1 새끼용을 소환합니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_022
+   </id>
+   <flavor>
+    이래서 리로이처럼 알을 건드리면 안 되는 겁니다.
+   </flavor>
+   <howtoget>
+    검은바위 첨탑의 렌드 블랙핸드를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 첨탑의 렌드 블랙핸드를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <text>
+    +1/+1
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_033e
+   </id>
+   <name>
+    용의 피
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용의 힘
+   </name>
+   <text>
+    이번 턴에 비용이 (3) 감소합니다.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_003e
+   </id>
+   <playerclass>
+    Mage
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용이빨
+   </name>
+   <durability>
+    6
+   </durability>
+   <text>
+    상대편이 카드를 낼 때마다, 공격력을 +1 얻습니다.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <type>
+    Weapon
+   </type>
+   <id>
+    BRMA16_5
+   </id>
+  </item>
+  <item>
+   <text>
+    능력치 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_020e
+   </id>
+   <name>
+    용족의 힘
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용혈족
+   </name>
+   <attack>
+    5
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4Ht
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용혈족
+   </name>
+   <attack>
+    3
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA09_4t
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    용혈족 마술사
+   </name>
+   <artist>
+    Edouard Guiton &amp; Stuido HIVE
+   </artist>
+   <text>
+    내가 주문의 대상으로 이 하수인을 지정할 때마다 +1/+1을 얻습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_020
+   </id>
+   <flavor>
+    용혈족 마술사와 마법사를 어떻게 구분하냐고요? 모자 안에 비둘기가 있으면 마술사입니다.
+   </flavor>
+   <howtoget>
+    숨겨진 연구실의 네파리안을 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    숨겨진 연구실의 네파리안을 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     OneTurnEffect
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    융해
+   </name>
+   <text>
+    이번 턴에 공격력이 0이 됩니다.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_001e
+   </id>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    음파 숨결
+   </name>
+   <text>
+    하수인 하나에게 피해를 $3 줍니다. 내 무기에 공격력을 +3 부여합니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_3
+   </id>
+  </item>
+  <item>
+   <text>
+    공격력 +3
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA16_3e
+   </id>
+   <name>
+    음파 숨결
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    음파 탐지
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+상대편이 카드를 낼 때마다 강해지는 무기를 장착합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    음파 탐지
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+상대편이 카드를 낼 때마다 강해지는 무기를 장착합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA16_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    임프
+   </name>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Demon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_006t
+   </id>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    임프 두목
+   </name>
+   <artist>
+    Steve Prescott
+   </artist>
+   <text>
+    이 하수인은 피해를 입을 때마다 1/1 임프를 하나 소환합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Demon
+   </race>
+   <id>
+    BRM_006
+   </id>
+   <flavor>
+    불량한 임프들은 종종 스톰윈드에 몰래 숨어들어, 마법사 탑에 "라그나로스 님이 최고시다!"라고 낙서를 하곤 합니다.
+   </flavor>
+   <howtoget>
+    화산 심장부의 청지기 이그젝큐투스를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    화산 심장부의 청지기 이그젝큐투스를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Warlock
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    재충전
+   </name>
+   <text>
+    빈 마나 수정을 모두 채웁니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA14_11
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    저놈을 잡아!
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt; 능력을 가진 1/1 드워프 4명을 소환합니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA01_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    적색의 정수
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+각 플레이어가 카드를 2장씩 뽑습니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    적색의 정수
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+각 플레이어가 카드를 3장씩 뽑습니다. 마나 수정을 1개 얻습니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA11_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    전기골렘
+   </name>
+   <text>
+    모든 주문의 비용이 (3) 감소합니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    6
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Aura
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    전기골렘
+   </name>
+   <text>
+    모든 주문의 비용이 (3) 감소합니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Mech
+   </race>
+   <type>
+    Minion
+   </type>
+   <elite>
+    True
+   </elite>
+   <id>
+    BRMA14_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    전기골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+전기골렘 가동!
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    전기골렘 가동
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+전기골렘 가동!
+   </text>
+   <cost>
+    6
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA14_6
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1
+   </id>
+   <name>
+    제왕 타우릿산
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    제왕 타우릿산
+   </name>
+   <artist>
+    Wayne Reynolds
+   </artist>
+   <text>
+    내 턴이 끝날 때, 내 손에 있는 카드들의 비용이 (1) 감소합니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    5
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_028
+   </id>
+   <flavor>
+    그가 살면서 두 번째로 후회하는 일은, 사악한 불의 군주를 소환해 부족 전체를 노예 신세로 만든 것입니다.
+   </flavor>
+   <howtoget>
+    검은바위 나락을 완료하여 잠금 해제
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    검은바위 나락을 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA03_1H
+   </id>
+   <name>
+    제왕 타우릿산
+   </name>
+  </item>
+  <item>
+   <text>
+    비용 (1) 감소
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_028e
+   </id>
+   <name>
+    제왕의 은총
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    주정뱅이
+   </name>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+   </text>
+   <attack>
+    1
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA01_4t
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    죽어라, 벌레들아!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 적 하나에게 피해를 8 줍니다. &lt;i&gt;2번&lt;/i&gt; 발동합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027pH
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     AffectedBySpellPower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    죽어라, 벌레야!
+   </name>
+   <text>
+    무작위로 선택된 적 하나에게 피해를 $8 줍니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA13_8
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    죽어라, 벌레야!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+무작위로 선택된 적 하나에게 피해를 8 줍니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRM_027p
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    진정한 대족장
+   </name>
+   <text>
+    전설 하수인 하나를 처치합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA09_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    진정한 형상
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+게임을 시작하자!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    진정한 형상
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+게임을 시작하자!
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA13_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    징 울리기
+   </name>
+   <text>
+    상대편의 무기를 파괴합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA16_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Deathrattle
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    청지기 이그젝큐투스
+   </name>
+   <artist>
+    Alex Horley Orlandelli
+   </artist>
+   <text>
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 내 영웅을 불의 군주 라그나로스로 교체합니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    9
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    7
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_027
+   </id>
+   <flavor>
+    자, 너무 일찍 깨웠다고 이그젝큐투스를 꾸짖을 시간입니다.
+   </flavor>
+   <howtoget>
+    화산 심장부를 완료하여 잠금 해제
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    화산 심장부를 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1H
+   </id>
+   <name>
+    청지기 이그젝큐투스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA06_1
+   </id>
+   <name>
+    청지기 이그젝큐투스
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    청지기의 권능
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+3/3 불꽃꼬리 수행사제를 하나 소환합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    청지기의 권능
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+1/3 불꽃꼬리 수행사제를 하나 소환합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA06_2
+   </id>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1
+   </id>
+   <name>
+    코렌 다이어브루
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA01_1H
+   </id>
+   <name>
+    코렌 다이어브루
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    60
+   </health>
+   <id>
+    BRMA12_1H
+   </id>
+   <name>
+    크로마구스
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA12_1
+   </id>
+   <name>
+    크로마구스
+   </name>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    크로마구스
+   </name>
+   <artist>
+    Todd Lockwood
+   </artist>
+   <text>
+    내가 카드를 뽑을 때마다 그 카드를 1장 복사하여 내 손으로 가져옵니다.
+   </text>
+   <rarity>
+    Legendary
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    8
+   </cost>
+   <health>
+    8
+   </health>
+   <race>
+    Dragon
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_031
+   </id>
+   <flavor>
+    왼쪽 머리와 오른쪽 머리는 매번 "오늘 뭐 먹지?"를 두고 싸운답니다. 결국 먹는 건 또 라면이죠.
+   </flavor>
+   <howtoget>
+    검은날개 둥지를 완료하여 잠금 해제
+   </howtoget>
+   <elite>
+    True
+   </elite>
+   <howtogetgold>
+    검은날개 둥지를 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1H
+   </id>
+   <name>
+    타락한 밸라스트라즈
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA11_1
+   </id>
+   <name>
+    타락한 밸라스트라즈
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    타락한 알
+   </name>
+   <text>
+    생명력이 5 이상이면 부화합니다.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    타락한 알
+   </name>
+   <text>
+    생명력이 4 이상이면 부화합니다.
+   </text>
+   <attack>
+    0
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA10_4
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    탈것 내리기
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+기스를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    탈것 내리기
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+기스를 소환합니다. 새로운 영웅 능력을 얻습니다.
+   </text>
+   <cost>
+    4
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA09_5H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    파괴의 화염수호정령
+   </name>
+   <artist>
+    Paul Mafayon
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 공격력을 1-4 얻습니다. &lt;b&gt;과부하:&lt;/b&gt; (1)
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    6
+   </health>
+   <id>
+    BRM_012
+   </id>
+   <flavor>
+    이 중요한 보직의 적임자를 찾기 위해 라그나로스는 엄청나게 많은 불의 정령과 면접을 보았습니다.
+   </flavor>
+   <howtoget>
+    검은날개 둥지의 군주 빅터 네파리우스를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은날개 둥지의 군주 빅터 네파리우스를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Shaman
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    패거리
+   </name>
+   <artist>
+    Jim Nelson
+   </artist>
+   <text>
+    하수인을 선택하고, 내 덱에 그 하수인을 3마리 섞어 넣습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    2
+   </cost>
+   <id>
+    BRM_007
+   </id>
+   <flavor>
+    달빛시내 마을에는 절대로 혼자 가면 안 됩니다.
+   </flavor>
+   <howtoget>
+    검은바위 나락의 검은무쇠 투기장을 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Spell
+   </type>
+   <howtogetgold>
+    검은바위 나락의 검은무쇠 투기장을 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Rogue
+   </playerclass>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1
+   </id>
+   <name>
+    폭군 서슬송곳니
+   </name>
+  </item>
+  <item>
+   <type>
+    Hero
+   </type>
+   <set>
+    Blackrock Mountain
+   </set>
+   <health>
+    30
+   </health>
+   <id>
+    BRMA10_1H
+   </id>
+   <name>
+    폭군 서슬송곳니
+   </name>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    한판 붙자!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+내 덱에서 하수인 둘, 상대편의 덱에서 하수인 하나를 뽑아 각각의 전장에 놓습니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    한판 붙자!
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+각 플레이어의 덱에서 하수인을 하나씩 뽑아 전장에 놓습니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA01_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    해골 피조물
+   </name>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    해골 피조물
+   </name>
+   <attack>
+    4
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    2
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA17_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    해골 하수인
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+4/2 해골 피조물을 둘 소환합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    해골 하수인
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+2/1 해골 피조물을 둘 소환합니다.
+   </text>
+   <cost>
+    2
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA17_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    해방!
+   </name>
+   <text>
+    다음에 내가 내는 용족 하수인의 비용이 (2) 감소합니다.
+   </text>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_018e
+   </id>
+   <playerclass>
+    Paladin
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    험상궂은 손님
+   </name>
+   <artist>
+    Bobby Chiu
+   </artist>
+   <text>
+    이 하수인이 피해를 입고 생존할 때마다 다른 험상궂은 손님을 소환합니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    3
+   </attack>
+   <cost>
+    5
+   </cost>
+   <health>
+    3
+   </health>
+   <id>
+    BRM_019
+   </id>
+   <flavor>
+    정신이 번쩍 들게 두들겨 맞고 싶으십니까? 험상궂은 주정뱅이 선술집으로 오십시오!
+   </flavor>
+   <howtoget>
+    검은바위 나락의 험상궂은 주정뱅이 선술집을 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 나락의 험상궂은 주정뱅이 선술집을 완료한 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+내 턴이 끝날 때, 상대편의 손에 혈족의 고통 카드 1장을 추가합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통
+   </name>
+   <text>
+    &lt;b&gt;영웅 능력&lt;/b&gt;
+내 턴이 끝날 때, 상대편의 손에 혈족의 고통 카드 1장을 추가합니다.
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Hero Power
+   </type>
+   <id>
+    BRMA12_2
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 녹
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 내 턴이 시작될 때 상대편의 생명력을 6 회복시킵니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 녹
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 내 턴이 시작될 때 상대편의 생명력을 2 회복시킵니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_4
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 적
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 내 턴이 시작될 때 피해를 3 입습니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3H
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 적
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 내 턴이 시작될 때 피해를 1 입습니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_3
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 청
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스가 쓰는 주문의 비용이 (1) 감소합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 청
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스가 쓰는 주문의 비용이 (3) 감소합니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_5H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 청동
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스가 소환하는 하수인의 비용이 (1) 감소합니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 청동
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스가 소환하는 하수인의 비용이 (3) 감소합니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_7H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 흑
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스는 카드를 뽑을 때마다 그 카드를 복사하여 1장 더 손에 넣습니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6H
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    혈족의 고통: 흑
+   </name>
+   <text>
+    내 손에 이 카드가 있으면, 크로마구스는 카드를 뽑을 때마다 그 카드를 복사하여 1장 더 손에 넣습니다.
+   </text>
+   <cost>
+    1
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA12_6
+   </id>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화산 비룡
+   </name>
+   <artist>
+    Lucas Graciano
+   </artist>
+   <text>
+    이번 턴에 죽은 하수인 하나당 비용이 (1)씩 감소합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    6
+   </attack>
+   <cost>
+    6
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_025
+   </id>
+   <flavor>
+    화산의 비룡은 불 대신 용암을 뿜어냅니다. 토륨 거점에 있는 상인은 이들에게 남몰래 속쓰림 방지제를 팔아 꽤 짭짤한 이득을 보고 있습니다.
+   </flavor>
+   <howtoget>
+    숨겨진 연구실의 만능골렘 방어 시스템을 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    숨겨진 연구실의 만능골렘 방어 시스템을 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Taunt
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화산의 나무정령
+   </name>
+   <artist>
+    Trent Kaniuga
+   </artist>
+   <text>
+    &lt;b&gt;도발&lt;/b&gt;
+이번 턴에 죽은 하수인 하나당 비용이 (1)씩 감소합니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    7
+   </attack>
+   <cost>
+    9
+   </cost>
+   <health>
+    8
+   </health>
+   <id>
+    BRM_009
+   </id>
+   <flavor>
+    누구든 작은 나무정령에게 불 붙이면 뭐 되는 거야.
+   </flavor>
+   <howtoget>
+    검은바위 산의 드루이드 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 산의 드루이드 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화염심장
+   </name>
+   <text>
+    카드를 2장 뽑습니다.
+방어도를 +4 얻습니다.
+   </text>
+   <cost>
+    3
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    BRMA_01
+   </id>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화염의 드루이드
+   </name>
+   <artist>
+    Hideaki Takamura
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    5
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t2
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화염의 드루이드
+   </name>
+   <artist>
+    Ben Zhang
+   </artist>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    5
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <race>
+    Beast
+   </race>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRM_010t
+   </id>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화염의 드루이드
+   </name>
+   <artist>
+    Stanley Lau
+   </artist>
+   <text>
+    &lt;b&gt;선택&lt;/b&gt; - 5/2 또는 2/5 하수인으로 변신합니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    3
+   </cost>
+   <health>
+    2
+   </health>
+   <id>
+    BRM_010
+   </id>
+   <flavor>
+    노스렌드에서 너무 오랜 시간을 보낸 드루이드들은 라그나로스가 제공하는 핫초코의 유혹을 차마 뿌리치지 못했습니다.
+   </flavor>
+   <howtoget>
+    화산 심장부의 가르를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    화산 심장부의 가르를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Druid
+   </playerclass>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    화염의 피조물
+   </name>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 피해를 6 줍니다.
+   </text>
+   <attack>
+    6
+   </attack>
+   <cost>
+    0
+   </cost>
+   <health>
+    3
+   </health>
+   <type>
+    Minion
+   </type>
+   <id>
+    BRMA13_5
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    황혼의 새끼용
+   </name>
+   <artist>
+    Sam Nielson
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 만약 내 손에 용족 하수인이 있으면 생명력을 +2 얻습니다.
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <attack>
+    2
+   </attack>
+   <cost>
+    1
+   </cost>
+   <health>
+    1
+   </health>
+   <race>
+    Dragon
+   </race>
+   <id>
+    BRM_004
+   </id>
+   <flavor>
+    한창 귀엽고 발랄할 나이에 "황혼"이라는 수식어가 붙는 걸 이 친구들도 그리 달가워하진 않습니다.
+   </flavor>
+   <howtoget>
+    검은바위 산의 사제 직업 도전 과제를 완료하여 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 산의 사제 직업 도전 과제를 완료한 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Priest
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    생명력 증가
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRM_004e
+   </id>
+   <name>
+    황혼의 지구력
+   </name>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     Battlecry
+    </item>
+   </mechanics>
+   <collectible>
+    True
+   </collectible>
+   <set>
+    Blackrock Mountain
+   </set>
+   <name>
+    흉포한 심장부 사냥개
+   </name>
+   <artist>
+    Jomaro Kindred
+   </artist>
+   <text>
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 만약 내 손에 카드가 없으면 +3/+3을 얻습니다.
+   </text>
+   <rarity>
+    Rare
+   </rarity>
+   <attack>
+    4
+   </attack>
+   <cost>
+    4
+   </cost>
+   <health>
+    4
+   </health>
+   <race>
+    Beast
+   </race>
+   <id>
+    BRM_014
+   </id>
+   <flavor>
+    이 괴물을 길들여서 집에 데려가 꼭 껴안고 자겠다는 허황된 꿈을 품고 불타는 용암 구덩이에 들어갔다가 목숨을 잃은 사냥꾼이 여럿입니다.
+   </flavor>
+   <howtoget>
+    검은바위 첨탑의 대영주 오모크를 쓰러뜨려 잠금 해제
+   </howtoget>
+   <type>
+    Minion
+   </type>
+   <howtogetgold>
+    검은바위 첨탑의 대영주 오모크를 쓰러뜨린 후 제작 가능
+   </howtogetgold>
+   <playerclass>
+    Hunter
+   </playerclass>
+  </item>
+  <item>
+   <text>
+    +2/+2
+   </text>
+   <set>
+    Blackrock Mountain
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    BRMA15_2He
+   </id>
+   <name>
+    힘의 물약
+   </name>
+  </item>
+ </blackrock_mountain>
  <basic>
   <item>
    <collectible>
@@ -21631,7 +27248,7 @@
     Michael Komarck
    </artist>
    <text>
-    상대편 손에 있는 카드 1장을 무작위로 복사하여 내 손으로 가져옵니다.
+    상대편 손에 있는 카드 중 무작위로 선택된 카드 1장을 복사하여 내 손으로 가져옵니다.
    </text>
    <faction>
     Neutral
@@ -23837,7 +29454,7 @@
     Neutral
    </faction>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 카드를 1장 버립니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 카드 1장을 버립니다.
    </text>
    <artist>
     Matt Dixon
@@ -24616,7 +30233,7 @@
     Neutral
    </faction>
    <text>
-    적 캐릭터들에게 $3의 피해를 무작위로 나누어 입힙니다.
+    모든 적에게 $3의 피해를 무작위로 나누어 입힙니다.
    </text>
    <artist>
     Warren Mahy
@@ -25191,7 +30808,7 @@
     Wei Wang
    </artist>
    <text>
-    무작위 동료 야수를 1마리 소환합니다.
+    무작위로 선택된 동료 야수 1마리를 소환합니다.
    </text>
    <rarity>
     Common
@@ -25788,7 +31405,7 @@
     Raymond Swanland
    </artist>
    <text>
-    피해를 $4 줍니다. 무작위로 카드를 1장 버립니다.
+    피해를 $4 줍니다. 무작위로 선택된 카드 1장을 버립니다.
    </text>
    <faction>
     Neutral
@@ -26257,7 +31874,7 @@
     Benjamin Zhang
    </artist>
    <text>
-    무작위 적 하수인 둘에게 피해를 $3 줍니다.
+    무작위로 선택된 적 하수인 둘에게 피해를 $3 줍니다.
    </text>
    <faction>
     Neutral
@@ -26541,7 +32158,7 @@
     Sean O’Daniels
    </artist>
    <text>
-    적 하수인 하나를 우리편으로 만듭니다.
+    적 하수인 하나를 내 편으로 만듭니다.
    </text>
    <faction>
     Neutral
@@ -27267,7 +32884,7 @@
    </faction>
    <text>
     &lt;b&gt;영웅 능력&lt;/b&gt;
-무작위 토템을 1개 소환합니다.
+무작위로 선택된 토템 하나를 소환합니다.
    </text>
    <rarity>
     Free
@@ -28075,7 +33692,7 @@
     Phroilan Gardner
    </artist>
    <text>
-    무작위 적 하수인 둘에게 피해를 $2 줍니다.
+    무작위로 선택된 적 하수인 둘에게 피해를 $2 줍니다.
    </text>
    <faction>
     Neutral
@@ -28263,17 +33880,22 @@
    <set>
     Debug
    </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
    <type>
     Spell
    </type>
    <id>
-    XXX_028
+    XXX_030
    </id>
-   <name>
-   </name>
-   <rarity>
-    Common
-   </rarity>
   </item>
   <item>
    <mechanics>
@@ -28864,6 +34486,40 @@
    </name>
   </item>
   <item>
+   <set>
+    Debug
+   </set>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_028
+   </id>
+   <name>
+   </name>
+   <rarity>
+    Common
+   </rarity>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_029
+   </id>
+  </item>
+  <item>
    <mechanics>
     <item>
      ImmuneToSpellpower
@@ -28887,45 +34543,6 @@
    </type>
    <id>
     XXX_002
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_029
-   </id>
-  </item>
-  <item>
-   <set>
-    Debug
-   </set>
-   <name>
-   </name>
-   <text>
-   </text>
-   <rarity>
-    Common
-   </rarity>
-   <cost>
-    0
-   </cost>
-   <type>
-    Spell
-   </type>
-   <id>
-    XXX_030
    </id>
   </item>
   <item>
@@ -29347,6 +34964,83 @@
    </name>
    <text>
    </text>
+   <rarity>
+    Common
+   </rarity>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_058
+   </id>
+  </item>
+  <item>
+   <text>
+   </text>
+   <set>
+    Debug
+   </set>
+   <type>
+    Enchantment
+   </type>
+   <id>
+    XXX_058e
+   </id>
+   <name>
+   </name>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_059
+   </id>
+  </item>
+  <item>
+   <mechanics>
+    <item>
+     ImmuneToSpellpower
+    </item>
+   </mechanics>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
+   <cost>
+    0
+   </cost>
+   <type>
+    Spell
+   </type>
+   <id>
+    XXX_060
+   </id>
+  </item>
+  <item>
+   <set>
+    Debug
+   </set>
+   <name>
+   </name>
+   <text>
+   </text>
    <attack>
     1
    </attack>
@@ -29508,7 +35202,7 @@
     Alliance
    </faction>
    <text>
-    내 턴이 끝날 때, 무작위 하수인 하나에게 +1/+1을 부여합니다.
+    내 턴이 끝날 때, 무작위로 선택된 하수인 하나에게 +1/+1을 부여합니다.
    </text>
    <rarity>
     Common
@@ -29614,7 +35308,7 @@
     Alliance
    </faction>
    <text>
-    내 턴이 시작될 때, 무작위 하수인 하나를 1/1 닭으로 변신시킵니다.
+    내 턴이 시작될 때, 무작위로 선택된 하수인 하나를  1/1 닭으로 변신시킵니다.
    </text>
    <rarity>
     Common
@@ -29888,7 +35582,7 @@
     호드의 힘
    </name>
    <text>
-    무작위 호드 전사 하나를 소환합니다.
+    무작위로 선택된 호드 전사 하나를 소환합니다.
    </text>
    <cost>
     4
@@ -29981,7 +35675,7 @@
     Daren Bader
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 덱에 있는 무작위 해적 카드 1장을 내 손으로 가져옵니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 내 덱에서 무작위로 선택된 해적 카드 1장을 내 손으로 가져옵니다.
    </text>
    <rarity>
     Epic
@@ -30112,7 +35806,7 @@
     Luke Mancini
    </artist>
    <text>
-    1 마나 주문을 시전할 때마다, 무작위 기계 하수인 하나를 내 손으로 가져옵니다.
+    마나 1짜리 주문을 시전할 때마다, 무작위로 선택된 기계 하수인 하나를 내 손으로 가져옵니다.
    </text>
    <rarity>
     Legendary
@@ -30432,7 +36126,7 @@
     2
    </durability>
    <text>
-    &lt;b&gt;죽음의 메아리&lt;/b&gt;: 무작위 아군 기계 하수인 하나에게 +2/+2를 부여합니다.
+    &lt;b&gt;죽음의 메아리&lt;/b&gt;: 무작위로 선택된 아군 기계 하수인 하나에게 +2/+2를 부여합니다.
    </text>
    <artist>
     Zoltan and Gabor
@@ -30723,7 +36417,7 @@
     고블린 공병
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     상대편의 손에 카드가 6장 이상 있으면 공격력을 +4 갖습니다.
@@ -30894,7 +36588,7 @@
     Mech
    </race>
    <flavor>
-    어떤 로봇의 고철은 다른 로봇을 멋지게 업그레이드하는데 쓰입니다!
+    어떤 로봇의 고철은 다른 로봇을 멋지게 업그레이드하는 데 쓰입니다!
    </flavor>
    <type>
     Minion
@@ -31083,7 +36777,7 @@
     Dan Scott
    </artist>
    <text>
-    캐릭터가 치유될 때마다, 무작위 적 하나에게 피해를 1 줍니다.
+    캐릭터가 치유될 때마다, 무작위로 선택된 적 하나에게 피해를 1 줍니다.
    </text>
    <rarity>
     Rare
@@ -31507,7 +37201,7 @@
     깡통나사 고물로봇
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;전투의 함성&lt;/b&gt;: 아군 기계 하수인 하나에게 +2/+2를 부여합니다.
@@ -31705,7 +37399,7 @@
     Andrew Hou
    </artist>
    <text>
-    무작위 하수인 하나에게 피해를 $1 줍니다. 하수인 하나가 죽을 때까지 반복됩니다.
+    무작위로 선택된 하수인 하나에게 피해를 $1 줍니다. 하수인 하나가 죽을 때까지 반복됩니다.
    </text>
    <rarity>
     Epic
@@ -31759,7 +37453,7 @@
     낡은 치유로봇
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;전투의 함성:&lt;/b&gt; 내 영웅이 생명력을 8 회복합니다.
@@ -31808,7 +37502,7 @@
     Ruan Jia
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위 멀록 4마리를 내 손으로 가져옵니다. &lt;b&gt;과부하: (3)&lt;/b&gt;
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 멀록 4마리를 내 손으로 가져옵니다. &lt;b&gt;과부하:&lt;/b&gt; (3)
    </text>
    <rarity>
     Legendary
@@ -31892,7 +37586,7 @@
     노움 실험가
    </name>
    <artist>
-    Jesper Esjing
+    Jesper Ejsing
    </artist>
    <text>
     &lt;b&gt;전투의 함성:&lt;/b&gt; 카드를 1장 뽑습니다. 뽑은 카드가 하수인이면 닭으로 변신시킵니다.
@@ -32054,7 +37748,7 @@
     Dan Scott
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 비용이 2인 무작위 하수인을 하나 소환합니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 비용 2짜리 하수인 하나를 소환합니다.
    </text>
    <rarity>
     Common
@@ -32100,7 +37794,7 @@
     Michael Phillippi
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 비용이 4인 무작위 하수인을 하나 소환합니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 비용 4짜리 하수인 하나를 소환합니다.
    </text>
    <rarity>
     Epic
@@ -32310,7 +38004,7 @@
     Den
    </artist>
    <text>
-    내 무기에 공격력을 +3 부여합니다. &lt;b&gt;연계:&lt;/b&gt; 무작위 아군 하수인 하나에게 공격력을 +3 부여합니다.
+    내 무기에 공격력을 +3 부여합니다. &lt;b&gt;연계:&lt;/b&gt; 무작위로 선택된 아군 하수인 하나에게 공격력을 +3 부여합니다.
    </text>
    <rarity>
     Common
@@ -33410,7 +39104,7 @@
     Sean O&amp;apos;Daniels
    </artist>
    <text>
-    무작위 하수인 카드 1장을 내 손으로 가져옵니다. 그 카드의 비용이 (3) 감소합니다.
+    무작위로 선택된 하수인 카드 1장을 내 손으로 가져옵니다. 그 카드의 비용이 (3) 감소합니다.
    </text>
    <rarity>
     Rare
@@ -33496,7 +39190,7 @@
     Jomaro Kindred
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; &lt;b&gt;모든&lt;/b&gt; 플레이어가 무작위 무기를 하나씩 장착합니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 각 플레이어가 무작위로 선택된 무기를 하나씩 장착합니다.
    </text>
    <rarity>
     Legendary
@@ -33751,7 +39445,7 @@
     Dan Scott
    </artist>
    <text>
-    각 플레이어의 손에 있는 무작위 하수인 하나를 전장에 놓습니다.
+    각 플레이어의 손에서 무작위로 선택된 하수인을 하나씩 전장에 놓습니다.
    </text>
    <rarity>
     Epic
@@ -33929,7 +39623,7 @@
     2
    </durability>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위 아군 하수인 하나에게 공격력을 +1 부여합니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 아군 하수인 하나에게 공격력을 +1 부여합니다.
    </text>
    <artist>
     Gino Whitehall
@@ -34056,7 +39750,7 @@
     Christopher Moeller
    </artist>
    <text>
-    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위 전설 하수인을 하나 소환합니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 전설 하수인 하나를 소환합니다.
    </text>
    <rarity>
     Legendary
@@ -34889,7 +40583,7 @@
     Ben Olson
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 아군 하수인 하나를 같은 비용의 무작위 하수인으로 변신시킵니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 아군 하수인 하나를 무작위로 선택된 같은 비용의 하수인으로 변신시킵니다.
    </text>
    <rarity>
     Epic
@@ -35647,7 +41341,7 @@
     Skan Srisuwan
    </artist>
    <text>
-    각 플레이어의 턴이 시작될 때, 공격력을 +1 얻습니다.
+    각 플레이어의 턴이 시작될 때마다 공격력을 +1 얻습니다.
    </text>
    <rarity>
     Common
@@ -35781,7 +41475,7 @@
     Jakub Kasper
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 적에게 걸려 있는 무작위 &lt;b&gt;비밀&lt;/b&gt; 하나를 가져옵니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 적에게 걸려 있는 &lt;b&gt;비밀&lt;/b&gt; 중에 무작위로 선택된 하나를 가져옵니다.
    </text>
    <rarity>
     Rare
@@ -35952,10 +41646,10 @@
     3
    </durability>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위 아군 하수인 하나에게 &lt;b&gt;천상의 보호막&lt;/b&gt;과 &lt;b&gt;도발&lt;/b&gt;을 부여합니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 아군 하수인 하나에게 &lt;b&gt;천상의 보호막&lt;/b&gt;과 &lt;b&gt;도발&lt;/b&gt;을 부여합니다.
    </text>
    <artist>
-    Danny Orizio
+    Dany Orizio
    </artist>
    <rarity>
     Epic
@@ -36087,7 +41781,7 @@
     Dave Allsop
    </artist>
    <text>
-    무작위 적 하수인 하나를 처치합니다. &lt;b&gt;연계&lt;/b&gt;: 상대편의 무기를 파괴합니다.
+    무작위로 선택된 적 하수인 하나를 처치합니다. &lt;b&gt;연계&lt;/b&gt;: 상대편의 무기를 파괴합니다.
    </text>
    <rarity>
     Epic
@@ -36122,7 +41816,7 @@
     Warren Mahy
    </artist>
    <text>
-    피해를 $3-$6 줍니다. &lt;b&gt;과부하: (1)&lt;/b&gt;
+    피해를 $3-$6 줍니다. &lt;b&gt;과부하:&lt;/b&gt; (1)
    </text>
    <rarity>
     Common
@@ -36162,7 +41856,7 @@
     Luca Zontini
    </artist>
    <text>
-    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위 적 하수인 하나에게 피해를 4 줍니다.
+    &lt;b&gt;전투의 함성:&lt;/b&gt; 무작위로 선택된 적 하수인 하나에게 피해를 4 줍니다.
    </text>
    <rarity>
     Rare
@@ -36177,7 +41871,7 @@
     3
    </health>
    <flavor>
-    적어도 상대편과 우리편을 구분하지 못할 만큼 정신이 나가진 않은 것 같습니다.
+    적어도 상대 편과 우리 편을 구분하지 못할 만큼 정신이 나가진 않은 것 같습니다.
    </flavor>
    <type>
     Minion
@@ -36199,7 +41893,7 @@
     폭탄로봇
    </name>
    <text>
-    &lt;b&gt;죽음의 메아리&lt;/b&gt;: 무작위 적 하나에게 피해를 1-4 줍니다.
+    &lt;b&gt;죽음의 메아리:&lt;/b&gt; 무작위로 선택된 적 하나에게 피해를 1-4 줍니다.
    </text>
    <attack>
     1
@@ -36297,7 +41991,7 @@
     Warren Mahy
    </artist>
    <text>
-    해적을 소환할 때마다, 무작위 적 하나에게 피해를 2 줍니다.
+    해적을 소환할 때마다, 무작위로 선택된 적 하나에게 피해를 2 줍니다.
    </text>
    <rarity>
     Common
@@ -36381,7 +42075,7 @@
     Mauricio Herrera
    </artist>
    <text>
-    무작위 적 하수인 하나에게 피해를 $4 줍니다.
+    무작위로 선택된 적 하수인 하나에게 피해를 $4 줍니다.
    </text>
    <rarity>
     Common
